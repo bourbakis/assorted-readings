@@ -13,3 +13,6 @@
 remind me to see the ruanyf
 
 - @ruanyf
+
+# Export Windows configuration.
+- [ ] https://github.com/lukesampson/concfg

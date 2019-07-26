@@ -10,4 +10,18 @@
 
 - [Flattened list](https://coderwall.com/p/rcmaea/flatten-a-list-of-lists-in-one-line-in-python)
 
+# 0726
+
+## Github
+
+- [ ] https://github.com/chelh/VBASync
+- [ ] https://github.com/jlegrone/google-search-blacklist
+
+
+## others
+
+- [ ] [Bulk Modification of file extension](https://blog.csdn.net/efu0387/article/details/78266626)
+
+- [ ] https://github.com/google-aai/sc17
+
 
