@@ -130,3 +130,36 @@ github上的预处理过程是matlab程序，希望可以注释，教教我完�
 
 数据库链接：https://pan.baidu.com/s/1LNbmdmISJAuF3uIFnpnBrQ 
   提取码：4ao3
+
+- https://medium.com/@erdemalpkaya/run-kaggle-kernel-on-google-colab-1a71803460a9
+
+- https://discourse.julialang.org/t/julia-on-google-colab-free-gpu-accelerated-shareable-notebooks/15319
+
+# Differential Programming
+- https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
+- https://mc.ai/run-kaggle-kernel-on-google-colab/
+- https://stackoverflow.com/questions/54595285/how-to-use-r-with-google-colaboratory
+- https://medium.com/@dinaelhanan/an-absolute-beginners-guide-to-google-colaboratory-d55c0eb375de
+- https://towardsdatascience.com/google-colaboratory-simplifying-data-science-workflow-c70059386323
+- https://medium.com/@jamescchuang/%E5%9C%A8-google-colab-%E7%92%B0%E5%A2%83%E4%BD%BF%E7%94%A8%E5%85%8D%E8%B2%BB-gpu-%E9%96%8B%E7%99%BC-julia-d21e2e44bef4
+- https://mozanunal.com/2019/08/yoloColabDemo/
+- https://experiments.withgoogle.com/sketch-rnn-demo
+- https://qiita.com/hgoj/items/58ab831658a0118dc015
+- https://drive.google.com/file/d/1mMKGnVxirJnqDViH7BDJxFqWrsXlPSoK/view?usp=sharing
+- https://news.ycombinator.com/from?site=research.google.com
+- https://www.ft.com/content/b0d0acc9-e089-3f1f-b69b-9f75a084236c?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
+- https://github.com/evhub/minecraft-deep-learning
+- https://pykancha.github.io/test/2018/cs-phd-lessons.html
+- https://pykancha.github.io/test/2018/aq-india-map.html
+- https://pykancha.github.io/test/2018/map-electricity-access.html
+- https://pykancha.github.io/test/2018/academic.html
+- http://fastml.com/pybrain-a-simple-neural-networks-library-in-python/
+
+
+
+
+
+
+# Wallpaper
+- https://cn.bing.com/search?q=Ubud%2c+Bali&form=hpcapt&filters=HpDate%3a%2220190905_0700%22
+- https://cn.bing.com/search?q=vessel+hudson+yards+nyc&form=HPVSBS&filters=HpDate%3a%2220190904_0700%22
