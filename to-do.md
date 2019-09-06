@@ -312,7 +312,8 @@ https://www.dotnetperls.com/where-tensorflow
 
 https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 - https://www.geogebra.org/m/x39ys4d7
-
+- https://stackoverflow.com/questions/4823468/comments-in-markdown
+- https://www.armg.jp/
 
 
 # Issues from open soure project
