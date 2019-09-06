@@ -311,9 +311,17 @@ https://www.programcreek.com/python/example/90320/tensorflow.where
 https://www.dotnetperls.com/where-tensorflow
 
 https://www.labri.fr/perso/nrougier/from-python-to-numpy/
+- https://www.geogebra.org/m/x39ys4d7
+
+
 
 # Issues from open soure project
 
 - https://github.com/scikit-learn/scikit-learn/issues/14856
 - https://github.com/JuliaLang/julia/issues/33167
 - https://github.com/pandas-dev/pandas/issues/28238
+
+
+# News about economics and finance
+
+- https://www.ft.com/content/03debb94-d071-11e9-99a4-b5ded7a7fe3f?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
