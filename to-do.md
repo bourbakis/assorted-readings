@@ -16,7 +16,7 @@
 
 - [ ] https://github.com/chelh/VBASync
 - [ ] https://github.com/jlegrone/google-search-blacklist
-
+- [ ] https://github.com/scikit-optimize/scikit-optimize/blob/master/examples/ask-and-tell.ipynb
 
 ## others
 
@@ -324,4 +324,5 @@ https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 
 # News about economics and finance
 
-- https://www.ft.com/content/03debb94-d071-11e9-99a4-b5ded7a7fe3f?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
+- [ ] https://www.ft.com/content/03debb94-d071-11e9-99a4-b5ded7a7fe3f?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
+- [ ] [China biotech group shares slide over accusation of sales inflation](https://www.ft.com/content/4a84c71c-d07d-11e9-99a4-b5ded7a7fe3f?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push)
