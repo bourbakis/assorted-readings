@@ -195,12 +195,12 @@ github上的预处理过程是matlab程序，希望可以注释，教教我完�
 >  The zip() function take iterables (can be zero or more), makes iterator that aggregates elements based on the iterables passed, and returns an iterator of tuples. 
 
 
-	1.https://cn.bing.com/search?q=zip%28%29+function
-	1.https://stackoverflow.com/questions/4856717/javascript-equivalent-of-pythons-zip-function
-	1.https://stackoverflow.com/questions/43627405/understanding-getitem-method
-	1.https://docs.python.org/2.7/reference/datamodel.html#special-method-names
-	1.https://stackoverflow.com/questions/40255096/next-in-generators-and-iterators-and-what-is-a-method-wrapper
-	1.https://www.programiz.com/python-programming/generator
+	1. https://cn.bing.com/search?q=zip%28%29+function
+	1. https://stackoverflow.com/questions/4856717/javascript-equivalent-of-pythons-zip-function
+	1. https://stackoverflow.com/questions/43627405/understanding-getitem-method
+	1. https://docs.python.org/2.7/reference/datamodel.html#special-method-names
+	1. https://stackoverflow.com/questions/40255096/next-in-generators-and-iterators-and-what-is-a-method-wrapper
+	1. https://www.programiz.com/python-programming/generator
 	1.
 
 
