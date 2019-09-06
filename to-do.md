@@ -154,6 +154,19 @@ github上的预处理过程是matlab程序，希望可以注释，教教我完�
 - https://pykancha.github.io/test/2018/map-electricity-access.html
 - https://pykancha.github.io/test/2018/academic.html
 - http://fastml.com/pybrain-a-simple-neural-networks-library-in-python/
+- https://twitter.com/casseveritt
+- https://www.shadertoy.com/view/XdlfDl
+- https://mzucker.github.io/2018/04/12/sympy-part-3-moar-derivatives.html
+- https://mzucker.github.io/2018/04/12/sympy-part-3-moar-derivatives.html
+- https://mzucker.github.io/2018/05/14/maptrace.html
+- https://twitter.com/a_cowley
+- https://mzucker.github.io/2018/04/27/image-fitting-tensorflow-rewrite.html
+- https://github.com/mzucker/tf-imfit
+- https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Matrix_algebra
+- https://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm
+- https://github.com/casseveritt/projection/blob/ee0c792a748d6786ce6010d839f4f1f43e71184b/envmap.h#L197
+- https://twitter.com/matt_zucker/status/982327904871833601
+- https://www.ft.com/content/0800a74e-cfe2-11e9-99a4-b5ded7a7fe3f?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
 
 
 
@@ -163,3 +176,89 @@ github上的预处理过程是matlab程序，希望可以注释，教教我完�
 # Wallpaper
 - https://cn.bing.com/search?q=Ubud%2c+Bali&form=hpcapt&filters=HpDate%3a%2220190905_0700%22
 - https://cn.bing.com/search?q=vessel+hudson+yards+nyc&form=HPVSBS&filters=HpDate%3a%2220190904_0700%22
+
+
+
+# anki learning
+
+	1.https://www.programiz.com/python-programming/iterator
+	1.https://www.programiz.com/python-programming/operator-overloading
+
+> This feature in Python, that allows same operator to have different meaning according to the context is called operator overloading.
+
+> However, the good news is that we can teach this to Python through operator overloading. But first, let's get a notion about special functions.
+
+	1.https://www.w3schools.com/python/python_functions.asp
+> Information can be passed to functions as parameter.Parameters are specified after the function name, inside the parentheses.You can add as many parameters as you want, just separate them with a comma.The following example has a function with one parameter (fname).When the function is called, we pass along a first name,which is used inside the function to print the full name
+
+	1. https://www.programiz.com/python-programming/methods/built-in/zip
+>  The zip() function take iterables (can be zero or more), makes iterator that aggregates elements based on the iterables passed, and returns an iterator of tuples. 
+
+
+	1.https://cn.bing.com/search?q=zip%28%29+function
+	1.https://stackoverflow.com/questions/4856717/javascript-equivalent-of-pythons-zip-function
+	1.https://stackoverflow.com/questions/43627405/understanding-getitem-method
+	1.https://docs.python.org/2.7/reference/datamodel.html#special-method-names
+	1.https://stackoverflow.com/questions/40255096/next-in-generators-and-iterators-and-what-is-a-method-wrapper
+	1.https://www.programiz.com/python-programming/generator
+	1.
+
+
+
+M &= (X.sum(axis=-1) == n)
+*source*: https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md
+
+
+https://www.dotnetperls.com/where-tensorflow
+
+https://www.dotnetperls.com/constant-tensorflow
+
+https://docs.w3cub.com/tensorflow~python/tf/where/
+
+https://stackoverflow.com/questions/46923528/tf-where-doesnt-produce-result-same-as-np-where
+
+https://www.tensorflow.org/api_docs/python/tf/where
+
+https://docs.w3cub.com/tensorflow~python/tf/placeholder/
+
+https://databricks.com/tensorflow/placeholders
+
+https://www.tensorflow.org/versions/master/api_docs/python/array_ops.html#slicing-and-joining
+
+https://github.com/tensorflow/tensorflow/issues/3378
+
+https://www.quora.com/What-is-the-difference-between-Variables-and-Placeholders-in-tensor-flow
+
+https://medium.com/tensorflow/upgrading-your-code-to-tensorflow-2-0-f72c3a4d83b5
+
+https://gdcoder.com/tensorflow-2-0-in-5-minutes/
+
+https://github.com/tensorflow/tensorflow/issues/28512
+
+https://cn.bing.com/search?q=tensorflow+scalar+placeholder&FORM=QSRE8
+
+プレースホルダーはデータが格納される入れ物。データは未定のままグラフを構築し、具体的な値は実行する時に与える。
+https://note.nkmk.me/python-tensorflow-constant-variable-placeholder/
+
+
+https://note.nkmk.me/machine-learning/
+https://note.nkmk.me/python-tensorflow-mnist-softmax/
+https://note.nkmk.me/python-scikit-learn-svm-iris-dataset/
+https://note.nkmk.me/python-pandas-get-dummies/
+https://note.nkmk.me/python-sklearn-train-test-split/
+
+
+
+-1. While true, this misses the point. The more important difference is their role within TensorFlow. Variables are trained over time, placeholders are are input data that doesn't change as your model trains (like input images, and class labels for those images). Like Sung Kim's answer says, you use variables for weights and biases in your model (though not limited to that - for style transfer, you optimize an image over time). – Chris Anderson Dec 10 '16 at 18:27
+
+In short, you use tf.Variable for trainable variables such as weights (W) and biases (B) for your model.
+`tf.placeholder` is used to feed actual training examples.
+https://stackoverflow.com/questions/36693740/whats-the-difference-between-tf-placeholder-and-tf-variable
+
+
+
+
+# Interesting Links
+
+- https://mzucker.github.io/2016/09/20/noteshrink.html
+
