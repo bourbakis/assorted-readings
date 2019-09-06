@@ -247,6 +247,8 @@ https://note.nkmk.me/python-scikit-learn-svm-iris-dataset/
 https://note.nkmk.me/python-pandas-get-dummies/
 https://note.nkmk.me/python-sklearn-train-test-split/
 
+https://www.tensorflow.org/api_docs/python/tf/placeholder
+https://www.programiz.com/python-programming/methods/built-in/zip
 
 
 -1. While true, this misses the point. The more important difference is their role within TensorFlow. Variables are trained over time, placeholders are are input data that doesn't change as your model trains (like input images, and class labels for those images). Like Sung Kim's answer says, you use variables for weights and biases in your model (though not limited to that - for style transfer, you optimize an image over time). – Chris Anderson Dec 10 '16 at 18:27
@@ -261,4 +263,57 @@ https://stackoverflow.com/questions/36693740/whats-the-difference-between-tf-pla
 # Interesting Links
 
 - https://mzucker.github.io/2016/09/20/noteshrink.html
+
+
+# handle something
+http://blog.gleitzman.com/post/43330157197/howdoi-instant-coding-answers-via-the-command-line
+
+https://t.me/huochesiji
+
+https://t.me/joinchat/JdOmmxDOkOxhCHcHP1okwg
+
+https://t.me/joinchat/JJFJThUAfi2phwYNkEJ7_w
+
+https://www.youtube.com/watch?v=CVud1tDdps4
+
+https://nicodjimenez.github.io/2017/10/08/tensorflow.html
+
+http://tflearn.org/
+
+https://losswise.com/
+
+https://stackoverflow.com/questions/33810990/how-to-feed-a-placeholder
+
+https://stackoverflow.com/questions/39305174/what-does-x-tf-placeholdertf-float32-none-784-means
+
+https://www.tensorflow.org/versions/r0.10/tutorials/mnist/pros/index.html
+
+https://www.aiworkbox.com/lessons/create-a-tensorflow-placeholder-tensor
+
+https://towardsdatascience.com/understanding-fundamentals-of-tensorflow-program-and-why-it-is-necessary-94cf5b60e255
+
+https://www.math.purdue.edu/~nwinovic/slides/Getting_Started_with_TensorFlow_I.pdf
+
+https://www.geeksforgeeks.org/introduction-to-tensorflow/
+
+https://datascience.stackexchange.com/questions/33764/tensorflow-invalidargumenterror-you-must-feed-a-value-for-placeholder-tensor
+
+https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+
+https://web.stanford.edu/class/cs224s/
+
+https://www.dotnetperls.com/placeholder-tensorflow
+
+https://medium.com/python-experiments/bayesian-cnn-model-on-mnist-data-using-tensorflow-probability-compared-to-cnn-82d56a298f45
+
+https://www.programcreek.com/python/example/90320/tensorflow.where
+
+https://www.dotnetperls.com/where-tensorflow
+
+https://www.labri.fr/perso/nrougier/from-python-to-numpy/
+
+# Issues from open soure project
+
+- https://github.com/scikit-learn/scikit-learn/issues/14856
+- https://github.com/JuliaLang/julia/issues/33167
 
