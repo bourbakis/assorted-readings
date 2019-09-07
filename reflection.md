@@ -6,3 +6,14 @@ https://yagisanatode.com/2019/04/20/google-apps-script-send-bulk-emails-and-shar
 ### python
 > can add it to custom search engine for python or life-hacking
 https://yagisanatode.com/
+
+
+
+
+
+
+# 2019/09/07
+
+Bayes probablity,  bayes neural network learning
+
+Causual reasoning
