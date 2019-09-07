@@ -221,6 +221,9 @@ https://www.tensorflow.org/api_docs/python/tf/where
 
 https://docs.w3cub.com/tensorflow~python/tf/placeholder/
 
+
+
+
 https://databricks.com/tensorflow/placeholders
 
 https://www.tensorflow.org/versions/master/api_docs/python/array_ops.html#slicing-and-joining
@@ -327,3 +330,151 @@ https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 
 - [ ] https://www.ft.com/content/03debb94-d071-11e9-99a4-b5ded7a7fe3f?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
 - [ ] [China biotech group shares slide over accusation of sales inflation](https://www.ft.com/content/4a84c71c-d07d-11e9-99a4-b5ded7a7fe3f?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push)
+
+
+
+# Medium reading
+
+- https://levelup.gitconnected.com/how-to-use-background-script-to-fetch-data-in-chrome-extension-ef9d7f69625d
+- https://levelup.gitconnected.com/how-to-use-react-js-to-create-chrome-extension-in-5-minutes-2ddb11899815
+- https://developer.chrome.com/extensions/background_migration
+- 
+
+
+
+
+
+
+
+
+
+# Good Q&A
+- [Is a microservies architexture with RESTful APIs an implematation](https://www.quora.com/Is-a-microservices-architecture-with-RESTful-APIs-an-implementation-of-Alan-Kays-concept-of-object-oriented-programming)
+
+- https://www.quora.com/What-does-Alan-Kay-mean-when-he-said-OOP-to-me-means-only-messaging-local-retention-and-protection-and-hiding-of-state-process-and-extreme-late-binding-of-all-things-It-can-be-done-in-Smalltalk-and-in-LISP
+
+- 
+
+
+# Gensis Library
+- http://gen.lib.rus.ec/book/index.php?md5=1888EBCE8F1582CDD28E7668CE24C624
+- 
+
+
+
+chrome-extension://ocpclficanihhomiibpglblkmniocoll/index.html
+https://chrome.google.com/webstore/detail/export-tabs/odafagokkafdbbeojliiojjmimakacil?hl=en
+https://chrome.google.com/webstore/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk?hl=en
+https://chrome.google.com/webstore/detail/tab-snap/ajjloplcjllkammemhenacfjcccockde
+https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl
+https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRjD-gN41c1YZsxPYQgQP6pu1rZMQ%3A1567781021400&ei=nXByXYCKGKazmAW2x5GgBA&q=Export+the+URL+of+all+opened+tabs+to+text+chrome+extension&oq=Export+the+URL+of+all+opened+tabs+to+text+chrome+extension&gs_l=psy-ab.3...0.0..445...0.0..0.0.0.......0......gws-wiz.LdyQLaXTSd4&ved=0ahUKEwjAzPa2t7zkAhWmGaYKHbZjBEQQ4dUDCAs&uact=5#disable
+https://superuser.com/questions/tagged/google-chrome-extensions?tab=newest&pagesize=50
+https://superuser.com/questions/tagged/bookmarks?tab=newest&pagesize=50
+chrome-extension://micdllihgoppmejpecmkilggmaagfdmb/options.html
+chrome://extensions/shortcuts
+http://tabcopy.com/contribute/
+http://tabcopy.com/contribute/
+https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb/reviews
+
+
+## 9/6/2019
+
+- [ ] [Copy All Urls - Chrome Web Store](https://chrome.google.com/webstore/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk)
+
+- [ ] [Export Tabs - Chrome Web Store](https://chrome.google.com/webstore/detail/export-tabs/odafagokkafdbbeojliiojjmimakacil)
+
+- [ ] [Options | CopyAllURLs](chrome-extension://djdmadneanknadilpjiknlnanaolmbfk/options.html)
+
+- [ ] [Tab-Snap - Chrome Web Store](https://chrome.google.com/webstore/detail/tab-snap/ajjloplcjllkammemhenacfjcccockde)
+
+
+## 9/6/2019
+
+- [ ] [AzureML/getting_started.Rmd-original at master · RevolutionAnalytics/AzureML](https://github.com/RevolutionAnalytics/AzureML/blob/master/vignettes/getting_started.Rmd-original)
+
+- [ ] [cdr/code-server: Run VS Code on a remote server.](https://github.com/cdr/code-server)
+
+- [ ] [cdr/sshcode: Run VS Code on any server over SSH.](https://github.com/cdr/sshcode)
+
+- [ ] [fcwu/docker-ubuntu-vnc-desktop: Docker image to provide HTML5 VNC interface to access Ubuntu LXDE and LXQT desktop environment](https://github.com/fcwu/docker-ubuntu-vnc-desktop)
+
+- [ ] [fiunchinho/ansible-aws-elasticsearch-curator-module: Ansible module that executes ElasticSearch curator to remove old indices.](https://github.com/fiunchinho/ansible-aws-elasticsearch-curator-module)
+
+- [ ] [google/TensorNetwork: A library for easy and efficient manipulation of tensor networks.](https://github.com/google/TensorNetwork)
+
+- [ ] [graphics/debug_mode.md at master · tensorflow/graphics](https://github.com/tensorflow/graphics/blob/master/tensorflow_graphics/g3doc/debug_mode.md)
+
+- [ ] [hansifer/TabCopy: A browser extension for quickly copying tabs to the clipboard.](https://github.com/hansifer/TabCopy)
+
+- [ ] [matrix-une/trackerslist: Updated list of public BitTorrent trackers](https://github.com/matrix-une/trackerslist)
+
+- [ ] [morpheus65535/bazarr: Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.](https://github.com/morpheus65535/bazarr)
+
+- [ ] [picwell/pyboretum: Framework to explore and analyze custom decision trees in Python](https://github.com/picwell/pyboretum)
+
+- [ ] [Release TensorFlow 2.0.0-rc0 · tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/releases/tag/v2.0.0-rc0?linkId=72840227)
+
+- [ ] [Rhebel/DailyProgrammer](https://github.com/Rhebel/DailyProgrammer)
+
+- [ ] [TabCopy/background.js at master · Rhebel/TabCopy](https://github.com/Rhebel/TabCopy/blob/master/background.js)
+
+- [ ] [tdj28/tab-snap: Open-Source Chrome Extension for Exporting/Importing Open Tabs + Archiving in Various Formats and File Types](https://github.com/tdj28/tab-snap)
+
+
+## 9/6/2019
+
+- [ ] [For learning, refreshing, or just for fun!](https://www.reddit.com/r/dailyprogrammer/)
+
+- [ ] [3implieschaos](http://3implieschaos.org/)
+
+
+~
+
+~
+## 9/6/2019
+
+- [ ] [cxw42/TabFern: Google Chrome extension for saving and restoring sets of tabs, and for switching between windows and tabs from a vertical, grouped list.](https://github.com/cxw42/TabFern)
+
+- [ ] [yuguorui/chrome-tabs-outliner-crack](https://github.com/yuguorui/chrome-tabs-outliner-crack)
+
+- [ ] [kylemanna/docker-aosp: 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts](https://github.com/kylemanna/docker-aosp)
+
+- [ ] [Reset password | Docker](https://id.docker.com/reset-password/?service=43f17c5f-9ba4-4f13-853d-9d0074e349a7)
+
+- [ ] [yuguorui/neural-style-tf: TensorFlow (Python API) implementation of Neural Style](https://github.com/yuguorui/neural-style-tf)
+
+- [ ] [ChenglongChen/tensorflow-DeepFM: Tensorflow implementation of DeepFM for CTR prediction.](https://github.com/ChenglongChen/tensorflow-DeepFM)
+
+- [ ] [exodusintel/CVE-2019-5786: FileReader Exploit](https://github.com/exodusintel/CVE-2019-5786)
+
+- [ ] [ankitrohatgi/WebPlotDigitizer: HTML5 based online tool to extract numerical data from plot images.](https://github.com/ankitrohatgi/WebPlotDigitizer)
+
+- [ ] [ChanpleCai/SmartTaskbar: A Lightweight Windows Taskbar Enhancement Utility](https://github.com/ChanpleCai/SmartTaskbar)
+
+- [ ] [NickeManarin/ScreenToGif: 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.](https://github.com/NickeManarin/ScreenToGif)
+
+- [ ] [felixse/FluentTerminal: A Terminal Emulator based on UWP and web technologies.](https://github.com/felixse/FluentTerminal)
+
+- [ ] [wo52616111/capslock-plus](https://github.com/wo52616111/capslock-plus)
+
+- [ ] [snail007/goproxy: Proxy is a high performance HTTP (S), websocket,TCP, UDP,Secure DNS,Socks5 proxy server .Chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding ,ipv4 and ipv6 supporting .Proxy 是 golang 實現的高性能 http,https,websocket,tcp, 防污染 DNS,socks5 代理服務器，支持内網穿透，鏈式代理，通訊加密，智能 HTTP,SOCKS5 代理，前置 CDN, 域名黑白名單，跨平台，KCP 協議支持，支持 ipv4 和 ipv6, 集成外部 API。](https://github.com/snail007/goproxy)
+
+
+## 9/7/2019
+
+- [ ] [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
+
+- [ ] [Alexander Hamilton v. Satoshi Nakamoto Rap Battle - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/alexander-hamilton-v-satoshi-nakamoto-rap-battle.html)
+
+- [ ] [Florence fact of the day - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/florence-fact-of-the-day.html)
+
+- [ ] [Rebuilding the British right? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/rebuilding-the-british-right.html)
+
+- [ ] [The strange death of Tory economic thinking - Stian Westlake - Medium](https://medium.com/@stianstian/the-strange-death-of-tory-economic-thinking-2339433aed00)
+
+
+
+# Wallpaper
+
+- https://cn.bing.com/hpwp/9dcc19306ec442066962315c092046ab
