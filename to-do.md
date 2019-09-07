@@ -474,7 +474,104 @@ https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfd
 - [ ] [The strange death of Tory economic thinking - Stian Westlake - Medium](https://medium.com/@stianstian/the-strange-death-of-tory-economic-thinking-2339433aed00)
 
 
+## 9/7/2019
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [[办公]屏蔽qq弹窗广告等（更新） > AutoAHK](https://www.autoahk.com/archives/4156)
+
+- [ ] [屏蔽qq弹窗广告等 > AutoAHK](https://www.autoahk.com/archives/4042)
+
+- [ ] [Awesome Ruby](https://awesome-ruby.com/)
+
+- [ ] [Tracking Down a Freaky Python Memory Leak (Part 2)](https://benbernardblog.com/tracking-down-a-freaky-python-memory-leak-part-2/)
+
+- [ ] [General Tips for Web Scraping with Python | Big-Ish Data](https://bigishdata.com/2017/05/11/general-tips-for-web-scraping-with-python/)
+
+- [ ] [Web Scraping with Python — Part Two — Library overview of requests, urllib2, BeautifulSoup, lxml, Scrapy, and more! | Big-Ish Data](https://bigishdata.com/2017/06/06/web-scraping-with-python-part-two-library-overview-of-requests-urllib2-beautifulsoup-lxml-scrapy-and-more/)
+
+- [ ] [Installation — CasperJS 1.1.0-DEV documentation](http://docs.casperjs.org/en/latest/installation.html)
+
+- [ ] [Celery - Distributed Task Queue — Celery 4.3.0 documentation](http://docs.celeryproject.org/en/latest/)
+
+- [ ] [Chocolatey Gallery | Cygwin 3.0.7](https://chocolatey.org/packages/Cygwin)
+
+- [ ] [18处不同！Bing美版竟然比中文版更好玩_其它软件评测_太平洋电脑网PConline](https://pcedu.pconline.com.cn/pingce/pingceother/0906/1676246_all.html)
+
+- [ ] [nodejs with cygwin](http://wannabe.contropa.com/nodejs-with-cygwin/851/)
+
+- [ ] [Cygwin Installation](https://cygwin.com/install.html)
+
+- [ ] [Cygwin Packages](https://cygwin.com/packages/)
+
+- [ ] [Git and Github - must know commands to make your first commit - DEV Community 👩‍💻👨‍💻](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)
+
+- [ ] [Challenges while creating your own dataset - Part 1 (2018) - Deep Learning Course Forums](https://forums.fast.ai/t/challenges-while-creating-your-own-dataset/7384/4)
+
+- [ ] [How to scrape the web for images? - Part 1 (2018) - Deep Learning Course Forums](https://forums.fast.ai/t/how-to-scrape-the-web-for-images/7446/15)
+
+- [ ] [Push a new local branch to a remote Git repository and track it too - Guide - The freeCodeCamp Forum](https://www.freecodecamp.org/forum/t/push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too/13222)
+
+- [ ] [gearman [Gearman Job Server]](http://gearman.org/)
+
+- [ ] [git push - Publishing new local changes on a remote server](https://www.git-tower.com/learn/git/commands/git-push)
+
+- [ ] [Live Webinar - 17 Ways to Undo Mistakes with Git](https://www.git-tower.com/learn/git/webinar/undoing-things-with-git)
+
+- [ ] [Pushing commits to a remote repository - GitHub Help](https://help.github.com/en/articles/pushing-commits-to-a-remote-repository)
+
+- [ ] [SVG Crowbar](https://nytimes.github.io/svg-crowbar/)
+
+- [ ] [SVG Crowbar](https://nytimes.github.io/svg-crowbar/)
+
+- [ ] [Google Search Blocklist - Chrome Web Store](https://chrome.google.com/webstore/detail/google-search-blocklist/npjnaeilkcknagkmbapacpgjjajdeeeo)
+
+- [ ] [Tab Organizer - Chrome Web Store](https://chrome.google.com/webstore/detail/tab-organizer/kkcbifggchajpkagcpagenpfghbplghc)
+
+- [ ] [How to Install Node.js - How To Node - NodeJS](https://howtonode.org/how-to-install-nodejs)
+
+- [ ] [弹窗广告拦截器的设计与实现 by Eolande Hui on Prezi](https://prezi.com/rwlnx0hv1pbb/presentation/)
+
+- [ ] [How to create a deep learning dataset using Google Images - PyImageSearch](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)
+
+- [ ] [RQ: Documentation Overview](http://python-rq.org/docs/)
+
+- [ ] [check50 — check50 documentation](https://cs50.readthedocs.io/projects/check50/en/latest/)
+
+- [ ] [Scrapinghub Learning Center](https://learn.scrapinghub.com/)
+
+- [ ] [弹出窗口拦截器对抗弹窗广告](https://www.slimbrowser.net/cn/popup-blocker.htm)
+
+- [ ] [Using nodejs with cygwin (v0.10.25) · soyuka.me](https://soyuka.me/using-nodejs-with-cygwin-v0-10-25/)
+
+- [ ] [git - Download single files from GitHub - Stack Overflow](https://stackoverflow.com/questions/4604663/download-single-files-from-github)
+
+- [ ] [How do I push a local Git branch to master branch in the remote? - Stack Overflow](https://stackoverflow.com/questions/5423517/how-do-i-push-a-local-git-branch-to-master-branch-in-the-remote)
+
+- [ ] [javascript - Save SVG with PhantomJS - Stack Overflow](https://stackoverflow.com/questions/39678439/save-svg-with-phantomjs)
+
+- [ ] [Node.js Cygwin not supported - Stack Overflow](https://stackoverflow.com/questions/10043177/node-js-cygwin-not-supported)
+
+- [ ] [python - lxml parser eats all memory - Stack Overflow](https://stackoverflow.com/questions/5260261/lxml-parser-eats-all-memory)
+
+- [ ] [Hurricane Dorian floods island as it swipes North Carolina then heads north - The Hindu](https://www.thehindu.com/news/international/hurricane-dorian-floods-island-as-it-swipes-north-carolina-then-heads-north/article29359723.ece)
+
+- [ ] [Ask HN: What are best tools for web scraping? | Hacker News](https://news.ycombinator.com/item?id=15694118)
+
+- [ ] [I love requests+lxml, use it fairly regularly, just a few quick notes: 1. lxml ... | Hacker News](https://news.ycombinator.com/item?id=15539853)
+
+- [ ] [Show HN: Fast C-based HTML 5 parsing for Python | Hacker News](https://news.ycombinator.com/item?id=14588333)
+
+- [ ] [(34 封私信 / 80 条消息) 如何在使用bing的时候不用国内版? - 知乎](https://www.zhihu.com/question/26962652)
+
 
 # Wallpaper
 
 - https://cn.bing.com/hpwp/9dcc19306ec442066962315c092046ab
+
+
+
+# Reading and Expcert
+
+> The -g flag makes the casperjs executable available system-wide.
+http://docs.casperjs.org/en/latest/installation.html
