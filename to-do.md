@@ -830,4 +830,4 @@ http://docs.casperjs.org/en/latest/installation.html
 
 
 ## Telegram chanel to add
-https://t.me/boss_bamboo_118
+- [x] https://t.me/boss_bamboo_118
