@@ -831,3 +831,20 @@ http://docs.casperjs.org/en/latest/installation.html
 
 ## Telegram chanel to add
 - [x] https://t.me/boss_bamboo_118
+
+
+
+
+
+
+## YouTube Playlits
+
+https://www.youtube.com/playlist?list=PLMRrCNXyG4H-Sipimha0zBecGEo4XXd5z
+
+https://www.youtube.com/playlist?list=PLoiqv3YdQVW6Op71pW5eCfPjR4hvVipSQ
+
+http://www.youtube.com/playlist?list=PLEK36Lo5sNhxVXhdYlze1h04m1tFlRG5-
+
+http://www.youtube.com/playlist?list=PLEK36Lo5sNhxT-NUC3yzrvp5_XcKKVM8q
+
+http://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH
