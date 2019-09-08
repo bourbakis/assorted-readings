@@ -1120,3 +1120,13 @@ http://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH
 - [ ] [YouTube](https://www.youtube.com/watch?v=EfUtlm0hjkU)
 
 - [ ] [YouTube](https://www.youtube.com/watch?v=NlcGRetK_so)
+
+
+
+
+
+# Deep Learning
+
+## 9/8/2019
+
+- [ ] [Train/Dev/Test Sets (C2W1L01) - YouTube](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
