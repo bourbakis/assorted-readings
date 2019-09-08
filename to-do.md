@@ -388,6 +388,92 @@ https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 
 
 
+
+
+
+
+# Github 
+
+## 9/8/2019
+
+- [ ] [343max (Max von Webel)](https://github.com/343max)
+
+- [ ] [343max (Max von Webel)](https://github.com/343max)
+
+- [ ] [343max (Max von Webel) / Following](https://github.com/343max?tab=following)
+
+- [ ] [343max/ImageFiller: quickly fills your iPhones Photo Album with thousands of random images from lorempixel.com](https://github.com/343max/ImageFiller)
+
+- [ ] [aws/aws-sdk-go: AWS SDK for the Go programming language.](https://github.com/aws/aws-sdk-go)
+
+- [ ] [benedictchen/django-shopping-cart: A shopping cart implemented in Django.](https://github.com/benedictchen/django-shopping-cart)
+
+- [ ] [HorayNarea (Thomas Sänger)](https://github.com/HorayNarea)
+
+- [ ] [Netflix-Skunkworks/Scumblr: Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results](https://github.com/Netflix-Skunkworks/Scumblr)
+
+- [ ] [panicsteve (Steven Frank)](https://github.com/panicsteve)
+
+- [ ] [panicsteve/blogging-with-bear: a set of scripts for exporting notes from Bear to a web server](https://github.com/panicsteve/blogging-with-bear)
+
+- [ ] [panicsteve/w2wiki: A web-based, wiki-like notepad that you host yourself](https://github.com/panicsteve/w2wiki)
+
+- [ ] [panicsteve/shutup-css: CSS stylesheet to hide comments on web pages](https://github.com/panicsteve/shutup-css)
+
+- [ ] [panicsteve/webdesktop: Overlay a web page on your Mac desktop](https://github.com/panicsteve/webdesktop)
+
+- [ ] [PyCon/2014-slides: Slides from PyCon 2014](https://github.com/PyCon/2014-slides)
+
+- [ ] [qrohlf (Quinn Rohlf) / Following](https://github.com/qrohlf?tab=following)
+
+- [ ] [qrohlf (Quinn Rohlf) / Repositories](https://github.com/qrohlf?tab=repositories)
+
+- [ ] [qrohlf (Quinn Rohlf) / Starred](https://github.com/qrohlf?tab=stars)
+
+- [ ] [qrohlf/GifHub: Add support for gifv/webm/mp4 to discussions on github.com](https://github.com/qrohlf/GifHub)
+
+- [ ] [TabHibernation/screenshot1_chrome.png at develop · 343max/TabHibernation](https://github.com/343max/TabHibernation/blob/develop/material/screenshot1_chrome.png)
+
+- [ ] [qrohlf/trianglify: Algorithmically generated triangle art](https://github.com/qrohlf/trianglify)
+
+- [ ] [AllenDowney/BayesMadeSimple: Code for a tutorial on Bayesian Statistics by Allen Downey.](https://github.com/AllenDowney/BayesMadeSimple)
+- [ ] [bdesham/chrome-export: Python scripts to convert Google Chrome’s bookmarks and history to the standard HTML-ish bookmarks file format.](https://github.com/bdesham/chrome-export)
+
+- [ ] [mwichary/twitter-export-image-fill: A script to download (backup locally) all the images accompanying your tweets](https://github.com/mwichary/twitter-export-image-fill)
+
+- [ ] [mwichary/medium-export-image-fill: A script to download (backup locally) all the images accompanying your Medium stories](https://github.com/mwichary/medium-export-image-fill)
+
+- [ ] [iamstarkov/awesome-collective-twitters: A curated list of awesome collective twitters](https://github.com/iamstarkov/awesome-collective-twitters)
+
+- [ ] [jbranchaud/til: Today I Learned](https://github.com/jbranchaud/til)
+
+- [ ] [kent666a/py-chrome-bookmarks-markdown: python export chrome's bookmarks to markdown](https://github.com/kent666a/py-chrome-bookmarks-markdown)
+
+- [ ] [kirkelifson/chrome2markdown: gem that converts chrome bookmarks into markdown](https://github.com/kirkelifson/chrome2markdown)
+
+- [ ] [lubien/bookmarker: Export Google Chrome bookmarks into markdown files](https://github.com/lubien/bookmarker)
+
+- [ ] [mshang/python-elevator-challenge: So You Think You Can Program An Elevator](https://github.com/mshang/python-elevator-challenge)
+
+- [ ] [sindresorhus/refined-github: Browser extension that simplifies the GitHub interface and adds useful features](https://github.com/sindresorhus/refined-github)
+
+- [ ] [sindresorhus/refined-twitter-old: [DEPRECATED] Chrome extension that enforces the mobile web version of Twitter and improves its interface](https://github.com/sindresorhus/refined-twitter-old)
+
+- [ ] [sindresorhus/refined-twitter: Browser extension that simplifies the Twitter interface and adds useful features](https://github.com/sindresorhus/refined-twitter)
+
+- [ ] [so-fancy/diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs.](https://github.com/so-fancy/diff-so-fancy)
+
+- [ ] [StevenBlack/hosts: Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others. You can optionally invoke extensions to block additional sites by category.](https://github.com/StevenBlack/hosts)
+
+
+
+
+
+
+
+
+
+
 # Good Q&A
 - [Is a microservies architexture with RESTful APIs an implematation](https://www.quora.com/Is-a-microservices-architecture-with-RESTful-APIs-an-implementation-of-Alan-Kays-concept-of-object-oriented-programming)
 
@@ -467,12 +553,7 @@ https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfd
 - [ ] [For learning, refreshing, or just for fun!](https://www.reddit.com/r/dailyprogrammer/)
 
 - [ ] [3implieschaos](http://3implieschaos.org/)
-
-
 ~
-
-~
-## 9/6/2019
 
 - [ ] [cxw42/TabFern: Google Chrome extension for saving and restoring sets of tabs, and for switching between windows and tabs from a vertical, grouped list.](https://github.com/cxw42/TabFern)
 
@@ -512,9 +593,6 @@ https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfd
 - [ ] [Rebuilding the British right? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/rebuilding-the-british-right.html)
 
 - [ ] [The strange death of Tory economic thinking - Stian Westlake - Medium](https://medium.com/@stianstian/the-strange-death-of-tory-economic-thinking-2339433aed00)
-
-
-## 9/7/2019
 
 - [ ] [New Tab](chrome://newtab/)
 
@@ -604,8 +682,6 @@ https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfd
 
 - [ ] [(34 封私信 / 80 条消息) 如何在使用bing的时候不用国内版? - 知乎](https://www.zhihu.com/question/26962652)
 
-
-## 9/7/2019
 
 - [ ] [New Tab](chrome://newtab/)
 
@@ -737,8 +813,40 @@ https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfd
 
 - [ ] [Block all kinds of annoying pop-ups | No, thanks.](https://www.no-thanks-extension.com/)
 
+## 9/8/2019
+
+- [ ] [Enhancer for Netflix, Crunchyroll, etc - Chrome Web Store](https://chrome.google.com/webstore/detail/enhancer-for-netflix-crun/dbpjfmehfpcgmlpfnfilcnhbckmecmca)
+
+- [ ] [Enhancer for Netflix, Crunchyroll, etc - Chrome Web Store](https://chrome.google.com/webstore/detail/enhancer-for-netflix-crun/dbpjfmehfpcgmlpfnfilcnhbckmecmca)
+
+- [ ] [Enhancer for Netflix, Hulu, Crunchyroll, etc](https://simkl.com/apps/chrome/enhancer/goodbye/)
+
+- [ ] [Simple Auto Scroll - Chrome Web Store](https://chrome.google.com/webstore/detail/simple-auto-scroll/dccjkemhmffnljlnnoffljpkhkfpldff)
+
+- [ ] [Tab Hibernation - Chrome Web Store](https://chrome.google.com/webstore/detail/tab-hibernation/pbdpajcdgknpendpmecafmopknefafha)
 
 
+- [ ] [(35) Linux Distributions & Installation Methods - Linux Tutorial 2 - YouTube](https://www.youtube.com/watch?v=ybHxztXXE-4)
+
+- [ ] [(35) Why I'm ditching Ubuntu in favour of Linux Mint - Vlog - YouTube](https://www.youtube.com/watch?v=OYotwvVzBm4)
+
+- [ ] [A friendly introduction to Bayes Theorem and Hidden Markov Models - YouTube](https://www.youtube.com/watch?v=kqSzLo9fenk)
+
+- [ ] [How To Convert pdf to word without software - YouTube](https://www.youtube.com/watch?v=yoW2jHoVdug)
+
+- [ ] [(35) Shell Scripting Tutorial - YouTube](https://www.youtube.com/watch?v=hwrnmQumtPw)
+
+- [ ] [Python Tutorial for Absolute Beginners #1 - What Are Variables? - YouTube](https://www.youtube.com/watch?v=Z1Yd7upQsXY)
+
+- [ ] [Top 10 Best Netflix Original Movies to Watch Now! 2018 - YouTube](https://www.youtube.com/watch?v=XqDwTKVeUcI)
+
+- [ ] [Math & Variables in Python - Beginner Python Tutorial #1 - YouTube](https://www.youtube.com/watch?v=XM0CtrJYM2A)
+
+- [ ] [How to Dual-Boot Windows 10 and Linux Mint 18 - YouTube](https://www.youtube.com/watch?v=V1XqHFgpqxc)
+
+- [ ] [Command Line V/s GUI - Linux Tutorial - YouTube](https://www.youtube.com/watch?v=G0LsYZ7Kwh8)
+
+- [ ] [说说「支那人」：为什么台湾人比香港人的中华文化认同感更高？x 洋大人可不管是不是民主自由的脑子，人家看你是黄皮那你就是「支那人」x 日本只承认1949年以前中国存在「支那人」 - YouTube](https://www.youtube.com/watch?v=nby5O10rnF8)
 
 
 # Reading and Expcert
@@ -848,3 +956,167 @@ http://www.youtube.com/playlist?list=PLEK36Lo5sNhxVXhdYlze1h04m1tFlRG5-
 http://www.youtube.com/playlist?list=PLEK36Lo5sNhxT-NUC3yzrvp5_XcKKVM8q
 
 http://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH
+
+
+
+## YouTube 
+
+## 9/8/2019
+
+- [ ] [(1) Alteryx - YouTube](https://www.youtube.com/user/alteryx)
+
+- [ ] [(2) "Fear the Boom and Bust": Keynes vs. Hayek Rap Battle - YouTube](https://www.youtube.com/watch?v=d0nERTFo-Sk&feature=youtu.be)
+
+- [ ] [(32) Allen Downey: Bayesian statistics made simple - PyCon 2014 - YouTube](https://www.youtube.com/watch?v=z_sIDLVisvA)
+
+- [ ] [(35) How SSL works tutorial - with HTTPS example - YouTube](https://www.youtube.com/watch?v=iQsKdtjwtYI)
+
+- [ ] [(35) 林郑月娥打脸胡锡进：苦情牌？x 中共不会干涉香港反送中游行：无日程无死线 x 废青の绝望：国庆期间我们要搞个大新闻 - YouTube](https://www.youtube.com/watch?v=vAmWIoPpE9I)
+
+- [ ] [(35) 獨!郭台銘中秋宣戰?拒見吳敦義?!韓國瑜.柯文哲管不住嘴巴!選情拉警報?!習近平、林鄭月娥拉抬蔡英文民調!【年代向錢看】20190906 - YouTube](https://www.youtube.com/watch?v=7hbOG61J-qk)
+
+- [ ] [30 Things to do After Installing Ubuntu 18.04 LTS (all-in-one video) - YouTube](https://www.youtube.com/watch?v=BLVtxpm5c2A)
+
+- [ ] [Assembly Language Tutorial - YouTube](https://www.youtube.com/watch?v=ViNnfoE56V8)
+
+- [ ] [Bayes' Theorem - Explained Like You're Five - YouTube](https://www.youtube.com/watch?v=2Df1sDAyRvQ)
+
+- [ ] [Bayesian vs frequentist statistics - YouTube](https://www.youtube.com/watch?v=r76oDIvwETI)
+
+- [ ] [Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping) - YouTube](https://www.youtube.com/watch?v=GB9ByFAIAH4)
+
+- [ ] [Fix the YouTube Comments Section With This Browser Addon - App Pick - YouTube](https://www.youtube.com/watch?v=HP9In-8VQIo)
+
+- [ ] [Google Chrome: How to Hide YouTube Comments - YouTube](https://www.youtube.com/watch?v=1LGsf3Xq9II)
+
+- [ ] [How to create a bootable USB Drive - YouTube](https://www.youtube.com/watch?v=TqTtt7ljUWQ)
+
+- [ ] [How to download & install Ubuntu WITHOUT losing Windows 10 or your personal files - YouTube](https://www.youtube.com/watch?v=x1ykDpSzpKU)
+
+- [ ] [How to Install & Configure printer, Network Printer - YouTube](https://www.youtube.com/watch?v=PzRXF6qGrGQ)
+
+- [ ] [IDM下载种子磁力文件 - YouTube](https://www.youtube.com/watch?v=cLSLuHu1p50)
+
+- [ ] [Install OS X Mavericks on OLD Mac Pro - YouTube](https://www.youtube.com/watch?v=eF05shc-e2E)
+
+- [ ] [Just Bought A Raspberry Pi? 11 Things You Need To Know - YouTube](https://www.youtube.com/watch?v=vw2nTpLFof8)
+
+- [ ] [Linux Tutorial for Beginners: Introduction to Linux Operating System - YouTube](https://www.youtube.com/watch?v=V1y-mbWM3B8)
+
+- [ ] [Luke Sneeringer: Introduction to Regular Expressions - PyCon 2014 - YouTube](https://www.youtube.com/watch?v=jKfkLVDAwRQ)
+
+- [ ] [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+
+- [ ] [Thomas Ballinger - Terminal whispering - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=WAitSilLDUA)
+
+- [ ] [Why Should you Learn Python? - Simple Installation & Setup for Windows, Mac, & Linux! - YouTube](https://www.youtube.com/watch?v=RJL6Y761TNE)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=se5PS2AjKY0)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=d-nxFHYsxN0)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=MSVV_EoApdo)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=7hbOG61J-qk)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=TqTtt7ljUWQ)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=fwWCw_cE5aI)
+
+- [ ] [Visual Basic Tutorial 2017 - YouTube](https://www.youtube.com/watch?v=3FkWddODLno)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=ek9jwRA2Jio)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=4ht22ReBjno)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=rPRjKZeIY9M&t=19s)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=dXCPVRYs1Wc)
+
+- [ ] [中共在香港的那些叛徒和内奸们…聊聊中联办在香港的被渗透情况。许家屯和蔡小洪这种内奸是如何背叛中国的？ - YouTube](https://www.youtube.com/watch?v=rC_vmVcC-2I&t=198s)
+
+- [ ] [如何看待前中共人大教授周孝正移民美国后的言论差异？ x 大骂小帮忙，在什么山头唱什么歌 x 政论水平和粉丝量成正比？那陈破空和郭文贵政论水平就比stone高多了 - YouTube](https://www.youtube.com/watch?v=R83p7O0eoFc)
+
+- [ ] [小白向黑苹果macos安装教程 - YouTube](https://www.youtube.com/watch?v=jXYwMDqZdZI)
+
+- [ ] [精彩片段》明居正：中共想分割這些人...【年代向錢看】190905 - YouTube](https://www.youtube.com/watch?v=loHRCvWJLDE)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=AIrxbO-fhT0)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=iQI_WzpCpus)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=tImSCE9yaqQ)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=JVxN6mXOrEg)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=mletL-a56xE)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=RH89xQWet04)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=GgxJmlc_-Ro)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=hsL9UL9qbv8)
+
+- [ ] [https://www.youtube.com/watch?v=ufXwQECnIjs](https://www.youtube.com/watch?v=ufXwQECnIjs)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=dDHErN3dOkc)
+
+- [ ] [YouTube](https://www.youtube.com/results?search_query=niels+bohr+atom)
+
+- [ ] [YouTube](https://www.youtube.com/results?search_query=one+more+heartache+marvin+gaye)
+
+- [ ] [YouTube](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=Z6rxFNMGdn0&feature=youtu.be)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=urVUlKbQfQ4)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=oI-WaC8ICP0)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=HIXzJ3Rz9po)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=bl7n23JS3ms)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=0Z1pR3cehHQ)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=PbDcLHE5Zwk)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=sK2biNYNEjw)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=rPRjKZeIY9M&t=19s)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=7zz1tuohVtI)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=WTB5Ur73sec)
+
+- [ ] [YouTube](https://www.youtube.com/channel/UCsK-77GirO3K9IOoaBQlA0w/featured?sub_confirmation=1)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=drYM04t57tU&linkId=67441321)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=IOd5ZAbn-Ao)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=hL431xed2OY)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=MIkod71Ane0)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=vzn2LmhdNOE)
+
+- [ ] [YouTube](https://www.youtube.com/)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=mzPBVqQNg7s)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=oHN5PKRSzMY)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=wBOM6FB6BCc)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=9HLcpvCDqgs)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=hC9g9pTPRUQ)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=bT1h9vPIduA)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=s7Ptvk6IDSk)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=EfUtlm0hjkU)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=NlcGRetK_so)
