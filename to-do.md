@@ -467,7 +467,45 @@ https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 
 
 
+## 9/9/2019
 
+- [ ] [...](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=FezVrasta%2Fbootstrap-material-design%3A%20Material%20design%20theme%20for%20Bootstrap%203%20and%204&pos=1979&uri=https://github.com/FezVrasta/bootstrap-material-design)
+
+- [ ] [...](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=jumper2014%2Flianjia-beike-spider%3A%20%E9%93%BE%E5%AE%B6%E7%BD%91%E5%92%8C%E8%B4%9D%E5%A3%B3%E7%BD%91%E6%88%BF%E4%BB%B7%E7%88%AC%E8%99%AB%EF%BC%8C%E9%87%87%E9%9B%86%E5%8C%97%E4%BA%AC%E4%B8%8A%E6%B5%B7%E5%B9%BF%E5%B7%9E%E6%B7%B1%E5%9C%B3%E7%AD%8921%E4%B8%AA%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A6%81%E5%9F%8E%E5%B8%82%E7%9A%84%E6%88%BF%E4%BB%B7%E6%95%B0%E6%8D%AE%EF%BC%88%E5%B0%8F%E5%8C%BA%EF%BC%8C%E4%BA%8C%E6%89%8B%E6%88%BF%EF%BC%8C%E5%87%BA%E7%A7%9F%E6%88%BF%EF%BC%8C%E6%96%B0%E6%88%BF%EF%BC%89%EF%BC%8C%E7%A8%B3%E5%AE%9A%E5%8F%AF%E9%9D%A0%E5%BF%AB%E9%80%9F%EF%BC%81%E6%94%AF%E6%8C%81csv%2CMySQL%2C%20MongoDB%2CExcel%2C%20json%E5%AD%98%E5%82%A8%EF%BC%8C%E6%94%AF%E6%8C%81Python2%E5%92%8C3%EF%BC%8C%E5%9B%BE%E8%A1%A8%E5%B1%95%E7%A4%BA%E6%95%B0%E6%8D%AE%EF%BC%8C%E6%B3%A8%E9%87%8A%E4%B8%B0%E5%AF%8C%20%F0%9F%9A%81%EF%BC%8C%E7%82%B9%E6%98%9F%E6%94%AF%E6%8C%81&pos=2407&uri=https://github.com/jumper2014/lianjia-beike-spider)
+
+- [ ] [magnet · GitHub Topics](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=magnet%20%C2%B7%20GitHub%20Topics&pos=0&uri=https://github.com/topics/magnet)
+
+- [ ] [opencv/cvat: Powerful and efficient Computer Vision Annotation Tool (CVAT)](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=opencv%2Fcvat%3A%20Powerful%20and%20efficient%20Computer%20Vision%20Annotation%20Tool%20(CVAT)&pos=0&uri=https://github.com/opencv/cvat)
+
+- [ ] [sindresorhus/refined-github: Browser extension that simplifies the GitHub interface and adds useful features](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=sindresorhus%2Frefined-github%3A%20Browser%20extension%20that%20simplifies%20the%20GitHub%20interface%20and%20adds%20useful%20features&pos=0&uri=https://github.com/sindresorhus/refined-github)
+
+- [ ] [syhyz1990/baiduyun: 🖖油猴脚本 一个脚本搞定百度网盘下载](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=syhyz1990%2Fbaiduyun%3A%20%F0%9F%96%96%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20%E4%B8%80%E4%B8%AA%E8%84%9A%E6%9C%AC%E6%90%9E%E5%AE%9A%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD&pos=0&uri=https://github.com/syhyz1990/baiduyun)
+
+- [ ] [youusername/magnetX: 资源搜索型软件 macOS OSX magnet](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=youusername%2FmagnetX%3A%20%E8%B5%84%E6%BA%90%E6%90%9C%E7%B4%A2%E5%9E%8B%E8%BD%AF%E4%BB%B6%20macOS%20OSX%20magnet&pos=0&uri=https://github.com/youusername/magnetX)
+
+- [ ] [b3log/baidu-netdisk-downloaderx: ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。](https://github.com/b3log/baidu-netdisk-downloaderx)
+
+- [ ] [bt · GitHub Topics](https://github.com/topics/bt)
+
+- [ ] [cupy/cupy: NumPy-like API accelerated with CUDA](https://github.com/cupy/cupy)
+
+- [ ] [dengyuhan (denghaha) / Starred](https://github.com/dengyuhan?after=Y3Vyc29yOnYyOpK5MjAxOS0wNS0yMVQxNDoyMjozNiswODowMM4KL_-Z&tab=stars)
+
+- [ ] [dengyuhan/AssetFile: 像File一样操作Assets资源 - https://blog.csdn.net/aa464971/article/details/82740299](https://github.com/dengyuhan/AssetFile)
+
+- [ ] [dengyuhan/github-tags: 给Github项目添加标签的Chrome插件，支持按标签搜索，支持数据云同步](https://github.com/dengyuhan/github-tags)
+
+- [ ] [dengyuhan/magnetw-mini: 磁力搜小程序版](https://github.com/dengyuhan/magnetw-mini)
+
+- [ ] [dengyuhan/magnetW: 磁力搜网页版 - 磁力链接聚合搜索 - https://bt.biedian.me](https://github.com/dengyuhan/magnetW)
+
+- [ ] [guyueyingmu/avbook: AV电影管理系统， avmoo , javbus , javlibrary 爬虫，线上AV影片图书馆，AV磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database](https://github.com/guyueyingmu/avbook)
+
+- [ ] [keplergl/kepler.gl: Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.](https://github.com/keplergl/kepler.gl)
+
+- [ ] [wangshub/Douyin-Bot: 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？](https://github.com/wangshub/Douyin-Bot)
+
+- [ ] [xunlei · GitHub Topics](https://github.com/topics/xunlei)
 
 
 
@@ -791,6 +829,99 @@ https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfd
 # Wallpaper
 
 - https://cn.bing.com/hpwp/9dcc19306ec442066962315c092046ab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 9/9/2019
+
+- [ ] [calao a bec jaune - Bing](https://www.bing.com/search?q=calao+a+bec+jaune&form=hpcapt&filters=HpDate%3a%2220190907_2200%22)
+
+- [ ] [Bing](https://www.bing.com/?toWww=1&redig=01349F41B68040DCA9E508EE57616EE2)
+
+- [ ] [YouTube](https://accounts.google.com/signin/v2/identifier?hl=en&uilel=0&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252F%26hl%3Den%26app%3Ddesktop%26action_handle_signin%3Dtrue&passive=false&service=youtube&flowName=GlifWebSignIn&flowEntry=AddSession)
+
+- [ ] [磁力搜 - 开源的磁力聚合搜索](https://biedian.me/search?source=BT4G&k=netflix%20crown&s=time&p=1)
+
+- [ ] [磁力搜 - 开源的磁力聚合搜索](https://biedian.me/)
+
+- [ ] [百度网盘直链下载助手 | 百度网盘直链下载助手](https://www.baiduyun.wiki/zh-cn/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Bing Maps - Directions%2C trip planning%2C traffic cameras %26 more&pos=0&uri=https://www.bing.com/maps?osid=5a0b17c4-88cd-45fc-9141-26d339b46056&cp=4.40778~-9.947974&lvl=3&style=h&imgid=c760974b-9896-4686-b0e7-8ac97dff16fc&v=2&sV=2&form=hpbal1](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Bing%20Maps%20-%20Directions%2C%20trip%20planning%2C%20traffic%20cameras%20%26%20more&pos=0&uri=https://www.bing.com/maps?osid=5a0b17c4-88cd-45fc-9141-26d339b46056&cp=4.40778~-9.947974&lvl=3&style=h&imgid=c760974b-9896-4686-b0e7-8ac97dff16fc&v=2&sV=2&form=hpbal1)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Calao à bec jaune — Wikipédia&pos=0&uri=https://fr.wikipedia.org/wiki/Calao_à_bec_jaune](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Calao%20%C3%A0%20bec%20jaune%20%E2%80%94%20Wikip%C3%A9dia&pos=0&uri=https://fr.wikipedia.org/wiki/Calao_%C3%A0_bec_jaune)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=How the Median Age of TV Viewers Differs Across Platforms - Marketing Charts&pos=0&uri=https://www.marketingcharts.com/television/tv-audiences-and-consumption-106649](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=How%20the%20Median%20Age%20of%20TV%20Viewers%20Differs%20Across%20Platforms%20-%20Marketing%20Charts&pos=0&uri=https://www.marketingcharts.com/television/tv-audiences-and-consumption-106649)
+
+- [ ] [Live Chat!](https://www.fastcompany.com/3028776/scribble-live-test-template)
+
+- [ ] [parc national kruger - Bing images](https://www.bing.com/images/search?q=parc+national+kruger&go=Search&qs=ds&form=QBIR)
+
+- [ ] [BND - 标签 - 黑客派](https://hacpai.com/tag/bnd)
+
+- [ ] [Bookmarks That Build Reading Skills](https://blog.heinemann.com/bookmarks-for-building-reading-skills)
+
+- [ ] [Iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)
+
+- [ ] [Drew Koszewnik：弥散性缓存Netflix Hollow-InfoQ](https://www.infoq.cn/article/2016/12/announcing-netflix-hollow)
+
+- [ ] [Netflix推出Hollow，处理内存数据集的Java库-InfoQ](https://www.infoq.cn/article/2017/02/netflix-introduces-hollow)
+
+- [ ] [kepler.gl](https://kepler.gl/)
+
+- [ ] [How Do You Manage Your Browser Tabs?](https://lifehacker.com/how-do-you-manage-your-browser-tabs-5628216?comment=28577316#comments)
+
+- [ ] [The young doctor- POLITICO Media](https://www.politico.com/media/story/2014/10/the-young-doctor-002918)
+
+- [ ] [The young doctor- POLITICO Media](https://www.politico.com/media/story/2014/10/the-young-doctor-002918)
+
+- [ ] [Relinquishing junk. Stage one, preparation. For this you will need one room which you will not leave. Soothing music. Tomato soup, ten tins of. Mushroom soup, eight tins of, for consumption cold. Ice cream, vanilla, one large tub of. Magnesia, milk of, one bottle. Paracetomal, mouthwash, vitamins. Mineral water, Lucozade, pornography. One mattress. One bucket for urine, one for feces and one for vomitus. One television and one bottle of Valium. Which I've already procured from my mother. Who is, in her own domestic and socially acceptable way also a drug addict. And now I'm ready. All I need is one final hit to soothe the pain while the Valium takes effect. - Trainspotting](http://quotegeek.com/quotes-from-movies/trainspotting/482/)
+
+- [ ] [Single-Tasking Is the New Multitasking - The Atlantic](https://www.theatlantic.com/video/index/373027/singletasking-is-the-new-multitasking/)
+
+- [ ] [Apple Music launches on the web - The Verge](https://www.theverge.com/2019/9/5/20851576/apple-music-web-player-interface-beta-browser-streaming)
+
+- [ ] [Reading Strategies Bookmarks - Where the Magic Happens](https://www.wherethemagichappensteaching.com/2018/08/types-of-small-groups-best-books.html)
+
+- [ ] [Commons:Wiki Loves Monuments 2019 in Canada - Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2019_in_Canada)
+
+- [ ] [Fully qualified domain name - Wikipedia](https://en.wikipedia.org/wiki/Fully_qualified_domain_name)
+
+- [ ] [Top-level domain - Wikipedia](https://en.wikipedia.org/wiki/Top-level_domain)
+
+- [ ] [https://en.wikipedia.org/wiki/DNS_root_zone](https://en.wikipedia.org/wiki/DNS_root_zone)
+
+- [ ] [File:Dns-raum.svg — Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dns-raum.svg?uselang=fr)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
