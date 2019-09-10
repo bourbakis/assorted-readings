@@ -11,3 +11,6 @@
 - [ ] [Library Genesis: bernhard Schipp, Walter Kramer - Statistical Inference, Econometric Analysis and Matrix Algebra](http://gen.lib.rus.ec/book/index.php?md5=DC859F5C00FA251C0D7FDA2E16AA1F5D)
 
 - [ ] [Library Genesis: Basilevsky, Alexander - Applied Matrix Algebra in the Statistical Sciences](http://gen.lib.rus.ec/book/index.php?md5=80D8213C455E5658690058E318866B28)
+
+
+- [ ] )[Judea Pearl's books](https://libgen.is/search.php?&req=Judea+Pearl&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
