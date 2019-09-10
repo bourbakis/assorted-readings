@@ -21,3 +21,15 @@ https://github.com/twitter-archive/kestrel
 mkaz/task: A simple command-line tool for your task list
 https://github.com/mkaz/task
 
+editor - Duplicate a whole line in Vim - Stack Overflow
+https://stackoverflow.com/questions/73319/duplicate-a-whole-line-in-vim
+
+Copy, cut and paste | Vim Tips Wiki | FANDOM powered by Wikia
+https://vim.fandom.com/wiki/Copy,_cut_and_paste
+
+vim copy and paste commands | alvinalexander.com
+https://alvinalexander.com/linux/vi-vim-copy-paste-command
+
+
+
+
