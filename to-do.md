@@ -508,6 +508,15 @@ https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 - [ ] [xunlei · GitHub Topics](https://github.com/topics/xunlei)
 
 
+## 09/10
+
+@所有人
+欢迎大家加入GeneralNewsExtractor(以下简称GNE)社区，这里是关于GNE使用和开发的交流群，若在使用GNE的过程中有任何疑问，请随时提出来。请勿在群里发不相关的广告信息，如果拿不准请私信群主。
+
+GNE目前是一个早期的Demo。请大家多试用，多提issue，多提PR。
+
+Github: https://github.com/kingname/GeneralNewsExtractor
+Q&A: https://github.com/kingname/GeneralNewsExtractor/wiki/GeneralNewsExtractor-Q&A
 
 
 
@@ -1251,6 +1260,34 @@ http://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH
 - [ ] [YouTube](https://www.youtube.com/watch?v=EfUtlm0hjkU)
 
 - [ ] [YouTube](https://www.youtube.com/watch?v=NlcGRetK_so)
+
+
+
+## 9/10/2019
+
+MattDMo/PythonImproved: The best Python language definition for Sublime Text - ever. Includes full support for Unicode, as well as both Python 2 and Python 3 syntax. Check out the Neon Color Scheme for highlighting.
+https://github.com/MattDMo/PythonImproved
+
+Problem loading page
+https://packagecontrol.io/packages/Python%20Improved
+
+haskell monad - 国际版 Bing
+https://cn.bing.com/search?q=haskell+monad
+
+A Gentle Introduction to Haskell: About Monads
+https://www.haskell.org/tutorial/monads.html
+
+Haskell - Monads - Tutorialspoint
+https://www.tutorialspoint.com/haskell/haskell_monads
+
+Functors, Applicative Functors and Monoids - Learn You a Haskell for Great Good!
+http://learnyouahaskell.com/functors-applicative-functors-and-monoids
+
+For a Few Monads More - Learn You a Haskell for Great Good!
+http://learnyouahaskell.com/for-a-few-monads-more
+
+Haskell/Understanding monads - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Haskell/Understanding_monads
 
 
 

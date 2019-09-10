@@ -14,3 +14,9 @@
 
 
 - [ ] )[Judea Pearl's books](https://libgen.is/search.php?&req=Judea+Pearl&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
+
+
+
+
+
+https://git.io/JeqDQ
