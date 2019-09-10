@@ -7,3 +7,8 @@
 
 
 - [ ] [Category Theory for the Java Programmer | reperiendi](https://reperiendi.wordpress.com/2007/11/03/category-theory-for-the-java-programmer/)
+
+
+
+
+http://www.learnyouahaskell.com/a-fistful-of-monad
