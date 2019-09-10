@@ -1293,6 +1293,167 @@ https://en.wikibooks.org/wiki/Haskell/Understanding_monads
 
 
 
+
+
+
+
+
+
+
+# 9/10/2019
+
+Problem loading page
+https://wiki.haskell.org/Monad
+
+shellcheck/README.md at master · koalaman/shellcheck
+https://github.com/koalaman/shellcheck/blob/master/README.md#user-content-gallery-of-bad-code
+
+WebCrawl/crawl.hs at master · eklitzke/WebCrawl
+https://github.com/eklitzke/WebCrawl/blob/master/crawl.hs
+
+Main Page - Gambit wiki
+http://gambitscheme.org/wiki/index.php/Main_Page
+
+Display line numbers | Vim Tips Wiki | FANDOM powered by Wikia
+https://vim.fandom.com/wiki/Display_line_numbers
+
+Problem loading page
+https://www.quora.com/How-can-I-configure-vim-for-Latex
+
+Problem loading page
+https://www.quora.com/What-is-the-best-Python-setup-with-vim
+
+Problem loading page
+https://medium.com/@hanspinckaers/setting-up-vim-as-an-ide-for-python-773722142d1d
+
+Problem loading page
+https://alvinalexander.com/linux-unix/vim-goto-line-number-go-to-vi
+
+10 Best Latex Editors You Should Use in 2019 | Beebom
+https://beebom.com/best-latex-editors/
+
+best configure for python vim - 国际版 Bing
+https://cn.bing.com/search?q=best+configure+for+python+vim&qs=n&form=QBRE&sp=-1&pq=best+configure+for+python+vim&sc=0-29&sk=&cvid=F59B416463884DD6BE40323AAED1A3C4
+
+set the vim has the number line - 国际版 Bing
+https://cn.bing.com/search?q=set+the+vim+has+the+number+line+
+
+MattDMo/PythonImproved: The best Python language definition for Sublime Text - ever. Includes full support for Unicode, as well as both Python 2 and Python 3 syntax. Check out the Neon Color Scheme for highlighting.
+https://github.com/MattDMo/PythonImproved
+
+Setup VIM for Python Development – Linux Hint
+https://linuxhint.com/vim-python-development/
+
+Problem loading page
+https://realpython.com/vim-and-python-a-match-made-in-heaven/
+
+Move cursor to end of file in vim - Stack Overflow
+https://stackoverflow.com/questions/17012308/move-cursor-to-end-of-file-in-vim
+
+What do these signs mean in Vim? - Stack Overflow
+https://stackoverflow.com/questions/2591277/what-do-these-signs-mean-in-vim
+
+html parsing - Web Scraping With Haskell - Stack Overflow
+https://stackoverflow.com/questions/4838138/web-scraping-with-haskell
+
+Setting up Vim for Python - Stack Overflow
+https://stackoverflow.com/questions/9172802/setting-up-vim-for-python
+
+macos - How to jump to the beginning or end of line in vim + OS X - Super User
+https://superuser.com/questions/123937/how-to-jump-to-the-beginning-or-end-of-line-in-vim-os-x
+
+How can I go to particular line in Vim? - Super User
+https://superuser.com/questions/523819/how-can-i-go-to-particular-line-in-vim
+
+How can I go to particular line in Vim? - Super User
+https://superuser.com/questions/523819/how-can-i-go-to-particular-line-in-vim/523820#523820
+
+vim - what's the meaning of ^@, ^I and $ in vi? - Super User
+https://superuser.com/questions/686447/whats-the-meaning-of-i-and-in-vi
+
+Go to line | Vim Tips Wiki | FANDOM powered by Wikia
+https://vim.fandom.com/wiki/Go_to_line
+
+vi / vim: Jump To End Of File Command - nixCraft
+https://www.cyberciti.biz/faq/howto-unix-linux-vi-vim-jump-to-end-of-file/
+
+The State of the Web: Search Friendly Pagination and Infinite Scroll - DeepCrawl
+https://www.deepcrawl.com/blog/best-practice/the-state-of-the-web-search-friendly-pagination-and-infinite-scroll/
+
+Web Scraping: Best Practices to Follow | | PromptCloud
+https://www.promptcloud.com/blog/web-scraping-best-practices/
+
+Problem loading page
+https://www.quora.com/What-are-some-tips-and-best-practices-to-web-crawl-without-getting-into-legal-issues
+
+Problem loading page
+https://www.reddit.com/r/vim/comments/4efext/best_setup_for_latex/?utm_source=BD&utm_medium=Search&utm_name=Bing&utm_content=PSR1
+
+Problem loading page
+https://www.reddit.com/r/vim/comments/c22b6j/what_does_the_a_in_an_mean/
+
+Issues · pandas-dev/pandas
+https://github.com/pandas-dev/pandas/issues
+
+Unicorn! · GitHub
+https://github.com/pandas-dev/pandas/contribute
+
+pandas.DataFrame.boxplot(by="class", ...) doesn't plot correctly · Issue #28365 · pandas-dev/pandas
+https://github.com/pandas-dev/pandas/issues/28365
+
+Python Data Analysis Library — pandas: Python Data Analysis Library
+https://pandas.pydata.org/
+
+d3js library - 国际版 Bing
+https://cn.bing.com/search?q=d3js+library&first=7&FORM=PORE
+
+D3 is not a Data Visualization Library - Elijah Meeks - Medium
+https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520
+
+Learn D3.js in 5 minutes
+https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/
+
+D3.js - Data-Driven Documents
+https://d3js.org/
+
+Popular Blocks - bl.ocks.org
+https://bl.ocks.org/
+
+Observable
+https://observablehq.com/?utm_source=blocks
+
+numpy/numpy: The fundamental package for scientific computing with Python.
+https://github.com/numpy/numpy
+
+
+o
+ading page
+https://stackoverflow.com/questions/44965/what-is-a-monad
+
+mbinary | Sourcerer
+https://sourcerer.io/mbinary?utm_medium=fame&utm_source=github
+
+ShellCheck – shell script analysis tool
+https://www.shellcheck.net/
+
+Problem loading page
+https://wiki.haskell.org/Monad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Deep Learning
 
 ## 9/8/2019
