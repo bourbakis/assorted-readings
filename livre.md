@@ -16,7 +16,7 @@
 - [ ] )[Judea Pearl's books](https://libgen.is/search.php?&req=Judea+Pearl&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
 
 
--[Library Genesis](https://libgen.is/search.php?&req=learn+you+haskell+for+great+good&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+- [x] [Library Genesis](https://libgen.is/search.php?&req=learn+you+haskell+for+great+good&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 
 
 - [ ] [Library Genesis](https://libgen.is/search.php?&req=python+web&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
