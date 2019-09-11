@@ -554,3 +554,160 @@ https://www.quora.com/What-is-the-difference-between-machine-learning-and-neural
 arxiv 1708.07469 - 国际版 Bing
 https://cn.bing.com/search?q=arxiv+1708.07469
 
+[1812.08434] Graph Neural Networks: A Review of Methods and Applications
+https://arxiv.org/abs/1812.08434
+
+百度推广
+https://cas.baidu.com/?tpl=www2&fromu=http%3A%2F%2Fwww2.baidu.com%2Fcommon%2Fappinit.ajax
+
+graph convolutional neural network - 国际版 Bing
+https://cn.bing.com/search?q=graph+convolutional+neural+network
+
+stackoverflow swift regular expression - 国际版 Bing
+https://cn.bing.com/search?q=stackoverflow+swift+regular+expression
+
+NSRegularExpression - Foundation | Apple Developer Documentation
+https://developer.apple.com/documentation/foundation/nsregularexpression
+
+NSRegularExpression - Foundation | Apple Developer Documentation
+https://developer.apple.com/documentation/foundation/nsregularexpression
+
+OptionSet - Swift Standard Library | Apple Developer Documentation
+https://developer.apple.com/documentation/swift/optionset
+
+Problem loading page
+https://en.wikipedia.org/wiki/Algebraic_data_type
+
+Problem loading page
+https://en.wikipedia.org/wiki/Zachary%27s_karate_club
+
+apple/swift-evolution: This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+https://github.com/apple/swift-evolution
+
+swift-evolution/proposals at master · apple/swift-evolution
+https://github.com/apple/swift-evolution/tree/master/proposals
+
+tkipf/gcn: Implementation of Graph Convolutional Networks in TensorFlow
+https://github.com/tkipf/gcn
+
+tkipf/relational-gcn: Keras-based implementation of Relational Graph Convolutional Networks
+https://github.com/tkipf/relational-gcn
+
+Edsger Dijkstra - 国际版 Bing
+https://cn.bing.com/search?q=Edsger+Dijkstra
+
+SNAP: Modeling Polypharmacy using Graph Convolutional Networks
+http://snap.stanford.edu/decagon/
+
+regex - Swift regular expressions - Stack Overflow
+https://stackoverflow.com/questions/34459701/swift-regular-expressions
+
+Welcome to TensorLayer — TensorLayer 2.1.1 documentation
+https://tensorlayer.readthedocs.io/en/latest/
+
+Welcome to TensorLayer — TensorLayer 2.1.1 documentation
+https://tensorlayer.readthedocs.io/en/latest/
+
+Browser Extension Uninstall Survey
+https://expressv.typeform.com/to/LjmI4J
+
+API - Layers — TensorLayer 2.1.1 documentation
+https://tensorlayer.readthedocs.io/en/latest/modules/layers.html#connect-tf-slim
+
+Graph Convolutional Networks | Thomas Kipf | PhD Student @ University of Amsterdam
+https://tkipf.github.io/graph-convolutional-networks/
+
+How to do Deep Learning on Graphs with Graph Convolutional Networks
+https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780
+
+百度推广
+https://tuiguang.baidu.com/home.html?userid=24283231
+
+intuition graph convolutional networks - 国际版 Bing
+https://cn.bing.com/search?q=intuition+graph+convolutional+networks
+
+An Intuitive Explanation of Convolutional Neural Networks – the data science blog
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+Graph Convolutional Networks for Geometric Deep Learning
+https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008
+
+arxiv.org/pdf/1703.06103.pdf
+about:blank
+
+Problem loading page
+https://medium.com/the-school-of-ai-official/developing-an-intuition-for-better-understanding-of-convolutional-neural-networks-17812fe4722a
+
+geometrial deep learning - 国际版 Bing
+https://cn.bing.com/search?q=geometrial+deep+learning&qs=n&form=QBRE&sp=-1&ghc=1&pq=geometrial+deep+learning&sc=8-24&sk=&cvid=7AAB50D39C6D4DEA885F9E4F7A8CF30F
+
+Deep Learning on Irregular Domains Main/Home
+http://dlid.swansea.ac.uk/
+
+[1611.08097] Geometric deep learning: going beyond Euclidean data
+https://arxiv.org/abs/1611.08097
+
+Problem loading page
+https://medium.com/@flawnsontong1/what-is-geometric-deep-learning-b2adb662d91d
+
+geometrial deep learning - 国际版 Bing video
+https://cn.bing.com/videos/search?q=geometrial+deep+learning&qpvt=geometrial+deep+learning&FORM=VDRE
+
+towardsdatascience.com/geometric-deep-learning-for-pose-estimation-6af45da05922
+about:blank
+
+AI Institute “Geometry of Deep Learning” 2019 - Microsoft Research
+https://www.microsoft.com/en-us/research/event/ai-institute-2019/#!videos
+
+richard stanley supervisor combinatorics - 国际版 Bing
+https://cn.bing.com/search?q=richard+stanley+supervisor+combinatorics&qs=n&form=QBRE&sp=-1&pq=richard+stanley+supervisor+&sc=0-27&sk=&cvid=5D2A7E2067014B0389B0BC76FCEEC355
+
+Richard P. Stanley Home Page
+http://www-math.mit.edu/~rstan/
+
+indra's pearls - 国际版 Bing
+https://cn.bing.com/search?q=indra%27s+pearls&filters=ufn%3a%22indras+pearls%22+sid%3a%2261af81e1-d399-71b2-38a5-bf862b3e19df%22+catguid%3a%22d04a3169-fd04-1009-d055-22bcc65d5fed_c0bcbbc4%22+segment%3a%22generic.carousel%22&FORM=SNAPST
+
+Daniel Hsu - 国际版 Bing
+https://cn.bing.com/search?q=+Daniel+Hsu
+
+
+Colin Eberhardt
+https://blog.scottlogic.com/ceberhardt/
+
+Tech
+https://blog.scottlogic.com/category/tech.html
+
+Swift: The Beautiful Language
+https://blog.scottlogic.com/2019/07/19/swift-the-beautiful-language.html
+
+Building a more flexible D3 chart
+https://blog.scottlogic.com/2019/05/14/building-a-more-flexible-d3-chart.html
+
+https://bl.ocks.org/ColinEberhardt/485ad09b7967e2a0f9bfe6e10192c26a
+https://bl.ocks.org/ColinEberhardt/485ad09b7967e2a0f9bfe6e10192c26a
+
+Building a better D3 axis
+https://blog.scottlogic.com/2019/05/09/building-a-better-d3-axis.html
+
+Adding a WebAssembly component to a React App
+https://blog.scottlogic.com/2019/06/14/add-webassembly-to-react-app.html
+
+SwiftUI: A new player in UI frameworks
+https://blog.scottlogic.com/2019/09/02/swift-ui-a-new-player-in-ui-frameworks.html
+
+Why Java Developers Should Learn C++
+https://blog.scottlogic.com/2019/07/19/why-java-developers-should-learn-c++.html
+
+Faster Fractals with Multi-Threaded WebAssembly
+https://blog.scottlogic.com/2019/07/15/multithreaded-webassembly.html
+
+http://192.168.1.254/wcd/index.html?access=SYS_INF
+http://192.168.1.254/wcd/index.html?access=SYS_INF
+
+fmt.Println - 国际版 Bing
+https://cn.bing.com/search?q=fmt.Println
+
+Problem loading page
+https://golang.org/pkg/fmt/
+

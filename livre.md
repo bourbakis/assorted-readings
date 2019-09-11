@@ -22,3 +22,9 @@
 - [ ] [Library Genesis](https://libgen.is/search.php?&req=python+web&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 
 https://git.io/JeqDQ
+
+
+- [ ] [](https://is.gd/honSRq)
+- [ ] [Best Writing in Mathematics](https://is.gd/FLJnfU)
+- [ ] [Pattern Theory](https://is.gd/Y252V7)
+- [ ] [Library Genesis](https://libgen.is/search.php?req=Peter%20T.%20Leeson&column[]=author)
