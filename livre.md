@@ -27,7 +27,7 @@ https://git.io/JeqDQ
 - [x] [](https://is.gd/honSRq)
 - [ ] [Best Writing in Mathematics](https://is.gd/FLJnfU)
 - [x] [Pattern Theory](https://is.gd/Y252V7)
-- [ ] [Library Genesis](https://libgen.is/search.php?req=Peter%20T.%20Leeson&column[]=author)
+- [x] [Library Genesis](https://libgen.is/search.php?req=Peter%20T.%20Leeson&column[]=author)
 
 
 ## 9/12/2019
