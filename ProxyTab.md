@@ -711,3 +711,135 @@ https://cn.bing.com/search?q=fmt.Println
 Problem loading page
 https://golang.org/pkg/fmt/
 
+
+# 9/12/19
+
+新 iPhone 售价 5000 元起，每款都有超广角镜头：苹果秋季发布会回顾 - 少数派
+https://sspai.com/post/56607
+
+Kuo: Two New AirPods Models Likely in Late 2019 to Early 2020, Including One With 'All-New Design' - MacRumors
+https://www.macrumors.com/2019/04/24/kuo-two-new-airpods-models-q4-2019-q1-2020/
+
+Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/
+
+neural network - 国际版 Bing images
+https://cn.bing.com/images/search?q=neural+network&qpvt=neuralnetwork&FORM=IGRE
+
+Michael Nielsen
+http://michaelnielsen.org/
+
+Toward an exploratory medium for mathematics
+http://cognitivemedium.com/emm/emm.html
+
+Striking user interfaces
+about:reader?url=http%3A%2F%2Fcognitivemedium.com%2Fstriking_ui%2Fstriking_ui.html
+
+Is AlphaGo Really Such a Big Deal? | Quanta Magazine
+https://www.quantamagazine.org/is-alphago-really-such-a-big-deal-20160329
+
+Thought as a Technology
+http://cognitivemedium.com/tat/index.html
+
+Magic Paper
+http://cognitivemedium.com/magic_paper/index.html
+
+Working Notes on Chalktalk
+http://cognitivemedium.com/interfaces-1/index.html
+
+Regular Expressions in Swift - NSHipster
+https://nshipster.com/swift-regular-expressions/
+
+If You're Subclassing, You're Doing It Wrong. — KrakenDev
+https://krakendev.io/blog/subclassing-can-suck-and-heres-why
+
+Swift Initialization and the Pain of Optionals
+https://blog.scottlogic.com/2014/11/20/swift-initialisation.html
+
+ios - Text View (UITextView) Placeholder Swift - Stack Overflow
+https://stackoverflow.com/questions/27652227/text-view-uitextview-placeholder-swift
+
+swift-evolution/0200-raw-string-escaping.md at master · apple/swift-evolution
+https://github.com/apple/swift-evolution/blob/master/proposals/0200-raw-string-escaping.md
+
+Problem loading page
+https://vimeo.com/36579366
+
+百度推广
+https://tuiguang.baidu.com/home.html?userid=24283231
+
+phil-brown (Phil Brown)
+https://github.com/phil-brown
+
+Search · iMark
+https://github.com/search?p=5&q=iMark&type=Repositories
+
+baight/AnnotationPicture: annotation picture
+https://github.com/baight/AnnotationPicture
+
+aithsis94/PickleRick-Annotations: Annotations for DI
+https://github.com/aithsis94/PickleRick-Annotations
+
+GitHub
+https://github.com/
+
+New Computer Vision Tool Accelerates Annotation of Digital Images and Video - Intel AI
+https://www.intel.ai/introducing-cvat/
+
+Computer Vision Annotation Tool: A Universal Approach to Data Annotation | Intel® Software
+https://software.intel.com/en-us/articles/computer-vision-annotation-tool-a-universal-approach-to-data-annotation
+
+Center for Nonlinear Studies
+https://cnls.lanl.gov/External/showtalksummary.php?selection=7768
+
+Problem loading page
+https://drive.google.com/open?id=1kNF18C7RY2zi7jcZBMO1PRXtHuvVTFPn
+
+软件定制|软件开发外包公司|【盛安德科技官网】
+http://www.shinetechchina.com.cn/
+
+案例展示
+http://www.lanmosoft.com/%E6%A1%88%E4%BE%8B%E5%B1%95%E7%A4%BA.html
+
+长亮科技|银行系统软件开发商_商业银行核心系统_金融软件IT专家_互联网金融整体解决方案供应商
+http://www.sunline.cn/
+
+联系方式_长亮科技
+http://www.sunline.cn/contactus.html
+
+股价表现
+http://www.sunline.cn/cs-share.html
+
+银行核心业务_银行系统
+http://www.sunline.cn/product.html
+
+长亮介绍
+http://www.sunline.cn/aboutus.html
+
+Leveraging Language Models for Commonsense Reasoning in Neural Networks
+https://blog.einstein.ai/leveraging-language-models-for-commonsense/
+
+Identifying Generalization Properties in Neural Networks
+https://blog.einstein.ai/identifying-generalization-properties-in-neural-networks/
+
+The Natural Language Decathlon
+https://blog.einstein.ai/the-natural-language-decathlon/
+
+Chrome opens automatically after start/rebooting on Win10 - Microsoft Community
+https://answers.microsoft.com/en-us/windows/forum/windows_10-start-winpc/chrome-opens-automatically-after-startrebooting-on/f1c1973f-d7d1-4267-a5ee-d20ddc49d0f1
+
+command line - Close chrome from bat file - Stack Overflow
+https://stackoverflow.com/questions/27412976/close-chrome-from-bat-file
+
+Windows batch files: .bat vs .cmd? - Stack Overflow
+https://stackoverflow.com/questions/148968/windows-batch-files-bat-vs-cmd
+
+How do I shutdown, restart, or log off Windows via a bat file? - Stack Overflow
+https://stackoverflow.com/questions/162304/how-do-i-shutdown-restart-or-log-off-windows-via-a-bat-file
+
+cmd - How to run multiple .BAT files within a .BAT file - Stack Overflow
+https://stackoverflow.com/questions/1103994/how-to-run-multiple-bat-files-within-a-bat-file
+
+command line - Redirect Windows cmd stdout and stderr to a single file - Stack Overflow
+https://stackoverflow.com/questions/1420965/redirect-windows-cmd-stdout-and-stderr-to-a-single-file
+
