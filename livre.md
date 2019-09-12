@@ -28,3 +28,8 @@ https://git.io/JeqDQ
 - [ ] [Best Writing in Mathematics](https://is.gd/FLJnfU)
 - [x] [Pattern Theory](https://is.gd/Y252V7)
 - [ ] [Library Genesis](https://libgen.is/search.php?req=Peter%20T.%20Leeson&column[]=author)
+
+
+## 9/12/2019
+
+- [ ] [Al Sweigart Library Genesis](https://libgen.is/search.php?req=Sweigart%20Al&column[]=author)

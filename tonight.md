@@ -28,7 +28,7 @@ Copy, cut and paste | Vim Tips Wiki | FANDOM powered by Wikia
 https://vim.fandom.com/wiki/Copy,_cut_and_paste
 
 vim copy and paste commands | alvinalexander.com
-https://alvinalexander.com/linux/vi-vim-copy-paste-command
+- [x] https://alvinalexander.com/linux/vi-vim-copy-paste-command
 
 
 
