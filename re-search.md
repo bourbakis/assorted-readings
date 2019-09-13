@@ -42,3 +42,67 @@ Google Search Words
 - [ ] [Linear algebra matrix - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Linear%20algebra%20matrix%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSkjiCUD5-cmGp2beCxwxP1xEJqMQ:1567940820166&q=Linear+algebra+matrix&stick=H4sIAAAAAAAAAHWNvw4BQRyE75gT_8I5kWiIaCSaVaiu8gCeQLf4kZPbJesS655m4jFVKHR082W-zNRnyVD5nVJGLZbW2_QT_KksV2Knf5v52EihU-Uv2kr-ts52J5civWZ7uen7dTPKMyvaTXR-lK3TE6MLl_kvPsL4s-zk8LaM2EItnmFAdIgKUSUaBIiYaBEh0SciokY0iS7RJnpEQgSPaLD-dfQCPQ6nz9YAAAA&sa=X&ved=2ahUKEwi2lfXcisHkAhXFKqYKHaVtDeoQzTooADB8egQIZRAC)
 
 - [ ] [linear algebra matrix algebra - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSkjiCUD5-cmGp2beCxwxP1xEJqMQ:1567940820166&q=linear+algebra+matrix+algebra&tbm=isch&source=univ&sa=X&ved=2ahUKEwi2lfXcisHkAhXFKqYKHaVtDeoQsAR6BAgFEAE)
+
+## 9/13/2019
+
+- [ ] [how to check prime number in python - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=how%20to%20check%20prime%20number%20in%20python%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=how+to+check+prime+number+in+python&oq=how+to+check+prime+number+in+python&aqs=chrome..69i57j0l8.11183j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [how to check prime number in swift - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=how%20to%20check%20prime%20number%20in%20swift%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=how+to+check+prime+number+in+swift&oq=how+to+check+prime+number+in+swift&aqs=chrome..69i57j0.2007j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [how to check prime number in tensorflow - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=how%20to%20check%20prime%20number%20in%20tensorflow%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=how+to+check+prime+number+in+tensorflow&oq=how+to+check+prime+number+in+tensorlfl&aqs=chrome.1.69i57j33.4766j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [infinite list of primes haskell - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=infinite%20list%20of%20primes%20haskell%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMBGshLbTZ4Qj5tR7JnUg1I8SNMg%3A1568323171272&lei=Y7Z6XZGOEOSmmAX0v4WYAw&q=infinite%20list%20of%20primes%20haskell&ved=2ahUKEwilzK-Om8zkAhUyxYsBHf_BCrUQsKwBKAR6BAgAEAU)
+
+- [ ] [isprime haskell recursion - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMBGshLbTZ4Qj5tR7JnUg1I8SNMg%3A1568323171272&lei=Y7Z6XZGOEOSmmAX0v4WYAw&q=isprime%20haskell%20recursion&ved=2ahUKEwilzK-Om8zkAhUyxYsBHf_BCrUQsKwBKAB6BAgAEAE)
+
+- [ ] [1206.5538.pdf](https://arxiv.org/pdf/1206.5538.pdf)
+
+- [ ] [representation learning graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTldNIA_YthPsZEklPNmWQz-fE4ZA%3A1568332372185&lei=VNp6Xdf0CueWr7wP7Lm20A8&q=representation%20learning%20graph&ved=2ahUKEwiLhN6yvczkAhXNyosBHRIWAfEQsKwBKAJ6BAgAEAM)
+
+- [ ] [factors of variation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTldNIA_YthPsZEklPNmWQz-fE4ZA%3A1568332372185&lei=VNp6Xdf0CueWr7wP7Lm20A8&q=factors%20of%20variation&ved=2ahUKEwiLhN6yvczkAhXNyosBHRIWAfEQsKwBKAR6BAgAEAU)
+
+- [ ] [siamese networks - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTldNIA_YthPsZEklPNmWQz-fE4ZA%3A1568332372185&lei=VNp6Xdf0CueWr7wP7Lm20A8&q=siamese%20networks&ved=2ahUKEwiLhN6yvczkAhXNyosBHRIWAfEQsKwBKAV6BAgAEAY)
+
+- [ ] [[1206.5538] Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538)
+
+- [ ] [representation learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTldNIA_YthPsZEklPNmWQz-fE4ZA:1568332372185&q=representation+learning&stick=H4sIAAAAAAAAAOOQMRJKzFRIzEnPL8osycgtVsjJLC6JEi9KLShKLU7NK0ksyczPU8hJTSzKy8xLP8XIpZ-rb5BhmJZnkXGKkQPMycopP8XICWIaZhiaGcLZJQVZUCU5VfGVUKZJVrwBVIVJeXl5IZRtZlgcX3yKkR3Ezioo-8Uo5OiJ7qpFrLicBQD0VBYAxgAAAA&sa=X&ved=2ahUKEwjX7ruvvczkAhVny4sBHeycDfoQzTooADB2egQIXxAC)
+
+- [ ] [representation learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTldNIA_YthPsZEklPNmWQz-fE4ZA:1568332372185&q=representation+learning&stick=H4sIAAAAAAAAAOOQMRLNTUzOyMxLVchJTSzKy8xLV8jJLC6JEi9KLShKLU7NK0ksyczPg8ueYuTSz9U3KKosqzAzOcXIDeIYGhtUVsVnnWLkBPGSzMqKyqBsw4zKnBIo28I0uSD7FCOvfrq-oWFSRUpRnmFa3ilGDpCcaUpGOVSZSaVhdhWMnVVsUAxTYmFW8otR1Bebaxex4nIuAFTvLGLhAAAA&sa=X&ved=2ahUKEwjX7ruvvczkAhVny4sBHeycDfoQzTooADB1egQIXBAC)
+
+- [ ] [representation learning autoencoder - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTldNIA_YthPsZEklPNmWQz-fE4ZA:1568332372185&q=representation+learning+autoencoder&sa=X&ved=2ahUKEwjX7ruvvczkAhVny4sBHeycDfoQ1QIoAnoECGAQAw)
+
+- [ ] [representation learning medium - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTldNIA_YthPsZEklPNmWQz-fE4ZA:1568332372185&q=representation+learning+medium&sa=X&ved=2ahUKEwjX7ruvvczkAhVny4sBHeycDfoQ1QIoBnoECGAQBw)
+
+- [ ] [representation learning python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTldNIA_YthPsZEklPNmWQz-fE4ZA:1568332372185&q=representation+learning+python&sa=X&ved=2ahUKEwjX7ruvvczkAhVny4sBHeycDfoQ1QIoBXoECGAQBg)
+
+- [ ] [Unsupervised Visual Representation Learning by Context Prediction](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Doersch_Unsupervised_Visual_Representation_ICCV_2015_paper.pdf)
+
+- [ ] [https://www.deeplearningbook.org/contents/representation.html](https://www.deeplearningbook.org/contents/representation.html)
+
+- [ ] [A subroutine to dynamically determine machine parameters. - Google Search](https://www.google.com/search?q=A+subroutine+to+dynamically+determine+machine+parameters.&oq=A+subroutine+to+dynamically+determine+machine+parameters.&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Edible molluscs - Google Search](https://www.google.com/search?q=Edible+molluscs&oq=Edible+molluscs&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Error 404 (Not Found)!!1&pos=0&uri=https://www.google.com/googleblog/2004/07/warning-we-brake-for-number-theory.html](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Error%20404%20(Not%20Found)!!1&pos=0&uri=https://www.google.com/googleblog/2004/07/warning-we-brake-for-number-theory.html)
+
+- [ ] [first 10-digit prime number occurring in consecutive digits of e python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCe4Wzy030y78dALXxLtk7Woh4sw%3A1568322842640&ei=GrV6XYPcJuWymAX3r4jgCw&q=first+10-digit+prime+number+occurring+in+consecutive+digits+of+e+python&oq=first+10-digit+prime+number+occurring+in+consecutive+digits+of+e+python&gs_l=psy-ab.3...13537.16954..17226...8.2..0.194.834.4j3......0....1..gws-wiz.......0i71j35i39j33i10.NF394_1xhHg&ved=0ahUKEwiD0bbvmczkAhVlGaYKHfcXArwQ4dUDCAs&uact=5)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=haskell factors - Google Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMBGshLbTZ4Qj5tR7JnUg1I8SNMg%3A1568323171272&lei=Y7Z6XZGOEOSmmAX0v4WYAw&q=haskell factors&ved=2ahUKEwilzK-Om8zkAhUyxYsBHf_BCrUQsKwBKAV6BAgAEAY](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=haskell%20factors%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMBGshLbTZ4Qj5tR7JnUg1I8SNMg%3A1568323171272&lei=Y7Z6XZGOEOSmmAX0v4WYAw&q=haskell%20factors&ved=2ahUKEwilzK-Om8zkAhUyxYsBHf_BCrUQsKwBKAV6BAgAEAY)
+
+- [ ] [how to check prime number in haskell - Google Search](https://www.google.com/search?q=how+to+check+prime+number+in+haskell&oq=how+to+check+prime+number+in+haskel&aqs=chrome.1.69i57j0.3696j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [how to check prime number in julia - Google Search](https://www.google.com/search?q=how+to+check+prime+number+in+julia&oq=how+to+check+prime+number+in+julia&aqs=chrome..69i57.3382j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [MICHAEL ACTON SMITH - Google Search](https://www.google.com/search?q=MICHAEL+ACTON+SMITH&oq=MICHAEL+ACTON+SMITH&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Oren Cass, - Google Search](https://www.google.com/search?q=Oren+Cass%2C&oq=Oren+Cass%2C&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [plain how .Machine$double.xmax, .Machine$double.xmin, .Machine$double.eps, and .Machine@double.neg.eps are defined using the 64-bit double precision floating point arithmetic. - Google Search](https://www.google.com/search?q=plain+how+.Machine%24double.xmax%2C+.Machine%24double.xmin%2C+.Machine%24double.eps%2C+and+.Machine%40double.neg.eps+are+defined+using+the+64-bit+double+precision+floating+point+arithmetic.&oq=plain+how+.Machine%24double.xmax%2C+.Machine%24double.xmin%2C+.Machine%24double.eps%2C+and+.Machine%40double.neg.eps+are+defined+using+the+64-bit+double+precision+floating+point+arithmetic.&aqs=chrome..69i57.898j0j1&sourceid=chrome&ie=UTF-8#disable)
+
+- [ ] [So I was curious. This Samantha Power — she had started her career as a journalist covering the mass killing of Bosnian Muslims by Serbs, which led her to write a Pulitzer Prize-winning book, “‘A Problem From Hell’: America in the Age of Genocide,” about why American leaders who vow “never again” repeatedly fail to halt genocides. She had worked as a foreign policy adviser to Senator Obama, and then as a human rights adviser to President Obama before ultimately becoming his second United Nations ambassador. - Google Search](https://www.google.com/search?q=So+I+was+curious.+This+Samantha+Power+%E2%80%94+she+had+started+her+career+as+a+journalist+covering+the+mass+killing+of+Bosnian+Muslims+by+Serbs%2C+which+led+her+to+write+a+Pulitzer+Prize-winning+book%2C+%E2%80%9C%E2%80%98A+Problem+From+Hell%E2%80%99%3A+America+in+the+Age+of+Genocide%2C%E2%80%9D+about+why+American+leaders+who+vow+%E2%80%9Cnever+again%E2%80%9D+repeatedly+fail+to+halt+genocides.+She+had+worked+as+a+foreign+policy+adviser+to+Senator+Obama%2C+and+then+as+a+human+rights+adviser+to+President+Obama+before+ultimately+becoming+his+second+United+Nations+ambassador.&oq=So+I+was+curious.+This+Samantha+Power+%E2%80%94+she+had+started+her+career+as+a+journalist+covering+the+mass+killing+of+Bosnian+Muslims+by+Serbs%2C+which+led+her+to+write+a+Pulitzer+Prize-winning+book%2C+%E2%80%9C%E2%80%98A+Problem+From+Hell%E2%80%99%3A+America+in+the+Age+of+Genocide%2C%E2%80%9D+about+why+American+leaders+who+vow+%E2%80%9Cnever+again%E2%80%9D+repeatedly+fail+to+halt+genocides.+She+had+worked+as+a+foreign+policy+adviser+to+Senator+Obama%2C+and+then+as+a+human+rights+adviser+to+President+Obama+before+ultimately+becoming+his+second+United+Nations+ambassador.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The Education of an Idealist: A Memoir - Google Search](https://www.google.com/search?q=The+Education+of+an+Idealist%3A+A+Memoir&oq=The+Education+of+an+Idealist%3A+A+Memoir&aqs=chrome..69i57j69i64l2j69i60l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Types of clams - Google Search](https://www.google.com/search?q=Types+of+clams&oq=Types+of+clams&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+

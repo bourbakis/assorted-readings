@@ -33,3 +33,29 @@ https://git.io/JeqDQ
 ## 9/12/2019
 
 - [ ] [Al Sweigart Library Genesis](https://libgen.is/search.php?req=Sweigart%20Al&column[]=author)
+
+## 9/13/2019
+
+- [ ] [Library Genesis](https://libgen.is/search.php?req=A+New+Republic+book&column=series)
+
+- [ ] [Library Genesis](https://libgen.is/search.php?req=Derek+Chollet&column=author)
+
+- [ ] [Library Genesis: Derek Chollet, Samantha Power - The Unquiet American: Richard Holbrooke in the World](https://libgen.is/book/index.php?md5=7FACADD3C1BE0EDBDE443AF6CA65BAA2)
+
+- [ ] [Library Genesis: Harriet Beecher Stowe - A key to Uncle Tom's cabin; presenting the original facts and documents upon which the story is foun](https://libgen.is/book/index.php?md5=12BE90557E386837F63AB02D9E8E72D0)
+
+- [ ] [Library Genesis: Harriet Beecher Stowe - Harriet Beecher Stowe : Three Novels : Uncle Tom's Cabin Or, Life Among the Lowly; The Minister's Wooing; Oldtown Folks (Library of America)](https://libgen.is/book/index.php?md5=F1D4391C40071E613D3AAC52635128CE)
+
+- [ ] [Library Genesis: Harriet Beecher Stowe - Uncle Tom's Cabin: Or, Life Among the Lowly (The John Harvard Library)](https://libgen.is/book/index.php?md5=1D70DB46ADABCF3A30832624AD89E15E)
+
+- [ ] [Library Genesis: Harriet Beecher Stowe - Uncle Tom's Cabin: Young Folks' Edition (Volume 1)](https://libgen.is/book/index.php?md5=1F3A6D9AF795E16CB593AB69551B29DA)
+
+- [ ] [Library Genesis: Harriet Beecher Stowe, Christopher G. Diller - Uncle Tom's Cabin](https://libgen.is/book/index.php?md5=F81B6F6C75F4C67F164E8F9C1B41F1AC)
+
+- [ ] [Library Genesis: Roméo Dallaire, Samantha Power - Shake Hands with the Devil: The Failure of Humanity in Rwanda](https://libgen.is/book/index.php?md5=A873E1ADE3FF7718FBF81CD6526E20CF)
+
+- [ ] [Library Genesis: Samantha Power - A Problem From Hell: America and the Age of Genocide](https://libgen.is/book/index.php?md5=FBB0DBD68DA0D69934DF9570E8353576)
+
+- [ ] [Library Genesis: Samantha Power - A Problem from Hell: America and the Age of Genocide](https://libgen.is/book/index.php?md5=104BFF6E426A2CFECA5C3C53397EC787)
+
+- [ ] [Library Genesis: Samantha Power - Chasing the flame: Sergio Vieira de Mello and the fight to save the world](https://libgen.is/book/index.php?md5=783F9D142C10630BD901051131BBA6BB)
