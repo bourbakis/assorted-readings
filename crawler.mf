@@ -1,0 +1,41 @@
+## 9/14/2019
+
+- [ ] [献给吃货们的爱♡ -- 大众点评美食数据分析 - 简书](https://www.jianshu.com/p/594cac3fe917)
+
+- [ ] [longxiaofei/dianping: 大众点评商家评论爬虫](https://github.com/longxiaofei/dianping)
+
+- [ ] [Search · 大众点评 爬虫](https://github.com/search?p=2&q=%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84+%E7%88%AC%E8%99%AB&type=Repositories)
+
+- [ ] [Northxw/Dianping: 大众点评店铺信息爬虫](https://github.com/Northxw/Dianping)
+
+- [ ] [Northxw / Repositories](https://github.com/Northxw?tab=repositories&type=source)
+
+- [ ] [Northxw / Starred](https://github.com/Northxw?tab=stars)
+
+- [ ] [ppy2790/dianpingshop: 大众点评商户数据爬虫](https://github.com/ppy2790/dianpingshop)
+
+- [ ] [ppy2790 (PENGYONG) / Repositories](https://github.com/ppy2790?tab=repositories&type=source)
+
+- [ ] [MaLei666 (无敌最俊美) / Following](https://github.com/MaLei666?tab=following)
+
+- [ ] [MaLei666/python-bloomfilter: Scalable Bloom Filter implemented in Python](https://github.com/MaLei666/python-bloomfilter)
+
+- [ ] [MaLei666 (无敌最俊美) / Repositories](https://github.com/MaLei666?tab=repositories&type=source)
+
+- [ ] [MaLei666 (无敌最俊美) / Starred](https://github.com/MaLei666?tab=stars)
+
+- [ ] [bsns/dianping: scrapy抓取数据存储至本地mysql数据库-大众点评爬虫](https://github.com/bsns/dianping)
+
+- [ ] [01ly (linkin) / Repositories](https://github.com/01ly?tab=repositories&type=source)
+
+- [ ] [01ly (linkin) / Starred](https://github.com/01ly?tab=stars)
+
+- [ ] [jiaweijin/lilaroka: Scrapy大众点评论坛爬虫](https://github.com/jiaweijin/lilaroka)
+
+- [ ] [loricheung/anti-DPAntiSpider: 大众点评字体反爬的反爬虫](https://github.com/loricheung/anti-DPAntiSpider)
+
+- [ ] [crifan/PySpiderChinaProvinceCity: 用PySpider爬取中国省市区的数据](https://github.com/crifan/PySpiderChinaProvinceCity)
+
+- [ ] [millerbinbin/dp: restaurants recommendation](https://github.com/millerbinbin/dp)
+
+- [ ] [wkunzhi (Zok)](https://github.com/wkunzhi)
