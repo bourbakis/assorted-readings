@@ -157,3 +157,15 @@ tomorrow
 - [ ] [vinta/pangu.js: Paranoid text spacing in JavaScript](https://github.com/vinta/pangu.js)
 
 - [ ] [firefox-addon · GitHub Topics](https://github.com/topics/firefox-addon)
+
+## 9/14/2019
+
+- [ ] [Einstein Summation in Numpy | Olexa Bilaniuk's IFT6266H16 Course Blog](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Einstein%20Summation%20in%20Numpy%20%7C%20Olexa%20Bilaniuk's%20IFT6266H16%20Course%20Blog&pos=4900&uri=https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/)
+
+- [ ] [Olexa Bilaniuk's IFT6266H16 Course Blog | A well of random thoughts](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Olexa%20Bilaniuk's%20IFT6266H16%20Course%20Blog%20%7C%20A%20well%20of%20random%20thoughts&pos=0&uri=https://obilaniu6266h16.wordpress.com/)
+
+- [ ] [Olexa Bilaniuk's IFT6266H16 Course Blog | A well of random thoughts](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Olexa%20Bilaniuk's%20IFT6266H16%20Course%20Blog%20%7C%20A%20well%20of%20random%20thoughts&pos=7800&uri=https://obilaniu6266h16.wordpress.com/)
+
+- [ ] [Project Updates | Olexa Bilaniuk's IFT6266H16 Course Blog](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Project%20Updates%20%7C%20Olexa%20Bilaniuk's%20IFT6266H16%20Course%20Blog&pos=0&uri=https://obilaniu6266h16.wordpress.com/category/project-updates/)
+
+- [ ] [Lecture Answers | Olexa Bilaniuk's IFT6266H16 Course Blog](https://obilaniu6266h16.wordpress.com/category/lecture-answers/)

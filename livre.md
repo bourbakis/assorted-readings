@@ -59,3 +59,17 @@ https://git.io/JeqDQ
 - [ ] [Library Genesis: Samantha Power - A Problem from Hell: America and the Age of Genocide](https://libgen.is/book/index.php?md5=104BFF6E426A2CFECA5C3C53397EC787)
 
 - [ ] [Library Genesis: Samantha Power - Chasing the flame: Sergio Vieira de Mello and the fight to save the world](https://libgen.is/book/index.php?md5=783F9D142C10630BD901051131BBA6BB)
+
+- [ ] [Library Genesis: Robert Sedgewick, Kevin Wayne - Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition](https://libgen.is/book/index.php?md5=2508A6B7826607A7BC61AB7A6E6B293B)
+
+- [ ] [Library Genesis](https://libgen.is/search.php?req=Introduction+to+Programming+in+Python&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+## 9/14/2019
+
+- [ ] [Library Genesis](https://libgen.is/search.php?&req=Marvin+Minsky&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](https://libgen.is/search.php?req=Hugh%20Sebag-Montefiore&column[]=author)
+
+- [ ] [Library Genesis](https://libgen.is/search.php?req=Enigma%3A+The+Battle+for+the+Code&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+- [ ] [Library Genesis](http://gen.lib.rus.ec/search.php?req=Arthur%20C.%20Clarke&column[]=author)

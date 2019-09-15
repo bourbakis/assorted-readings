@@ -106,3 +106,104 @@ Google Search Words
 - [ ] [Types of clams - Google Search](https://www.google.com/search?q=Types+of+clams&oq=Types+of+clams&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 
 
+## 9/14/2019
+
+- [ ] [Low-level programming language - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmRkHBg0Oz0wuUxSOGlxM5QtzoOQ:1568387098978&q=Low-level+programming+language&stick=H4sIAAAAAAAAAH2OSW4CMRRE1YuIzh0Q-soeMQnU3CEnYPflLtwG-9vx0BmOk-P0kbJKIyQQG3avpKrSq6dvrwu3WK72P-f9erqh_B2QyB9JeRdKRiTLogtrHII2PYSYEqK5loykHIvKxksaA0G0NakjFcEZlDvQRzE9W0gmx6ozgushHrcWKpc4nrK0hC92wSINVX1x2-6abqgmFwyNHqq78J1P7V_11P73ZfbuP-cWPSyF6HVk54zoW-EfMddzYwoBAAA&sa=X&ved=2ahUKEwiWjZ6fic7kAhWIGaYKHW-CDYUQxA0wd3oECGQQCA)
+
+- [ ] [Assembly language - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmRkHBg0Oz0wuUxSOGlxM5QtzoOQ:1568387098978&q=Assembly+language&stick=H4sIAAAAAAAAAH2OOw7CMBBE5QIRSvoUKy4QPgIlJdegM87iGOyN8SciHIfj5EhUJIoA0dDNjGZGL0kX08xkS5vLdbqB0Fr0UJ9A1MbGgA40Jxm5xIOVqkECDh6dGkuKfHBRBFWT7w0gSa18BcIhDwihQrhG1XCNFMBwUSnC8RB_txpFiK4_5VQC3rixGn3HkoFsu8urjr0hOzYb1Kq4X4qvPpdP9pf-MZnvvUdz1O0newFwH4K9-wAAAA&sa=X&ved=2ahUKEwiWjZ6fic7kAhWIGaYKHW-CDYUQxA0wd3oECGQQBg)
+
+- [ ] [High-level programming language - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmRkHBg0Oz0wuUxSOGlxM5QtzoOQ:1568387098978&q=High-level+programming+language&stick=H4sIAAAAAAAAAH2OTWoCQRSEmYVE7yDkkb0YExL0Bp7B3aOn7H6m-02nfwaT43icOZKrKKLiJruvoKr4xtOXyTzMXxer3137Nn2n8hORqduS6UKsBYk8q61ssYlWeigxZSS5lERzSdUU6TSfAkGtl-zIJHABFQf6rtKzhxYKbJwoLod43HqYUtPplLUl7DlEjzw047Pbx-fSDc3TGePSDs1V-Gt15117bP61P4ye12LdzKOHp5g6mzgEUXtr_AF7ve_1CwEAAA&sa=X&ved=2ahUKEwiWjZ6fic7kAhWIGaYKHW-CDYUQxA0wd3oECGQQCg)
+
+- [ ] [machine code instructions list - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmRkHBg0Oz0wuUxSOGlxM5QtzoOQ:1568387098978&q=machine+code+instructions+list&sa=X&ved=2ahUKEwiWjZ6fic7kAhWIGaYKHW-CDYUQ1QIoBHoECGYQBQ)
+
+- [ ] [machine language instruction format - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmRkHBg0Oz0wuUxSOGlxM5QtzoOQ:1568387098978&q=machine+language+instruction+format&sa=X&ved=2ahUKEwiWjZ6fic7kAhWIGaYKHW-CDYUQ1QIoBnoECGYQBw)
+
+- [ ] [https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&q=related:ghymvm-hxy6NLM:scholar.google.com/](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=https%3A%2F%2Fscholar.google.com%2Fscholar%3Fum%3D1%26ie%3DUTF-8%26lr%26q%3Drelated%3Aghymvm-hxy6NLM%3Ascholar.google.com%2F&pos=0&uri=https://www.google.com/sorry/index?continue=https://scholar.google.com/scholar%3Fum%3D1%26ie%3DUTF-8%26lr%26q%3Drelated:ghymvm-hxy6NLM:scholar.google.com/&q=EgSC0_kBGL3h7usFIhkA8aeDS8ejXHQoBIZVcsVVNfpWEFP9i5xVMgFy)
+
+
+## 9/14/2019
+
+- [ ] [澳大利亚：昂贵食材松露的新生产地 - BBC News 中文](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%EF%BC%9A%E6%98%82%E8%B4%B5%E9%A3%9F%E6%9D%90%E6%9D%BE%E9%9C%B2%E7%9A%84%E6%96%B0%E7%94%9F%E4%BA%A7%E5%9C%B0%20-%20BBC%20News%20%E4%B8%AD%E6%96%87&pos=0&uri=https://www.bbc.com/zhongwen/simp/business-49638653)
+
+- [ ] [快速成为吃喝专家 - 知乎](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=%E5%BF%AB%E9%80%9F%E6%88%90%E4%B8%BA%E5%90%83%E5%96%9D%E4%B8%93%E5%AE%B6%20-%20%E7%9F%A5%E4%B9%8E&pos=0&uri=https://zhuanlan.zhihu.com/zhengwine)
+
+- [ ] [当有人问，“为什么葡萄酒，在欧美国家这么受欢迎？” - 知乎](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=%E5%BD%93%E6%9C%89%E4%BA%BA%E9%97%AE%EF%BC%8C%E2%80%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%91%A1%E8%90%84%E9%85%92%EF%BC%8C%E5%9C%A8%E6%AC%A7%E7%BE%8E%E5%9B%BD%E5%AE%B6%E8%BF%99%E4%B9%88%E5%8F%97%E6%AC%A2%E8%BF%8E%EF%BC%9F%E2%80%9D%20-%20%E7%9F%A5%E4%B9%8E&pos=0&uri=https://zhuanlan.zhihu.com/p/44531475)
+
+- [ ] [白牡丹虾和牡丹虾什么区别_百度知道](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=%E7%99%BD%E7%89%A1%E4%B8%B9%E8%99%BE%E5%92%8C%E7%89%A1%E4%B8%B9%E8%99%BE%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB_%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93&pos=0&uri=https://zhidao.baidu.com/question/1961004593073592140.html)
+
+- [ ] [牡丹虾好吃吗？价格是多少钱一斤？ - 土流网](https://www.tuliu.com/read-60697.html)
+
+- [ ] [牡丹虾多少钱一只 牡丹虾选购技巧及真假辨别方法 - 京东](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=%E7%89%A1%E4%B8%B9%E8%99%BE%E5%A4%9A%E5%B0%91%E9%92%B1%E4%B8%80%E5%8F%AA%20%E7%89%A1%E4%B8%B9%E8%99%BE%E9%80%89%E8%B4%AD%E6%8A%80%E5%B7%A7%E5%8F%8A%E7%9C%9F%E5%81%87%E8%BE%A8%E5%88%AB%E6%96%B9%E6%B3%95%20-%20%E4%BA%AC%E4%B8%9C&pos=0&uri=https://www.jd.com/phb/zhishi/2084654e0a768f0b.html)
+
+
+- [ ] [太平洋潜泥蛤 - Wikipedia](https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%BD%9C%E6%B3%A5%E8%9B%A4)
+
+## 9/14/2019
+
+- [ ] [hackhp blog - 第2页](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=hackhp%20blog%20-%20%E7%AC%AC2%E9%A1%B5&pos=0&uri=https://www.hackhp.com/page/2)
+
+- [ ] [PDF Candy Desktop简体中文破解版 - hackhp blog](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=PDF%20Candy%20Desktop%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%A0%B4%E8%A7%A3%E7%89%88%20-%20hackhp%20blog&pos=0&uri=https://www.hackhp.com/915.html)
+
+- [ ] [Python3入门+进阶 - hackhp blog](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Python3%E5%85%A5%E9%97%A8%2B%E8%BF%9B%E9%98%B6%20-%20hackhp%20blog&pos=0&uri=https://www.hackhp.com/917.html)
+
+- [ ] [新浪微博图床已经开启防盗链 - hackhp blog](https://www.hackhp.com/920.html)
+
+- [ ] [日语中人名后的"桑"."酱"是什么意思?_百度知道](https://zhidao.baidu.com/question/153659244.html)
+
+= [ ] [ちゃん - Google Search](https://www.google.com/search?q=%E3%81%A1%E3%82%83%E3%82%93&oq=%E3%81%A1%E3%82%83%E3%82%93&aqs=chrome..69i57j0l6j69i65j69i60.823j0j4&sourceid=chrome&ie=UTF-8)
+
+## 9/14/2019
+
+- [ ] [Geoduck - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTO-_Db1YnP1Li9dRR9hEmjKpZfNA:1568290066910&q=Geoduck&stick=H4sIAAAAAAAAAONgFuLUz9U3MMywjM9VQjC1dLKTrfSTMvNz8tMr9fOL0hPzMotz45NzEouLM9MykxNLMvPzrIozU1LLEyuLF7Gyu6fmp5QmZ-9gZQQAxfvm5FMAAAA&sa=X&ved=2ahUKEwij397in8vkAhVzAWMBHbw1BqMQzTooATB_egQIZRAC)
+
+- [ ] [白 牡丹蝦 - Google Search](https://www.google.com/search?q=%E7%99%BD+%E7%89%A1%E4%B8%B9%E8%9D%A6&oq=%E7%99%BD+%E7%89%A1%E4%B8%B9%E8%9D%A6&aqs=chrome..69i57j69i64l2.4326j0j1&sourceid=chrome&ie=UTF-8#disable)
+
+- [ ] [白牡丹虾和牡丹虾 價格對比 - Google Search](https://www.google.com/search?q=%E7%99%BD%E7%89%A1%E4%B8%B9%E8%99%BE%E5%92%8C%E7%89%A1%E4%B8%B9%E8%99%BE+%E5%83%B9%E6%A0%BC%E5%B0%8D%E6%AF%94&oq=%E7%99%BD%E7%89%A1%E4%B8%B9%E8%99%BE%E5%92%8C%E7%89%A1%E4%B8%B9%E8%99%BE+%E5%83%B9%E6%A0%BC%E5%B0%8D%E6%AF%94&aqs=chrome..69i57.5075j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [specify the four machine language instructions for the english instructions using eleven bits - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT8h1jomosCzc06chpSjwmZ233rmA:1568389011124&q=specify+the+four+machine+language+instructions+for+the+english+instructions+using+eleven+bits&tbm=isch&source=univ&sa=X&ved=2ahUKEwjnr4KvkM7kAhXIy4sBHRPGBz4QsAR6BAgCEAE)
+
+- [ ] [compiler is used to translate from - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmRkHBg0Oz0wuUxSOGlxM5QtzoOQ%3A1568387098978&lei=GrB7XZaYO4izmAXvhLaoCA&q=compiler%20is%20used%20to%20translate%20from&ved=2ahUKEwit8behic7kAhVay4sBHXTuC44QsKwBKAJ6BAgAEAM#disable)
+
+- [ ] [flatten list in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZ7A6Cc4uqT1FSRb2GFyM81NWzEg%3A1568421425027&lei=MTZ8XcamAaWWr7wPodCjuAo&q=flatten%20list%20in%20r&ved=2ahUKEwifyvqQic_kAhVECqYKHQbwDkMQsKwBKAN6BAgFEAQ&biw=1200&bih=1817)
+
+- [ ] [extract from list - Google Search](https://www.google.com/search?q=extract+from+list&oq=extract+from+list&aqs=chrome..69i57j0l8.7823j0j1&sourceid=chrome&ie=UTF-8)
+
+## 9/14/2019
+
+- [ ] [atrick Henry Winston - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=atrick%20Henry%20Winston%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=atrick+Henry+Winston&oq=atrick+Henry+Winston&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#disable)
+
+- [ ] [atrick Henry Winston - Google Search](https://www.google.com/search?q=atrick+Henry+Winston&oq=atrick+Henry+Winston&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#disable)
+
+- [ ] [Bill Richardson - Google Search](https://www.google.com/search?q=Bill+Richardson&oq=Bill+Richardson&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Bill Richardson - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQl9wpAyo6rYV09of2PY45D81ytNQ:1568466785970&q=Bill+Richardson&stick=H4sIAAAAAAAAAONgFuLUz9U3MDKoMjZUQjC1pLKTrfQLUvMLclKBVFFxfp5VcWZKanliZfEiVn6nzJwchaDM5IzEohSg1A5WRgC9ZOwTSQAAAA&sa=X&ved=2ahUKEwjErvqMstDkAhUmGaYKHQfGBgkQzTooATCKAXoECHAQAg)
+
+- [ ] [Blade Runner - Google Search](https://www.google.com/search?q=Blade+Runner&oq=Blade+Runner&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Computer Scientists - Google Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRPxMn6ePy2IU3UU8JyeXIe8WQp3g:1568466637069&q=Computer+Scientists&stick=H4sIAAAAAAAAAONgFuLQz9U3MKmMr1KCs7SkspOt9AtS8wtyUoFUUXF-nlVxZkpqeWJl8SpG0TQr5_zcgtKS1CKF4OTM1LySzOKS4kWswlhEAd4YUR5gAAAA&sa=X&ved=2ahUKEwj0iPrFsdDkAhWyyYsBHUG_DUMQzTooADB3egQIcBAC](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Computer%20Scientists%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRPxMn6ePy2IU3UU8JyeXIe8WQp3g:1568466637069&q=Computer+Scientists&stick=H4sIAAAAAAAAAONgFuLQz9U3MKmMr1KCs7SkspOt9AtS8wtyUoFUUXF-nlVxZkpqeWJl8SpG0TQr5_zcgtKS1CKF4OTM1LySzOKS4kWswlhEAd4YUR5gAAAA&sa=X&ved=2ahUKEwj0iPrFsdDkAhWyyYsBHUG_DUMQzTooADB3egQIcBAC)
+
+- [ ] [Demis Hassabis - Google Search](https://www.google.com/search?q=Demis+Hassabis&oq=Demis+Hassabis&aqs=chrome..69i57j69i65j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Joi Ito - Google Search](https://www.google.com/search?q=Joi+Ito&oq=Joi+Ito&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Mamoru Oshii - Google Search](https://www.google.com/search?q=Mamoru+Oshii&oq=Mamoru+Oshii&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Marvin Minsky - Google Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRPxMn6ePy2IU3UU8JyeXIe8WQp3g:1568466637069&q=Marvin+Minsky&stick=H4sIAAAAAAAAAONgFuLQz9U3MKmMr1KCs7SkspOt9AtS8wtyUoFUUXF-nlVxZkpqeWJl8SJWXt_EorLMPAXfzLzi7ModrIwANAfysEUAAAA&sa=X&ved=2ahUKEwj0iPrFsdDkAhWyyYsBHUG_DUMQzTooATCIAXoECG8QAg](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Marvin%20Minsky%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRPxMn6ePy2IU3UU8JyeXIe8WQp3g:1568466637069&q=Marvin+Minsky&stick=H4sIAAAAAAAAAONgFuLQz9U3MKmMr1KCs7SkspOt9AtS8wtyUoFUUXF-nlVxZkpqeWJl8SJWXt_EorLMPAXfzLzi7ModrIwANAfysEUAAAA&sa=X&ved=2ahUKEwj0iPrFsdDkAhWyyYsBHUG_DUMQzTooATCIAXoECG8QAg)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=marvin minsky books - Google Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRPxMn6ePy2IU3UU8JyeXIe8WQp3g:1568466637069&q=marvin+minsky+books&stick=H4sIAAAAAAAAAONgFuLQz9U3MKmMr1KCs7SkspOt9JPy87P1E0tLMvKLrEDsYoX8vJzKRazCuYlFZZl5CrmZecXZlQpgqR2sjADGSJpvSwAAAA&sa=X&ved=2ahUKEwj0iPrFsdDkAhWyyYsBHUG_DUMQzTooATCHAXoECG0QAg](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=marvin%20minsky%20books%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRPxMn6ePy2IU3UU8JyeXIe8WQp3g:1568466637069&q=marvin+minsky+books&stick=H4sIAAAAAAAAAONgFuLQz9U3MKmMr1KCs7SkspOt9JPy87P1E0tLMvKLrEDsYoX8vJzKRazCuYlFZZl5CrmZecXZlQpgqR2sjADGSJpvSwAAAA&sa=X&ved=2ahUKEwj0iPrFsdDkAhWyyYsBHUG_DUMQzTooATCHAXoECG0QAg)
+
+- [ ] [neri oxman epstein - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRtXMa8B6v-mbKdL0Opuv33mpT5nQ:1568465612710&q=neri+oxman+epstein&tbm=isch&source=univ&sa=X&ved=2ahUKEwjmkMDdrdDkAhVQzIsBHcAXDsQQsAR6BAgJEAE)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Neuromancer - Google Search&pos=0&uri=https://www.google.com/search?q=Neuromancer&oq=Neuromancer&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Neuromancer%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=Neuromancer&oq=Neuromancer&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Patrick Winston - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRKtNxg9s9FEN2uq3f-OQ_UQGtdpA:1568470000967&q=Patrick+Winston&stick=H4sIAAAAAAAAAONgFuLUz9U3SLPIMUpWQjC1pLKTrfQLUvMLclKBVFFxfp5VcWZKanliZfEiVv6AxJKizORshfDMvOKS_LwdrIwAk_4iYUkAAAA&sa=X&ved=2ahUKEwjMj_6JvtDkAhWzL6YKHXLEBn4QzTooATByegQIahAC)
+
+- [ ] [patrick winston books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRKtNxg9s9FEN2uq3f-OQ_UQGtdpA:1568470000967&q=patrick+winston+books&stick=H4sIAAAAAAAAAONgFuLUz9U3SLPIMUpWQjC1pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWsogWJJUWZydkK5Zl5xSX5eQpgyR2sjAC6nu4RTwAAAA&sa=X&ved=2ahUKEwjMj_6JvtDkAhWzL6YKHXLEBn4QzTooATBxegQIZRAC)
+
+- [ ] [Seymour Papert - Google Search](https://www.google.com/search?q=Seymour+Papert&oq=Seymour+Papert&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [That private island is alleged to have been the site of an immense sex trafficking ring. But Epstein associates have argued that those crimes were not apparent to Epstein’s social relations, despite the presence of young women at many of his gatherings. - Google Search](https://www.google.com/search?q=That+private+island+is+alleged+to+have+been+the+site+of+an+immense+sex+trafficking+ring.+But+Epstein+associates+have+argued+that+those+crimes+were+not+apparent+to+Epstein%E2%80%99s+social+relations%2C+despite+the+presence+of+young+women+at+many+of+his+gatherings.&oq=That+private+island+is+alleged+to+have+been+the+site+of+an+immense+sex+trafficking+ring.+But+Epstein+associates+have+argued+that+those+crimes+were+not+apparent+to+Epstein%E2%80%99s+social+relations%2C+despite+the+presence+of+young+women+at+many+of+his+gatherings.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [the book of why 中文 - Google Search](https://www.google.com/search?q=the+book+of+why+%E4%B8%AD%E6%96%87&oq=the+book+of+why+%E4%B8%AD%E6%96%87&aqs=chrome..69i57j69i64l2.6341j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [William Gibson - Google Search](https://www.google.com/search?q=William+Gibson&oq=William+Gibson&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)

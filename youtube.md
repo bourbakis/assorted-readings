@@ -64,3 +64,41 @@
 - [ ] [美国 中国 香港 新加坡 马来西亚 黄金储备对比 1960-2018 USA China HongKong Singapore Malaysia Gold Reserve - YouTube](https://www.youtube.com/watch?v=r9r1_RZvclw)
 
 - [ ] [谋杀犯罪率最高前十名国家或地区（每10万人） 1995-2017 - YouTube](https://www.youtube.com/watch?v=s7k_F4gvLpA)
+
+## 9/14/2019
+
+- [ ] [(404) 【初公開】 PRODUCE 101 JAPAN 『ツカメ～It's Coming～』 パフォーマンス映像 - YouTube](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(404)%20%E3%80%90%E5%88%9D%E5%85%AC%E9%96%8B%E3%80%91%20PRODUCE%20101%20JAPAN%20%E3%80%8E%E3%83%84%E3%82%AB%E3%83%A1%EF%BD%9EIt's%20Coming%EF%BD%9E%E3%80%8F%20%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E6%98%A0%E5%83%8F%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=nUrMhJ2lE0A&list=RDnUrMhJ2lE0A&start_radio=1)
+
+- [ ] [...](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(404)%20Fun%20with%20ES2015%20Custom%20Iterators%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=eBhDBy-M7ow)
+
+- [ ] [...](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(404)%20%E7%B2%BE%E5%BD%A9%E7%89%87%E6%AE%B5%E3%80%8B%E8%80%81%E7%8E%8B%EF%BC%9A%E4%BB%96%E5%80%91%E6%9C%83%E5%85%88%E6%89%BE%E5%A4%A7%E7%9A%84%E6%AE%BA...%E3%80%90%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%E3%80%91190911%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=6gkP1tEN1A4)
+
+- [ ] [...](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(405)%20Customizing%20Your%20Chrome%20Dev%20Tools%20Theme%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=muhTa1VR6SI)
+
+- [ ] [https://www.youtube.com/watch?v=1jTLVbM7kEc](https://www.youtube.com/watch?v=1jTLVbM7kEc)
+
+## 9/14/2019
+
+- [ ] [(520) MIPS Assembly to Machine Language (3/21) - YouTube](https://www.youtube.com/watch?v=bdnoI2Hv9ow)
+
+- [ ] [(519) Swift Programming Tutorial for Beginners (Full Tutorial) - YouTube](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(519)%20Swift%20Programming%20Tutorial%20for%20Beginners%20(Full%20Tutorial)%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=Ulp1Kimblg0&t=11496s)
+
+- [ ] [(519) 病例分享：「反华」反成精神病，被迫害妄想症晚期 x 震惊！80%抖音用户痛恨华为和中国5G x 防火墙的幸存者偏差：每个恨国党背后都站着一个中共五毛 - YouTube](https://www.youtube.com/watch?v=-vOmy8eExDM)
+
+- [ ] [(519) 精彩片段》明居正：中共必須假裝認真打...【年代向錢看】190913 - YouTube](https://www.youtube.com/watch?v=OL5gKGgBkq0)
+
+- [ ] [(520) Why Do Computers Use 1s and 0s? Binary and Transistors Explained. - YouTube](https://www.youtube.com/watch?v=Xpk67YzOn5w&t=3s)
+
+- [ ] [(520) 💻 - See How a CPU Works - YouTube](https://www.youtube.com/watch?v=cNN_tTXABUA)
+
+- [ ] [(520) Machine Code and High level Languages Using Interpreters and Compilers - YouTube](https://www.youtube.com/watch?v=1OukpDfsuXE)
+
+- [ ] [(520) lec 4 - Instruction Set : Vocabulary of the Machine - YouTube](https://www.youtube.com/watch?v=tjZ2Mh_MV6g)
+
+- [ ] [(520) Introduction to MIPS datapath (1/21) - YouTube](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(520)%20Introduction%20to%20MIPS%20datapath%20(1%2F21)%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=fStN4Mc2yKU&list=PLPXsMt57rLthe1kihStAdRgGdj3IZ7WHe)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=uvxwawlsDOs)
+
+- [ ] [(12) Script Recording in Chrome - YouTube](https://www.youtube.com/watch?v=covIFCPImTk)
+
+- [ ] [VBot Recorder chrome extension - YouTube](https://www.youtube.com/watch?v=vwZ7mO1yQrk)
