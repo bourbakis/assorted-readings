@@ -118,3 +118,22 @@ vim copy and paste commands | alvinalexander.com
 
 
 - [ ] [iMacros for Chrome - iMacros](https://wiki.imacros.net/iMacros_for_Chrome)
+
+# 9/16/19
+
+- [ ] [Problem loading page](https://www.cato.org/people/david-beckworth)
+- [ ] [Problem loading page](http://macromarketmusings.blogspot.com/)
+- [ ] [itunes.apple.com/us/podcast/macro-musings/id1099277290?mt=2](https://podcasts.apple.com/us/podcast/macro-musings/id1099277290?mt=2)
+- [ ] https://twitter.com/pkedrosky
+- [ ] [David Beckworth | Mercatus Center](https://www.mercatus.org/scholars/david-beckworth)
+- [ ] https://www.reddit.com/r/philosophy/comments/d3swdq/a_famous_argument_against_free_will_has_been/
+
+
+- [] [World's biggest pension fund steps up passive stewardship efforts](https://www.ft.com/content/8e5e0476-f046-3316-b01b-e5b4eac983f1?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push) 
+
+- [ ] [Veritas](https://veritas.icu/)
+- [ ] [On language, history and system design](https://byrd.im/on-language/)
+
+- [ ] [ ](https://soundcloud.com/badtrousers/)
+
+
