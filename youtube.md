@@ -102,3 +102,45 @@
 - [ ] [(12) Script Recording in Chrome - YouTube](https://www.youtube.com/watch?v=covIFCPImTk)
 
 - [ ] [VBot Recorder chrome extension - YouTube](https://www.youtube.com/watch?v=vwZ7mO1yQrk)
+
+## 9/15/2019
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(21) Reading through closed books - YouTube&pos=0&uri=https://www.youtube.com/watch?v=6i25SuJzb0A](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(21)%20Reading%20through%20closed%20books%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=6i25SuJzb0A)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(26) %23PythonInterviewQuestions - YouTube&pos=0&uri=https://www.youtube.com/results?search_query=%23PythonInterviewQuestions](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(26)%20%23PythonInterviewQuestions%20-%20YouTube&pos=0&uri=https://www.youtube.com/results?search_query=%23PythonInterviewQuestions)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(26) %5B4K%5D 190706 【IZONE】- Rumor OT12 Fancam - YouTube&pos=0&uri=https://www.youtube.com/watch?v=yhhcy8fzcds](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(26)%20%5B4K%5D%20190706%20%E3%80%90IZONE%E3%80%91-%20Rumor%20OT12%20Fancam%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=yhhcy8fzcds)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(26) Interview With Marvin Minsky%2C 1990 - YouTube&pos=0&uri=https://www.youtube.com/watch?v=DrmnH0xkzQ8](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(26)%20Interview%20With%20Marvin%20Minsky%2C%201990%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=DrmnH0xkzQ8)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=%23PythonTutorial - YouTube&pos=0&uri=https://www.youtube.com/results?search_query=%23PythonTutorial](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=%23PythonTutorial%20-%20YouTube&pos=0&uri=https://www.youtube.com/results?search_query=%23PythonTutorial)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Intellipaat - YouTube&pos=0&uri=https://www.youtube.com/user/intellipaaat?sub_confirmation=1](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Intellipaat%20-%20YouTube&pos=0&uri=https://www.youtube.com/user/intellipaaat?sub_confirmation=1)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Top 5 Reasons to Learn Python %7C Python Programming Tutorials - YouTube&pos=0&uri=https://www.youtube.com/watch?v=TiFHCjJ8PQ8](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Top%205%20Reasons%20to%20Learn%20Python%20%7C%20Python%20Programming%20Tutorials%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=TiFHCjJ8PQ8)
+
+- [ ] [(15) Jonathan Epstein on Evolutionary computation: The 'other' AI - YouTube](https://www.youtube.com/watch?v=a80gPs-ZKp0)
+
+- [ ] [(15) Marvin Minsky - Artificial Intelligence - YouTube](https://www.youtube.com/watch?v=CIoddZ1NOVM)
+
+- [ ] [(15) MLTalks | Inventive Minds: Marvin Minsky on Education - YouTube](https://www.youtube.com/watch?v=kcPiLx31Tio)
+
+- [ ] [(21) Python Interview Questions | Python Tutorial | Intellipaat - YouTube](https://www.youtube.com/watch?v=XwcJ9_hijdk)
+
+- [ ] [(26) 190817 IZ*ONE Performance Stage con LA 2019 - YouTube](https://www.youtube.com/watch?v=3JgqtKqrjps)
+
+- [ ] [(26) Introducing iMacros - YouTube](https://www.youtube.com/watch?v=TLGgUYpXPGs)
+
+- [ ] [(58) Why Apple Products Are So Expensive Overseas - YouTube](https://www.youtube.com/watch?v=SdrP-t94Mj0)
+
+- [ ] [How to Speak - Patrick Henry Winston - YouTube](https://www.youtube.com/playlist?list=PL9F536001A3C605FC)
+
+- [ ] [HR Interactive Excel Dashboard - YouTube](https://www.youtube.com/watch?v=rsx43g7TBBs)
+
+- [ ] [Introduction to Pivot Tables, Charts, and Dashboards in Excel (Part 1) - YouTube](https://www.youtube.com/watch?v=9NUjHBNWe9M)
+
+- [ ] [Python Tutorial | Python Tutorial for Beginners | Intellipaat - YouTube](https://www.youtube.com/watch?v=5GYeia8IRbg&list=PLVHgQku8Z935Qq0h3SZpSOwSrUMx1y3c9)
+
+- [ ] [World's highest bridge connects Guizhou and Yunnan - YouTube](https://www.youtube.com/watch?v=RAv9IIi6e2Y)
+
+- [ ] [韓國野生象拔蚌 - YouTube](https://www.youtube.com/watch?v=BEH_bAmBWLk)

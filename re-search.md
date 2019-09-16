@@ -207,3 +207,83 @@ Google Search Words
 - [ ] [the book of why 中文 - Google Search](https://www.google.com/search?q=the+book+of+why+%E4%B8%AD%E6%96%87&oq=the+book+of+why+%E4%B8%AD%E6%96%87&aqs=chrome..69i57j69i64l2.6341j0j1&sourceid=chrome&ie=UTF-8)
 
 - [ ] [William Gibson - Google Search](https://www.google.com/search?q=William+Gibson&oq=William+Gibson&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+## 9/15/2019
+
+- [ ] [...](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Good%20Economics%20for%20Hard%20Times%3A%20Better%20Answers%20to%20Our%20Biggest%20Problems%20Abhijit%20Banerjee%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=Good+Economics+for+Hard+Times:+Better+Answers+to+Our+Biggest+Problems+Abhijit+Banerjee&stick=H4sIAAAAAAAAAB3MPQvCMBCAYUQEEVwcHJwOR5dYKILZWhDddBD3Jr2m6dfJXbT07zj6K6Uu7_LAO5-uFqpVezdERfncLpVTUVTUsXkfXL5b11YrQ1T_o8Xn2GeDfCebQlvGLBDrUUSPj7g6NiH6zB5nohxOljpqvRUoiOGScQ5336JoSDEEZEg66ZEFAsH1xZB651AC3JhMg61AYkpf-QBp1iFXiD9fg9MGqwAAAA&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQxA0we3oECGsQBg)
+
+- [ ] [China Shakes the World - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=China%20Shakes%20the%20World%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=China+Shakes+the+World&stick=H4sIAAAAAAAAAONgFuLSz9U3SK80TMsoUAKzTaqy03MstMSyk630k_Lzs8GEVXFmSmp5YmXxKkapNKvE8sSiFKvyzLy81KJiK5CmlGLLSoOMRaxizhmZeYkKwRmJ2anFCiUZqQrh-UU5KQAl_KMxaAAAAA&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQxA0wfHoECGkQDA)
+
+- [ ] [Fault Lines: How Hidden Fractures Still Threaten the World Economy - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Fault%20Lines%3A%20How%20Hidden%20Fractures%20Still%20Threaten%20the%20World%20Economy%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=Fault+Lines:+How+Hidden+Fractures+Still+Threaten+the+World+Economy&stick=H4sIAAAAAAAAAONgFuLSz9U3SK80TMsoUAKzk-INS4xztMSyk630k_Lzs8GEVXFmSmp5YmXxKkapNKvE8sSiFKvyzLy81KJiK5CmlGLLSoOMRaxObomlOSUKPpl5qcVWCh755QoemSkpqXkKbkWJySWlRanFCsElmTk5CiEZRamJJUCJkoxUhfD8opwUBdfk_Lz83EoAGABeT5QAAAA&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQxA0wfHoECGkQBA)
+
+- [ ] [Lords of Finance - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Lords%20of%20Finance%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=Lords+of+Finance&stick=H4sIAAAAAAAAAONgFuLSz9U3SK80TMsoUAKzLU2T8-LTtcSyk630k_Lzs8GEVXFmSmp5YmXxKkapNKvE8sSiFKvyzLy81KJiK5CmlGLLSoOMRawCPvlFKcUK-WkKbpl5iXnJqQBYM9dKYgAAAA&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQxA0wfHoECGkQBg)
+
+- [ ] [poor economics chapter 8 - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=poor%20economics%20chapter%208%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=poor+economics+chapter+8&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQ1QIoBnoECGgQBw&biw=1920&bih=1007)
+
+- [ ] [The Last Tycoons - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=The%20Last%20Tycoons%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=The+Last+Tycoons&stick=H4sIAAAAAAAAAONgFuLSz9U3SK80TMsoUAKzTauMzfPytMSyk630k_Lzs8GEVXFmSmp5YmXxKkapNKvE8sSiFKvyzLy81KJiK5CmlGLLSoOMRawCIRmpCj6JxSUKIZXJ-fl5xQAl24H9YgAAAA&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQxA0wfHoECGkQDg)
+
+- [ ] [The World Is Flat - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=The%20World%20Is%20Flat%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=The+World+Is+Flat&stick=H4sIAAAAAAAAAONgFuLSz9U3SK80TMsoUOIEsc1SjJKTtcSyk630k_Lzs8GEVXFmSmp5YmXxKkapNKvE8sSiFKvyzLy81KJiK5CelGLLSoOMRayCIRmpCuH5RTkpCp7FCm45iSUAJluSImIAAAA&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQxA0wfHoECGkQCA)
+
+- [ ] [When Markets Collide: Investment Strategies for the Age of Global Economic Change Mohamed A. El-Erian - Google Search](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=When%20Markets%20Collide%3A%20Investment%20Strategies%20for%20the%20Age%20of%20Global%20Economic%20Change%20Mohamed%20A.%20El-Erian%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=When+Markets+Collide:+Investment+Strategies+for+the+Age+of+Global+Economic+Change+Mohamed+A.+El-Erian&stick=H4sIAAAAAAAAAB2LsQrCMBQAERHE0cHB6eEoaOtotlKKOHRycH5tXpvYNE-SYImf4-hXWrscB8ct5-tV0idpG0-Neu4mV-_oh8d-09UiqZi7CcJrSQNG_51tG4EDOikGbS05L_6T9OeYqs-C7ooslOg6Ch5yNmb8BFzti3zoyQa4BYeBWk0eGnYQFEHWEnADF8MVGihqttzrGnKFdiwlK-xJQnaEwhwKp9H-APqxXGy3AAAA&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQxA0wfHoECGkQCg)
+
+- [ ] [An unmatched number of scoops - Google Search](https://www.google.com/search?q=An+unmatched+number+of+scoops&oq=An+unmatched+number+of+scoops&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Boy 2010 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRT2M-FA6N3LUoXDlSh_OO_1amhDQ:1568518130984&q=Boy+2010&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzM0syMLQwUuLSz9U3SMpNNixO05LKTrbST8vMyQUTVkWpOYklqSkKxaklxasYpdOsslMry_OLUqxy88syU4utQDqNzE0MKowXsXI45VcqGBkYGgAAVNzlXGIAAAA&sa=X&ved=2ahUKEwjsmpWw8dHkAhUQCqYKHWWND4MQxA0wggF6BAhpEAQ)
+
+- [ ] [Danny Kruger - Google Search](https://www.google.com/search?q=Danny+Kruger&oq=Danny+Kruger&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Eagle vs Shark - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRT2M-FA6N3LUoXDlSh_OO_1amhDQ:1568518130984&q=Eagle+vs+Shark&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzM0syMLQwUuLSz9U3MDI3Lios1pLKTrbST8vMyQUTVkWpOYklqSkKxaklxasYpdOsslMry_OLUqxy88syU4utIDpNDCqMF7HyuSam56QqlBUrBGckFmUDAANfIlpoAAAA&sa=X&ved=2ahUKEwjsmpWw8dHkAhUQCqYKHWWND4MQxA0wggF6BAhpEAg)
+
+- [ ] [Economic development books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=Economic+development+books&stick=H4sIAAAAAAAAAONgFuLSz9U3SK80TMsoUEJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriVYzSaVbFpUlZqcklViCZYiuQJkPDlHjLooxFrFKuyfl5-bmZyQopqWWpOfkFual5JQpghQBLTtaXbQAAAA&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQzTooADB9egQIbBAC)
+
+- [ ] [formidable - Google Search](https://www.google.com/search?q=formidable&oq=formidable&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [his growing band of critics - Google Search](https://www.google.com/search?q=his+growing+band+of+critics&oq=his+growing+band+of+critics&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [including holding late-night and weekend sittings - Google Search](https://www.google.com/search?q=including+holding+late-night+and+weekend+sittings&oq=including+holding+late-night+and+weekend+sittings&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Jacob Rees-Mogg - Google Search](https://www.google.com/search?q=Jacob+Rees-Mogg&oq=Jacob+Rees-Mogg&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Joseph Smith - Google Search](https://www.google.com/search?q=Joseph+Smith&oq=Joseph+Smith&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Julie Margaret Hogben - Google Search](https://www.google.com/search?q=Julie+Margaret+Hogben&oq=Julie+Margaret+Hogben&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Madeleine Albright - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTFmHw8oUsYs5norykS5PLcTqEnlg:1568521313390&q=Madeleine+Albright&stick=H4sIAAAAAAAAAONgFuLUz9U3MLIwLchT4gAx403LirSkspOt9AtS8wtyUoFUUXF-nlVxZkpqeWJl8SJWId_ElNSc1My8VAXHnKSizPSMkh2sjAAO5Yw1SwAAAA&ved=0ahUKEwjV5tOd_dHkAhWlIaYKHflcCqcQ-BYIVDCcAQ&biw=1920&bih=1007)
+
+- [ ] [Making Aid Work Abhijit Banerjee - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=Making+Aid+Work+Abhijit+Banerjee&stick=H4sIAAAAAAAAAONgFuLSz9U3SK80TMsoUOLRT9c3NErKrSqON8nTEstOttJPys_PBhNWxZkpqeWJlcWrGKXSrJKLUhNL8ousQDLFViAjTLIsc0oMF7Eq-CZmZ-alKzhmpiiE5xdlKzgmZWRmZZYoOCXmpRZlpaYCAMeustR0AAAA&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQxA0we3oECGsQBA)
+
+- [ ] [Mark Spencer - Google Search](https://www.google.com/search?q=Mark+Spencer&oq=Mark+Spencer&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Martin Scorsese - Google Search](https://www.google.com/search?q=Martin+Scorsese&oq=Martin+Scorsese&aqs=chrome..69i57j69i59&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Martin Scorsese’s upcoming film The Irishman - Google Search](https://www.google.com/search?q=Martin+Scorsese%E2%80%99s+upcoming+film+The+Irishman&oq=Martin+Scorsese%E2%80%99s+upcoming+film+The+Irishman&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [New York Times columnists - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTrtyOZ-nIjprpRfQXLxMFgk81gzA:1568521153445&q=New+York+Times+columnists&stick=H4sIAAAAAAAAAONgFuLUz9U3MLIwLchTQjC1pLKTrfQLUvMLclKBVFFxfp5VcWZKanliZfEqRuk0K7_UcoXI_KJshZDM3NRiheT8nNLcvMzikuJFrJI45QCvWsosbgAAAA&sa=X&ved=2ahUKEwj00rHR_NHkAhXExIsBHe-2D-wQzTooADBtegQIZBAC)
+
+- [ ] [New York Times journalists - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTrtyOZ-nIjprpRfQXLxMFgk81gzA:1568521153445&q=New+York+Times+journalists&stick=H4sIAAAAAAAAAONgFuLUz9U3MLIwLchTQjC1pLKTrfQLUvMLclKBVFFxfp5VcWZKanliZfEqRpk0K7_UcoXI_KJshZDM3NRihaz80qK8xJzM4pLiRaxSuCUBSfORBHAAAAA&sa=X&ved=2ahUKEwj00rHR_NHkAhXExIsBHe-2D-wQzTooADBuegQIZRAC)
+
+- [ ] [nicholas kristof books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTrtyOZ-nIjprpRfQXLxMFgk81gzA:1568521153445&q=nicholas+kristof+books&stick=H4sIAAAAAAAAAONgFuLUz9U3MLIwLchTQjC1pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWsYnmZyRn5OYnFCtlFmcUl-WkKYNkdrIwA7ZaUmlAAAAA&sa=X&ved=2ahUKEwj00rHR_NHkAhXExIsBHe-2D-wQzTooATB5egQIaBAC)
+
+- [ ] [Nikki da Costa - Google Search](https://www.google.com/search?q=Nikki+da+Costa&oq=Nikki+da+Costa&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Nikki has told us she has a plan to pass a Brexit deal in 10 days flat - Google Search](https://www.google.com/search?q=Nikki+has+told+us+she+has+a+plan+to+pass+a+Brexit+deal+in+10+days+flat&oq=Nikki+has+told+us+she+has+a+plan+to+pass+a+Brexit+deal+in+10+days+flat&aqs=chrome..69i57j69i60.766j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Number 10 - Google Search](https://www.google.com/search?q=Number+10&oq=Number+10&aqs=chrome..69i57j69i60j69i61j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Poor Economics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg5mWgHyC2sG2q6tnGGCzBs7Epog:1568526645010&q=Poor+Economics&stick=H4sIAAAAAAAAAONgFuLSz9U3SK80TMsoUEJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriRax8Afn5RQquyfl5-bmZycU7WBkB-JF26EYAAAA&sa=X&ved=2ahUKEwi7ifyLkdLkAhW7w4sBHWt8DQoQzTooATCOAXoECHMQAg)
+
+- [ ] [siege - Google Search](https://www.google.com/search?q=siege&oq=siege&aqs=chrome..69i57j69i61j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Superheroes and streaming crowd out indy cinema - Google Search](https://www.google.com/search?q=Superheroes+and+streaming+crowd+out+indy+cinema&oq=Superheroes+and+streaming+crowd+out+indy+cinema&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Taika Waititi - Google Search](https://www.google.com/search?q=Taika+Waititi&oq=Taika+Waititi&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [the House of Commons - Google Search](https://www.google.com/search?q=the+House+of+Commons&oq=the+House+of+Commons&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Thor: Ragnarok - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRT2M-FA6N3LUoXDlSh_OO_1amhDQ:1568518130984&q=Thor:+Ragnarok&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzM0syMLQwUuLWz9U3MDQySzIvNNCSyk620k_LzMkFE1ZFqTmJJakpCsWpJcWrGKXTrLJTK8vzi1KscvPLMlOLrUBajcxNDCqMF7HyhWTkF1kpBCWm5yUW5WcDAEgWJYhpAAAA&sa=X&ved=2ahUKEwjsmpWw8dHkAhUQCqYKHWWND4MQxA0wggF6BAhpEAY)
+
+- [ ] [Two Cars, One Night - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRT2M-FA6N3LUoXDlSh_OO_1amhDQ:1568518130984&q=Two+Cars,+One+Night&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzM0syMLQwUuLSz9U3MCqoMLfM1pLKTrbST8vMyQUTVkWpOYklqSkKxaklxasYpdOsslMry_OLUqxy88syU4utwDrNTQwqjBexCoeU5ys4JxYV6yj456Uq-GWmZ5QAAFzhzW9tAAAA&sa=X&ved=2ahUKEwjsmpWw8dHkAhUQCqYKHWWND4MQxA0wggF6BAhpEAw)
+
+- [ ] [Which other tusked mammal lives in the Arctic? - Google Search](https://www.google.com/search?q=Which+other+tusked+mammal+lives+in+the+Arctic%3F&oq=Which+other+tusked+mammal+lives+in+the+Arctic%3F&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [World War II movies - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRT2M-FA6N3LUoXDlSh_OO_1amhDQ:1568518130984&q=World+War+II+movies&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzM0syMLQwUkLlakllJ1vpp2Xm5IIJq6LUnMSS1BSF4tSS4lWMkmlW2amV5flFKVa5-WWZqcVW-rn6BhaGBeWLWIXD84tyUhTCE4sUPD0VINIAi6xibm4AAAA&sa=X&ved=2ahUKEwjsmpWw8dHkAhUQCqYKHWWND4MQzTooADCDAXoECGoQAg)

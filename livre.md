@@ -73,3 +73,25 @@ https://git.io/JeqDQ
 - [ ] [Library Genesis](https://libgen.is/search.php?req=Enigma%3A+The+Battle+for+the+Code&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
 - [ ] [Library Genesis](http://gen.lib.rus.ec/search.php?req=Arthur%20C.%20Clarke&column[]=author)
+
+## 9/15/2019
+
+- [ ] [1002669_10152706417967891_7292154476943446968_n.jpg (960×540)](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=1002669_10152706417967891_7292154476943446968_n.jpg%20(960%C3%97540)&pos=0&uri=https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/1002669_10152706417967891_7292154476943446968_n.jpg?_nc_cat=110&_nc_oc=AQkDzi0sc_DlAf7PEf98SOO5BO23kzlc1yurrjYu4pKxKgvB7b0MfttAv2vDFiT_Bd4&_nc_ht=scontent-dfw5-1.xx&oh=fef44de14fb7df01802e395a32d4cbea&oe=5E08BC30)
+
+- [ ] [Library Genesis](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Library%20Genesis&pos=0&uri=https://libgen.is/search.php?req=+Esther+Duflo&column=author)
+
+- [ ] [Library Genesis](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Library%20Genesis&pos=0&uri=https://libgen.is/search.php?req=Abhijit+Banerjee&column=author)
+
+- [ ] [Library Genesis](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Library%20Genesis&pos=0&uri=https://libgen.is/search.php?&req=SpringerBriefs+in+Economics&phrase=0&view=simple&column=series&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Abhijit Banerjee, Esther Duflo - Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Library%20Genesis%3A%20Abhijit%20Banerjee%2C%20Esther%20Duflo%20-%20Poor%20Economics%3A%20A%20Radical%20Rethinking%20of%20the%20Way%20to%20Fight%20Global%20Poverty&pos=0&uri=https://libgen.is/book/index.php?md5=9359C71AE4FBF41248B16294894FDA27)
+
+- [ ] [Library Genesis: Caroline Freund; Sarah Oliver - Rich People Poor Countries: The Rise of Emerging-Market Tycoons and Their Mega Firms](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Library%20Genesis%3A%20Caroline%20Freund%3B%20Sarah%20Oliver%20-%20Rich%20People%20Poor%20Countries%3A%20The%20Rise%20of%20Emerging-Market%20Tycoons%20and%20Their%20Mega%20Firms&pos=0&uri=https://libgen.is/book/index.php?md5=7EBD2C4F3B85E80ADFD6323FF48B8CF4)
+
+- [ ] [focus-research-csm.png (18×18)](chrome-extension://pnhplgjpclknigjpccbcnmicgcieojbh/diigolet/images/focus-research-csm.png)
+
+- [ ] [Library Genesis](https://libgen.is/search.php?req=Benjamin+Libet&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+- [ ] [Library Genesis](https://libgen.is/search.php?req=Nicholas+Kristof&open=0&res=25&view=simple&phrase=1&column=def)
+
+- [ ] [Library Genesis: Meenakshi Rajeev, B. P. Vani (auth.) - Financial Access of the Urban Poor in India: A Story of Exclusion](https://libgen.is/book/index.php?md5=42D5E75F979FEA88D1B05C1032B6AADF)

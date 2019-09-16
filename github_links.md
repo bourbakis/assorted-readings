@@ -433,3 +433,175 @@ https://github.com/SamyPesse?tab=stars
 - [ ] [weixinbao/WeChatDemo: 微信mac/ipad协议Demo源码，可实现微信80%功能。支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等。](https://github.com/weixinbao/WeChatDemo)
 
 - [ ] [weixinbao/WeChatXY: 微信协议：微信ipad协议源码，可实现微信80%功能。支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等。请联系qq：3226944661](https://github.com/weixinbao/WeChatXY)
+
+## 9/15/2019
+
+- [ ] [AeroPython/01_Lesson01_sourceSink.ipynb at master · barbagroup/AeroPython](https://github.com/barbagroup/AeroPython/blob/master/lessons/01_Lesson01_sourceSink.ipynb)
+
+- [ ] [ageitgey/show-facebook-computer-vision-tags: A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images](https://github.com/ageitgey/show-facebook-computer-vision-tags)
+
+- [ ] [ajfisch (Adam Fisch)](https://github.com/ajfisch)
+
+- [ ] [ajfisch (Adam Fisch) / Followers](https://github.com/ajfisch?tab=followers)
+
+- [ ] [ajfisch (Adam Fisch) / Starred](https://github.com/ajfisch?tab=stars)
+
+- [ ] [ajfisch/Anxiety-Detection: COS 429 final project completed by Adam Fisch and Max Shatkhin. Using image processing techniques including Eulerian Video Magnification (see http://people.csail.mit.edu/mrub/vidmag/) and HSV filtering, as well as prediction algorithms such as an HMM, we try to detect anxiety levels of subjects in videos.](https://github.com/ajfisch/Anxiety-Detection)
+
+- [ ] [ajfisch/Anxiety-Detection: COS 429 final project completed by Adam Fisch and Max Shatkhin. Using image processing techniques including Eulerian Video Magnification (see http://people.csail.mit.edu/mrub/vidmag/) and HSV filtering, as well as prediction algorithms such as an HMM, we try to detect anxiety levels of subjects in videos.](https://github.com/ajfisch/Anxiety-Detection)
+
+- [ ] [ajfisch/Anxiety-Detection: COS 429 final project completed by Adam Fisch and Max Shatkhin. Using image processing techniques including Eulerian Video Magnification (see http://people.csail.mit.edu/mrub/vidmag/) and HSV filtering, as well as prediction algorithms such as an HMM, we try to detect anxiety levels of subjects in videos.](https://github.com/ajfisch/Anxiety-Detection)
+
+- [ ] [ajfisch/TypologyParser: Working Hard or Hardly Working: Challenges of Integrating Typology into Neural Dependency Parsers](https://github.com/ajfisch/TypologyParser)
+
+- [ ] [ariya/phantomjs: Scriptable Headless Browser](https://github.com/ariya/phantomjs)
+
+- [ ] [arogozhnikov/einops: Deep learning operations reinvented (supports tf, pytorch, chainer, gluon and others)](https://github.com/arogozhnikov/einops)
+
+- [ ] [binux/pyspider: A Powerful Spider(Web Crawler) System in Python.](https://github.com/binux/pyspider)
+
+- [ ] [Blizzard/heroprotocol: Python library to decode Heroes of the Storm replay protocols](https://github.com/Blizzard/heroprotocol)
+
+- [ ] [CamDavidsonPilon (Cameron Davidson-Pilon) / Following](https://github.com/CamDavidsonPilon?tab=following)
+
+- [ ] [CamDavidsonPilon (Cameron Davidson-Pilon) / Repositories](https://github.com/CamDavidsonPilon?tab=repositories&type=source)
+
+- [ ] [CamDavidsonPilon/autograd-gamma: NotImplementedError: VJP of gammainc wrt argnum 0 not defined](https://github.com/CamDavidsonPilon/autograd-gamma)
+
+- [ ] [CamDavidsonPilon/PasswordAnalysis: This is a description of human-created passwords using markov models](https://github.com/CamDavidsonPilon/PasswordAnalysis)
+
+- [ ] [CamDavidsonPilon/Playground: Some small scripts that I use](https://github.com/CamDavidsonPilon/Playground)
+
+- [ ] [CamDavidsonPilon/PyconCanada2015: My scrapers, data and analysis for PyCon Canada 2015 Keynote](https://github.com/CamDavidsonPilon/PyconCanada2015)
+
+- [ ] [CamDavidsonPilon/scikit-learn: scikit-learn: machine learning in Python](https://github.com/CamDavidsonPilon/scikit-learn)
+
+- [ ] [The-Golden-Retrieber/BieberReport.pdf at master · CamDavidsonPilon/The-Golden-Retrieber](https://github.com/CamDavidsonPilon/The-Golden-Retrieber/blob/master/BieberReport.pdf)
+
+- [ ] [CamDavidsonPilon/Twittxor: A web-based Twitter game!](https://github.com/CamDavidsonPilon/Twittxor)
+
+- [ ] [casperjs/casperjs: CasperJS is no longer actively maintained. Navigation scripting and testing utility for PhantomJS and SlimerJS](https://github.com/casperjs/casperjs)
+
+- [ ] [Comment_BadruddinAslam2014/Monsoon_analysis.ipynb at master · benlaken/Comment_BadruddinAslam2014](https://github.com/benlaken/Comment_BadruddinAslam2014/blob/master/Monsoon_analysis.ipynb)
+
+- [ ] [erikrose/more-itertools: More routines for operating on iterables, beyond itertools](https://github.com/erikrose/more-itertools)
+
+- [ ] [Hack-with-Github/Awesome-Security-Gists: A collection of various GitHub gists for hackers, pentesters and security researchers](https://github.com/Hack-with-Github/Awesome-Security-Gists)
+
+- [ ] [HeZhang1994/weibo-crawler: To crawl Sina Weibo data (text, JPG/GIF images, live photos, and videos). [简单实用] 爬取新浪微博用户所发表或转发的文本、JPG/GIF图片、实况照片和视频。](https://github.com/HeZhang1994/weibo-crawler)
+
+- [ ] [HHammond/PrettyPandas: A Pandas Styler class for making beautiful tables](https://github.com/HHammond/PrettyPandas)
+
+- [ ] [hill/tldr-chrome: Simplified and community-driven man pages for chrome!](https://github.com/hill/tldr-chrome)
+
+- [ ] [Issues · jupyter/nbviewer](https://github.com/jupyter/nbviewer/issues?q=is%3Aopen+is%3Aissue+label%3Aprovider)
+
+- [ ] [jinfagang (JinTian) / Following](https://github.com/jinfagang?tab=following)
+
+- [ ] [jinfagang (JinTian) / Repositories](https://github.com/jinfagang?tab=repositories&type=source)
+
+- [ ] [jinfagang (JinTian) / Starred](https://github.com/jinfagang?tab=stars)
+
+- [ ] [jinfagang/alfred: alfred-py: A deep learning utility library for visualization and sensor fusion purpose](https://github.com/jinfagang/alfred)
+
+- [ ] [jinfagang/weibo_terminater: Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator](https://github.com/jinfagang/weibo_terminater)
+
+- [ ] [jseabold/538model: 538 Election Forecasting Model](https://github.com/jseabold/538model)
+
+- [ ] [jtleek/capitalIn21stCenturyinR: Piketty in R](https://github.com/jtleek/capitalIn21stCenturyinR)
+
+- [ ] [jupyter/nbviewer: nbconvert as a web service: Render Jupyter Notebooks as static web pages](https://github.com/jupyter/nbviewer)
+
+- [ ] [KartikTalwar (Kartik Talwar) / Following](https://github.com/KartikTalwar?tab=following)
+
+- [ ] [KartikTalwar (Kartik Talwar) / Repositories](https://github.com/KartikTalwar?tab=repositories&type=source)
+
+- [ ] [KartikTalwar (Kartik Talwar) / Starred](https://github.com/KartikTalwar?tab=stars)
+
+- [ ] [marcharper/python-ternary: Ternary plotting library for python with matplotlib](https://github.com/marcharper/python-ternary)
+
+- [ ] [matchai/awesome-pinned-gists: 📌✨ A collection of awesome dynamic pinned gists for GitHub.](https://github.com/matchai/awesome-pinned-gists#readme)
+
+- [ ] [mathisonian/browser-man-switch: A Dead Man's Switch to clear your browser history on OSX](https://github.com/mathisonian/browser-man-switch)
+
+- [ ] [pydata/patsy: Describing statistical models in Python using symbolic formulas](https://github.com/pydata/patsy)
+
+- [ ] [refactor providers by bollwyvl · Pull Request #443 · jupyter/nbviewer](https://github.com/jupyter/nbviewer/pull/443)
+
+- [ ] [Russell91/pythonpy: the swiss army knife of the command line](https://github.com/Russell91/pythonpy)
+
+- [ ] [santinic/pampy: Pampy: The Pattern Matching for Python you always dreamed of.](https://github.com/santinic/pampy)
+
+- [ ] [sashaostr/sklearn-lifelines: sklearn estimator wrappers for lifeline survival analysis Cox proportional hazard and Aalen Additive models from CamDavidsonPilon/lifelines](https://github.com/sashaostr/sklearn-lifelines)
+
+- [ ] [scikit-learn/scikit-learn: scikit-learn: machine learning in Python](https://github.com/scikit-learn/scikit-learn)
+
+- [ ] [Shopify/bevel: Ordinal regression in Python](https://github.com/Shopify/bevel)
+
+- [ ] [srsudar/eg: Useful examples at the command line.](https://github.com/srsudar/eg)
+
+- [ ] [tldr-pages/tldr: Simplified and community-driven man pages](https://github.com/tldr-pages/tldr)
+
+- [ ] [wting/williamting.com: Repository for personal website, built on top of Pelican.](https://github.com/wting/williamting.com)
+
+- [ ] [xchaoinfo/fuck-login: 模拟登录一些知名的网站，为了方便爬取需要登录的网站](https://github.com/xchaoinfo/fuck-login)
+
+- [ ] [zmaril/d3.js-boilerplate: Boilerplate to help speed up d3.js development](https://github.com/zmaril/d3.js-boilerplate)
+
+### Toolkits and useful pythonic tricks
+
+## 9/15/2019
+
+- [ ] [bsolomon1124 (Brad)](https://github.com/bsolomon1124)
+
+- [ ] [daattali (Dean Attali)](https://github.com/daattali)
+
+- [ ] [daattali/github-diff-navigator-extension: Chrome extension that allows you to easily navigate through the changes in a file that has been edited on GitHub.](https://github.com/daattali/github-diff-navigator-extension)
+
+- [ ] [daattali/gslides-betternotes-extension: The slide previews in the Speaker Notes window of Google Slides are tiny and unreadable. This extension automatically resizes the slides when the window is resized, and allows the user to drag the sidebar to select a size.](https://github.com/daattali/gslides-betternotes-extension)
+
+- [ ] [daattali/pftv-ad-bypass-extension: Project Free TV shows an interstitial ad page before allowing users to continue to the video - this extension bypasses that page](https://github.com/daattali/pftv-ad-bypass-extension)
+
+- [ ] [daattali/smileyfy-my-facebook-extension: Chrome extension that adds infinite happiness to your Facebook browsing, plus a little bonus rickrolling :)](https://github.com/daattali/smileyfy-my-facebook-extension)
+
+- [ ] [gahjelle (Geir Arne Hjelle) / Repositories](https://github.com/gahjelle?tab=repositories&type=source)
+
+- [ ] [gahjelle’s gists](https://gist.github.com/gahjelle)
+
+- [ ] [gahjelle (Geir Arne Hjelle) / Following](https://github.com/gahjelle?tab=following)
+
+- [ ] [gahjelle (Geir Arne Hjelle) / Starred](https://github.com/gahjelle?tab=stars)
+
+- [ ] [gahjelle/talks: Talks, presentations, posters](https://github.com/gahjelle/talks)
+
+- [ ] [gahjelle/pitips: Calculate tips in multiples of π](https://github.com/gahjelle/pitips)
+
+- [ ] [gahjelle/pyplugs: Decorator based plugin architecture for Python](https://github.com/gahjelle/pyplugs)
+
+- [ ] [gahjelle/sandbox: Personal sandbox for testing](https://github.com/gahjelle/sandbox)
+
+- [ ] [gahjelle/advent_of_code: My attempts at solving some of the excellent puzzles at adventofcode.com](https://github.com/gahjelle/advent_of_code)
+
+- [ ] [materials/primer-on-python-decorators at master · realpython/materials](https://github.com/realpython/materials/tree/master/primer-on-python-decorators)
+
+- [ ] [mromerdagan/beautiful-python-decorators: Just a collection of many beautiful python decorators](https://github.com/mromerdagan/beautiful-python-decorators)
+
+- [ ] [mromerdagan/memorize-flashcards: Flashcards memorization game (API+client)](https://github.com/mromerdagan/memorize-flashcards)
+
+- [ ] [Real Python](https://github.com/realpython?page=2&type=source)
+
+- [ ] [realpython/book2-exercises: Book 2 -- Exercises for the book](https://github.com/realpython/book2-exercises)
+
+- [ ] [realpython/codetiming: A flexible, customizable timer for your Python code](https://github.com/realpython/codetiming)
+
+- [ ] [realpython/flask-scaffold](https://github.com/realpython/flask-scaffold)
+
+- [ ] [realpython/gutenberg](https://github.com/realpython/gutenberg)
+
+- [ ] [realpython/image-of-the-day: Example application for beanstalk deployment blog](https://github.com/realpython/image-of-the-day)
+
+- [ ] [realpython/materials: Bonus materials, exercises, and example projects for our Python tutorials](https://github.com/realpython/materials)
+
+- [ ] [realpython/python-basics-exercises: Python Basics: A Practical Introduction to Python 3](https://github.com/realpython/python-basics-exercises)
+
+- [ ] [realpython/python-guide: Python best practices guidebook, written for humans.](https://github.com/realpython/python-guide)
