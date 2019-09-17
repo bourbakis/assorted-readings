@@ -38,3 +38,8 @@
 - [ ] [Thinking Recursively in Python – Real Python](https://realpython.com/python-thinking-recursively/)
 
 - [ ] [Welcome to the Real Python Community – Real Python](https://realpython.com/welcome/)
+
+
+# 9/17/19
+
+https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python

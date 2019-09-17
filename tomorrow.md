@@ -169,3 +169,327 @@ tomorrow
 - [ ] [Project Updates | Olexa Bilaniuk's IFT6266H16 Course Blog](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Project%20Updates%20%7C%20Olexa%20Bilaniuk's%20IFT6266H16%20Course%20Blog&pos=0&uri=https://obilaniu6266h16.wordpress.com/category/project-updates/)
 
 - [ ] [Lecture Answers | Olexa Bilaniuk's IFT6266H16 Course Blog](https://obilaniu6266h16.wordpress.com/category/lecture-answers/)
+
+# 9/17/19
+
+Tabarrok on Macro Musings - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/09/tabarrok-on-macro-musings.html
+
+Berkeley markets in everything - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/09/berkeley-markets-in-everything.html
+
+Alex Tabarrok on the Elements of Economic Growth and the Decline of Dynamism | Mercatus Center
+https://www.mercatus.org/bridge/podcasts/09092019/alex-tabarrok-elements-economic-growth-and-decline-dynamism
+
+Sunday assorted links - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/09/sunday-assorted-links-231.html
+
+Waitlisted students offer to pay classmates to drop courses
+https://www.dailycal.org/2019/09/13/waitlisted-students-offer-to-pay-classmates-to-drop-courses/
+
+Career advice in climate change - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/09/career-advice-in-climate-change.html
+
+d2l-ai/d2l-en: Dive into Deep Learning: an interactive deep learning book with code, math, and discussions
+https://github.com/d2l-ai/d2l-en
+
+github - Delete git.io shortened URL - Stack Overflow
+https://stackoverflow.com/questions/44347129/delete-git-io-shortened-url
+
+Sidhin S Thomas
+http://www.sidhin.in/
+
+scrcpy-gui | ✨ A simple & beautiful GUI application for scrcpy
+http://tomotoes.com/scrcpy-gui/
+
+Tomotoes/scrcpy-gui: ✨ A simple & beautiful GUI application for scrcpy
+https://github.com/Tomotoes/scrcpy-gui
+
+XUL Apps > Tree Style Tab - outsider reflex
+https://piro.sakura.ne.jp/xul/_treestyletab.html
+
+KilianB (Kilian Brachtendorf)
+https://github.com/KilianB
+
+Statalog - the catalog of data & studies, created by you!
+https://statalog.org/
+
+Johann Hospice
+https://johannhospice.github.io/
+
+Giorgi Tsereteli
+https://giotsere.github.io/first-portfolio-project/
+
+"Reverse Engineering for Beginners" free book
+https://beginners.re/
+
+Mark Text
+https://marktext.app/
+
+Server Not Found
+https://postimg.org/image/pb71nj6p9/
+
+Problem loading page
+https://vivekpn.github.io/demography-analyzer/
+
+what does processing-orient programming mean go - 国际版 Bing
+https://cn.bing.com/search?q=what+does+processing-orient+programming+mean+go
+
+Subscribe to read | Financial Times
+https://www.ft.com/content/0cb2cde4-9ae5-11e9-b8ce-8b459ed04726
+
+ft.com/content/d6a7a222-d358-11e9-8367-807ebd53ab77
+about:blank
+
+The New Agenda | About us | FT.com
+https://aboutus.ft.com/en-gb/new-agenda/
+
+Problem loading page
+https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/
+
+AI Is Super-Charging The Customer Service World
+https://www.forbes.com/sites/shephyken/2017/11/26/ai-is-super-charging-the-customer-service-world/#43b313ac4f04
+
+John Delury - 国际版 Bing
+https://cn.bing.com/search?q=John+Delury
+
+Robert Weideman - 国际版 Bing
+https://cn.bing.com/search?q=Robert+Weideman
+
+statlit.org/pdf/2018-Pearl-Book-of-Why-Summary-Reviews.pdf
+about:blank
+
+judea Pearl - 国际版 Bing
+https://cn.bing.com/search?q=judea+Pearl++&qs=n&form=QBRE&sp=-1&pq=judea+pearl+&sc=6-12&sk=&cvid=2A22ED4F13C34BD18AAE2438A9F0024A
+
+Judea Pearl - A.M. Turing Award Laureate
+https://amturing.acm.org/award_winners/pearl_2658896.cfm
+
+Problem loading page
+https://www.goodreads.com/author/show/101708.Judea_Pearl
+
+Leslie Lamport's Home Page
+http://www.lamport.org/
+
+twitter.com/WhitfieldDiffie
+about:blank
+
+UC Berkeley’s David A. Patterson Sees the Future After Moore’s Law
+https://sg.news.yahoo.com/uc-berkeley-david-patterson-sees-155226333.html
+
+Problem loading page
+https://twitter.com/thatdudeinblue
+
+Problem loading page
+https://www.youtube.com/user/ThatDudeinBlue
+
+(47) David Patterson | LinkedIn
+https://www.linkedin.com/in/david-patterson-3ba8b/
+
+Problem loading page
+https://www.instagram.com/thatdudeinblue/
+
+Google's TPU for machine learning being evangelized by David Patterson
+https://www.cnbc.com/2017/05/06/googles-tpu-for-machine-learning-being-evangelized-by-david-patterson.html
+
+Problem loading page
+https://medium.com/techatucla/interview-with-david-patterson-recipient-of-acm-a-m-turing-award-2017-ucla-bruin-65195a3ed845
+
+A view of cloud computing | Paper | Microsoft Academic
+https://academic.microsoft.com/paper/2114296561/reference/search?q=A%20view%20of%20cloud%20computing&qe=Or(Id%253D2131629857%252CId%253D2134807578%252CId%253D2289411471%252CId%253D94140358)&f=&orderBy=0
+
+Library Genesis
+https://libgen.is/search.php?req=Probabilities+and+the+Logic+of+Almost+True&open=0&res=25&view=simple&phrase=1&column=def
+
+software:libgen_desktop [The Library Genesis Project Wiki]
+https://wiki.mhut.org/software:libgen_desktop
+
+
+# 9/17/19
+
+Automatic Differentiation, Explained - Towards Data Science
+https://towardsdatascience.com/automatic-differentiation-explained-b4ba8e60c2ad
+
+CAS 737 --- Optimization Software Design
+http://www.cas.mcmaster.ca/~cs777/
+
+Problem loading page
+http://www2.unimaas.nl/~sturm/software/sedumi.html
+
+Area Code 854 - South Carolina
+https://www.inprise.com/areacode/854
+
+cas.mcmaster.ca/~cs777/Notes/optsofintro.pdf
+about:blank
+
+www.Autodiff.org - AD Tools for Julia
+http://www.autodiff.org/?module=Tools&language=Julia
+
+Automatic Differentiation
+http://www.columbia.edu/~ahd2125/post/2015/12/5/
+
+There is no Internet connection  |  TensorFlow
+https://www.tensorflow.org/tutorials/eager/automatic_differentiation
+
+Problem loading page
+https://en.wikipedia.org/wiki/Numerical_differentiation
+
+The Ultimate Guide to Writing &amp; Publishing with Markdown
+https://ghost.org/blog/markdown/
+
+Refactoring Ruby with Monads
+https://codon.com/refactoring-ruby-with-monads
+
+Problem loading page
+https://en.wikipedia.org/wiki/Monad_(functional_programming)
+
+Problem loading page
+https://en.wikipedia.org/wiki/Monad_(functional_programming)#Other_examples
+
+nobu (Nobuyoshi Nakada)
+https://github.com/nobu
+
+Problem loading page
+https://en.wikipedia.org/wiki/Code_smell
+
+Server Not Found
+https://en.wikipedia.org/wiki/Object-oriented_programming
+
+Problem loading page
+https://en.wikipedia.org/wiki/Decorator_pattern
+
+Null References: The Billion Dollar Mistake
+https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
+
+Problem loading page
+https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Null_pointer
+
+Server Not Found
+http://www.lanyrd.com/2014/gogaruco/
+
+Google Java Style Guide
+https://google.github.io/styleguide/javaguide.html
+
+coding style - How to use Pascal Casing and Camel Casing for Short Acronyms in C#? - Stack Overflow
+https://stackoverflow.com/questions/12369539/how-to-use-pascal-casing-and-camel-casing-for-short-acronyms-in-c
+
+Google C++ Style Guide
+https://google.github.io/styleguide/cppguide.html
+
+Style Guide: source files naming should be camel case, not lower case with underscores · Issue #15500 · dart-lang/sdk
+https://github.com/dart-lang/sdk/issues/15500
+
+PEP 8 -- Style Guide for Python Code | Python.org
+https://www.python.org/dev/peps/pep-0008/#id4
+
+PEP 8 -- Style Guide for Python Code | Python.org
+https://www.python.org/dev/peps/pep-0008/#id24
+
+Problem loading page
+https://www.w3schools.com/js/js_conventions.asp
+
+Glossary — Python 3.7.4 documentation
+https://docs.python.org/3/glossary.html#term-decorator
+
+Shell Style Guide
+https://google.github.io/styleguide/shell.xml
+
+Google Vimscript Style Guide
+https://google.github.io/styleguide/vimscriptguide.xml
+
+Problem loading page
+https://developers.google.com/edu/python/
+
+general relativity - Carroll's interpretation of 1-forms - Physics Stack Exchange
+https://physics.stackexchange.com/questions/503102/carrolls-interpretation-of-1-forms
+
+shell - Calling an external command in Python - Stack Overflow
+https://stackoverflow.com/questions/89228/calling-an-external-command-in-python
+
+oop - What are metaclasses in Python? - Stack Overflow
+https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python/100037#100037
+
+Finding the index of an item given a list containing it in Python - Stack Overflow
+https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-given-a-list-containing-it-in-python
+
+Artima Articles
+https://www.artima.com/articles
+
+Artima Weblogs
+https://www.artima.com/weblogs/index.jsp
+
+Artima Weblogs
+https://www.artima.com/weblogs/index.jsp?blogger=guido
+
+Artima Weblogs
+https://www.artima.com/weblogs/index.jsp
+
+Artima Forums
+https://www.artima.com/forums/index.jsp
+
+Problem loading page
+https://www.chromium.org/chromium-os/python-style-guidelines
+
+Example Google Style Python Docstrings — napoleon 0.7 documentation
+https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html
+
+google python coding standard - 国际版 Bing
+https://cn.bing.com/search?q=google+python+coding+standard&FORM=QSRE4
+
+Problem loading page
+https://developers.google.com/edu/python/
+
+How to Start Learning Machine Learning? - GeeksforGeeks
+https://www.geeksforgeeks.org/how-to-start-learning-machine-learning/
+
+JavaScript vs Python : Can Python Overtop JavaScript by 2020? - GeeksforGeeks
+https://www.geeksforgeeks.org/javascript-vs-python-can-python-overtop-javascript-by-2020/
+
+Python | os.path.join() method - GeeksforGeeks
+https://www.geeksforgeeks.org/python-os-path-join-method/
+
+Check if email address valid or not in Python - GeeksforGeeks
+https://www.geeksforgeeks.org/check-if-email-address-valid-or-not-in-python/
+
+Handwritten Equation Solver in Python - GeeksforGeeks
+https://www.geeksforgeeks.org/handwritten-equation-solver-in-python/
+
+try and except in Python - GeeksforGeeks
+https://www.geeksforgeeks.org/try-except-python/
+
+set add() in python - GeeksforGeeks
+https://www.geeksforgeeks.org/set-add-python/
+
+Python | Index of Non-Zero elements in Python list - GeeksforGeeks
+https://www.geeksforgeeks.org/python-index-of-non-zero-elements-in-python-list/
+
+Working with Images in Python - GeeksforGeeks
+https://www.geeksforgeeks.org/working-images-python/
+
+Twitter Sentiment Analysis using Python - GeeksforGeeks
+https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
+
+Mathematical Functions in Python | Set 2 (Logarithmic and Power Functions) - GeeksforGeeks
+https://www.geeksforgeeks.org/mathematical-functions-python-set-2-logarithmic-power-functions/
+
+scala programming - 国际版 Bing
+https://cn.bing.com/search?q=scala+programming
+
+scala programming udemy - 国际版 Bing
+https://cn.bing.com/search?q=scala+programming+udemy&lvl=1&FORM=PMETIS&filters=ans%3a%22cvns%22+level%3a%220%22+mcid%3a%2215f9fae50c324bcfbaa5e01ef3c39915%22&idx=1
+
+scala programming coursera - 国际版 Bing
+https://cn.bing.com/search?q=scala+programming+coursera&lvl=1&FORM=PMETIS&filters=ans%3a%22cvns%22+level%3a%220%22+mcid%3a%2215f9fae50c324bcfbaa5e01ef3c39915%22&idx=0
+
+List Comprehensions in R | R-bloggers
+https://www.r-bloggers.com/list-comprehensions-in-r/
+
+Problem loading page
+https://www.quora.com/What-is-the-equivalent-to-a-Python-list-comprehension-in-R
+
+Problem loading page
+https://medium.com/@ThomasMailund/list-comprehension-in-r-3579b6e1dab9
+
+Problem loading page
+https://www.quora.com/Whats-the-R-equivalent-to-a-Pythonista
+

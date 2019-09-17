@@ -136,4 +136,6 @@ vim copy and paste commands | alvinalexander.com
 
 - [ ] [ ](https://soundcloud.com/badtrousers/)
 
+# 9/17/19
 
+- [ ] [Artificial intelligence technologies in human services programs | Deloitte Insights](https://www2.deloitte.com/us/en/insights/industry/public-sector/artificial-intelligence-technologies-human-services-programs.html)
