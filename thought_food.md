@@ -1,0 +1,29 @@
+## 9/14/2019
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=*The Years That Matter Most%3A How College Makes or Breaks Us* - Marginal REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/the-years-that-matter-most-how-college-makes-or-breaks-us.html](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=*The%20Years%20That%20Matter%20Most%3A%20How%20College%20Makes%20or%20Breaks%20Us*%20-%20Marginal%20REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/the-years-that-matter-most-how-college-makes-or-breaks-us.html)
+
+- [ ] [Consumers seem to like search engine advertising - Marginal REVOLUTION](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Consumers%20seem%20to%20like%20search%20engine%20advertising%20-%20Marginal%20REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/consumers-seem-to-like-search-engine-advertising.html)
+
+- [ ] [Search Advertising and Information Discovery: Are Consumers Averse to Sponsored Messages? by Navdeep S. Sahni, Charles Zhang :: SSRN](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Search%20Advertising%20and%20Information%20Discovery%3A%20Are%20Consumers%20Averse%20to%20Sponsored%20Messages%3F%20by%20Navdeep%20S.%20Sahni%2C%20Charles%20Zhang%20%3A%3A%20SSRN&pos=0&uri=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441786)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Distinctive people %7C National Affairs&pos=0&uri=https://www.nationalaffairs.com/blog/detail/findings-a-daily-roundup/distinctive-people](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Distinctive%20people%20%7C%20National%20Affairs&pos=0&uri=https://www.nationalaffairs.com/blog/detail/findings-a-daily-roundup/distinctive-people)
+
+- [ ] [Corn markets in everything - Marginal REVOLUTION](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Corn%20markets%20in%20everything%20-%20Marginal%20REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/corn-markets-in-everything.html)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=www.wsj.com&pos=0&uri=https://www.wsj.com/articles/how-do-farmers-make-money-on-corn-by-charging-to-shoot-it-from-a-cannon-11568129784](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=www.wsj.com&pos=0&uri=https://www.wsj.com/articles/how-do-farmers-make-money-on-corn-by-charging-to-shoot-it-from-a-cannon-11568129784)
+
+- [ ] [www.wsj.com](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=www.wsj.com&pos=0&uri=https://www.wsj.com/articles/corn-wheat-prices-fall-on-usda-report-11565636279?mod=article_inline)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Existential risk and growth - Marginal REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/existential-risk-and-growth.html](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Existential%20risk%20and%20growth%20-%20Marginal%20REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/existential-risk-and-growth.html)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=My Conversation with Samantha Power - Marginal REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/my-conversation-with-samantha-power.html](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=My%20Conversation%20with%20Samantha%20Power%20-%20Marginal%20REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/my-conversation-with-samantha-power.html)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=The Education of an Idealist%3A A Memoir%3A Samantha Power%3A 9780062820693%3A Amazon.com%3A Gateway&pos=0&uri=https://www.amazon.com/Education-Idealist-Memoir-Samantha-Power/dp/0062820699/ref=sr_1_2?keywords=samantha+power&qid=1568165039&s=gateway&sr=8-2/marginalrevol-20](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=The%20Education%20of%20an%20Idealist%3A%20A%20Memoir%3A%20Samantha%20Power%3A%209780062820693%3A%20Amazon.com%3A%20Gateway&pos=0&uri=https://www.amazon.com/Education-Idealist-Memoir-Samantha-Power/dp/0062820699/ref=sr_1_2?keywords=samantha+power&qid=1568165039&s=gateway&sr=8-2/marginalrevol-20)
+
+- [ ] [Stable Money Implies an Inverted Yield Curve - Marginal REVOLUTION](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Stable%20Money%20Implies%20an%20Inverted%20Yield%20Curve%20-%20Marginal%20REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/stable-money-implies-an-inverted-yield-curve.html)
+
+- [ ] [chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=What kind of industrial policy does America need%3F - Marginal REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/what-kind-of-industrial-policy-does-america-need.html](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=What%20kind%20of%20industrial%20policy%20does%20America%20need%3F%20-%20Marginal%20REVOLUTION&pos=0&uri=https://marginalrevolution.com/marginalrevolution/2019/09/what-kind-of-industrial-policy-does-america-need.html)
+
+- [ ] [Netanyahu: Iran had secret nuclear weapons development site in Abadeh - Reuters](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Netanyahu%3A%20Iran%20had%20secret%20nuclear%20weapons%20development%20site%20in%20Abadeh%20-%20Reuters&pos=0&uri=https://www.reuters.com/article/us-iran-nuclear-iaea-israel-idUSKCN1VU1T5)
+
+- [ ] [&quot;A Problem From Hell:&quot; America and the Age of Genocide, by Samantha Power (Basic Books) - The Pulitzer Prizes](https://www.pulitzer.org/winners/samantha-power)
