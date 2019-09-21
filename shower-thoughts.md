@@ -11,3 +11,8 @@ The definition of math
 
 - art of change perspectives 
 - art of pattern recognition.
+
+
+# 9/21/19
+
+一本书做到面面俱到很难。全面不是很重要。全面可以google到。优秀的书不全面，可能更能突出其特地。
