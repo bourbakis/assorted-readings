@@ -617,3 +617,45 @@ https://www.google.com/search?client=firefox-b-d&q=matroid+and+deep+learning
 google.com/url?sa=t&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwiQ9dvQ6ejkAhVkkeAKHZRPAcwQFjADegQIBBAC&url=http%3A%2F%2Fwww.cs.cmu.edu%2F~ninamf%2Ftalks%2Fmodern-ml-challenges-connections.pdf&usg=AOvVaw3mhQr5aJJJlOvSJzbAlp_H
 about:blank
 
+
+
+
+## 9/25/2019
+
+- [ ] [Canadian markets in everything but they need a British person too - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/canadian-markets-in-everything-but-they-need-a-british-person-too.html)
+
+- [ ] [Canadian markets in everything but they need a British person too - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/canadian-markets-in-everything-but-they-need-a-british-person-too.html)
+
+- [ ] [Dining out in Karachi - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/food-in-karachi.html)
+
+- [ ] [Do workers discriminate against female bosses? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/do-workers-discriminate-against-female-bosses.html)
+
+- [ ] [Friday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/friday-assorted-links-228.html)
+
+- [ ] [From the comments - the power of professors - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/from-the-comments-the-power-of-professors.html)
+
+- [ ] [How Harvard makes admissions decisions - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/how-harvard-makes-admissions-decisions.html)
+
+- [ ] [How much does advertising matter anyway? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/how-much-does-advertising-matter-anyway.html)
+
+- [ ] [How strong is the evidence that the EITC boosts labor supply? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/how-strong-is-the-evidence-that-the-eitc-boosts-labor-supply.html)
+
+- [ ] [How to reform the economics Ph.D - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/how-to-reform-the-economics-ph-d.html)
+
+- [ ] [Monday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/monday-assorted-links-222.html)
+
+- [ ] [Premature Imitation and India's Flailing State - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/premature-imitation-and-indias-flailing-state.html)
+
+- [ ] [Saturday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/saturday-assorted-links-227.html)
+
+- [ ] [Sunday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/sunday-assorted-links-232.html)
+
+- [ ] [The new Catholic illiberals - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/the-new-catholic-illiberals.html)
+
+- [ ] [U.S.A. fact of the day - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/u-s-a-fact-of-the-day-4.html)
+
+- [ ] [We had Nash and Schelling - who did the Soviets have? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/we-had-nash-and-schelling-who-did-the-soviets-have.html)
+
+- [ ] [What should I ask Henry Farrell? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/what-should-i-ask-henry-farrell.html)
+
+

@@ -95,3 +95,78 @@ https://git.io/JeqDQ
 - [ ] [Library Genesis](https://libgen.is/search.php?req=Nicholas+Kristof&open=0&res=25&view=simple&phrase=1&column=def)
 
 - [ ] [Library Genesis: Meenakshi Rajeev, B. P. Vani (auth.) - Financial Access of the Urban Poor in India: A Story of Exclusion](https://libgen.is/book/index.php?md5=42D5E75F979FEA88D1B05C1032B6AADF)
+
+
+## 9/25/2019
+
+- [ ] [Amazon | Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction | Guido W. Imbens, Donald B. Rubin | Applied](https://www.amazon.co.jp/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884/ref=pd_sim_14_19?_encoding=UTF8&pd_rd_i=0521885884&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [Amazon | Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction | Guido W. Imbens, Donald B. Rubin | Applied](https://www.amazon.co.jp/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884/ref=pd_sim_14_19?_encoding=UTF8&pd_rd_i=0521885884&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [Amazon | Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan | John Kruschke | Mathematical Analysis](https://www.amazon.co.jp/Doing-Bayesian-Data-Analysis-Second/dp/0124058884/ref=pd_sim_14_18?_encoding=UTF8&pd_rd_i=0124058884&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [Amazon | Statistical Rethinking: A Bayesian Course with Examples in R and Stan (Chapman & Hall/CRC Texts in Statistical Science) | Richard McElreath | Applied](https://www.amazon.co.jp/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445)
+
+- [ ] [Amazon | Statistical Rethinking: A Bayesian Course with Examples in R and Stan (Chapman & Hall/CRC Texts in Statistical Science) | Richard McElreath | Applied](https://www.amazon.co.jp/Statistical-Rethinking-Bayesian-Examples-Chapman/dp/1482253445)
+
+- [ ] [Pythonで体験するベイズ推論 PyMCによるMCMC入門 | キャメロン デビッドソン=ピロン, 玉木 徹 |本 | 通販 | Amazon](https://www.amazon.co.jp/Python%E3%81%A7%E4%BD%93%E9%A8%93%E3%81%99%E3%82%8B%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E8%AB%96-PyMC%E3%81%AB%E3%82%88%E3%82%8BMCMC%E5%85%A5%E9%96%80-%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3-%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%82%BD%E3%83%B3-%E3%83%94%E3%83%AD%E3%83%B3/dp/4627077912/ref=pd_sim_14_59?_encoding=UTF8&pd_rd_i=4627077912&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [StanとRでベイズ統計モデリング (Wonderful R) | 松浦 健太郎, 石田 基広 |本 | 通販 | Amazon](https://www.amazon.co.jp/Stan%E3%81%A8R%E3%81%A7%E3%83%99%E3%82%A4%E3%82%BA%E7%B5%B1%E8%A8%88%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0-Wonderful-R-%E6%9D%BE%E6%B5%A6-%E5%81%A5%E5%A4%AA%E9%83%8E/dp/4320112423/ref=pd_sim_14_3/358-2546300-2973908?_encoding=UTF8&pd_rd_i=4320112423&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [ガウス過程と機械学習 (機械学習プロフェッショナルシリーズ) | 持橋 大地, 大羽 成征 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E3%82%AC%E3%82%A6%E3%82%B9%E9%81%8E%E7%A8%8B%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E6%8C%81%E6%A9%8B-%E5%A4%A7%E5%9C%B0/dp/4061529269/ref=pd_sim_14_6/358-2546300-2973908?_encoding=UTF8&pd_rd_i=4061529269&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [ビッグデータ統計解析入門 経済学部/経営学部で学ばない統計学 | 照井 伸彦 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E3%83%93%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC%E3%82%BF%E7%B5%B1%E8%A8%88%E8%A7%A3%E6%9E%90%E5%85%A5%E9%96%80-%E7%B5%8C%E6%B8%88%E5%AD%A6%E9%83%A8-%E7%B5%8C%E5%96%B6%E5%AD%A6%E9%83%A8%E3%81%A7%E5%AD%A6%E3%81%B0%E3%81%AA%E3%81%84%E7%B5%B1%E8%A8%88%E5%AD%A6-%E7%85%A7%E4%BA%95-%E4%BC%B8%E5%BD%A6/dp/4535559015/ref=pd_sim_14_11?_encoding=UTF8&pd_rd_i=4535559015&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [圏論入門 (数学のかんどころ) | 前原 和壽 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E5%9C%8F%E8%AB%96%E5%85%A5%E9%96%80-%E6%95%B0%E5%AD%A6%E3%81%AE%E3%81%8B%E3%82%93%E3%81%A9%E3%81%93%E3%82%8D-%E5%89%8D%E5%8E%9F-%E5%92%8C%E5%A3%BD/dp/4320110765/ref=pd_sim_14_70?_encoding=UTF8&pd_rd_i=4320110765&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [実践Data Scienceシリーズ RとStanではじめる ベイズ統計モデリングによるデータ分析入門 | 馬場 真哉 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5Data-Science%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-R%E3%81%A8Stan%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B-%E3%83%99%E3%82%A4%E3%82%BA%E7%B5%B1%E8%A8%88%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80-%E9%A6%AC%E5%A0%B4/dp/4065165369/ref=pd_sim_14_1/358-2546300-2973908?_encoding=UTF8&pd_rd_i=4065165369&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [機械学習スタートアップシリーズ Pythonで学ぶ強化学習 入門から実践まで (KS情報科学専門書) | 久保 隆宏 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-Python%E3%81%A7%E5%AD%A6%E3%81%B6%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92-%E5%85%A5%E9%96%80%E3%81%8B%E3%82%89%E5%AE%9F%E8%B7%B5%E3%81%BE%E3%81%A7-KS%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E4%B9%85%E4%BF%9D/dp/4065142989/ref=pd_sim_14_5/358-2546300-2973908?_encoding=UTF8&pd_rd_i=4065142989&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [機械学習スタートアップシリーズ Pythonで学ぶ強化学習 入門から実践まで (KS情報科学専門書) | 久保 隆宏 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-Python%E3%81%A7%E5%AD%A6%E3%81%B6%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92-%E5%85%A5%E9%96%80%E3%81%8B%E3%82%89%E5%AE%9F%E8%B7%B5%E3%81%BE%E3%81%A7-KS%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E4%B9%85%E4%BF%9D/dp/4065142989/ref=pd_sim_14_5/358-2546300-2973908?_encoding=UTF8&pd_rd_i=4065142989&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [深層学習 | Ian Goodfellow, Yoshua Bengio, Aaron Courville, 岩澤 有祐, 鈴木 雅大, 中山 浩太郎, 松尾 豊, 味曽野 雅史, 黒滝 紘生, 保住 純, 野中 尚輝, 河野 慎, 冨山 翔司, 角田 貴大 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92-Ian-Goodfellow/dp/4048930621/ref=pd_sim_14_12?_encoding=UTF8&pd_rd_i=4048930621&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [社会科学のためのデータ分析入門(上) | 今井 耕介, 粕谷 祐子, 原田 勝孝, 久保 浩樹 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80-%E4%B8%8A-%E4%BB%8A%E4%BA%95-%E8%80%95%E4%BB%8B/dp/400061245X/ref=pd_sim_14_9?_encoding=UTF8&pd_rd_i=400061245X&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [統計的パターン認識と判別分析 (シリーズ 情報科学における確率モデル 1) | 栗田 多喜夫, 日高 章理 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E7%B5%B1%E8%A8%88%E7%9A%84%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E3%81%A8%E5%88%A4%E5%88%A5%E5%88%86%E6%9E%90-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%A2%BA%E7%8E%87%E3%83%A2%E3%83%87%E3%83%AB-%E6%A0%97%E7%94%B0-%E5%A4%9A%E5%96%9C%E5%A4%AB/dp/4339028312/ref=pd_sim_14_60?_encoding=UTF8&pd_rd_i=4339028312&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [行動データの計算論モデリング: 強化学習モデルを例として | 片平 健太郎 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E8%A1%8C%E5%8B%95%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E8%A8%88%E7%AE%97%E8%AB%96%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0-%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E4%BE%8B%E3%81%A8%E3%81%97%E3%81%A6-%E7%89%87%E5%B9%B3-%E5%81%A5%E5%A4%AA%E9%83%8E/dp/4274222616/ref=pd_sim_14_20?_encoding=UTF8&pd_rd_i=4274222616&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+- [ ] [進化心理学を学びたいあなたへ: パイオニアからのメッセージ | 平石 界, 長谷川 寿一, 的場 知之, 王 暁田, 蘇 彦捷 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E9%80%B2%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%A6%E3%82%92%E5%AD%A6%E3%81%B3%E3%81%9F%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8-%E3%83%91%E3%82%A4%E3%82%AA%E3%83%8B%E3%82%A2%E3%81%8B%E3%82%89%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8-%E5%B9%B3%E7%9F%B3-%E7%95%8C/dp/413013311X/ref=pd_sim_14_68?_encoding=UTF8&pd_rd_i=413013311X&pd_rd_r=19b9fbe3-0dfb-42dc-b5b8-036e817f91a7&pd_rd_w=B2LRt&pd_rd_wg=Z8jBn&pf_rd_p=db92e733-2248-4313-a3e1-d349f5cafca0&pf_rd_r=BEAXXKANQSQW24C0STWE&psc=1&refRID=BEAXXKANQSQW24C0STWE)
+
+
+
+## 9/25/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Eric+Freeman&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Joseph+M.+Reagle+Jr&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Peter+J.+Denning&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Eric Freeman - Head First Learn to Code: A Learner’s Guide to Coding and Computational Thinking](http://libgen.is/book/index.php?md5=B6AA6EBB7A5E81905AD6824EE17948D1)
+
+- [ ] [Library Genesis: Joseph M. Reagle Jr - Hacking Life: Systematized Living and Its Discontents (Strong Ideas)](http://libgen.is/book/index.php?md5=F8F11BA06D3583FEDF6A0ADFABDEE9D5)
+
+- [ ] [Library Genesis: Karl Beecher - Computational Thinking: A Beginner’s Guide to Problem-Solving and Programming](http://libgen.is/book/index.php?md5=6B673BD79A2CE71EB76660A41121C6B7)
+
+- [ ] [Library Genesis: Karl Beecher - Computational Thinking. A Beginner’s Guide to Problem-Solving and Programming](http://libgen.is/book/index.php?md5=D697820A85B7291D5110EF7CFEC608CA)
+
+- [ ] [Library Genesis: Matti Tedre - The Science of Computing: Shaping a Discipline](http://libgen.is/book/index.php?md5=7A980CB857D68B2286CF619DC2D4DD7C)
+
+- [ ] [Library Genesis: Peter J Denning - The Invisible future : the seamless integration of technology into everyday life](http://libgen.is/book/index.php?md5=12286DCD182B8B750903C3981DAD8404)
+
+- [ ] [Library Genesis: Peter J. Denning, Craig H. Martell, Vint Cerf - Great Principles of Computing](http://libgen.is/book/index.php?md5=CCA5D1C9D506E95CD7CBFE747AE96344)
+
+- [ ] [Library Genesis: Sarbo Roy - CS 101: An Introduction to Computational Thinking](http://libgen.is/book/index.php?md5=E846EF10EAA72723349D0A098C1B1EA7)
+
+
+
+## 9/25/2019
+
+- [ ] [Amazon.com: Computational Thinking: A beginner's guide to problem-solving and programming eBook: Karl Beecher: Kindle Store](https://www.amazon.com/Computational-Thinking-beginners-problem-solving-programming-ebook/dp/B072MGKS96)
+
+- [ ] [Computational Thinking (MIT Press Essential Knowledge series): Peter J. Denning, Matti Tedre: 9780262536561: Amazon.com: Books](https://www.amazon.com/Computational-Thinking-Press-Essential-Knowledge/dp/0262536560)
+
+- [ ] [https://www.amazon.com/Raghuram-Rajan/e/B0039XA4X8%3Fref=dbs_a_mng_rwt_scns_share](https://www.amazon.com/Raghuram-Rajan/e/B0039XA4X8%3Fref=dbs_a_mng_rwt_scns_share)
