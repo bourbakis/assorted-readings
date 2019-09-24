@@ -265,3 +265,11 @@ https://www.osha.gov/pls/imis/sic_manual.html
 Opinion | Putting Corporate Cash to Work - The New York Times
 https://www.nytimes.com/2013/03/10/opinion/sunday/putting-corporate-cash-to-work.html?_r=0
 
+
+## 9/24/19
+
+- [ ] [matroid - Google Search](https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNTeP2O9MRRddrbwqLw9ALUVtZ2SdA%3A1569299642799&ei=upyJXfimMKa4ggeLz4qwAg&q=matroid&oq=matroid&gs_l=psy-ab.3..35i39j0i273j0j0i20i263j0l5j0i10.62086.62641..63209...0.2..0.661.1828.5-3......0....1..gws-wiz.......0i71.a8YxXyDujmI&ved=0ahUKEwj464Te0OjkAhUmnOAKHYunAiYQ4dUDCAo&uact=5)
+
+- [ ] [matroid founder - Google Search](https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNTdAl5CdMZdUYKWGoci3zxgvoGxNQ%3A1569299620145&ei=pJyJXbK2CMOc_Qbqj59A&q=matroid+founder&oq=foudner+matroi&gs_l=psy-ab.3.0.0i22i30.3111.6471..9921...0.3..0.1185.5455.4-1j2j3j1......0....1..gws-wiz.......0i71j0i13j0i13i30j0i13i10i30j0i8i13i30.lbPUDTfLsjM)
+
+- [ ] [foudner matrio - Google Search](https://www.google.com/search?client=firefox-b-d&q=foudner+matrio)

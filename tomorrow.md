@@ -493,3 +493,127 @@ https://medium.com/@ThomasMailund/list-comprehension-in-r-3579b6e1dab9
 Problem loading page
 https://www.quora.com/Whats-the-R-equivalent-to-a-Pythonista
 
+
+# 9/24/19
+
+
+scrcpy-gui | ✨ A simple & beautiful GUI application for scrcpy
+http://tomotoes.com/scrcpy-gui/
+
+日语语法指南 | Learn Japanese
+https://res.wokanxing.info/jpgramma/
+
+LaTeX Search: Find LaTeX commands
+https://latex.guide/
+
+Google Sheets
+https://docs.google.com/spreadsheets/u/0/?ftv=1
+
+Untitled spreadsheet - Google Sheets
+https://docs.google.com/spreadsheets/d/1jbXBSszwFzK9ThoI9b90qijRE2wJcMW6ejeda7-EskA/edit#gid=255667932
+
+ゲーム理論家botさんはTwitterを使っています: 「ポール・アンソニー・サミュエルソン アメリカを代表する経済学者。 ケインズ経済学と新古典派経済学を総合する新古典派総合の理論を確立。1970年、ノーベル経済学賞受賞。経済学を数学的に精密化し、モデル科学として立脚させた立役者とされる。均衡解とゲーム理論との対応の研究がある。」 / Twitter
+https://twitter.com/gametheory4/status/1176274471176396800
+
+Mara Averick（@dataandme）さん / Twitter
+https://twitter.com/dataandme
+
+25 Tricks for Pandas
+https://www.kdnuggets.com/2019/08/25-tricks-pandas.html
+
+Which Data Science Skills are core and which are hot/emerging ones?
+https://www.kdnuggets.com/2019/09/core-hot-data-science-skills.html
+
+Jupyter Notebook Viewer
+https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb
+
+Data School
+https://www.dataschool.io/
+
+Release Taking a hardLine · typelevel/paiges
+https://github.com/typelevel/paiges/releases/tag/v0.3.0
+
+科技爱好者周刊：第 74 期 - 阮一峰的网络日志
+http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html
+
+The Human API Manifesto - Study Hacks - Cal Newport
+http://www.calnewport.com/blog/2018/09/18/the-human-api-manifesto/
+
+Blog Archive - Cal Newport
+http://www.calnewport.com/blog/archive/
+
+About - Cal Newport
+http://www.calnewport.com/about/
+
+About - Cal Newport
+http://www.calnewport.com/about/
+
+Digital Minimalism: Choosing a Focused Life in a Noisy World - Cal Newport
+http://www.calnewport.com/books/digital-minimalism/
+
+Calvin Newport -- Georgetown University
+http://people.cs.georgetown.edu/~cnewport/
+
+Nancy Lynch's Home Page
+http://people.csail.mit.edu/lynch/
+
+Nancy Lynch's Home Page
+http://people.csail.mit.edu/lynch/
+
+Hari Balakrishnan
+http://nms.csail.mit.edu/~hari/
+
+Networks and Mobile Systems
+http://nms.lcs.mit.edu/
+
+COSC 030 - Math Methods for Computer Science (Fall 2019)
+http://people.cs.georgetown.edu/~cnewport/teaching/cosc030-fall19/
+
+Discrete Structures: What Is Discrete Math?
+https://cse.buffalo.edu/~rapaport/191/S09/whatisdiscmath.html
+
+RStudio Cloud
+https://rstudio.cloud/project/545677
+
+Popular Blocks - bl.ocks.org
+https://bl.ocks.org/
+
+#dataviz - Twitter Search / Twitter
+https://twitter.com/hashtag/dataviz?lang=en
+
+Randy Olson（@randal_olson）さん / Twitter
+https://twitter.com/randal_olson
+
+Mara Averick（@dataandme）さん / Twitter
+https://twitter.com/dataandme
+
+Matroid - Wikipedia
+https://en.wikipedia.org/wiki/Matroid
+
+math.lsu.edu/~oxley/survey4.pdf
+about:blank
+
+Wayback Machine
+https://web.archive.org/web/20100812232232/http://www.math.washington.edu/~hubenjm/matroid2.pdf
+
+Stephen C. Locke
+http://math.fau.edu/locke/
+
+PDF - Wikipedia
+https://en.wikipedia.org/wiki/PDF
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=2ahUKEwiR86X_0OjkAhWBVt8KHT6aBoYQFjAGegQIRRAC&url=https%3A%2F%2Fwww.whitman.edu%2FDocuments%2FAcademics%2FMathematics%2Fhillman.pdf&usg=AOvVaw0vAkycDjxR8fAvbiGxoWsl
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=2ahUKEwiR86X_0OjkAhWBVt8KHT6aBoYQFjAGegQIRRAC&url=https%3A%2F%2Fwww.whitman.edu%2FDocuments%2FAcademics%2FMathematics%2Fhillman.pdf&usg=AOvVaw0vAkycDjxR8fAvbiGxoWsl
+
+h2o interpretation - Google Search
+https://www.google.com/search?client=firefox-b-d&q=h2o+interpretation
+
+Model Interpretation — Using Driverless AI 1.7.1 documentation
+http://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/interpreting.html
+
+matroid and deep learning - Google Search
+https://www.google.com/search?client=firefox-b-d&q=matroid+and+deep+learning
+
+google.com/url?sa=t&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwiQ9dvQ6ejkAhVkkeAKHZRPAcwQFjADegQIBBAC&url=http%3A%2F%2Fwww.cs.cmu.edu%2F~ninamf%2Ftalks%2Fmodern-ml-challenges-connections.pdf&usg=AOvVaw3mhQr5aJJJlOvSJzbAlp_H
+about:blank
+

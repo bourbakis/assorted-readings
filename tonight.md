@@ -139,3 +139,55 @@ vim copy and paste commands | alvinalexander.com
 # 9/17/19
 
 - [ ] [Artificial intelligence technologies in human services programs | Deloitte Insights](https://www2.deloitte.com/us/en/insights/industry/public-sector/artificial-intelligence-technologies-human-services-programs.html)
+
+
+# 9/24/19
+
+日语语法指南 | Learn Japanese
+https://res.wokanxing.info/jpgramma/
+
+LaTeX Search: Find LaTeX commands
+https://latex.guide/
+
+alain connes string theory and rieman hypothesis - Google Search
+https://www.google.com/search?client=firefox-b-d&q=alain+connes+string+theory+and+rieman+hypothesis
+
+hilary putnam - Google Search
+https://www.google.com/search?client=firefox-b-d&q=hilary+putnam
+
+Riemann hypothesis and physics in nLab
+https://ncatlab.org/nlab/show/Riemann+hypothesis+and+physics
+
+Introduction – Learn Japanese
+http://www.guidetojapanese.org/learn/grammar
+
+Amazon.com: A Guide to Japanese Grammar: A Japanese approach to learning Japanese grammar (8601411213038): Mr Tae K Kim: Books
+https://www.amazon.com/Guide-Japanese-Grammar-approach-learning/dp/1495238962
+
+日语语法指南 | Learn Japanese
+https://res.wokanxing.info/jpgramma/
+
+nt.number theory - What really is the link between quantum gravity and the Riemann Hypothesis that was speculated by Connes and Marcolli? - MathOverflow
+https://mathoverflow.net/questions/321756/what-really-is-the-link-between-quantum-gravity-and-the-riemann-hypothesis-that
+
+superstring theory book - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNRjbxylOMimr9QpTzCyU7UkU_YBdA%3A1569310049520&ei=YcWJXcWsH8-6ggfkpqC4Bw&q=superstring+theory+book&oq=superstring+theory+book&gs_l=psy-ab.3..0j0i22i30.51483.57624..57924...0.0..0.835.11632.4-3j11j5......0....1..gws-wiz.......35i39j0i273j0i131j0i67j0i20i263j0i10.R1-tK44KyFM&ved=0ahUKEwiF4azA9-jkAhVPneAKHWQTCHcQ4dUDCAo&uact=5
+
+The Best Books on String Theory | Five Books Expert Recommendations
+https://fivebooks.com/best-books/string-theory-steve-gubser/
+
+Popular String Theory Books
+https://www.goodreads.com/shelf/show/string-theory
+
+Max Tegmark - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Max+Tegmark
+
+PDF Scraping in R with tabulizer | R-bloggers
+https://www.r-bloggers.com/pdf-scraping-in-r-with-tabulizer/
+
+The Universes of Max Tegmark
+https://space.mit.edu/home/tegmark/popular.html
+
+Max Tegmark - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNTKiC6qnSssxwDj-hVKac0FHPYNlA:1569310919571&q=Max+Tegmark&stick=H4sIAAAAAAAAAONgFuLUz9U3MDQvSk5WQjC1pLKTrfQLUvMLclKBVFFxfp5VcWZKanliZfEiVm7fxAqFkNT03MSi7B2sjABevSciRQAAAA&sa=X&ved=2ahUKEwimwpzf-ujkAhXBnOAKHRRbAjkQzTooATB_egQIZhAC
+
