@@ -287,3 +287,89 @@ Google Search Words
 - [ ] [Which other tusked mammal lives in the Arctic? - Google Search](https://www.google.com/search?q=Which+other+tusked+mammal+lives+in+the+Arctic%3F&oq=Which+other+tusked+mammal+lives+in+the+Arctic%3F&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 
 - [ ] [World War II movies - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRT2M-FA6N3LUoXDlSh_OO_1amhDQ:1568518130984&q=World+War+II+movies&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwzM0syMLQwUkLlakllJ1vpp2Xm5IIJq6LUnMSS1BSF4tSS4lWMkmlW2amV5flFKVa5-WWZqcVW-rn6BhaGBeWLWIXD84tyUhTCE4sUPD0VINIAi6xibm4AAAA&sa=X&ved=2ahUKEwjsmpWw8dHkAhUQCqYKHWWND4MQzTooADCDAXoECGoQAg)
+
+---
+
+
+
+
+
+
+
+## 9/24/2019
+
+- [ ] [discriminant function analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&q=discriminant%20function%20analysis&sa=X&ved=2ahUKEwi60KrP_efkAhUlHKYKHSXnB90Q1QIoBXoECAYQBg&oq=discriminant%20function%20analysis)
+
+- [ ] [gaussian naive bayes decision boundary - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=gaussian%20naive%20bayes%20decision%20boundary&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAF6BAgAEAI&oq=gaussian%20naive%20bayes%20decision%20boundary)
+
+- [ ] [gda and logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=gda%20and%20logistic%20regression&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAB6BAgAEAE&oq=gda%20and%20logistic%20regression)
+
+- [ ] [Given a training set D= , where and , derive the maximum likelihood estimates of the naive Bayesfor real valued xf' modeled with a univariate Gaussian distribution, - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTw-BlwgQgL30y863VPOk3YWpa1Tg%3A1569276982919&q=Given%20a%20training%20set%20D%3D%20%2C%20where%20and%20%2C%20derive%20the%20maximum%20likelihood%20estimates%20of%20the%20naive%20Bayesfor%20real%20valued%20xf%27%20modeled%20with%20a%20univariate%20Gaussian%20distribution%2C&tbm=isch&source=univ&sa=X&ved=2ahUKEwj0yfuo_OfkAhX3zIsBHf4JCf8QsAR6BAgNEAE&oq=Given%20a%20training%20set%20D%3D%20%2C%20where%20and%20%2C%20derive%20the%20maximum%20likelihood%20estimates%20of%20the%20naive%20Bayesfor%20real%20valued%20xf%27%20modeled%20with%20a%20univariate%20Gaussian%20distribution%2C)
+
+- [ ] [gr5242 - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQdeonm30vFeslIbgwVsPRHBxalLQ%3A1569278826512&lei=akuJXdrvHsyWr7wPp4ec-Aw&q=gr5242&ved=2ahUKEwiF-rKZg-jkAhXxNKYKHXtWA1YQsKwBKAF6BAgBEAI&oq=gr5242)
+
+- [ ] [lda classifier sklearn - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=lda%20classifier%20sklearn&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAR6BAgCEAU&oq=lda%20classifier%20sklearn)
+
+- [ ] [lda decision boundary - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&q=lda%20decision%20boundary&sa=X&ved=2ahUKEwi60KrP_efkAhUlHKYKHSXnB90Q1QIoAnoECAYQAw&oq=lda%20decision%20boundary)
+
+- [ ] [lda decision boundary python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=lda%20decision%20boundary%20python&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAB6BAgCEAE&oq=lda%20decision%20boundary%20python)
+
+- [ ] [lda example in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=lda%20example%20in%20r&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAR6BAgDEAU&oq=lda%20example%20in%20r)
+
+- [ ] [linear discriminant analysis example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=linear%20discriminant%20analysis%20example&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAJ6BAgAEAM&oq=linear%20discriminant%20analysis%20example)
+
+- [ ] [linear discriminant analysis log likelihood - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=linear%20discriminant%20analysis%20log%20likelihood&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAN6BAgAEAQ&oq=linear%20discriminant%20analysis%20log%20likelihood)
+
+- [ ] [linear methods for classification - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=linear%20methods%20for%20classification&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAB6BAgBEAE&oq=linear%20methods%20for%20classification)
+
+- [ ] [Logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMs25P0-_wuHN9S4JSuB0zjZwn-w%3A1569277669202&q=Logistic%20regression&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMwwNDM0kiouLUgtKsssTk1RSMxJzy_KLMnILVbIySwuiRJHkstJTSzKy8xLVyhISTvFCDWgMqcEzgYadoqRA8TOSDZKgzJzquIrfzFKBeO0YxGrsE9-OpCRmaxQlJpelFpcnJmfBwBtyWyqowAAAA&sa=X&ved=2ahUKEwjx8Jrw_ufkAhVFE6YKHagmDV4QxA0wbHoECGUQBg&oq=Logistic%20regression)
+
+- [ ] [logistic regression machine learning pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQr1tkCHmYfkJolbmgbG6CqWciFWg%3A1569277372562&q=logistic%20regression%20machine%20learning%20pdf&sa=X&ved=2ahUKEwizwuHi_efkAhUrGaYKHZtbB94Q1QIoB3oECGYQCA&oq=logistic%20regression%20machine%20learning%20pdf)
+
+- [ ] [merge two datasets in r - Google Search](https://www.google.com/search?q=merge%20two%20datasets%20in%20r&oq=merge%20two%20datasets%20in%20r&aqs=chrome..69i57j0l8.4695j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Naive Bayes classifier - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMs25P0-_wuHN9S4JSuB0zjZwn-w%3A1569277669202&q=Naive%20Bayes%20classifier&stick=H4sIAAAAAAAAAOOQUeLQz9U3yKmKrzSSKi4tSC0qyyxOTVFIzEnPL8osycgtVsjJLC6JEkeSy0lNLMrLzEtXKEhJO8XICdJvmFGZUwJnG5oZnmIEm5uRbJQGZYKs-MUoFYzTjkWsYn6JmWWpCk6JlanFCsk5icXFmWmZqUUAXkd3qKUAAAA&sa=X&ved=2ahUKEwjx8Jrw_ufkAhVFE6YKHagmDV4QxA0wbHoECGUQCg&oq=Naive%20Bayes%20classifier)
+
+- [ ] [nonparametric classification - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=nonparametric%20classification&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAF6BAgBEAI&oq=nonparametric%20classification)
+
+- [ ] [plot qda in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=plot%20qda%20in%20r&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAJ6BAgDEAM&oq=plot%20qda%20in%20r)
+
+- [ ] [Prove that in binary classification, the posterior of linear discrim-inant analysis, i.e., p(y = 1lz; ф, u, E), admits a sigmoid form - Google Search](https://www.google.com/search?q=Prove%20that%20in%20binary%20classification%2C%20the%20posterior%20of%20linear%20discrim-inant%20analysis%2C%20i.e.%2C%20p(y%20%3D%201lz%3B%20%D1%84%2C%20u%2C%20E)%2C%20admits%20a%20sigmoid%20form&oq=Prove%20that%20in%20binary%20classification%2C%20the%20posterior%20of%20linear%20discrim-inant%20analysis%2C%20i.e.%2C%20p(y%20%3D%201lz%3B%20%D1%84%2C%20u%2C%20E)%2C%20admits%20a%20sigmoid%20form&aqs=chrome..69i57.1092j0j6&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Prove that in binary classification, the posterior of linear discriminant analysis, iep(y = 1lz; ф, u, E), admits a sigmoid form - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&q=Prove%20that%20in%20binary%20classification%2C%20the%20posterior%20of%20linear%20discriminant%20analysis%2C%20iep(y%20%3D%201lz%3B%20%D1%84%2C%20u%2C%20E)%2C%20admits%20a%20sigmoid%20form&tbm=isch&source=univ&sa=X&ved=2ahUKEwi60KrP_efkAhUlHKYKHSXnB90QsAR6BAgEEAE&oq=Prove%20that%20in%20binary%20classification%2C%20the%20posterior%20of%20linear%20discriminant%20analysis%2C%20iep(y%20%3D%201lz%3B%20%D1%84%2C%20u%2C%20E)%2C%20admits%20a%20sigmoid%20form)
+
+- [ ] [Prove that in binary classification, the posterior of linear discriminant analysis, iep(y = 1lz; ф, u, E), admits a sigmoid form - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&q=Prove%20that%20in%20binary%20classification%2C%20the%20posterior%20of%20linear%20discriminant%20analysis%2C%20iep(y%20%3D%201lz%3B%20%D1%84%2C%20u%2C%20E)%2C%20admits%20a%20sigmoid%20form&tbm=isch&source=univ&sa=X&ved=2ahUKEwi60KrP_efkAhUlHKYKHSXnB90QsAR6BAgEEAE&oq=Prove%20that%20in%20binary%20classification%2C%20the%20posterior%20of%20linear%20discriminant%20analysis%2C%20iep(y%20%3D%201lz%3B%20%D1%84%2C%20u%2C%20E)%2C%20admits%20a%20sigmoid%20form)
+
+- [ ] [qda explained - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=qda%20explained&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAN6BAgDEAQ&oq=qda%20explained)
+
+- [ ] [quadratic discriminant analysis python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=quadratic%20discriminant%20analysis%20python&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAF6BAgDEAI&oq=quadratic%20discriminant%20analysis%20python)
+
+- [ ] [random forest partition - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=random%20forest%20partition&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAR6BAgBEAU&oq=random%20forest%20partition)
+
+- [ ] [random forest theory - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&lei=k0WJXfq6MaW4mAWlzp_oDQ&q=random%20forest%20theory&ved=2ahUKEwiP5pPQ_efkAhXJDaYKHaeeCIEQsKwBKAN6BAgBEAQ&oq=random%20forest%20theory)
+
+- [ ] [regularized lda. - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&q=regularized%20lda.&sa=X&ved=2ahUKEwi60KrP_efkAhUlHKYKHSXnB90Q1QIoB3oECAYQCA&oq=regularized%20lda.)
+
+- [ ] [stat 5241 - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQdeonm30vFeslIbgwVsPRHBxalLQ%3A1569278826512&lei=akuJXdrvHsyWr7wPp4ec-Aw&q=stat%205241&ved=2ahUKEwiF-rKZg-jkAhXxNKYKHXtWA1YQsKwBKAB6BAgBEAE&oq=stat%205241)
+
+- [ ] [statistical machine learning columbia - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQr1tkCHmYfkJolbmgbG6CqWciFWg%3A1569277372562&q=statistical%20machine%20learning%20columbia&sa=X&ved=2ahUKEwizwuHi_efkAhUrGaYKHZtbB94Q1QIoBXoECGYQBg&oq=statistical%20machine%20learning%20columbia)
+
+- [ ] [statistical machine learning course - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQr1tkCHmYfkJolbmgbG6CqWciFWg%3A1569277372562&q=statistical%20machine%20learning%20course&sa=X&ved=2ahUKEwizwuHi_efkAhUrGaYKHZtbB94Q1QIoAnoECGYQAw&oq=statistical%20machine%20learning%20course)
+
+- [ ] [statistical machine learning lecture notes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQr1tkCHmYfkJolbmgbG6CqWciFWg%3A1569277372562&q=statistical%20machine%20learning%20lecture%20notes&stick=H4sIAAAAAAAAAJWPMQ6CMABF08HEGL2BQ1ldChWonMPNhbSllGIp2FbhPB6HIzkZE9BN4_jy_8vPX25x4Dz1ynnFqYYN5ZUyAmpBrVFGQta259Pua0UL7q9WQNN64UawQRJFESMXyQerR7BCDQpNUtQRHsH6FeK4jhsnyYzMcO0deat9ecOsZB_ubGnyZGbJq_zghvSjd2Eh_bSUmozvswninOA-eYDg-OvjffHHySe2Nj6cNgEAAA&sa=X&ved=2ahUKEwizwuHi_efkAhUrGaYKHZtbB94QzTooADB7egQIZBAC&oq=statistical%20machine%20learning%20lecture%20notes)
+
+- [ ] [statistical machine learning lecture notes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQr1tkCHmYfkJolbmgbG6CqWciFWg%3A1569277372562&q=statistical%20machine%20learning%20lecture%20notes&tbm=isch&source=univ&sa=X&ved=2ahUKEwizwuHi_efkAhUrGaYKHZtbB94QsAR6BAgFEAE&oq=statistical%20machine%20learning%20lecture%20notes)
+
+- [ ] [stepwise linear discriminant analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREM0gv4kIKoB0S3xTHCo2YEaUAhQ%3A1569277331816&q=stepwise%20linear%20discriminant%20analysis&sa=X&ved=2ahUKEwi60KrP_efkAhUlHKYKHSXnB90Q1QIoBHoECAYQBQ&oq=stepwise%20linear%20discriminant%20analysis)
+
+- [ ] [supervised learning pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQr1tkCHmYfkJolbmgbG6CqWciFWg%3A1569277372562&lei=vEWJXbP0IauymAWbt53wDQ&q=supervised%20learning%20pdf&ved=2ahUKEwjfzNbq_efkAhX_yYsBHRNaDgcQsKwBKAR6BAgAEAU&oq=supervised%20learning%20pdf)
+
+- [ ] [supervised learning pdf - Google Search](https://tabmemfree.appspot.com/blank.html#title=supervised%20learning%20pdf%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+- [ ] [Support vector machine - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMs25P0-_wuHN9S4JSuB0zjZwn-w%3A1569277669202&q=Support%20vector%20machine&stick=H4sIAAAAAAAAAOOQUeLQz9U3yEg2SjOSKi4tSC0qyyxOTVFIzEnPL8osycgtVsjJLC6JEkeSy0lNLMrLzEtXKEhJO8XICdJvmFGZUwJnG5oZnmKEmwtl5lTFV_5ilArGacciVjGgZEF-UYlCWWpySX6RQm5ickZmXioA1bFd06UAAAA&sa=X&ved=2ahUKEwjx8Jrw_ufkAhVFE6YKHagmDV4QxA0wbHoECGUQCA&oq=Support%20vector%20machine)
+
+- [ ] [the posterior of linear discrim-inant analysis admits a sigmoid form - Google Search](https://tabmemfree.appspot.com/blank.html#title=the%20posterior%20of%20linear%20discrim-inant%20analysis%20admits%20a%20sigmoid%20form%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+- [ ] [the posterior of linear discriminant analysis admits a sigmoid form - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSrWqvn0LZd6nw5WxtP73VZnk4dUg%3A1569279062561&q=the%20posterior%20of%20linear%20discriminant%20analysis%20admits%20a%20sigmoid%20form&tbm=isch&source=univ&sa=X&ved=2ahUKEwia8M6IhOjkAhWFyYsBHZf4D7EQsAR6BAgXEAE&oq=the%20posterior%20of%20linear%20discriminant%20analysis%20admits%20a%20sigmoid%20form)
+
+- [ ] [Unsupervised learning - Google Search](https://tabmemfree.appspot.com/blank.html#title=Unsupervised%20learning%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)

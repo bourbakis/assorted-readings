@@ -605,3 +605,18 @@ https://github.com/SamyPesse?tab=stars
 - [ ] [realpython/python-basics-exercises: Python Basics: A Practical Introduction to Python 3](https://github.com/realpython/python-basics-exercises)
 
 - [ ] [realpython/python-guide: Python best practices guidebook, written for humans.](https://github.com/realpython/python-guide)
+
+
+
+
+## 9/24/2019
+
+- [ ] [bangdasun/statistical-machine-learning: STAT GR5241 Statistical Machine Learning taught by Professor Linxi Liu. Here I also include some other sources of machine learning materials/practice, as well as implementation of popular machine learning algorithms by myself without using ml packages](https://github.com/bangdasun/statistical-machine-learning)
+
+- [ ] [gferon (Gabriel Féron) / Following](https://github.com/gferon?tab=following)
+
+- [ ] [jason718/awesome-self-supervised-learning: A curated list of awesome self-supervised methods](https://github.com/jason718/awesome-self-supervised-learning)
+
+- [ ] [nfleskes (Nicole Fleskes) / Repositories](https://github.com/nfleskes?tab=repositories)
+
+- [ ] [nfleskes/finance-esa](https://github.com/nfleskes/finance-esa)
