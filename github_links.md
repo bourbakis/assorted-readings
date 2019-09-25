@@ -620,3 +620,97 @@ https://github.com/SamyPesse?tab=stars
 - [ ] [nfleskes (Nicole Fleskes) / Repositories](https://github.com/nfleskes?tab=repositories)
 
 - [ ] [nfleskes/finance-esa](https://github.com/nfleskes/finance-esa)
+
+
+
+## 9/25/2019
+
+- [ ] [aaemnnosttv/quick-tab-switcher: Browser extension for switching tabs in a flash, without leaving the keyboard.](https://github.com/aaemnnosttv/quick-tab-switcher)
+
+- [ ] [600x200 (600×200)](https://pbs.twimg.com/profile_banners/1015785429281492992/1550908577/600x200)
+
+- [ ] [AnNOtis/close-idle-tabs: 💠 Press a button to close inactive tabs](https://github.com/AnNOtis/close-idle-tabs)
+
+- [ ] [Bill13579/tabby: A web extension for managing great amounts of windows and tabs at ease.](https://github.com/Bill13579/tabby)
+
+- [ ] [crsh/papaja: papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manscripts from RMarkdown-files (PDF and Word documents) and helper functions that facilitate reporting statistics, tables, and plots.](https://github.com/crsh/papaja)
+
+- [ ] [deepfakes/faceswap: Deepfakes Software For All](https://github.com/deepfakes/faceswap)
+
+- [ ] [docker-library/rabbitmq: Docker Official Image packaging for RabbitMQ](https://github.com/docker-library/rabbitmq)
+
+- [ ] [docker-library/rabbitmq: Docker Official Image packaging for RabbitMQ](https://github.com/docker-library/rabbitmq)
+
+- [ ] [EconometricsBySimulation (Francis Smart)](https://github.com/EconometricsBySimulation/)
+
+- [ ] [ErikHumphrey (Erik Humphrey)](https://github.com/ErikHumphrey?tab=following)
+
+- [ ] [ErikHumphrey/close-tabs-to-the-left: The first "Close tabs to the left" Chrome extension that ignores pinned tabs, with 1,200+ weekly active users.](https://github.com/ErikHumphrey/close-tabs-to-the-left)
+
+- [ ] [leifeld (Philip Leifeld)](https://github.com/leifeld)
+
+- [ ] [mattermost/mattermost-server: Open source Slack-alternative in Golang and React - Mattermost](https://github.com/mattermost/mattermost-server)
+
+- [ ] [MicrosoftDocs/azure-docs: Open source documentation of Microsoft Azure](https://github.com/MicrosoftDocs/azure-docs)
+
+- [ ] [MicrosoftDocs/azure-docs: Open source documentation of Microsoft Azure](https://github.com/MicrosoftDocs/azure-docs)
+
+- [ ] [table · GitHub Topics](https://github.com/topics/table)
+
+- [ ] [NovaDevelopment/bookmarklets.js: Bookmarklets.js is a simple JavaScript library for creating and manipulating custom bookmarklets.](https://github.com/NovaDevelopment/bookmarklets.js)
+
+- [ ] [opherlieber/rltime: RLtime is a reinforcement learning library focused on state-of-the-art q-learning algorithms and features](https://github.com/opherlieber/rltime)
+
+- [ ] [productivity · GitHub Topics](https://github.com/topics/productivity)
+
+- [ ] [reblws/tab-search: WebExtension for keyboard-accessible tab management](https://github.com/reblws/tab-search)
+
+- [ ] [regression · GitHub Topics](https://github.com/topics/regression)
+
+- [ ] [reporting · GitHub Topics](https://github.com/topics/reporting)
+
+- [ ] [NextRelease.io · GitHub Marketplace](https://github.com/marketplace/nextrelease-io)
+
+- [ ] [Waydev · GitHub Marketplace](https://github.com/marketplace/waydev)
+
+- [ ] [ReportPortal.io - AI-powered test automation reporting · GitHub Marketplace](https://github.com/marketplace/reportportal-io-ai-powered-test-automation-reporting)
+
+- [ ] [Report.Ci · GitHub Marketplace](https://github.com/marketplace/report-ci)
+
+- [ ] [moderatemisbehaviour/seshy: Chrome extension for effortlessly persisting, resuming, and syncing browsing sessions.](https://github.com/moderatemisbehaviour/seshy)
+
+- [ ] [texreg · GitHub Topics](https://github.com/topics/texreg)
+
+- [ ] [voy/chrome-close-tabs: TabEraser - a Chrome plugin with enhanced tab closing functionality](https://github.com/voy/chrome-close-tabs)
+
+- [ ] [steipete/stackoverflowerizer: always redirect to stackoverflow from pages that just copy the content, like efreedom](https://github.com/steipete/stackoverflowerizer)
+
+- [ ] [Why do some numbers show up in my favorite tags section? - Meta Stack Exchange](https://meta.stackexchange.com/questions/80223/why-do-some-numbers-show-up-in-my-favorite-tags-section/84778#84778)
+
+- [ ] [Line spacing changes after pasting external content, no way to revert to default spacing - Gmail Help](https://support.google.com/mail/forum/AAAAK7un8RUhlAvCvnSJRw/?hl=en-GB)
+
+- [ ] [StackOverflowiser](https://legacycollector.org/firefox-addons/337420/index.html)
+
+- [ ] [Spetnik/W3Schools-Hider: Hides W3Schools (and other) results from Google™ Searches](https://github.com/Spetnik/W3Schools-Hider)
+
+- [ ] [Spetnik (Aaron J Spetner)](https://github.com/Spetnik)
+
+- [ ] [Peter Steinberger](http://petersteinberger.com/)
+
+- [ ] [steipete (Peter Steinberger)](https://github.com/steipete?tab=repositories)
+
+- [ ] [PSPDFKit GmbH](https://github.com/PSPDFKit)
+
+- [ ] [steipete (Peter Steinberger) / Following](https://github.com/steipete?tab=following)
+
+- [ ] [steipete (Peter Steinberger) / Starred](https://github.com/steipete?tab=stars)
+
+- [ ] [voy/chrome-mojebanka: Chrome extension to deal with some annoyances of internet banking from Komercni Banka](https://github.com/voy/chrome-mojebanka)
+
+- [ ] [zhengqigao/PRML-Solution-Manual: My Own Solution Manual of PRML](https://github.com/zhengqigao/PRML-Solution-Manual)
+
+- [ ] [Zohaib-Amir (Zohaib Amir) / Starred](https://github.com/Zohaib-Amir?tab=stars)
+
+- [ ] [Zohaib-Amir/CloseLeftTabs: Chrome Extension to close all left tabs on one click](https://github.com/Zohaib-Amir/CloseLeftTabs)
+
+- [ ] [Zohaib-Amir/Instagram-Activity-Notifier: Checks an Instagram profile every 10 minutes and sends a sms when something changes.](https://github.com/Zohaib-Amir/Instagram-Activity-Notifier)

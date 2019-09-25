@@ -373,3 +373,30 @@ Google Search Words
 - [ ] [the posterior of linear discriminant analysis admits a sigmoid form - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSrWqvn0LZd6nw5WxtP73VZnk4dUg%3A1569279062561&q=the%20posterior%20of%20linear%20discriminant%20analysis%20admits%20a%20sigmoid%20form&tbm=isch&source=univ&sa=X&ved=2ahUKEwia8M6IhOjkAhWFyYsBHZf4D7EQsAR6BAgXEAE&oq=the%20posterior%20of%20linear%20discriminant%20analysis%20admits%20a%20sigmoid%20form)
 
 - [ ] [Unsupervised learning - Google Search](https://tabmemfree.appspot.com/blank.html#title=Unsupervised%20learning%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+
+
+
+## 9/25/2019
+
+- [ ] [adsweep - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTPKASbXJqvYSZReVM1t_uvTv8Xew%3A1569323877857&lei=ZfuJXav8M92Yr7wPmvucuA4&q=adsweep&ved=2ahUKEwiQxOyDq-nkAhVqF6YKHSdHCZQQsKwBKAB6BAgCEAE&oq=adsweep)
+
+- [ ] [as_tibble() - Google Search](https://www.google.com/search?q=as_tibble()&oq=as_tibble()&aqs=chrome..69i57j0l8.775j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [export_summs r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQprJW9gZtu_LvA7OTvcK47y2J64w%3A1569360812712&lei=rIuKXaCPK5SZr7wPkIK00AQ&q=export_summs%20r&ved=2ahUKEwjS7rXPtOrkAhVoG6YKHQjvADAQsKwBKAF6BAgCEAI&oq=export_summs%20r)
+
+- [ ] [finalfit r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQprJW9gZtu_LvA7OTvcK47y2J64w%3A1569360812712&lei=rIuKXaCPK5SZr7wPkIK00AQ&q=finalfit%20r&ved=2ahUKEwjS7rXPtOrkAhVoG6YKHQjvADAQsKwBKAB6BAgCEAE&oq=finalfit%20r)
+
+- [ ] [fromtted reression table in r - Google Search](https://www.google.com/search?q=fromtted%20reression%20table%20in%20r&oq=fromtted%20reression%20table%20in%20r&aqs=chrome..69i57.7200j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [get regression table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQprJW9gZtu_LvA7OTvcK47y2J64w%3A1569360812712&lei=rIuKXaCPK5SZr7wPkIK00AQ&q=get%20regression%20table&ved=2ahUKEwjS7rXPtOrkAhVoG6YKHQjvADAQsKwBKAJ6BAgCEAM&oq=get%20regression%20table)
+
+- [ ] [get_regression_table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQprJW9gZtu_LvA7OTvcK47y2J64w%3A1569360812712&lei=rIuKXaCPK5SZr7wPkIK00AQ&q=get_regression_table&ved=2ahUKEwjS7rXPtOrkAhVoG6YKHQjvADAQsKwBKAN6BAgCEAQ&oq=get_regression_table)
+
+- [ ] [r kable regression table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQprJW9gZtu_LvA7OTvcK47y2J64w%3A1569360812712&lei=rIuKXaCPK5SZr7wPkIK00AQ&q=r%20kable%20regression%20table&ved=2ahUKEwjS7rXPtOrkAhVoG6YKHQjvADAQsKwBKAV6BAgCEAY&oq=r%20kable%20regression%20table)
+
+- [ ] [r stargazer regression output - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQprJW9gZtu_LvA7OTvcK47y2J64w%3A1569360812712&q=r%20stargazer%20regression%20output&sa=X&ved=2ahUKEwiglZDOtOrkAhWUzIsBHRABDUoQ1QIoAnoECGUQAw&oq=r%20stargazer%20regression%20output)
+
+- [ ] [tables for linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQprJW9gZtu_LvA7OTvcK47y2J64w%3A1569360812712&lei=rIuKXaCPK5SZr7wPkIK00AQ&q=tables%20for%20linear%20regression&ved=2ahUKEwjS7rXPtOrkAhVoG6YKHQjvADAQsKwBKAR6BAgCEAU&oq=tables%20for%20linear%20regression)
+
+- [ ] [visualize regression results r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQprJW9gZtu_LvA7OTvcK47y2J64w%3A1569360812712&q=visualize%20regression%20results%20r&sa=X&ved=2ahUKEwiglZDOtOrkAhWUzIsBHRABDUoQ1QIoB3oECGUQCA&oq=visualize%20regression%20results%20r)
