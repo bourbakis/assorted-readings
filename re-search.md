@@ -522,3 +522,15 @@ Google Search Words
 - [ ] [Write a function to implement the soft-threshold solution for a given input z and lambda - Google Search](https://www.google.com/search?q=Write%20a%20function%20to%20implement%20the%20soft-threshold%20solution%20for%20a%20given%20input%20z%20and%20lambda&oq=Write%20a%20function%20to%20implement%20the%20soft-threshold%20solution%20for%20a%20given%20input%20z%20and%20lambda&aqs=chrome..69i57.951j0j7&sourceid=chrome&ie=UTF-8)
 
 - [ ] [Yoshua Bengio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ6yeq4rvIqCW-RyyccQytCqox2Pg%3A1569436147968&q=Yoshua%20Bengio&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyrqjJKTzMrVOLSz9U3SDZOq6qo1OILSC0qzs8LzkxJLU-sLF7EyhuZX5xRmqjglJqXnpm_g5URAM2oX3NAAAAA&sa=X&ved=2ahUKEwj-k-OgzezkAhUjNKYKHRJeARUQxA0wd3oECGAQCg&oq=Yoshua%20Bengio)
+
+- [ ] [Doina Precup - Google Search](https://tabmemfree.appspot.com/blank.html#title=Doina%20Precup%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+- [ ] [elements of statistical learning - Google Search](https://tabmemfree.appspot.com/blank.html#title=elements%20of%20statistical%20learning%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+- [ ] [lasso orthogonal design - Google Search](https://tabmemfree.appspot.com/blank.html#title=lasso%20orthogonal%20design%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+- [ ] [lasso orthogonal design - Google Search](https://tabmemfree.appspot.com/blank.html#title=lasso%20orthogonal%20design%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+- [ ] [sparsity lasso - Google Search](https://tabmemfree.appspot.com/blank.html#title=sparsity%20lasso%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+- [ ] [Write a function to implement the soft-threshold solution for a given input z and lambda - Google Search](https://tabmemfree.appspot.com/blank.html#title=Write%20a%20function%20to%20implement%20the%20soft-threshold%20solution%20for%20a%20given%20input%20z%20and%20lambda%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
