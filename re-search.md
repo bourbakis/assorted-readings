@@ -400,3 +400,125 @@ Google Search Words
 - [ ] [tables for linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQprJW9gZtu_LvA7OTvcK47y2J64w%3A1569360812712&lei=rIuKXaCPK5SZr7wPkIK00AQ&q=tables%20for%20linear%20regression&ved=2ahUKEwjS7rXPtOrkAhVoG6YKHQjvADAQsKwBKAR6BAgCEAU&oq=tables%20for%20linear%20regression)
 
 - [ ] [visualize regression results r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQprJW9gZtu_LvA7OTvcK47y2J64w%3A1569360812712&q=visualize%20regression%20results%20r&sa=X&ved=2ahUKEwiglZDOtOrkAhWUzIsBHRABDUoQ1QIoB3oECGUQCA&oq=visualize%20regression%20results%20r)
+
+
+
+## 9/27/2019
+
+- [ ] [An Introduction to Deep Reinforcement Learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ6yeq4rvIqCW-RyyccQytCqox2Pg%3A1569436147968&q=An%20Introduction%20to%20Deep%20Reinforcement%20Learning&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyrqjJKTzMrVIJw0yuNkyxzKou1BBxLSzLyi0LynfLzs_3zcioXseo55il45pUU5aeUJpdk5ucplOQruKSmFigEpWbmpeUXJafmpuaVKPikJhblZeal72BlBAArz3SvZgAAAA&sa=X&ved=2ahUKEwj-k-OgzezkAhUjNKYKHRJeARUQxA0wdHoECGEQBg&oq=An%20Introduction%20to%20Deep%20Reinforcement%20Learning)
+
+- [ ] [as_epq - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTwLUGSKcNiMy5gIwj2gC4VzbRrsQ%3A1569436218390&lei=OrKLXYWrF4360gSrz5jgCg&q=as_epq&ved=2ahUKEwiDsJLEzezkAhUJvJQKHZtvCVEQsKwBKAF6BAgDEAI&oq=as_epq)
+
+- [ ] [Bayesian Reinforcement Learning: A Survey - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ6yeq4rvIqCW-RyyccQytCqox2Pg%3A1569436147968&q=Bayesian%20Reinforcement%20Learning%3A%20A%20Survey&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyrqjJKTzMrVIJwk02N0lJMjQu0BBxLSzLyi0LynfLzs_3zcioXsWo6JVamFmcm5ikEpWbmpeUXJafmpuaVKPikJhblZealWyk4KgSXFpWlVu5gZQQAiMPo-2EAAAA&sa=X&ved=2ahUKEwj-k-OgzezkAhUjNKYKHRJeARUQxA0wdHoECGEQBA&oq=Bayesian%20Reinforcement%20Learning%3A%20A%20Survey)
+
+- [ ] [bind tf idf in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpuLahD2jNMZVHVss9rDXJiQvvGw%3A1569450200940&lei=2OiLXbqBOdug-QbTvKOYDw&q=bind%20tf%20idf%20in%20r&ved=2ahUKEwjXvILRge3kAhVTQd4KHTR_BwcQsKwBKAN6BAgEEAQ&oq=bind%20tf%20idf%20in%20r)
+
+- [ ] [change google snippet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTwLUGSKcNiMy5gIwj2gC4VzbRrsQ%3A1569436218390&lei=OrKLXYWrF4360gSrz5jgCg&q=change%20google%20snippet&ved=2ahUKEwiDsJLEzezkAhUJvJQKHZtvCVEQsKwBKAR6BAgEEAU&oq=change%20google%20snippet)
+
+- [ ] [Clean and pre-process the data (use TFIDF weights in your analysis) - Google Search](https://www.google.com/search?q=Clean%20and%20pre-process%20the%20data%20(use%20TFIDF%20weights%20in%20your%20analysis)&oq=Clean%20and%20pre-process%20the%20data%20(use%20TFIDF%20weights%20in%20your%20analysis)&aqs=chrome..69i57j69i64l2.739j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Clean and pre-process the data (use TFIDF weights in your analysis) - Google Search](https://www.google.com/search?q=Clean%20and%20pre-process%20the%20data%20(use%20TFIDF%20weights%20in%20your%20analysis)&oq=Clean%20and%20pre-process%20the%20data%20(use%20TFIDF%20weights%20in%20your%20analysis)&aqs=chrome..69i57j69i64l2.702j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [closed form solution of lasso - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMEcO6o6-Dg5TyDtjb4JVoMllOGw%3A1569505563137&lei=G8GMXd71B4-Wr7wP-4m9uAs&q=closed%20form%20solution%20of%20lasso&ved=2ahUKEwjW8NLvz-7kAhWsIqYKHVKACGMQsKwBKAR6BAgAEAU&oq=closed%20form%20solution%20of%20lasso)
+
+- [ ] [countvectorizer - vocabulary wasn't fitted. - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQbXV_eLwPXzSPz9G-GswPzSF3f-g%3A1569451215385&lei=z-yLXaCRF9vnwQP1h7DoAg&q=countvectorizer%20-%20vocabulary%20wasn%27t%20fitted.&ved=2ahUKEwiJzIWzhe3kAhXPA4gKHSJkD5wQsKwBKAR6BAgBEAU&oq=countvectorizer%20-%20vocabulary%20wasn%27t%20fitted.)
+
+- [ ] [countvectorizer tuning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQbXV_eLwPXzSPz9G-GswPzSF3f-g%3A1569451215385&lei=z-yLXaCRF9vnwQP1h7DoAg&q=countvectorizer%20tuning&ved=2ahUKEwiJzIWzhe3kAhXPA4gKHSJkD5wQsKwBKAJ6BAgBEAM&oq=countvectorizer%20tuning)
+
+- [ ] [create pdf report in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIfb-ui7OOzKaRTuj9QvrSo6x2Dg%3A1569368242642&q=create%20pdf%20report%20in%20r&sa=X&ved=2ahUKEwiQiv-k0OrkAhUhMX0KHYFEAHAQ1QIoAnoECGUQAw&oq=create%20pdf%20report%20in%20r)
+
+- [ ] [df_print rmd - Google Search](https://www.google.com/search?q=df_print%20rmd&oq=df_print%20rmd&aqs=chrome..69i57j0l8.6438j1j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [dtm text mining - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpuLahD2jNMZVHVss9rDXJiQvvGw%3A1569450200940&lei=2OiLXbqBOdug-QbTvKOYDw&q=dtm%20text%20mining&ved=2ahUKEwjXvILRge3kAhVTQd4KHTR_BwcQsKwBKAB6BAgAEAE&oq=dtm%20text%20mining)
+
+- [ ] [exploratory tf idf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpuLahD2jNMZVHVss9rDXJiQvvGw%3A1569450200940&lei=2OiLXbqBOdug-QbTvKOYDw&q=exploratory%20tf%20idf&ved=2ahUKEwjXvILRge3kAhVTQd4KHTR_BwcQsKwBKAB6BAgEEAE&oq=exploratory%20tf%20idf)
+
+- [ ] [extract important words from text python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQbXV_eLwPXzSPz9G-GswPzSF3f-g%3A1569451215385&lei=z-yLXaCRF9vnwQP1h7DoAg&q=extract%20important%20words%20from%20text%20python&ved=2ahUKEwiJzIWzhe3kAhXPA4gKHSJkD5wQsKwBKAR6BAgAEAU&oq=extract%20important%20words%20from%20text%20python)
+
+- [ ] [Find \lambda_{\max}λ max ​ such that for any \lambda > \lambda_{\max}λ>λ max ​ , the solution is \beta = 0β=0. - Google Search](https://www.google.com/search?q=Find%20%5Clambda_%7B%5Cmax%7D%CE%BB%20max%20%E2%80%8B%20such%20that%20for%20any%20%5Clambda%20%3E%20%5Clambda_%7B%5Cmax%7D%CE%BB%3E%CE%BB%20max%20%E2%80%8B%20%2C%20the%20solution%20is%20%5Cbeta%20%3D%200%CE%B2%3D0.&oq=Find%20%5Clambda_%7B%5Cmax%7D%CE%BB%20max%20%E2%80%8B%20such%20that%20for%20any%20%5Clambda%20%3E%20%5Clambda_%7B%5Cmax%7D%CE%BB%3E%CE%BB%20max%20%E2%80%8B%20%2C%20the%20solution%20is%20%5Cbeta%20%3D%200%CE%B2%3D0.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [google custom search get full snippet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTwLUGSKcNiMy5gIwj2gC4VzbRrsQ%3A1569436218390&lei=OrKLXYWrF4360gSrz5jgCg&q=google%20custom%20search%20get%20full%20snippet&ved=2ahUKEwiDsJLEzezkAhUJvJQKHZtvCVEQsKwBKAF6BAgEEAI&oq=google%20custom%20search%20get%20full%20snippet)
+
+- [ ] [google search filter by date - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTwLUGSKcNiMy5gIwj2gC4VzbRrsQ%3A1569436218390&lei=OrKLXYWrF4360gSrz5jgCg&q=google%20search%20filter%20by%20date&ved=2ahUKEwiDsJLEzezkAhUJvJQKHZtvCVEQsKwBKAB6BAgEEAE&oq=google%20search%20filter%20by%20date)
+
+- [ ] [how do i sort google search results by date? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTwLUGSKcNiMy5gIwj2gC4VzbRrsQ%3A1569436218390&lei=OrKLXYWrF4360gSrz5jgCg&q=how%20do%20i%20sort%20google%20search%20results%20by%20date%3F&ved=2ahUKEwiDsJLEzezkAhUJvJQKHZtvCVEQsKwBKAV6BAgEEAY&oq=how%20do%20i%20sort%20google%20search%20results%20by%20date%3F)
+
+- [ ] [httr - Google Search](https://www.google.com/search?q=httr&oq=httr&aqs=chrome..69i57j0l8.925j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [information extraction from text python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQbXV_eLwPXzSPz9G-GswPzSF3f-g%3A1569451215385&lei=z-yLXaCRF9vnwQP1h7DoAg&q=information%20extraction%20from%20text%20python&ved=2ahUKEwiJzIWzhe3kAhXPA4gKHSJkD5wQsKwBKAV6BAgAEAY&oq=information%20extraction%20from%20text%20python)
+
+- [ ] [Joelle Pineau - Google Search](https://www.google.com/search?q=Joelle%20Pineau&oq=Joelle%20Pineau&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [lasso regression problem - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMEcO6o6-Dg5TyDtjb4JVoMllOGw%3A1569505563137&lei=G8GMXd71B4-Wr7wP-4m9uAs&q=lasso%20regression%20problem&ved=2ahUKEwjW8NLvz-7kAhWsIqYKHVKACGMQsKwBKAB6BAgAEAE&oq=lasso%20regression%20problem)
+
+- [ ] [latex making coding block more beatiful elegant - Google Search](https://www.google.com/search?q=latex%20making%20coding%20block%20more%20beatiful%20elegant&oq=latex%20making%20coding%20block%20more%20beatiful%20elegant&aqs=chrome..69i57.11662j1j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Machine learning - Google Search](https://www.google.com/search?lr=lang_en&newwindow=1&as_qdr=all&sxsrf=ACYBGNRIhZziyN0dZ5M57G0bb-sXEbve9Q%3A1569436577931&q=Machine%20learning&stick=H4sIAAAAAAAAAONgFuLUz9U3MMyozIhXQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsQr4JiZnZOalKuSkJhblZeal72BlBABAvItvQwAAAA&sa=X&ved=2ahUKEwjs_uXtzuzkAhWSKqYKHcEoCuMQzTooATCEAXoECG4QAg&oq=Machine%20learning)
+
+- [ ] [Machine learning books - Google Search](https://www.google.com/search?lr=lang_en&newwindow=1&as_qdr=all&sxsrf=ACYBGNRIhZziyN0dZ5M57G0bb-sXEbve9Q%3A1569436577931&q=Machine%20learning%20books&stick=H4sIAAAAAAAAAONgFuLUz9U3MMyozIhXQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKAsVyclKTSzLz8_ST8vOzixexivkmJmdk5qUq5KQmFuVl5qUrgCV2sDICACWiMmReAAAA&sa=X&ved=2ahUKEwjs_uXtzuzkAhWSKqYKHcEoCuMQzTooATCDAXoECGYQAg&oq=Machine%20learning%20books)
+
+- [ ] [make the rmarkdown oupput elegant - Google Search](https://www.google.com/search?q=make%20the%20rmarkdown%20oupput%20elegant&oq=make%20the%20rmarkdown%20oupput%20elegant&aqs=chrome..69i57.14445j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [markdown themes css - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_agb96YeLXD_yEpPZ7_cRrKF2dA%3A1569446114833&lei=4tiLXem6Msug-QajuofgCQ&q=markdown%20themes%20css&ved=2ahUKEwi_mKez8uzkAhWNMt4KHZjdBqoQsKwBKAV6BAgCEAY&oq=markdown%20themes%20css)
+
+- [ ] [Michael Jensen - Google Search](https://www.google.com/search?q=Michael%20Jensen&oq=Michael%20Jensen&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Mohammad Ghavamzadeh - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ6yeq4rvIqCW-RyyccQytCqox2Pg%3A1569436147968&q=Mohammad%20Ghavamzadeh&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyrqjJKTzMrVIJwkw0q8grTcsu0-AJSi4rz84IzU1LLEyuLF7GK-OZnJObmJqYouGckliXmViWmpGbsYGUEAON6SnRKAAAA&sa=X&ved=2ahUKEwj-k-OgzezkAhUjNKYKHRJeARUQxA0wd3oECGAQCA&oq=Mohammad%20Ghavamzadeh)
+
+- [ ] [multinomialnb - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQbXV_eLwPXzSPz9G-GswPzSF3f-g%3A1569451215385&lei=z-yLXaCRF9vnwQP1h7DoAg&q=multinomialnb&ved=2ahUKEwiJzIWzhe3kAhXPA4gKHSJkD5wQsKwBKAN6BAgBEAQ&oq=multinomialnb)
+
+- [ ] [natalie goncharova - Google Search](https://www.google.com/search?biw=1280&bih=609&tbm=isch&sxsrf=ACYBGNQGptkQuukgZp4gtwd5DcG2-YfW4A%3A1569459182823&sa=1&ei=7guMXefNMery5gL7qIuICg&q=natalie%20goncharova&oq=natalie%20goncharova&gs_l=img.3..0i10l10.3918.3918..4453...0.0..0.76.76.1......0....1..gws-wiz-img.5iuOOvhCDFI&ved=0ahUKEwjn_NKIo-3kAhVquVkKHXvUAqEQ4dUDCAc&uact=5%23imgrc%3DH-7bryb-JfDGTM%3A)
+
+- [ ] [positive or negatvie sign of a number in latxx - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQgzMX-wSQPwmpTj36h_AemVQ2W3A%3A1569445123153&ei=A9WLXZnJCMnnwQP336H4DA&q=positive%20or%20negatvie%20sign%20of%20a%20number%20in%20latxx&oq=positive%20or%20negatvie%20sign%20of%20a%20number%20in%20latxx&gs_l=psy-ab.3...39635.43362..43642...0.9..1.545.3189.1j16j3j5-1......0....1..gws-wiz.......0i71j35i304i39j33i10.w2DjgFLNvoo&ved=0ahUKEwjZ1rzY7uzkAhXJc3AKHfdvCM8Q4dUDCAs&uact=5)
+
+- [ ] [prettydoc - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_agb96YeLXD_yEpPZ7_cRrKF2dA%3A1569446114833&lei=4tiLXem6Msug-QajuofgCQ&q=prettydoc&ved=2ahUKEwi_mKez8uzkAhWNMt4KHZjdBqoQsKwBKAB6BAgCEAE&oq=prettydoc)
+
+- [ ] [quanteda vs tidytext - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpuLahD2jNMZVHVss9rDXJiQvvGw%3A1569450200940&lei=2OiLXbqBOdug-QbTvKOYDw&q=quanteda%20vs%20tidytext&ved=2ahUKEwjXvILRge3kAhVTQd4KHTR_BwcQsKwBKAR6BAgAEAU&oq=quanteda%20vs%20tidytext)
+
+- [ ] [rmarkdown flatly - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_agb96YeLXD_yEpPZ7_cRrKF2dA%3A1569446114833&lei=4tiLXem6Msug-QajuofgCQ&q=rmarkdown%20flatly&ved=2ahUKEwi_mKez8uzkAhWNMt4KHZjdBqoQsKwBKAR6BAgCEAU&oq=rmarkdown%20flatly)
+
+- [ ] [rmarkdown make the coding block in pdf more beatufiy - Google Search](https://www.google.com/search?q=rmarkdown%20make%20the%20coding%20block%20in%20pdf%20more%20beatufiy&oq=rmarkdown%20make%20the%20coding%20block%20in%20pdf%20more%20beatufiy&aqs=chrome..69i57.19904j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [rmd produce latex pdf - Google Search](https://www.google.com/search?q=rmd%20produce%20latex%20pdf&newwindow=1&sxsrf=ACYBGNTIfb-ui7OOzKaRTuj9QvrSo6x2Dg%3A1569368242642&ei=sqiKXZDpJqHi9AOBiYGABw&start=100&sa=N&ved=0ahUKEwiQiv-k0OrkAhUhMX0KHYFEAHAQ8NMDCLIG&biw=1920&bih=975&oq=rmd%20produce%20latex%20pdf)
+
+- [ ] [rmdformats - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_agb96YeLXD_yEpPZ7_cRrKF2dA%3A1569446114833&lei=4tiLXem6Msug-QajuofgCQ&q=rmdformats&ved=2ahUKEwi_mKez8uzkAhWNMt4KHZjdBqoQsKwBKAF6BAgCEAI&oq=rmdformats)
+
+- [ ] [Sebastian Thrun - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ6yeq4rvIqCW-RyyccQytCqox2Pg%3A1569436147968&q=Sebastian%20Thrun&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyrqjJKTzMrVOLUz9U3sMw2jy_T4gtILSrOzwvOTEktT6wsXsTKH5yalFhckpmYpxCSUVSat4OVEQDb9RJmQQAAAA&sa=X&ved=2ahUKEwj-k-OgzezkAhUjNKYKHRJeARUQxA0wd3oECGAQDA&oq=Sebastian%20Thrun)
+
+- [ ] [Shie Mannor - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ6yeq4rvIqCW-RyyccQytCqox2Pg%3A1569436147968&q=Shie%20Mannor&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyrqjJKTzMrVIJwkwvM00wLLSu0-AJSi4rz84IzU1LLEyuLF7FyB2dkpir4Jubl5RftYGUEAGehakRBAAAA&sa=X&ved=2ahUKEwj-k-OgzezkAhUjNKYKHRJeARUQxA0wd3oECGAQBg&oq=Shie%20Mannor)
+
+- [ ] [snippets search results - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTwLUGSKcNiMy5gIwj2gC4VzbRrsQ%3A1569436218390&lei=OrKLXYWrF4360gSrz5jgCg&q=snippets%20search%20results&ved=2ahUKEwiDsJLEzezkAhUJvJQKHZtvCVEQsKwBKAN6BAgEEAQ&oq=snippets%20search%20results)
+
+- [ ] [sparse learning book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMEcO6o6-Dg5TyDtjb4JVoMllOGw%3A1569505563137&lei=G8GMXd71B4-Wr7wP-4m9uAs&q=sparse%20learning%20book&ved=2ahUKEwjW8NLvz-7kAhWsIqYKHVKACGMQsKwBKAF6BAgBEAI&oq=sparse%20learning%20book)
+
+- [ ] [Stanford CS229 - Google Search](https://www.google.com/search?q=Stanford%20CS229&oq=Stanford%20CS229&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Test your pen_ls on a simulated dataset generated for a fixed \lambdaλ - Google Search](https://www.google.com/search?q=Test%20your%20pen_ls%20on%20a%20simulated%20dataset%20generated%20for%20a%20fixed%20%5Clambda%CE%BB&oq=Test%20your%20pen_ls%20on%20a%20simulated%20dataset%20generated%20for%20a%20fixed%20%5Clambda%CE%BB&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [text mining python book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQbXV_eLwPXzSPz9G-GswPzSF3f-g%3A1569451215385&lei=z-yLXaCRF9vnwQP1h7DoAg&q=text%20mining%20python%20book&ved=2ahUKEwiJzIWzhe3kAhXPA4gKHSJkD5wQsKwBKAN6BAgAEAQ&oq=text%20mining%20python%20book)
+
+- [ ] [tf idf elasticsearch - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpuLahD2jNMZVHVss9rDXJiQvvGw%3A1569450200940&lei=2OiLXbqBOdug-QbTvKOYDw&q=tf%20idf%20elasticsearch&ved=2ahUKEwjXvILRge3kAhVTQd4KHTR_BwcQsKwBKAF6BAgAEAI&oq=tf%20idf%20elasticsearch)
+
+- [ ] [tf idf machine learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpuLahD2jNMZVHVss9rDXJiQvvGw%3A1569450200940&q=tf%20idf%20machine%20learning&sa=X&ved=2ahUKEwi6zeDNge3kAhVbUN4KHVPeCPMQ1QIoBHoECGUQBQ&oq=tf%20idf%20machine%20learning)
+
+- [ ] [tfidf new () - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpuLahD2jNMZVHVss9rDXJiQvvGw%3A1569450200940&lei=2OiLXbqBOdug-QbTvKOYDw&q=tfidf%20new%20()&ved=2ahUKEwjXvILRge3kAhVTQd4KHTR_BwcQsKwBKAF6BAgEEAI&oq=tfidf%20new%20())
+
+- [ ] [tfidftransformer example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQbXV_eLwPXzSPz9G-GswPzSF3f-g%3A1569451215385&lei=z-yLXaCRF9vnwQP1h7DoAg&q=tfidftransformer%20example&ved=2ahUKEwiJzIWzhe3kAhXPA4gKHSJkD5wQsKwBKAB6BAgBEAE&oq=tfidftransformer%20example)
+
+- [ ] [tfidfvectorizer - vocabulary wasn't fitted. - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQbXV_eLwPXzSPz9G-GswPzSF3f-g%3A1569451215385&lei=z-yLXaCRF9vnwQP1h7DoAg&q=tfidfvectorizer%20-%20vocabulary%20wasn%27t%20fitted.&ved=2ahUKEwiJzIWzhe3kAhXPA4gKHSJkD5wQsKwBKAV6BAgBEAY&oq=tfidfvectorizer%20-%20vocabulary%20wasn%27t%20fitted.)
+
+- [ ] [tfidfvectorizer fit_transform - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQbXV_eLwPXzSPz9G-GswPzSF3f-g%3A1569451215385&lei=z-yLXaCRF9vnwQP1h7DoAg&q=tfidfvectorizer%20fit_transform&ved=2ahUKEwiJzIWzhe3kAhXPA4gKHSJkD5wQsKwBKAF6BAgBEAI&oq=tfidfvectorizer%20fit_transform)
+
+- [ ] [Trivium China - Google Search](https://www.google.com/search?q=Trivium%20China&oq=Trivium%20China&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [use TFIDF weights in your analysis - Google Search](https://www.google.com/search?q=use%20TFIDF%20weights%20in%20your%20analysis&oq=use%20TFIDF%20weights%20in%20your%20analysis&aqs=chrome..69i57j69i64l3.1182j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [view rdata - Google Search](https://www.google.com/search?q=view%20rdata&oq=view%20rdata&aqs=chrome..69i57j0l6j69i64.3353j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Werner Erhard - Google Search](https://www.google.com/search?q=Werner%20Erhard&oq=Werner%20Erhard&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [word frequency in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpuLahD2jNMZVHVss9rDXJiQvvGw%3A1569450200940&q=word%20frequency%20in%20r&sa=X&ved=2ahUKEwi6zeDNge3kAhVbUN4KHVPeCPMQ1QIoBXoECGUQBg&oq=word%20frequency%20in%20r)
+
+- [ ] [Write a function to implement the soft-threshold solution for a given input z and lambda - Google Search](https://www.google.com/search?q=Write%20a%20function%20to%20implement%20the%20soft-threshold%20solution%20for%20a%20given%20input%20z%20and%20lambda&oq=Write%20a%20function%20to%20implement%20the%20soft-threshold%20solution%20for%20a%20given%20input%20z%20and%20lambda&aqs=chrome..69i57.951j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Yoshua Bengio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ6yeq4rvIqCW-RyyccQytCqox2Pg%3A1569436147968&q=Yoshua%20Bengio&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyrqjJKTzMrVOLSz9U3SDZOq6qo1OILSC0qzs8LzkxJLU-sLF7EyhuZX5xRmqjglJqXnpm_g5URAM2oX3NAAAAA&sa=X&ved=2ahUKEwj-k-OgzezkAhUjNKYKHRJeARUQxA0wd3oECGAQCg&oq=Yoshua%20Bengio)
