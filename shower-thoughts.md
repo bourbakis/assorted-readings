@@ -16,3 +16,16 @@ The definition of math
 # 9/21/19
 
 一本书做到面面俱到很难。全面不是很重要。全面可以google到。优秀的书不全面，可能更能突出其特地。
+
+
+
+# 9/26/19
+
+What is my marginal benifit to read the article like
+
+ - [21 Must-Know Open Source Tools for Machine Learning you Probably Aren’t Using (but should!)](https://medium.com/analytics-vidhya/21-must-know-open-source-tools-for-machine-learning-you-probably-arent-using-but-should-f605b94d9b06).
+
+Can add more articles and information into my library, can make my personal search more efficient than search from Google
+
+
+- the first generation of iPad is more like a object-oriented task processing. One can only tackle only one "object"(interface) one time.

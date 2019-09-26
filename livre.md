@@ -170,3 +170,15 @@ https://git.io/JeqDQ
 - [ ] [Computational Thinking (MIT Press Essential Knowledge series): Peter J. Denning, Matti Tedre: 9780262536561: Amazon.com: Books](https://www.amazon.com/Computational-Thinking-Press-Essential-Knowledge/dp/0262536560)
 
 - [ ] [https://www.amazon.com/Raghuram-Rajan/e/B0039XA4X8%3Fref=dbs_a_mng_rwt_scns_share](https://www.amazon.com/Raghuram-Rajan/e/B0039XA4X8%3Fref=dbs_a_mng_rwt_scns_share)
+
+## 9/26/2019
+
+Library Genesis
+https://libgen.is/search.php?req=Luigi%20Tomba&column[]=author
+
+Library Genesis: Erick Stakelbeck - The Terrorist Next Door: How the Government is Deceiving You About the Islamist Threat
+https://libgen.is/book/index.php?md5=1C73EC8087D9E2E24DEA6A0284F222BA
+
+Library Genesis: Luigi Tomba - The Government Next Door: Neighborhood Politics in Urban China
+https://libgen.is/book/index.php?md5=81C03AE15109DBDA41D8749D7B231F50
+
