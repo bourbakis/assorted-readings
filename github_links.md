@@ -714,3 +714,18 @@ https://github.com/SamyPesse?tab=stars
 - [ ] [Zohaib-Amir/CloseLeftTabs: Chrome Extension to close all left tabs on one click](https://github.com/Zohaib-Amir/CloseLeftTabs)
 
 - [ ] [Zohaib-Amir/Instagram-Activity-Notifier: Checks an Instagram profile every 10 minutes and sends a sms when something changes.](https://github.com/Zohaib-Amir/Instagram-Activity-Notifier)
+
+
+# 9/26/19
+denisidoro/navi: An interactive cheatsheet tool for the command-line
+https://github.com/denisidoro/navi
+
+The Legend of Zelda: Ocarina of Time - Zelda Wiki
+https://zelda.gamepedia.com/The_Legend_of_Zelda:_Ocarina_of_Time
+
+Navi - Zelda Wiki
+https://zelda.gamepedia.com/Navi
+
+Link - Zelda Wiki
+https://zelda.gamepedia.com/Link
+
