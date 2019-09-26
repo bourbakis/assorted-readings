@@ -461,3 +461,166 @@
 - [ ] [Yale ICF on Twitter: "Our last speaker of the day is Elias Papaioannou, Professor of Economics at London Business School. His presentation is about, "An Institutional Social Contract for Greece" https://t.co/OdPuzwaxYm https://t.co/VJG5kkg127" / Twitter](https://tabmemfree.appspot.com/blank.html#title=Yale%20ICF%20on%20Twitter%3A%20%22Our%20last%20speaker%20of%20the%20day%20is%20Elias%20Papaioannou%2C%20Professor%20of%20Economics%20at%20London%20Business%20School.%20His%20presentation%20is%20about%2C%20%22An%20Institutional%20Social%20Contract%20for%20Greece%22%20https%3A%2F%2Ft.co%2FOdPuzwaxYm%20https%3A%2F%2Ft.co%2FVJG5kkg127%22%20%2F%20Twitter&icon=https%3A%2F%2Fabs.twimg.com%2Ffavicons%2Ftwitter.ico)
 
 - [ ] [Yale ICF on Twitter: "Thank you to the @YaleMacMillan Center Hellenic Studies Program for letting us sponsor your thought-provoking conference today on the Greek Economy, "Towards a New Greek Miracle: Growth Policies for the Decades to Come."" / Twitter](https://tabmemfree.appspot.com/blank.html#title=Yale%20ICF%20on%20Twitter%3A%20%22Thank%20you%20to%20the%20%40YaleMacMillan%20Center%20Hellenic%20Studies%20Program%20for%20letting%20us%20sponsor%20your%20thought-provoking%20conference%20today%20on%20the%20Greek%20Economy%2C%20%22Towards%20a%20New%20Greek%20Miracle%3A%20Growth%20Policies%20for%20the%20Decades%20to%20Come.%22%22%20%2F%20Twitter&icon=https%3A%2F%2Fabs.twimg.com%2Ffavicons%2Ftwitter.ico)
+
+
+## 9/25/19
+
+xtable function | R Documentation
+https://www.rdocumentation.org/packages/xtable/versions/1.8-4/topics/xtable
+
+RStudio Cloud
+https://rstudio.cloud/project/545677
+
+Data Analysis Project of AFIN 805 - 腾讯文档
+https://docs.qq.com/doc/DZktBbVVHS1dESWFI
+
+Problem loading page
+https://www.google.com/search?q=Summary+Statistics+in+r+Hmisc&newwindow=1&client=firefox-b-d&sxsrf=ACYBGNReh8e0gE_KnEwocnYaAd40gMIUKQ:1569383728516&ei=MOWKXeOHH8X4wAOCzoygCA&start=100&sa=N&ved=0ahUKEwjj3539ievkAhVFPHAKHQInA4QQ8NMDCLwG&biw=1366&bih=694
+
+RStudio: View PDF
+https://franklin-fan.rstudio.cloud/f15c635068814a2baaaa38166627c89e/pdf_js/web/viewer.html?file=
+
+Server Not Found
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=49&ved=2ahUKEwjj3539ievkAhVFPHAKHQInA4QQFjAwegQIVRAB&url=https%3A%2F%2Fwww.datasurg.net%2F2018%2F05%2F16%2Felegant-regression-results-tables-and-plots-the-finalfit-package%2F&usg=AOvVaw2m9Wa_cHVNUOPRULruWGIc
+
+Problem loading page
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=61&cad=rja&uact=8&ved=2ahUKEwjj3539ievkAhVFPHAKHQInA4QQFjA8egQITxAB&url=https%3A%2F%2Faliquote.org%2Fpost%2Fhmisc-and-rms%2F&usg=AOvVaw0397J2ZJ0PuewGd_zN06bv
+
+Problem loading page
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=60&cad=rja&uact=8&ved=2ahUKEwjj3539ievkAhVFPHAKHQInA4QQFjA7egQITRAC&url=http%3A%2F%2Fmosaic-web.org%2Fgo%2Fuscots2011%2FWorkshopNotes-001.pdf&usg=AOvVaw2WBWRno_vwTnM7LoBtG-Cw
+
+Problem loading page
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=62&cad=rja&uact=8&ved=2ahUKEwjj3539ievkAhVFPHAKHQInA4QQFjA9egQISRAC&url=https%3A%2F%2Fnces.ed.gov%2Ftraining%2Fdatauser%2FCOMO_04%2Fassets%2FCOMO0411of13R.pdf&usg=AOvVaw3wQy8WxDiUWm1i-RnoEXpn
+
+Problem loading page
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=63&cad=rja&uact=8&ved=2ahUKEwjj3539ievkAhVFPHAKHQInA4QQFjA-egQIOhAB&url=https%3A%2F%2Fblog.revolutionanalytics.com%2F2014%2F09%2Fdesctools-a-new-r-misc-package.html&usg=AOvVaw3RU3_9oFnCGwpiLllr0o8-
+
+Problem loading page
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=64&cad=rja&uact=8&ved=2ahUKEwjj3539ievkAhVFPHAKHQInA4QQFjA_egQIRxAB&url=http%3A%2F%2Fjvera.rbind.io%2Fpost%2F2017%2F12%2F05%2Fpackages-for-descriptive-step%2F&usg=AOvVaw35BLkFrryPR7uHPCE0HnWf
+
+How does R handle overlapping object names? | R FAQ
+https://stats.idre.ucla.edu/r/faq/how-does-r-handle-overlapping-object-names/
+
+Elegant regression results tables and plots in R: the finalfit package – DataSurg
+https://www.datasurg.net/2018/05/16/elegant-regression-results-tables-and-plots-the-finalfit-package/
+
+R-exercises – Data Science for Doctors – Part 2 : Descriptive Statistics
+https://www.r-exercises.com/2017/02/05/data-science-for-doctors-part-2-descriptive-statistics/
+
+What is your go-to package for basic descriptive stats? : rstats
+https://www.reddit.com/r/rstats/comments/86g8ps/what_is_your_goto_package_for_basic_descriptive/
+
+Easily explore your data using the summarytools package | R-bloggers
+https://www.r-bloggers.com/easily-explore-your-data-using-the-summarytools-package/
+
+Summarizing data - R Statistics Blog
+https://www.rstatisticsblog.com/data-science-in-action/summarizing-data/
+
+My favourite R package for: summarising data – Dabbling with Data
+https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/
+
+Visualisations – Dabbling with Data
+https://dabblingwithdata.wordpress.com/category/visualisations/
+
+Social Relationships and Mortality Risk: A Meta-analytic Review
+https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316
+
+Free data – Dabbling with Data
+https://dabblingwithdata.wordpress.com/category/free-data/
+
+International variability of ages at menarche and menopause: patterns and main determinants. - PubMed - NCBI
+https://www.ncbi.nlm.nih.gov/pubmed/11446429
+
+Menarche - Wikipedia
+https://en.wikipedia.org/wiki/Menarche
+
+R code to create pretty correlation table (+ Latex output) Source: somewhere on the Internet
+https://gist.github.com/anhqle/5855936
+
+anhqle’s gists
+https://gist.github.com/anhqle
+
+summary_table r - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNReh8e0gE_KnEwocnYaAd40gMIUKQ%3A1569383728516&lei=MOWKXeOHH8X4wAOCzoygCA&q=summary_table%20r&ved=2ahUKEwju1oeBiuvkAhXVA4gKHRmVCJQQsKwBKAJ6BAgEEAM
+
+r summary statistics confidence intervals - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNReh8e0gE_KnEwocnYaAd40gMIUKQ%3A1569383728516&lei=MOWKXeOHH8X4wAOCzoygCA&q=r%20summary%20statistics%20confidence%20intervals&ved=2ahUKEwju1oeBiuvkAhXVA4gKHRmVCJQQsKwBKAV6BAgEEAY
+
+Descriptive statistics in R, part II | Margins of Error
+https://jeremyrwinget.netlify.com/post/descriptives-part-ii/
+
+Basic Statistics
+https://rstudio-pubs-static.s3.amazonaws.com/114591_db95623a3a3e4ff9af02d2b3f5a05928.html
+
+dataframe - R - describe() output to a data frame - Stack Overflow
+https://stackoverflow.com/questions/37908545/r-describe-output-to-a-data-frame
+
+Basic Statistics in R - IBM Watson
+https://dataplatform.cloud.ibm.com/analytics/notebooks/228a4234-105f-467c-9223-cc5c5a279091/view?access_token=10ca2ab0d8292d4ee978f943a00813994675444656a9362c516cdda74eb9e913#
+
+RPubs - Summary Review of Basic Descriptive Statistics and Graphs
+https://rpubs.com/statpunk/1931
+
+The fastest way to compile your Table 1?
+https://cran.r-project.org/web/packages/Gmisc/vignettes/Descriptives.html
+
+Register to read | Financial Times
+https://www.ft.com/content/b4da2f99-c324-3d2c-80f7-b1beab197327?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
+
+Book leverage Tangibility, Market to book ratio, Size and Profitability capital structure theory - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Book+leverage++Tangibility%2C+Market+to+book+ratio%2C+Size+and+Profitability++capital+structure+theory
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=48&ved=2ahUKEwjc4eGwmevkAhUWE4gKHVjsBnQQFjAvegQIVRAC&url=https%3A%2F%2Fcepr.org%2Fsites%2Fdefault%2Ffiles%2F5650_DEMIRCI%2520-%2520Government%2520Debt%2520and%2520Capital%2520Structure%2520Decisions.pdf&usg=AOvVaw3sW12rGBcTV9c2X2Q3M600
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=48&ved=2ahUKEwjc4eGwmevkAhUWE4gKHVjsBnQQFjAvegQIVRAC&url=https%3A%2F%2Fcepr.org%2Fsites%2Fdefault%2Ffiles%2F5650_DEMIRCI%2520-%2520Government%2520Debt%2520and%2520Capital%2520Structure%2520Decisions.pdf&usg=AOvVaw3sW12rGBcTV9c2X2Q3M600
+
+Problem loading page
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=46&cad=rja&uact=8&ved=2ahUKEwjc4eGwmevkAhUWE4gKHVjsBnQQFjAtegQIOxAC&url=https%3A%2F%2Fwww.businessperspectives.org%2Fpdfproxy.php%3Fitem_id%3A1413&usg=AOvVaw0Y0eL0BwavvyfaKJKPaDF5
+
+Problem loading page
+https://thesmarteducation.com/wp-content/uploads/2018/09/The-Determinants-of-Capital-Structure-Evidence-from-GCC.pdf
+
+Capital Structure Theories and Empirical Results - a Panel Data Analysis by Yinghong Chen, Klaus Hammes :: SSRN
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=535782
+
+On the Relation Between the Market-to-Book Ratio, Growth Opportunity, and Leverage Ratio | Request PDF
+https://www.researchgate.net/publication/222722487_On_the_Relation_Between_the_Market-to-Book_Ratio_Growth_Opportunity_and_Leverage_Ratio
+
+Financial Constraints, Asset Tangibility, and Corporate Investment | The Review of Financial Studies | Oxford Academic
+https://academic.oup.com/rfs/article-abstract/20/5/1429/1591748
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&ved=2ahUKEwisv4avmuvkAhUZH3AKHZe_BeUQFjAPegQIQBAC&url=https%3A%2F%2Fwww.aeaweb.org%2Fconference%2F2015%2Fretrieve.php%3Fpdfid%3D550&usg=AOvVaw2jE48ApAhNdUTskTL-r9Tc
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&ved=2ahUKEwisv4avmuvkAhUZH3AKHZe_BeUQFjAPegQIQBAC&url=https%3A%2F%2Fwww.aeaweb.org%2Fconference%2F2015%2Fretrieve.php%3Fpdfid%3D550&usg=AOvVaw2jE48ApAhNdUTskTL-r9Tc
+
+Financial Constraints, Asset Tangibility, and Corporate Investment
+https://www.nber.org/papers/w12087
+
+Tangible Asset Definition
+https://www.investopedia.com/terms/t/tangibleasset.asp
+
+Problem loading page
+https://www.ft.com/content/00d549bc-df63-11e9-9743-db5a370481bc?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
+
+summ( ) in r title - 国际版 Bing
+https://cn.bing.com/search?q=summ(+)+in+r+title&qs=n&sp=-1&pq=summ(+)+in+r+title&sc=0-18&sk=&cvid=974AD42866C14BA39D2F2E0F4EC7DB57&first=10&FORM=PORE
+
+excel - How to SUM parts of a column which have same text value in different column in the same row - Stack Overflow
+https://stackoverflow.com/questions/19669814/how-to-sum-parts-of-a-column-which-have-same-text-value-in-different-column-in-t
+
+DT: An R interface to the DataTables library
+https://rstudio.github.io/DT/
+
+Title Command Customizer – MV Plugin – RPG Maker MV Plugins
+http://sumrndm.site/title-command-customizer/
+
+Markdown Basics
+https://rmarkdown.rstudio.com/authoring_basics.html
+
+R show data - summarize and tabulate data with R
+http://www.sr.bham.ac.uk/~ajrs/R/r-show_data.html
+
+r - Adding titles to xtable - Stack Overflow
+https://stackoverflow.com/questions/19846796/adding-titles-to-xtable
+
+r - Adding titles to xtable - Stack Overflow
+https://stackoverflow.com/questions/19846796/adding-titles-to-xtable
+
