@@ -164,3 +164,124 @@
 - [ ] [Quickly Create Elegant Regression Results Tables and Plots when Modelling • finalfit](https://finalfit.org/)
 
 - [ ] [Install github package on safe haven server – DataSurg](https://www.datasurg.net/2018/05/05/install-github-package-on-safe-haven-server/)
+
+
+## 9/26/2019
+
+- [ ] [jun yan github - Google Search](https://tabmemfree.appspot.com/blank.html#title=jun%20yan%20github%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+- [ ] [stat-5361/02-optim.Rmd at master · jun-yan/stat-5361](https://tabmemfree.appspot.com/blank.html#title=stat-5361%2F02-optim.Rmd%20at%20master%20%C2%B7%20jun-yan%2Fstat-5361&icon=https%3A%2F%2Fgithub.githubassets.com%2Ffavicon.ico)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/project/501114)
+
+- [ ] [CAPM and Fama-French](https://franklin-fan.rstudio.cloud/f15c635068814a2baaaa38166627c89e/file_show?path=%2Fcloud%2Fproject%2Fv1_capm_ff.pdf)
+
+- [ ] [See rstatscompex_fromGithub.log for more info - Google Search](https://tabmemfree.appspot.com/blank.html#title=See%20rstatscompex_fromGithub.log%20for%20more%20info%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+- [ ] [The R package tinytex - Helper Functions to Manage TinyTeX, and Compile LaTeX Documents - Yihui Xie | 谢益辉](https://tabmemfree.appspot.com/blank.html#title=The%20R%20package%20tinytex%20-%20Helper%20Functions%20to%20Manage%20TinyTeX%2C%20and%20Compile%20LaTeX%20Documents%20-%20Yihui%20Xie%20%7C%20%E8%B0%A2%E7%9B%8A%E8%BE%89&icon=https%3A%2F%2Fyihui.name%2Ffavicon.ico)
+
+- [ ] [Log Loss - Deep Learning Course Wiki](http://wiki.fast.ai/index.php/Log_Loss)
+
+- [ ] [Brewer_Sun.pdf](https://tabmemfree.appspot.com/blank.html#title=Brewer_Sun.pdf&icon=https%3A%2F%2Fweb.stanford.edu%2Ffavicon.ico)
+
+- [ ] [Homepage of T. Alden Gassert](http://math.hws.edu/gassert/)
+
+- [ ] [www.quora.com](https://www.quora.com/LaTeX-What-is-the-command-for-the-plus-minus-sign)
+
+- [ ] [Knitting beautiful documents in RStudio | Daniel J. Hocking](https://danieljhocking.wordpress.com/2013/09/25/knitting-beautiful-documents-in-rstudio/)
+
+- [ ] [Getting used to R, RStudio, and R Markdown](https://ismayc.github.io/rbasics-book/4-rmarkdown.html)
+
+- [ ] [Code Highlighting with minted - Overleaf, Online LaTeX Editor](https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted)
+
+- [ ] [LaTeX/Mathematics - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+
+- [ ] [Making Elegant Presentation Slides Using LaTex Beamer · Zerui Wang](https://tabmemfree.appspot.com/blank.html#title=Making%20Elegant%20Presentation%20Slides%20Using%20LaTex%20Beamer%20%C2%B7%20Zerui%20Wang&icon=https%3A%2F%2Fwww.wangzerui.com%2Fpublic%2Ffavicon%2Ffavicon-32x32.png)
+
+- [ ] [R Markdown: The Definitive Guide](https://tabmemfree.appspot.com/blank.html#title=R%20Markdown%3A%20The%20Definitive%20Guide&icon=https%3A%2F%2Fwww.crcpress.com%2Ffavicon.ico)
+
+- [ ] [16. R Markdown | Data Analysis in Genome Biology](https://girke.bioinformatics.ucr.edu/GEN242/mydoc_Rbasics_16.html)
+
+- [ ] [Creating nice tables using R Markdown | Teaching and Learning with Technology at Reed](https://blogs.reed.edu/ed-tech/2015/10/creating-nice-tables-using-r-markdown/)
+
+- [ ] [PNW Airline Flights (2014) - Online LaTeX Editor Overleaf](https://www.overleaf.com/read/wvrpxpwrbvnk)
+
+- [ ] [Time to get sophisticated](https://jules32.github.io/rmarkdown-website-tutorial/getting_sophisticated.html)
+
+- [ ] [Using R Markdown for Class Reports](https://www.stat.cmu.edu/~cshalizi/rmarkdown/)
+
+- [ ] [hrbrmstr/markdowntemplates: A collection of alternate R markdown templates](https://tabmemfree.appspot.com/blank.html#title=hrbrmstr%2Fmarkdowntemplates%3A%20A%20collection%20of%20alternate%20R%20markdown%20templates&icon=https%3A%2F%2Fgithub.githubassets.com%2Ffavicon.ico)
+
+- [ ] [Make Your Academic CV Look Pretty in R Markdown | Steven V. Miller](https://tabmemfree.appspot.com/blank.html#title=Make%20Your%20Academic%20CV%20Look%20Pretty%20in%20R%20Markdown%20%7C%20Steven%20V.%20Miller&icon=http%3A%2F%2Fsvmiller.com%2Fimages%2Ficon.png)
+
+- [ ] [Docco](https://tabmemfree.appspot.com/blank.html#title=Docco)
+
+- [ ] [Efficient R programming](https://tabmemfree.appspot.com/blank.html#title=Efficient%20R%20programming&icon=https%3A%2F%2Fbookdown.org%2Ffavicon.ico)
+
+- [ ] [Create R Markdown reports and presentations even better with these 3 practical tips | R-bloggers](https://tabmemfree.appspot.com/blank.html#title=Create%20R%20Markdown%20reports%20and%20presentations%20even%20better%20with%20these%203%20practical%20tips%20%7C%20R-bloggers&icon=https%3A%2F%2Fi2.wp.com%2Fwww.r-bloggers.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fcropped-R_single_01-200.png%3Ffit%3D32%252C32%26ssl%3D1)
+
+- [ ] [Create R Markdown reports and presentations even better with these 3 practical tips - Jozef's Rblog](https://tabmemfree.appspot.com/blank.html#title=Create%20R%20Markdown%20reports%20and%20presentations%20even%20better%20with%20these%203%20practical%20tips%20-%20Jozef's%20Rblog&icon=https%3A%2F%2Fjozef.io%2Fimages%2Ffavicon.png)
+
+- [ ] [Create R Markdown reports and presentations even better with these 3 practical tips - Jozef's Rblog](https://tabmemfree.appspot.com/blank.html#title=Create%20R%20Markdown%20reports%20and%20presentations%20even%20better%20with%20these%203%20practical%20tips%20-%20Jozef's%20Rblog&icon=https%3A%2F%2Fjozef.io%2Fimages%2Ffavicon.png)
+
+- [ ] [Create R Markdown reports and presentations even better with these 3 practical tips - Jozef's Rblog](https://tabmemfree.appspot.com/blank.html#title=Create%20R%20Markdown%20reports%20and%20presentations%20even%20better%20with%20these%203%20practical%20tips%20-%20Jozef's%20Rblog&icon=https%3A%2F%2Fjozef.io%2Fimages%2Ffavicon.png)
+
+- [ ] [Create R Markdown reports and presentations even better with these 3 practical tips - Jozef's Rblog](https://tabmemfree.appspot.com/blank.html#title=Create%20R%20Markdown%20reports%20and%20presentations%20even%20better%20with%20these%203%20practical%20tips%20-%20Jozef's%20Rblog&icon=https%3A%2F%2Fjozef.io%2Fimages%2Ffavicon.png)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+
+- [ ] [T12talk.pdf](https://www3.cs.stonybrook.edu/~cse352/T12talk.pdf)
+
+- [ ] [Blog Archive — NeuPy](http://neupy.com/archive.html)
+
+- [ ] [AVHD101 高清在线谜片](https://cn.as101.life/?utm_source=ta&utm_campaign=under_pc&utm_medium=14613754&cid=4013ac68988e78707ff247bcaf2e77c7)
+
+- [ ] [Edwin Chen's Blog](http://blog.echen.me/)
+
+- [ ] [Our first model in TensorFlow - Introduction to neural networks | Coursera](https://www.coursera.org/lecture/intro-to-deep-learning/our-first-model-in-tensorflow-eqQd8)
+
+- [ ] [Visualization_for_ML.pdf](https://media.neurips.cc/Conferences/NIPS2018/Slides/Visualization_for_ML.pdf)
+
+- [ ] [What’s the Difference Between Deep Learning Training and Inference? | The Official NVIDIA Blog](https://blogs.nvidia.com/blog/2016/08/22/difference-deep-learning-training-inference-ai/)
+
+- [ ] [Image classification with Keras and deep learning - PyImageSearch](https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/)
+
+- [ ] [3D Neural Network Visualization with TensorSpace | Udemy](https://www.udemy.com/course/3d-neural-network-visualization-with-tensorspace/)
+
+- [ ] [Computation Graph Toolkit — CGT 0.1 documentation](http://rll.berkeley.edu/cgt/)
+
+- [ ] [The Nature of Code](https://natureofcode.com/book/chapter-10-neural-networks/)
+
+- [ ] [Visualizing your network in PyTorch - Part 1 (2018) - Deep Learning Course Forums](https://forums.fast.ai/t/visualizing-your-network-in-pytorch/10225)
+
+- [ ] [Neural Nets Got You Confused? Try This Interactive Chart | WIRED](https://www.wired.com/2016/04/neural-networks-got-confused-interactive-chart-can-help/)
+
+- [ ] [dataviz.cafe](https://dataviz.cafe/)
+
+- [ ] [Simple diagrams of convoluted neural networks - InBrowserAI - Medium](https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c097d2925b)
+
+- [ ] [neural network diagram latex - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRdLOh6dh-RSXdLBeV95U-zw-Puog%3A1569447902485&lei=3t-LXaOhHcLahwPY1bWoCQ&q=neural%20network%20diagram%20latex&ved=2ahUKEwjEud6H-ezkAhVP7mEKHaqPDpwQsKwBKAB6BAgAEAE&oq=neural%20network%20diagram%20latex)
+
+- [ ] [](http://people.csail.mit.edu/asolar/papers/EllisRST18.pdf)
+
+- [ ] [](http://slazebni.cs.illinois.edu/spring17/lec20_rnn.pdf)
+
+- [ ] [](http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf)
+
+- [ ] [Drawing neural network with tikz - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/153957/drawing-neural-network-with-tikz)
+
+- [ ] [How to draw Deep learning network architecture diagrams? - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/14899/how-to-draw-deep-learning-network-architecture-diagrams)
+
+- [ ] [plot deep learning cnn - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRdLOh6dh-RSXdLBeV95U-zw-Puog%3A1569447902485&lei=3t-LXaOhHcLahwPY1bWoCQ&q=plot%20deep%20learning%20cnn&ved=2ahUKEwjEud6H-ezkAhVP7mEKHaqPDpwQsKwBKAN6BAgCEAQ&oq=plot%20deep%20learning%20cnn)
+
+- [ ] [plot neural network github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRdLOh6dh-RSXdLBeV95U-zw-Puog%3A1569447902485&lei=3t-LXaOhHcLahwPY1bWoCQ&q=plot%20neural%20network%20github&ved=2ahUKEwjEud6H-ezkAhVP7mEKHaqPDpwQsKwBKAB6BAgCEAE&oq=plot%20neural%20network%20github)
+
+- [ ] [graphviz convolutional neural network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRdLOh6dh-RSXdLBeV95U-zw-Puog%3A1569447902485&lei=3t-LXaOhHcLahwPY1bWoCQ&q=graphviz%20convolutional%20neural%20network&ved=2ahUKEwjEud6H-ezkAhVP7mEKHaqPDpwQsKwBKAF6BAgCEAI&oq=graphviz%20convolutional%20neural%20network)
+
+- [ ] [visualize neural network architecture python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRdLOh6dh-RSXdLBeV95U-zw-Puog%3A1569447902485&lei=3t-LXaOhHcLahwPY1bWoCQ&q=visualize%20neural%20network%20architecture%20python&ved=2ahUKEwjEud6H-ezkAhVP7mEKHaqPDpwQsKwBKAR6BAgCEAU&oq=visualize%20neural%20network%20architecture%20python)
+
+- [ ] [machine learning - How do you visualize neural network architectures? - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/12851/how-do-you-visualize-neural-network-architectures)
+
+- [ ] [Visualizing Artificial Neural Networks (ANNs) with just One Line of Code](https://towardsdatascience.com/visualizing-artificial-neural-networks-anns-with-just-one-line-of-code-b4233607209e)
