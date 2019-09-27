@@ -191,3 +191,127 @@ https://space.mit.edu/home/tegmark/popular.html
 Max Tegmark - Google Search
 https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNTKiC6qnSssxwDj-hVKac0FHPYNlA:1569310919571&q=Max+Tegmark&stick=H4sIAAAAAAAAAONgFuLUz9U3MDQvSk5WQjC1pLKTrfQLUvMLclKBVFFxfp5VcWZKanliZfEiVm7fxAqFkNT03MSi7B2sjABevSciRQAAAA&sa=X&ved=2ahUKEwimwpzf-ujkAhXBnOAKHRRbAjkQzTooATB_egQIZhAC
 
+---
+
+
+
+
+
+## 9/27/19
+
+Google Translate
+https://translate.google.com/
+
+ppy/osu: rhythm is just a *click* away!
+https://github.com/ppy/osu
+
+brightmart (brightmart) / Repositories
+https://github.com/brightmart?tab=repositories
+
+PGDBA | cds2016
+https://www.souravsengupta.com/cds2016/#lectures
+
+Sen Gupta | Sourav
+http://www.souravsengupta.com/
+
+US Elections - Sentiment and Network Analysis by Chandra Bhanu Jha on Prezi Next
+https://prezi.com/p/cggajbioscf0/us-elections-sentiment-and-network-analysis/
+
+The Science of Effective Presentations | Prezi
+https://prezi.com/the-science/
+
+US Elections 2016 – Sentiment and Network Analysis – Course Projects
+http://courseprojects.souravsengupta.com/cds2015/us-elections-2016-sentiment-and-network-analysis/
+
+
+
+RStudio
+https://login.rstudio.cloud/login?setup=1&redirect=%2Foauth%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Frstudio.cloud%252Flogin%26show_login%3D1%26show_auth%3D0%26client_id%3Drstudio-cloud%26response_type%3Dcode
+
+A whistle blown - fpcmotif@gmail.com - Gmail
+https://mail.google.com/mail/u/2/#inbox/FMfcgxwDrRWBsnqvhxXJFBZDxmNDSVSM
+
+copyboard management in win10 - Google Search
+https://www.google.com/search?q=copyboard+management+in+win10
+
+Pinboard: popular bookmarks
+http://pinboard.in/popular/
+
+open-source-society/computer-science - Gitter
+https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge
+
+b7c09443-8e40-4817-a2ca-7f459d8cc28d.ws-us1.gitpod.io/
+https://b7c09443-8e40-4817-a2ca-7f459d8cc28d.ws-us1.gitpod.io/
+
+Lei Mao's Log Book – Tmux Tutorial
+https://leimao.github.io/blog/Tmux-Tutorial/
+
+ホーム / Twitter
+https://twitter.com/home
+
+Jake Archibald（@jaffathecake）さんがフォローしているアカウント / Twitter
+https://twitter.com/jaffathecake/following
+
+What Hedge Funds Are Buying and Selling
+https://www.bloomberg.com/graphics/where-hedge-funds-invest-13F/
+
+Libra Cryptocurrency: Can Facebook Dominate in Money Transfers?
+https://www.bloomberg.com/graphics/2019-facebook-libra-world-banking/
+
+Hong Kong’s 100 Days of Protests
+https://www.bloomberg.com/graphics/hong-kong-protests-timeline/
+
+Hong Kong Protests: Why Umbrellas Are the Most Essential Tool
+https://www.bloomberg.com/graphics/2019-hong-kong-protesters-umbrellas/
+
+leimao (Lei Mao)
+https://github.com/leimao
+
+Pinboard: howto page
+http://pinboard.in/howto/
+
+Pinboard Site Tour — Better Online Bookmarking!
+http://pinboard.in/tour/
+
+git fast-forward - Google Search
+https://www.google.com/search?q=git+fast-forward
+
+Jeff Bezos's 3 Rules to Having an Efficient Meeting
+https://www.inc.com/video/jeff-bezoss-3-rules-to-having-an-efficient-meeting.html?cid=sf01001
+
+Marginal REVOLUTION - Small Steps Toward A Much Better World
+https://marginalrevolution.com/
+
+"bookmarklet" fails in the latest chrome beta - Google Search
+https://www.google.com/search?lr=lang_en%7Clang_fr%7Clang_ja&newwindow=1&client=firefox-b-d&sa=X&tbs=lr:lang_1en%7Clang_1fr%7Clang_1ja,qdr:m&sxsrf=ACYBGNSsaiWMov1b0lrGTP9ABPerAMdppw:1569547388242&q=%22bookmarklet%22+fails+in+the+latest+chrome+beta&ved=2ahUKEwiAyaLU6-_kAhXkg-AKHX_9DWQQ5t4CMAB6BAgAEAk&biw=1366&bih=694
+
+GMAIL THIS! bookmarklets now fail to work with Chrome Beta .. anyone have a fix for this ? - Google Chrome עזרה
+https://support.google.com/chrome/forum/AAAAP1KN0B07zyq-qZDao8/?hl=iw
+
+Google Chrome Beta for Windows 77.0.3865.90 Download - TechSpot
+https://www.techspot.com/downloads/4767-google-chrome-beta.html
+
+Nicereply | CSAT, Net Promoter Score & CES Surveys
+https://www.nicereply.com/?utm_campaign=csat-survey&utm_medium=referral&utm_source=survey-page
+
+The Geek Blog
+http://www.thegeekblog.co.uk/
+
+20 80 rules - Google Search
+https://www.google.com/search?q=20+80+rules
+
+The 80 20 Rule Explained (a.k.a. Pareto Principle) | Brian Tracy
+https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/
+
+Pareto principle - Wikipedia
+https://en.wikipedia.org/wiki/Pareto_principle
+
+The 80/20 Rule And How It Can Change Your Life
+https://www.forbes.com/sites/kevinkruse/2016/03/07/80-20-rule/#292d9af53814
+
+Subscribe to read | Financial Times
+https://www.ft.com/content/b9c0968c-27a9-33a0-94d5-33fb69557eee?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
+
+Subscribe to read | Financial Times
+https://www.ft.com/content/2c4c56bd-1c40-3261-8ba8-f3ce8c83e8d2?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
+
