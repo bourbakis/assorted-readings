@@ -182,3 +182,32 @@ https://libgen.is/book/index.php?md5=1C73EC8087D9E2E24DEA6A0284F222BA
 Library Genesis: Luigi Tomba - The Government Next Door: Neighborhood Politics in Urban China
 https://libgen.is/book/index.php?md5=81C03AE15109DBDA41D8749D7B231F50
 
+
+## 9/28/2019
+
+- [ ] [All of Statistics: A Concise Course in Statistical Inference (Springer Texts in Statistics): Larry Wasserman: 9780387402727: Amazon.com: Books](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721/ref=sr_1_1?ie=UTF8&qid=1249141007&sr=8-1)
+
+- [ ] [Amazon.com: A State at Any Cost: The Life of David Ben-Gurion (9780374112646): Tom Segev, Haim Watzman: Gateway](https://www.amazon.com/State-Any-Cost-David-Ben-Gurion/dp/0374112649/ref=sr_1_1?keywords=tom+segev&qid=1569399641&s=gateway&sr=8-1/marginalrevol-20)
+
+- [ ] [Amazon.com: CSE546](https://www.amazon.com/s?k=CSE546&ref=nb_sb_noss)
+
+- [ ] [Amazon.com: The Shifting Realities of Philip K. Dick: Selected Literary and Philosophical Writings (9780679747871): Philip K. Dick, Lawrence Sutin: Gateway](https://www.amazon.com/Shifting-Realities-Philip-Dick-Philosophical/dp/0679747877/ref=sr_1_1?keywords=shifting+realities+of+philip+k.+dick&qid=1569412717&s=gateway&sr=8-1/marginalrevol-20)
+
+- [ ] [Brooklyn: The Once and Future City: Thomas J. Campanella: 9780691165387: Amazon.com: Books](https://www.amazon.com/Brooklyn-Once-Future-Thomas-Campanella/dp/0691165386/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1569399500&sr=8-1/marginalrevol-20)
+
+- [ ] [Innovation + Equality: How to Create a Future That Is More Star Trek Than Terminator (The MIT Press): Joshua Gans, Andrew Leigh, Lawrence H. Summers: 9780262043229: Amazon.com: Gateway](https://www.amazon.com/Innovation-Equality-Create-Future-Terminator/dp/026204322X/ref=sr_1_1?keywords=joshua+gans+innovation+and+equality&qid=1569400161&s=gateway&sr=8-1/marginalrevol-20)
+
+- [ ] [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series): Kevin P. Murphy: 9780262018029: Amazon.com: Books](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
+
+- [ ] [Natalia Goncharova: Matthew Gale, Natalia Sidlina: 9781849766296: Amazon.com: Gateway](https://www.amazon.com/Natalia-Goncharova-Matthew-Gale/dp/1849766290/ref=sr_1_1?crid=2BDQAQHQ8XES1&keywords=natalia+goncharova+book&qid=1569400206&s=gateway&sprefix=natalie+gonch%2Caps%2C175&sr=8-1/marginalrevol-20)
+
+- [ ] [Permanent Record: Edward Snowden: 9781250237231: Amazon.com: Books](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1569459059&sr=8-3/marginalrevol-20)
+
+- [ ] [Transaction Man: The Rise of the Deal and the Decline of the American Dream: Nicholas Lemann: 9780374277888: Amazon.com: Gateway](https://www.amazon.com/Transaction-Man-Decline-American-Dream/dp/0374277885/ref=sr_1_1?keywords=transaction+man&qid=1569399570&s=gateway&sr=8-1/marginalrevol-20)
+
+
+## 9/28/2019
+
+- [ ] [Library Genesis: Edward Snowden - Mémoires vives](http://libgen.is/book/index.php?md5=E538E80F16B6F0D4E99E3F3B12659B48)
+
+- [ ] [Library Genesis: Edward Snowden - Permanent Record](http://libgen.is/book/index.php?md5=A5BDA164BB2B8419C57E57012A2F7F82)

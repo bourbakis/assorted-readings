@@ -93,3 +93,42 @@ http://www.stat.cmu.edu/~ryantibs/research.html
 - [ ] [Soft-thresholding Operator and the Lasso Solution · Jocelyn T. Chi](https://web.archive.org/web/20180416125839/http://jocelynchi.com/soft-thresholding-operator-and-the-lasso-solution)
 
 - [ ] [Soft-thresholding Operator and the Lasso Solution · Jocelyn T. Chi](https://web.archive.org/web/20180416125839/http://jocelynchi.com/soft-thresholding-operator-and-the-lasso-solution)
+
+
+## 9/28/2019
+
+- [ ] [hyoka.ofc.kyushu-u.ac.jp](http://hyoka.ofc.kyushu-u.ac.jp/search/details/K004552/english.html)
+
+- [ ] [(47) Marine Le Morvan | LinkedIn](https://www.linkedin.com/in/marine-le-morvan-ba823a145/)
+
+- [ ] [Feature Selection - Ten Effective Techniques with Examples | ML+](https://www.machinelearningplus.com/machine-learning/feature-selection/)
+
+- [ ] [Course AMMI: Kernel methods in Machine learning](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2019ammi/index.html)
+
+- [ ] [Jean-Philippe Vert Publications](http://members.cbio.mines-paristech.fr/~jvert/publi/)
+
+- [ ] [Jean-Philippe Vert Talks](http://members.cbio.mines-paristech.fr/~jvert/talks/)
+
+- [ ] [Judith Abécassis](http://members.cbio.mines-paristech.fr/~jabecassis/)
+
+- [ ] [Machine learning with kernel methods, 2018](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2018mva/index.html)
+
+- [ ] [MSc course: Machine learning with kernel methods](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2015mva/index.html)
+
+- [ ] [Network Analysis in R Cookbook](http://sachaepskamp.com/files/Cookbook.html)
+
+- [ ] [Index of /~cao/Teaching/852](http://people.stat.sfu.ca/~cao/Teaching/852/)
+
+- [ ] [Lab 10 - Ridge Regression and the Lasso in R](http://www.science.smith.edu/~jcrouser/SDS293/labs/lab10-r.html)
+
+- [ ] [Penalized Logistic Regression Essentials in R: Ridge, Lasso and Elastic Net - Articles - STHDA](http://www.sthda.com/english/articles/36-classification-methods-essentials/149-penalized-logistic-regression-essentials-in-r-ridge-lasso-and-elastic-net/)
+
+- [ ] [LASSO in r! R코드로 간단히 정리해보았습니다.](https://niceguy1575.tistory.com/64)
+
+- [ ] [Math 189/289 Lab 1](http://www.math.ucsd.edu/~jig026/math189_289/lab1/lab1.nb.html#)
+
+- [ ] [Jean-Philippe Vert - MINES ParisTech - VideoLectures.NET](http://videolectures.net/jean_philippe_vert/)
+
+## 9/28/2019
+
+- [ ] [Regularization Paths for Generalized Linear Models via Coordinate Descent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2929880/)

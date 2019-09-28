@@ -144,3 +144,112 @@
 - [ ] [World's highest bridge connects Guizhou and Yunnan - YouTube](https://www.youtube.com/watch?v=RAv9IIi6e2Y)
 
 - [ ] [韓國野生象拔蚌 - YouTube](https://www.youtube.com/watch?v=BEH_bAmBWLk)
+
+
+
+
+
+
+
+
+
+## 9/28/2019
+
+- [ ] [(277) 【一席】梁文道：沒有英雄，沒有天才 - YouTube](https://www.youtube.com/watch?v=i2_mW6OIKyU)
+
+- [ ] [(307) Ian Goodfellow: Generative Adversarial Networks (NIPS 2016 tutorial) - YouTube](https://www.youtube.com/watch?v=HGYYEUSm-0Q)
+
+- [ ] [(496) iPadOS 13: EVERYTHING You Need To Know - YouTube](https://www.youtube.com/watch?v=x-vISTePKSk)
+
+- [ ] [(785) 150531 스텔라(Stellar) 민희 - 마스크 @포천 위문공연 직캠/Fancam by -wA- - YouTube](https://www.youtube.com/watch?v=cjGl7gqA1Nk)
+
+- [ ] [(785) Explained In A Minute: Neural Networks - YouTube](https://www.youtube.com/watch?v=rEDzUT3ymw4)
+
+- [ ] [(785) Gödel's Incompleteness Theorem - Numberphile - YouTube](https://www.youtube.com/watch?v=O4ndIDcDSGc)
+
+- [ ] [(785) Learn how to morph faces with a Generative Adversarial Network! - YouTube](https://www.youtube.com/watch?v=dCKbRCUyop8)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=vglurf_3Mds)
+
+- [ ] [【一席】李玫瑾：心理的迷失 - YouTube](https://www.youtube.com/watch?v=OvK-oGLhg1A)
+
+- [ ] [【碩破天驚】林鄭落區被「出火」，笑裏藏刀大話多 - YouTube](https://www.youtube.com/watch?v=Oxj1bK8mv4g)
+
+- [ ] [Advance with iMacros: Learn How to Automate Complex Web Tasks - YouTube](https://www.youtube.com/watch?v=Qp3sXOynEj0)
+
+- [ ] [iPad OS (iOS 13) running on iPad Pro - 25+ NEW Features! - YouTube](https://www.youtube.com/watch?v=eVRQ5rHJS-w)
+
+- [ ] [Joelle Pineau: Reproducibility, Reusability, and Robustness in Deep Reinforcement Learning ICLR 2018 - YouTube](https://www.youtube.com/watch?v=Vh4H0gOwdIg)
+
+- [ ] [La science des données propulsée par IVADO! Avec Joelle Pineau de McGill. - YouTube](https://www.youtube.com/watch?v=kAijUW39uI0)
+
+- [ ] [Matthew Cassinelli - YouTube](https://www.youtube.com/user/MatthewJCassinelli)
+
+- [ ] [My Favorite Mouse to Use With an iPad + Tips - YouTube](https://www.youtube.com/watch?v=DwKnDTspjYo)
+
+- [ ] [Samsung T5: The Best External Drive for iPadOS - YouTube](https://www.youtube.com/watch?v=xEp7nPNLXcI)
+
+- [ ] [The All NEW Logitech MX Master Mouse 3 - King of all Mouses - YouTube](https://www.youtube.com/watch?v=sqoD5ReoyhU)
+
+- [ ] [YouTube](https://www.youtube.com/?feature=youtu.be)
+
+- [ ] [台政黨促保護港人 制裁攻擊港生人士 - YouTube](https://www.youtube.com/watch?v=5eIqy5qtH94)
+
+- [ ] [(785) YouTube](https://www.youtube.com/)
+
+- [ ] [林鄭月娥伊利沙伯體育館「社區對話」 - YouTube](https://www.youtube.com/watch?v=pF0pYgUPSaU)
+
+
+
+
+## 9/28/2019
+
+- [ ] [(122) How to Use ANY Bluetooth Mouse in iPadOS 13! - YouTube](https://www.youtube.com/watch?v=OTEDQEhglVA)
+
+- [ ] [(122) TensorFlow Lite for mobile developers (Google I/O '18) - YouTube](https://www.youtube.com/watch?v=ByJnpbDd-zc)
+
+- [ ] [(122) The surprising habits of original thinkers | Adam Grant - YouTube](https://www.youtube.com/watch?v=fxbCHn6gE3U)
+
+- [ ] [(502) Deep Learning for Computer Vision (Andrej Karpathy, OpenAI) - YouTube](https://www.youtube.com/watch?v=u6aEYuemt0M)
+
+- [ ] [Andrej Karpathy, Research Scientist, OpenAI - RE•WORK Deep Learning Summit 2016 #reworkDL - YouTube](https://www.youtube.com/watch?v=qPcCk1V1JO8)
+
+- [ ] [Apple's "Pro" Problem - YouTube](https://www.youtube.com/watch?v=7IV_POG0YFk)
+
+- [ ] [badmephisto - YouTube](https://www.youtube.com/user/badmephisto/featured)
+
+- [ ] [Deep Learning for Computer Vision (Andrej Karpathy, OpenAI) - YouTube](https://www.youtube.com/watch?v=u6aEYuemt0M)
+
+- [ ] [Google Sheets Web App Example - Google Apps Script Web App Tutorial - Part 1 - YouTube](https://www.youtube.com/watch?v=RRQvySxaCW0)
+
+- [ ] [History of the Apple Processor - YouTube](https://www.youtube.com/watch?v=lYdhsMCutKY)
+
+- [ ] [How to Maximize Mouse Support with iPadOS! - YouTube](https://www.youtube.com/watch?v=-p9icMkvdoA)
+
+- [ ] [iPadOS 13: EVERYTHING You Need To Know - YouTube](https://www.youtube.com/watch?v=x-vISTePKSk)
+
+- [ ] [Kaggle - Titanic Solution [1/3] - data analysis - YouTube](https://www.youtube.com/watch?v=3eTSVGY_fIE)
+
+- [ ] [Kubernetes in 5 mins - YouTube](https://www.youtube.com/watch?v=PH-2FfFD2PU)
+
+- [ ] [(122) Reinforcement Learning for Car Using AirSim - YouTube](https://www.youtube.com/watch?v=fv-oFPAqSZ4)
+
+- [ ] [YouTube](https://www.youtube.com/channel/UCsXghOsNQIh-nsYK6P9BMBw)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=fwSgoUOxeLQ)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
+
+- [ ] [Understanding Machine Learning - Shai Ben-David - YouTube](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)
+
+- [ ] [Advice for the Startups by Jeff Dean - YouTube](https://www.youtube.com/watch?v=PJocy30Up0c)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=BAExWMTvVdE)
+
+- [ ] [YouTube](https://www.youtube.com/playlist?list=PLzr1cXri89xZah4Z_nzJo8mxQ7RYPa1G-)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=VLQHpvuwsV0)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=a-IYqSw5ISs)
+
+- [ ] [如何进入暗网？Tor浏览器！ - YouTube](https://www.youtube.com/watch?v=kOBy-7lD4Mc)

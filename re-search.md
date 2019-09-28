@@ -534,3 +534,80 @@ Google Search Words
 - [ ] [sparsity lasso - Google Search](https://tabmemfree.appspot.com/blank.html#title=sparsity%20lasso%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
 
 - [ ] [Write a function to implement the soft-threshold solution for a given input z and lambda - Google Search](https://tabmemfree.appspot.com/blank.html#title=Write%20a%20function%20to%20implement%20the%20soft-threshold%20solution%20for%20a%20given%20input%20z%20and%20lambda%20-%20Google%20Search&icon=https%3A%2F%2Fwww.google.com%2Ffavicon.ico)
+
+
+## 9/28/2019
+
+- [ ] [adaptive lasso matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR3vp29SmPriJW6VEpmSEjJSUM1Rg%3A1569530624897&lei=ACONXfOxNsOTr7wP-ceKuAc&q=adaptive%20lasso%20matlab&ved=2ahUKEwjbsaOdre_kAhXVyIsBHaRMAToQsKwBKAN6BAgDEAQ&oq=adaptive%20lasso%20matlab)
+
+- [ ] [bayesian inference example problems - Google Search](https://www.google.com/search?newwindow=1&sa=N&biw=1920&bih=975&sxsrf=ACYBGNTLgv4v8abdgTe7H8fQ02VHrPS4Zg%3A1569533879963&lei=ty-NXdOsOrWLr7wPraaYqA8&q=bayesian%20inference%20example%20problems&ved=2ahUKEwifmqasue_kAhVpIqYKHUwTDxAQsKwBKAV6BAgDEAY&oq=bayesian%20inference%20example%20problems)
+
+- [ ] [bayesian inference gamma distribution - Google Search](https://www.google.com/search?newwindow=1&sa=N&biw=1920&bih=975&sxsrf=ACYBGNTLgv4v8abdgTe7H8fQ02VHrPS4Zg%3A1569533879963&lei=ty-NXdOsOrWLr7wPraaYqA8&q=bayesian%20inference%20gamma%20distribution&ved=2ahUKEwifmqasue_kAhVpIqYKHUwTDxAQsKwBKAJ6BAgDEAM&oq=bayesian%20inference%20gamma%20distribution)
+
+- [ ] [chrome extension refresh all tabs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTAyVLDpgSCme2iEX19z0XvvIZwiw%3A1569612184965&ei=mGGOXfa_OqK2mAXRl5OYCA&q=chrome%20extension%20refresh%20all%20tabs&oq=chrome%20extension%20refresh%20all%20tabs&gs_l=psy-ab.3..0j0i22i30.67047.69452..69727...0.3..0.175.857.6j2......0....1..gws-wiz.......0i71.HmS-cOOLwJM&ved=0ahUKEwj26-CF3fHkAhUiG6YKHdHLBIMQ4dUDCAs&uact=5)
+
+- [ ] [coef lasso r - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=975&sxsrf=ACYBGNRJMT-fo_4cdiUn2PUiEtzZk_iCcg%3A1569533249455&lei=QS2NXa-wG5uQr7wPmYiWuAE&q=coef%20lasso%20r&ved=2ahUKEwj-0O6At-_kAhUvHKYKHa-uAFsQsKwBKAJ6BAgEEAM&oq=coef%20lasso%20r)
+
+- [ ] [coordinate descent for lasso - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTHJLvPQlAJEDUilERUSEUoVyHk8A%3A1569535405613&lei=rTWNXZaUJYuOr7wPu6Wy4A8&q=coordinate%20descent%20for%20lasso&ved=2ahUKEwiT19eDv-_kAhWbxIsBHTreCisQsKwBKAB6BAgCEAE&oq=coordinate%20descent%20for%20lasso&pli=1)
+
+- [ ] [design matrix - Google Search](https://www.google.com/search?q=design%20matrix&oq=design%20matrix&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [elements of statistical learning r code - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=1007&sxsrf=ACYBGNTmn98yLOjSmfwuek-WCK4H9CmCOg%3A1569530308425&lei=xCGNXZDJGfXUmAX9iKy4AQ&q=elements%20of%20statistical%20learning%20r%20code&ved=2ahUKEwim9aeFrO_kAhXSLqYKHWuHARwQsKwBKAF6BAgCEAI&oq=elements%20of%20statistical%20learning%20r%20code)
+
+- [ ] [fundamentals of machine learning bloomberg - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTHJLvPQlAJEDUilERUSEUoVyHk8A%3A1569535405613&lei=rTWNXZaUJYuOr7wPu6Wy4A8&q=fundamentals%20of%20machine%20learning%20bloomberg&ved=2ahUKEwiT19eDv-_kAhWbxIsBHTreCisQsKwBKAV6BAgCEAY&oq=fundamentals%20of%20machine%20learning%20bloomberg)
+
+- [ ] [glmnet lambda range - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRExkIWh01_EJ8Lgdy1rM6EwRBoDg%3A1569533175908&q=glmnet%20lambda%20range&sa=X&ved=2ahUKEwib36bbtu_kAhU1zIsBHd34Bz0Q1QIoAHoECGUQAQ&oq=glmnet%20lambda%20range)
+
+- [ ] [glmnet python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRExkIWh01_EJ8Lgdy1rM6EwRBoDg%3A1569533175908&q=glmnet%20python&sa=X&ved=2ahUKEwib36bbtu_kAhU1zIsBHd34Bz0Q1QIoBXoECGUQBg&oq=glmnet%20python)
+
+- [ ] [glmnet standardize - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRExkIWh01_EJ8Lgdy1rM6EwRBoDg%3A1569533175908&q=glmnet%20standardize&sa=X&ved=2ahUKEwib36bbtu_kAhU1zIsBHd34Bz0Q1QIoAnoECGUQAw&oq=glmnet%20standardize)
+
+- [ ] [jeffreys prior binomial - Google Search](https://www.google.com/search?newwindow=1&sa=N&biw=1920&bih=975&sxsrf=ACYBGNTLgv4v8abdgTe7H8fQ02VHrPS4Zg%3A1569533879963&lei=ty-NXdOsOrWLr7wPraaYqA8&q=jeffreys%20prior%20binomial&ved=2ahUKEwifmqasue_kAhVpIqYKHUwTDxAQsKwBKAN6BAgDEAQ&oq=jeffreys%20prior%20binomial)
+
+- [ ] [lasso diagnostics in r - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=975&sxsrf=ACYBGNRJMT-fo_4cdiUn2PUiEtzZk_iCcg%3A1569533249455&lei=QS2NXa-wG5uQr7wPmYiWuAE&q=lasso%20diagnostics%20in%20r&ved=2ahUKEwj-0O6At-_kAhUvHKYKHa-uAFsQsKwBKAR6BAgEEAU&oq=lasso%20diagnostics%20in%20r)
+
+- [ ] [lasso regression plot matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR3vp29SmPriJW6VEpmSEjJSUM1Rg%3A1569530624897&lei=ACONXfOxNsOTr7wP-ceKuAc&q=lasso%20regression%20plot%20matlab&ved=2ahUKEwjbsaOdre_kAhXVyIsBHaRMAToQsKwBKAV6BAgDEAY&oq=lasso%20regression%20plot%20matlab)
+
+- [ ] [maximum a posteriori estimation tutorial - Google Search](https://www.google.com/search?newwindow=1&sa=N&biw=1920&bih=975&sxsrf=ACYBGNTLgv4v8abdgTe7H8fQ02VHrPS4Zg%3A1569533879963&lei=ty-NXdOsOrWLr7wPraaYqA8&q=maximum%20a%20posteriori%20estimation%20tutorial&ved=2ahUKEwifmqasue_kAhVpIqYKHUwTDxAQsKwBKAB6BAgDEAE&oq=maximum%20a%20posteriori%20estimation%20tutorial)
+
+- [ ] [ml 101 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTHJLvPQlAJEDUilERUSEUoVyHk8A%3A1569535405613&lei=rTWNXZaUJYuOr7wPu6Wy4A8&q=ml%20101&ved=2ahUKEwiT19eDv-_kAhWbxIsBHTreCisQsKwBKAN6BAgCEAQ&oq=ml%20101)
+
+- [ ] [number of items to replace is not a multiple of replacement length - Google Search](https://www.google.com/search?q=number%20of%20items%20to%20replace%20is%20not%20a%20multiple%20of%20replacement%20length&oq=number%20of%20items%20to%20replace%20is%20not%20a%20multiple%20of%20replacement%20length&aqs=chrome..69i57j0l8.3628j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [pegasos algorithm pseudocode - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTHJLvPQlAJEDUilERUSEUoVyHk8A%3A1569535405613&lei=rTWNXZaUJYuOr7wPu6Wy4A8&q=pegasos%20algorithm%20pseudocode&ved=2ahUKEwiT19eDv-_kAhWbxIsBHTreCisQsKwBKAJ6BAgCEAM&oq=pegasos%20algorithm%20pseudocode)
+
+- [ ] [plot lasso in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRExkIWh01_EJ8Lgdy1rM6EwRBoDg%3A1569533175908&q=plot%20lasso%20in%20r&sa=X&ved=2ahUKEwib36bbtu_kAhU1zIsBHd34Bz0Q1QIoA3oECGUQBA&biw=1920&bih=975&oq=plot%20lasso%20in%20r)
+
+- [ ] [posterior mean of gamma distribution - Google Search](https://www.google.com/search?newwindow=1&sa=N&biw=1920&bih=975&sxsrf=ACYBGNTLgv4v8abdgTe7H8fQ02VHrPS4Zg%3A1569533879963&lei=ty-NXdOsOrWLr7wPraaYqA8&q=posterior%20mean%20of%20gamma%20distribution&ved=2ahUKEwifmqasue_kAhVpIqYKHUwTDxAQsKwBKAF6BAgDEAI&oq=posterior%20mean%20of%20gamma%20distribution)
+
+- [ ] [ridge regression gradient descent derivation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTHJLvPQlAJEDUilERUSEUoVyHk8A%3A1569535405613&lei=rTWNXZaUJYuOr7wPu6Wy4A8&q=ridge%20regression%20gradient%20descent%20derivation&ved=2ahUKEwiT19eDv-_kAhWbxIsBHTreCisQsKwBKAR6BAgCEAU&oq=ridge%20regression%20gradient%20descent%20derivation)
+
+- [ ] [scale() in r - Google Search](https://www.google.com/search?q=scale()%20in%20r&oq=scale()%20in%20r&aqs=chrome.0.0l6j69i65l3.3884j1j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [soft-thresholding-operator-and-the-lasso-solution - Google Search](https://www.google.com/search?q=soft-thresholding-operator-and-the-lasso-solution&oq=soft-thresholding-operator-and-the-lasso-solution&aqs=chrome..69i57.1565j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Write a function to implement the soft-threshold solution for a given input z and lambda. - Google Search](https://www.google.com/search?q=Write%20a%20function%20to%20implement%20the%20soft-threshold%20solution%20for%20a%20given%20input%20z%20and%20lambda.&newwindow=1&sxsrf=ACYBGNRkT3iDNvRccG7dpqI_SgZwQwJMkQ%3A1569533796780&ei=ZC-NXaCSL4yZr7wPvuqBgAc&start=0&sa=N&ved=0ahUKEwig1K2Due_kAhWMzIsBHT51AHA4ZBDy0wMIqQE&biw=1920&bih=975&oq=Write%20a%20function%20to%20implement%20the%20soft-threshold%20solution%20for%20a%20given%20input%20z%20and%20lambda.)
+
+
+
+## 9/28/2019
+
+- [ ] ["Comparing Dynamics: Deep Neural Networks versus Glassy Systems - Google Search](https://www.google.com/search?q=%22Comparing%20Dynamics%3A%20Deep%20Neural%20Networks%20versus%20Glassy%20Systems&oq=%22Comparing%20Dynamics%3A%20Deep%20Neural%20Networks%20versus%20Glassy%20Systems&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [faire - Google Search](https://www.google.com/search?q=faire&oq=faire&aqs=chrome..69i57j0l8.436j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Glossier, - Google Search](https://www.google.com/search?q=Glossier%2C&oq=Glossier%2C)
+
+- [ ] [Glossier, Zola and Faire - Google Search](https://www.google.com/search?q=Glossier%2C%20Zola%20and%20Faire&oq=Glossier%2C%20Zola%20and%20Faire&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [gooogle pphotos search convolutioanl neural network - Google Search](https://www.google.com/search?q=gooogle%20pphotos%20search%20convolutioanl%20neural%20network&oq=gooogle%20pphotos%20search%20convolutioanl%20neural%20network&aqs=chrome..69i57.21486j0j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [im2gps - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOE2yL5v0BbqT68H_0s6e6yIU2cQ%3A1569627034303&lei=mpuOXZCOEsTfmAXF_ovADQ&q=im2gps&ved=2ahUKEwjIm8uxlPLkAhWsGKYKHe2MBkAQsKwBKAF6BAgBEAI&oq=im2gps)
+
+- [ ] [image search - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOE2yL5v0BbqT68H_0s6e6yIU2cQ%3A1569627034303&lei=mpuOXZCOEsTfmAXF_ovADQ&q=image%20search&ved=2ahUKEwjIm8uxlPLkAhWsGKYKHe2MBkAQsKwBKAR6BAgBEAU&oq=image%20search)
+
+- [ ] [Support recovery condition - Google Search](https://www.google.com/search?q=Support%20recovery%20condition&oq=Support%20recovery%20condition&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The Handbook of Brain Theory and Neural Networks - Google Search](https://www.google.com/search?q=The%20Handbook%20of%20Brain%20Theory%20and%20Neural%20Networks&oq=The%20Handbook%20of%20Brain%20Theory%20and%20Neural%20Networks&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [zola - Google Search](https://www.google.com/search?q=zola&oq=zola&aqs=chrome..69i57j0l8.254j0j4&sourceid=chrome&ie=UTF-8)

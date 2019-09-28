@@ -19,3 +19,19 @@
 - [ ] [Soft-thresholding Operator and the Lasso Solution · Jocelyn T. Chi](https://web.archive.org/web/20180416125839/http://jocelynchi.com/soft-thresholding-operator-and-the-lasso-solution)
 
 - [ ] [Soft-thresholding Operator and the Lasso Solution · Jocelyn T. Chi](https://web.archive.org/web/20180416125839/http://jocelynchi.com/soft-thresholding-operator-and-the-lasso-solution)
+
+
+
+
+
+## 9/28/2019
+
+- [ ] [Adverarial Nets](https://cs.stanford.edu/people/karpathy/gan/)
+
+- [ ] [Andrej Karpathy Academic Website](https://cs.stanford.edu/~karpathy/)
+
+- [ ] [Andrej's advice for success](https://cs.stanford.edu/people/karpathy/advice.html)
+
+- [ ] [NIPS 2015 Accepted Papers](https://cs.stanford.edu/people/karpathy/nips2015/)
+
+- [ ] [t-SNE visualization of CNN codes](https://cs.stanford.edu/people/karpathy/cnnembed/)

@@ -729,3 +729,50 @@ https://zelda.gamepedia.com/Navi
 Link - Zelda Wiki
 https://zelda.gamepedia.com/Link
 
+
+
+
+
+## 9/28/2019
+
+- [ ] [cheatsheets/data-transformation.pdf at master · rstudio/cheatsheets](https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf)
+
+- [ ] [cheatsheets/strings.pdf at master · rstudio/cheatsheets](https://github.com/rstudio/cheatsheets/blob/master/strings.pdf)
+
+- [ ] [christine-hu/summer-2019-internships: A document to help undergraduates keep track of software engineering internship opportunities.](https://github.com/christine-hu/summer-2019-internships)
+
+- [ ] [foooomio (foooomio)](https://github.com/foooomio)
+
+- [ ] [GitHub - thumbor/thumbor: thumbor is an open-source photo thumbnail service by globo.com](https://github.com/thumbor/thumbor)
+
+- [ ] [goodfeli (Ian Goodfellow) / Repositories](https://github.com/goodfeli?tab=repositories&type=source)
+
+- [ ] [goodfeli/dlbook_exercises: Exercises for the Deep Learning textbook at www.deeplearningbook.org](https://github.com/goodfeli/dlbook_exercises)
+
+- [ ] [goodfeli/theano_exercises: Exercises for my tutorials on Theano](https://github.com/goodfeli/theano_exercises)
+
+- [ ] [guanpengchn/markdown-resume: 支持markdown和富文本的在线简历排版工具](https://github.com/guanpengchn/markdown-resume)
+
+- [ ] [hrbrmstr (boB Rudis) / Starred](https://github.com/hrbrmstr?after=Y3Vyc29yOnYyOpK5MjAxOS0wOS0wM1QwNDo0NzoxNiswODowMM4LBFFW&tab=stars)
+
+- [ ] [hrbrmstr/tdigest: Wicked Fast, Accurate Quantiles Using 't-Digests'](https://github.com/hrbrmstr/tdigest)
+
+- [ ] [jpvert/kmr: Kernel multitask regression](https://github.com/jpvert/kmr)
+
+- [ ] [kmr4toxicogenetics/kmr4toxicogenetics.pdf at master · jpvert/kmr4toxicogenetics](https://github.com/jpvert/kmr4toxicogenetics/blob/master/kmr4toxicogenetics.pdf)
+
+- [ ] [juliasilge/tidytext: Text mining using dplyr, ggplot2, and other tidy tools](https://github.com/juliasilge/tidytext?source=post_page-----94a4ccea2b38----------------------)
+
+- [ ] [knitr-examples/116-html-class.Rmd at master · yihui/knitr-examples · GitHub](https://github.com/yihui/knitr-examples/blob/master/116-html-class.Rmd)
+
+- [ ] [mlcourse/matrix-factorization.pdf at gh-pages · davidrosenberg/mlcourse · GitHub](https://github.com/davidrosenberg/mlcourse/blob/gh-pages/in-prep/matrix-factorization.pdf)
+
+- [ ] [Polynomial Features for sparse data · Issue #8376 · scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn/issues/8376)
+
+- [ ] [quanteda/quanteda: An R package for the Quantitative Analysis of Textual Data](https://github.com/quanteda/quanteda?source=post_page-----94a4ccea2b38----------------------)
+
+- [ ] [tidyverse/dplyr: dplyr: A grammar of data manipulation](https://github.com/tidyverse/dplyr?source=post_page-----94a4ccea2b38----------------------)
+
+- [ ] [xiaozhuai/cxxurl: Not only a c++ wrapper for curl](https://github.com/xiaozhuai/cxxurl)
+
+- [ ] [zhning12/markdown-nice: 支持自定义样式的在线微信Markdown排版工具](https://github.com/zhning12/markdown-nice)
