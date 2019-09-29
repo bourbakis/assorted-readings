@@ -15,3 +15,14 @@
 - [ ] [[1908.04911v2] Architecture and evolution of semantic networks in mathematics texts](https://arxiv.org/abs/1908.04911v2)
 
 - [ ] [[1909.04607] Discovery of Useful Questions as Auxiliary Tasks](https://arxiv.org/abs/1909.04607)
+
+
+## 9/29/2019
+
+- [ ] [[1206.1901] MCMC using Hamiltonian dynamics](https://arxiv.org/abs/1206.1901)
+
+- [ ] [[1504.00702] End-to-End Training of Deep Visuomotor Policies](https://arxiv.org/abs/1504.00702)
+
+- [ ] [[1709.00404] Unbiased Hamiltonian Monte Carlo with couplings](https://arxiv.org/abs/1709.00404)
+
+- [ ] [[1909.07962] Two-scale coupling for preconditioned Hamiltonian Monte Carlo in infinite dimensions](https://arxiv.org/abs/1909.07962)
