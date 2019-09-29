@@ -253,3 +253,73 @@
 - [ ] [YouTube](https://www.youtube.com/watch?v=a-IYqSw5ISs)
 
 - [ ] [如何进入暗网？Tor浏览器！ - YouTube](https://www.youtube.com/watch?v=kOBy-7lD4Mc)
+
+
+
+
+## 9/29/2019
+
+- [ ] [(122) CS231n Winter 2016: Lecture 3: Linear Classification 2, Optimization - YouTube](https://www.youtube.com/watch?v=qlLChbHhbg4)
+
+- [ ] [(122) Jeff Dean: "Achieving Rapid Response Times in Large Online Services" Keynote - Velocity 2014 - YouTube](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)
+
+- [ ] [(122) Nick Bostrom: Why Our Brains Themselves May Be Simulated - YouTube](https://www.youtube.com/watch?v=Td_qaNy1W9U)
+
+- [ ] [(123) #pythonforbeginners - YouTube](https://www.youtube.com/results?search_query=%23pythonforbeginners)
+
+- [ ] [(123) Programming with Python | Python for Beginners [1 of 44] - YouTube](https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+
+- [ ] [#learntocode - YouTube](https://www.youtube.com/results?search_query=%23learntocode)
+
+- [ ] [Day 1 Keynote | Oculus Connect 6 - YouTube](https://www.youtube.com/watch?v=RCB_mfGmh9w)
+
+- [ ] [How AI Startups Must Compete with Google | Dr Fei-Fei Li (Google Cloud) & Mike Abbott (KPCB) - YouTube](https://www.youtube.com/watch?v=Mu3scWZvZKo)
+
+- [ ] [Portfolio Optimization With R - YouTube](https://www.youtube.com/watch?v=5gmhZEl0kI8)
+
+- [ ] [The extraordinary final test to become a Shaolin Master | Sacred Wonders - BBC - YouTube](https://www.youtube.com/watch?v=Zbow21FKJS4)
+
+- [ ] [www.youtube.com](https://www.youtube.com/watch?v=FJd_1H3rZGg&list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+- [ ] [www.youtube.com](https://www.youtube.com/watch?v=IujCYxtpszU&list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+- [ ] [Yann LeCun: Deep Learning, Convolutional Neural Networks, and Self-Supervised Learning | AI Podcast - YouTube](https://www.youtube.com/watch?v=SGSOCuByo24)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=VMp6pq6_QjI)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=-I0lry5ceDs)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=qlLChbHhbg4)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=e9mN6UH5QIQ)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=vT1JzLTH4G4)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=aircAruvnKk)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=OkmNXy7er84)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=spUNpyF58BY)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=v0YEaeIClKY)
+
+- [ ] [www.youtube.com](https://www.youtube.com/watch?v=8AJPs3gvNlY&list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+- [ ] [www.youtube.com](https://www.youtube.com/watch?v=aBGOyZv2pZE&list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=6CIXZljyQAo)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=s78hvV3QLUE)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=ojEwHlyty4Q)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=CQAcLW6qdQY)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=pcF51qtpKHA)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=nbJ-2G2GXL0)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=Q-pCzTpwPBU&list=EC2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+
+
