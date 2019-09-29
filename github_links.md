@@ -776,3 +776,53 @@ https://zelda.gamepedia.com/Link
 - [ ] [xiaozhuai/cxxurl: Not only a c++ wrapper for curl](https://github.com/xiaozhuai/cxxurl)
 
 - [ ] [zhning12/markdown-nice: 支持自定义样式的在线微信Markdown排版工具](https://github.com/zhning12/markdown-nice)
+
+## 9/29/2019
+
+- [ ] [benfred/py-spy: Sampling profiler for Python programs](https://github.com/benfred/py-spy)
+
+- [ ] [GitHub](https://github.com/)
+
+- [ ] [glukki/TabMemFree: TabMemFree Chrome extension](https://github.com/glukki/TabMemFree)
+
+- [ ] [hardmaru (hardmaru) / Following](https://github.com/hardmaru?tab=following)
+
+- [ ] [hardmaru (hardmaru) / Repositories](https://github.com/hardmaru?after=Y3Vyc29yOnYyOpK5MjAxNy0wNy0xM1QwNTozMTowMCswODowMM4FyOn-&tab=repositories)
+
+- [ ] [hardmaru/write-rnn-tensorflow: Generative Handwriting using LSTM Mixture Density Network with TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow)
+
+- [ ] [Ibotta/sk-dist: Distributed scikit-learn meta-estimators in PySpark](https://github.com/Ibotta/sk-dist#installation)
+
+- [ ] [Ibotta/sk-dist: Distributed scikit-learn meta-estimators in PySpark](https://github.com/Ibotta/sk-dist)
+
+- [ ] [jemmybutton/byrne-euclid: MetaPost + ConTeXt rendition of Oliver Byrne's "The first six books of the Elements of Euclid"](https://github.com/jemmybutton/byrne-euclid)
+
+- [ ] [MattesGroeger/chrome-open-links: Chrome extension to open all links of a selection within new tabs.](https://github.com/MattesGroeger/chrome-open-links)
+
+- [ ] [microsoft/c9-python-getting-started: Sample code for Channel 9 Python for Beginners course](https://github.com/microsoft/c9-python-getting-started)
+
+- [ ] [microsoft/c9-python-getting-started: Sample code for Channel 9 Python for Beginners course](https://github.com/microsoft/c9-python-getting-started)
+
+- [ ] [nchopin/particles: Sequential Monte Carlo in python](https://github.com/nchopin/particles)
+
+- [ ] [pierrejacob (Pierre) / Repositories](https://github.com/pierrejacob?tab=repositories)
+
+- [ ] [pierrejacob/bayeshscore: Bayesian model comparison using the Hyvärinen score](https://github.com/pierrejacob/bayeshscore)
+
+- [ ] [pierrejacob/bayeshscore: Bayesian model comparison using the Hyvärinen score](https://github.com/pierrejacob/bayeshscore)
+
+- [ ] [pierrejacob/PET: Particle Enthusiast Toolbox](https://github.com/pierrejacob/PET)
+
+- [ ] [Rampaigh/Remove-Most-Viewed: Chrome extension that removes the Most Viewed from the New Tab page](https://github.com/Rampaigh/Remove-Most-Viewed)
+
+- [ ] [RSTAT131/chapters at master · pierrejacob/RSTAT131](https://github.com/pierrejacob/RSTAT131/tree/master/chapters)
+
+- [ ] [sk-dist/CODE_OF_CONDUCT.md at master · Ibotta/sk-dist](https://github.com/Ibotta/sk-dist/blob/master/CODE_OF_CONDUCT.md)
+
+- [ ] [sk-dist/examples at master · Ibotta/sk-dist](https://github.com/Ibotta/sk-dist/tree/master/examples)
+
+- [ ] [statisfaction-code/2019-09-stan-logistic.R at master · pierrejacob/statisfaction-code](https://github.com/pierrejacob/statisfaction-code/blob/master/2019-09-stan-logistic.R)
+
+- [ ] [trmcnvn/chrome-tab-mute: Chrome per-tab muting](https://github.com/trmcnvn/chrome-tab-mute)
+
+- [ ] [wjywbs/chrome-newtab-reloaded: Revert to the previous new tabs page. Remove the instant extended search bars for chrome 33+!](https://github.com/wjywbs/chrome-newtab-reloaded)

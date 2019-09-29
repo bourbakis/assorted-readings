@@ -211,3 +211,10 @@ https://libgen.is/book/index.php?md5=81C03AE15109DBDA41D8749D7B231F50
 - [ ] [Library Genesis: Edward Snowden - Mémoires vives](http://libgen.is/book/index.php?md5=E538E80F16B6F0D4E99E3F3B12659B48)
 
 - [ ] [Library Genesis: Edward Snowden - Permanent Record](http://libgen.is/book/index.php?md5=A5BDA164BB2B8419C57E57012A2F7F82)
+
+
+## 9/29/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Philip%20N.%20Klein&column[]=author)
+
+- [ ] [Library Genesis: Klein P.N. - A Cryptography Primer: Secrets and Promises](http://libgen.is/book/index.php?md5=1152EE8FE3E3A9C005651DDE816A3DA4):w

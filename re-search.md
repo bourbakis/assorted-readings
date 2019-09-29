@@ -611,3 +611,114 @@ Google Search Words
 - [ ] [The Handbook of Brain Theory and Neural Networks - Google Search](https://www.google.com/search?q=The%20Handbook%20of%20Brain%20Theory%20and%20Neural%20Networks&oq=The%20Handbook%20of%20Brain%20Theory%20and%20Neural%20Networks&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8)
 
 - [ ] [zola - Google Search](https://www.google.com/search?q=zola&oq=zola&aqs=chrome..69i57j0l8.254j0j4&sourceid=chrome&ie=UTF-8)
+
+
+--------
+
+
+
+
+
+
+
+## 9/29/2019
+
+- [ ] [A Deductive Reasoning Task: Performance, including Logical Anomalies - Google Search](https://www.google.com/search?q=A+Deductive+Reasoning+Task%3A+Performance%2C+including+Logical+Anomalies&oq=A+Deductive+Reasoning+Task%3A+Performance%2C+including+Logical+Anomalies&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [A Mathematical Analysis of Multi-Level Verbal Learning - Google Search](https://www.google.com/search?q=A+Mathematical+Analysis+of+Multi-Level+Verbal+Learning&oq=A+Mathematical+Analysis+of+Multi-Level+Verbal+Learning&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [All-or-None Paired Associates Learning with Unit and Compound Responses - Google Search](https://www.google.com/search?q=All-or-None+Paired+Associates+Learning+with+Unit+and+Compound+Responses&oq=All-or-None+Paired+Associates+Learning+with+Unit+and+Compound+Responses&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [An Algorithmic Perspective on Imitation Learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPbFEtPqi7syjGb4p5Zz1A_k8Nzg:1569679692929&q=An+Algorithmic+Perspective+on+Imitation+Learning&stick=H4sIAAAAAAAAAOPgE-LVT9c3NExLLiksrDCvUIJw041MzMxMqiq0pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWsBo55Co456flFmSUZuZnJCgGpRcUFqcklmWWpQBUKnrmZJYklmUCWT2piUV5mXjoA_QtjIm8AAAA&sa=X&ved=2ahUKEwjy_IfE2PPkAhVwy4sBHbOGAzUQmxMoATB7egQIZhAK)
+
+- [ ] [An Experimental Study of Punishment - Google Search](https://www.google.com/search?q=An+Experimental+Study+of+Punishment&oq=An+Experimental+Study+of+Punishment&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Bharat Ratra - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=1007&sxsrf=ACYBGNTdSMXe7uWYA-VDgZITI7kjYATpSQ:1569690846080&q=Bharat+Ratra&stick=H4sIAAAAAAAAAOPgE-LUz9U3MIo3SE9T4tVP1zc0TM4uNqgwyEnX0sgot9JPzs_JSU0uyczP009MTkxJzc1MLrbKyy9JTMpJVSguKU1JzStZxMrjlJFYlFiiEJRYUpQIAFMjznZVAAAA&ved=2ahUKEwi3rKaKgvTkAhWayIsBHQ1yBtsQmxMoATB8egQIbBAD)
+
+- [ ] [Bharat Ratra - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=1007&sxsrf=ACYBGNTaQwzO40g7ei_MlxPog0i_lrXrag:1569690876571&q=Bharat+Ratra&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOLjaoMMhJV0LlaglnJ1vpJ-fn5ubnWRVnpqSWJ1YWL2LlccpILEosUQhKLClKBAAok3MJRAAAAA&ved=2ahUKEwiOpeuYgvTkAhVCyIsBHWdyBk8QzTooATBsegQIWhAq)
+
+- [ ] [Chad Foley - Google Search](https://www.google.com/search?q=Chad+Foley&oq=Chad+Foley&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [charley frazier - Google Search](https://www.google.com/search?q=charley+frazier&oq=charley+frazier&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Computational Methods for Meiotic Recombination Inference - Google Search](https://www.google.com/search?q=Computational+Methods+for+Meiotic+Recombination+Inference&oq=Computational+Methods+for+Meiotic+Recombination+Inference&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Conditional Sampling Distributions for Coalescent Models Incorporating Recombination - Google Search](https://www.google.com/search?q=Conditional+Sampling+Distributions+for+Coalescent+Models+Incorporating+Recombination&oq=Conditional+Sampling+Distributions+for+Coalescent+Models+Incorporating+Recombination&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Cornell University Notable alumni - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=1007&sxsrf=ACYBGNTdSMXe7uWYA-VDgZITI7kjYATpSQ:1569690846080&q=Cornell+University+Notable+alumni&stick=H4sIAAAAAAAAAONgFuLUz9U3MIo3SE9TQjC1pLKTrfQLUvMLclKBVFFxfp5VcWZKanliZfEqRuU0K-f8orzUnByF0LzMMqB0Zkmlgl9-SWJSTqpCYk5pbl7mIlZFgmoARoXYnX4AAAA&ved=2ahUKEwi3rKaKgvTkAhWayIsBHQ1yBtsQzTooADBtegQIaRAC)
+
+- [ ] [Demographic Inference from Large Samples: Theory and Methods - Google Search](https://www.google.com/search?q=Demographic+Inference+from+Large+Samples%3A+Theory+and+Methods&oq=Demographic+Inference+from+Large+Samples%3A+Theory+and+Methods&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Discriminative Machine Learning with Structure - Google Search](https://www.google.com/search?q=Discriminative+Machine+Learning+with+Structure&oq=Discriminative+Machine+Learning+with+Structure&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Discriminative, Generative and Imitative Learning - Google Search](https://www.google.com/search?q=Discriminative%2C+Generative+and+Imitative+Learning&oq=Discriminative%2C+Generative+and+Imitative+Learning&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [economcis 101 - Google Search](https://www.google.com/search?q=economcis+101&oq=economcis+101&aqs=chrome..69i57j0l8.4926j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Electromagnetism books - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=1007&sxsrf=ACYBGNTWzP3W5cx-dnajZGISBCROFUYWZQ:1569690919831&q=Electromagnetism+books&stick=H4sIAAAAAAAAAONgFuLSz9U3KKwqKLC0VEJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriVYwSaVbFpUlZqcklViCZYiuQJqOcguxFrGKuOUDhovzcxPS81JLM4lwFsAoA_luucWYAAAA&ved=2ahUKEwiI4LutgvTkAhWoyIsBHQMzBDcQzTooADB2egQIZxAC)
+
+- [ ] [harvard stat 210 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSRZi9JpYsFo44QZpnFMfitgvp0sQ%3A1569688720609&ei=kIyPXdDkJJXez7sPw4-ZwAE&q=harvard+stat+210&oq=harvard+stat+210&gs_l=psy-ab.3..0l2j0i22i30.14078.18357..19149...0.0..0.1075.4012.4-2j2j1j1......0....1..gws-wiz.......35i39.rlMSYl6D__E&ved=0ahUKEwjQ7OWU-vPkAhUV73MBHcNHBhgQ4dUDCAs&uact=5)
+
+- [ ] [how chart lies book - Google Search](https://www.google.com/search?q=how+chart+lies+book&oq=how+chart+lies+book&aqs=chrome..69i57j69i64j69i60.3518j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Learning algorithms and statistical software, with applications to bioinformatics. - Google Search](https://www.google.com/search?q=Learning+algorithms+and+statistical+software%2C+with+applications+to+bioinformatics.&oq=Learning+algorithms+and+statistical+software%2C+with+applications+to+bioinformatics.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Learning with Online Constraints : Shifting Concepts and Active Learning - Google Search](https://www.google.com/search?q=Learning+with+Online+Constraints+%3A+Shifting+Concepts+and+Active+Learning&oq=Learning+with+Online+Constraints+%3A+Shifting+Concepts+and+Active+Learning&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Learning with Semigroup Kernels - Google Search](https://www.google.com/search?q=Learning+with+Semigroup+Kernels&oq=Learning+with+Semigroup+Kernels&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Leonard Susskind - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=1007&sxsrf=ACYBGNTdSMXe7uWYA-VDgZITI7kjYATpSQ:1569690846080&q=Leonard+Susskind&stick=H4sIAAAAAAAAAONgFuLUz9U3MIo3SE9TQjC1pLKTrfQLUvMLclKBVFFxfp5VcWZKanliZfEiVgGf1Py8xKIUheDS4uLszLyUHayMAIjf5HJKAAAA&ved=2ahUKEwi3rKaKgvTkAhWayIsBHQ1yBtsQzTooATB-egQIbhAC)
+
+- [ ] [leonard susskind books - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=1007&sxsrf=ACYBGNTdSMXe7uWYA-VDgZITI7kjYATpSQ:1569690846080&q=leonard+susskind+books&stick=H4sIAAAAAAAAAONgFuLUz9U3MIo3SE9TQjC1pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWsYjmp-XmJRSkKxaXFxdmZeSkKYNkdrIwAqpJAqFAAAAA&ved=2ahUKEwi3rKaKgvTkAhWayIsBHQ1yBtsQzTooATB9egQIZBAC)
+
+- [ ] [leonard susskind theoretical minimum - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=1007&sxsrf=ACYBGNTdSMXe7uWYA-VDgZITI7kjYATpSQ:1569690846080&q=leonard+susskind+theoretical+minimum&sa=X&ved=2ahUKEwi3rKaKgvTkAhWayIsBHQ1yBtsQ1QIoBnoECGgQBw)
+
+- [ ] [Machine Learning for Blind Source Separation - Google Search](https://www.google.com/search?q=Machine+Learning+for+Blind+Source+Separation&oq=Machine+Learning+for+Blind+Source+Separation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Matrix Factorization and Matrix Concentration - Google Search](https://www.google.com/search?q=Matrix+Factorization+and+Matrix+Concentration&oq=Matrix+Factorization+and+Matrix+Concentration&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [On the Method of Moments for Estimation in Latent Variable Models - Google Search](https://www.google.com/search?q=On+the+Method+of+Moments+for+Estimation+in+Latent+Variable+Models&oq=On+the+Method+of+Moments+for+Estimation+in+Latent+Variable+Models&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [One and Two Locus Likelihoods Under Complex Demography - Google Search](https://www.google.com/search?q=One+and+Two+Locus+Likelihoods+Under+Complex+Demography&oq=One+and+Two+Locus+Likelihoods+Under+Complex+Demography&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Pieter Abbeel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPbFEtPqi7syjGb4p5Zz1A_k8Nzg:1569679692929&q=Pieter+Abbeel&stick=H4sIAAAAAAAAAONgFuLVT9c3NExLLiksrDCvUELlakllJ1vpF6TmF-SkAqmi4vw8q-LMlNTyxMriRay8AZmpJalFCo5JSampOTtYGQFctpKCTwAAAA&sa=X&ved=2ahUKEwjy_IfE2PPkAhVwy4sBHbOGAzUQzTooATCCAXoECGsQAg)
+
+- [ ] [Probabilistic Models of Text and Images - Google Search](https://www.google.com/search?q=Probabilistic+Models+of+Text+and+Images&oq=Probabilistic+Models+of+Text+and+Images&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Robustness of the Backpropagation Algorithm - Google Search](https://www.google.com/search?q=Robustness+of+the+Backpropagation+Algorithm&oq=Robustness+of+the+Backpropagation+Algorithm&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Ruslan Salakhutdinov - Google Search](https://www.google.com/search?q=Ruslan+Salakhutdinov&oq=Ruslan+Salakhutdinov&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Sam Weiss - Google Search](https://www.google.com/search?q=Sam+Weiss&oq=Sam+Weiss&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Selected Machine Learning Reductions - Google Search](https://www.google.com/search?q=Selected+Machine+Learning+Reductions&oq=Selected+Machine+Learning+Reductions&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Self-taught learning - Google Search](https://www.google.com/search?q=Self-taught+learning&oq=Self-taught+learning&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Sparse coding for machine learning, image processing and computer vision - Google Search](https://www.google.com/search?q=Sparse+coding+for+machine+learning%2C+image+processing+and+computer+vision&oq=Sparse+coding+for+machine+learning%2C+image+processing+and+computer+vision&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Statistical Methods for Natural Language Modelling - Google Search](https://www.google.com/search?q=Statistical+Methods+for+Natural+Language+Modelling&oq=Statistical+Methods+for+Natural+Language+Modelling&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Statistical Software Debugging - Google Search](https://www.google.com/search?q=Statistical+Software+Debugging&oq=Statistical+Software+Debugging&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Statistical, algorithmic, and robustness aspects of population demographic inference from genomic variation data - Google Search](https://www.google.com/search?q=Statistical%2C+algorithmic%2C+and+robustness+aspects+of+population+demographic+inference+from+genomic+variation+data&oq=Statistical%2C+algorithmic%2C+and+robustness+aspects+of+population+demographic+inference+from+genomic+variation+data&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The Learning of Representations for Sequential Performance - Google Search](https://www.google.com/search?q=The+Learning+of+Representations+for+Sequential+Performance&oq=The+Learning+of+Representations+for+Sequential+Performance&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [theoretical minimum general relativity book - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=1007&sxsrf=ACYBGNTWzP3W5cx-dnajZGISBCROFUYWZQ:1569690919831&q=theoretical+minimum+general+relativity+book&sa=X&ved=2ahUKEwiI4LutgvTkAhWoyIsBHQMzBDcQ1QIoAXoECGsQAg)
+
+- [ ] [theoretical minimum landau - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=1007&sxsrf=ACYBGNTWzP3W5cx-dnajZGISBCROFUYWZQ:1569690919831&q=theoretical+minimum+landau&sa=X&ved=2ahUKEwiI4LutgvTkAhWoyIsBHQMzBDcQ1QIoAHoECGsQAQ)
+
+- [ ] [Topological String Theory And Enumerative Geometry - Google Search](https://www.google.com/search?q=Topological+String+Theory+And+Enumerative+Geometry&oq=Topological+String+Theory+And+Enumerative+Geometry&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Variational Methods for Inference and Estimation in Graphical Models - Google Search](https://www.google.com/search?q=Variational+Methods+for+Inference+and+Estimation+in+Graphical+Models&oq=Variational+Methods+for+Inference+and+Estimation+in+Graphical+Models&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRT4tZU55gEqbXhxBb0I8FGIaB6Dw:1569686182155&q=Economics+101:+From+Consumer+Behavior+to+Competitive+Markets--Everything+You+Need+to+Know+About+Economics&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2zCuoLC-rVELlaollJ1vpJ-XnZ4MJq-LMlNTyxMriRayZrsn5efm5mcnFCoYGhlYKbkX5uQrO-XnFpbmpRQpOqRmJZZn5RQol-UDB3ILUksySzLJUBd_EouzUkmJdXdey1KLKkozMvHSFyPxSBb_U1BSQWu-8_HIFx6T80hIFuPk7WBkB6PXEJqcAAAA&sa=X&ved=2ahUKEwiL8q7a8PPkAhUly4sBHcFFCksQzTooATCAAXoECG0QAg)
+
+- [ ] [www.google.com](https://www.google.com/search?q=finance+101&oq=finance+101&aqs=chrome..69i57j0l8.3456j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?q=philosphy+101&oq=philosphy+101&aqs=chrome..69i57j0l8.7095j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?q=statstics+101&oq=statstics+101&aqs=chrome..69i57j0l8.5791j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Yuanqing Lin - Google Search](https://www.google.com/search?q=Yuanqing+Lin&oq=Yuanqing+Lin&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
