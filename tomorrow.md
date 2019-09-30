@@ -659,3 +659,127 @@ about:blank
 - [ ] [What should I ask Henry Farrell? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/09/what-should-i-ask-henry-farrell.html)
 
 
+
+
+
+## 9/30/2019
+
+PRD：“云集”app产品需求文档 | 人人都是产品经理
+http://www.woshipm.com/data-analysis/2580889.html
+
+3个方法，写对用户画像产品需求文档（PRD） | 人人都是产品经理
+http://www.woshipm.com/user-research/2212513.html
+
+fdm download - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRQSTRasTiBzQ5ahbk7cwFRu7u2BQ%3A1569725673616&ei=6RyQXfH0JMH2swXnyaegCw&q=fdm+download&oq=fdm+download&gs_l=psy-ab.3..0i67j0j0i20i263j0l7.12772.14360..14737...0.3..0.309.2444.2-8j1......0....1..gws-wiz.......0i71j0i10.aAQkz7rwGXo&ved=0ahUKEwixja7pg_XkAhVB-6wKHefkCbQQ4dUDCAo&uact=5
+
+Alain Connes | Clay Mathematics Institute
+https://www.claymath.org/people/alain-connes
+
+New Tab
+about:newtab
+
+functional api - Google Search
+https://www.google.com/search?q=functional+api
+
+Guide to the Functional API - Keras Documentation
+https://keras.io/getting-started/functional-api-guide/
+
+hk human freedom index vs us - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQBe5EPBHYA3vUU0jm9BhECQVaHbg%3A1569807544979&ei=uFyRXZWdO_a00PEPtZKRuAo&q=hk+human+freedom+index+vs+us&oq=hk+human+freedom+index+vs+us&gs_l=psy-ab.3..33i22i29i30.223337.229220..229480...0.2..1.1012.5420.4-1j4j2j1......0....1..gws-wiz.......0i71j33i299j33i160.MMm_uuD3_Bk&ved=0ahUKEwiV2dXotPfkAhV2GjQIHTVJBKcQ4dUDCAo&uact=5
+
+hk freedom index - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBe5EPBHYA3vUU0jm9BhECQVaHbg:1569807544979&q=hk+freedom+index&tbm=isch&source=univ&client=firefox-b-d&sa=X&ved=2ahUKEwiV2dXotPfkAhV2GjQIHTVJBKcQsAR6BAgIEAE
+
+Hong Kong vs. China: Understanding the Differences
+https://www.investopedia.com/articles/investing/121814/hong-kong-vs-china-understand-differences.asp
+
+Freest Countries 2019
+http://worldpopulationreview.com/countries/freest-countries/
+
+Hong Kong ICAC - International Perspective - International Surveys and Rankings - Index of Economic Freedom
+https://www.icac.org.hk/en/intl-persp/survey/index-of-economic-freedom/index.html
+
+The Human Freedom Index 2018 | Fraser Institute
+https://www.fraserinstitute.org/studies/human-freedom-index-2018
+
+Hong Kong Economy: Population, Facts, GDP, Business, Trade, Inflation
+https://www.heritage.org/index/country/hongkong
+
+Human Freedom Index | Cato Institute
+https://www.cato.org/human-freedom-index-new
+
+Freedom in the World 2019 | Hong Kong * Country Report
+https://freedomhouse.org/report/freedom-world/2019/hong-kong
+
+special status hk - Google Search
+https://www.google.com/search?client=firefox-b-d&q=special+status+hk
+
+All-new Kindle Oasis - Amazon Official Site - E-reader
+https://www.amazon.com/dp/B07GRSK3HC/ref=twister_B07RJZPTLX?_encoding=UTF8&psc=1
+
+502 Bad Gateway
+http://www.twubbler.com/
+
+ScoutZen Blog
+https://blog.scoutzen.com/
+
+RstatsDaily
+https://www.scoutzen.com/scouts/18895
+
+Error | Astrill VPN
+http://tweetchat.com/
+
+Error: Connection failed | Astrill VPN
+http://listorious.com/
+
+DNS Error | Astrill VPN
+http://twitlistmanager.com/
+
+Error | Astrill VPN
+http://tweez.it/
+
+Qweboo — The Now Web
+https://qweboo.com/app/users/wizardMsgSuccess
+
+Twitter marketing tool, Twitter marketing software, twitter marketing automation
+https://twtdominator.com/
+
+Tweet Attacks Pro
+http://www.tweetattackspro.com/
+
+icotile3 | Twitter Friends and Lists Manager
+https://icotile.ogaoga.org/
+
+ManageFlitter - Twitter Management Tool | Work Faster & Smarter
+https://www.manageflitter.com/
+
+Tweet Attacks Pro
+http://www.tweetattackspro.com/
+
+n n taleb - Google Search
+https://www.google.com/search?client=firefox-b-d&q=n+n+taleb
+
+
+
+Nassim Nicholas Taleb（@nntaleb）さん / Twitter
+https://twitter.com/nntaleb
+
+ruanyf（@ruanyf）さん / Twitter
+https://twitter.com/ruanyf
+
+科技爱好者周刊：第 75 期 - 阮一峰的网络日志
+http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html
+
+ipados 13.1 newest beta - Google Search
+https://www.google.com/search?client=firefox-b-d&q=ipados+13.1+newest+beta
+
+iOS and iPadOS 13: The MacStories Review - MacStories - Part 19
+https://www.macstories.net/stories/ios-and-ipados-13-the-macstories-review/19/#whats-still-missing-from-shortcuts
+
+Beyond the Tablet: Seven Years of iPad as My Main Computer - MacStories - Part 3
+https://www.macstories.net/stories/beyond-the-tablet/3/#open-in-place-and-file-bookmarks
+
+Beyond the Tablet: Seven Years of iPad as My Main Computer - MacStories - Part 8
+https://www.macstories.net/stories/beyond-the-tablet/8/#the-problems-with-shortcuts
+
