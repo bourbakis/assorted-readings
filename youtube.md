@@ -323,3 +323,128 @@
 
 
 
+* [www.youtube.com](https://www.youtube.com/watch?v=-6rWqJhDv7M)
+* [www.youtube.com](https://www.youtube.com/watch?v=-ryF7237gNo)
+* [www.youtube.com](https://www.youtube.com/watch?v=0Q5IimX-AAc)
+* [www.youtube.com](https://www.youtube.com/watch?v=5031rWXgdYo)
+* [www.youtube.com](https://www.youtube.com/watch?v=6g4O5UOH304)
+* [www.youtube.com](https://www.youtube.com/watch?v=9JpdAg6uMXs)
+* [www.youtube.com](https://www.youtube.com/watch?v=_VPxEcT_Adc)
+* [www.youtube.com](https://www.youtube.com/watch?v=ApUFtLCrU90)
+* [(2) Lecture 1: Introduction to Power and Politics in Today’s World - YouTube](https://www.youtube.com/watch?v=BDqvzFY72mg)
+* [www.youtube.com](https://www.youtube.com/watch?v=BDqvzFY72mg)
+* [www.youtube.com](https://www.youtube.com/watch?v=Bgwujw-yom8)
+* [www.youtube.com](https://www.youtube.com/watch?v=Bi7f1JSSlh8)
+* [www.youtube.com](https://www.youtube.com/watch?v=BJ-VvGyQxho)
+* [www.youtube.com](https://www.youtube.com/watch?v=cRypYZCDrRo&list=PL9kd4mpdvWcDJ4dzRDchFy6VNYMKAaxg6)
+* [www.youtube.com](https://www.youtube.com/watch?v=d-o3eB9sfls)
+* [www.youtube.com](https://www.youtube.com/watch?v=efR1C6CvhmE)
+* [www.youtube.com](https://www.youtube.com/watch?v=f5nbT4xQqwI)
+* [www.youtube.com](https://www.youtube.com/watch?v=fKl2JW_qrso)
+* [www.youtube.com](https://www.youtube.com/watch?v=gYpoJMlgyXA)
+* [YouTube](https://www.youtube.com/watch?v=INSyV4dgqu8)
+* [www.youtube.com](https://www.youtube.com/watch?v=Jmq3imrHPMk)
+* [www.youtube.com](https://www.youtube.com/watch?v=JN6H4rQvwgY)
+* [www.youtube.com](https://www.youtube.com/watch?v=JRZgW1YjCKk)
+* [www.youtube.com](https://www.youtube.com/watch?v=kiuwtaprFjk)
+* [www.youtube.com](https://www.youtube.com/watch?v=kLqduWF6GXE)
+* [www.youtube.com](https://www.youtube.com/watch?v=LFV4FpfdwEw)
+* [www.youtube.com](https://www.youtube.com/watch?v=Lm77dq0kXGc)
+* [www.youtube.com](https://www.youtube.com/watch?v=m2MIpDrF7Es)
+* [www.youtube.com](https://www.youtube.com/watch?v=MBnnXbOM5S4)
+* [www.youtube.com](https://www.youtube.com/watch?v=mgceQli6ZKQ)
+* [www.youtube.com](https://www.youtube.com/watch?v=mwSZvxS--1o&list=PL9kd4mpdvWcAzD5Aq-P1TrLLiYckrloxw)
+* [www.youtube.com](https://www.youtube.com/watch?v=MzRCDLre1b4)
+* [www.youtube.com](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+* [www.youtube.com](https://www.youtube.com/watch?v=PdxPCeWw75k)
+* [www.youtube.com](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+* [www.youtube.com](https://www.youtube.com/watch?v=pXyONXaqqP8&list=PL9kd4mpdvWcAm5QtZQYU46VL5xa6mNl4p)
+* [www.youtube.com](https://www.youtube.com/watch?v=Q8nhQSp__3s)
+* [YouTube](https://www.youtube.com/watch?v=Qj6NbasV7Jk)
+* [www.youtube.com](https://www.youtube.com/watch?v=qlLChbHhbg4&t=12s)
+* [www.youtube.com](https://www.youtube.com/watch?v=T3-VlQu3iRM)
+* [www.youtube.com](https://www.youtube.com/watch?v=T3TpdPmTLso)
+* [YouTube](https://www.youtube.com/watch?v=TNk0OgRbnzg)
+* [www.youtube.com](https://www.youtube.com/watch?v=U03Md5enU-0)
+* [www.youtube.com](https://www.youtube.com/watch?v=uVC5WowQxD8)
+* [www.youtube.com](https://www.youtube.com/watch?v=vcHNltb3zDs&list=PL9kd4mpdvWcC7C4-U6YixiehkF9V6vNRC)
+* [YouTube](https://www.youtube.com/watch?v=VfLSCLO60NE)
+* [www.youtube.com](https://www.youtube.com/watch?v=yQsOFWqpjkE)
+* [www.youtube.com](https://www.youtube.com/watch?v=zrF5_O92ELQ)
+* [YouTube](https://www.youtube.com/watch?v=m8pOnJxOcqY)
+* [YouTube](https://www.youtube.com/watch?v=IaF2_rDOLw8)
+* [YouTube](https://www.youtube.com/watch?v=cyW5z-M2yzw)
+* [YouTube](https://www.youtube.com/watch?v=Ip3X9LOh2dk)
+
+
+
+
+
+
+## 10/1/2019
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=T3-VlQu3iRM)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=BDqvzFY72mg)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=pf91LApkCpU&list=PL2103FD9F9D0615B7)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=cyW5z-M2yzw)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=_IgKHHAjV8Y&list=PL3A8E6CE294860A24)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=4vK73R51rwU&list=PLE653BF062C136B62)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=Kj4TvL5pIc8&list=PLh9mgdi4rNeyfbeQuCxF2nGCMmCcJPoIU)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=arj7oStGLkU)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=Ip3X9LOh2dk)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=lfXDJKKPGfY)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=Lovc4ZyWWn0)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=wX78iKhInsc)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=ezVk1ahRF78)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=6yueij8jo9Q)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=6Waurx8e-1o)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=qd3MJPHaotQ&list=PLBCB3059E45654BCE)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=mUHYlyacMmA&list=PL3F6BC200B2930084)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=0GLy6_gjenA&list=PL84C3A4DD9C263D79)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=8PHMR-U9R-g&list=PLh9mgdi4rNew731mjIZn43G_Y5otqKzJA)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=ZC8JcWVRFp8&list=PL77A337915A76F660)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=8KFFkNhID4Y&list=PLh9mgdi4rNewieO9Dsj-OhNBC9bF4FoRp)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=sL7s0TPy-UQ&list=PLh9mgdi4rNez7ZuPRY3KNJ2ef16qebyZe)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=TNk0OgRbnzg&list=PLh9mgdi4rNezvm7QkQ_PioadoAWqfa2L0)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=CJ-arg-Trr4&list=PLh9mgdi4rNewJDSFvMH5Ih5fjz9PVms5d)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=bW0c0DvFq_Y&list=PLh9mgdi4rNewJg_lsZuLmMXKqATjV6o1L)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=BDqvzFY72mg&list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=KOKnWaLiL8w)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=4eUS8trd_yI)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=q53DF6ySOZg)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=yLsG4R8FFOc)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=ftn96ay4pZM)
+
+- [ ] [(2) Andreas Mueller - YouTube](https://www.youtube.com/channel/UCMEXgDffQy6nS2a74Gby8ZA/videos)
