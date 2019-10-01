@@ -722,3 +722,18 @@ Google Search Words
 - [ ] [www.google.com](https://www.google.com/search?q=statstics+101&oq=statstics+101&aqs=chrome..69i57j0l8.5791j1j1&sourceid=chrome&ie=UTF-8)
 
 - [ ] [Yuanqing Lin - Google Search](https://www.google.com/search?q=Yuanqing+Lin&oq=Yuanqing+Lin&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+
+
+
+## 10/1/2019
+
+- [ ] [cc means - Google Search](https://www.google.com/search?q=cc+means&oq=cc+means&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?q=democracy&oq=democracy&aqs=chrome..69i57j0l2j69i65l3j69i64l3.4711j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Dr. Herbert Kleber - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNS1N77vHl9Vy6EMGL9xgLLlOCpjNg:1569911927655&q=Dr.+Herbert+Kleber&oi=ddle&ct=138950972&hl=en&kgmid=/m/07k3x3d&ved=0ahUKEwjg0JjWufrkAhWzL6YKHfBNAQAQPQgO&biw=1920&bih=958&dpr=1)
+
+- [ ] [Isabel Crook - Google Search](https://www.google.com/search?q=Isabel+Crook&oq=Isabel+Crook&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [shanghai accept many jews against nazi - Google Search](https://www.google.com/search?q=shanghai+accept+many+jews+against+nazi&oq=shanghai+accept+many+jews+against+nazi+&aqs=chrome..69i57.13663j1j1&sourceid=chrome&ie=UTF-8)
