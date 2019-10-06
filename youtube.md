@@ -448,3 +448,67 @@
 - [ ] [YouTube](https://www.youtube.com/watch?v=ftn96ay4pZM)
 
 - [ ] [(2) Andreas Mueller - YouTube](https://www.youtube.com/channel/UCMEXgDffQy6nS2a74Gby8ZA/videos)
+
+
+
+
+
+## 10/6/2019
+
+- [ ] [(24) 'The Third Revolution: Xi Jinping and the New Chinese State' by Elizabeth C. Economy - YouTube](https://www.youtube.com/watch?v=xxobEouW2TE)
+
+- [ ] [(24) Elizabeth Economy: The Future of Xi Jinping's China - YouTube](https://www.youtube.com/watch?v=POarSOmsceA)
+
+- [ ] [500 years of NOT teaching THE CUBIC FORMULA. What is it they think you can't handle? - YouTube](https://www.youtube.com/watch?v=N-KXStupwsc)
+
+- [ ] [Clip: Elizabeth Economy on Dissent in China - YouTube](https://www.youtube.com/watch?v=R9J2vl3E9DQ)
+
+- [ ] [CSF 2016 | Elizabeth Economy: Keynote Address - YouTube](https://www.youtube.com/watch?v=1fvk54N5owU)
+
+- [ ] [Elizabeth Economy - Broad Lecture - April 10, 2019 - YouTube](https://www.youtube.com/watch?v=mTBLKtRz-sA)
+
+- [ ] [Elizabeth Economy: A Short History of Chinese Environmentalism - YouTube](https://www.youtube.com/watch?v=l2zC1d7aQS4)
+
+- [ ] [Epicycles, complex Fourier series and Homer Simpson's orbit - YouTube](https://www.youtube.com/watch?v=qS4H6PEcCCA)
+
+- [ ] [Episode 39: Maxwell's Equations - The Mechanical Universe - YouTube](https://www.youtube.com/watch?v=SS4tcajTsW8)
+
+- [ ] [La gouvernance par les nombres 4 - Les impasses de la gouvernance par les nombres - YouTube](https://www.youtube.com/watch?v=b4BcqgSSMK8)
+
+- [ ] [Marvel Entertainment - YouTube](https://www.youtube.com/user/MARVEL)
+
+- [ ] [Peter Thiel: The Star Trek Computer Is Not Enough - National Conservatism Conference - YouTube](https://www.youtube.com/watch?v=7JRyy2MM-rI)
+
+- [ ] [Rene Girard on Peter's Denial - YouTube](https://www.youtube.com/watch?v=YWsU5rXDFVc)
+
+- [ ] [Simulating Natural Selection - YouTube](https://www.youtube.com/watch?v=0ZGbIKd0XrM)
+
+- [ ] [Solving 2D equations using color, a story of winding numbers and composition - YouTube](https://www.youtube.com/watch?v=b7FxPsqfkOY)
+
+- [ ] [Some light quantum mechanics (with minutephysics) - YouTube](https://www.youtube.com/watch?v=MzRCDLre1b4)
+
+- [ ] [Taylor Swift - Cruel Summer (Official Audio) - YouTube](https://www.youtube.com/watch?v=ic8j13piAhQ)
+
+- [ ] [Taylor Swift - Red - YouTube](https://www.youtube.com/watch?v=Zlot0i3Zykw)
+
+- [ ] [Taylor Swift - Treacherous (DVD The RED Tour Live) - YouTube](https://www.youtube.com/watch?v=zzlH2pj__ew)
+
+- [ ] [Taylor Swift - YouTube](https://www.youtube.com/user/taylorswift)
+
+- [ ] [Terrific Toothpick Patterns - Numberphile - YouTube](https://www.youtube.com/watch?v=_UtCli1SgjI)
+
+- [ ] [The more general uncertainty principle, beyond quantum - YouTube](https://www.youtube.com/watch?v=MBnnXbOM5S4)
+
+- [ ] [The Transition Matrix - YouTube](https://www.youtube.com/watch?v=4zg5bNlHZRg)
+
+- [ ] [Visualizing quaternions (4d numbers) with stereographic projection - YouTube](https://www.youtube.com/watch?v=d4EgbgTm0Bg)
+
+- [ ] [Watch Hong Kong Protesters Attack JPMorgan Banker - YouTube](https://www.youtube.com/watch?v=X-GR88q8pIw)
+
+- [ ] [What is a Fourier Series? (Explained by drawing circles) - Smarter Every Day 205 - YouTube](https://www.youtube.com/watch?v=ds0cmAV-Yek)
+
+- [ ] [Why is pi here? And why is it squared? A geometric answer to the Basel problem - YouTube](https://www.youtube.com/watch?v=d-o3eB9sfls)
+
+- [ ] [YouTube](https://www.youtube.com/)
+
+- [ ] [YouTube](https://www.youtube.com/)

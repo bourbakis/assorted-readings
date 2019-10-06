@@ -228,6 +228,26 @@ https://libgen.is/book/index.php?md5=81C03AE15109DBDA41D8749D7B231F50
 
 
 
+## 10/7/2019
+
+- [ ] [Amazon.com: Best History Books of 2018: Kindle Store](https://www.amazon.com/b?node=19064782011&pf_rd_p=144b9196-7897-4d7b-8624-412b8f6c6cf7&pf_rd_s=hero-quick-promo-books-atf&pf_rd_t=201&pf_rd_i=067403323X&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=N16C7E51XVNW37EP7PP1&pf_rd_r=N16C7E51XVNW37EP7PP1&pf_rd_p=144b9196-7897-4d7b-8624-412b8f6c6cf7)
+
+- [ ] [Basic Category Theory for Computer Scientists (Foundations of Computing): Benjamin C. Pierce: 9780262660716: Amazon.com: Books](https://www.amazon.com/Category-Computer-Scientists-Foundations-Computing/dp/0262660717)
+
+- [ ] [Conceptual Mathematics: A First Introduction to Categories: F. William Lawvere: 9780521719162: Amazon.com: Books](https://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X)
+
+- [ ] [Criminal Justice in China: A History: Klaus Mühlhahn: 9780674033238: Amazon.com: Books](https://www.amazon.com/Criminal-Justice-China-Klaus-M%C3%BChlhahn/dp/067403323X/ref=sr_1_1?keywords=Criminal+Justice+in+China&qid=1570352456&sr=8-1)
+
+- [ ] [First: Sandra Day O'Connor: Evan Thomas: 9780399589287: Amazon.com: Books](https://www.amazon.com/dp/0399589287?creativeASIN=0399589287&linkCode=w61&imprToken=opZVXpjxm24hj5anq0upCA&slotNum=0&tag=thneyo0f-20)
+
+- [ ] [More from Less: The Surprising Story of How We Learned to Prosper Using Fewer Resources_and What Happens Next: Andrew McAfee: 9781982103576: Amazon.com: Books](https://www.amazon.com/More-Less-Surprising-Learned-Resources_and/dp/1982103574/ref=tmm_hrd_swatch_0?tag=marginalrevol-20)
+
+- [ ] [Syria through Jihadist Eyes: A Perfect Enemy (Hoover Institution Press Publication Book 583) - Kindle edition by Nibras Kazimi. Politics & Social Sciences Kindle eBooks @ Amazon.com.](https://www.amazon.com/Syria-through-Jihadist-Eyes-Institution-ebook/dp/B00GQDLYDC/ref=sr_1_1?ie=UTF8&qid=1446129675&sr=8-1&keywords=syria+through+jihadists+eyes)
+
+- [ ] [The Cook: A Novel - Kindle edition by Maylis de Kerangal, Sam Taylor. Literature & Fiction Kindle eBooks @ Amazon.com.](https://www.amazon.com/dp/B07D6N23HF?creativeASIN=B07D6N23HF&linkCode=w61&imprToken=opZVXpjxm24hj5anq0upCA&slotNum=3&tag=thneyo0f-20)
+
+- [ ] [Vacuum in the Dark: A Novel - Kindle edition by Jen Beagin. Literature & Fiction Kindle eBooks @ Amazon.com.](https://www.amazon.com/dp/B07GNTQQ7P?creativeASIN=B07GNTQQ7P&linkCode=w61&imprToken=opZVXpjxm24hj5anq0upCA&slotNum=2&tag=thneyo0f-20)
+
 ---
 
 

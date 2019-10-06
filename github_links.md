@@ -826,3 +826,31 @@ https://zelda.gamepedia.com/Link
 - [ ] [trmcnvn/chrome-tab-mute: Chrome per-tab muting](https://github.com/trmcnvn/chrome-tab-mute)
 
 - [ ] [wjywbs/chrome-newtab-reloaded: Revert to the previous new tabs page. Remove the instant extended search bars for chrome 33+!](https://github.com/wjywbs/chrome-newtab-reloaded)
+
+
+
+
+
+
+
+## 10/7/2019
+
+- [ ] [[WoW] Does not launch · Issue #83 · winepak/applications](https://github.com/winepak/applications/issues/83)
+
+- [ ] [bourbakis/assorted-readings: Assorted readings, weekend readings](https://github.com/bourbakis/assorted-readings)
+
+- [ ] [dafzor/bnetlauncher: Launcher utility to help start battle.net games with the steam overlay.](https://github.com/dafzor/bnetlauncher)
+
+- [ ] [google/XNNPACK: High-efficiency floating-point neural network inference operators for mobile and Web](https://github.com/google/xnnpack)
+
+- [ ] [hmemcpy/milewski-ctfp-pdf: Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
+
+- [ ] [krasserm/super-resolution: Tensorflow 2.0 based implementation of EDSR, WDSR and SRGAN for single image super-resolution](https://github.com/krasserm/super-resolution)
+
+- [ ] [plfa/plfa.github.io: Introduction to programming language theory in Agda](https://github.com/plfa/plfa.github.io/)
+
+- [ ] [Releases · Wox-launcher/Wox](https://github.com/Wox-launcher/Wox/releases)
+
+- [ ] [Search · wox](https://github.com/search?q=wox)
+
+- [ ] [Wox-launcher/Wox.Plugin.ClipboardManager: Wox plugin for remember clipboard history](https://github.com/Wox-launcher/Wox.Plugin.ClipboardManager)
