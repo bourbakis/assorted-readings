@@ -29,3 +29,15 @@ Can add more articles and information into my library, can make my personal sear
 
 
 - the first generation of iPad is more like a object-oriented task processing. One can only tackle only one "object"(interface) one time.
+
+
+# 10/06/19
+
+Thinks about 
+
+- mutiple-modelling thinker
+
+- history and developement of hacking and metaphors borrowed from Computer Science.
+
+
+It's a higher and abstract level of thinking.

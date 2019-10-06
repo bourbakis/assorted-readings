@@ -217,4 +217,44 @@ https://libgen.is/book/index.php?md5=81C03AE15109DBDA41D8749D7B231F50
 
 - [ ] [Library Genesis](http://libgen.is/search.php?req=Philip%20N.%20Klein&column[]=author)
 
-- [ ] [Library Genesis: Klein P.N. - A Cryptography Primer: Secrets and Promises](http://libgen.is/book/index.php?md5=1152EE8FE3E3A9C005651DDE816A3DA4):w
+- [ ] [Library Genesis: Klein P.N. - A Cryptography Primer: Secrets and Promises](http://libgen.is/book/index.php?md5=1152EE8FE3E3A9C005651DDE816A3DA4):
+
+
+
+
+## 10/6/2019
+
+- [ ] [Library Genesis: Klaus Mühlhahn - Making China Modern: From the Great Qing to Xi Jinping](http://libgen.is/book/index.php?md5=7C6E8FB3BB3A05E70E2073111D82E13A)
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+# Economic History
+
+## 10/6/2019
+
+- [ ] [Economic History Books | pseudoerasmus](https://pseudoerasmus.com/economic-history-books/)
+
+
+
+
+
+
+
+# Book Reviews
+
+## 10/6/2019
+
+- [ ] [Briefly Noted Book Reviews | The New Yorker](https://www.newyorker.com/magazine/2019/04/15/first-making-china-modern-vacuum-in-the-dark-and-the-cook)
+
