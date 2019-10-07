@@ -859,3 +859,195 @@ https://www.macstories.net/stories/beyond-the-tablet/8/#the-problems-with-shortc
 ## 10/7/2019
 
 - [ ] [Git: How to avoid typing username & password when using HTTPS Authentication](https://medium.com/@isaacjumba/git-how-to-avoid-typing-username-password-when-using-https-authentication-f22bb259dfc7)
+
+
+
+
+
+
+
+
+
+## 10/7/2019
+
+- [ ] [TensorFlow 2.0 + Keras Crash Course.ipynb - Colaboratory](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=FjLI719fPfJi)
+
+- [ ] [Google Translate](https://translate.google.com/?source=osdd#auto|auto|Attack+on+JPMorgan+banker+in+Hong+Kong+sparks+outrage+in+mainland+China)
+
+- [ ] [Chapter 4 EM Algorithm | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/em-algorithm.html#acceleration-of-em-algorithm)
+
+- [ ] [Machine Learning with Python: Expectation Maximization and Gaussian Mixture Models in Python](https://www.python-course.eu/expectation_maximization_and_gaussian_mixture_models.php)
+
+- [ ] [mixture - Can log-likelihood function calculated value (M-step) be smaller after 1 EM-iteration? - Cross Validated](https://stats.stackexchange.com/questions/69563/can-log-likelihood-function-calculated-value-m-step-be-smaller-after-1-em-iter)
+
+- [ ] [Efficient algorithms for training the parameters of hidden Markov models using stochastic expectation maximization (EM) training and Viterbi training](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3019189/)
+
+- [ ] [3s3-Assignment2.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/3s3-Assignment2.pdf)
+
+- [ ] [hw4-3 solution.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/hw4-3%20solution.pdf)
+
+- [ ] [hw5.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/hw5.pdf)
+
+- [ ] [需要参考的课件-主要从28页开始.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/%E9%9C%80%E8%A6%81%E5%8F%82%E8%80%83%E7%9A%84%E8%AF%BE%E4%BB%B6-%E4%B8%BB%E8%A6%81%E4%BB%8E28%E9%A1%B5%E5%BC%80%E5%A7%8B.pdf)
+
+- [ ] [Index of /notes](http://cs229.stanford.edu/notes/)
+
+- [ ] [Home - amstat](https://community.amstat.org/home)
+
+- [ ] [Index of /~pabbeel/cs287-fa13/slides](http://people.eecs.berkeley.edu/~pabbeel/cs287-fa13/slides/)
+
+- [ ] [Solved: I Don't Need Need The Whole 800 Word Summary. Just... | Chegg.com](https://www.chegg.com/homework-help/questions-and-answers/don-t-need-need-whole-800-word-summary-looking-someone-confirm-key-points-question-like-30-q39584289)
+
+
+
+## 10/7/2019
+
+- [ ] [TensorFlow 2.0 + Keras Crash Course.ipynb - Colaboratory](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=FjLI719fPfJi)
+
+- [ ] [Google Translate](https://translate.google.com/?source=osdd#auto|auto|Attack+on+JPMorgan+banker+in+Hong+Kong+sparks+outrage+in+mainland+China)
+
+- [ ] [Chapter 4 EM Algorithm | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/em-algorithm.html#acceleration-of-em-algorithm)
+
+- [ ] [Machine Learning with Python: Expectation Maximization and Gaussian Mixture Models in Python](https://www.python-course.eu/expectation_maximization_and_gaussian_mixture_models.php)
+
+- [ ] [mixture - Can log-likelihood function calculated value (M-step) be smaller after 1 EM-iteration? - Cross Validated](https://stats.stackexchange.com/questions/69563/can-log-likelihood-function-calculated-value-m-step-be-smaller-after-1-em-iter)
+
+- [ ] [Efficient algorithms for training the parameters of hidden Markov models using stochastic expectation maximization (EM) training and Viterbi training](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3019189/)
+
+- [ ] [3s3-Assignment2.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/3s3-Assignment2.pdf)
+
+- [ ] [hw4-3 solution.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/hw4-3%20solution.pdf)
+
+- [ ] [hw5.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/hw5.pdf)
+
+- [ ] [需要参考的课件-主要从28页开始.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/%E9%9C%80%E8%A6%81%E5%8F%82%E8%80%83%E7%9A%84%E8%AF%BE%E4%BB%B6-%E4%B8%BB%E8%A6%81%E4%BB%8E28%E9%A1%B5%E5%BC%80%E5%A7%8B.pdf)
+
+- [ ] [Index of /notes](http://cs229.stanford.edu/notes/)
+
+- [ ] [Home - amstat](https://community.amstat.org/home)
+
+- [ ] [Index of /~pabbeel/cs287-fa13/slides](http://people.eecs.berkeley.edu/~pabbeel/cs287-fa13/slides/)
+
+- [ ] [Solved: I Don't Need Need The Whole 800 Word Summary. Just... | Chegg.com](https://www.chegg.com/homework-help/questions-and-answers/don-t-need-need-whole-800-word-summary-looking-someone-confirm-key-points-question-like-30-q39584289)
+
+- [ ] [stat3063-assignment1(1)(1).pdf - STAT3063 Spatial Statistics and Modeling ASSIGNMENT 1 Due 3pm Submission Submit your assignment in LMS in pdf format](https://www.coursehero.com/file/44837996/stat3063-assignment111pdf/)
+
+- [ ] [STAT3063 Spatial Statistics and Modelling — the UWA Profiles and Research Repository](https://research-repository.uwa.edu.au/en/courses/stat3063-spatial-statistics-and-modelling)
+
+- [ ] [Ravi Varadhan, PhD](http://coah.jhu.edu/people/Faculty_personal_Pages/Varadhan.html)
+
+- [ ] [Cancer - Veterans and Agent Orange - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK195099/)
+
+- [ ] [CRAN - Package SQUAREM](https://cran.r-project.org/web/packages/SQUAREM/index.html)
+
+- [ ] [SQUAREM source: R/squarem.R](https://rdrr.io/cran/SQUAREM/src/R/squarem.R)
+
+- [ ] [Spatial Statistics and Modeling | Carlo Gaetan | Springer](https://www.springer.com/gp/book/9780387922560)
+
+- [ ] [efficient parallel algorithm for accelerating computational protein design | Bioinformatics | Oxford Academic](https://academic.oup.com/bioinformatics/article/30/12/i255/384164/)
+
+- [ ] [chrome-extension://nnjjahlikiabnchcpehcpkdeckfgnohf/output/output.html](chrome-extension://nnjjahlikiabnchcpehcpkdeckfgnohf/output/output.html)
+
+- [ ] [Save all objects from your session into a single compressed file](https://gist.github.com/simecek/19588c61c3430834bec01c67effa9c4a)
+
+- [ ] [What does a CNN see?.ipynb - Colaboratory](https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9)
+
+- [ ] [TweetDeck](https://tweetdeck.twitter.com/)
+
+- [ ] [Graphic Truth: The Cities That Watch You - GZERO Media](https://www.gzeromedia.com/graphic-truth-the-cities-that-watch-you)
+
+- [ ] [TweetDeck](https://tweetdeck.twitter.com/)
+
+- [ ] [Shtetl-Optimized » Blog Archive » Book Review: ‘The AI Does Not Hate You’ by Tom Chivers](https://www.scottaaronson.com/blog/?p=4361)
+
+- [ ] [Eliezer Yudkowsky - Wikipedia](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
+
+- [ ] [Start Working & Living Remotely - Remotify](https://remotify.me/)
+
+- [ ] [Reza Zadeh（@Reza_Zadeh）さん / Twitter](https://twitter.com/Reza_Zadeh)
+
+- [ ] [The Joy of Search | The MIT Press](https://mitpress.mit.edu/books/joy-search)
+
+- [ ] [Mehdi Moussaïd🚶‍♂️🚶‍♀️ (@Mehdi_Moussaid) / Twitter](https://twitter.com/Mehdi_Moussaid)
+
+- [ ] [1301.6730.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/ftp/arxiv/papers/1301/1301.6730.pdf)
+
+- [ ] [1606.02054.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1606.02054.pdf)
+
+- [ ] [23db36613a1a8895aa2fef927a7d8f2be927.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://pdfs.semanticscholar.org/8915/23db36613a1a8895aa2fef927a7d8f2be927.pdf)
+
+- [ ] [ch14.dvi - Ch14EM.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://eml.berkeley.edu/~train/Ch14EM.pdf)
+
+- [ ] [Computational statistics - EM algorithm - em_algorithm_slides.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.hds.utc.fr/~tdenoeux/dokuwiki/_media/en/em_algorithm_slides.pdf)
+
+- [ ] [EM.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.cs.cmu.edu/~awm/10701/assignments/EM.pdf)
+
+- [ ] [F15-CO-Report.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://satwikkottur.github.io/reports/F15-CO-Report.pdf)
+
+- [ ] [handout12.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www2.isye.gatech.edu/~brani/isyebayes/bank/handout12.pdf)
+
+- [ ] [IEM_AOS_Paper.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.stat.ucdavis.edu/~pdbaines/pdfs/IEM_AOS_Paper.pdf)
+
+- [ ] [The Expectation Maximization Algorithm: A short tutorial - EM_algorithm.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf)
+
+- [ ] [[1810.11163] SQUAREM: An R Package for Off-the-Shelf Acceleration of EM, MM and Other EM-like Monotone Algorithms](https://arxiv.org/abs/1810.11163)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/stat?searchtype=author&query=Du%2C+Y)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/stat?searchtype=author&query=Varadhan%2C+R)
+
+- [ ] [https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491967&idx=4&sn=934b35c19fdc33392af32b44bff56da0&chksm=f9a193f0ced61ae6fef52ae39086f4da67d210308de1d04af4663d91e94216607e64dbf73eca&mpshare=1&scene=1&srcid=&sharer_sharetime=1570442163662&sharer_shareid=42a896371dfe6ebe8cc4cd474d9b747c&key=9fa8d31375b523a2ff98d2bc89399fd45307cda3667c56b69fbc33c7a9df8dea8e2fbc6c793a8588a19d8e59f521064e3f21ab97ac4dfcd73dc49528e068c835e5bcca986b928a3e4ab469117a10d151&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62060833&lang=en&pass_ticket=aGeeqOmwRLuuwTbSVs7jfvS4MShL1EwfvJTmi0nmHIU%3D](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491967&idx=4&sn=934b35c19fdc33392af32b44bff56da0&chksm=f9a193f0ced61ae6fef52ae39086f4da67d210308de1d04af4663d91e94216607e64dbf73eca&mpshare=1&scene=1&srcid=&sharer_sharetime=1570442163662&sharer_shareid=42a896371dfe6ebe8cc4cd474d9b747c&key=9fa8d31375b523a2ff98d2bc89399fd45307cda3667c56b69fbc33c7a9df8dea8e2fbc6c793a8588a19d8e59f521064e3f21ab97ac4dfcd73dc49528e068c835e5bcca986b928a3e4ab469117a10d151&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62060833&lang=en&pass_ticket=aGeeqOmwRLuuwTbSVs7jfvS4MShL1EwfvJTmi0nmHIU%3D)
+
+- [ ] [决策树、随机森林、bagging、boosting、Adaboost、GBDT、XGBoost总结](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247487352&idx=2&sn=a8777e76c0b679bb3fd5119ef50e4d14&chksm=fad47875cda3f163f97c6dc8acdbb5db82ab5bc9b42239d98eeae29f2263ce34904fda9614de&mpshare=1&scene=1&srcid=&sharer_sharetime=1570356120773&sharer_shareid=7e95489c93dee24ad934b6da4bd9b318&key=af7bb4aaf3b59cd8579373866858c381ab7830a3403d15392ff971ddad8e972ad36410e4c2cd05d06f24c7d28c05041ed1690873363823491d4f8da7411ef23f3218ce9de0dd79828c17c68232ab9f62&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62060833&lang=en&pass_ticket=Ah1x8rit5%2BruVvX4rIKM3EjwYgF1JFMFVBZbas0gkZk%3D)
+
+- [ ] [周志华教授：如何做研究与写论文？](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491945&idx=2&sn=49e246221a5935094a72c59b129b2937&chksm=f9a193e6ced61af0af5d34460c9312a1f45376ac56b6a59911d0404b0b1ed5b91488726b70a6&mpshare=1&scene=1&srcid=&sharer_sharetime=1570324719017&sharer_shareid=42a896371dfe6ebe8cc4cd474d9b747c&key=f9f399b73a44587acd041e155648b5e69a081c4cfb888515e3430dc2f5c7aa0931de7f7e8bad0d5b19bd346e95cc381bc5ddf1cc769f52ef3a549cbcb7d515a59a3a34173c4576f7777d1135aaa13899&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62060833&lang=en&pass_ticket=Ah1x8rit5%2BruVvX4rIKM3EjwYgF1JFMFVBZbas0gkZk%3D)
+
+- [ ] [The University of Western ??Web viewApplied Physics B. Unattached elective. F61085. PHYS5017. ... the proposed changes to 53560 Master of Physics (coursework and dissertation),](https://pdfslide.net/documents/the-university-of-western-web-viewapplied-physics-b-unattached-elective-f61085.html)
+
+- [ ] [R: SQUAREM vs. TURBOEM for fixed point convergence? - Stack Overflow](https://stackoverflow.com/questions/39641747/r-squarem-vs-turboem-for-fixed-point-convergence#)
+
+- [ ] [Accelerating Algorithms: Considerations in Design, Algorithm Choice and Implementation](https://www.kdnuggets.com/2017/12/accelerating-algorithms-design-choice-implementation.html)
+
+- [ ] [Build your own AutoML computer vision pipeline, July 16 webinar](https://www.kdnuggets.com/2019/07/cnvrg-automl-computer-vision-pipeline.html)
+
+- [ ] [Spatial Statistics and Modeling by Carlo Gaetan / Kissly: Affordable Ebooks](https://kissly.net/book/5A7891F72834B37BF301?utm_source=ps81&utm_medium=ebakywyd.tk&utm_campaign=fnom&x=250427)
+
+- [ ] [Spatial Statistics and Modeling by Carlo Gaetan / Kissly: Affordable Ebooks](https://kissly.net/book/5A7891F72834B37BF301?utm_source=ps53&utm_medium=abuhopohytup.tk&utm_campaign=fnom&x=250427)
+
+- [ ] [Spatial Statistics and Modeling by Carlo Gaetan / Kissly: Affordable Ebooks](https://kissly.net/book/5A7891F72834B37BF301?utm_source=ps3&utm_medium=athanfaino.cf&utm_campaign=fnom&x=250427)
+
+- [ ] [A Gentle Introduction to Maximum Likelihood Estimation](https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-9fbff27ea12f)
+
+- [ ] [A Gentle Introduction to Maximum Likelihood Estimation](https://towardsdatascience.com/a-gentle-introduction-to-maximum-likelihood-estimation-9fbff27ea12f)
+
+- [ ] [Artificial Intelligence – Towards Data Science](https://towardsdatascience.com/artificial-intelligence/home)
+
+- [ ] [Data Journalism – Towards Data Science](https://towardsdatascience.com/data-journalism/home)
+
+- [ ] [Data Science – Towards Data Science](https://towardsdatascience.com/data-science/home)
+
+- [ ] [Data Visualization – Towards Data Science](https://towardsdatascience.com/data-visualization/home)
+
+- [ ] [Machine Learning – Towards Data Science](https://towardsdatascience.com/machine-learning/home)
+
+- [ ] [Programming – Towards Data Science](https://towardsdatascience.com/programming/home)
+
+- [ ] [Turn Python Scripts into Beautiful ML Tools - Towards Data Science](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)
+
+- [ ] [(1) Clustering (4): Gaussian Mixture Models and EM - YouTube](https://www.youtube.com/watch?v=qMTuMa86NzU)
+
+- [ ] [(2) How MLE (Maximum Likelihood Estimation) algorithm works - YouTube](https://www.youtube.com/watch?v=RPtYRm2tboA)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=XHyASP49ses)
+
+- [ ] [StatQuest: Maximum Likelihood, clearly explained!!! - YouTube](https://www.youtube.com/watch?v=XepXtl9YKwc)
+
+- [ ] [asinga1982 (Aanish Singla)](https://github.com/asinga1982)
+
+- [ ] [compvid30/scriptblock: Script Blocking Chromium Extension](https://github.com/compvid30/scriptblock)
+
+- [ ] [Statistical-Modelling/Train Ticket Sale prediction using Poisson Distribution at master · asinga1982/Statistical-Modelling](https://github.com/asinga1982/Statistical-Modelling/tree/master/Train%20Ticket%20Sale%20prediction%20using%20Poisson%20Distribution)
+
+- [ ] [The Death of Truth: Notes on Falsehood in the Age of Trump: Michiko Kakutani: 9780525574828: Amazon.com: Books](https://www.amazon.com/Death-Truth-Notes-Falsehood-Trump/dp/0525574824)
+
+- [ ] [The Mass Line on a Massive Famine | The China Story](https://www.thechinastory.org/2014/10/the-mass-line-on-a-massive-famine/)
