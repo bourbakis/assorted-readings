@@ -852,3 +852,10 @@ https://www.macstories.net/stories/beyond-the-tablet/8/#the-problems-with-shortc
 - [ ] [Save all objects from your session into a single compressed file](https://gist.github.com/simecek/19588c61c3430834bec01c67effa9c4a)
 
 
+
+
+
+
+## 10/7/2019
+
+- [ ] [Git: How to avoid typing username & password when using HTTPS Authentication](https://medium.com/@isaacjumba/git-how-to-avoid-typing-username-password-when-using-https-authentication-f22bb259dfc7)
