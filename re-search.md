@@ -737,3 +737,78 @@ Google Search Words
 - [ ] [Isabel Crook - Google Search](https://www.google.com/search?q=Isabel+Crook&oq=Isabel+Crook&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
 
 - [ ] [shanghai accept many jews against nazi - Google Search](https://www.google.com/search?q=shanghai+accept+many+jews+against+nazi&oq=shanghai+accept+many+jews+against+nazi+&aqs=chrome..69i57.13663j1j1&sourceid=chrome&ie=UTF-8)
+
+
+
+
+
+
+## 10/7/2019
+
+- [ ] [1d gaussian mixture model python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ8L0wnufLzoCOt30YfVBrDNcbOIw%3A1570445174726&lei=dhebXfP3K7mZr7wPo72eiAE&q=1d%20gaussian%20mixture%20model%20python&ved=2ahUKEwicsquX_InlAhWGGaYKHbviDEQQsKwBKAN6BAgCEAQ&oq=1d%20gaussian%20mixture%20model%20python)
+
+- [ ] [Acceleration of EM algorithm - Google Search](https://www.google.com/search?q=Acceleration%20of%20EM%20algorithm&oq=Acceleration%20of%20EM%20algorithm&aqs=chrome..69i57j69i60.633j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [algorithm acerating expected maximum - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSQP6ZfcNdzYrVj19L-J7ugQyLsRg%3A1570445041854&ei=8RabXf3hM4-Zr7wPv429kAI&q=algorithm%20acerating%20expected%20maximum&oq=algorithm%20acerating%20expected%20maximum&gs_l=psy-ab.3...5251.13768..14498...8.0..0.468.3831.2j15j1j3j1......0....1..gws-wiz.......35i39j33i299j33i160j0i8i13i30j33i22i10i29i30.9KsoyNbaMBk&ved=0ahUKEwi9nu_W-4nlAhWPzIsBHb9GDyIQ4dUDCAs&uact=5)
+
+- [ ] [Chad Scherrer - Google Search](https://www.google.com/search?q=Chad%20Scherrer&oq=Chad%20Scherrer&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [conditional maximum likelihood estimation in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTxDvlEM-yYF6rTVQo-CPNNv9yKCA:1570441557980&q=conditional+maximum+likelihood+estimation+in+r&sa=X&ved=2ahUKEwi79sjZ7onlAhUMx4sBHQbTCmwQ1QIoAHoECGMQAQ)
+
+- [ ] [Daniel M. Russell - Google Search](https://www.google.com/search?q=Daniel%20M.%20Russell&oq=Daniel%20M.%20Russell&aqs=chrome..69i57j69i60.263j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Didi Kirsten Tatlow - Google Search](https://www.google.com/search?q=Didi%20Kirsten%20Tatlow&oq=Didi%20Kirsten%20Tatlow&aqs=chrome..69i57j0j69i61l3.881j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [em algorithm dataset - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ8L0wnufLzoCOt30YfVBrDNcbOIw%3A1570445174726&lei=dhebXfP3K7mZr7wPo72eiAE&q=em%20algorithm%20dataset&ved=2ahUKEwicsquX_InlAhWGGaYKHbviDEQQsKwBKAV6BAgCEAY&oq=em%20algorithm%20dataset)
+
+- [ ] [em algorithm example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ8L0wnufLzoCOt30YfVBrDNcbOIw%3A1570445174726&q=em%20algorithm%20example&sa=X&ved=2ahUKEwjzip2W_InlAhW5zIsBHaOeBxEQ1QIoAXoECF0QAg&oq=em%20algorithm%20example)
+
+- [ ] [em algorithm python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ8L0wnufLzoCOt30YfVBrDNcbOIw%3A1570445174726&q=em%20algorithm%20python&sa=X&ved=2ahUKEwjzip2W_InlAhW5zIsBHaOeBxEQ1QIoAnoECF0QAw&oq=em%20algorithm%20python)
+
+- [ ] [em algorithm tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ8L0wnufLzoCOt30YfVBrDNcbOIw%3A1570445174726&q=em%20algorithm%20tutorial&sa=X&ved=2ahUKEwjzip2W_InlAhW5zIsBHaOeBxEQ1QIoA3oECF0QBA&oq=em%20algorithm%20tutorial)
+
+- [ ] [expectation maximization clustering - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ8L0wnufLzoCOt30YfVBrDNcbOIw%3A1570445174726&q=expectation%20maximization%20clustering&sa=X&ved=2ahUKEwjzip2W_InlAhW5zIsBHaOeBxEQ1QIoBXoECF0QBg&oq=expectation%20maximization%20clustering)
+
+- [ ] [expectation maximization python sklearn - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ8L0wnufLzoCOt30YfVBrDNcbOIw%3A1570445174726&lei=dhebXfP3K7mZr7wPo72eiAE&q=expectation%20maximization%20python%20sklearn&ved=2ahUKEwicsquX_InlAhWGGaYKHbviDEQQsKwBKAB6BAgCEAE&oq=expectation%20maximization%20python%20sklearn)
+
+- [ ] [expectation maximization vs maximum likelihood - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ8L0wnufLzoCOt30YfVBrDNcbOIw%3A1570445174726&q=expectation%20maximization%20vs%20maximum%20likelihood&sa=X&ved=2ahUKEwjzip2W_InlAhW5zIsBHaOeBxEQ1QIoB3oECF0QCA&oq=expectation%20maximization%20vs%20maximum%20likelihood)
+
+- [ ] [implement the one-step EM iteration - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ8L0wnufLzoCOt30YfVBrDNcbOIw%3A1570445174726&q=implement%20the%20one-step%20EM%20iteration&tbm=isch&source=univ&sa=X&ved=2ahUKEwjzip2W_InlAhW5zIsBHaOeBxEQsAR6BAgFEAE&oq=implement%20the%20one-step%20EM%20iteration)
+
+- [ ] [implement the one-step EM iteration - Google Search](https://www.google.com/search?q=implement%20the%20one-step%20EM%20iteration&oq=implement%20the%20one-step%20EM%20iteration&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [joy of search book book book club - Google Search](https://www.google.com/search?q=joy%20of%20search%20book%20book%20book%20club&oq=joy%20of%20search%20book%20book%20book%20club&aqs=chrome..69i57j35i39j69i60j69i64.3595j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [joy of search book book review - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTFg1nwsQPqnl02bzePVYUsfxjhNQ%3A1570443380637&ei=dBCbXYzNJvWUr7wPnMu9wAM&q=joy%20of%20search%20book%20book%20review&oq=joy%20of%20search%20book%20book%20review&gs_l=psy-ab.3..33i22i29i30.93927.96651..96884...0.0..0.396.1891.1j6j3j1......0....1..gws-wiz.4rNEVy-hFWc&ved=0ahUKEwiM196-9YnlAhV1yosBHZxlDzgQ4dUDCAs&uact=5)
+
+- [ ] [Jude Blanchette - Google Search](https://www.google.com/search?q=Jude%20Blanchette&oq=Jude%20Blanchette&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Maximum Likelihood Estimation coursera - Google Search](https://www.google.com/search?q=Maximum%20Likelihood%20Estimation%20coursera&oq=Maximum%20Likelihood%20Estimation%20coursera&aqs=chrome..69i57.3338j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [maximum likelihood estimation in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTxDvlEM-yYF6rTVQo-CPNNv9yKCA:1570441557980&q=maximum+likelihood+estimation+in+python&sa=X&ved=2ahUKEwi79sjZ7onlAhUMx4sBHQbTCmwQ1QIoBnoECGMQBw)
+
+- [ ] [maximum likelihood estimation in r - Google Search](https://www.google.com/search?q=maximum+likelihood+estimation+in+r&oq=maximum+likilih&aqs=chrome.4.69i57j0l11.7743j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Maximum Likelihood Estimation youtube - Google Search](https://www.google.com/search?q=Maximum%20Likelihood%20Estimation%20youtube&oq=Maximum%20Likelihood%20Estimation%20youtube&aqs=chrome..69i57l2j69i59j69i60j69i65j69i60.1798j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [neo-Maoists - Google Search](https://www.google.com/search?q=neo-Maoists&oq=neo-Maoists&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Probabilistic programming in Julia - Google Search](https://www.google.com/search?q=Probabilistic%20programming%20in%20Julia&oq=Probabilistic%20programming%20in%20Julia&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [s] In the late 1980’s health authorities became concerned about an apparent cluster of new cases of cancer of the larynx in the vicinity of an industrial incinerator. Cancer of the larynx is relatively rare, and can be caused by exposure to industrial toxins. We will be studying a dataset that gives the precise domicile addresses of new cases of cancer of the larynx (58 cases) and cancer of the lung (978 cases). Supplementary data give the - Google Search](https://www.google.com/search?q=s%5D+In+the+late+1980%E2%80%99s+health+authorities+became+concerned+about+an+apparent+cluster+of+new+cases+of+cancer+of+the+larynx+in+the+vicinity+of+an+industrial+incinerator.+Cancer+of+the+larynx+is+relatively+rare%2C+and+can+be+caused+by+exposure+to+industrial+toxins.+We+will+be+studying+a+dataset+that+gives+the+precise+domicile+addresses+of+new+cases+of+cancer+of+the+larynx+(58+cases)+and+cancer+of+the+lung+(978+cases).+Supplementary+data+give+the&oq=s%5D+In+the+late+1980%E2%80%99s+health+authorities+became+concerned+about+an+apparent+cluster+of+new+cases+of+cancer+of+the+larynx+in+the+vicinity+of+an+industrial+incinerator.+Cancer+of+the+larynx+is+relatively+rare%2C+and+can+be+caused+by+exposure+to+industrial+toxins.+We+will+be+studying+a+dataset+that+gives+the+precise+domicile+addresses+of+new+cases+of+cancer+of+the+larynx+(58+cases)+and+cancer+of+the+lung+(978+cases).+Supplementary+data+give+the&aqs=chrome..69i57.765j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [spatial statstical analyssi python - Google Search](https://www.google.com/search?q=spatial+statstical+analyssi+python&oq=spatial+statstical+analyssi+python&aqs=chrome..69i57.3605j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [STAT3063: Spatial Statistics and Modeling - Google Search](https://www.google.com/search?q=STAT3063%3A+Spatial+Statistics+and+Modeling&oq=STAT3063%3A+Spatial+Statistics+and+Modeling&aqs=chrome..69i57j69i58.615j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [step by step em algorithm - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ8L0wnufLzoCOt30YfVBrDNcbOIw%3A1570445174726&q=step%20by%20step%20em%20algorithm&sa=X&ved=2ahUKEwjzip2W_InlAhW5zIsBHaOeBxEQ1QIoAHoECF0QAQ&oq=step%20by%20step%20em%20algorithm)
+
+- [ ] [The EM algorithm is an application of the MM algorithm - Google Search](https://www.google.com/search?q=The%20EM%20algorithm%20is%20an%20application%20of%20the%20MM%20algorithm&oq=The%20EM%20algorithm%20is%20an%20application%20of%20the%20MM%20algorithm&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [the one-step EM iteration - Google Search](https://www.google.com/search?q=the%20one-step%20EM%20iteration&oq=the%20one-step%20EM%20iteration&aqs=chrome..69i57j69i64l2.727j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Use the SQUAREM package to accelerate the EM algorithm of the finite mixture regression. - Google Search](https://www.google.com/search?q=Use%20the%20SQUAREM%20package%20to%20accelerate%20the%20EM%20algorithm%20of%20the%20finite%20mixture%20regression.&oq=Use%20the%20SQUAREM%20package%20to%20accelerate%20the%20EM%20algorithm%20of%20the%20finite%20mixture%20regression.&aqs=chrome..69i57j69i64.552j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Variants of EM - Google Search](https://www.google.com/search?q=Variants%20of%20EM&oq=Variants%20of%20EM&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?q=Analysis+of+Deviance&oq=Analysis+of+Deviance&aqs=chrome..69i57.3496j0j1&sourceid=chrome&ie=UTF-8)

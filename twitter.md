@@ -1,184 +1,99 @@
-# Add new twitters to tweet lists
+## 9/28/2019
 
-- https://twitter.com/imsoff
-- https://twitter.com/virushuo)
-- https://twitter.com/lyricwai
-- https://twitter.com/felixding/lists/%E7%81%AB%E6%98%9F%E4%BA%BA
-- https://twitter.com/xebialabs
-- https://twitter.com/semaphoreci
-- https://twitter.com/markoa
+- [ ] [Andrej Karpathy (@karpathy) / Twitter](https://twitter.com/karpathy?lang=en)
 
+- [ ] [Andrej Karpathy on Twitter: "Hidden Technical Debt in Machine Learning Systems https://t.co/szYRTtSpDd on some of the new joys and struggles of deploying machine learning models in the wild. Still a long way to go to establish new language and design patterns for programming the 2.0 stack https://t.co/6qR9BAA6qS" / Twitter](https://twitter.com/karpathy/status/1059484735628435456?lang=en)
 
-- [ ] https://twitter.com/sofish/lists/life-hack
-- [ ] https://twitter.com/sofish/lists/twttier-dev
-- [ ] https://twitter.com/sofish/lists/fun-snippets
-- [ ] https://twitter.com/ruanyf/lists/shiba
-- [ ] https://twitter.com/HenriKenhmann
-- [ ] https://twitter.com/RupprechtDeino
-- [ ] https://twitter.com/dafengcao
+- [ ] [Christopher Lawley（@chris_lawley）さん / Twitter](https://twitter.com/chris_lawley)
+
+- [ ] [https://twitter.com/strubell/status/1129408199478661120?lang=en](https://twitter.com/strubell/status/1129408199478661120?lang=en)
+
+- [ ] [Lex Fridman on Twitter: "Approximately 460,000 Autopilot Hardware 2+ @Tesla vehicles delivered to-date. These are upgradable to the new FSD hardware. Solid engineering of machine-learning-focused data infrastructure and optimized hardware by @elonmusk and team. Updated numbers: https://t.co/k1M2L74cZP https://t.co/B21mC7x7yI" / Twitter](https://twitter.com/lexfridman/status/1123948578450366466?lang=en)
+
+- [ ] [ツイート / Twitter](https://twitter.com/ncasenmare/status/934488796212670465)
+
+- [ ] [プロフィール / Twitter](https://twitter.com/SamuelArzt)
 
 
-remind me to see the ruanyf
+## 10/7/2019
 
-- @ruanyf
+- [ ] [#张博树 - Twitter Search / Twitter](https://twitter.com/hashtag/%E5%BC%A0%E5%8D%9A%E6%A0%91)
 
-# Export Windows configuration.
-- [ ] https://github.com/lukesampson/concfg
+- [ ] [∆-module（@koszuldude）さん / Twitter](https://twitter.com/koszuldude)
 
+- [ ] [1/(1 - 1/(1 - 1/(1 - Dan Piponi)))（@sigfpe）さん / Twitter](https://twitter.com/sigfpe)
 
-# twitter
+- [ ] [Bartosz Milewski（@BartoszMilewski）さん / Twitter](https://twitter.com/BartoszMilewski)
 
+- [ ] [Edward Kmett（@kmett）さん / Twitter](https://twitter.com/kmett)
 
-https://twitter.com/antgoldbloom
-https://twitter.com/kchonyc
-https://twitter.com/RandomlyWalking
-https://twitter.com/roydanroy
-
-
-https://twitter.com/arkosiorek
-https://twitter.com/_HannahRitchie
-
-## 9/25/2019
-
-- [ ] [Nassim Nicholas Taleb (@nntaleb) / Twitter](https://twitter.com/nntaleb)
-
-- [ ] [Judea Pearl (@yudapearl) / Twitter](https://twitter.com/yudapearl)
-
-- [ ] [Judea Pearl on Twitter: "Philosophers of science are beginning to take interest in causal inference. This new book (downloadable) http://40.114.28.106/pdf/04-08-2019_medium/pdf/9780191063916.pdf#page=130 shows how traditional problems in philosophy come to light through the new lens #Bookofwhy https://t.co/0GHlwncCrD" / Twitter](https://twitter.com/yudapearl/status/1174209587056119810)
-
-- [ ] [Moritz Hardt (@mrtz) / Twitter](https://twitter.com/mrtz)
-
-- [ ] [Sanjeev Arora (@prfsanjeevarora) / Twitter](https://twitter.com/prfsanjeevarora)
-
-- [ ] [Yee Whye Teh (@yeewhye) / Twitter](https://twitter.com/yeewhye)
-
-- [ ] [Judea Pearl on Twitter: "A brilliant quote crossed my desk which I could not let go un-shared (from Haldane JBS. , Science and life , 1969): "I consider it desirable that a man's or a woman's major research work should be on a subject in which he or she has not taken a degree." #Bookofwhy https://t.co/1FCq6eHvsR" / Twitter](https://twitter.com/yudapearl/status/1175636120182247424)
-
-- [ ] [Editions du Seuil (@EditionsduSeuil) / Twitter](https://twitter.com/EditionsduSeuil)
+- [ ] [Gabriel Gonzalez（@GabrielG439）さん / Twitter](https://twitter.com/GabrielG439)
 
 - [ ] [Home / Twitter](https://twitter.com/home)
 
-- [ ] [Judea Pearl on Twitter: "A brilliant quote crossed my desk which I could not let go un-shared (from Haldane JBS. , Science and life , 1969): "I consider it desirable that a man's or a woman's major research work should be on a subject in which he or she has not taken a degree." #Bookofwhy https://t.co/1FCq6eHvsR" / Twitter](https://twitter.com/yudapearl/status/1175636120182247424)
+- [ ] [Jade Master（@JadeMasterMath）さん / Twitter](https://twitter.com/JadeMasterMath)
 
-- [ ] [Steve Scalise (@SteveScalise) / Twitter](https://twitter.com/SteveScalise)
+- [ ] [Jade Master（@JadeMasterMath）さん / Twitter](https://twitter.com/JadeMasterMath)
 
-- [ ] [Jamie Clark (@JamieXML) / Twitter](https://twitter.com/JamieXML)
+- [ ] [Joe Moeller（@CreeepyJoe）さん / Twitter](https://twitter.com/CreeepyJoe)
 
-- [ ] [Nitish (@StrongDuality) / Twitter](https://twitter.com/StrongDuality)
+- [ ] [julesh（@_julesh_）さん / Twitter](https://twitter.com/_julesh_)
 
-- [ ] [Lists created by @DigitalisCommon / Twitter](https://twitter.com/DigitalisCommon/lists)
+- [ ] [Tim Hosgood（@tjohnhos）さん / Twitter](https://twitter.com/tjohnhos)
 
-- [ ] [Massimiliano Picone 🧙‍♂️ 🔭🔬 (@maxscience) / Twitter](https://twitter.com/maxscience)
 
-- [ ] [ScriptCat (@ScriptPi) / Twitter](https://twitter.com/ScriptPi)
+- [ ] [Jack Wilkinson (@jd_wilko) / Twitter](https://twitter.com/jd_wilko)
 
-- [ ] [Colin Clement (@ColinClement) / Twitter](https://twitter.com/ColinClement)
+- [ ] [Maarten van Smeden (@MaartenvSmeden) / Twitter](https://twitter.com/MaartenvSmeden)
 
-- [ ] [Deep Gradient (@deepgradient) / Twitter](https://twitter.com/deepgradient)
+- [ ] [Malcolm Boorrett 👻🎃 (@malco_barrett) / Twitter](https://twitter.com/malco_barrett)
 
-- [ ] [〈 Berger | Dillon 〉 (@InertialObservr) / Twitter](https://twitter.com/InertialObservr)
+- [ ] [Matthew Fox (@ProfMattFox) / Twitter](https://twitter.com/ProfMattFox)
 
-- [ ] [Sam Walters ☕️ (@SamuelGWalters) / Twitter](https://twitter.com/SamuelGWalters)
+- [ ] [Matthew Fox (@ProfMattFox) / Twitter](https://twitter.com/ProfMattFox)
 
-- [ ] [Sarafina Nance (@starstrickenSF) / Twitter](https://twitter.com/starstrickenSF)
+- [ ] [Matthew Fox (@ProfMattFox) / Twitter](https://twitter.com/ProfMattFox)
 
-- [ ] [Aleksander Madry (@aleks_madry) / Twitter](https://twitter.com/aleks_madry)
+- [ ] [Miguel Hernán (@_MiguelHernan) / Twitter](https://twitter.com/_MiguelHernan)
 
-- [ ] [Daniel Roy (@roydanroy) / Twitter](https://twitter.com/roydanroy)
+- [ ] [Mikel Bober-Irizar (@mikb0b) / Twitter](https://twitter.com/mikb0b)
 
-- [ ] [Durk Kingma (@dpkingma) / Twitter](https://twitter.com/dpkingma)
+- [ ] [Jeremy Scott Diamond (@_jsdiamond) / Twitter](https://twitter.com/_jsdiamond)
 
-- [ ] [Tejas Kulkarni (@tejasdkulkarni) / Twitter](https://twitter.com/tejasdkulkarni)
+- [ ] [David Ingold (@DavidIngold) / Twitter](https://twitter.com/DavidIngold)
 
-- [ ] [Yee Whye Teh（@yeewhye）さん / Twitter](https://twitter.com/yeewhye)
+- [ ] [Mira Rojanasakul (@rjnskl) / Twitter](https://twitter.com/rjnskl)
 
-- [ ] [@stevenstrogatz/physics on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/physics)
+- [ ] [Fanar Haddad فنر الحداد (@fanarhaddad) / Twitter](https://twitter.com/fanarhaddad)
 
-- [ ] [@stevenstrogatz/Education on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/education)
+- [ ] [Renad Mansour (@renadmansour) / Twitter](https://twitter.com/renadmansour)
 
-- [ ] [@stevenstrogatz/Data on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/data)
+- [ ] [ediciones inéditas (@edcns_ineditas) / Twitter](https://twitter.com/edcns_ineditas)
 
-- [ ] [@stevenstrogatz/Stats on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/stats)
+- [ ] [Kevin M. Kruse (@KevinMKruse) / Twitter](https://twitter.com/KevinMKruse)
 
-- [ ] [@stevenstrogatz/Quants on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/quants)
+- [ ] [Suresh (@snaidunl) / Twitter](https://twitter.com/snaidunl)
 
-- [ ] [@stevenstrogatz/Chess on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/chess)
+- [ ] [(((The Daily Shot))) (@SoberLook) / Twitter](https://twitter.com/SoberLook)
 
-- [ ] [@stevenstrogatz/Tech on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/tech)
+- [ ] [Li Wankun (@WankunLi) / Twitter](https://twitter.com/WankunLi)
 
-- [ ] [@stevenstrogatz/networks on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/networks)
+- [ ] [Ghassan Moazzin (@GhassanMoazzin) / Twitter](https://twitter.com/GhassanMoazzin)
 
-- [ ] [@stevenstrogatz/Videos about science on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/videos-about-science)
+- [ ] [#大跃进 - Twitter Search / Twitter](https://twitter.com/hashtag/%E5%A4%A7%E8%B7%83%E8%BF%9B?src=hashtag_click)
 
-- [ ] [@stevenstrogatz/Science on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/science)
+- [ ] [Sarah Mellors 莫诗嫣 (@s_mellors) / Twitter](https://twitter.com/s_mellors)
 
-- [ ] [@stevenstrogatz/Mathchat on Twitter / Twitter](https://twitter.com/stevenstrogatz/lists/mathchat)
+- [ ] [Nathan Attrill 周雷森 (@nathanattrill) / Twitter](https://twitter.com/nathanattrill)
 
-- [ ] [@flimsin/climatescientists on Twitter / Twitter](https://twitter.com/flimsin/lists/climatescientists)
+- [ ] [Pamela Crossley (@daicing) / Twitter](https://twitter.com/daicing)
 
-- [ ] [茅場町（@DoktorMurlyka）さん / Twitter](https://twitter.com/DoktorMurlyka)
+- [ ] [Kelly Hammond (@kellyahammond) / Twitter](https://twitter.com/kellyahammond)
 
-- [ ] [Simon DeDeo (@SimonDeDeo) / Twitter](https://twitter.com/SimonDeDeo)
+- [ ] [China Studies Vienna (@SinoVienna) / Twitter](https://twitter.com/SinoVienna)
 
-- [ ] [@ryan_floysand/(R+) machine on Twitter / Twitter](https://twitter.com/ryan_floysand/lists/r-machine)
+- [ ] [PRC History Group (@prchistory) / Twitter](https://twitter.com/prchistory)
 
-- [ ] [@michael_nielsen/tomorrow on Twitter / Twitter](https://twitter.com/michael_nielsen/lists/tomorrow)
+- [ ] [Sander Greenland (@Lester_Domes) / Twitter](https://twitter.com/Lester_Domes)
 
-- [ ] [What Do We Know about Capital Structure? Some Evidence from International Data - RAJAN - 1995 - The Journal of Finance - Wiley Online Library](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1540-6261.1995.tb05184.x)
-
-- [ ] [Megan Risdal 👾 (@MeganRisdal) / Twitter](https://twitter.com/MeganRisdal)
-
-- [ ] [iOccasion (@iOccasion) / Twitter](https://twitter.com/iOccasion)
-
-- [ ] [✋🏻Grant Chalmers (@GrantChalmers) / Twitter](https://twitter.com/GrantChalmers)
-
-- [ ] [Chris J. Maddison (@cjmaddison) / Twitter](https://twitter.com/cjmaddison)
-
-- [ ] [OxCSML（@oxcsml）さん / Twitter](https://twitter.com/OxCSML)
-
-- [ ] [Oxford Statistics（@OxfordStats）さん / Twitter](https://twitter.com/oxfordstats)
-
-- [ ] [Chris J. Maddison（@cjmaddison）さん / Twitter](https://twitter.com/cjmaddison)
-
-- [ ] [raia hadsell（@RaiaHadsell）さん / Twitter](https://twitter.com/RaiaHadsell)
-
-- [ ] [Melissa S. KearneyさんはTwitterを使っています: 「This has been bothering me, so I'm putting it out there - The shift to 6 yrs for an Econ PhD is a TERRIBLE trend for female PhD students - &amp; also some men, obviously - but especially for women. This issue warrants much more attention. #econtwitter @AEACSWEP」 / Twitter](https://twitter.com/kearney_melissa/status/1173698745264947202)
-
-- [ ] [ホーム / Twitter](https://twitter.com/home)
-
-- [ ] [#econtwitter - Twitter検索 / Twitter](https://twitter.com/hashtag/econtwitter?src=hashtag_click)
-
-- [ ] [Mint（@Mintxooo）さん / Twitter](https://twitter.com/Mintxooo)
-
-- [ ] [Mint（@Mintxooo）さん / Twitter](https://twitter.com/Mintxooo)
-
-- [ ] [Data Analysis Project of AFIN 805 - 腾讯文档](https://docs.qq.com/doc/DZktBbVVHS1dESWFI)
-
-- [ ] [Jack Hessel（@jmhessel）さん / Twitter](https://twitter.com/jmhessel)
-
-- [ ] [Durk Kingma（@dpkingma）さん / Twitter](https://twitter.com/dpkingma)
-
-- [ ] [Scott Reed（@scott_e_reed）さん / Twitter](https://twitter.com/scott_e_reed)
-
-- [ ] [Kevin Swersky（@kswersk）さん / Twitter](https://twitter.com/kswersk)
-
-- [ ] [Ben Bartlett（@bencbartlett）さん / Twitter](https://twitter.com/bencbartlett)
-
-- [ ] [Ben Poole（@poolio）さん / Twitter](https://twitter.com/poolio)
-
-- [ ] [Jacob Menick（@jacobmenick）さん / Twitter](https://twitter.com/jacobmenick)
-
-- [ ] [Quoc Le（@quocleix）さん / Twitter](https://twitter.com/quocleix)
-
-- [ ] [David Beniaguev（@DavidBeniaguev）さん / Twitter](https://twitter.com/DavidBeniaguev)
-
-- [ ] [Addy Osmani（@addyosmani）さん / Twitter](https://twitter.com/addyosmani)
-
-- [ ] [\mathfrak{Michael "El Muy Muy" Betancourt}（@betanalpha）さん / Twitter](https://twitter.com/betanalpha)
-
-- [ ] [V8（@v8js）さん / Twitter](https://twitter.com/v8js)
-
-- [ ] [Hilary Hoynes（@HilaryHoynes）さん / Twitter](https://twitter.com/HilaryHoynes)
-
-- [ ] [Monica Rogati（@mrogati）さん / Twitter](https://twitter.com/mrogati)
-
+- [ ] [Suzana Ilić (@suzatweet) / Twitter](https://twitter.com/suzatweet)

@@ -248,6 +248,31 @@ https://libgen.is/book/index.php?md5=81C03AE15109DBDA41D8749D7B231F50
 
 - [ ] [Vacuum in the Dark: A Novel - Kindle edition by Jen Beagin. Literature & Fiction Kindle eBooks @ Amazon.com.](https://www.amazon.com/dp/B07GNTQQ7P?creativeASIN=B07GNTQQ7P&linkCode=w61&imprToken=opZVXpjxm24hj5anq0upCA&slotNum=2&tag=thneyo0f-20)
 
+
+
+## 10/7/2019
+
+- [ ] [Library Genesis: Waller R. Newell - Tyranny: A New Interpretation](http://libgen.is/book/index.php?md5=AF930DB50C5EB171436E496030762864)
+
+- [ ] [Library Genesis: Waller R. Newell - The Soul of a Leader: Character, Conviction, and Ten Lessons in Political Greatness](http://libgen.is/book/index.php?md5=87382D1BA4AD7CA9B973B6253507F4C0)
+
+- [ ] [Library Genesis: Waller R. Newell - The Code of Man: Love Courage Pride Family Country](http://libgen.is/book/index.php?md5=3EC00FD752D75B8AFE176F0978AF3806)
+
+- [ ] [Library Genesis: Waller R. Newell - Ruling Passion: The Erotics of Statecraft in Platonic Political Philosophy](http://libgen.is/book/index.php?md5=D1624E2CD6E29A546B2BF247D42931E9)
+
+
+## 10/7/2019
+
+- [ ] [Amazon.com: The Joy of Search: A Google Insider's Guide to Going Beyond the Basics (The MIT Press) (9780262042871): Daniel M. Russell: Books](https://www.amazon.com/Joy-Search-Google-Insiders-Beyond/dp/0262042878/ref=sr_1_1?keywords=joy+of+search&qid=1570443391&sr=8-1)
+
+
+## 10/7/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=China%E2%80%99s+New+Red+Guards%3A+The+Return+of+Radicalism+and+the+Rebirth+of+Mao+Zedong&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+
+
+
 ---
 
 

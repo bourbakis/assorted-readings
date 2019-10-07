@@ -783,3 +783,72 @@ https://www.macstories.net/stories/beyond-the-tablet/3/#open-in-place-and-file-b
 Beyond the Tablet: Seven Years of iPad as My Main Computer - MacStories - Part 8
 https://www.macstories.net/stories/beyond-the-tablet/8/#the-problems-with-shortcuts
 
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 10/7/2019
+
+- [ ] [Photos - Google Photos](https://photos.google.com/u/2/)
+
+- [ ] [TensorFlow 2.0 + Keras Crash Course.ipynb - Colaboratory](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=FjLI719fPfJi)
+
+- [ ] [Google Translate](https://translate.google.com/?source=osdd#auto|auto|Attack+on+JPMorgan+banker+in+Hong+Kong+sparks+outrage+in+mainland+China)
+
+- [ ] [Google Translate](https://translate.google.com/?source=osdd#auto|auto|Now+consider+how+this+all+changes+if+you+can+put+your+deposit+directly+with+the+central+bank+instead.+What+happens+to+lending%3F+Under+one+scenario%2C+the+central+bank+might+simply+sit+on+your+digital+deposit%2C+much+as+a+cloakroom+at+a+restaurant+holds+on+to+your+coat.+In+that+case+the+quantity+of+lending+would+go+down%2C+to+the+likely+detriment+of+the+economy.+In+addition%2C+depositors+might+not+find+these+accounts+so+remunerative+or+attractive.)
+
+- [ ] [T. Greer (@Scholars_Stage) / Twitter](https://twitter.com/Scholars_Stage)
+
+- [ ] [dr. trey (@Comparativist) / Twitter](https://twitter.com/Comparativist)
+
+- [ ] [Klaus Muehlhahn (@klamuh) / Twitter](https://twitter.com/klamuh)
+
+- [ ] [Freie Universität (@FU_Berlin) / Twitter](https://twitter.com/fu_berlin)
+
+- [ ] [Nibras Kazimi (@ImaraWaTijara) / Twitter](https://twitter.com/imarawatijara/)
+
+- [ ] [Incarnation | Jesus Christ | Britannica.com](https://www.britannica.com/topic/Incarnation-Jesus-Christ)
+
+- [ ] [youthday-fea.jpg (1500×1109)](http://www.chinafile.com/sites/default/files/assets/images/article/featured/youthday-fea.jpg)
+
+- [ ] [Collins Belton (@collins_belton) / Twitter](https://twitter.com/collins_belton)
+
+- [ ] [#selfpromo - Twitter Search / Twitter](https://twitter.com/hashtag/selfpromo?src=hashtag_click)
+
+- [ ] [#pickle - Twitter Search / Twitter](https://twitter.com/hashtag/pickle?src=hashtag_click)
+
+- [ ] [hw5.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/hw5.pdf)
+
+- [ ] [需要参考的课件-主要从28页开始.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/%E9%9C%80%E8%A6%81%E5%8F%82%E8%80%83%E7%9A%84%E8%AF%BE%E4%BB%B6-%E4%B8%BB%E8%A6%81%E4%BB%8E28%E9%A1%B5%E5%BC%80%E5%A7%8B.pdf)
+
+- [ ] [hw4-3 solution.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-10/hw4-3%20solution.pdf)
+
+- [ ] [决策树、随机森林、bagging、boosting、Adaboost、GBDT、XGBoost总结](https://mp.weixin.qq.com/s?__biz=MzUzODYwMDAzNA==&mid=2247487352&idx=2&sn=a8777e76c0b679bb3fd5119ef50e4d14&chksm=fad47875cda3f163f97c6dc8acdbb5db82ab5bc9b42239d98eeae29f2263ce34904fda9614de&mpshare=1&scene=1&srcid=&sharer_sharetime=1570356120773&sharer_shareid=7e95489c93dee24ad934b6da4bd9b318&key=af7bb4aaf3b59cd8579373866858c381ab7830a3403d15392ff971ddad8e972ad36410e4c2cd05d06f24c7d28c05041ed1690873363823491d4f8da7411ef23f3218ce9de0dd79828c17c68232ab9f62&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62060833&lang=en&pass_ticket=Ah1x8rit5%2BruVvX4rIKM3EjwYgF1JFMFVBZbas0gkZk%3D)
+
+- [ ] [周志华教授：如何做研究与写论文？](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247491945&idx=2&sn=49e246221a5935094a72c59b129b2937&chksm=f9a193e6ced61af0af5d34460c9312a1f45376ac56b6a59911d0404b0b1ed5b91488726b70a6&mpshare=1&scene=1&srcid=&sharer_sharetime=1570324719017&sharer_shareid=42a896371dfe6ebe8cc4cd474d9b747c&key=f9f399b73a44587acd041e155648b5e69a081c4cfb888515e3430dc2f5c7aa0931de7f7e8bad0d5b19bd346e95cc381bc5ddf1cc769f52ef3a549cbcb7d515a59a3a34173c4576f7777d1135aaa13899&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62060833&lang=en&pass_ticket=Ah1x8rit5%2BruVvX4rIKM3EjwYgF1JFMFVBZbas0gkZk%3D)
+
+- [ ] [Save all objects from your session into a single compressed file](https://gist.github.com/simecek/19588c61c3430834bec01c67effa9c4a)
+
+
