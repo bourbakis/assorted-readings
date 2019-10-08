@@ -19,3 +19,11 @@
 ## 9/28/2019
 
 - [ ] [Why Deep Learning Works II: the Renormalization Group](https://calculatedcontent.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/)
+
+
+
+
+
+# Statstical Modelling 
+
+https://statmodeling.stat.columbia.edu/
