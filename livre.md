@@ -273,6 +273,26 @@ https://libgen.is/book/index.php?md5=81C03AE15109DBDA41D8749D7B231F50
 
 
 
+
+
+## 10/8/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Econometric+Society+Monographs&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Studies+in+Empirical+Economics&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Roger+Koenker&phrase=0&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+Jorn-Steffen+Pischke&column=author)
+
+
+
+
+
+
+
+
+
 ---
 
 
