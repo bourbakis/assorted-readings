@@ -41,3 +41,9 @@ Thinks about
 
 
 It's a higher and abstract level of thinking.
+
+
+
+# 10/08/19
+
+how to import other's workflow and where to find one 
