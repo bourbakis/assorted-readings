@@ -2216,3 +2216,43 @@ https://wiki.haskell.org/Monad
 ## 9/8/2019
 
 - [ ] [Train/Dev/Test Sets (C2W1L01) - YouTube](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+
+
+
+
+
+
+
+
+# Book of Why Tells New Economic Stories
+
+applied DAG into economic analysis - Google Search
+https://www.google.com/search?q=applied+DAG+into+economic+analysis
+
+Paul Hünermund
+https://p-hunermund.com/
+
+applied DAG into economic analysis - Google Scholar
+https://scholar.google.com/scholar?q=applied+DAG+into+economic+analysis&hl=en&as_sdt=0&as_vis=1&oi=scholart
+
+counterfactual causual inference in economic analysis - Google Search
+https://www.google.com/search?client=firefox-b-d&q=counterfactual+causual+inference+in+economic+analysis
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&cad=rja&uact=8&ved=2ahUKEwj758vgk4zlAhVQ5awKHX2bDDoQFjAYegQIXRAC&url=https%3A%2F%2Fblogs.kent.ac.uk%2Fjonw%2Ffiles%2F2015%2F03%2FHeckman-08-Econometric-causality.pdf&usg=AOvVaw2p6JisRjgOv922IQqvAZc_
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&cad=rja&uact=8&ved=2ahUKEwj758vgk4zlAhVQ5awKHX2bDDoQFjAYegQIXRAC&url=https%3A%2F%2Fblogs.kent.ac.uk%2Fjonw%2Ffiles%2F2015%2F03%2FHeckman-08-Econometric-causality.pdf&usg=AOvVaw2p6JisRjgOv922IQqvAZc_
+
+Causal inference - Wikipedia
+https://en.wikipedia.org/wiki/Causal_inference
+
+NIPS 2013 Workshop on Causality
+http://clopinet.com/isabelle/Projects/NIPS2013/
+
+Causal inference at the Max Planck Institute for Intelligent Systems Tübingen
+http://webdav.tuebingen.mpg.de/causality/
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&ved=2ahUKEwj758vgk4zlAhVQ5awKHX2bDDoQFjASegQIChAC&url=https%3A%2F%2Fftp.cs.ucla.edu%2Fpub%2Fstat_ser%2Fr355-corrected-reprint.pdf&usg=AOvVaw3LjkFbblSAZzPnNflF1xT2
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&ved=2ahUKEwj758vgk4zlAhVQ5awKHX2bDDoQFjASegQIChAC&url=https%3A%2F%2Fftp.cs.ucla.edu%2Fpub%2Fstat_ser%2Fr355-corrected-reprint.pdf&usg=AOvVaw3LjkFbblSAZzPnNflF1xT2
+
+Causal inference based on counterfactuals
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1239917/
+

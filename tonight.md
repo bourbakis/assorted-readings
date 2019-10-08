@@ -315,3 +315,153 @@ https://www.ft.com/content/b9c0968c-27a9-33a0-94d5-33fb69557eee?segmentId=bcf1a7
 Subscribe to read | Financial Times
 https://www.ft.com/content/2c4c56bd-1c40-3261-8ba8-f3ce8c83e8d2?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
 
+
+
+
+# 10/08/19
+
+
+An economic crisis in your teens can alter your behavior for life, economists find - The Washington Post
+https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/
+
+Depression Babies: Do Macroeconomic Experiences Affect Risk Taking?* | The Quarterly Journal of Economics | Oxford Academic
+https://academic.oup.com/qje/article-abstract/126/1/373/1901343?redirectedFrom=fulltext
+
+Depression Babies: Do Macroeconomic Experiences Affect Risk Taking?* | The Quarterly Journal of Economics | Oxford Academic
+https://academic.oup.com/qje/article-abstract/126/1/373/1901343?redirectedFrom=fulltext
+
+Millennials really are special, data show - The Washington Post
+https://www.washingtonpost.com/us-policy/2019/03/16/millennials-really-are-special-data-show/
+
+Scarred Consumption
+https://www.nber.org/papers/w24696
+
+Touchscreen typing speeds close in on keyboard rates - BBC News
+https://www.bbc.com/news/technology-49933204
+
+Pigs recorded using tools for the first time
+https://www.nationalgeographic.com/animals/2019/10/first-tool-use-pigs-visayan-endangered/
+
+site:rpubs.com EM algorithm - Google Search
+https://www.google.com/search?client=firefox-b-d&q=site%3Arpubs.com+EM+algorithm
+
+david ruppert - Google Search
+https://www.google.com/search?client=firefox-b-d&q=david+ruppert
+
+matt wand - Google Search
+https://www.google.com/search?client=firefox-b-d&q=matt+wand
+
+Matt Wand - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNT9R4SLD2g6GjMy3ElpPyDBDzKQ1g:1570501151204&q=Matt+Wand&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOsygvMjUxUELlaglnJ1vpJ-fn5ubnWRVnpqSWJ1YWL2Ll9E0sKVEIT8xL2cHKCAC1ZT4xRAAAAA&sa=X&ved=2ahUKEwimi_LZzIvlAhUFip4KHWwGCXcQzTooATB9egQIYhAC
+
+Recurrent Event Regression • reReg
+https://www.sychiou.com/reReg/
+
+mgcv course
+https://noamross.github.io/mgcv-esa-2018/links_and_bibliography.html
+
+Brian J Reich
+https://www4.stat.ncsu.edu/~reich/Code/
+
+Brian J Reich
+https://www4.stat.ncsu.edu/~reich/teaching/
+
+ST740 - Bayesian Inference
+https://www4.stat.ncsu.edu/~reich/ST740/code/
+
+Statistical Theory I - Fall 2013
+https://www4.stat.ncsu.edu/~reich/st521/
+
+Applied Spatial Statistics - Spring 2013
+https://www4.stat.ncsu.edu/~reich/st733/
+
+2012 Computation for Undergraduates in Statistics Program
+https://www4.stat.ncsu.edu/~reich/CUSP/
+
+ST430/ST514 - Fall 2011
+https://www4.stat.ncsu.edu/~reich/st514/
+
+ST371 - Spring 2011
+https://www4.stat.ncsu.edu/~reich/ST371/
+
+ST495/590 - Applied Bayesian Statistics
+https://www4.stat.ncsu.edu/~reich/st590/
+
+Brian J Reich
+https://www4.stat.ncsu.edu/~reich/presentations/
+
+Semiparametric Regression in R | R-bloggers
+https://www.r-bloggers.com/semiparametric-regression-in-r/
+
+Home - RWeekly.org - Blogs to Learn R from the Community
+https://rweekly.org/page31/
+
+R Packages | Nima Hejazi
+https://nimahejazi.org/project/rstats/
+
+Dewei Wang's Research Page
+http://people.stat.sc.edu/wang528/Research.html
+
+Dewei Wang's STAT713
+http://people.stat.sc.edu/wang528/Stat%20713/STAT713.html
+
+STAT 713: MATHEMATICAL STATISTICS II, Spring 2018
+http://people.stat.sc.edu/Tebbs/stat713/index.htm
+
+cran/SemiPar:  This is a read-only mirror of the CRAN R package repository. SemiPar — Semiparametic Regression. Homepage: http://matt-wand.utsacademics.info/SPmanu.pdf
+https://github.com/cran/SemiPar
+
+pdhoff
+https://github.com/pdhoff
+
+pdhoff/hregression: Hierarchical and semiparameteric regression
+https://github.com/pdhoff/hregression
+
+BGLR-R/RKHS.md at master · gdlc/BGLR-R
+https://github.com/gdlc/BGLR-R/blob/master/inst/md/RKHS.md
+
+semibart: Bayesian Semiparametric Regression with BART in zeldow/semibart: Semiparametric Bayesian regression and structural mean models
+https://rdrr.io/github/zeldow/semibart/man/semibart.html
+
+百度推广
+https://fengchao.baidu.com/fc/manage/dashboard/user/24283231/keywords/query
+
+New Tab
+about:newtab
+
+R: Additive Quantile Regression Smoothing
+http://web.mit.edu/~r/current/arch/i386_linux26/lib/R/library/quantreg/html/rqss.html
+
+R: RQSS Objects and Summarization Thereof
+http://web.mit.edu/~r/current/arch/i386_linux26/lib/R/library/quantreg/html/rqss.object.html
+
+plot.rqss: Plot Method for rqss Objects in quantreg: Quantile Regression
+https://rdrr.io/cran/quantreg/man/plot.rqss.html
+
+rqss function | R Documentation
+https://www.rdocumentation.org/packages/quantreg/versions/5.51/topics/rqss
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiam7uw1YvlAhVMGTQIHQ9gCLcQFjABegQIDxAC&url=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2Fquantreg%2Fquantreg.pdf&usg=AOvVaw2x3pc4drPckmkHYFPAvh-Q
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiam7uw1YvlAhVMGTQIHQ9gCLcQFjABegQIDxAC&url=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2Fquantreg%2Fquantreg.pdf&usg=AOvVaw2x3pc4drPckmkHYFPAvh-Q
+
+New Tab
+about:newtab
+
+kosukeimai/qss-package: R package for data and code used in "Quantitative Social Science: An Introduction"
+https://github.com/kosukeimai/qss-package
+
+R Package - Quantitative Social Science
+https://qss.princeton.press/student-resources-for-quantitative-social-science/r-package/
+
+Replication of Chapter 5 of <em>Quantitative Social Science: An Introduction</em> • quanteda
+https://quanteda.io/articles/pkgdown/replication/qss.html
+
+*The Joker* - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/the-joker.html
+
+The two must-read books on Pakistan - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/the-two-must-read-books-on-pakistan.html
+
+Slavery at Thomas Jefferson’s University of Virginia: Students who beat and raped enslaved servants went unpunished - The Washington Post
+https://www.washingtonpost.com/history/2019/10/06/two-centuries-ago-university-virginia-students-beat-raped-enslaved-servants-historians-say/
+

@@ -98,3 +98,5 @@ https://gardenofforkingpaths.home.blog/2019/09/22/the-psychology-of-serial-kille
 How Imran Khan Is Remaking Pakistan | Vanity Fair
 https://www.vanityfair.com/news/2019/09/the-once-and-future-imran-khan?utm_medium=10today.media.20190924.436.1&utm_source=email&utm_content=article&utm_campaign=10-for-today---4.0-styling
 
+
+https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/
