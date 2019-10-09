@@ -576,6 +576,14 @@ https://www.nybooks.com/articles/2012/06/07/what-makes-countries-rich-or-poor/
 
 
 
+- [ ] [Library Genesis](https://libgen.is/search.php?&req=Hadley+Wickham&phrase=0&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](https://libgen.is/search.php?&req=Terrence+Sejnowski&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+
+
+
+
 
 
 

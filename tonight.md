@@ -528,3 +528,65 @@ https://www.scmp.com/tech/enterprises/article/3004325/how-us-went-telecoms-leade
 How Huawei went from small-time trader in Shenzhen to world’s biggest telecoms equipment supplier | South China Morning Post
 https://www.scmp.com/tech/big-tech/article/2186494/how-huawei-went-small-time-trader-shenzhen-worlds-biggest-telecoms
 
+
+
+How the Many-Worlds theory of Hugh Everett split the Universe | Aeon Essays
+https://aeon.co/essays/how-the-many-worlds-theory-of-hugh-everett-split-the-universe
+
+How the Many-Worlds theory of Hugh Everett split the Universe | Aeon Essays
+https://aeon.co/essays/how-the-many-worlds-theory-of-hugh-everett-split-the-universe
+
+Jim Baggott | Aeon
+https://aeon.co/users/jim-baggott
+
+Nigel Warburton | Aeon
+https://aeon.co/users/nigel-warburton
+
+The string theory wars show us how science needs philosophy | Aeon Essays
+https://aeon.co/essays/the-string-theory-wars-show-us-how-science-needs-philosophy
+
+[1801.05016] Beyond Falsifiability: Normal Science in a Multiverse
+https://arxiv.org/abs/1801.05016
+
+All books on bookdown.org | Bookdown
+https://bookdown.org/home/archive/
+
+David Spurrett - Google Search
+https://www.google.com/search?client=firefox-b-d&q=David+Spurrett
+
+James Ladyman - Google Search
+https://www.google.com/search?client=firefox-b-d&q=James+Ladyman
+
+Don Ross - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Don+Ross
+
+Higher Speculations - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Higher+Speculations
+
+Helge Kragh - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Helge+Kragh
+
+Scientific method: Defend the integrity of physics : Nature News & Comment
+https://www.nature.com/news/scientific-method-defend-the-integrity-of-physics-1.16535
+
+Leah Broussard: Breaking the Standard Model to Fix Understanding of the Universe | ORNL
+https://www.ornl.gov/news/leah-broussard-breaking-standard-model-fix-understanding-universe
+
+Quantum Space - Jim Baggott - Oxford University Press
+https://global.oup.com/academic/product/quantum-space-9780198809111?cc=gb&lang=en&
+
+Quantum Reality - Jim Baggott - Oxford University Press
+https://global.oup.com/academic/product/quantum-reality-9780198830153?cc=gb&lang=en&
+
+In Defence of Scientism - Oxford Scholarship
+https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199276196.001.0001/acprof-9780199276196-chapter-1
+
+The Infinite Optimism of Physicist David Deutsch - Scientific American Blog Network
+https://blogs.scientificamerican.com/cross-check/the-infinite-optimism-of-physicist-david-deutsch/
+
+Delimiting the Unconceived | SpringerLink
+https://link.springer.com/article/10.1007/s10701-017-0132-1
+
+(50) Sean Carroll: Universe a 'tiny sliver' of all there is - YouTube
+https://www.youtube.com/watch?v=zsXCwUsuvKo
+

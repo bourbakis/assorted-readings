@@ -8,3 +8,16 @@ There were four key factors:
     Good economy.
     Good governance.
     Good diplomacy.
+
+
+
+
+# 10/9/19
+
+- [ ] [Post-empirical science is an oxymoron, and it is dangerous | Aeon Essays](https://aeon.co/essays/post-empirical-science-is-an-oxymoron-and-it-is-dangerous)
+
+> Is mutilverse theory falsible?
+
+> from philosophical point of view, multiple universe langauge is not passable in current stage. (John Heil)
+
+> The author has not mentioned the later development after Sr. Karl Poper.
