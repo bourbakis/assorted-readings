@@ -465,3 +465,51 @@ https://marginalrevolution.com/marginalrevolution/2019/10/the-two-must-read-book
 Slavery at Thomas Jefferson’s University of Virginia: Students who beat and raped enslaved servants went unpunished - The Washington Post
 https://www.washingtonpost.com/history/2019/10/06/two-centuries-ago-university-virginia-students-beat-raped-enslaved-servants-historians-say/
 
+
+# 10/09/19
+
+Problem loading page
+https://mp.weixin.qq.com/s/a6kqQatkZJZn6rbsy54Fww
+
+dash.harvard.edu/bitstream/handle/1/3451399/Barro_AreGovernment.pdf?sequence=4
+about:blank
+
+OneTab Pro
+moz-extension://29228057-7a2a-7846-877c-9e2271fa1a35/index.html
+
+Macroeconomics : Barro, Robert J : Free Download, Borrow, and Streaming : Internet Archive
+https://archive.org/details/macroeconomics00barr
+
+Royal Economic Society: Annual Public Lecture Series
+https://web.archive.org/web/20070918185251/http://www.res.org.uk/society/lecture2006.asp
+
+Texas Supreme Court upholds favorable CompUSA ruling - Dallas Business Journal
+https://www.bizjournals.com/dallas/stories/2006/06/05/daily46.html
+
+Comparative politics quantative r - Google Search
+https://www.google.com/search?q=Comparative+politics+quantative+r
+
+Elissa M. Redmiles
+http://www.cs.umd.edu/~eredmiles/
+
+jp magzine non non - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSQb5iXTn3a4SIcOwj0QPWfKwqckQ%3A1570603465877&ei=yYGdXZ3_NITAsQX4u4zQCw&q=jp+magzine+non+non&oq=jp+magzine+non+non&gs_l=psy-ab.3...7992.18870..19419...4.6..0.408.7030.2-9j12j1......0....1..gws-wiz.....10..0i71j35i39j0i67j0i131j0j35i362i39j0i273j0i131i273j0i10j0i131i67j0i13j0i22i30j0i8i13i30.Dw7qeDxKlSc&ved=0ahUKEwjdh6rtyY7lAhUEYKwKHfgdA7oQ4dUDCAo&uact=5
+
+Compositionality in Network Theory
+http://math.ucr.edu/home/baez/networks_compositionality/
+
+Problem loading page
+http://johncarlosbaez.wordpress.com/2010/08/27/this-weeks-finds-week-301/
+
+Audio, Transcripts, and Slides from “Any Sufficiently Advanced Neglect is Indistinguishable from Malice” | A Future Worth Thinking About
+http://www.afutureworththinkingabout.com/?p=5442
+
+The Clash of Civilizations and the Remaking of World Order: Samuel P. Huntington: 9781451628975: Amazon.com: Books
+https://www.amazon.com/Clash-Civilizations-Remaking-World-Order/dp/1451628978
+
+ftalphaville.ft.com/2019/10/08/1570562734000/Further-reading/
+https://ftalphaville.ft.com/2019/10/08/1570562734000/Further-reading/
+
+The Clash of Civilizations and the Remaking of World Order - Google Search
+https://www.google.com/search?client=firefox-b-d&q=The+Clash+of+Civilizations+and+the+Remaking+of+World+Order
+

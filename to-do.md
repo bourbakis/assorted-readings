@@ -2256,3 +2256,33 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&ved=2ahUKEwj758
 Causal inference based on counterfactuals
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1239917/
 
+
+
+
+
+# 10/09/2019
+
+“What about endogeneity?” | Seth's Blog
+https://seths.blog/2017/05/what-about-endogeneity/
+
+Seth's Blog
+https://seths.blog/
+
+The Marketing Seminar
+https://themarketingseminar.com/
+
+You should write an ebook | Seth's Blog
+https://seths.blog/2007/03/you_should_writ/
+
+Permission Marketing | Seth's Blog
+https://seths.blog/2008/01/permission-mark/
+
+Email checklist | Seth's Blog
+https://seths.blog/2008/06/email-checklist/
+
+Paul Collier: The "bottom billion" | TED Talk
+https://www.ted.com/talks/paul_collier_shares_4_ways_to_help_the_bottom_billion
+
+Paul Collier: New rules for rebuilding a broken nation | TED Talk
+https://www.ted.com/talks/paul_collier_s_new_rules_for_rebuilding_a_broken_nation
+

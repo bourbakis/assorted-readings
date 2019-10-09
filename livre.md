@@ -495,6 +495,75 @@ https://libgen.is/book/index.php?md5=81C03AE15109DBDA41D8749D7B231F50
 
 - [ ] [Library Genesis: Форсайт Д., Понс Ж.(D.A.Forsyth,J.Ponce) - Компьютерное зрение: Современный подход](http://libgen.is/book/index.php?md5=214A5418645BA3A207659AABF0A33824)
 
+ok chapter on “Ideology and Electoral Choice” | Yet another academic ...
+https://www.elff.eu/research/news/2017-12-12-ideology-electoral-choice/
+
+Library Genesis
+https://libgen.is/search.php?&req=William+Easterly&phrase=1&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis
+https://libgen.is/search.php?req=Online+access%3A+JSTOR+Books+at+JSTOR&column=series
+
+Library Genesis: Vigneswaran, D.;Quirk, J. - Mobility Makes States: Migration and Power in Africa
+https://libgen.is/book/index.php?md5=659FE65F81CF7D07B34ACE0C14285790
+
+Library Genesis
+https://libgen.is/search.php?req=Princeton+Studies+in+International+History+and+Politics&column=series
+
+Library Genesis: Jeffrey Herbst - States and Power in Africa: Comparative Lessons in Authority and Control
+https://libgen.is/book/index.php?md5=02EB83A7B7D3B1574CAF10F55A7AED5D
+
+Library Genesis
+https://libgen.is/search.php?req=Jeffrey+Herbst&column=author
+
+Library Genesis: Samuel A. Floyd - The Power of Black Music: Interpreting Its History from Africa to the United States
+https://libgen.is/book/index.php?md5=CDDAFF5BD6F58E76ACB694FCB57574F8
+
+Library Genesis
+https://libgen.is/search.php?req=IQ+and+the+Wealth+of+Nations&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+
+Library Genesis
+https://libgen.is/search.php?req=Human+Evolution%2C+Behavior%2C+and+Intelligence&column=series
+
+Library Genesis
+https://libgen.is/search.php?req=Richard+Lynn&column=author
+
+Library Genesis
+https://libgen.is/search.php?req=+Tatu+Vanhanen&column=author
+
+Library Genesis
+https://libgen.is/search.php?&req=The+Wealth+and+Poverty+of+Nations&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+https://libgen.is/search.php?req=David+S.+Landes&column=author
+
+Library Genesis
+https://libgen.is/search.php?&req=Immanuel+Wallerstein&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+https://libgen.is/search.php?req=Arvind+Subramanian&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+
+Library Genesis
+https://libgen.is/search.php?req=Paul+Collier&open=0&res=25&view=simple&phrase=1&column=def
+
+Library Genesis: David R. Henderson - The Joy of Freedom: An Economist's Odyssey
+https://libgen.is/book/index.php?md5=29E5396C4C0A18C85F5FF8B05042A356
+
+Library Genesis: David R. Henderson - The Fortune Encyclopedia of Economics
+https://libgen.is/book/index.php?md5=B8975FF9047C9E1EF9DED656890F844E
+
+Library Genesis
+https://libgen.is/search.php?req=Arvind+Subramanian&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+
+Library Genesis
+https://libgen.is/search.php?&req=Robert+J.+Barro&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Jared Diamond reviews *Why Nations Fail* - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2012/05/jared-diamond-reviews-why-nations-fail.html
+
+What Makes Countries Rich or Poor? | by Jared Diamond | The New York Review of Books
+https://www.nybooks.com/articles/2012/06/07/what-makes-countries-rich-or-poor/
+
 
 
 
@@ -540,4 +609,217 @@ https://libgen.is/book/index.php?md5=81C03AE15109DBDA41D8749D7B231F50
 ## 10/6/2019
 
 - [ ] [Briefly Noted Book Reviews | The New Yorker](https://www.newyorker.com/magazine/2019/04/15/first-making-china-modern-vacuum-in-the-dark-and-the-cook)
+
+
+
+# Natural Philosophy
+
+## 10/9/2019
+
+Library Genesis: Draguna Vrabie, Kyriakos G. Vamvoudakis, Frank. L Lewis - Optimal Adaptive Control and Differential Games by Reinforcement Learning Principles
+https://libgen.is/book/index.php?md5=6A11BC2F2AC34E654A0A2B9D86275D5B
+
+Library Genesis
+https://libgen.is/search.php?req=Dmitri+Bertsekas&column=author
+
+Library Genesis: Dmitri Bertsekas - Reinforcement learning and Optimal Control - Draft version
+https://libgen.is/book/index.php?md5=7F43E46AD221BBDB78C14CDE49DBEDD0
+
+Library Genesis: Rushikesh Kamalapurkar, Patrick Walters, Joel Rosenfeld, Warren Dixon - Reinforcement Learning for Optimal Feedback Control
+https://libgen.is/book/index.php?md5=DF8C6468A79510A1E467413DD8FDEB41
+
+Library Genesis
+https://libgen.is/search.php?&req=Samuel+P.+Huntington&phrase=0&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis: Huntington, Samuel P - The clash of civilizations and the remaking of world order
+https://libgen.is/book/index.php?md5=B567C0B514BAADAB41F384F299569FD4
+
+Library Genesis
+https://libgen.is/search.php?req=Comprehensive+Course+in+Analysis&open=0&res=100&view=simple&phrase=1&column=def
+
+Library Genesis
+https://libgen.is/search.php?req=Comprehensive+Course+in+Analysis&column=series
+
+Library Genesis
+https://libgen.is/search.php?req=Methods+of+Modern+Mathematical+Physics&column=series
+
+Library Genesis: Bryce S. DeWitt, Neill Graham, Editors - The Many-Worlds Interpretation of Quantum Mechanics
+https://libgen.is/book/index.php?md5=08A2AEFA6BCDF290E17F9ED0101BFDBE
+
+Library Genesis
+https://libgen.is/search.php?req=Bryce+S.+DeWitt&column=author
+
+Library Genesis
+https://libgen.is/search.php?req=Nikolaj+Sergeevi%C4%8D+Krylov&column=author
+
+Library Genesis: Bryce S DeWitt, Neill Graham - The many-worlds interpretation of quantum mechanics
+https://libgen.is/book/index.php?md5=205F03B8C08819068082D429B6A251D3
+
+Library Genesis: Benjamin Hutz - An Experimental Introduction to Number Theory
+https://libgen.is/book/index.php?md5=086E0A5FB3710142D358FCFEB9A3C775
+
+Library Genesis: Einstein, Albert; Goodstein, Judith R.; Levi-Civita, Tullio; Ricci-Curbastro, Gregorio; Von Kármán, Theodore - Einstein's Italian mathematicians: Ricci, Levi-Civita, and the birth of general relativity
+https://libgen.is/book/index.php?md5=4C8D9ED643089C4C2EC0B242D7838660
+
+Library Genesis: Bühler, Theo; Salamon, Dietmar A. - Functional analysis
+https://libgen.is/book/index.php?md5=7422EEAA202E522B0EDCC1E18077ABEE
+
+Library Genesis: Victor W. Guillemin and Shlomo Sternberg - Variations on a Theme by Kepler (Colloquium Publications)
+https://libgen.is/book/index.php?md5=4ECC98AA9D03DEA83AC1F3844F112F77
+
+Library Genesis: Cutkosky, Steven Dale - Introduction to algebraic geometry
+https://libgen.is/book/index.php?md5=1927EAF0DD2F3DFAF0323408C99DE471
+
+Library Genesis: Vaughn Climenhaga, Anatole Katok - From Groups to Geometry and Back
+https://libgen.is/book/index.php?md5=26BE615F44D439BDBDD298B1E6E4A169
+
+Library Genesis: Shahriar Shahriari - Algebra in Action: A Course in Groups, Rings, and Fields
+https://libgen.is/book/index.php?md5=53F89710839EF36BBFFC51BA905F8638
+
+Library Genesis
+https://libgen.is/search.php?req=Shahriar+Shahriari&column=author
+
+Library Genesis: Henri Cohen, Fredrik Strömberg - Modular Forms: A Classical Approach
+https://libgen.is/book/index.php?md5=3636E6348005E5BF8866D355C69C3202
+
+Library Genesis: Joseph J. Rotman - Advanced Modern Algebra, Part 2
+https://libgen.is/book/index.php?md5=03A781607FBA281BAEE797CA015076BC
+
+Library Genesis
+https://libgen.is/search.php?req=Dennis+Gaitsgory&column=author
+
+Library Genesis: Dennis Gaitsgory, Nick Rozenblyum - A Study in Derived Algebraic Geometry, Volume I: Correspondences and Duality
+https://libgen.is/book/index.php?md5=999DA255B4579191F53D5D3A8336DA1D
+
+Library Genesis: David A. Levin, Yuval Peres, Elizabeth L. Wilmer - Markov Chains and Mixing Times
+https://libgen.is/book/index.php?md5=4A326D903FF0974280AA4856F5D17045
+
+Library Genesis: Roger Cooke - It’s About Time: Elementary Mathematical Aspects of Relativity
+https://libgen.is/book/index.php?md5=9EBEDA2AF9BDDB840167A98AAF6C42E3
+
+Library Genesis: James W. Cannon - Topology as Fluid Geometry: Two-Dimensional Spaces, Volume 2
+https://libgen.is/book/index.php?md5=BFAFD3DF81A223964B104CD42666F62F
+
+Library Genesis: Burkard Polster;Marty Ross - A Dingo Ate My Math Book: Mathematics from Down Under
+https://libgen.is/book/index.php?md5=F042097BA8AC9E2889288D6695A311B5
+
+Library Genesis: John McCleary - Exercises in (Mathematical) Style: Stories of Binomial Coefficients
+https://libgen.is/book/index.php?md5=FB51152E53FD0AD4E78FCC63AE17F32E
+
+Library Genesis: Steven J. Miller - Mathematics of Optimization: How to do Things Faster
+https://libgen.is/book/index.php?md5=77A5A59EC375B4654C2904A26547426B
+
+Library Genesis: Gaitsgory, Dennis; Rozenblyum, Nick - A study in derived algebraic geometry. Volume II, Deformations, Lie theory and formal geometry
+https://libgen.is/book/index.php?md5=0E6F071339CC6E314B1A0ABEBA9D2ADC
+
+Library Genesis: Derksen, Harm; Weyman, Jerzy - An introduction to quiver representations
+https://libgen.is/book/index.php?md5=B7BA47505384EF7D386EA9E8D9198AF4
+
+Library Genesis: De Concini C., Procesi C. - The invariant theory of matrices
+https://libgen.is/book/index.php?md5=379F3C117602CF4EC35F5B05D92C4417
+
+Library Genesis: Matt Devos, Deborah A. Kent - Game Theory: A Playful Introduction
+https://libgen.is/book/index.php?md5=EEBB50A99899D0A519D248CA13F39C0C
+
+Library Genesis: Tamara J. Lakins - The Tools of Mathematical Reasoning
+https://libgen.is/book/index.php?md5=6E37EFDDA138C6C0ED37FA91B4409DAD
+
+Library Genesis
+https://libgen.is/search.php?req=Tamara+J.+Lakins&column=author
+
+Library Genesis: Bowen Kerins, Darryl Yong, Al Cuoco, Glenn Stevens, Mary Pilgrim - Some Applications of Geometric Thinking
+https://libgen.is/book/index.php?md5=0FFAD6CC4B8C09E2A79774FF33BEE568
+
+Library Genesis: Mordukhovich B.S., Reich S., Zaslavski A. (eds.) - Nonlinear analysis and optimization
+https://libgen.is/book/index.php?md5=ADE4F1717243454BC2FBC06F554B10A8
+
+Library Genesis: Martin Olsson - Algebraic Spaces and Stacks
+https://libgen.is/book/index.php?md5=9947E988AA278068C3184D71808E4EB3
+
+Library Genesis: Kristopher Tapp - Matrix Groups for Undergraduates
+https://libgen.is/book/index.php?md5=FD8EB8BF39D60A12DDB2C0BE75E71689
+
+Library Genesis
+https://libgen.is/search.php?req=Student+Mathematical+Library+79&column=series
+
+Library Genesis: Oystein Ore - Invitation to Number Theory
+https://libgen.is/book/index.php?md5=831798734FE3DA2D0981EFAB90B22359
+
+Library Genesis: Donald Yau - Colored Operads
+https://libgen.is/book/index.php?md5=8C522C1290DD93352F6B300AA59F4C2A
+
+Library Genesis: S. R. S. Varadhan - Large Deviations
+https://libgen.is/book/index.php?md5=E82EE81E94C331569FCBB18459B3D936
+
+Library Genesis: Pavel Etingof, Shlomo Gelaki, Dmitri Nikshych, Victor Ostrik - Tensor Categories
+https://libgen.is/book/index.php?md5=90092EAF38A9E2454B45F8D52B34693D
+
+Library Genesis: Roe, John - Winding around : the winding number in topology, geometry, and analysis
+https://libgen.is/book/index.php?md5=AA7680AA057E09D9DBA083601B88CA49
+
+Library Genesis: Steve Y. Oudot - Persistence Theory: From Quiver Representations to Data Analysis
+https://libgen.is/book/index.php?md5=D13953F6D4E6DA36B0999EE77DCC1F71
+
+Library Genesis: Oudot, Steve Y - Persistence theory: from quiver representations to data analysis
+https://libgen.is/book/index.php?md5=97C4526E7DDE054BDD8475444B765C1F
+
+Library Genesis
+https://libgen.is/search.php?req=Takeshi+Saito&column=author
+
+Library Genesis: Takeshi Saito - Fermat's Last Theorem: Basic Tools
+https://libgen.is/book/index.php?md5=F79FDE111A8957F40F8CFAF08B5E9850
+
+Library Genesis: O. N. Vasilenko - Number-theoretic Algorithms in Cryptography
+https://libgen.is/book/index.php?md5=9BA57B9B7A4D1F48BADDEFAE453B6F3D
+
+Library Genesis: Ichiro Shigekawa - Stochastic Analysis
+https://libgen.is/book/index.php?md5=F15D243D8CA7B04CFF106C5702924C26
+
+Library Genesis: S. N. Volkov, M. L. Nechaev, A. V. Mel’nikov - Mathematics of Financial Obligations
+https://libgen.is/book/index.php?md5=D406B258EBFFEC2E8197C0D9634B9A8B
+
+Library Genesis: S. N. Volkov, M. L. Nechaev, A. V. Mel’nikov - Mathematics of Financial Obligations
+https://libgen.is/book/index.php?md5=D1612CDB9660B6D249E4DED3B4E8A8A6
+
+Library Genesis: Shun-Ichi Amari, Hiroshi Nagaoka - Methods of Information Geometry
+https://libgen.is/book/index.php?md5=2D17EA1357258728F1E7E457F4DCF95D
+
+Library Genesis: Shun-ichi Amari - Information Geometry and Its Applications
+https://libgen.is/book/index.php?md5=AF9A26090CBE5551EE46897E3A7E2525
+
+Library Genesis: Shun-ichi Amari - Information Geometry and Its Applications
+https://libgen.is/book/index.php?md5=DD2A8F18218C2C64C85CF40A703105CF
+
+Library Genesis: A. V. Melnikov - Financial Markets
+https://libgen.is/book/index.php?md5=3C636077859587C9C046E7B919A87A5A
+
+Library Genesis: Godunov, Godunov Sergei Konstantinovich - Modern Aspects of Linear Algebra
+https://libgen.is/book/index.php?md5=C5E1A31A191652C1361D76F30879BBE2
+
+Library Genesis: Takeshi Saito - Fermat's Last Theorem: The Proof
+https://libgen.is/book/index.php?md5=24679AF53BB3B8E1C2D34EABAA079F70
+
+Library Genesis: Takeshi Saito - Fermat's Last Theorem: The Proof
+https://libgen.is/book/index.php?md5=97A43200C4DF0E248E7AFCB2A689BD6E
+
+Library Genesis: Terence Tao - Hilbert's Fifth Problem and Related Topics
+https://libgen.is/book/index.php?md5=C4182D8CF611466FF8AF75807E31E650
+
+Library Genesis: Iwaniec H. - Introduction to the Spectral Theory of Automorphic Forms
+https://libgen.is/book/index.php?md5=CC11D3A29B09C1D00E10A01FA12EB4D1
+
+Library Genesis: Iwaniec H. - Topics in classical automorphic forms
+https://libgen.is/book/index.php?md5=A23951CF6A7FB8A07C26C0647FCC3324
+
+Library Genesis: Iwaniec H. - Lectures on the Riemann zeta function
+https://libgen.is/book/index.php?md5=41D90C7B65CE600AB7D3BBF724FB9B6A
+
+Library Genesis: Lasse Rempe-Gillen, Rebecca Waldecker - Primality testing for beginners
+https://libgen.is/book/index.php?md5=D0B1040B9F4BB14C9F8F871556AFFC8C
+
+Library Genesis: Fritz Colonius, Wolfgang Kliemann - Dynamical Systems and Linear Algebra
+https://libgen.is/book/index.php?md5=DAE40A7022E247FE9DE8013E1EB29175
+
+Library Genesis: Khesin, Boris A.; Tabachnikov, Serge L (eds.) - Arnold: Swimming Against the Tide
+https://libgen.is/book/index.php?md5=785FA69F2F2947410E0208435C607F04
 

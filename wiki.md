@@ -110,3 +110,67 @@
 - [ ] [Smoothing spline - Wikipedia](https://en.wikipedia.org/wiki/Smoothing_spline)
 
 - [ ] [Wolfram Mathematica - Wikipedia](https://en.wikipedia.org/wiki/Wolfram_Mathematica)
+
+Why Nations Fail - Wikipedia
+https://en.wikipedia.org/wiki/Why_Nations_Fail
+
+Environmental determinism - Wikipedia
+https://en.wikipedia.org/wiki/Environmental_determinism
+
+Category:Human geography - Wikipedia
+https://en.wikipedia.org/wiki/Category:Human_geography
+
+States and Power in Africa - Wikipedia
+https://en.wikipedia.org/wiki/States_and_Power_in_Africa
+
+Category:Books about Africa - Wikipedia
+https://en.wikipedia.org/wiki/Category:Books_about_Africa
+
+Category:2012 non-fiction books - Wikipedia
+https://en.wikipedia.org/wiki/Category:2012_non-fiction_books
+
+Category:History books about civilization - Wikipedia
+https://en.wikipedia.org/wiki/Category:History_books_about_civilization
+
+Category:Books about wealth distribution - Wikipedia
+https://en.wikipedia.org/wiki/Category:Books_about_wealth_distribution
+
+Comparative politics - Wikipedia
+https://en.wikipedia.org/wiki/Comparative_politics
+
+William Easterly - Wikipedia
+https://en.wikipedia.org/wiki/William_Easterly
+
+The Elusive Quest for Growth - Wikipedia
+https://en.wikipedia.org/wiki/The_Elusive_Quest_for_Growth
+
+The Wealth and Poverty of Nations - Wikipedia
+https://en.wikipedia.org/wiki/The_Wealth_and_Poverty_of_Nations
+
+IQ and the Wealth of Nations - Wikipedia
+https://en.wikipedia.org/wiki/IQ_and_the_Wealth_of_Nations
+
+Richard Lynn - Wikipedia
+https://en.wikipedia.org/wiki/Richard_Lynn
+
+Immanuel Wallerstein - Wikipedia
+https://en.wikipedia.org/wiki/Immanuel_Wallerstein
+
+Arvind Subramanian - Wikipedia
+https://en.wikipedia.org/wiki/Arvind_Subramanian
+
+Endogeneity (econometrics) - Wikipedia
+https://en.wikipedia.org/wiki/Endogeneity_(econometrics)
+
+Modernization theory - Wikipedia
+https://en.wikipedia.org/wiki/Modernization_theory
+
+Robert Barro - Wikipedia
+https://en.wikipedia.org/wiki/Robert_Barro
+
+Xavier Sala-i-Martin - Wikipedia
+https://en.wikipedia.org/wiki/Xavier_Sala-i-Martin
+
+Professor Sir Paul Collier: Why social science should integrate culture and how to do it - YouTube
+https://www.youtube.com/watch?v=M0t4uq-gpUA
+

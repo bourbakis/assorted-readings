@@ -119,3 +119,22 @@
 - [ ] [Tom Rainforth (@tom_rainforth) / Twitter](https://twitter.com/tom_rainforth)
 
 - [ ] [Yaroslav Ganin (@yaroslav_ganin) / Twitter](https://twitter.com/yaroslav_ganin)
+
+
+## 10/9/2010
+
+Razib🥥 Khan（@razibkhan）さん / Twitter
+https://twitter.com/razibkhan
+
+Ryou Ezoe(江添 亮)（@EzoeRyou）さん / Twitter
+https://twitter.com/EzoeRyou
+
+Sam Walters ☕️（@SamuelGWalters）さん / Twitter
+https://twitter.com/SamuelGWalters
+
+Jacopo Bertolotti（@j_bertolotti）さん / Twitter
+https://twitter.com/j_bertolotti
+
+theHigherGeometer（@HigherGeometer）さん / Twitter
+https://twitter.com/HigherGeometer
+
