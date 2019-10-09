@@ -513,3 +513,18 @@ https://ftalphaville.ft.com/2019/10/08/1570562734000/Further-reading/
 The Clash of Civilizations and the Remaking of World Order - Google Search
 https://www.google.com/search?client=firefox-b-d&q=The+Clash+of+Civilizations+and+the+Remaking+of+World+Order
 
+China Forces the N.B.A. to Weigh Value Against Values | The New Yorker
+https://www.newyorker.com/news/daily-comment/china-forces-the-nba-to-weigh-value-against-values
+
+Explained: South China Sea dispute | South China Morning Post
+https://www.scmp.com/week-asia/article/2186449/explained-south-china-sea-dispute
+
+The battle over 5G - SCMP Series | South China Morning Post
+https://series.scmp.com/5g/?src=article-launcher
+
+How US went from telecoms leader to 5G also-ran without challenger to China’s Huawei | South China Morning Post
+https://www.scmp.com/tech/enterprises/article/3004325/how-us-went-telecoms-leader-5g-also-ran-without-challenger-chinas
+
+How Huawei went from small-time trader in Shenzhen to world’s biggest telecoms equipment supplier | South China Morning Post
+https://www.scmp.com/tech/big-tech/article/2186494/how-huawei-went-small-time-trader-shenzhen-worlds-biggest-telecoms
+
