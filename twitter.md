@@ -97,3 +97,25 @@
 - [ ] [Sander Greenland (@Lester_Domes) / Twitter](https://twitter.com/Lester_Domes)
 
 - [ ] [Suzana Ilić (@suzatweet) / Twitter](https://twitter.com/suzatweet)
+
+
+
+## 10/9/2019
+
+- [ ] [Adam Kosiorek (@arkosiorek) / Twitter](https://twitter.com/arkosiorek)
+
+- [ ] [Anirudh Goyal (@anirudhg9119) / Twitter](https://twitter.com/anirudhg9119)
+
+- [ ] [Brian Keng (@bjlkeng) / Twitter](https://twitter.com/bjlkeng)
+
+- [ ] [FiveThirtyEight (@FiveThirtyEight) / Twitter](https://twitter.com/FiveThirtyEight)
+
+- [ ] [Ilya Razenshteyn (@ilyaraz2) / Twitter](https://twitter.com/ilyaraz2)
+
+- [ ] [Michael Figurnov (@mfigurnov) / Twitter](https://twitter.com/mfigurnov)
+
+- [ ] [Tejas Kulkarni (@tejasdkulkarni) / Twitter](https://twitter.com/tejasdkulkarni)
+
+- [ ] [Tom Rainforth (@tom_rainforth) / Twitter](https://twitter.com/tom_rainforth)
+
+- [ ] [Yaroslav Ganin (@yaroslav_ganin) / Twitter](https://twitter.com/yaroslav_ganin)

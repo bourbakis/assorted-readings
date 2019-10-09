@@ -288,6 +288,224 @@ https://libgen.is/book/index.php?md5=81C03AE15109DBDA41D8749D7B231F50
 
 
 
+## 10/9/2019
+
+- [x] [Amazon.com: All of Nonparametric Statistics (Springer Texts in Statistics) (9780387251455): Larry Wasserman: Books](https://www.amazon.com/All-Nonparametric-Statistics-Springer-Texts/dp/0387251456/ref=pd_bxgy_b_img_b)
+
+- [x] [Amazon.com: Quantile Regression (Econometric Society Monographs) (9780521608275): Roger Koenker: Books](https://www.amazon.com/exec/obidos/tg/detail/-/0521608279/qid=1114869693/sr=8-1/ref=sr_8_xs_ap_i1_xgl14/102-4388615-5384942?v=glance&s=books&n=507846)
+
+- [ ] [Library Genesis: - Работа магистра наук - Lee K.S. Quantifying the main battle tank's architectural trade space using Bayesian belief network](http://libgen.is/book/index.php?md5=D7F30A7FDB74B12301AD7684F40C0711)
+
+- [ ] [Library Genesis: Alan J. Izenman (auth.) - Modern multivariate statistical techniques: Regression, classification, and manifold learning](http://libgen.is/book/index.php?md5=F091A0357BAF674D499E509474EDE174)
+
+- [ ] [Library Genesis: Albert, Jim; Rizzo, Maria L - R by Example: Concepts to Code](http://libgen.is/book/index.php?md5=3CB550559F4D20C2243FA51DAD0D2B94)
+
+- [ ] [Library Genesis: Andrzej Gałecki, Tomasz Burzykowski (auth.) - Linear Mixed-Effects Models Using R: A Step-by-Step Approach](http://libgen.is/book/index.php?md5=F79016BD330851D723851E5FCE6A172D)
+
+- [ ] [Library Genesis: Ankush Mittal, Ankush Mittal; Ashraf Kassim - Bayesian Network Technologies: Applications and Graphical Models](http://libgen.is/book/index.php?md5=B632E9C44CB2E9B399102F7D7D571B46)
+
+- [ ] [Library Genesis: Bradley C. Boehmke, Ph.D. (auth.) - Data Wrangling with R](http://libgen.is/book/index.php?md5=6F902E466A32011DD94E2B6EEE505F9F)
+
+- [ ] [Library Genesis: Brian Everitt, Torsten Hothorn (auth.) - An Introduction to Applied Multivariate Analysis with R](http://libgen.is/book/index.php?md5=83BD38DABC018FE79C6AEEF726BF20D7)
+
+- [ ] [Library Genesis: Cameron Davidson-Pilon - Bayesian Methods for Hackers](http://libgen.is/book/index.php?md5=DE1EF9B948A1269B99912FE2C34A2B55)
+
+- [ ] [Library Genesis: Christian P. Robert - The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation](http://libgen.is/book/index.php?md5=8AEA3ED2A08F9CAA0D58873CE3A6A45B)
+
+- [ ] [Library Genesis: Christian Ritz, Jens Carl Streibig (eds.) - Nonlinear Regression with R](http://libgen.is/book/index.php?md5=6D2718D8BDD5C9ED41EBCF0012BB30EC)
+
+- [ ] [Library Genesis: Christian Robert, George Casella (auth.) - Introducing Monte Carlo Methods with R](http://libgen.is/book/index.php?md5=06C1CB1F60CA1238FF0061FF2D346FFA)
+
+- [ ] [Library Genesis: Crane, Harry - Probabilistic foundations of statistical network analysis](http://libgen.is/book/index.php?md5=D2E71E49E3CC5E53ADF684B7D8F6A042)
+
+- [ ] [Library Genesis: Dirk Eddelbuettel (auth.) - Seamless R and C++ Integration with Rcpp](http://libgen.is/book/index.php?md5=009DD3B3921100312FCA392349292BA1)
+
+- [ ] [Library Genesis: Dr. Hari M. Koduvely - Learning Bayesian Models with R](http://libgen.is/book/index.php?md5=2C729BAFBAF8D63831AA1A39DABEBFC5)
+
+- [ ] [Library Genesis: Emilio L. Cano, Javier M. Moguerza, Andrés Redchuk (auth.) - Six Sigma with R: Statistical Engineering for Process Improvement](http://libgen.is/book/index.php?md5=75A0EB0FEEF6D277AA2317FBF1D70726)
+
+- [ ] [Library Genesis: Eswar G. Phadia - Prior Processes and Their Applications: Nonparametric Bayesian Estimation](http://libgen.is/book/index.php?md5=0DF279F1D54B5583E91A43FB27FDD4ED)
+
+- [ ] [Library Genesis: Folkmar Bornemann (auth.) - Numerical Linear Algebra: A Concise Introduction with MATLAB and Julia](http://libgen.is/book/index.php?md5=ADB6238D4343ADF07D31D3C7AB322FB3)
+
+- [ ] [Library Genesis: Francesca Biagini, Massimo Campanino - Elements of probability and statistics: de Finetti's approach, Bayesian statistics](http://libgen.is/book/index.php?md5=B057B731515B9F8568FD05CC1D8F1B65)
+
+- [ ] [Library Genesis: Franco Vivaldi - Mathematical Writing](http://libgen.is/book/index.php?md5=D54DD2EE9EB81E9464BBE937A1C5AA24)
+
+- [ ] [Library Genesis: Franzi Korner-Nievergelt at. al - Bayesian Data Analysis in Ecology Using Linear Models with R, BUGS, and Stan](http://libgen.is/book/index.php?md5=2E644E6C28EECEF7053C7B7E2BD79C24)
+
+- [ ] [Library Genesis: Gianluca Baio, Andrea Berardi, Anna Heath (auth.) - Bayesian Cost-Effectiveness Analysis with the R package BCEA](http://libgen.is/book/index.php?md5=14D4095AE30D8775A451A29022219A11)
+
+- [ ] [Library Genesis: J. Fan, I. Gijbels (auth.) - Local Polynomial Modelling and its Applications](http://libgen.is/book/index.php?md5=7D689876F9E94508E3892C69626CC4DA)
+
+- [ ] [Library Genesis: James E. Monogan III (auth.) - Political Analysis Using R](http://libgen.is/book/index.php?md5=73C8439584667694377ACAB85E4BBE2A)
+
+- [ ] [Library Genesis: Jean-Michel Marin, Christian P. Robert (auth.) - Bayesian Essentials with R](http://libgen.is/book/index.php?md5=D93D1B5938B0DC25656B88483C8A0CF8)
+
+- [ ] [Library Genesis: Jean-Michel Marin, Christian Robert - Bayesian Essentials with R](http://libgen.is/book/index.php?md5=43C7A472569669954F6739278673AA5A)
+
+- [ ] [Library Genesis: Jim Albert (auth.) - Bayesian Computation with R](http://libgen.is/book/index.php?md5=BABC0BCCF17A50FAC1FDCD77F98D3ECF)
+
+- [ ] [Library Genesis: Jim Albert (auth.) - Bayesian Computation with R](http://libgen.is/book/index.php?md5=BABC0BCCF17A50FAC1FDCD77F98D3ECF)
+
+- [ ] [Library Genesis: Jinqing Fan; Gijbels, Irene - Local Polynomial Modelling and Its Applications: Monographs on Statistics and Applied Probability 66](http://libgen.is/book/index.php?md5=270CF7B7A480872EAD1AFE27EA5FFCD0)
+
+- [ ] [Library Genesis: Jonathan D. Cryer, Kung-Sik Chan - Time Series Analysis: With Applications in R](http://libgen.is/book/index.php?md5=FFEE7CD924A7D9329F3F66323E8DA17C)
+
+- [ ] [Library Genesis: Karline Soetaert, Jeff Cash, Francesca Mazzia (auth.) - Solving Differential Equations in R](http://libgen.is/book/index.php?md5=8D10A3F884C8515DA1B66B093D2387EC)
+
+- [ ] [Library Genesis: Krishna Raj P.M., Ankith Mohan, Srinivasa K.G. - Practical Social Network Analysis with Python](http://libgen.is/book/index.php?md5=596C17EA8DBF409F9AE07C945A9DFB15)
+
+- [ ] [Library Genesis: Langrock, Roland; MacDonald, Iain L.; Zucchini, W - Hidden Markov models for time series: an introduction using R](http://libgen.is/book/index.php?md5=5F32B2D34AF22445561ECD9B785219D5)
+
+- [ ] [Library Genesis: Larry Wasserman - All of Nonparametric Statistics](http://libgen.is/book/index.php?md5=A43CAEC5FA1AFB14F9E68C4AE9609E00)
+
+- [ ] [Library Genesis: Larry Wasserman - All of Statistics - A Concise Course in Statistical Inference](http://libgen.is/book/index.php?md5=B9E6052395BA047BD154EA45130026FC)
+
+- [ ] [Library Genesis: Larry Wasserman - All of Statistics: A Concise Course in Statistical Inference (draft) (Springer Texts in Statistics)](http://libgen.is/book/index.php?md5=D4F9DA043EDBF51C53E2346EFA097AB2)
+
+- [ ] [Library Genesis: Li, Bing - Sufficient Dimension Reduction : Methods and Applications with R](http://libgen.is/book/index.php?md5=84A7713D589D6EB7F02694C1571EC77C)
+
+- [ ] [Library Genesis: Maksim Tsvetovat, Alexander Kouznetsov - Social Network Analysis for Startups: Finding connections on the social web](http://libgen.is/book/index.php?md5=66FD10237CF39C9A57825FAB1F1A4398)
+
+- [ ] [Library Genesis: Marius Hofert, Ivan Kojadinovic, Martin Machler, Jun Yan - Elements of Copula Modeling with R](http://libgen.is/book/index.php?md5=241AE96ED2BCA1F71E2144FCB5C213C9)
+
+- [ ] [Library Genesis: Mary Kathryn Cowles - Applied Bayesian Statistics: With R and OpenBUGS Examples](http://libgen.is/book/index.php?md5=E98C4818D7F08471C883B385F99C002A)
+
+- [ ] [Library Genesis: Matej Brešar - Undergraduate Algebra: A Unified Approach](http://libgen.is/book/index.php?md5=B98FD47CBB1E3EDDB4C4714847DFBF85)
+
+- [ ] [Library Genesis: Müller, Peter; Paulino, Carlos Daniel; Turkman, Maria Antónia Amaral - Computational Bayesian statistics : an introduction](http://libgen.is/book/index.php?md5=82D4C3B27161A3FD25570FF1B0DD744E)
+
+- [ ] [Library Genesis: Nicolas Privault - Understanding Markov Chains](http://libgen.is/book/index.php?md5=8D2E8BFF00A95C1BFAEADAF1BE2945A1)
+
+- [ ] [Library Genesis: Nyberg, Svein Olav - The Bayesian way: introductory statistics for economists and engineers](http://libgen.is/book/index.php?md5=3099975A4038392B3FBEC3F638336EEF)
+
+- [ ] [Library Genesis: Osvaldo Martin - Bayesian Analysis with Python](http://libgen.is/book/index.php?md5=EAC0C18455B2DD4BC99BF58B980109A0)
+
+- [ ] [Library Genesis: Patrizia Campagnoli, Sonia Petrone, Giovanni Petris (auth.) - Dynamic Linear Models with R](http://libgen.is/book/index.php?md5=32F8695465A6AA2C74A02D314A3AB59A)
+
+- [ ] [Library Genesis: Paulo Cortez (auth.) - Modern Optimization with R](http://libgen.is/book/index.php?md5=0E0D7392D258FA356AAB395BD0F36712)
+
+- [ ] [Library Genesis: Peter K. Dunn, Gordon K. Smyth - Generalized Linear Models With Examples in R](http://libgen.is/book/index.php?md5=8BBC6F648C777B669662A4066F882AB0)
+
+- [ ] [Library Genesis: Radhakrishnan Nagarajan, Marco Scutari, Sophie Lèbre (auth.) - Bayesian Networks in R: with Applications in Systems Biology](http://libgen.is/book/index.php?md5=D360789AEAF0622AFBB905F57DD026F9)
+
+- [ ] [Library Genesis: Rao, B. L. S. Prakasa - Semimartingales and Their Statistical Inference](http://libgen.is/book/index.php?md5=552A997B836008A9FB3451F5D100245F)
+
+- [ ] [Library Genesis: René Carmona (auth.) - Statistical Analysis of Financial Data in R](http://libgen.is/book/index.php?md5=401CEB91A34533EB84ABC5E15909B72D)
+
+- [ ] [Library Genesis: Richard M. Heiberger, Erich Neuwirth (auth.) - R Through Excel: A Spreadsheet Interface for Statistics, Data Analysis, and Graphics](http://libgen.is/book/index.php?md5=44A773A33873F6980C5696A312A4F9D8)
+
+- [ ] [Library Genesis: Robert H. Shumway, David S. Stoffer (auth.) - Time Series Analysis and Its Applications: With R Examples](http://libgen.is/book/index.php?md5=18A04FDFC93A1E51F7DFB42DC935EE30)
+
+- [ ] [Library Genesis: Roger S. Bivand, Edzer Pebesma, Virgilio Gómez-Rubio (auth.) - Applied Spatial Data Analysis with R](http://libgen.is/book/index.php?md5=AE027C1EB5D0D3B72C8FAC3897CD3776)
+
+- [ ] [Library Genesis: Ronald W. Shonkwiler (auth.) - Finance with Monte Carlo](http://libgen.is/book/index.php?md5=A268E0BFFD85244A035D2FB4A5A4F174)
+
+- [ ] [Library Genesis: Saerkkae S. - Bayesian Filtering and Smoothing](http://libgen.is/book/index.php?md5=2DE3979E55774A5F6095ED5E82913D16)
+
+- [ ] [Library Genesis: Sergios Theodoridis - Machine Learning: A Bayesian and Optimization Perspective](http://libgen.is/book/index.php?md5=9DEA557D57A850215ADAC9D6D3AD2841)
+
+- [ ] [Library Genesis: Simon Sheather (auth.) - A Modern Approach to Regression with R](http://libgen.is/book/index.php?md5=F4EF32ED94250A6CE1BF05547342F6D1)
+
+- [ ] [Library Genesis: Therese M Donovan; Ruth M Mickey - Bayesian Statistics for Beginners: A Step-By-Step Approach](http://libgen.is/book/index.php?md5=BD3E2C6F2FA2BE16F92F1BFF5805A5F8)
+
+- [ ] [Library Genesis: Tze Leung Lai, Haipeng Xing (auth.) - Statistical Models and Methods for Financial Markets](http://libgen.is/book/index.php?md5=01C4EAAE1DD355BF6AE41B79ACA4A7E6)
+
+- [ ] [Library Genesis: Vilmos Komornik (auth.) - Topology, Calculus and Approximation](http://libgen.is/book/index.php?md5=ABB1F2F700B7539ECB9D47450DBBF1AB)
+
+- [ ] [Library Genesis: Will Kurt - Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, Lego, and Rubber Ducks](http://libgen.is/book/index.php?md5=1CDFE2A06727A0D9557323860D12F6C5)
+
+- [ ] [Library Genesis: Wolfgang Karl Härdle, Vladimir Spokoiny, Vladimir Panov, Weining Wang (auth.) - Basics of Modern Mathematical Statistics: Exercises and Solutions](http://libgen.is/book/index.php?md5=7366DF2F02B4F0D52264EE9B0E425C93)
+
+
+
+
+
+
+
+
+
+
+
+
+## 10/9/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Machine+Learning%3A+A+Probabilistic+Perspective&open=0&res=100&view=simple&phrase=1&column=def)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Smoothing%2C+Filtering+and+Prediction&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Richard+Szeliski&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=David+Hestenes&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Amir R. Zamir, Asaad Hakeem, Luc Van Gool, Mubarak Shah, Richard Szeliski (eds.) - Large-Scale Visual Geo-Localization](http://libgen.is/book/index.php?md5=B6CC964839917310F1829ACE85D3004D)
+
+- [ ] [Library Genesis: Andrew Ng - Machine Learning Yearning (Draft Version)](http://libgen.is/book/index.php?md5=9E8F77E479D4500E7B1F65B2BE9FCE44)
+
+- [ ] [Library Genesis: Bayro-Corrochano, Eduardo - Geometric Algebra Applications Vol. I: Computer Vision, Graphics and Neurocomputing](http://libgen.is/book/index.php?md5=13854AFAEED407CA3A63C2DEE981E16D)
+
+- [ ] [Library Genesis: Bernhard Schlkopf, Alexander J. Smola - Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond](http://libgen.is/book/index.php?md5=A27890DD98F5E1ABD9A62DE526E21547)
+
+- [ ] [Library Genesis: Brendan J. Frey - Graphical Models for Machine Learning and Digital Communication](http://libgen.is/book/index.php?md5=47CB9362A232C584692A11A7F7E71B56)
+
+- [ ] [Library Genesis: Carl Edward Rasmussen, Christopher K. I. Williams - Gaussian Processes for Machine Learning](http://libgen.is/book/index.php?md5=F108FE6B4DD2BDED36E456920C19A595)
+
+- [ ] [Library Genesis: David A. Forsyth, Jean Ponce - Computer vision: A modern approach](http://libgen.is/book/index.php?md5=11030C8AE6B3351ACE96677C84FF5440)
+
+- [ ] [Library Genesis: David A. Forsyth, Jean Ponce - Computer Vision: A Modern Approach](http://libgen.is/book/index.php?md5=9E052A7BD5EB18CA729F350B4C629A89)
+
+- [ ] [Library Genesis: David Hestenes - New Foundations for Classical Mechanics (geometric algebra)](http://libgen.is/book/index.php?md5=780479BDEA9E4AF53238809A975E0F61)
+
+- [ ] [Library Genesis: David Hestenes (auth.), Eduardo Bayro-Corrochano, Gerik Scheuermann (eds.) - Geometric Algebra Computing: in Engineering and Computer Science](http://libgen.is/book/index.php?md5=9E7DF74254EAF99C7D9C873BAD0B34DC)
+
+- [ ] [Library Genesis: David Hestenes; Anthony Lasenby (foreword) - Space-Time Algebra](http://libgen.is/book/index.php?md5=B50B8B7703A526812E753CF5352BB7DC)
+
+- [ ] [Library Genesis: Eduardo Bayro-Corrochano - Geometric Algebra Applications vol. I Computer Vision, Graphics and Neurocomputing](http://libgen.is/book/index.php?md5=BEBA412364AEB3820828372865640F6D)
+
+- [ ] [Library Genesis: Ethem Alpaydin - Introduction to machine learning](http://libgen.is/book/index.php?md5=68BB7D8062C844E3C11276546B55A751)
+
+- [ ] [Library Genesis: Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning](http://libgen.is/book/index.php?md5=43A4195F1F388EF498B38365C45E71B5)
+
+- [ ] [Library Genesis: Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning](http://libgen.is/book/index.php?md5=11874B3F9B89BAB4C7826272B2EFC032)
+
+- [ ] [Library Genesis: Jonas Peters, Dominik Janzing, Bernhard Schölkopf - Elements of Causal Inference: Foundations and Learning Algorithms](http://libgen.is/book/index.php?md5=8291D284E18F4C056363729876C9BFF9)
+
+- [ ] [Library Genesis: Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar - Foundations of Machine Learning](http://libgen.is/book/index.php?md5=7291DBE553A4CCAB4DA5C39B6C8766B7)
+
+- [ ] [Library Genesis: Mohri Mehryar, Afshin Rostamizadeh, and Ameet Talwalkar - Foundations of Machine Learning](http://libgen.is/book/index.php?md5=1495446FC912817F0CD2986905EB8389)
+
+- [ ] [Library Genesis: Peter Spirtes, Clark Glymour, Richard Scheines - Causation, Prediction, and Search, Second Edition](http://libgen.is/book/index.php?md5=2774CDC9362D987774A2597550736767)
+
+- [ ] [Library Genesis: Prof. David Hestenes (auth.), Dr. Eduardo Bayro Corrochano, Prof. Garret Sobczyk (eds.) - Geometric Algebra with Applications in Science and Engineering](http://libgen.is/book/index.php?md5=257E2286DEBDD727B9A84C493D07A7FB)
+
+- [ ] [Library Genesis: Richard S. Sutton, Andrew G. Barto - Reinforcement Learning: An Introduction](http://libgen.is/book/index.php?md5=6FE0E48B8EE6D46EAB49814D846242E7)
+
+- [ ] [Library Genesis: Richard S. Sutton, Andrew G. Barto - Reinforcement learning: an introduction](http://libgen.is/book/index.php?md5=680BEACFBC4CC36AEECC8A0ED59CA511)
+
+- [ ] [Library Genesis: Richard Szeliski - Computer Vision: Algorithms and Applications](http://libgen.is/book/index.php?md5=4780CA78A7127A1D070FFC8E413980FA)
+
+- [ ] [Library Genesis: Richard Szeliski - IMAGE ALIGNMENT AND STITCHING](http://libgen.is/book/index.php?md5=8869316CD1E062F98F45EA0AD5C236D7)
+
+- [ ] [Library Genesis: Richard Szeliski - Image Alignment and Stitching: A Tutorial](http://libgen.is/book/index.php?md5=5C92802C91F363B86F5E9B516DE46D8D)
+
+- [ ] [Library Genesis: Richard Szeliski (auth.) - Bayesian Modeling of Uncertainty in Low-Level Vision](http://libgen.is/book/index.php?md5=1DCCA630A52800902A54EEC54935AAF9)
+
+- [ ] [Library Genesis: W Thomas Miller; Richard S Sutton; Paul J Werbos; National Science Foundation (U.S.) - Neural networks for control](http://libgen.is/book/index.php?md5=C1BDC93071E7D4A01DF2935440FB14CE)
+
+- [ ] [Library Genesis: Форсайт Д., Понс Ж.(D.A.Forsyth,J.Ponce) - Компьютерное зрение: Современный подход](http://libgen.is/book/index.php?md5=214A5418645BA3A207659AABF0A33824)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

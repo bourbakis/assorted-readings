@@ -812,3 +812,68 @@ Google Search Words
 - [ ] [Variants of EM - Google Search](https://www.google.com/search?q=Variants%20of%20EM&oq=Variants%20of%20EM&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 
 - [ ] [www.google.com](https://www.google.com/search?q=Analysis+of+Deviance&oq=Analysis+of+Deviance&aqs=chrome..69i57.3496j0j1&sourceid=chrome&ie=UTF-8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 10/9/2019
+
+- [ ] [Achim Zeileis - Google Search](https://www.google.com/search?q=Achim+Zeileis&oq=Achim+Zeileis&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [box-cox transformation - Google Search](https://www.google.com/search?q=box-cox+transformation&oq=Box-Cox+Transformation&aqs=chrome.0.0l12.876j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Christian Kleiber - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4lgpw-hKFyPtHG9lg2A9PmyMdOQ:1570578944867&q=Christian+Kleiber&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2ykmKN8rIU-IBc40L05Mrso20-Jzzc3Pz84IzU1LLEyuLF7EKOmcUZRaXZCbmKXjnpGYmpRbtYGUEAHArquxGAAAA&sa=X&ved=2ahUKEwjQyebA7o3lAhWOyYsBHe5nAu4QxA0wf3oECGcQCg)
+
+- [ ] [Classification and regression trees - Google Search](https://www.google.com/search?q=Classification+and+regression+trees&oq=Classification+and+regression+trees&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Econometrics books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQAXaGISFIIBktOSfqLvNoM25q0yQ:1570539314356&q=Econometrics+books&stick=H4sIAAAAAAAAAONgFuLSz9U3SM4ySckpVEJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriVYwSaVbFpUlZqcklViCZYiuQJqOStIpFrEKuyfl5-bmpJUWZycUKYFkA4bYKH2IAAAA&sa=X&ved=2ahUKEwjOlcDv2ozlAhXDJaYKHWBVAUQQzTooADBregQIaxAC)
+
+- [ ] [expectation maximization algorithm - Google Search](https://www.google.com/search?q=expectation+maximization+algorithm&oq=expectation+maximization+&aqs=chrome.3.69i59l3j0j69i57j0l2j69i60l3j69i64l2.13934j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Frank copula - Google Search](https://www.google.com/search?q=Frank+copula&oq=Frank+copula&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8&sxsrf=ACYBGNTgDiRAaOV_QLqy6gAKBlSCGPVXlQ:1570579858124&sec_act=sr)
+
+- [ ] [Friedrich Leisch - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4lgpw-hKFyPtHG9lg2A9PmyMdOQ:1570578944867&q=Friedrich+Leisch&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2ykmKN8rIU-IGcY2MTSorzA20-Jzzc3Pz84IzU1LLEyuLF7EKuBVlpqYUZSZnKPikZhYnZ-xgZQQAq6lV1EQAAAA&sa=X&ved=2ahUKEwjQyebA7o3lAhWOyYsBHe5nAu4QxA0wf3oECGcQCA)
+
+- [ ] [Kurt Hornik - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4lgpw-hKFyPtHG9lg2A9PmyMdOQ:1570578944867&q=Kurt+Hornik&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2ykmKN8rIU-IGcY0MC8wysuK1-Jzzc3Pz84IzU1LLEyuLF7Fye5cWlSh45BflZWbvYGUEAJ5aiJI_AAAA&sa=X&ved=2ahUKEwjQyebA7o3lAhWOyYsBHe5nAu4QxA0wf3oECGcQBg)
+
+- [ ] [Machine Learning: A Probabilistic Perspective - Google Search](https://www.google.com/search?q=Machine+Learning%3A+A+Probabilistic+Perspective&oq=Machine+Learning%3A+A+Probabilistic+Perspective&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Mostly harmless econometrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQAXaGISFIIBktOSfqLvNoM25q0yQ:1570539314356&q=Mostly+harmless+econometrics&stick=H4sIAAAAAAAAAONgFuLSz9U3SM4ySckpVEJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriRawyvvnFJTmVChmJRbk5qcXFCqnJ-Xn5uaklRZnJxTtYGQEwn0iCVAAAAA&sa=X&ved=2ahUKEwjOlcDv2ozlAhXDJaYKHWBVAUQQzTooATB4egQIbxAC)
+
+- [ ] [Nicolas Bottan - Google Search](https://www.google.com/search?q=Nicolas%20Bottan&oq=Nicolas%20Bottan&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [nonparametric regression - Google Search](https://www.google.com/search?q=nonparametric%20regression&oq=nonparametric%20regression&aqs=chrome.0.0j69i57j0l9j69i60.8097j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [nonparametric regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR7gisEj1s9exz6sf-1BT9W0Vs4-w%3A1570538670929&q=nonparametric%20regression&stick=H4sIAAAAAAAAAOOQMZLNy88rSCxKzE0tKcpMVihKTS9KLS7OzM9TSMrPz46SwCV9ipFHP13fMCsn3aQ8I94SyjVKyi1It6y0QHBzsi1TcuDcAkOjqhSzU4xc-rn6BmaFBsXxplBOsmGlgUEaQl9amVl8GYJrWmGRYgDlGpaZJefmJicjZA0rs41zfjHK-uHzyyJWnJ4BAMINosMIAQAA&sa=X&ved=2ahUKEwi1vNi82IzlAhVSE6YKHWOGD5MQzTooADB3egQIaxAC&oq=nonparametric%20regression)
+
+- [ ] [nonparametric regression excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR7gisEj1s9exz6sf-1BT9W0Vs4-w%3A1570538670929&q=nonparametric%20regression%20excel&sa=X&ved=2ahUKEwi1vNi82IzlAhVSE6YKHWOGD5MQ1QIoBXoECG8QBg&oq=nonparametric%20regression%20excel)
+
+- [ ] [nonparametric regression machine learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR7gisEj1s9exz6sf-1BT9W0Vs4-w%3A1570538670929&q=nonparametric%20regression%20machine%20learning&sa=X&ved=2ahUKEwi1vNi82IzlAhVSE6YKHWOGD5MQ1QIoB3oECG8QCA&oq=nonparametric%20regression%20machine%20learning)
+
+- [ ] [nonparametric regression python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR7gisEj1s9exz6sf-1BT9W0Vs4-w%3A1570538670929&q=nonparametric%20regression%20python&sa=X&ved=2ahUKEwi1vNi82IzlAhVSE6YKHWOGD5MQ1QIoAnoECG8QAw&oq=nonparametric%20regression%20python)
+
+- [ ] [Renato Casutt - Google Search](https://www.google.com/search?q=Renato+Casutt&oq=Renato+Casutt&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Roger Koenker - Google Search](https://www.google.com/search?q=Roger+Koenker&oq=Roger+Koenker&aqs=chrome..69i57j69i60j69i61j69i60&sourceid=chrome&ie=UTF-8&sxsrf=ACYBGNRCtenuH6Dh4phGDyKwqvRMz0-0mg:1570579858221&sec_act=sr)
+
+- [ ] [Roger Koenker - Google Search](https://www.google.com/search?q=Roger%20Koenker&oq=Roger%20Koenker&aqs=chrome..69i57j69i60l2j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [rqss in r - Google Search](https://www.google.com/search?q=rqss+in+r&oq=rqss&aqs=chrome.1.69i57j0l9j69i64j69i60.15655j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Torsten Hothorn - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4lgpw-hKFyPtHG9lg2A9PmyMdOQ:1570578944867&q=Torsten+Hothorn&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2ykmKN8rIU-IGcY2MspOKU0y1-Jzzc3Pz84IzU1LLEyuLF7Hyh-QXFZek5il45Jdk5Bfl7WBlBACIqZqWQwAAAA&sa=X&ved=2ahUKEwjQyebA7o3lAhWOyYsBHe5nAu4QxA0wf3oECGcQBA)

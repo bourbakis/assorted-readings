@@ -59,3 +59,54 @@
 - [ ] [Prince Andrew, Duke of York - Wikipedia](https://en.wikipedia.org/wiki/Prince_Andrew,_Duke_of_York)
 
 - [ ] [Whiskers - Wikipedia](https://en.wikipedia.org/wiki/Whiskers)
+
+
+## 10/9/2019
+
+- [ ] [Convolution - Wikipedia](https://en.wikipedia.org/wiki/Convolution)
+
+- [ ] [Decision tree learning - Wikipedia](https://en.wikipedia.org/wiki/Decision_tree_learning)
+
+- [ ] [Degrees of freedom (statistics) - Wikipedia](https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)#Effective_degrees_of_freedom)
+
+- [ ] [Empirical Bayes method - Wikipedia](https://en.wikipedia.org/wiki/Empirical_Bayes_method)
+
+- [ ] [Information field theory - Wikipedia](https://en.wikipedia.org/wiki/Information_field_theory#Critical_filter)
+
+- [ ] [Isotonic regression - Wikipedia](https://en.wikipedia.org/wiki/Isotonic_regression)
+
+- [ ] [Kernel regression - Wikipedia](https://en.wikipedia.org/wiki/Kernel_regression)
+
+- [ ] [Kriging - Wikipedia](https://en.wikipedia.org/wiki/Kriging)
+
+- [ ] [Local regression - Wikipedia](https://en.wikipedia.org/wiki/Local_regression)
+
+- [ ] [Maximum a posteriori estimation - Wikipedia](https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation)
+
+- [ ] [Multivariate adaptive regression spline - Wikipedia](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline)
+
+- [ ] [Multivariate normal distribution - Wikipedia](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
+
+- [ ] [Nonparametric regression - Wikipedia](https://en.wikipedia.org/wiki/Nonparametric_regression)
+
+- [ ] [Nonparametric regression - Wikipedia](https://en.wikipedia.org/wiki/Nonparametric_regression)
+
+- [ ] [Nonparametric statistics - Wikipedia](https://en.wikipedia.org/wiki/Nonparametric_statistics)
+
+- [ ] [Parametric model - Wikipedia](https://en.wikipedia.org/wiki/Parametric_model)
+
+- [ ] [Quantile regression - Wikipedia](https://en.wikipedia.org/wiki/Quantile_regression)
+
+- [ ] [Quantile regression - Wikipedia](https://en.wikipedia.org/wiki/Quantile_regression)
+
+- [ ] [Regression analysis - Wikipedia](https://en.wikipedia.org/wiki/Regression_analysis)
+
+- [ ] [Roger Koenker - Wikipedia](https://en.wikipedia.org/wiki/Roger_Koenker)
+
+- [ ] [Semiparametric regression - Wikipedia](https://en.wikipedia.org/wiki/Semiparametric_regression)
+
+- [ ] [Semiparametric regression - Wikipedia](https://en.wikipedia.org/wiki/Semiparametric_regression)
+
+- [ ] [Smoothing spline - Wikipedia](https://en.wikipedia.org/wiki/Smoothing_spline)
+
+- [ ] [Wolfram Mathematica - Wikipedia](https://en.wikipedia.org/wiki/Wolfram_Mathematica)

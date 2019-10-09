@@ -100,3 +100,19 @@ https://www.vanityfair.com/news/2019/09/the-once-and-future-imran-khan?utm_mediu
 
 
 https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/
+
+
+
+
+
+
+
+
+## 10/9/2019
+
+- [ ] [Stevey's Blog Rants: Rich Programmer Food](http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html)
+
+
+> Gentle, yet insistent executive summary: If you don't know how compilers work, then you don't know how computers work. If you're not 100% sure whether you know how compilers work, then you don't know how they work.
+
+

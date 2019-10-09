@@ -854,3 +854,18 @@ https://zelda.gamepedia.com/Link
 - [ ] [Search · wox](https://github.com/search?q=wox)
 
 - [ ] [Wox-launcher/Wox.Plugin.ClipboardManager: Wox plugin for remember clipboard history](https://github.com/Wox-launcher/Wox.Plugin.ClipboardManager)
+
+
+
+
+## 10/9/2019
+
+- [ ] [coolbutuseless/minisvg: Create SVG documents with R](https://github.com/coolbutuseless/minisvg)
+
+- [ ] [ilyaraz/pytorch_kmeans: Implementation of the k-means algorithm in PyTorch that works for large datasets](https://github.com/ilyaraz/pytorch_kmeans)
+
+- [ ] [Loss functions · VowpalWabbit/vowpal_wabbit Wiki](https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Loss-functions)
+
+- [ ] [MathematicaForPrediction/QuantileRegression.m at master · antononcube/MathematicaForPrediction](https://github.com/antononcube/MathematicaForPrediction/blob/master/QuantileRegression.m)
+
+- [ ] [talwagner/quadsketch: Implementation of QuadSketch algorithm](https://github.com/talwagner/quadsketch)
