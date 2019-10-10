@@ -877,3 +877,42 @@ Google Search Words
 - [ ] [rqss in r - Google Search](https://www.google.com/search?q=rqss+in+r&oq=rqss&aqs=chrome.1.69i57j0l9j69i64j69i60.15655j0j1&sourceid=chrome&ie=UTF-8)
 
 - [ ] [Torsten Hothorn - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4lgpw-hKFyPtHG9lg2A9PmyMdOQ:1570578944867&q=Torsten+Hothorn&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2ykmKN8rIU-IGcY2MspOKU0y1-Jzzc3Pz84IzU1LLEyuLF7Hyh-QXFZek5il45Jdk5Bfl7WBlBACIqZqWQwAAAA&sa=X&ved=2ahUKEwjQyebA7o3lAhWOyYsBHe5nAu4QxA0wf3oECGcQBA)
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+em algorithm in r missing data - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQRGjulM7-gvJVY26izkzcMZUFN_Q%3A1570677323972&lei=S6KeXaziOqyAtgWVtKjQCA&q=em%20algorithm%20in%20r%20missing%20data&ved=2ahUKEwjvpKeC3ZDlAhUHKK0KHVaXAOUQsKwBKAB6BAgAEAE
+
+em algorithm implementation python - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQRGjulM7-gvJVY26izkzcMZUFN_Q%3A1570677323972&lei=S6KeXaziOqyAtgWVtKjQCA&q=em%20algorithm%20implementation%20python&ved=2ahUKEwjvpKeC3ZDlAhUHKK0KHVaXAOUQsKwBKAN6BAgAEAQ
+
+emcluster in r - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQRGjulM7-gvJVY26izkzcMZUFN_Q%3A1570677323972&lei=S6KeXaziOqyAtgWVtKjQCA&q=emcluster%20in%20r&ved=2ahUKEwjvpKeC3ZDlAhUHKK0KHVaXAOUQsKwBKAR6BAgAEAU
+
+expectation maximization linear regression - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQRGjulM7-gvJVY26izkzcMZUFN_Q%3A1570677323972&lei=S6KeXaziOqyAtgWVtKjQCA&q=expectation%20maximization%20linear%20regression&ved=2ahUKEwjvpKeC3ZDlAhUHKK0KHVaXAOUQsKwBKAV6BAgAEAY
+
+r estimation maximization - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQRGjulM7-gvJVY26izkzcMZUFN_Q%3A1570677323972&lei=S6KeXaziOqyAtgWVtKjQCA&q=r%20estimation%20maximization&ved=2ahUKEwjvpKeC3ZDlAhUHKK0KHVaXAOUQsKwBKAJ6BAgAEAM
+
+OneTab Pro
+moz-extension://29228057-7a2a-7846-877c-9e2271fa1a35/index.html
+

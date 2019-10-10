@@ -831,3 +831,157 @@ https://libgen.is/book/index.php?md5=DAE40A7022E247FE9DE8013E1EB29175
 Library Genesis: Khesin, Boris A.; Tabachnikov, Serge L (eds.) - Arnold: Swimming Against the Tide
 https://libgen.is/book/index.php?md5=785FA69F2F2947410E0208435C607F04
 
+
+
+
+
+
+
+
+
+
+
+
+# math books
+
+Library Genesis
+https://libgen.is/search.php?req=gelfand&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+
+Library Genesis
+https://libgen.is/search.php?&req=visual+complex+analysis&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+https://libgen.is/search.php?req=%E6%9D%B1%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%95%99%E5%AE%A4%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88&open=0&res=25&view=simple&phrase=1&column=series
+
+Library Genesis
+https://libgen.is/search.php?req=%E6%9D%B1%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%95%99%E5%AE%A4&open=0&res=25&view=simple&phrase=1&column=def
+
+Library Genesis
+https://libgen.is/search.php?req=%E5%B2%A9%E5%A0%80%E9%95%B7%E6%85%B6&column=author
+
+Library Genesis: 岩堀長慶 - 初学者のための合同変換群の話 : 幾何学の形での群論演習
+https://libgen.is/book/index.php?md5=EEDDE669FE1D15E470F1B815D8AC46C5
+
+Library Genesis: 岩堀長慶 - 2次行列の世界
+https://libgen.is/book/index.php?md5=F39B0D7053B750860600E57D4625577E
+
+Library Genesis
+https://libgen.is/search.php?req=%E6%95%B0%E5%AD%A6%E9%81%B8%E6%9B%B8&open=0&res=25&view=simple&phrase=1&column=series
+
+Library Genesis: 小平邦彦(述)，堀川穎ニ(記) - 複素多様体と複素構造の変形II
+https://libgen.is/book/index.php?md5=AF552A1A7C467FFE09795AD4F421AFC8
+
+Library Genesis
+https://libgen.is/search.php?req=Adrian%20Banner&column[]=author
+
+Library Genesis: 小平邦彦 - 微积分入门Ⅰ：一元微积分
+https://libgen.is/book/index.php?md5=4D87913B2AE2ABCF809E85539ED9C163
+
+Library Genesis: 小平邦彦 - 微积分入门Ⅱ：多元微积分
+https://libgen.is/book/index.php?md5=A8A59C3A65ADE9CC4A275D0B25038ECF
+
+Library Genesis
+https://libgen.is/search.php?&req=Classics+in+Mathematics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC
+
+Library Genesis
+https://libgen.is/search.php?&req=L.S.+Pontryagin&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis
+https://libgen.is/search.php?&req=Classics+of+Soviet+mathematics&phrase=0&view=simple&column=series&sort=year&sortmode=DESC
+
+Library Genesis
+https://libgen.is/search.php?&req=John+searle&phrase=1&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis: Øyvind Ryan - Linear Algebra, Signal Processing, and Wavelets - A Unified Approach: MATLAB Version
+https://libgen.is/book/index.php?md5=62D7AD79DEA4D29D5DC59652061BA616
+
+Library Genesis: Alajaji, Fady; Chen, Po-Ning - An introduction to single-user information theory
+https://libgen.is/book/index.php?md5=EE866EAC78F896C3757743BDA3B8910B
+
+Library Genesis: Asmar, Nakhlé H., Grafakos, Loukas - Complex Analysis with Applications
+https://libgen.is/book/index.php?md5=49CFB26FA866A3E204B76A318561E318
+
+Library Genesis: Arlie O. Petters, Xiaoying Dong - An Introduction to Mathematical Finance with Applications: Understanding and Building Financial Intuition
+https://libgen.is/book/index.php?md5=F0A1579E8DE09AFA3932CB0673E1CD77
+
+Library Genesis: Arlie O. Petters, Harold Levine, Joachim Wambsganss (auth.) - Singularity Theory and Gravitational Lensing
+https://libgen.is/book/index.php?md5=90416AFB4628549FFB5BC5DA4E3D0D23
+
+Library Genesis: Ching Shan Chou, Avner Friedman (auth.) - Introduction to Mathematical Biology: Modeling, Analysis, and Simulations
+https://libgen.is/book/index.php?md5=C04E502C13334B163B996FFBD1FC3CF1
+
+Library Genesis: Ronald W. Shonkwiler (auth.) - Finance with Monte Carlo
+https://libgen.is/book/index.php?md5=A268E0BFFD85244A035D2FB4A5A4F174
+
+Library Genesis: Alexander Shen - Algorithms and Programming: Problems and Solutions
+https://libgen.is/book/index.php?md5=BD1AE27D3EF3D32109210423AE64F11C
+
+Library Genesis: Christiane Rousseau, Yvan Saint-Aubin (auth.) - Mathématiques et Technologie
+https://libgen.is/book/index.php?md5=9A68AE93C785148BD4B14E6A09F1E11B
+
+Library Genesis: Christiane Rousseau, Yvan Saint-Aubin, Hélène Antaya, Isabelle Ascah-Coallier - Mathématiques et Technologie (Springer, 2008)(ISBN 0387692126)(O)(586s)
+https://libgen.is/book/index.php?md5=2617E9F46031A8F38D600D52ADC2A916
+
+Library Genesis: Mario Lefebvre (auth.) - Basic Probability Theory with Applications
+https://libgen.is/book/index.php?md5=F3B9314CA31E0289D5FCD6EEDA01308A
+
+Library Genesis: Steven V. Sam, Walter Rudin - Solutions to real and complex analysis
+https://libgen.is/book/index.php?md5=9CCAEEBB58FCCEFFCA9A45AFD35E5FD9
+
+Library Genesis: I M Gel'fand (or Gelfand), M I Graev, N Ya Vilenkin, Eugene Saletan - Generalized Functions - Vol 5: Integral Geometry and Representation theory
+https://libgen.is/book/index.php?md5=6A9B2F6505EDB8DA4C50841CB02804EB
+
+Library Genesis
+https://libgen.is/search.php?&req=I+M+Gel%27fand&phrase=1&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis
+https://libgen.is/search.php?req=+M+I+Graev&column=author
+
+Library Genesis
+https://libgen.is/search.php?req=+N+Ya+Vilenkin&column=author
+
+Library Genesis
+https://libgen.is/search.php?req=Dover+Books+on+Mathematics&column=series
+
+Library Genesis
+https://libgen.is/search.php?req=De+Gruyter+Studies+in+Mathematics&column=series
+
+Library Genesis: Yuri I. Manin, Dimitry Leites - Introduction to the Theory of Schemes
+https://libgen.is/book/index.php?md5=451E0683895FB55B60E324C2979FADBC
+
+Library Genesis: Kazaryan, Maxim E.; Lando, Sergei K.; Prasolov, Viktor Vasilʹevich - Algebraic Curves: Towards Moduli Spaces
+https://libgen.is/book/index.php?md5=E80D9AE453F814BF0034C7DE0264362C
+
+Library Genesis
+https://libgen.is/search.php?req=+Prasolov%2C+Viktor+Vasil%CA%B9evich&column=author
+
+Library Genesis
+https://libgen.is/search.php?req=+Lando%2C+Sergei+K.&column=author
+
+Library Genesis: Manin, Yuri I - Introduction to the theory of schemes
+https://libgen.is/book/index.php?md5=D8FC28C3AB7A909C961E4433B5C4E04B
+
+Library Genesis
+https://libgen.is/search.php?req=Kazaryan%2C+Maxim+E.&column=author
+
+Library Genesis
+https://libgen.is/search.php?req=+Dimitry+Leites&column=author
+
+Library Genesis: John L. Casti; 中村和幸(訳) - 複雑系による科学革命 (Would-Be Worlds)
+https://libgen.is/book/index.php?md5=B596DE8F9E739EFBC12E812412C1D2BF
+
+Library Genesis: 橋爪 大三郎 - はじめての構造主義 (講談社現代新書)
+https://libgen.is/book/index.php?md5=F4AFBD53AEC91A27DA346989E76CD7CA
+
+Library Genesis: 川勝義雄 - 魏晋南北朝
+https://libgen.is/book/index.php?md5=F780381E4AFA4C304AA70BAEED9733E5
+
+Library Genesis
+https://libgen.is/search.php?req=Meister+Eckhart&column=author
+
+Library Genesis
+https://libgen.is/search.php?req=%E5%B7%9D%E5%8B%9D%E7%BE%A9%E9%9B%84&column=author
+
+Library Genesis
+https://libgen.is/search.php?&req=John+L.+Casti&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+

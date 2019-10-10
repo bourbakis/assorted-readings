@@ -1051,3 +1051,31 @@ https://www.macstories.net/stories/beyond-the-tablet/8/#the-problems-with-shortc
 - [ ] [The Death of Truth: Notes on Falsehood in the Age of Trump: Michiko Kakutani: 9780525574828: Amazon.com: Books](https://www.amazon.com/Death-Truth-Notes-Falsehood-Trump/dp/0525574824)
 
 - [ ] [The Mass Line on a Massive Famine | The China Story](https://www.thechinastory.org/2014/10/the-mass-line-on-a-massive-famine/)
+
+
+
+
+
+
+
+
+
+
+On Box-Cox transform in regression models | R-bloggers
+https://www.r-bloggers.com/on-box-cox-transform-in-regression-models/
+
+arthur charpentier | R-bloggers
+https://www.r-bloggers.com/author/arthur-charpentier/
+
+On Box-Cox transform in regression models | R-bloggers
+https://www.r-bloggers.com/on-box-cox-transform-in-regression-models/
+
+data transformation - Extracting lambda value with highest log-likelihood from boxcox output - Cross Validated
+https://stats.stackexchange.com/questions/46305/extracting-lambda-value-with-highest-log-likelihood-from-boxcox-output
+
+Georges Malbrunot（@Malbrunot）さん / Twitter
+https://twitter.com/Malbrunot
+
+Matthieu Suc（@MatthieuSuc）さん / Twitter
+https://twitter.com/MatthieuSuc
+

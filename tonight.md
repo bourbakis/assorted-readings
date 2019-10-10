@@ -590,3 +590,73 @@ https://link.springer.com/article/10.1007/s10701-017-0132-1
 (50) Sean Carroll: Universe a 'tiny sliver' of all there is - YouTube
 https://www.youtube.com/watch?v=zsXCwUsuvKo
 
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+Data Science for Actuaries
+http://freakonometrics.free.fr/DSA2017/DSAslides.html
+
+freakonometrics/TopIncomes
+https://github.com/freakonometrics/TopIncomes
+
+gocarlos/object_discovery: ROS package used to segment objects from a table top scene.
+https://github.com/gocarlos/object_discovery
+
+On my way to Madison, Wisconsin | Freakonometrics
+https://freakonometrics.hypotheses.org/58346
+
+Library Genesis
+https://libgen.is/search.php?req=Math%C3%A9matiques+de+l%27assurance+non-vie&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+
+Library Genesis
+https://libgen.is/search.php?req=Arthur+Charpentier&column=author
+
+Library Genesis
+https://libgen.is/search.php?&req=+Michel+Denuit&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis
+https://libgen.is/search.php?req=John+searle&open=0&res=25&view=simple&phrase=1&column=author
+
+Library Genesis
+https://libgen.is/search.php?req=Antipode+book&column=series
+
+Library Genesis: Fortin, Sebastian; Holik, Federico; Lombardi, Olimpia; López, Cristian - Quantum worlds : perspectives on the ontology of quantum mechanics
+https://libgen.is/book/index.php?md5=F61F0A60B286826A86F42488117417AB
+
+Library Genesis
+https://libgen.is/search.php?&req=Ernest+Davis&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis
+https://libgen.is/search.php?&req=Social+Ontology&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Combining automatically factor levels with trees | Freakonometrics
+https://freakonometrics.hypotheses.org/58446
+
+Freakonometrics | An Open Lab-Notebook Experiment
+https://freakonometrics.hypotheses.org/
+
+Freakonometrics | An Open Lab-Notebook Experiment
+https://freakonometrics.hypotheses.org/
+
+Error | Astrill VPN
+http://www2.baidu.com/
+

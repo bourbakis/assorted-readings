@@ -43,3 +43,55 @@
 # 9/17/19
 
 https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python
+
+
+
+
+
+
+---
+
+
+
+# EM algorithm
+
+
+Intro to Expectation-Maximization, K-Means, Gaussian Mixture Models with Python, Sklearn — BLACKARBS LLC
+http://www.blackarbs.com/blog/intro-to-expectation-maximization-k-means-gaussian-mixture-models-with-python-sklearn/3/20/2017
+
+Intro to Expectation-Maximization, K-Means, Gaussian Mixture Models with Python, Sklearn — BLACKARBS LLC
+http://www.blackarbs.com/blog/intro-to-expectation-maximization-k-means-gaussian-mixture-models-with-python-sklearn/3/20/2017
+
+Expectation Maximization | Zhiya Zuo
+https://zhiyzuo.github.io/EM/
+
+Expectation-Maximization
+http://www.di.fc.ul.pt/~jpn/r/EM/EM.html
+
+Error | Astrill VPN
+http://www2.baidu.com/
+
+Library Genesis
+https://libgen.is/search.php?&req=david+weinberger&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+David Weinberger - Wikipedia
+https://en.wikipedia.org/wiki/David_Weinberger
+
+The Cluetrain Manifesto - Wikipedia
+https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto
+
+TTK - the Topology ToolKit - Topological Data Analysis and Visualization
+https://topology-tool-kit.github.io/
+
+graph - How do I visualize social networks with Python - Stack Overflow
+https://stackoverflow.com/questions/7991138/how-do-i-visualize-social-networks-with-python
+
+Network Visualization and Modeling
+https://www.grotto-networking.com/NetworkGraphVisualization.html
+
+2.1. Gaussian mixture models — scikit-learn 0.21.3 documentation
+https://scikit-learn.org/stable/modules/mixture.html
+
+Machine Learning with Python: Expectation Maximization and Gaussian Mixture Models in Python
+https://www.python-course.eu/expectation_maximization_and_gaussian_mixture_models.php
+
