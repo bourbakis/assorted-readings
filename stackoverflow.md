@@ -63,3 +63,17 @@
 - [ ] [User Niyamat Ullah - Stack Overflow](https://stackoverflow.com/users/5138134/niyamat-ullah)
 
 - [ ] [User Xavier Bourret Sicotte - Stack Overflow](https://stackoverflow.com/users/2051856/xavier-bourret-sicotte)
+
+
+
+## 10/9/2019
+
+- [ ] [How to suppress warnings globally in an R Script - Stack Overflow](https://stackoverflow.com/questions/16194212/how-to-suppress-warnings-globally-in-an-r-script)
+
+- [ ] [How to suppress warnings globally in an R Script - Stack Overflow](https://stackoverflow.com/questions/16194212/how-to-suppress-warnings-globally-in-an-r-script/32719422#32719422)
+
+- [ ] [r - Figures captions and labels in knitr - Stack Overflow](https://stackoverflow.com/questions/31926623/figures-captions-and-labels-in-knitr)
+
+- [ ] [r - Reset the graphical parameters back to default values without use of dev.off() - Stack Overflow](https://stackoverflow.com/questions/9292563/reset-the-graphical-parameters-back-to-default-values-without-use-of-dev-off)
+
+- [ ] [Using optim() or optimize() functions in R - Stack Overflow](https://stackoverflow.com/questions/48896182/using-optim-or-optimize-functions-in-r)

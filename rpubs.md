@@ -83,3 +83,51 @@ https://rpubs.com/H_Zhu/246450
 RStudio Cloud
 https://rstudio.cloud/project/501114
 
+
+
+
+
+
+## 10/9/2019
+
+- [ ] [RPubs - Optimize logistic regression using Newton&#x27;s method](https://rpubs.com/fhlgood/ntlr)
+
+- [ ] [Types of Optimization Algorithms used in Neural Networks and Ways to Optimize Gradient Descent](https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
+
+- [ ] [Chapter 5 Performance | Advanced R Course](https://privefl.github.io/advr38book/performance.html)
+
+- [ ] [(21) How do I optimize an R script so that it takes less time to be executed than before? - Quora](https://www.quora.com/How-do-I-optimize-an-R-script-so-that-it-takes-less-time-to-be-executed-than-before)
+
+- [ ] [Solving Case study : Optimize the Products Price for an Online Vendor (Level : Hard)](https://www.analyticsvidhya.com/blog/2016/07/solving-case-study-optimize-products-price-online-vendor-level-hard/)
+
+- [ ] [R-exercises – Optimize Data Exploration With Sapply() – Exercises](https://www.r-exercises.com/2016/10/14/optimize-data-exploration-with-sapply-exercises/)
+
+- [ ] [Programming ECC - Optimizing The Tate Pairing](https://crypto.stanford.edu/pbc/notes/ep/optimize.html)
+
+- [ ] [optim.pdf](http://www.math.leidenuniv.nl/~avdvaart/ASC/optim.pdf)
+
+- [ ] [Index of /yftp/optimize](http://sims.princeton.edu/yftp/optimize/)
+
+- [ ] [Portfolio optimization in R using a Genetic Algorithm](https://medium.com/the-trading-scientist/portfolio-optimization-in-r-using-a-genetic-algorithm-8726ec985b6f)
+
+- [ ] [1D optimization in R | R-bloggers](https://www.r-bloggers.com/1d-optimization-in-r/)
+
+- [ ] [R Programming/Optimization - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/R_Programming/Optimization)
+
+- [ ] [Optimization in R](https://www.is.uni-freiburg.de/resources/computational-economics/5_OptimizationR.pdf)
+
+- [ ] [Using Optim() and Optimize() functions in R - RStudio Community](https://community.rstudio.com/t/using-optim-and-optimize-functions-in-r/5398/2)
+
+- [ ] [All Chart | the R Graph Gallery](https://www.r-graph-gallery.com/all-graphs.html)
+
+- [ ] [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/rrelationship.html)
+
+- [ ] [Quick-R: Combining Plots](https://www.statmethods.net/advgraphs/layout.html)
+
+- [ ] [quantreg/arqss.R at master · cran/quantreg](https://github.com/cran/quantreg/blob/master/demo/arqss.R)
+
+- [ ] [points2.png (689×689)](https://www.statmethods.net/advgraphs/images/points2.png)
+
+- [ ] [Figure Caption in R markdown - R Markdown - RStudio Community](https://community.rstudio.com/t/figure-caption-in-r-markdown/6951/2)
+
+- [ ] [Add titles to a plot in R software - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/add-titles-to-a-plot-in-r-software)

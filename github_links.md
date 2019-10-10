@@ -869,3 +869,21 @@ https://zelda.gamepedia.com/Link
 - [ ] [MathematicaForPrediction/QuantileRegression.m at master · antononcube/MathematicaForPrediction](https://github.com/antononcube/MathematicaForPrediction/blob/master/QuantileRegression.m)
 
 - [ ] [talwagner/quadsketch: Implementation of QuadSketch algorithm](https://github.com/talwagner/quadsketch)
+
+
+
+
+
+## 10/9/2019
+
+- [ ] [blme/optimize.R at master · cran/blme](https://github.com/cran/blme/blob/master/R/optimize.R)
+
+- [ ] [jpneto/jengaCGT: Source code for the Jenga CGT paper](https://github.com/jpneto/jengaCGT)
+
+- [ ] [jpneto/Markdowns: RStudio Markdowns about R, Math, Stats, and ML](https://github.com/jpneto/Markdowns)
+
+- [ ] [jpneto/Prog.II: IPython files for Programação II](https://github.com/jpneto/Prog.II)
+
+- [ ] [jpneto/ScoringGames: Scoring Games Calculator](https://github.com/jpneto/ScoringGames)
+
+- [ ] [suppress the warning message on the R console screen? · Issue #90 · rstudio/blogdown](https://github.com/rstudio/blogdown/issues/90)

@@ -138,3 +138,18 @@ https://twitter.com/j_bertolotti
 theHigherGeometer（@HigherGeometer）さん / Twitter
 https://twitter.com/HigherGeometer
 
+
+
+
+
+## 10/9/2019
+
+- [ ] [👻📈 𝙻𝚎𝚗 𝙺𝚒𝚎𝚏𝚎𝚛 😱📊 (@lenkiefer) / Twitter](https://twitter.com/lenkiefer)
+
+- [ ] [eagereyes.org feed (@eagereyes_feed) / Twitter](https://twitter.com/eagereyes_feed)
+
+- [ ] [Home / Twitter](https://twitter.com/home)
+
+- [ ] [Marc Deisenroth 🏳️‍🌈 on Twitter: "Finished a first draft of my slides for tomorrow's workshop. Looking forward to fun discussions in Munich! https://t.co/TTEfiObXqn" / Twitter](https://twitter.com/mpd37/status/1181858208526274560)
+
+- [ ] [Ted Gioia (@tedgioia) / Twitter](https://twitter.com/tedgioia)
