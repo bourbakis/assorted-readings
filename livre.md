@@ -988,3 +988,81 @@ https://libgen.is/search.php?&req=John+L.+Casti&phrase=0&view=simple&column=auth
 
 
 - [ ] [Library Genesis](https://libgen.is/search.php?&req=Jason+Brownlee&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+
+
+Library Genesis
+https://libgen.is/search.php?&req=Minxin+Pei&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis: Edward N. Luttwak - Coup d’État: A Practical Handbook
+https://libgen.is/book/index.php?md5=5E48F2C1E9E7B0F050263377EFFFEA9A
+
+Library Genesis
+https://libgen.is/search.php?&req=Edward+N.+Luttwak&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis: Thomas Piketty, Arthur Goldhammer (trans.) - The Economics of Inequality
+https://libgen.is/book/index.php?md5=BF4C7AF8CAEB88BB7031E9F8720B8192
+
+Library Genesis: Kara W Swanson - Banking on the Body: The Market in Blood, Milk, and Sperm in Modern America
+https://libgen.is/book/index.php?md5=C63BCDF7CE1F551470CAB16996CDA1CE
+
+Library Genesis: Marc Lavielle; Kevin Bleakley - Mixed Effects Models for the Population Approach: Models, Tasks, Methods and Tools
+https://libgen.is/book/index.php?md5=9375DA8399D650B4C31C027A31204301
+
+Library Genesis: William Deringer - Calculated Values: Finance, Politics, and the Quantitative Age
+https://libgen.is/book/index.php?md5=7A7B3101D13D91E3033D85D58663AEC8
+
+Library Genesis: Alexander Stern - The Fall of Language: Benjamin and Wittgenstein on Meaning
+https://libgen.is/book/index.php?md5=9F2C3E82D5B935FD0CE880AE3A84E716
+
+Library Genesis: Umberto Cherubini, Fabio Gobbi, Sabrina Mulinacci (auth.) - Convolution Copula Econometrics
+https://libgen.is/book/index.php?md5=761CF333880092BBA5C88C3BFBD0881E
+
+Library Genesis: Norman Matloff - Statistical Regression and Classification: From Linear Models to Machine Learning
+https://libgen.is/book/index.php?md5=461C17A1D7E407DE70D867B01E9F2316
+
+Library Genesis: Norman Matloff - The Art of R Programming: A Tour of Statistical Software Design
+https://libgen.is/book/index.php?md5=60034BA8303FFF38AC9C2CB08F8E4901
+
+Library Genesis: Norman Matloff - The Art of R Programming: A Tour of Statistical Software Design
+https://libgen.is/book/index.php?md5=F00BEE9D02D8FF5DDAAA2EBB6E7ACEE0
+
+Problem loading page
+https://libgen.is/book/index.php?md5=3F26F39C9E85C4C5E21D8F5D66D81CC6
+
+Library Genesis: Thomas A Severini - Introduction to Statistical Methods for Financial Models
+https://libgen.is/book/index.php?md5=1422C9BA95F239BF84F805326CDC4B17
+
+Library Genesis: Simon N. Wood - Generalized Additive Models: An Introduction with R
+https://libgen.is/book/index.php?md5=F99B7D4BCC47D03775394E9C7CF73876
+
+Library Genesis: Erik Lindström, Henrik Madsen, Jan Nygaard Nielsen - Statistics for Finance
+https://libgen.is/book/index.php?md5=0CA4ED396212E85F0636710FD09F0B0D
+
+Library Genesis: Randal Douc, Eric Moulines, David Stoffer - Nonlinear Time Series: Theory, Methods and Applications with R Examples
+https://libgen.is/book/index.php?md5=5ECA24A580E6D91112879E7B15FD8216
+
+Library Genesis: Friendly, Michael; Meyer, David - Discrete Data Analysis with R : Visualization and Modeling Techniques for Categorical and Count Data.
+https://libgen.is/book/index.php?md5=E73EC740C3FAC5F058F76D8F10708EB4
+
+Library Genesis: Richard McElreath - Statistical Rethinking: A Bayesian Course with Examples in R and Stan
+https://libgen.is/book/index.php?md5=9BAC68D1409CFF87869308D509D855A2
+
+Library Genesis: Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin - Bayesian Data Analysis
+https://libgen.is/book/index.php?md5=2E9D2DF246CB144C7224D1E6DB53466F
+
+Library Genesis: Julian J Faraway - Linear Models with R
+https://libgen.is/book/index.php?md5=7D6F570A708FE0769AE37964635A898A
+
+Library Genesis: Baclawski, Kenneth - Introduction to Probability with R
+https://libgen.is/book/index.php?md5=A5C42B24D479ED9C2D118A5594740756
+
+Library Genesis: Bradley P. Carlin, Thomas A. Louis, Bradley Carlin - Bayes and Empirical Bayes Methods for Data Analysis
+https://libgen.is/book/index.php?md5=10CF1F19139AB72F8AA715C73B978ADA
+
+Library Genesis: Daniel Zelterman - Applied Multivariate Statistics with R
+https://libgen.is/book/index.php?md5=07FDAB595E923B577C5B3D841783280F
+
+Library Genesis: Alain F. Zuur, Elena N. Ieno, Neil Walker, Anatoly A. Saveliev, Graham M. Smith (auth.) - Mixed Effects Models and Extensions in Ecology with R
+https://libgen.is/book/index.php?md5=39A1D98940A8A5895461159C662F7838
+
