@@ -660,3 +660,55 @@ https://freakonometrics.hypotheses.org/
 Error | Astrill VPN
 http://www2.baidu.com/
 
+
+
+
+Visual Complex Functions: An Introduction with Phase Portraits 2012, Elias Wegert - Amazon.com
+https://www.amazon.com/Visual-Complex-Functions-Elias-Wegert-ebook/dp/B00DGEQP2Y/ref=rtpb_1/144-9433979-7495225?_encoding=UTF8&pd_rd_i=B00DGEQP2Y&pd_rd_r=ec1c1553-d7ba-44c0-a785-1b2162d8f109&pd_rd_w=T7qLV&pd_rd_wg=dpqHC&pf_rd_p=5da730bb-0163-4dd7-b781-c970ec169872&pf_rd_r=MH2395PWA098FDTQKEFW&psc=1&refRID=MH2395PWA098FDTQKEFW
+
+Visual Complex Functions - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Visual+Complex+Functions
+
+Visual Complex Functions
+http://www.visual.wegert.com/
+
+[1709.05870] ZhuSuan: A Library for Bayesian Deep Learning
+https://arxiv.org/abs/1709.05870
+
+[1710.09829] Dynamic Routing Between Capsules
+https://arxiv.org/abs/1710.09829
+
+maximum a posteriori - Google Search
+https://www.google.com/search?client=firefox-b-d&q=maximum+a+posteriori
+
+Jonny Brooks-Bartlett medium - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Jonny+Brooks-Bartlett+medium
+
+Jonny Brooks-Bartlett - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Jonny+Brooks-Bartlett
+
+A Gentle Introduction to Bayes Theorem for Machine Learning
+https://machinelearningmastery.com/bayes-theorem-for-machine-learning/
+
+What is a Hypothesis in Machine Learning?
+https://machinelearningmastery.com/what-is-a-hypothesis-in-machine-learning/
+
+Machine Learning (McGraw-Hill International Editions Computer Science Series): Tom M. Mitchell: 9780071154673: Amazon.com: Books
+https://www.amazon.com/Learning-McGraw-Hill-International-Editions-Computer/dp/0071154671/ref=as_li_ss_tl?keywords=machine+learning&qid=1563151324&s=books&sr=1-44&linkCode=sl1&tag=inspiredalgor-20&linkId=5488f209b18fb6b8ad8ce7f72d1c3ac5&language=en_US
+
+how to use pytho to assisit topology manifold learning - Google Search
+https://www.google.com/search?client=firefox-b-d&q=how+to+use+pytho+to+assisit+topology+manifold+learning
+
+Machine Learning Summer School 2019 - Moscow, Russia
+https://mlss2019.skoltech.ru/
+
+
+
+
+
+
+
+- [ ] [STT5100/STT5100-A2019-devoir1.md at master · freakonometrics/STT5100](https://github.com/freakonometrics/STT5100/blob/master/devoirs/STT5100-A2019-devoir1.md)
+
+
+- [ ] [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)

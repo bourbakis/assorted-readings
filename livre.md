@@ -985,3 +985,6 @@ https://libgen.is/search.php?req=%E5%B7%9D%E5%8B%9D%E7%BE%A9%E9%9B%84&column=aut
 Library Genesis
 https://libgen.is/search.php?&req=John+L.+Casti&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
 
+
+
+- [ ] [Library Genesis](https://libgen.is/search.php?&req=Jason+Brownlee&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
