@@ -153,3 +153,86 @@ https://twitter.com/HigherGeometer
 - [ ] [Marc Deisenroth 🏳️‍🌈 on Twitter: "Finished a first draft of my slides for tomorrow's workshop. Looking forward to fun discussions in Munich! https://t.co/TTEfiObXqn" / Twitter](https://twitter.com/mpd37/status/1181858208526274560)
 
 - [ ] [Ted Gioia (@tedgioia) / Twitter](https://twitter.com/tedgioia)
+
+
+
+
+
+
+
+
+
+## 10/11/2019
+
+- [ ] [Casey Liss（@caseyliss）さん / Twitter](https://twitter.com/caseyliss)
+
+- [ ] [Chris Kraut Kendall 🇪🇺 on Twitter: "In my day job I'm negotiating an agreement between the EU and another country. With my Brexit Twitter hat on, let me share some details on the steps involved in getting to that agreement, and why it's unwise (read mad) to expect it to be done quickly: 1/" / Twitter](https://twitter.com/ottocrat/status/1182232085114826752)
+
+- [ ] [Jason Furman on Twitter: "It is not clear why you should just look at the tax system without looking at what it funds. eg, is Social Security a regressive 12.4% tax or a progressive overall system that reduces poverty and inequality? This chart shows the combination of taxes and means-tested transfers. https://t.co/UAG1aBn9iP" / Twitter](https://twitter.com/jasonfurman/status/1181276491595694080)
+
+- [ ] [Marco Arment (@marcoarment) / Twitter](https://twitter.com/marcoarment)
+
+- [ ] [Martin Stabe（@martinstabe）さん / Twitter](https://twitter.com/martinstabe)
+
+- [ ] [Stephen Hackett (@ismh) / Twitter](https://twitter.com/ismh)
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 10/11/2019
+
+- [ ] [Can Olcer (@canolcer) / Twitter](https://twitter.com/canolcer)
+
+- [ ] [Explore / Twitter](https://twitter.com/explore)
+
+- [ ] [Geoffrey Miller (@primalpoly) / Twitter](https://twitter.com/primalpoly)
+
+- [ ] [James Thomson (@jamesthomson) / Twitter](https://twitter.com/jamesthomson)
+
+- [ ] [Jason Snell (@jsnell) / Twitter](https://twitter.com/jsnell)
+
+- [ ] [Jim Pickard (@PickardJE) / Twitter](https://twitter.com/PickardJE)
+
+- [ ] [Jim Pickard (@PickardJE) / Twitter](https://twitter.com/PickardJE)
+
+- [ ] [John Burn-Murdoch (@jburnmurdoch) / Twitter](https://twitter.com/jburnmurdoch)
+
+- [ ] [Maarten Lambrechts (@maartenzam) / Twitter](https://twitter.com/maartenzam)
+
+- [ ] [The Pudding (@puddingviz) / Twitter](https://twitter.com/puddingviz)

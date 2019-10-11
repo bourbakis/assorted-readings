@@ -2286,3 +2286,194 @@ https://www.ted.com/talks/paul_collier_shares_4_ways_to_help_the_bottom_billion
 Paul Collier: New rules for rebuilding a broken nation | TED Talk
 https://www.ted.com/talks/paul_collier_s_new_rules_for_rebuilding_a_broken_nation
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 10/11/2019
+
+- [ ] [The Talk Show ✪: Ep. 265, With Special Guest Ben Thompson](https://daringfireball.net/thetalkshow/2019/10/08/ep-265)
+
+- [ ] [Expectation-Maximization](http://www.di.fc.ul.pt/~jpn/r/EM/EM.html)
+
+- [ ] [Expectation-Maximization](http://www.di.fc.ul.pt/~jpn/r/EM/EM.html)
+
+- [ ] [Bishop’s PRML, Chapter 9](http://www.di.fc.ul.pt/~jpn/r/PRML/chapter9.html#em-for-gaussian-mixtures-section-9.2.2)
+
+- [ ] [Machine Learning Video Library - Learning From Data (Abu-Mostafa)](http://work.caltech.edu/library/)
+
+- [ ] [Data Mining Algorithms In R/Clustering/Expectation Maximization (EM) - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Clustering/Expectation_Maximization_(EM))
+
+- [ ] [Bayesian motion estimation and interpolation in interlaced video sequences. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/18282970)
+
+- [ ] [Expectation-Maximization](http://www.di.fc.ul.pt/~jpn/r/EM/EM.html)
+
+- [ ] [Category:Book:Data Mining Algorithms In R - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Category:Book:Data_Mining_Algorithms_In_R)
+
+- [ ] [Data Mining Algorithms In R - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R)
+
+- [ ] [Data Mining Algorithms In R/Dimensionality Reduction/Principal Component Analysis - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Dimensionality_Reduction/Principal_Component_Analysis)
+
+- [ ] [Data Mining Algorithms In R/Frequent Pattern Mining - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Frequent_Pattern_Mining)
+
+- [ ] [RDataMining.com: R and Data Mining](http://www.rdatamining.com/)
+
+- [ ] [The Talk Show ✪: Ep. 265, With Special Guest Ben Thompson](https://daringfireball.net/thetalkshow/2019/10/08/ep-265)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=oDvzbBRiNlA&list=PLKortajF2dPBWMIS6KF4RLtQiG6KQrTdB)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=UhSStR-FpQc)
+
+- [ ] [LIDA-IG Newsletter 2018 January - LIDA-IG-newsletter-January2018.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://higherlogicdownload.s3.amazonaws.com/AMSTAT/a8c53bb5-2075-48c8-baae-f2c3ab55357b/UploadedImages/LIDA-IG-newsletter-January2018.pdf)
+
+- [ ] [Christian P. Robert (basics)](https://www.ceremade.dauphine.fr/~xian/basics.html)
+
+- [ ] [Christian P. Robert (sites)](https://www.ceremade.dauphine.fr/~xian/sites.html)
+
+- [ ] [1166_Direct Calculation of the Variance of Maximum.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://165.246.161.110/bitstream/10505/52518/1/1166_Direct%20Calculation%20of%20the%20Variance%20of%20Maximum.pdf)
+
+- [ ] [Kuo: Apple to release 'iPhone SE 2' in Q1 2020 with iPhone 8 design, A13 processor - 9to5Mac](https://9to5mac.com/2019/10/03/kuo-iphone-se-2/)
+
+- [ ] [[1908.10828] Deep neural network approximations for Monte Carlo algorithms](https://arxiv.org/abs/1908.10828)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/math?searchtype=author&query=Grohs%2C+P)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/math?searchtype=author&query=Jentzen%2C+A)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/math?searchtype=author&query=Salimova%2C+D)
+
+- [ ] [Accidental Tech Podcast](https://atp.fm/)
+
+- [ ] [Apple's Tim Cook Defends Decision to Remove Hong Kong Maps App - Bloomberg](https://www.bloomberg.com/news/articles/2019-10-10/cook-defends-decision-to-remove-hong-kong-maps-app-in-memo)
+
+- [ ] [Business Insider](https://www.businessinsider.com/microsoft-iphone-funeral-2010-9)
+
+- [ ] [https://www.coursehero.com/file/p2rfe5/49-95-D-Oakes-Direct-calculation-of-the-information-matrix-via-the-EM-Journal/](https://www.coursehero.com/file/p2rfe5/49-95-D-Oakes-Direct-calculation-of-the-information-matrix-via-the-EM-Journal/)
+
+- [ ] [Daring Fireball](https://daringfireball.net/)
+
+- [ ] [Daring Fireball: Apple and Hong Kong](https://daringfireball.net/2019/10/apple_hong_kong_map)
+
+- [ ] [Gaussian Mixture Clustering Using Relative Tests of Fit | DeepAI](https://deepai.org/publication/gaussian-mixture-clustering-using-relative-tests-of-fit)
+
+- [ ] [Expectation Maximizatio (EM) Algorithm — Computational Statistics in Python 0.1 documentation](https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html)
+
+- [ ] [Detectron2: A PyTorch-based modular object detection library](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
+
+- [ ] [(37) Facebook](https://www.facebook.com/)
+
+- [ ] [Feals](https://feals.com/?utm_source=talkshow&utm_campaign=flight-1&utm_content=50-offer&utm_medium=podcast)
+
+- [ ] [Inside The NBA's Push To Make Basketball The World's Most Popular Sport](https://www.forbes.com/sites/shlomosprung/2019/03/04/nba-china-ceo-derek-chang-takes-us-inside-nbas-push-to-make-basketball-worlds-most-popular-sport/#3773045251b0)
+
+- [ ] [“A Monte Carlo Implementation of the EM Algorithm and the Poor Man’s Data Augmentation Algorithms - Google Search](https://www.google.com/search?q=%E2%80%9CA+Monte+Carlo+Implementation+of+the+EM+Algorithm+and+the+Poor+Man%E2%80%99s+Data+Augmentation+Algorithms&oq=%E2%80%9CA+Monte+Carlo+Implementation+of+the+EM+Algorithm+and+the+Poor+Man%E2%80%99s+Data+Augmentation+Algorithms&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Dan Crenshaw - Google Search](https://www.google.com/search?q=Dan+Crenshaw&oq=Dan+Crenshaw&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Direct Calculation of the Information Matrix via the EM - Google Search](https://www.google.com/search?q=Direct+Calculation+of+the+Information+Matrix+via+the+EM&oq=Direct+Calculation+of+the+Information+Matrix+via+the+EM&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Goliath: The Hundred Year War Between Monopoly Power and Democracy - Google Search](https://www.google.com/search?q=Goliath%3A+The+Hundred+Year+War+Between+Monopoly+Power+and+Democracy&oq=Goliath%3A+The+Hundred+Year+War+Between+Monopoly+Power+and+Democracy&aqs=chrome..69i57j69i58&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Implementations of the Monte Carlo EM Algorith - Google Search](https://www.google.com/search?q=Implementations+of+the+Monte+Carlo+EM+Algorith&oq=Implementations+of+the+Monte+Carlo+EM+Algorith&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Kaffae](https://app.kaffae.com/)
+
+- [ ] [Learn by example Expectation Maximization | Kaggle](https://www.kaggle.com/charel/learn-by-example-expectation-maximization/notebook)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Ted+Gioia&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Report: Apple will replace Retina MacBook Pro screens with bad coating | Macworld](https://www.macworld.com/article/2994479/report-apple-will-replace-retina-macbook-pro-screens-with-bad-coating.html)
+
+- [ ] [About – Marco.org](https://marco.org/about)
+
+- [ ] [Microsoft’s Sculpt Ergonomic Keyboard – Marco.org](https://marco.org/2013/08/30/sculpt-ergonomic-keyboard-review)
+
+- [ ] [Microsoft’s Sculpt Ergonomic Keyboard – Marco.org](https://marco.org/2013/08/30/sculpt-ergonomic-keyboard-review)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/project/501114)
+
+- [ ] [Direct calculation of the information matrix via the EM - Semantic Scholar](https://www.semanticscholar.org/paper/Direct-calculation-of-the-information-matrix-via-EM-Oakes/be9ad43439374ae44797813cf3ed0ed041a362a8)
+
+- [ ] [MergeWindows · Introduction](https://singleclickapps.com/merge-windows/postinstall-chrome.html)
+
+- [ ] [Build a Website – Website Builder – Squarespace](https://www.squarespace.com/?channel=podcast&subchannel=neatfm&source=gruber)
+
+- [ ] [The China Cultural Clash – Stratechery by Ben Thompson](https://stratechery.com/2019/the-china-cultural-clash/)
+
+- [ ] [BIG by Matt Stoller](https://mattstoller.substack.com/)
+
+- [ ] [The Coming Boeing Bailout?](https://mattstoller.substack.com/p/the-coming-boeing-bailout)
+
+- [ ] [Ted Gioia](http://tedgioia.com/)
+
+- [ ] [Ted Gioia bio](http://tedgioia.com/TedGioiaBio.html)
+
+- [ ] [Microsoft Surface event: Surface Duo Phone, Pro 7, Pro X, Laptop 3, Earbuds, Neo - The Verge](https://www.theverge.com/2019/10/2/20885196/microsoft-surface-event-news-products-announcements-updates-highlights-windows-10)
+
+- [ ] [ABC News Politics on Twitter: "President Trump criticizes Steve Kerr and Gregg Popovich — both vocal critics of Trump — when asked about China putting pressure on the NBA: "They talk badly about the United States, but when it talks about China, they don't want to say anything bad" https://t.co/rR2dKOelYD https://t.co/am9hMQcGG3" / Twitter](https://mobile.twitter.com/abcpolitics/status/1182033884080267264?s=21)
+
+- [ ] [Bishop’s PRML, Chapter 9](http://www.di.fc.ul.pt/~jpn/r/PRML/chapter9.html#em-for-gaussian-mixtures-section-9.2.2)
+
+- [ ] [Expectation-Maximization](http://www.di.fc.ul.pt/~jpn/r/EM/EM.html)
+
+- [ ] [Mixture Models](http://sia.webpopix.org/mixtureModels.html#the-em-algorithm)
+
+- [ ] [File:Basic bic.pdf - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Basic_bic.pdf)
+
+- [ ] [Maximum likelihood estimation - Wikipedia](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+
+- [ ] [Microsoft Courier - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Courier)
+
+- [ ] [Mixture model - Wikipedia](https://en.wikipedia.org/wiki/Mixture_model)
+
+- [ ] [Direct calculation of the information matrix via the EM - Oakes - 1999 - Journal of the Royal Statistical Society: Series B (Statistical Methodology) - Wiley Online Library](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/1467-9868.00188)
+
+- [ ] [Direct calculation of the information matrix via the EM - Oakes - 1999 - Journal of the Royal Statistical Society: Series B (Statistical Methodology) - Wiley Online Library](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/1467-9868.00188)
+
+- [ ] [alternatives to EM | Xi'an's Og](https://xianblog.wordpress.com/2019/01/30/38089/)
+
+- [ ] [YES PLZ WEEKLY](https://www.yesplz.coffee/)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=NpMk9G-ddiM)

@@ -27,3 +27,7 @@
 # Statstical Modelling 
 
 https://statmodeling.stat.columbia.edu/
+
+## 10/11/2019
+
+- [ ] [alternatives to EM | Xi'an's Og](https://xianblog.wordpress.com/2019/01/30/38089/)

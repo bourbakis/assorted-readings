@@ -1079,3 +1079,28 @@ https://twitter.com/Malbrunot
 Matthieu Suc（@MatthieuSuc）さん / Twitter
 https://twitter.com/MatthieuSuc
 
+
+
+
+
+## 10/11/2019
+
+- [ ] [Boeing rejected 737 MAX safety upgrades before fatal crashes, whistleblower says | The Seattle Times](https://www.seattletimes.com/business/boeing-aerospace/boeing-whistleblowers-complaint-says-737-max-safety-upgrades-were-rejected-over-cost/)
+
+- [ ] [Olga Tokarczuk’s Gripping Eco-Mystery | The New Republic](https://newrepublic.com/article/155257/olga-tokarczuk-nobel-prize-novel-drive-plow-bones-dead?utm_content=buffer46c96&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+- [ ] [Mexico mayor tied to car and dragged along by angry locals - BBC News](https://www.bbc.com/news/world-latin-america-49984987)
+
+- [ ] [Why is subway accessibility so expensive? | CSNY](https://www.cityandstateny.com/articles/policy/technology/why-is-subway-accessibility-so-expensive.html)
+
+- [ ] [#7 Tyler Cowen (GMU) on less homework, Swiss science culture, and low university completion rates - Kosmos School](https://kosmosschool.com/podcast/ep7-tyler-cowen/)
+
+- [ ] [Kosmos School - Science Simulations in VR](https://kosmosschool.com/)
+
+- [ ] [Turkey’s Endgame in Syria](https://www.foreignaffairs.com/articles/turkey/2019-10-09/turkeys-endgame-syria)
+
+- [ ] [Netanyahu offers ‘gallant Kurds’ humanitarian aid - Israel News - Jerusalem Post](https://www.jpost.com/Israel-News/As-US-leaves-Syria-Netanyahu-reiterates-Israel-can-rely-only-on-itself-604175)
+
+- [ ] [Overwatch Mei Is Becoming a Hong Kong Protest Symbol - Slashdot](https://games.slashdot.org/story/19/10/10/0437234/overwatch-mei-is-becoming-a-hong-kong-protest-symbol)
+
+- [ ] [Cambridge Analytica Whistleblower: US Heading In 'Same Direction As China' With Online Privacy - Slashdot](https://yro.slashdot.org/story/19/10/10/0449229/cambridge-analytica-whistleblower-us-heading-in-same-direction-as-china-with-online-privacy)
