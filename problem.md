@@ -64,8 +64,6 @@
 
 - [ ] [Simulating Supply and Demand - YouTube](https://www.youtube.com/watch?v=PNtKXWNKGN8)
 
-- [ ] [YouTube](https://www.youtube.com/)
-
 - [ ] [YouTube](https://www.youtube.com/watch?v=NfqrCdAjiks)
 
 - [ ] [YouTube](https://www.youtube.com/watch?v=0jW74lrpeM0)
