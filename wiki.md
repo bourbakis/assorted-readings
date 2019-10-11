@@ -174,3 +174,40 @@ https://en.wikipedia.org/wiki/Xavier_Sala-i-Martin
 Professor Sir Paul Collier: Why social science should integrate culture and how to do it - YouTube
 https://www.youtube.com/watch?v=M0t4uq-gpUA
 
+
+
+---
+
+
+
+## 10/12/2019
+
+- [ ] [Alan Krueger - Wikipedia](https://en.wikipedia.org/wiki/Alan_Krueger)
+
+- [ ] [BBVA Foundation Frontiers of Knowledge Awards - Wikipedia](https://en.wikipedia.org/wiki/BBVA_Foundation_Frontiers_of_Knowledge_Awards)
+
+- [ ] [Christoph M. Schmidt - Wikipedia](https://en.wikipedia.org/wiki/Christoph_M._Schmidt)
+
+- [ ] [Difference in differences - Wikipedia](https://en.wikipedia.org/wiki/Difference_in_differences)
+
+- [ ] [Frisch Medal - Wikipedia](https://en.wikipedia.org/wiki/Frisch_Medal)
+
+- [ ] [Jesse Rothstein - Wikipedia](https://en.wikipedia.org/wiki/Jesse_Rothstein)
+
+- [ ] [John Bates Clark Medal - Wikipedia](https://en.wikipedia.org/wiki/John_Bates_Clark_Medal)
+
+- [ ] [Labour economics - Wikipedia](https://en.wikipedia.org/wiki/Labour_economics)
+
+- [ ] [Michael Greenstone - Wikipedia](https://en.wikipedia.org/wiki/Michael_Greenstone)
+
+- [ ] [Minimum wage - Wikipedia](https://en.wikipedia.org/wiki/Minimum_wage)
+
+- [ ] [Philip Oreopoulos - Wikipedia](https://en.wikipedia.org/wiki/Philip_Oreopoulos)
+
+- [ ] [Phillip Levine - Wikipedia](https://en.wikipedia.org/wiki/Phillip_Levine)
+
+- [ ] [Richard Blundell - Wikipedia](https://en.wikipedia.org/wiki/Richard_Blundell)
+
+- [ ] [Richard T. Ely - Wikipedia](https://en.wikipedia.org/wiki/Richard_T._Ely)
+
+- [ ] [Thomas Lemieux - Wikipedia](https://en.wikipedia.org/wiki/Thomas_Lemieux)
