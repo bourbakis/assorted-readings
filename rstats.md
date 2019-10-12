@@ -116,3 +116,20 @@ https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html#gaussian-mixture-models
 Expectation Maximizatio (EM) Algorithm — Computational Statistics in Python 0.1 documentation
 https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html#maximum-likelihood-with-complete-information
 
+
+
+
+---
+
+
+
+
+
+
+## 10/12/2019
+
+- [ ] [em.pdf](http://statweb.stanford.edu/~tibs/stat315a/LECTURES/em.pdf)
+
+- [ ] [RPubs - EM Algorithm Implementation](https://rpubs.com/H_Zhu/246450)
+
+- [ ] [turboEM.pdf](https://cran.r-project.org/web/packages/turboEM/vignettes/turboEM.pdf)
