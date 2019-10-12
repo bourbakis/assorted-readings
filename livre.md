@@ -1066,3 +1066,7 @@ https://libgen.is/book/index.php?md5=07FDAB595E923B577C5B3D841783280F
 Library Genesis: Alain F. Zuur, Elena N. Ieno, Neil Walker, Anatoly A. Saveliev, Graham M. Smith (auth.) - Mixed Effects Models and Extensions in Ecology with R
 https://libgen.is/book/index.php?md5=39A1D98940A8A5895461159C662F7838
 
+
+
+
+- [ ] [The Feynman Lectures on Physics Website](http://www.feynmanlectures.caltech.edu/info/)

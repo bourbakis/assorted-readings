@@ -158,6 +158,29 @@ http://people.seas.harvard.edu/~samurphy/
 Bayesian UCB - Google Search
 https://www.google.com/search?client=firefox-b-d&q=Bayesian+UCB
 
+tatistical Reinforcement Learning - Google Search
+https://www.google.com/search?client=firefox-b-d&q=statistical+Reinforcement+Learning
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=82&cad=rja&uact=8&ved=2ahUKEwibgNWKopPlAhWPV30KHaRODcUQFjBRegQIKxAC&url=https%3A%2F%2Fwww.cis.upenn.edu%2F~mkearns%2Fpapers%2FcobotRL.pdf&usg=AOvVaw3LzggOXm-123SSLX89VGph
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=82&cad=rja&uact=8&ved=2ahUKEwibgNWKopPlAhWPV30KHaRODcUQFjBRegQIKxAC&url=https%3A%2F%2Fwww.cis.upenn.edu%2F~mkearns%2Fpapers%2FcobotRL.pdf&usg=AOvVaw3LzggOXm-123SSLX89VGph
+
+Neural Networks and Statistical Learning - Ke-Lin Du - Google Books
+https://books.google.com/books?id=IUmvDwAAQBAJ&pg=PA504&lpg=PA504&dq=statistical+Reinforcement+Learning&source=bl&ots=oDdrb-dEs4&sig=ACfU3U0pR43e56tURlghWVXREsVqz2oszA&hl=en&sa=X&ved=2ahUKEwibgNWKopPlAhWPV30KHaRODcUQ6AEwUnoECHEQAQ#v=onepage&q=statistical%20Reinforcement%20Learning&f=false
+
+CS 598 Statistical Reinforcement Learning
+https://nanjiang.cs.illinois.edu/cs598/
+
+Statistical Reinforcement Learning: Modern Machine Learning Approaches - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQxEwD5gzr3Iqk8BsKzOAuYP31scA:1570764588669&q=Statistical+Reinforcement+Learning:+Modern+Machine+Learning+Approaches&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKy8qwLKpUQuFpiWUnW-kn5edngwmr4syU1PLEyuJFrG7BJYklmcUlmcmJOQpBqZl5aflFyam5qXklCj6piUV5mXnpVgq--SmpRXkKvonJGZl5qXAJBceCgqJ8oGBq8Q5WRgD3pbanggAAAA&sa=X&ved=2ahUKEwibgNWKopPlAhWPV30KHaRODcUQzTooATB6egQIbxAC
+
+Susan Murphy's home page
+http://people.seas.harvard.edu/~samurphy/
+
+Bayesian UCB - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Bayesian+UCB
+
+Bayesian UCB - Exploration | Coursera
+https://www.coursera.org/lecture/practical-rl/bayesian-ucb-WGn8a
 
 
 
@@ -199,4 +222,21 @@ https://libgen.is/search.php?req=+Erica+E.M.+Moodie&open=0&res=25&view=simple&ph
 
 Library Genesis
 https://libgen.is/search.php?&req=Masashi+Sugiyama&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+
+
+Off-Policy Evaluation python - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNRimGVh1yxuDL76Eu9xTKECj9IKbw%3A1570757135955&ei=D9qfXfX2OdK-3LUP5tOiyAE&q=Off-Policy+Evaluation+python&oq=Off-Policy+Evaluation+python&gs_l=psy-ab.3..33i160.3379.5108..5521...0.2..0.568.2266.2-1j0j2j2......0....1..gws-wiz.......0i71j0j0i22i30.qKReWR8prqw&ved=0ahUKEwi1uveohpPlAhVSH7cAHeapCBkQ4dUDCAo&uact=5
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=82&cad=rja&uact=8&ved=2ahUKEwjpweuzhpPlAhVq7HMBHQR1CsAQFjBRegQIGBAB&url=https%3A%2F%2Fstudywolf.wordpress.com%2F2013%2F07%2F01%2Freinforcement-learning-sarsa-vs-q-learning%2F&usg=AOvVaw2gHjSFYWaQ9hn8dx_ubdD0
+about:blank
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=83&cad=rja&uact=8&ved=2ahUKEwjpweuzhpPlAhVq7HMBHQR1CsAQFjBSegQIIxAB&url=https%3A%2F%2Fdevhub.io%2Frepos%2Fsjchoi86-reinforcement-learning&usg=AOvVaw1nVQ8k1WofeW15E-8dGZdw
+about:blank
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=86&cad=rja&uact=8&ved=2ahUKEwjpweuzhpPlAhVq7HMBHQR1CsAQFjBVegQIEBAB&url=http%3A%2F%2Fblog.yhat.com%2Fposts%2Fthe-beer-bandit.html&usg=AOvVaw2xlTLO5ANo4bFKril7h1HF
+about:blank
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=87&cad=rja&uact=8&ved=2ahUKEwjpweuzhpPlAhVq7HMBHQR1CsAQFjBWegQIGhAB&url=https%3A%2F%2Findoml.com%2F2018%2F02%2F14%2Fstudy-notes-reinforcement-learning-an-introduction%2F&usg=AOvVaw2PLevpfmk1DUjjV-cfu7IU
+about:blank
 
