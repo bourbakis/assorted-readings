@@ -916,3 +916,29 @@ https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQRGjulM
 OneTab Pro
 moz-extension://29228057-7a2a-7846-877c-9e2271fa1a35/index.html
 
+
+
+
+
+
+
+---
+## 10/12/2019
+
+- [ ] [David Card - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGcROrn7GRskINJQQeHRBrBBKtcA:1570836481327&q=David+Card&stick=H4sIAAAAAAAAAONgFuLUz9U3MDcqjjdSQjC1pLKTrfQLUvMLclKBVFFxfp5VcWZKanliZfEiVi6XxLLMFAXnxKKUHayMAN56IgpEAAAA&sa=X&ved=2ahUKEwjs1ODzrZXlAhVXTxUIHeHJB6sQzTooATCBAXoECGsQAg)
+
+- [ ] [david card books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGcROrn7GRskINJQQeHRBrBBKtcA:1570836481327&q=david+card+books&stick=H4sIAAAAAAAAAONgFuLUz9U3MDcqjjdSQjC1pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWsAimJZZkpCsmJRSkKYPEdrIwAWHflj0oAAAA&sa=X&ved=2ahUKEwjs1ODzrZXlAhVXTxUIHeHJB6sQzTooATB_egQIZxAC)
+
+- [ ] [em clustering r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTI4HaJkfLb4WymWstq3YNowR6PSA%3A1570838293861&lei=FRehXdicNM-DhbIPq8KKUA&q=em%20clustering%20r&ved=2ahUKEwj8jqHatJXlAhVi8OAKHV3VA6EQsKwBKAJ6BAgFEAM)
+
+- [ ] [gmm python code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTI4HaJkfLb4WymWstq3YNowR6PSA%3A1570838293861&lei=FRehXdicNM-DhbIPq8KKUA&q=gmm%20python%20code&ved=2ahUKEwj8jqHatJXlAhVi8OAKHV3VA6EQsKwBKAN6BAgFEAQ)
+
+- [ ] [r estimation maximization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTI4HaJkfLb4WymWstq3YNowR6PSA%3A1570838293861&lei=FRehXdicNM-DhbIPq8KKUA&q=r%20estimation%20maximization&ved=2ahUKEwj8jqHatJXlAhVi8OAKHV3VA6EQsKwBKAB6BAgFEAE)
+
+- [ ] [Use the SQUAREM package to accelerate the EM algorithm of the finite mixture regression - Google Search](https://www.google.com/search?q=Use+the+SQUAREM+package+to+accelerate+the+EM+algorithm+of+the+finite+mixture+regression&oq=Use+the+SQUAREM+package+to+accelerate+the+EM+algorithm+of+the+finite+mixture+regression&aqs=chrome..69i57j69i59j69i64.873j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [using mixture models for clustering - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTI4HaJkfLb4WymWstq3YNowR6PSA%3A1570838293861&lei=FRehXdicNM-DhbIPq8KKUA&q=using%20mixture%20models%20for%20clustering&ved=2ahUKEwj8jqHatJXlAhVi8OAKHV3VA6EQsKwBKAF6BAgFEAI)
+a
+
+
+> it's about the rstats and EM implement mostly
