@@ -82,3 +82,42 @@ https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ri
 A Comparison of Shrinkage and Selection Methods for Linear Regression
 https://towardsdatascience.com/a-comparison-of-shrinkage-and-selection-methods-for-linear-regression-ee4dd3a71f16
 
+---
+
+
+alternative mcmc strategies: Topics by Science.gov
+https://www.science.gov/topicpages/a/alternative+mcmc+strategies
+
+epv=2.5 mcmc r python - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSk1f6000YulmU3m_OHFtsmiTQgyA:1570857774355&q=epv%3D2.5+mcmc+r+python&tbm=isch&source=univ&client=firefox-b-d&sa=X&ved=2ahUKEwjy9Yed_ZXlAhW8w4sBHS23AlAQsAR6BAgMEAE#imgrc=31I8Z_ax81Ln1M:
+
+July 2018 – Extragalactic
+https://extragalactic.blog/2018/07/
+
+Joint Models for Longitudinal and Survival Data | R-bloggers
+https://www.r-bloggers.com/joint-models-for-longitudinal-and-survival-data/
+
+monte carlo simulation r gibbs sampling - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNRoWWiXnxAmAGHDjpsOj35QvY2qxQ%3A1570857930925&ei=ymOhXa2KON2Ur7wPnumCmAM&q=monte+carlo+simulation+r+gibbs+sampling&oq=monte+carlo+simulation+r+gibbs+sampling&gs_l=psy-ab.3..33i22i29i30.134073.141213..141949...0.0..0.584.11462.3-11j9j7......0....1..gws-wiz.......35i39j0i20i263j0j0i10j33i299j33i160j33i10.yI9XKhA4-Lk&ved=0ahUKEwitl9zn_ZXlAhVdyosBHZ60ADMQ4dUDCAo&uact=5
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&cad=rja&uact=8&ved=2ahUKEwjF9pmy_pXlAhXZw4sBHRpdDf8QFjAPegQIABAC&url=http%3A%2F%2Fnitro.biosci.arizona.edu%2Fcourses%2FEEB596%2Fhandouts%2FGibbs.pdf&usg=AOvVaw1ibCGzmsH8jbr4iwtPG-g6
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&cad=rja&uact=8&ved=2ahUKEwjF9pmy_pXlAhXZw4sBHRpdDf8QFjAPegQIABAC&url=http%3A%2F%2Fnitro.biosci.arizona.edu%2Fcourses%2FEEB596%2Fhandouts%2FGibbs.pdf&usg=AOvVaw1ibCGzmsH8jbr4iwtPG-g6
+
+Markov Chain Monte Carlo - Nice R Code
+https://nicercode.github.io/guides/mcmc/
+
+CASt R: An application of Markov chain Monte Carlo
+http://personal.psu.edu/muh10/MCMCtut/MCMC.html
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&cad=rja&uact=8&ved=2ahUKEwjF9pmy_pXlAhXZw4sBHRpdDf8QFjAYegQIPBAC&url=https%3A%2F%2Fwarwick.ac.uk%2Ffac%2Fsci%2Fstatistics%2Fstaff%2Facademic-research%2Fjohansen%2Fteaching%2Fmcm-2007.pdf&usg=AOvVaw1GYkiIASKX1HdiDfGEvl7H
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&cad=rja&uact=8&ved=2ahUKEwjF9pmy_pXlAhXZw4sBHRpdDf8QFjAYegQIPBAC&url=https%3A%2F%2Fwarwick.ac.uk%2Ffac%2Fsci%2Fstatistics%2Fstaff%2Facademic-research%2Fjohansen%2Fteaching%2Fmcm-2007.pdf&usg=AOvVaw1GYkiIASKX1HdiDfGEvl7H
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=29&cad=rja&uact=8&ved=2ahUKEwjF9pmy_pXlAhXZw4sBHRpdDf8QFjAcegQIERAC&url=https%3A%2F%2Fwww.biostat.washington.edu%2Fsites%2Fdefault%2Ffiles%2Fmodules%2F%2F2016_SISMID_MOD7.pdf&usg=AOvVaw228PWC7EuPhs2H6zOS_O5-
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=29&cad=rja&uact=8&ved=2ahUKEwjF9pmy_pXlAhXZw4sBHRpdDf8QFjAcegQIERAC&url=https%3A%2F%2Fwww.biostat.washington.edu%2Fsites%2Fdefault%2Ffiles%2Fmodules%2F%2F2016_SISMID_MOD7.pdf&usg=AOvVaw228PWC7EuPhs2H6zOS_O5-
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=30&cad=rja&uact=8&ved=2ahUKEwjF9pmy_pXlAhXZw4sBHRpdDf8QFjAdegQIPRAC&url=https%3A%2F%2Fwww.cs.ubc.ca%2F~arnaud%2Fandrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf&usg=AOvVaw0ATqf7jLtSqyMTvrRiQXoZ
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=30&cad=rja&uact=8&ved=2ahUKEwjF9pmy_pXlAhXZw4sBHRpdDf8QFjAdegQIPRAC&url=https%3A%2F%2Fwww.cs.ubc.ca%2F~arnaud%2Fandrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf&usg=AOvVaw0ATqf7jLtSqyMTvrRiQXoZ
+
+Accelerating MCMC algorithms
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6108397/
+

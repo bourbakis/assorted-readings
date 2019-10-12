@@ -1070,3 +1070,42 @@ https://libgen.is/book/index.php?md5=39A1D98940A8A5895461159C662F7838
 
 
 - [ ] [The Feynman Lectures on Physics Website](http://www.feynmanlectures.caltech.edu/info/)
+
+
+
+
+---
+
+R for Statistical Learning
+https://daviddalpiaz.github.io/r4sl/shrinkage-methods.html
+
+Library Genesis: Martin Ford - Architects of Intelligence: The truth about AI from the people building it
+http://libgen.is/book/index.php?md5=1DEFC744B89645FE520BB32405E5B5D7
+
+Library Genesis
+http://libgen.is/search.php?req=Martin%20Ford&column[]=author
+
+Library Genesis: Gary F. Marcus; Ernest Davis - Rebooting AI: Building Artificial Intelligence We Can Trust
+http://libgen.is/book/index.php?md5=5693DB4A78896A2A590581B831B5C4D3
+
+Library Genesis
+http://libgen.is/search.php?&req=+Ernest+Davis&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?req=+Philip+J.+Davis&open=0&res=25&view=simple&phrase=1&column=author
+
+Library Genesis
+http://libgen.is/search.php?&req=Gary+F.+Marcus&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?req=Learning%2C+Development%2C+and+Conceptual+Change&column=series
+
+Subscribe to read | Financial Times
+https://www.ft.com/content/883c3bc0-eb45-11e9-a240-3b065ef5fc55
+
+Cutting down a tree in California - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/cutting-down-a-tree-in-california.html
+
+Royal Society of Biology photographer of the year: the shortlist | Environment | The Guardian
+https://www.theguardian.com/environment/gallery/2019/oct/08/royal-society-of-biology-photographer-of-the-year-the-shortlist#img-9
+
