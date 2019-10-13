@@ -712,3 +712,29 @@ https://mlss2019.skoltech.ru/
 
 
 - [ ] [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+
+
+
+
+
+
+---
+
+
+10/12/2019
+
+solve function | R Documentation
+https://www.rdocumentation.org/packages/base/versions/3.6.1/topics/solve
+
+how to plot multiple regression tree - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNR_wie8KT4M-8uOoEm_3OuwJ71KKg%3A1570871128866&ei=WJehXc-_NI340gTfsbCAAg&q=how+to+plot+multiple+regression+tree&oq=how+to+plot+multiple+regression+tree&gs_l=psy-ab.3..33i160l2.114675.119477..120204...0.5..0.604.5478.2-2j6j5j1......0....1..gws-wiz.......0i71.ozp6LkzYxvI&ved=0ahUKEwjPy_78rpblAhUNvJQKHd8YDCAQ4dUDCAo&uact=5
+
+multiple regression tree plot - Google Search
+https://www.google.com/search?client=firefox-b-d&q=multiple+regression+tree+plot
+
+Regression Trees · UC Business Analytics R Programming Guide
+http://uc-r.github.io/regression_trees
+
+Quick-R: Tree-Based Models
+https://www.statmethods.net/advstats/cart.html
+
