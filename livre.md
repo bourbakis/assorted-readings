@@ -1066,3 +1066,23 @@ https://libgen.is/book/index.php?md5=07FDAB595E923B577C5B3D841783280F
 Library Genesis: Alain F. Zuur, Elena N. Ieno, Neil Walker, Anatoly A. Saveliev, Graham M. Smith (auth.) - Mixed Effects Models and Extensions in Ecology with R
 https://libgen.is/book/index.php?md5=39A1D98940A8A5895461159C662F7838
 
+
+
+
+
+
+## 10/13/2019
+
+- [ ] [Library Genesis: Jess Benhabib; Matthew O Jackson; Alberto Bisin - Handbook of social economics. / Volume 1A](http://libgen.is/book/index.php?md5=3FAB2ABEF86997E2D944AFFF839AAEF9)
+
+- [ ] [Library Genesis: Matthew O. Jackson, Andrew McLennan - Foundations in Microeconomic Theory: A Volume in Honor of Hugo F. Sonnenschein](http://libgen.is/book/index.php?md5=901A0AE4DE0CD39785D333550C666DFD)
+
+- [ ] [Library Genesis: Matthew O. Jackson - Social and Economic Networks](http://libgen.is/book/index.php?md5=072025CD8771C6276E951D900BD665FA)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Studies+in+Economic+Design&column=series)
+
+- [ ] [Library Genesis: Bhaskar Dutta, Matthew O. Jackson (auth.), Professor Bhaskar Dutta, Professor Matthew O. Jackson (eds.) - Networks and Groups: Models of Strategic Formation](http://libgen.is/book/index.php?md5=FEF5FAFBB38ECA8E5AC8D25B41656EDE)
+
+- [ ] [Library Genesis: Matthew O. Jackson - The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors](http://libgen.is/book/index.php?md5=C1A4A38843FFB18D11058B2668A671B2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4D00C0E1E8865B59CCC0D8AEDD708BB1)
