@@ -52,3 +52,30 @@
 - [ ] [Python for Beginners | Channel 9](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
 
 - [ ] [Susan Ibach | Niners | Channel 9](https://channel9.msdn.com/Niners/HockeyGeekGirl)
+
+
+
+
+# Data Science
+
+## 10/13/2019
+
+- [ ] [Capstone | UCSD DSE MAS](https://mas-dse.github.io/capstone/)
+
+- [ ] [Class Plan | UCSD DSE MAS](https://mas-dse.github.io/DSE210/class_plan/)
+
+- [ ] [Class Plan | UCSD DSE MAS](https://mas-dse.github.io/DSE241/2018/final/#finalproposal)
+
+- [ ] [Class Plan | UCSD DSE MAS](https://mas-dse.github.io/DSE241/2018/final/#finalsolution)
+
+- [ ] [Home | UCSD DSE MAS](https://mas-dse.github.io/DSE210/)
+
+- [ ] [Home | UCSD DSE MAS](https://mas-dse.github.io/DSE250/)
+
+- [ ] [iPython Notebooks | UCSD DSE MAS](https://mas-dse.github.io/DSE200/notebooks/)
+
+- [ ] [Lecture Materials | UCSD DSE MAS](https://mas-dse.github.io/DSE210/notes/)
+
+- [ ] [Resources | UCSD DSE MAS](https://mas-dse.github.io/DSE241/2018/resources/)
+
+- [ ] [Resources | UCSD DSE MAS](https://mas-dse.github.io/DSE210/resources/)

@@ -2477,3 +2477,673 @@ https://www.ted.com/talks/paul_collier_s_new_rules_for_rebuilding_a_broken_natio
 - [ ] [YES PLZ WEEKLY](https://www.yesplz.coffee/)
 
 - [ ] [YouTube](https://www.youtube.com/watch?v=NpMk9G-ddiM)
+
+
+
+---
+
+
+
+## 10/13/2019
+
+- [ ] [Networking, Communications, and DSP Seminar](http://www-networking.eecs.berkeley.edu/Seminar/)
+
+- [ ] [rlpyt: A Research Code Base for Deep Reinforcement Learning in PyTorch – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2019/09/24/rlpyt/)
+
+- [ ] [CS 189](https://www.eecs189.org/)
+
+- [ ] [Le Song](https://www.cc.gatech.edu/~lsong/)
+
+- [ ] [STAT 151A (Linear Modeling), Fall 2017 | Billy Fang](https://www.stat.berkeley.edu/~blfang/teaching/2017_stat151a/)
+
+- [ ] [Sivaraman Balakrishnan](http://www.stat.cmu.edu/~siva/)
+
+- [ ] [CS 61C](https://cs61c.org/#labs)
+
+- [ ] [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
+
+- [ ] [Mathematical maturity - Wikipedia](https://en.wikipedia.org/wiki/Mathematical_maturity)
+
+- [ ] [Statistical Machine Learning](http://www.stat.cmu.edu/~ryantibs/statml/)
+
+- [ ] [Stat 700: Probabilistic graphical models](http://dept.stat.lsa.umich.edu/~xuanlong/courses/stat700-f09/)
+
+- [ ] [Mahdi Soltanolkotabi's website](https://viterbi-web.usc.edu/~soltanol/)
+
+- [ ] [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/)
+
+
+
+
+---
+
+
+
+
+## 10/14/2019
+
+- [ ] [Chapter 4 EM Algorithm | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/em-algorithm.html#acceleration-of-em-algorithm)
+
+- [ ] [LIDA-IG Newsletter 2018 January - LIDA-IG-newsletter-January2018.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://higherlogicdownload.s3.amazonaws.com/AMSTAT/a8c53bb5-2075-48c8-baae-f2c3ab55357b/UploadedImages/LIDA-IG-newsletter-January2018.pdf)
+
+- [ ] [Chapter 4 EM Algorithm | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/em-algorithm.html#ref-Oake:dire:1999)
+
+- [ ] [Expectation-Maximization](http://www.di.fc.ul.pt/~jpn/r/EM/EM.html)
+
+- [ ] [Expectation-Maximization](http://www.di.fc.ul.pt/~jpn/r/EM/EM.html)
+
+- [ ] [Bishop’s PRML, Chapter 9](http://www.di.fc.ul.pt/~jpn/r/PRML/chapter9.html#em-for-gaussian-mixtures-section-9.2.2)
+
+- [ ] [RPubs - EM Algorithm Implementation](https://rpubs.com/H_Zhu/246450)
+
+- [ ] [RPubs - Publish Document](https://rpubs.com/xuxin0806/154174)
+
+- [ ] [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/acceleration-methods.html)
+
+- [ ] [2020 Spring Semester: Program on Causal Inference – SAMSI](https://www.samsi.info/programs-and-activities/semester-long-programs/2020-spring-semester-program-on-causal-inference/)
+
+- [ ] [2019 Fall Semester: Program on Deep Learning – SAMSI](https://www.samsi.info/programs-and-activities/semester-long-programs/2019-fall-semester-program-on-deep-learning/)
+
+- [ ] [2019-2020 Program on Games, Decisions, Risk and Reliability – SAMSI](https://www.samsi.info/programs-and-activities/year-long-research-programs/2019-2020-program-on-games-decisions-risk-and-reliability/)
+
+- [ ] [Finding the Observed Information Matrix When Using the EM Algorithm - Louis - 1982 - Journal of the Royal Statistical Society: Series B (Methodological) - Wiley Online Library](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1982.tb01203.x)
+
+- [ ] [Error!](https://www.doctor-doc.com/version1.0/openurl.do?sid=google&auinit=TA&aulast=LOUIS&atitle=Finding+the+observed+information+matrix+when+using+the+EM+algorithm&title=Journal+of+the+Royal+Statistical+Society+/+Series+A+(General%3B+via+JSTOR)&volume=44&date=1982&spage=226)
+
+- [ ] [CiNii Articles -  Finding the observed information matrix when using the EM algorithm](https://ci.nii.ac.jp/naid/10011512868/)
+
+- [ ] ["The Economics of Immigration" by David Card](https://digitalcommons.csbsju.edu/clemens_lectures/27/)
+
+- [ ] [Error: Connection failed | Astrill VPN](http://davidcard.berkeley.edu/)
+
+- [ ] [Faculty profiles | Department of Economics](https://www.econ.berkeley.edu/faculty/808)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20060725114900/http://www2.gsb.columbia.edu/faculty/jstiglitz/download/2002_Emploi_justice_sociale.pdf)
+
+- [ ] [Interview with David Card | Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/publications/the-region/interview-with-david-card)
+
+- [ ] [David Card - Google Scholar Citations](https://scholar.google.com/citations?user=lqmGJIkAAAAJ&hl=en)
+
+- [ ] [Simple and Globally Convergent Methods for Accelerating the Convergence of Any EM Algorithm - VARADHAN - 2008 - Scandinavian Journal of Statistics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9469.2007.00585.x)
+
+- [ ] [Priority - Google Drive](https://drive.google.com/drive/u/1/priority)
+
+- [ ] [Finite mixture models : McLachlan, Geoffrey J., 1946- : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/finitemixturemod00geof)
+
+- [ ] [2.1. Gaussian mixture models — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/modules/mixture.html)
+
+- [ ] [Ecological Archives A023-031](http://www.esapubs.org/archive/appl/A023/031/)
+
+- [ ] [Maximum Likelihood Estimation | STAT 414 / 415](https://newonlinecourses.science.psu.edu/stat414/node/191/)
+
+- [ ] [China estimate of the day - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/china-estimate-of-the-day-15.html)
+
+- [ ] [Do Social Media Harm the Mental Health of Youth? Probably Not. - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/does-time-spent-using-social-media-impact-mental-health-no.html)
+
+- [ ] [The economic effects of private equity buyouts - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/the-economic-effects-of-private-equity-buyouts.html)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=KoVA98C_zDw)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=1va7ecpUG80)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=QclONwnneYw)
+
+- [ ] [Photo - Google Photos](https://photos.google.com/u/2/photo/AF1QipNcV6K1ghTenpDFEBnI6FcNTQ4p6-Vl8IZhL6G5)
+
+- [ ] [YouTube](https://www.youtube.com/)
+
+- [ ] [Priority - Google Drive](https://drive.google.com/drive/u/1/priority)
+
+- [ ] [Acceleration of the EM algorithm](https://dl.acm.org/citation.cfm?id=2337805)
+
+- [ ] [lecture-29.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stat.cmu.edu/~cshalizi/350/lectures/29/lecture-29.pdf)
+
+- [ ] [Finite Mixture Modeling with Mixture Outcomes Using the EM Algorithm - MuthenShedden.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.statmodel.com/download/MuthenShedden.pdf)
+
+- [ ] [KhaliliChen05.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stat.ubc.ca/~jhchen/paper/KhaliliChen05.pdf)
+
+- [ ] [DNS Error | Astrill VPN](http://www.stat.uni-muenchen.de/~leisch/)
+
+- [ ] [Chapter 4 EM Algorithm | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/em-algorithm.html#acceleration-of-em-algorithm)
+
+- [ ] [Chapter 4 EM Algorithm | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/em-algorithm.html#ref-Oake:dire:1999)
+
+- [ ] [Expectation-Maximization](http://www.di.fc.ul.pt/~jpn/r/EM/EM.html)
+
+- [ ] [Expectation-Maximization](http://www.di.fc.ul.pt/~jpn/r/EM/EM.html)
+
+- [ ] [Bishop’s PRML, Chapter 9](http://www.di.fc.ul.pt/~jpn/r/PRML/chapter9.html#em-for-gaussian-mixtures-section-9.2.2)
+
+- [ ] [RPubs - EM Algorithm Implementation](https://rpubs.com/H_Zhu/246450)
+
+- [ ] [RPubs - Publish Document](https://rpubs.com/xuxin0806/154174)
+
+- [ ] ["The Economics of Immigration" by David Card](https://digitalcommons.csbsju.edu/clemens_lectures/27/)
+
+- [ ] [David Card](http://davidcard.berkeley.edu/)
+
+- [ ] [Faculty profiles | Department of Economics](https://www.econ.berkeley.edu/faculty/808)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20060725114900/http://www2.gsb.columbia.edu/faculty/jstiglitz/download/2002_Emploi_justice_sociale.pdf)
+
+- [ ] [Interview with David Card | Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/publications/the-region/interview-with-david-card)
+
+- [ ] [David Card - Google Scholar Citations](https://scholar.google.com/citations?user=lqmGJIkAAAAJ&hl=en)
+
+- [ ] [SQUAREM.pdf](http://www2.uaem.mx/r-mirror/web/packages/SQUAREM/vignettes/SQUAREM.pdf)
+
+- [ ] [SQUAREM.pdf](https://cran.r-project.org/web/packages/SQUAREM/SQUAREM.pdf)
+
+- [ ] [I Will Not Submit, I Will Not Be Cowed – China Heritage](http://chinaheritage.net/journal/i-will-not-submit-i-will-not-be-cowed/)
+
+- [ ] [No, Liz Bruenig, incels aren’t incels because of “a lack of opportunities for heroism” :: We Hunted The Mammoth](http://www.wehuntedthemammoth.com/2019/10/07/no-liz-bruenig-incels-arent-incels-because-of-a-lack-of-opportunities-for-heroism/)
+
+- [ ] [Introducing the Cultural Leadership Fund Non-Profit Partners - Andreessen Horowitz](https://a16z.com/2019/10/11/cultural-leadership-fund-nonprofits/)
+
+- [ ] [10 Best Cheap Headphones and Earbuds for 2019 (Under $100) | WIRED](https://www.wired.com/gallery/best-headphones-under-100/?itm_campaign=BottomRelatedStories)
+
+- [ ] [11 Best Fitness Trackers (and Fitness Watches) for 2019 | WIRED](https://www.wired.com/gallery/best-fitness-tracker/?itm_campaign=BottomRelatedStories)
+
+- [ ] [Artificial Intelligence News | WIRED](https://www.wired.com/category/business/artificial-intelligence/?itm_campaign=BottomRelatedStories_Sections_1)
+
+- [ ] [How Cities Reshape the Evolutionary Path of Urban Wildlife | WIRED](https://www.wired.com/story/urban-wildlife-evolution-climate-change/?itm_campaign=BottomRelatedStories_Sections_1)
+
+- [ ] [If Computers Are So Smart, How Come They Can’t Read? | WIRED](https://www.wired.com/story/adaptation-if-computers-are-so-smart-how-come-they-cant-read/)
+
+- [ ] [If Computers Are So Smart, How Come They Can’t Read? | WIRED](https://www.wired.com/story/adaptation-if-computers-are-so-smart-how-come-they-cant-read/)
+
+- [ ] [If Computers Are So Smart, How Come They Can’t Read? | WIRED](https://www.wired.com/story/adaptation-if-computers-are-so-smart-how-come-they-cant-read/?itm_campaign=BottomRelatedStories_Sections_1)
+
+- [ ] [Inside Pioneer: May the Best Silicon Valley Hustler Win | WIRED](https://www.wired.com/story/inside-pioneer-best-silicon-valley-hustler-win/?itm_campaign=BottomRelatedStories_Sections_1)
+
+- [ ] [Microsoft Surface Duo, Surface Neo, Surface Phone: Details, Specs, Release Date | WIRED](https://www.wired.com/story/microsoft-surface-duo-neo-phone/?itm_campaign=BottomRelatedStories_Sections_1)
+
+- [ ] [Ring Camera Surveillance Is Transforming Suburban Life | WIRED](https://www.wired.com/story/ring-surveillance-suburbs/?itm_campaign=BottomRelatedStories_Sections_1)
+
+- [ ] [The Best Running Gear for 2019: Shoes, Clothes, Accessories | WIRED](https://www.wired.com/gallery/best-running-gear/?itm_campaign=BottomRelatedStories)
+
+- [ ] [The Tech Helping Dogs Learn to 'Talk' With Humans | WIRED](https://www.wired.com/story/the-tech-helping-dogs-learn-to-communicate-with-humans/?itm_campaign=BottomRelatedStories_Sections_1)
+
+- [ ] [What Defines Artificial Intelligence? The Complete WIRED Guide | WIRED](https://www.wired.com/story/guide-artificial-intelligence/)
+
+- [ ] [What Defines Artificial Intelligence? The Complete WIRED Guide | WIRED](https://www.wired.com/story/guide-artificial-intelligence/?itm_campaign=GuideCarveLeft)
+
+- [ ] [Dempster: Maximum likelihood from incomplete data... - Google Scholar](https://scholar.google.com.au/scholar?cluster=7728340850644612874&hl=en&as_sdt=0,5)
+
+- [ ] [Varadhan: Simple and globally convergent methods... - Google Scholar](https://scholar.google.com.au/scholar?cluster=7793127575328145646&hl=en&as_sdt=0,5)
+
+- [ ] [Finding the Observed Information Matrix when Using the EM Algorithm on JSTOR](https://www.jstor.org/stable/2345828?seq=1#page_scan_tab_contents)
+
+- [ ] [すきなもの](https://coldsharkbiscuitmaker.tumblr.com/)
+
+- [ ] [bash - What's the use of the staging area in Git? - Stack Overflow](https://stackoverflow.com/questions/49228209/whats-the-use-of-the-staging-area-in-git)
+
+- [ ] [What's the difference between the index, cached, and staged in git? - Stack Overflow](https://stackoverflow.com/questions/3516823/whats-the-difference-between-the-index-cached-and-staged-in-git)
+
+- [ ] [Why would I want stage before committing in Git? - Stack Overflow](https://stackoverflow.com/questions/4878358/why-would-i-want-stage-before-committing-in-git)
+
+- [ ] [The three stages of Git | Don't be afraid to commit](http://archaeogeek.github.io/foss4gukdontbeafraid/git/stages.html)
+
+- [ ] [libgen.is/search.php?&req=Stuart+Russell&phrase=0&view=simple&column=author&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=Stuart+Russell&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=+Peter+Norvig&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Artificial+Intelligence%3A+A+Modern+Approach&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Chapter 4 EM Algorithm | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/em-algorithm.html#acceleration-of-em-algorithm)
+
+- [ ] [Chapter 4 EM Algorithm | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/em-algorithm.html#ref-Oake:dire:1999)
+
+- [ ] [Expectation-Maximization](http://www.di.fc.ul.pt/~jpn/r/EM/EM.html)
+
+- [ ] [Expectation-Maximization](http://www.di.fc.ul.pt/~jpn/r/EM/EM.html)
+
+- [ ] [Bishop’s PRML, Chapter 9](http://www.di.fc.ul.pt/~jpn/r/PRML/chapter9.html#em-for-gaussian-mixtures-section-9.2.2)
+
+- [ ] [a variational bayesian framework for graphical models - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOuKFsecdR2ktfcCZdW1Rd4Nj1Pg:1570954068145&q=a+variational+bayesian+framework+for+graphical+models&sa=X&ved=2ahUKEwjjrsL545jlAhURfMAKHbT8DAQQ1QIoA3oECGgQBA&biw=1920&bih=949)
+
+- [ ] [cs228 review - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOuKFsecdR2ktfcCZdW1Rd4Nj1Pg%3A1570954068145&lei=VNuiXeO0CJH4gQa0-bMg&q=cs228%20review&ved=2ahUKEwiy6s3645jlAhWm3eAKHYsRAxoQsKwBKAR6BAgAEAU)
+
+- [ ] [cs228 videos - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOuKFsecdR2ktfcCZdW1Rd4Nj1Pg%3A1570954068145&lei=VNuiXeO0CJH4gQa0-bMg&q=cs228%20videos&ved=2ahUKEwiy6s3645jlAhWm3eAKHYsRAxoQsKwBKAB6BAgAEAE)
+
+- [ ] [Graphical Models, Exponential Families, and Variational Inference - Google Search](https://www.google.com/search?q=Graphical+Models%2C+Exponential+Families%2C+and+Variational+Inference&oq=Graphical+Models%2C+Exponential+Families%2C+and+Variational+Inference&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Graphical Models, Exponential Families, and Variational Inference - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT7ekzEGB8nIzPEYBEqZhyHrh6UuQ:1570953731141&q=Graphical+Models,+Exponential+Families,+and+Variational+Inference&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzSizrMpQQuFpiWUnW-kn5edngwmr4syU1PLEyuJFrI7uRYkFGZnJiTkKvvkpqTnFOgquFQX5eal5JZlAMbfE3MyczFSgaGJeikJYYlFmYklmfh5QxjMvLbUoNS85dQcrIwCIv8VSfQAAAA&sa=X&ved=2ahUKEwihsenY4pjlAhWJOcAKHXngB2EQzTooATB4egQIZRAC)
+
+- [ ] [hidden markov models for time series an introduction with r - Google Search](https://www.google.com/search?q=hidden%20markov%20models%20for%20time%20series%20an%20introduction%20with%20r)
+
+- [ ] [How to accelerate convergence of EM with SQUAREM - Google Search](https://www.google.com/search?q=How+to+accelerate+convergence+of+EM+with+SQUAREM&oq=How+to+accelerate+convergence+of+EM+with+SQUAREM&aqs=chrome..69i57.23522j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Martin J. Wainwright - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOuKFsecdR2ktfcCZdW1Rd4Nj1Pg:1570954068145&q=Martin+J.+Wainwright&stick=H4sIAAAAAAAAAOPgE-LRT9c3NErKzSizrMpQ4gXxDNNMCgsMMsoNtWSyk630k_Lzs_XLizJLSlLz4svzi7KtEktLMvKLFrGK-CYWlWTmKXjpKYQnZuYB1aRnlAAAr8JXt1QAAAA&sa=X&ved=2ahUKEwjjrsL545jlAhURfMAKHbT8DAQQmxMoAjB1egQIZxAL)
+
+- [ ] [Michael I. Jordan - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOuKFsecdR2ktfcCZdW1Rd4Nj1Pg:1570954068145&q=Michael+I.+Jordan&stick=H4sIAAAAAAAAAOPgE-LRT9c3NErKzSizrMpQ4tTP1TcwNTfOMNWSyU620k_Kz8_WLy_KLClJzYsvzy_KtkosLcnIL1rEKuibmZyRmJqj4Kmn4JVflJKYBwB5mmcpTQAAAA&sa=X&ved=2ahUKEwjjrsL545jlAhURfMAKHbT8DAQQmxMoATB1egQIZxAK)
+
+- [ ] [negative log-likelihood of finite mixture r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSu3V5d4RDT9sZQ-313SsiKBd_BMQ%3A1570939486103&ei=XqKiXd38BZ2Z1fAPzNa5sAY&q=negative+log-likelihood+of+finite+mixture+r&oq=negative+log-likelihood+of+finite+mixture+r&gs_l=psy-ab.3..33i299l3j33i160.15005.16722..16885...1.2..0.646.1043.3-1j0j1......0....1..gws-wiz.......0i71.UpZlLixXq9w&ved=0ahUKEwjdo6HQrZjlAhWdTBUIHUxrDmYQ4dUDCAs&uact=5)
+
+- [ ] [probabilistic graphical models applications - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOuKFsecdR2ktfcCZdW1Rd4Nj1Pg%3A1570954068145&lei=VNuiXeO0CJH4gQa0-bMg&q=probabilistic%20graphical%20models%20applications&ved=2ahUKEwiy6s3645jlAhWm3eAKHYsRAxoQsKwBKAV6BAgAEAY)
+
+- [ ] [probabilistic graphical models tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOuKFsecdR2ktfcCZdW1Rd4Nj1Pg%3A1570954068145&lei=VNuiXeO0CJH4gQa0-bMg&q=probabilistic%20graphical%20models%20tutorial&ved=2ahUKEwiy6s3645jlAhWm3eAKHYsRAxoQsKwBKAF6BAgAEAI)
+
+- [ ] [probabilistic graphical models: principles and techniques - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOuKFsecdR2ktfcCZdW1Rd4Nj1Pg:1570954068145&q=probabilistic+graphical+models:+principles+and+techniques&sa=X&ved=2ahUKEwjjrsL545jlAhURfMAKHbT8DAQQ1QIoAnoECGgQAw)
+
+- [ ] [SAMSI Video - Google Search](https://www.google.com/search?q=SAMSI+Video&oq=SAMSI+Video&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [squarem - Google Search](https://www.google.com/search?q=squarem&oq=squarem&aqs=chrome..69i57j69i59j69i60l2.2614j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [variational inference book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOuKFsecdR2ktfcCZdW1Rd4Nj1Pg%3A1570954068145&lei=VNuiXeO0CJH4gQa0-bMg&q=variational%20inference%20book&ved=2ahUKEwiy6s3645jlAhWm3eAKHYsRAxoQsKwBKAN6BAgAEAQ)
+
+- [ ] [variational inference textbook - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOuKFsecdR2ktfcCZdW1Rd4Nj1Pg:1570954068145&q=variational+inference+textbook&sa=X&ved=2ahUKEwjjrsL545jlAhURfMAKHbT8DAQQ1QIoAHoECGgQAQ)
+
+- [ ] [what's the meaning "staged" in git - Google Search](https://www.google.com/search?q=what%27s+the+meaning+%22staged%22+in+git&newwindow=1&sxsrf=ACYBGNSRDKaYCaut2y-E8o3rvqJ4cs7lzQ:1570953030986&tbm=isch&source=iu&ictx=1&fir=FgBOWkIS133MNM%253A%252CsxnmwaMOPo_JWM%252C_&vet=1&usg=AI4_-kQd9DkYb2rD7uqEMlPjk6ikpEl-iA&sa=X&ved=2ahUKEwjMpfuK4JjlAhVCQEEAHbLfC90Q9QEwAHoECAUQAw#imgrc=FgBOWkIS133MNM:)
+
+- [ ] [Index of /mattjj/content/ee126handouts](https://people.csail.mit.edu/mattjj/content/ee126handouts/)
+
+- [ ] [Publications](https://people.csail.mit.edu/mattjj/publications.shtml#hmmsvi)
+
+- [ ] [Publications](https://people.csail.mit.edu/mattjj/publications.shtml#svae)
+
+- [ ] [Tommi Jaakkola](https://people.csail.mit.edu/tommi/)
+
+- [ ] [www.cs.columbia.edu/~blei/](http://www.cs.columbia.edu/~blei/)
+
+- [ ] [Error: Connection failed | Astrill VPN](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/project/501114)
+
+- [ ] [non-numeric argument to binary operator - Google Search](https://www.google.com/search?q=non-numeric+argument+to+binary+operator&oq=non-numeric+argument+to+binary+operator&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [invalid subscript type 'closure' - Google Search](https://www.google.com/search?q=invalid+subscript+type+%27closure%27&oq=invalid+subscript+type+%27closure%27&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [LIDA-IG Newsletter 2018 January - LIDA-IG-newsletter-January2018.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://higherlogicdownload.s3.amazonaws.com/AMSTAT/a8c53bb5-2075-48c8-baae-f2c3ab55357b/UploadedImages/LIDA-IG-newsletter-January2018.pdf)
+
+- [ ] [Mert Pilanci](https://web.stanford.edu/~pilanci/)
+
+- [ ] [Statistical Learning with Sparsity: the Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity/data.html)
+
+- [ ] [Statistical Learning with Sparsity: the Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity/complements.html)
+
+- [ ] [Statistical Learning with Sparsity: the Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity/book-reviews.html)
+
+- [ ] [Statistical Learning with Sparsity: the Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity/discuss.html)
+
+- [ ] [Statistical Learning with Sparsity: the Lasso and Generalizations](https://web.stanford.edu/~hastie/StatLearnSparsity/data.html)
+
+- [ ] [John C. Duchi](https://stanford.edu/~jduchi/)
+
+- [ ] [Artificial Intelligence research at Microsoft](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)
+
+- [ ] [Provably efficient reinforcement learning with rich observations - Microsoft Research](https://www.microsoft.com/en-us/research/blog/provably-efficient-reinforcement-learning-with-rich-observations/)
+
+- [ ] [Reinforcement Learning - Microsoft Research](https://www.microsoft.com/en-us/research/group/reinforcement-learning-group/)
+
+- [ ] [Reinforcement Learning Redmond - Microsoft Research](https://www.microsoft.com/en-us/research/group/reinforcement-learning-redmond/)
+
+- [ ] [rlgroup-1920x554.jpg (1920×554)](https://www.microsoft.com/en-us/research/uploads/prod/2017/07/rlgroup-1920x554.jpg)
+
+- [ ] [Sébastien Bubeck at Microsoft Research](https://www.microsoft.com/en-us/research/people/sebubeck/)
+
+- [ ] [Vladimir Voevodsky - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTDXKwiM0NSrrT-UhZI_BjMCygFQQ:1570982691926&q=Vladimir+Voevodsky&stick=H4sIAAAAAAAAAONgFuLQz9U3KDRNz1aCs7SkspOt9AtS8wtyUoFUUXF-nlVxZkpqeWJl8SJWobCcxJTM3MwihbD81LL8lOLsyh2sjAAlo-dkSgAAAA&sa=X&ved=2ahUKEwjWr7PKzpnlAhWYilwKHZ2vDxMQzTooATBpegQIThAC)
+
+- [ ] [[1409.4372] Framed motives of algebraic varieties (after V. Voevodsky)](https://arxiv.org/abs/1409.4372)
+
+- [ ] [The K-book: an introduction to algebraic K-theory](http://sites.math.rutgers.edu/~weibel/Kbook.html)
+
+- [ ] [Fall 2006 Lectures on the proof of the Bloch-Kato Conjecture](http://sites.math.rutgers.edu/~weibel/motivic2006.html)
+
+- [ ] [seminars | IAS School of Mathematics](http://www.math.ias.edu/seminars#Sunday,%20October%2013)
+
+- [ ] [DNS Error | Astrill VPN](http://e-math.ams.org/mathcal/)
+
+- [ ] [Lecture Series by V. Voevodsky - UM Math Department](http://www.math.miami.edu/highlights/events/lecture-series-by-v-voevodsky/)
+
+- [ ] [Alexandros G. Dimakis (Alex Dimakis)](http://users.ece.utexas.edu/~dimakis/index.html)
+
+- [ ] [[1402.2011] Locality and Availability in Distributed Storage](https://arxiv.org/abs/1402.2011)
+
+- [ ] [Alexandros Dimakis, University of Texas at Austin - YouTube](https://www.youtube.com/watch?v=ar7tJXGmo_U&index=8&list=PLcsG4X8Zn_UBJsOKzH75GueOImqFr8_Q-)
+
+- [ ] [Alex Dimakis (@AlexGDimakis) / Twitter](https://twitter.com/AlexGDimakis)
+
+- [ ] [jPhotoGrid Plugin](http://users.ece.utexas.edu/~dimakis/Alex-Artistic-Attempts/artisticattempts.html)
+
+- [ ] [Data Science Lab](http://users.ece.utexas.edu/~dimakis/DataScienceLab.html)
+
+- [ ] [Home](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html)
+
+- [ ] [ee595AlgebraicCoding](https://sites.google.com/site/ee595algebraiccoding/)
+
+- [ ] [Algebraic Methods in Coding Theory | CIMPA](https://www.cimpa.info/en/node/2227)
+
+- [ ] [Algebraic Methods in Coding Theory | CIMPA](https://www.cimpa.info/en/node/2227#submenu-321)
+
+- [ ] [20w5187: Algebraic Methods in Coding Theory and Communication | Banff International Research Station](https://www.birs.ca/events/2020/5-day-workshops/20w5187)
+
+- [ ] [connect.jpg (1632×2093)](http://www.math.niu.edu/~beachy/courses/720/connect.jpg)
+
+- [ ] [ABSTRACT ALGEBRA ON LINE](http://www.math.niu.edu/~beachy/aaol/)
+
+- [ ] [ABSTRACT ALGEBRA: Review of Groups and Galois Theory](http://www.math.niu.edu/~beachy/abstract_algebra_3ed/review/contents.html)
+
+- [ ] [CS61C Spring 2008 -- Project 1](http://inst.eecs.berkeley.edu/~cs61c/sp08/assignments/proj/01/)
+
+- [ ] [EE105 Homepage](http://inst.eecs.berkeley.edu/~ee105/fa07/labs.cgi)
+
+- [ ] [EE126 Home Page](http://inst.eecs.berkeley.edu/~ee126/fa07/)
+
+- [ ] [CS Illustrated: the Illustrations](http://csillustrated.berkeley.edu/illustrations.php)
+
+- [ ] [Causal inference at the Max Planck Institute for Intelligent Systems Tübingen](http://webdav.tuebingen.mpg.de/causality/)
+
+- [ ] [Sebastian Weichwald.](https://sweichwald.de/)
+
+- [ ] [Sebastian Weichwald (@sweichwald) / Twitter](https://twitter.com/sweichwald)
+
+- [ ] [sweichwald](https://github.com/sweichwald)
+
+- [ ] [sweichwald.de – Pragmatic Causal Modelling.](https://sweichwald.de/memos/pragmatic_causal_modelling.html)
+
+- [ ] [scholar.google.com](https://scholar.google.com/citations?user=lApaQd4AAAAJ&sortby=pubdate)
+
+- [ ] [Sebastian Weichwald.](https://sweichwald.de/#neuroimage2015)
+
+- [ ] [Error | Astrill VPN](http://youtu.be/ECkUzlfAJhk)
+
+- [ ] [Causality in Statistics Education Award](https://www.amstat.org/ASA/Your-Career/Awards/Causality-in-Statistics-Education-Award.aspx)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Elements+of+Causal+Inference%3A+Foundations+and+Learning+Algorithms&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+- [ ] [pages.cs.wisc.edu/~raskutti/](http://pages.cs.wisc.edu/~raskutti/)
+
+- [ ] [pages.cs.wisc.edu/~raskutti/publication.html](http://pages.cs.wisc.edu/~raskutti/publication.html)
+
+- [ ] [DR Kerry Hinton - The University of Melbourne](https://www.findanexpert.unimelb.edu.au/display/person4909)
+
+- [ ] [Prof. Rod Tucker](https://people.eng.unimelb.edu.au/rtucker/)
+
+- [ ] [What Should Children Learn? Americans’ Changing Socialization Values, 1986–2018 - Kei Nomaguchi, Melissa A. Milkie, 2019](https://journals.sagepub.com/doi/full/10.1177/2378023119879016)
+
+- [ ] [Estimating classroom-level influences on literacy and numeracy: A twin study. - PsycNET](https://psycnet.apa.org/record/2019-60508-001)
+
+- [ ] [Demonstrators in Haiti Are Fighting for an Uncertain Future | The New Yorker](https://www.newyorker.com/news/news-desk/demonstrators-in-haiti-are-fighting-for-an-uncertain-future?source=EDT_NYR_EDIT_NEWSLETTER_0_imagenewsletter_Daily_ZZ&utm_campaign=aud-dev&utm_source=nl&utm_brand=tny&utm_mailing=TNY_Daily_101119&utm_medium=email&bxid=5bd66fd02ddf9c6194389d0a&cndid=22300418&esrc=&mbid=&utm_term=TNY_Daily)
+
+- [ ] [Arvind Narayanan on Twitter: "My university just announced that it’s dumping Blackboard, and there was much rejoicing. Why is Blackboard universally reviled? There’s a standard story of why "enterprise software" sucks. If you’ll bear with me, I think this is best appreciated by talking about… baby clothes!" / Twitter](https://twitter.com/random_walker/status/1182635589604171776)
+
+- [ ] [Massive California power outage triggers chaos in science labs](https://www.nature.com/articles/d41586-019-03086-2)
+
+- [ ] [CONVERSABLE ECONOMIST: The Economics Nobel: Who Might Have Won?](http://conversableeconomist.blogspot.com/2019/10/the-economics-nobel-who-might-have-won.html)
+
+- [ ] [Online Sports Betting & Live Betting Odds at SportsBetting.ag](https://www.sportsbetting.ag/)
+
+- [ ] [Targeted Memory Reactivation During Sleep Improves Next-Day Problem Solving - Kristin E. G. Sanders, Samuel Osburn, Ken A. Paller, Mark Beeman,](https://journals.sagepub.com/doi/abs/10.1177/0956797619873344?journalCode=pssa)
+
+- [ ] [How to Work and Sleep at the Same Time - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/how-to-work-and-sleep-at-the-same-time.html)
+
+- [ ] [China fact of the day - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/china-fact-of-the-day-56.html)
+
+- [ ] [What I've been reading - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/what-ive-been-reading-153.html)
+
+- [ ] [This Is an Indian House, According to One Architect - The New York Times](https://www.nytimes.com/2019/10/09/t-magazine/bijoy-jain.html)
+
+- [ ] [The Unsettling of Europe: How Migration Reshaped a Continent: Peter Gatrell: 9780465093618: Amazon.com: Books](https://www.amazon.com/Unsettling-Europe-Migration-Reshaped-Continent/dp/0465093612/ref=sr_1_1?keywords=peter+gatrell&qid=1570386233&sr=8-1/marginalrevol-20)
+
+- [ ] [Model City Pyongyang: Cristiano Bianchi, Kristina Drapic, Oliver Wainwright: 9780500343531: Amazon.com: Books](https://www.amazon.com/Model-City-Pyongyang-Cristiano-Bianchi/dp/0500343535/ref=sr_1_1?crid=3EF650KFKO2CI&keywords=model+city+pyongyang&qid=1570386194&sprefix=model+city+pyong%2Caps%2C132&sr=8-1/marginalrevol-20)
+
+- [ ] [Amazon.com: Divided Armies: Inequality and Battlefield Performance in Modern War (Princeton Studies in International History and Politics) (9780691192444): Jason Lyall: Books](https://www.amazon.com/Divided-Armies-Battlefield-Performance-International/dp/0691192448/ref=sr_1_1?keywords=divided+armies&qid=1570386156&sr=8-1/marginalrevol-20)
+
+- [ ] [paul blustein schism review - Google Search](https://www.google.com/search?sxsrf=ACYBGNQKLfVxil__mDsAvZbW0reeGbOR5Q%3A1570386109896&source=hp&ei=vTCaXaiBNMSZ_Qb-pKPgCw&q=paul+blustein+schism+review&oq=paul+blustein+schism+review&gs_l=psy-ab.3..33i160.101.3425..3702...0.0..0.99.1882.27......0....1..gws-wiz.......35i39j0i131j0j0i10j0i22i30j0i22i10i30j33i299.P_dQDiJlLzg&ved=0ahUKEwjo0_ORoIjlAhXETN8KHX7SCLwQ4dUDCAg&uact=5)
+
+- [ ] [Schism: China, America, and the Fracturing of the Global Trading System: Paul Blustein: 9781928096856: Amazon.com: Books](https://www.amazon.com/Schism-America-Fracturing-Global-Trading/dp/1928096859/ref=sr_1_1?keywords=paul+blustein&qid=1570386077&sr=8-1/marginalrevol-20)
+
+- [ ] [The modern world has not yet abolished slavery and forced deprivation - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/the-modern-world-has-not-yet-abolished-slavery-and-forced-deprivation.html)
+
+- [ ] [Autistic children are routinely restrained and drugged in care | News | The Times](https://www.thetimes.co.uk/article/autistic-children-are-routinely-restrained-and-drugged-in-care-s9q0gclhk)
+
+- [ ] [Bethany’s case revives our worst fears about asylums | Comment | The Times](https://www.thetimes.co.uk/article/bethany-case-revives-worst-fears-about-asylums-bt66kfb9z)
+
+- [ ] [Father beats legal bid to silence him over autistic girl in hospital ‘cell’ | News | The Times](https://www.thetimes.co.uk/article/father-beats-legal-bid-to-silence-him-over-autistic-girl-in-hospital-cell-0qhkkg2v8)
+
+- [ ] [NHS vows to stop locking up autistic children | News | The Times](https://www.thetimes.co.uk/article/nhs-vows-to-stop-locking-up-autistic-children-6gw7jddqd)
+
+- [ ] [Michelle Dawson (@autismcrisis) / Twitter](https://twitter.com/autismcrisis)
+
+- [ ] [the autism crisis](https://autismcrisis.blogspot.com/)
+
+- [ ] [Joseph K. Bradley](http://www.cs.cmu.edu/~jkbradle/)
+
+- [ ] [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
+
+- [ ] [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
+
+- [ ] [Welcome to visit Yun Yang's website](https://sites.google.com/site/yunyangstat/)
+
+- [ ] [https://zhangyuc.github.io](https://zhangyuc.github.io/)
+
+- [ ] [Alekh Agarwal](http://alekhagarwal.net/)
+
+- [ ] [Yudong Chen](https://people.orie.cornell.edu/yudong.chen/)
+
+- [ ] [Fanny Yang - ETH](http://fanny-yang.de/)
+
+- [ ] [Johannes Lederer | Statistics, Machine Learning & Data Science](https://johanneslederer.com/)
+
+- [ ] [Adversarial Robustness | Jianbo Chen - UC Berkeley](https://www.jianbochen.me/project/ar/)
+
+- [ ] [Decision Making on Graphs | Jianbo Chen - UC Berkeley](https://www.jianbochen.me/project/ht/)
+
+- [ ] [Jianbo Chen - UC Berkeley](https://www.jianbochen.me/)
+
+- [ ] [Language-based Image Editing | Jianbo Chen - UC Berkeley](https://www.jianbochen.me/project/cv/)
+
+- [ ] [Model Interpretation and Feature Selection | Jianbo Chen - UC Berkeley](https://www.jianbochen.me/project/fs/)
+
+- [ ] [Sergey Levine (@svlevine) / Twitter](https://twitter.com/svlevine)
+
+- [ ] [Bayesian network - Wikipedia](https://en.wikipedia.org/wiki/Bayesian_network)
+
+- [ ] [Generative adversarial network - Wikipedia](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+
+- [ ] [Mixture (probability) - Wikipedia](https://en.wikipedia.org/wiki/Mixture_(probability))
+
+- [ ] [Mixture distribution - Wikipedia](https://en.wikipedia.org/wiki/Mixture_distribution)
+
+- [ ] [Mixture model - Wikipedia](https://en.wikipedia.org/wiki/Mixture_model)
+
+- [ ] [Random sample consensus - Wikipedia](https://en.wikipedia.org/wiki/Random_sample_consensus)
+
+- [ ] [SciPy - Wikipedia](https://en.wikipedia.org/wiki/SciPy)
+
+- [ ] [Semi-supervised learning - Wikipedia](https://en.wikipedia.org/wiki/Semi-supervised_learning)
+
+- [ ] [[1609.02655] Singularity structures and impacts on parameter estimation in finite mixtures of distributions](https://arxiv.org/abs/1609.02655)
+
+- [ ] [[1702.07780] Changing Model Behavior at Test-Time Using Reinforcement Learning](https://arxiv.org/abs/1702.07780)
+
+- [ ] [[1803.07763] From Gauss to Kolmogorov: Localized Measures of Complexity for Ellipses](https://arxiv.org/abs/1803.07763)
+
+- [ ] [[1807.10875] TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing](https://arxiv.org/abs/1807.10875)
+
+- [ ] [[1901.05078] On posterior contraction of parameters and interpretability in Bayesian mixture modeling](https://arxiv.org/abs/1901.05078)
+
+- [ ] [[1901.10912] A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/abs/1901.10912)
+
+- [ ] [arXiv.org e-Print archive](https://arxiv.org/)
+
+- [ ] [Mikhail Yurochkin | PHD, Statistics](http://www-personal.umich.edu/~moonfolk/)
+
+- [ ] [www-personal.umich.edu/~vietdo/](http://www-personal.umich.edu/~vietdo/)
+
+- [ ] [Arash A. Amini](http://www.stat.ucla.edu/~arashamini/teaching/200c)
+
+- [ ] [Arash A. Amini](http://www.stat.ucla.edu/~arashamini/teaching/200b)
+
+- [ ] [Index of /~arashamini/teaching/100c](http://www.stat.ucla.edu/~arashamini/teaching/100c/)
+
+- [ ] [16022.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://dro.dur.ac.uk/16022/1/16022.pdf)
+
+- [ ] [208_lec12.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.stat.ucla.edu/~arashamini/teaching/stat208/notes/208_lec12.pdf)
+
+- [ ] [275B-Homework-2-W2017.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://dsp.ucsd.edu/~kreutz/PEI-B-06%20Support%20Files/275B-Homework-2-W2017.pdf)
+
+- [ ] [ADAfaEPoV - ch20.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch20.pdf)
+
+- [ ] [Advanced Statistical Computing - advstatcomp.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://bookdown.org/rdpeng/advstatcomp/advstatcomp.pdf)
+
+- [ ] [bishop_em.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.rmki.kfki.hu/~banmi/elte/bishop_em.pdf)
+
+- [ ] [doi:10.1016/j.jbankfin.2003.10.017 - JBF2004.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.carolalexander.org/publish/download/JournalArticles/PDFs/JBF2004.pdf)
+
+- [ ] [Finite Mixture Models - 2019-mclachlan.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.gwern.net/docs/statistics/2019-mclachlan.pdf)
+
+- [ ] [gmm - gmm.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://mas-dse.github.io/DSE210/Additional%20Materials/gmm.pdf)
+
+- [ ] [hw2_208_w18.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.stat.ucla.edu/~arashamini/teaching/stat208/hw/hw2_208_w18.pdf)
+
+- [ ] [LIDA-IG Newsletter 2018 January - LIDA-IG-newsletter-January2018.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://higherlogicdownload.s3.amazonaws.com/AMSTAT/a8c53bb5-2075-48c8-baae-f2c3ab55357b/UploadedImages/LIDA-IG-newsletter-January2018.pdf)
+
+- [ ] [louis1982.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.markirwin.net/stat221/Refs/louis1982.pdf)
+
+- [ ] [louis1982.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.markirwin.net/stat220/Refs/louis1982.pdf)
+
+- [ ] [mal-001.dvi - WaiJor08_FTML.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=file:///C:/Users/Administrator/Desktop/WaiJor08_FTML.pdf)
+
+- [ ] [mixo.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.ceremade.dauphine.fr/~xian/mixo.pdf)
+
+- [ ] [SQUAREM - Acceleration Schemes for Monotone Fixed-Point Iterations Including the EM and MM algorithms in Statistical Modeling - varadhan.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://bugs.unica.it/SC2011/slides/slides/varadhan.pdf)
+
+- [ ] [SQUAREM.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www2.uaem.mx/r-mirror/web/packages/SQUAREM/vignettes/SQUAREM.pdf)
+
+- [ ] [SQUAREM.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/SQUAREM/SQUAREM.pdf)
+
+- [ ] [STAT 208: Statistical learning theory - 208_slides.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.stat.ucla.edu/~arashamini/teaching/stat208/notes/208_slides.pdf)
+
+- [ ] [stat601-w13.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://dept.stat.lsa.umich.edu/~xuanlong/courses/stat601-w13.pdf)
+
+- [ ] [stat608a-f16.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://dept.stat.lsa.umich.edu/~xuanlong/courses/stat608a-f16.pdf)
+
+- [ ] [stats700_bnp.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://dept.stat.lsa.umich.edu/~xuanlong/courses/stats700_bnp.pdf)
+
+- [ ] [On models](https://dirmeier.github.io/on-models/index.html)
+
+- [ ] [Christian Bock](https://christian.bock.ml/)
+
+- [ ] [Dirmeier, Simon | ETH Zurich](https://bsse.ethz.ch/cbg/group/people/person-detail.html?persid=222659)
+
+- [ ] [agalwood/Motrix: A full-featured download manager.](https://github.com/agalwood/Motrix)
+
+- [ ] [aloctavodia/BAP: Bayesian Analysis with Python (Second Edition)](https://github.com/aloctavodia/BAP)
+
+- [ ] [dirmeier (Simon Dirmeier)](https://github.com/dirmeier)
+
+- [ ] [dirmeier/on-models: A collection of references on statistical models.](https://github.com/dirmeier/on-models)
+
+- [ ] [Jianbo-Lab (Jianbo Chen)](https://github.com/Jianbo-Lab)
+
+- [ ] [Jianbo-Lab (Jianbo Chen)](https://github.com/Jianbo-Lab)
+
+- [ ] [juandavm/em4gmm: Fast clustering Expectation Maximization algorithm for Gaussian Mixture Models.](https://github.com/juandavm/em4gmm)
+
+- [ ] [juandavm/em4gmm: Fast clustering Expectation Maximization algorithm for Gaussian Mixture Models.](https://github.com/juandavm/em4gmm)
+
+- [ ] [mas-dse/DSE-220](https://github.com/mas-dse/DSE-220)
+
+- [ ] [mas-dse/dse200-notebooks](https://github.com/mas-dse/dse200-notebooks)
+
+- [ ] [mattjj (Matthew Johnson)](https://github.com/mattjj)
+
+- [ ] [yaylinda/my-website-vue-v2: Redesign of my personal website](https://github.com/yaylinda/my-website-vue-v2)
+
+- [ ] [Jason Peng (@xbpeng4) / Twitter](https://twitter.com/xbpeng4)
+
+- [ ] [(((ل()(ل() 'yoav)))) (@yoavgo) / Twitter](https://twitter.com/yoavgo)
+
+- [ ] [(((ل()(ل() 'yoav)))) (@yoavgo) / Twitter](https://twitter.com/yoavgo)
+
+- [ ] [Durk Kingma (@dpkingma) / Twitter](https://twitter.com/dpkingma)
+
+- [ ] [Durk Kingma (@dpkingma) / Twitter](https://twitter.com/dpkingma)
+
+- [ ] [Tim Rocktäschel (@_rockt) / Twitter](https://twitter.com/_rockt)
+
+- [ ] [Zachary Lipton (@zacharylipton) / Twitter](https://twitter.com/zacharylipton)
+
+- [ ] [https://pan.baidu.com/s/1sNPr-VjK-7Bvo0itrIOh1A?errno=0&errmsg=Auth Login Sucess&&bduss=&ssnerror=0&traceid=](https://pan.baidu.com/s/1sNPr-VjK-7Bvo0itrIOh1A?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)
+
+- [ ] [Approximately Correct – Technical and Social Perspectives on Machine Learning](http://approximatelycorrect.com/)
+
+- [ ] [Prisoners of Derp - The New York Times](https://krugman.blogs.nytimes.com/2015/10/01/prisoners-of-derp/?mtrref=t.co&assetType=REGIWALL)
+
+- [ ] [The Fed Puzzle - The New York Times](https://krugman.blogs.nytimes.com/2015/09/30/the-fed-puzzle/?mtrref=krugman.blogs.nytimes.com&assetType=REGIWALL&mtrref=krugman.blogs.nytimes.com&gwh=CCE52F0A26EB5CEFD2E350340021B589&gwt=pay&assetType=REGIWALL)
+
+- [ ] [Why Bankers Want Rate Hikes - The New York Times](https://krugman.blogs.nytimes.com/2015/10/02/why-bankers-want-rate-hikes/?mtrref=krugman.blogs.nytimes.com&gwh=33041C3B73BF1F073AB7AA775BE31A0C&gwt=pay&assetType=REGIWALL)
+
+- [ ] [Charting the Global Economy: The Week in Review - Bloomberg](https://www.bloomberg.com/news/articles/2019-10-11/charting-the-global-economy-the-week-in-review?utm_content=business&utm_medium=social&utm_source=twitter&utm_campaign=socialflow-organic&cmpid=socialflow-twitter-business)
+
+- [ ] [Elements of Causal Inference | The MIT Press](https://mitpress.mit.edu/books/elements-causal-inference)
+
+- [ ] [Elements of Causal Inference | The MIT Press](https://mitpress.mit.edu/books/elements-causal-inference)
+
+- [ ] [Jonas Peters](http://web.math.ku.dk/~peters/)
+
+- [ ] [Jonas Peters](http://web.math.ku.dk/~peters/code.html)
+
+- [ ] [Jonas Peters](http://web.math.ku.dk/~peters/elements.html)
+
+- [ ] [Jonas Peters](http://web.math.ku.dk/~peters/teaching.html)
+
+- [ ] [Jonas Peters](http://web.math.ku.dk/~peters/publications.html)
+
+- [ ] [myresearch.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://web.math.ku.dk/~peters/jonas_files/myresearch.pdf)
+
+- [ ] [nachgefragt.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://web.math.ku.dk/~peters/jonas_files/nachgefragt.pdf)
+
+- [ ] [book-recommend.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://web.math.ku.dk/~peters/jonas_files/book-recommend.pdf)
+
+- [ ] [Limitations of Deep Learning for Vision, and How We Might Fix Them](https://thegradient.pub/the-limitations-of-visual-deep-learning-and-how-we-might-fix-them/)
+
+- [ ] [The Gradient](https://thegradient.pub/)
+
+- [ ] [The State of Machine Learning Frameworks in 2019](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/)
+
+- [ ] [Mixture Models](http://sia.webpopix.org/mixtureModels.html#the-em-algorithm)
+
+- [ ] [Mixture Models](http://sia.webpopix.org/mixtureModels.html)
+
+- [ ] [sia.webpopix.org/statisticalTests_PC.html](http://sia.webpopix.org/statisticalTests_PC.html)
+
+- [ ] [Central Limit Theorem](http://shiny.webpopix.org/sia/CLT/)
+
+- [ ] [Central Limit Theorem](http://shiny.webpopix.org/sia/CLT/#tab-6905-2)
+
+- [ ] [Hypothesis testing](http://shiny.webpopix.org/sia/testMean/)
+
+- [ ] [Law of Large Numbers](http://shiny.webpopix.org/sia/LLN/)
+
+- [ ] [shiny.webpopix.org/mcmc/bayes1/](http://shiny.webpopix.org/mcmc/bayes1/)
+
+- [ ] [shiny.webpopix.org/mcmc/bayes1/#shiny-tab-ui](http://shiny.webpopix.org/mcmc/bayes1/#shiny-tab-ui)
+
+- [ ] [shiny.webpopix.org/mcmc/bayes1/#shiny-tab-server](http://shiny.webpopix.org/mcmc/bayes1/#shiny-tab-server)
+
+- [ ] [shiny.webpopix.org/sia/changePoints/](http://shiny.webpopix.org/sia/changePoints/)
+
+- [ ] [shiny.webpopix.org/sia/polyreg/](http://shiny.webpopix.org/sia/polyreg/)
+
+- [ ] [E107: Friedrich Leisch](http://statmath.wu-wien.ac.at/AASC/ci/people/Leisch_Friedrich.html)
+
+- [ ] [Finite Mixture Models](http://statmath.wu-wien.ac.at/AASC/ci/research/mixtures/index.html)
+
+- [ ] [Ashwin Pananjady](https://people.eecs.berkeley.edu/~ashwinpm/)
+
+- [ ] [Dr. Dan Garcia : Full Frontal Nerdity](https://people.eecs.berkeley.edu/~ddgarcia/)
+
+- [ ] [https://people.eecs.berkeley.edu/~raaz.rsk/](https://people.eecs.berkeley.edu/~raaz.rsk/)
+
+- [ ] [Martin J. Wainwright's Teaching](http://people.eecs.berkeley.edu/~wainwrig/teaching.html)
+
+- [ ] [Martin Wainwright's home page](https://people.eecs.berkeley.edu/~wainwrig/)
+
+- [ ] [Peter Bartlett](https://people.eecs.berkeley.edu/~bartlett/)
+
+- [ ] [Prof. Tsu-Jae King Liu's Home Page](https://people.eecs.berkeley.edu/~tking/)
+
+- [ ] [Wenlong Mou (牟文龙)](https://people.eecs.berkeley.edu/~wmou/)

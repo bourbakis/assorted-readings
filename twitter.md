@@ -236,3 +236,72 @@ https://twitter.com/HigherGeometer
 - [ ] [Maarten Lambrechts (@maartenzam) / Twitter](https://twitter.com/maartenzam)
 
 - [ ] [The Pudding (@puddingviz) / Twitter](https://twitter.com/puddingviz)
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+## 10/13/2019
+
+- [ ] [Adam Santoro (@santoroAI) / Twitter](https://twitter.com/santoroAI)
+
+- [ ] [augustus odena (@gstsdn) / Twitter](https://twitter.com/gstsdn)
+
+- [ ] [augustus odena (@gstsdn) / Twitter](https://twitter.com/gstsdn?lang=en)
+
+- [ ] [Bastian Rieck (@Pseudomanifold) / Twitter](https://twitter.com/Pseudomanifold)
+
+- [ ] [BHARAT 🧡 (@killahelloo) / Twitter](https://twitter.com/killahelloo)
+
+- [ ] [Catherine Olsson (@catherineols) / Twitter](https://twitter.com/catherineols)
+
+- [ ] [Chelsea Finn (@chelseabfinn) / Twitter](https://twitter.com/chelseabfinn)
+
+- [ ] [Christian Bock (@chrs_bock) / Twitter](https://twitter.com/chrs_bock)
+
+- [ ] [Daniel Roy (@roydanroy) / Twitter](https://twitter.com/roydanroy)
+
+- [ ] [Ekin Dogus Cubuk (@ekindogus) / Twitter](https://twitter.com/ekindogus)
+
+- [ ] [George Tucker (@georgejtucker) / Twitter](https://twitter.com/georgejtucker)
+
+- [ ] [Jasmine Collins (@collinsljas) / Twitter](https://twitter.com/collinsljas)
+
+- [ ] [Konstantinos Bousmalis (@bousmalis) / Twitter](https://twitter.com/bousmalis)
+
+- [ ] [Max Jaderberg (@maxjaderberg) / Twitter](https://twitter.com/maxjaderberg)
+
+- [ ] [Michael Moor (@Michael_D_Moor) / Twitter](https://twitter.com/Michael_D_Moor)
+
+- [ ] [rosemary ke (@rosemary_ke) / Twitter](https://twitter.com/rosemary_ke)
+
+- [ ] [Sergey Levine (@svlevine) / Twitter](https://twitter.com/svlevine)
+
+- [ ] [Simon Dirmeier (@simon_dirmeier) / Twitter](https://twitter.com/simon_dirmeier)
+
+- [ ] [Sumana Srivatsa (@AnamusTimes) / Twitter](https://twitter.com/AnamusTimes)
+
+
+
+## 10/14/2019
+
+- [ ] [(((ل()(ل() 'yoav)))) (@yoavgo) / Twitter](https://twitter.com/yoavgo)
+
+- [ ] [(((ل()(ل() 'yoav)))) (@yoavgo) / Twitter](https://twitter.com/yoavgo)
+
+- [ ] [Durk Kingma (@dpkingma) / Twitter](https://twitter.com/dpkingma)
+
+- [ ] [Durk Kingma (@dpkingma) / Twitter](https://twitter.com/dpkingma)
+
+- [ ] [Tim Rocktäschel (@_rockt) / Twitter](https://twitter.com/_rockt)
+
+- [ ] [Zachary Lipton (@zacharylipton) / Twitter](https://twitter.com/zacharylipton)
