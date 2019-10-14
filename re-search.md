@@ -942,3 +942,127 @@ a
 
 
 > it's about the rstats and EM implement mostly
+
+
+## 10/14/2019
+
+- [ ] [Abhijit Banerjee, Esther Duflo - Google Search](https://www.google.com/search?q=Abhijit+Banerjee%2C+Esther+Duflo&oq=Abhijit+Banerjee%2C+Esther+Duflo&aqs=chrome..69i57.956j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [ACM Prize in Computing - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTcSnyYUPjLVMMdlmY4TqSmVBAG-A:1571005514267&q=ACM+Prize+in+Computing&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDKtNDSKV-IGsQ0NkkpSkk20ZLOTrfQTyxOLUiBkfHlmXl5qkRWYU7yIVczR2VchoCizKlUhM0_BOT-3oLQkMy8dAKWTXjNTAAAA&sa=X&ved=2ahUKEwjzwfjMo5rlAhVJQEEAHcg3D14QmxMoAjB8egQIZhAb)
+
+- [ ] [Alberto Bisin - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ_7trxi2QTY2eFOLCgcc9O64Rlvg:1570984569562&q=Alberto+Bisin&stick=H4sIAAAAAAAAAONgFuLSz9U3SCoyskjOUuLRT9c3zEg2SDc3MEzT4gtILSrOzwvOTEktT6wsXsTK65iTlFpUkq_glFmcmbeDlREA8w4wvT8AAAA&sa=X&ved=2ahUKEwjCot3J1ZnlAhVTXsAKHZYDCsAQxA0wgwF6BAhlEAQ&cshid=1570984586877678)
+
+- [ ] [Dan Boneh - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTcSnyYUPjLVMMdlmY4TqSmVBAG-A:1571005514267&q=Dan+Boneh&stick=H4sIAAAAAAAAAONgFuLSz9U3MDKtNDSKV0Jia0llJ1vpF6TmF-SkAqmi4vw8q-LMlNTyxMriRaycLol5Ck75eakZO1gZAcLrtA1FAAAA&sa=X&ved=2ahUKEwjzwfjMo5rlAhVJQEEAHcg3D14QzTooATB_egQIahAC)
+
+- [ ] [Dilip Abreu - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR3iyiIELch5GnV6jvBUdnlF9BaLw:1570984831264&q=Dilip+Abreu&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4tVP1zc0TEmpyq5MzyvT0sgot9JPzs_JSU0uyczP009MTkxJzc1MLrbKyy9JTMpJVSguKU1JzStZxMrtkpmTWaDgmFSUWgoAN2VGsVQAAAA&ved=2ahUKEwjkpsLG1pnlAhXIUxUIHeAYCW8QmxMoAzB7egQIZBAw)
+
+- [ ] [Donald John Roberts - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR3iyiIELch5GnV6jvBUdnlF9BaLw:1570984831264&q=Donald+John+Roberts&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4gIxjTNyDPOKtDQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrEKu-TnJeakKHjlZ-QpBOUnpRaVFAMAN37xxFkAAAA&ved=2ahUKEwjkpsLG1pnlAhXIUxUIHeAYCW8QmxMoBDB7egQIZBAx)
+
+- [ ] [Douglas Bernheim - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ_7trxi2QTY2eFOLCgcc9O64Rlvg:1570984569562&q=Douglas+Bernheim&stick=H4sIAAAAAAAAAONgFuLSz9U3SCoyskjOUgKzk3OqKk2ztPgCUouK8_OCM1NSyxMrixexCrjkl6bnJBYrOKUW5WWkZubuYGUEAPr4teVAAAAA&sa=X&ved=2ahUKEwjCot3J1ZnlAhVTXsAKHZYDCsAQxA0wgwF6BAhlEAo&cshid=1570984586877678)
+
+- [ ] [Economic Systems and Comparative Economics II Hugo F. Sonnenschein - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR3iyiIELch5GnV6jvBUdnlF9BaLw:1570984831264&q=Economic+Systems+and+Comparative+Economics+II+Hugo+F.+Sonnenschein&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4tFP1zc0NDFMKUnJqNKSyk620k_Kz8_WTywtycgvsgKxixXy83IqF7E6uSbn5-XnZiYrBFcWl6TmFisk5qUoOOfnFiQWJZZklqUqwBQUK3h6KniUpucruOkpBOfn5aXmFSdnpGbmAQBzTOqkfAAAAA&ved=2ahUKEwjkpsLG1pnlAhXIUxUIHeAYCW8QmxMoATB3egQIZBAc)
+
+- [ ] [Esther Duflo - Google Search](https://www.google.com/search?q=Esther+Duflo&oq=Esther+Duflo&aqs=chrome..69i57j69i60l2j69i61l2j69i60l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Faruk Gül - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR3iyiIELch5GnV6jvBUdnlF9BaLw:1570984831264&q=Faruk+G%C3%BCl&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4gIxTQzMk3JStDQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrFyuSUWlWYruB_ekwMATbTOpFAAAAA&ved=2ahUKEwjkpsLG1pnlAhXIUxUIHeAYCW8QmxMoATB7egQIZBAu)
+
+- [ ] [Gödel Prize - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTcSnyYUPjLVMMdlmY4TqSmVBAG-A:1571005514267&q=G%C3%B6del+Prize&stick=H4sIAAAAAAAAAOPgE-LSz9U3MDKtNDSKV-IEs6sq4lO0ZLOTrfQTyxOLUiBkfHlmXl5qkRWYU7yIlcf98LaU1ByFgKLMqlQAA3LbgEcAAAA&sa=X&ved=2ahUKEwjzwfjMo5rlAhVJQEEAHcg3D14QmxMoATB8egQIZhAa)
+
+- [ ] [Hat tip - Google Search](https://www.google.com/search?q=Hat+tip&oq=Hat+tip&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Hugo F. Sonnenschein - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR3iyiIELch5GnV6jvBUdnlF9BaLw:1570984831264&q=Hugo+F.+Sonnenschein&stick=H4sIAAAAAAAAAONgFuLUz9U3sDQ3T0lWQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsYp4lKbnK7jpKQTn5-Wl5hUnZ6Rm5gEAEm7qSUQAAAA&ved=2ahUKEwjkpsLG1pnlAhXIUxUIHeAYCW8QzTooATB8egQIZBA1)
+
+- [ ] [Jakub Kastl - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ_7trxi2QTY2eFOLCgcc9O64Rlvg:1570984569562&q=Jakub+Kastl&stick=H4sIAAAAAAAAAONgFuLSz9U3SCoyskjOUgKz0wryzApytPgCUouK8_OCM1NSyxMrixexcnslZpcmKXgnFpfk7GBlBADUMga0OwAAAA&sa=X&ved=2ahUKEwjCot3J1ZnlAhVTXsAKHZYDCsAQxA0wgwF6BAhlEAw&cshid=1570984586877678)
+
+- [ ] [Jess Benhabib - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ_7trxi2QTY2eFOLCgcc9O64Rlvg:1570984569562&q=Jess+Benhabib&stick=H4sIAAAAAAAAAONgFuLSz9U3SCoyskjOUuIGsQ2N8soqMyq1-AJSi4rz84IzU1LLEyuLF7HyeqUWFys4peZlJCZlJu1gZQQAaUX-yj4AAAA&sa=X&ved=2ahUKEwjCot3J1ZnlAhVTXsAKHZYDCsAQxA0wgwF6BAhlEAY&cshid=1570984586877678)
+
+- [ ] [Douglas Bernheim - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQodSIZ9LrqdEmvalljhd7I0-PcIw:1571052530605&q=Douglas+Bernheim&stick=H4sIAAAAAAAAAONgFuLSz9U3SCoyskjOUgKzk3OqKk2ztPgCUouK8_OCM1NSyxMrixexCrjkl6bnJBYrOKUW5WWkZubuYGUEAPr4teVAAAAA&ved=0ahUKEwjGhIrg0pvlAhW1lFwKHV7aBW8Q-BYIODB_&biw=1920&bih=949#disable)
+
+- [ ] [Kelvin Lancaster - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSgdnDp4irbNBIgXyHyRxA4dViPfg:1570984649387&q=Kelvin+Lancaster&stick=H4sIAAAAAAAAAOPgE-LWz9U3MDTKK6vMqFTiBHGMc-MNTbQUMsqt9JPzc3JSk0sy8_P0C1LzC3JSrTLz0nJKU_OSU4sXsQp4p-aUZeYp-CTmJScWl6QWAQBmGUz_TwAAAA&ved=2ahUKEwjRrOXv1ZnlAhXiolwKHQSXAosQmxMoATBcegQIUhAq)
+
+- [ ] [Kevin Lewis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ6NDwICc7N1doDzPFAdIM8s-t4SQ%3A1571005094739&ei=pqKjXZbfLPTQxgPa4KKgBQ&q=Kevin+Lewis&oq=Kevin+Lewis&gs_l=psy-ab.3...5239.5239..6325...0.0..0.0.0.......0....1..gws-wiz.G0RhZU0mgSM&ved=0ahUKEwiWyvKEoprlAhV0qHEKHVqwCFQQ4dUDCAs&uact=5)
+
+- [ ] [Kremer, Michael - Google Search](https://www.google.com/search?q=Kremer%2C+Michael&oq=Kremer%2C+Michael&aqs=chrome..69i57.1265j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Matthew O. Jackson - Google Search](https://www.google.com/search?q=Matthew+O.+Jackson&oq=Matthew+O.+Jackson&aqs=chrome..69i57j69i61l4j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Philip J. Reny - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR3iyiIELch5GnV6jvBUdnlF9BaLw:1570984831264&q=Philip+J.+Reny&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4gIx80wszbKNtDQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrHyBWRk5mQWKHjpKQSl5lUCAFA_kIBUAAAA&ved=2ahUKEwjkpsLG1pnlAhXIUxUIHeAYCW8QmxMoAjB7egQIZBAv)
+
+- [ ] [prop.test() in r - Google Search](https://www.google.com/search?q=prop.test()+in+r&oq=prop.test()+in+r&aqs=chrome..69i57j0l2j69i65l3j69i60l2j69i61l2j69i60l2.4796j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [proportion test using normal approximation in r - Google Search](https://www.google.com/search?q=proportion+test+using+normal+approximation+in+r&oq=proportion+test+using+normal+approximation+in+r&aqs=chrome..69i57j33.9806j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Ralph Koijen - Google Search](https://www.google.com/search?q=Ralph+Koijen&oq=Ralph+Koijen&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [rejection level statistics - Google Search](https://www.google.com/search?q=rejection+level+statistics&oq=rejection+level+stat&aqs=chrome.0.0j69i57.13113j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Social and Economic Networks - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ_7trxi2QTY2eFOLCgcc9O64Rlvg:1570984569562&q=Social+and+Economic+Networks&stick=H4sIAAAAAAAAAONgFuLSz9U3SCoyskjOUuLRT9c3NErKtSgpyzDTEnAsLcnILwrJd8rPz_bPy6lcxCoTnJ-cmZijkJiXouCanJ-Xn5uZrOCXWlKeX5RdvIOVEQAW6ZwtUAAAAA&sa=X&ved=2ahUKEwjCot3J1ZnlAhVTXsAKHZYDCsAQxA0wgAF6BAhgEAQ&cshid=1570984586877678)
+
+- [ ] [The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors - Google Search](https://www.google.com/search?q=The+Human+Network%3A+How+Your+Social+Position+Determines+Your+Power%2C+Beliefs%2C+and+Behaviors&oq=The+Human+Network%3A+How+Your+Social+Position+Determines+Your+Power%2C+Beliefs%2C+and+Behaviors&aqs=chrome..69i57j69i64l2j69i61l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The Human Network: The Science Behind Our Hidden Positions in Life Matthew O. Jackson - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ_7trxi2QTY2eFOLCgcc9O64Rlvg:1570984569562&q=The+Human+Network:+The+Science+Behind+Our+Hidden+Positions+in+Life+Matthew+O.+Jackson&stick=H4sIAAAAAAAAABXIQQrCMBAAQEQKIgjiCxaPHozNSb3ZUxG1gvUBbbqatXYXkpTod3yFzxPnOKPhbKw6taqdXpvHfKLuKk2t1u61MXEx3fXBiislE2kLfr4_ybW0CHnfVQwnDFFcu4V_XQwhG4QMLXEDRe8gp6ZBhrN4CiTsgRgOdEM4ViFYjFAsYV-Z1gt_k8EPIYGDQ4oAAAA&sa=X&ved=2ahUKEwjCot3J1ZnlAhVTXsAKHZYDCsAQxA0wgAF6BAhgEAg&cshid=1570984586877678)
+
+- [ ] [Vijay Krishna - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR3iyiIELch5GnV6jvBUdnlF9BaLw:1570984831264&q=Vijay+Krishna&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4tVP1zc0zDBIMsswLEjS0sgot9JPzs_JSU0uyczP009MTkxJzc1MLrbKyy9JTMpJVSguKU1JzStZxMoblpmVWKngXZRZnJGXCACfrBWNVgAAAA&ved=2ahUKEwjkpsLG1pnlAhXIUxUIHeAYCW8QmxMoBTB7egQIZBAy)
+
+
+
+## 10/14/2019
+
+- [ ] [Hugo F. Sonnenschein - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5J-K8hzOwl8nOvrtxXZOBaas1g:1570984700550&q=Hugo+F.+Sonnenschein&stick=H4sIAAAAAAAAAOPgE-LSz9U3SCoyskjOUuIEsS3NzVOStdQyyq30k_NzclKTSzLz8_QLUvMLclKtUvKTS_KLEnMUElPKMovzixaxiniUpucruOkpBOfn5aXmFSdnpGbmAQAukW8VWAAAAA&sa=X&ved=2ahUKEwikmZiI1pnlAhUIXsAKHdIYCtoQmxMoATB7egQIaBAH)
+
+- [ ] [Chorus of Politicians, Executives and Experts Is Unable to Agree on the Key - The New York Times](https://www.nytimes.com/1998/01/12/us/chorus-of-politicians-executives-and-experts-is-unable-to-agree-on-the-key.html)
+
+- [ ] [Front Matter - 2007 - Econometrica - Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0262.2007.00730.x)
+
+- [ ] [Economic Systems and Comparative Economics II Hugo F. Sonnenschein - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTeu76stObZQO8t6iz_3vKdG6mplw:1571052510190&q=Economic+Systems+and+Comparative+Economics+II+Hugo+F.+Sonnenschein&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4tFP1zc0NDFMKUnJqNKSyk620k_Kz8_WTywtycgvsgKxixXy83IqF7E6uSbn5-XnZiYrBFcWl6TmFisk5qUoOOfnFiQWJZZklqUqwBQUK3h6KniUpucruOkpBOfn5aXmFSdnpGbmAQBzTOqkfAAAAA&ved=2ahUKEwiyjazW0pvlAhUHXsAKHeVXD_QQmxMoATB2egQIYxAc)
+
+- [ ] [Hugo F. Sonnenschein - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTeu76stObZQO8t6iz_3vKdG6mplw:1571052510190&q=Hugo+F.+Sonnenschein&stick=H4sIAAAAAAAAAONgFuLUz9U3sDQ3T0lWQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsYp4lKbnK7jpKQTn5-Wl5hUnZ6Rm5gEAEm7qSUQAAAA&ved=2ahUKEwiyjazW0pvlAhUHXsAKHeVXD_QQzTooATB7egQIYxA1)
+
+- [ ] [Stanley Reiter - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTeu76stObZQO8t6iz_3vKdG6mplw:1571052510190&q=Stanley+Reiter&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4gIxTdIMk6sKtDQzyq30k_NzclKTSzLz8_QTkxNTUnMzk4utYCyFxJSyzOL8okWsfMEliXk5qZUKQamZJalFAPaYoS9VAAAA&ved=2ahUKEwiyjazW0pvlAhUHXsAKHeVXD_QQmxMoATB5egQIYxAq)
+
+- [ ] [Faruk Gül - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTeu76stObZQO8t6iz_3vKdG6mplw:1571052510190&q=Faruk+G%C3%BCl&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4gIxTQzMk3JStDQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrFyuSUWlWYruB_ekwMATbTOpFAAAAA&ved=2ahUKEwiyjazW0pvlAhUHXsAKHeVXD_QQmxMoATB6egQIYxAu)
+
+- [ ] [Philip J. Reny - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTeu76stObZQO8t6iz_3vKdG6mplw:1571052510190&q=Philip+J.+Reny&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4gIx80wszbKNtDQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrHyBWRk5mQWKHjpKQSl5lUCAFA_kIBUAAAA&ved=2ahUKEwiyjazW0pvlAhUHXsAKHeVXD_QQmxMoAjB6egQIYxAv)
+
+- [ ] [Dilip Abreu - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTeu76stObZQO8t6iz_3vKdG6mplw:1571052510190&q=Dilip+Abreu&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4tVP1zc0TEmpyq5MzyvT0sgot9JPzs_JSU0uyczP009MTkxJzc1MLrbKyy9JTMpJVSguKU1JzStZxMrtkpmTWaDgmFSUWgoAN2VGsVQAAAA&ved=2ahUKEwiyjazW0pvlAhUHXsAKHeVXD_QQmxMoAzB6egQIYxAw)
+
+- [ ] [Donald John Roberts - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTeu76stObZQO8t6iz_3vKdG6mplw:1571052510190&q=Donald+John+Roberts&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4gIxjTNyDPOKtDQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrEKu-TnJeakKHjlZ-QpBOUnpRaVFAMAN37xxFkAAAA&ved=2ahUKEwiyjazW0pvlAhUHXsAKHeVXD_QQmxMoBDB6egQIYxAx)
+
+- [ ] [Vijay Krishna - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTeu76stObZQO8t6iz_3vKdG6mplw:1571052510190&q=Vijay+Krishna&stick=H4sIAAAAAAAAAOPgE-LUz9U3sDQ3T0lW4tVP1zc0zDBIMsswLEjS0sgot9JPzs_JSU0uyczP009MTkxJzc1MLrbKyy9JTMpJVSguKU1JzStZxMoblpmVWKngXZRZnJGXCACfrBWNVgAAAA&ved=2ahUKEwiyjazW0pvlAhUHXsAKHeVXD_QQmxMoBTB6egQIYxAy)
+
+- [ ] [VijayKrishna (Vijay Krishna Palepu)](https://github.com/VijayKrishna)
+
+- [ ] [Why isn't R. Vijay Krishna tenured? « Economics Job Market Rumors](https://www.econjobrumors.com/topic/why-isnt-r-vijay-krishna-tenured)
+
+- [ ] [Nawin Vijaya Krishna (@NawinVK) / Twitter](https://twitter.com/nawinvk?lang=en)
+
+- [ ] [Vijay Krishna Palepu](https://vijaykrishna.github.io/)
+
+- [ ] [(25) Why do big companies like YRF hire bad directors like Vijay Krishna Acharya? - Quora](https://www.quora.com/Why-do-big-companies-like-YRF-hire-bad-directors-like-Vijay-Krishna-Acharya)
+
+- [ ] [Industrial organization - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR0ghDDiCml79cjeFCbFcaci-xR6w:1571052894785&q=Industrial+organization&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwwSDLLMCxIUuLQz9U3SMkyNtWSySi30k_Oz8lJTS7JzM_TL0jNL8hJtUrLTM1JKV7EKu6Zl1JaXFKUmZijkF-UnpiXWZUIUgcAfAw3QFMAAAA&ved=2ahUKEwj7992N1JvlAhXxlFwKHVvWBKEQmxMoATBzegQIYRAh)
+
+- [ ] [Game theory - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR0ghDDiCml79cjeFCbFcaci-xR6w:1571052894785&q=Game+theory&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwwSDLLMCxIUuLQz9U3MDZJM9CSySi30k_Oz8lJTS7JzM_TL0jNL8hJtUrLTM1JKV7Eyu2emJuqUJKRml9UCQBYwaqaRwAAAA&ved=2ahUKEwj7992N1JvlAhXxlFwKHVvWBKEQmxMoAjBzegQIYRAi)
+
+- [ ] [Auction theory - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR0ghDDiCml79cjeFCbFcaci-xR6w:1571052894785&q=Auction+theory&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwwSDLLMCxIUuLUz9U3SDMvMszVkskot9JPzs_JSU0uyczP0y9IzS_ISbVKy0zNSSlexMrnWAoWVyjJSM0vqgQALWvUR0sAAAA&ved=2ahUKEwj7992N1JvlAhXxlFwKHVvWBKEQmxMoAzBzegQIYRAj)
+
+- [ ] [Electoral system - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR0ghDDiCml79cjeFCbFcaci-xR6w:1571052894785&q=Electoral+system&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwwSDLLMCxIUuLQz9U3MI83M9aSySi30k_Oz8lJTS7JzM_TL0jNL8hJtUrLTM1JKV7EKuAKksgvSsxRKK4sLknNBQC_7k4uTAAAAA&ved=2ahUKEwj7992N1JvlAhXxlFwKHVvWBKEQmxMoBDBzegQIYRAk)
+
+
+## 10/14/2019
+
+- [ ] [A Capitalism for the People - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSZLYye3vGzOInpqFTWBdFoxTRwWg:1571055676032&q=A+Capitalism+for+the+People&stick=H4sIAAAAAAAAAONgFuLSz9U3MM9OtzBJUgKzsw2TK6qStAQcS0sy8otC8p3y87P983IqF7FKOyo4JxZkliTmZBbnKqTlFymUZKQqBKTmF-Sk7mBlBACOLR7oTQAAAA&sa=X&ved=2ahUKEwiZ5Pe73pvlAhVJVsAKHUAPDZMQxA0wgAF6BAhhEAQ)
+
+- [ ] [Deutsche Bank Prize in Financial Economics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRQxUCilw26F8I-5EGLp_1j6zLX7w:1571055695624&q=Deutsche+Bank+Prize+in+Financial+Economics&stick=H4sIAAAAAAAAAOPgE-LSz9U3MCovq0gpUwKzTcyLKpMMtGSzk630E8sTi1IgZHx5Zl5eapEVmFO8iFXLJbW0pDg5I1XBKTEvWyGgKLMqVSEzT8EtMy8xLzkzMUfBNTk_Lz83M7kYAHCpcVxmAAAA&sa=X&ved=2ahUKEwiOuaPF3pvlAhWhlFwKHefuB4IQmxMoATB8egQIZxAS)
+
+- [ ] [Dynamic General Equilibrium Models with Imperfectly Competitive Product Markets Michael Dean Woodford - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRQxUCilw26F8I-5EGLp_1j6zLX7w:1571055695624&q=Dynamic+General+Equilibrium+Models+with+Imperfectly+Competitive+Product+Markets+Michael+Dean+Woodford&stick=H4sIAAAAAAAAAA3HQQrCMBAAQEQKIgjiCxaPXmLFD6gV8VD0IHiUNNnapUnWpklrv-MrfJ7ObSbjxVRYsd703Vt3y5l4ijQt-qF5tGG7mu9iqNjfeM9cX5wZPglmg5OWFJzQoZcGjk0kQ4WnaCFnjaaFnkIFZ_tCX6IKZoAD_xMoUIdw9ayjCpBLX2NoISdVSTSQoXRwZ9Yle_1NRj-kzrH5mgAAAA&sa=X&ved=2ahUKEwiOuaPF3pvlAhWhlFwKHefuB4IQxA0wf3oECGUQBg)
+
+- [ ] [Interest and prices Michael Dean Woodford - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRQxUCilw26F8I-5EGLp_1j6zLX7w:1571055695624&q=Interest+and+prices+Michael+Dean+Woodford&stick=H4sIAAAAAAAAAONgFuLSz9U3MCovq0gpUwKzk3MqzCxMtAQcS0sy8otC8p3y87P983IqF7FqeuaVpBalFpcoJOalKBQUZSanFiv4ZiZnJKbmKLikJuYphOfnp6TlF6XsYGUEACCDRxlbAAAA&sa=X&ved=2ahUKEwiOuaPF3pvlAhWhlFwKHefuB4IQxA0wf3oECGUQBA)
+
+- [ ] [Is the Business Cycle a Necessary Consequence of Stochastic Growth? Michael Dean Woodford - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRQxUCilw26F8I-5EGLp_1j6zLX7w:1571055695624&q=Is+the+Business+Cycle+a+Necessary+Consequence+of+Stochastic+Growth%3F+Michael+Dean+Woodford&stick=H4sIAAAAAAAAAA3IPQrCMBQAYEQKIgjiCR6OLrHiLraCOKiDgjiG5NVE0zzNT2s8jqfweHb8vkF_MmQ1my_a5i2b6YjdWJ7Lz7K-P4WdjdcxKHJnKogeR2vSN7vuPASFUESvLXoPZRIGgcMBRUfuEpRkPb4iWoFAFZwCCcV90AK2jtqgVrDX3aCBDXILFyJZkZO_rPcHvjGsc44AAAA&sa=X&ved=2ahUKEwiOuaPF3pvlAhWhlFwKHefuB4IQxA0wf3oECGUQCA)
+
+- [ ] [Luigi Zingales - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSZLYye3vGzOInpqFTWBdFoxTRwWg:1571055676032&q=Luigi+Zingales&stick=H4sIAAAAAAAAAONgFuLSz9U3MM9OtzBJUkJia0llJ1vpF6TmF-SkAqmi4vw8q-LMlNTyxMriRax8PqWZ6ZkKUZl56Yk5qcU7WBkB2tIkz0oAAAA&sa=X&ved=2ahUKEwiZ5Pe73pvlAhVJVsAKHUAPDZMQzTooATCDAXoECGIQAg)
+
+- [ ] [Paola Sapienza - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSZLYye3vGzOInpqFTWBdFoxTRwWg:1571055676032&q=Paola+Sapienza&stick=H4sIAAAAAAAAAONgFuLSz9U3MM9OtzBJUuLVT9c3NEw2N45Pz8lJ1-ILSC0qzs8LzkxJLU-sLF7EyheQmJ-TqBCcWJCZmleVuIOVEQC1jKR-QQAAAA&sa=X&ved=2ahUKEwiZ5Pe73pvlAhVJVsAKHUAPDZMQxA0wgwF6BAhiEAU)
+
+
