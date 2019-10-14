@@ -181,3 +181,19 @@
 - [ ] [FP Top 100 Global Thinkers - Wikipedia](https://en.wikipedia.org/wiki/FP_Top_100_Global_Thinkers)
 
 - [ ] [Germán Bernácer Prize - Wikipedia](https://en.wikipedia.org/wiki/Germ%C3%A1n_Bern%C3%A1cer_Prize)
+
+
+
+## 10/14/2019
+
+- [ ] [Chicago Tribune - We are currently unavailable in your region](https://www.tribpub.com/gdpr/chicagotribune.com/)
+
+- [ ] [The Neolithic Agricultural Revolution and the Origins of Private Property | Journal of Political Economy: Vol 127, No 5](https://www.journals.uchicago.edu/doi/10.1086/701789)
+
+- [ ] [Patent Buyouts: A Mechanism for Encouraging Innovation* | The Quarterly Journal of Economics | Oxford Academic](https://academic.oup.com/qje/article-abstract/113/4/1137/1916997?redirectedFrom=fulltext)
+
+- [ ] [How the pneumococcal AMC works - Gavi, the Vaccine Alliance](https://www.gavi.org/investing/innovative-financing/pneumococcal-amc/how-the-pneumococcal-amc-works/)
+
+- [ ] [Population Growth and Technological Change: One Million B.C. to 1990 on JSTOR](https://www.jstor.org/stable/2118405?seq=1#page_scan_tab_contents)
+
+- [ ] [The O-Ring Theory of Economic Development on JSTOR](https://www.jstor.org/stable/2118400?seq=1#page_scan_tab_contents)
