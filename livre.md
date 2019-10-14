@@ -1155,3 +1155,20 @@ https://www.theguardian.com/environment/gallery/2019/oct/08/royal-society-of-bio
 - [ ] [Library Genesis: Matthew O. Jackson - The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors](http://libgen.is/book/index.php?md5=C1A4A38843FFB18D11058B2668A671B2)
 
 - [ ] [Library Genesis](http://93.174.95.29/_ads/4D00C0E1E8865B59CCC0D8AEDD708BB1)
+
+
+## 10/14/2019
+
+
+Library Genesis
+http://libgen.is/search.php?&req=Andy+Kirk&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?req=Neural+Networks%3A+A+Comprehensive+Foundation&open=0&res=25&view=simple&phrase=1&column=def
+
+Library Genesis
+http://libgen.is/search.php?&req=Simon+Haykin&phrase=0&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?&req=Elliott+Sober&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+

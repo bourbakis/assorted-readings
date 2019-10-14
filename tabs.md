@@ -52,3 +52,133 @@
 - [ ] [How to Test Data Proportions with R - dummies](https://www.dummies.com/programming/r/how-to-test-data-proportions-with-r/)
 
 - [ ] [2.3 z-tests for proportions, categorical outcomes](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual13.html)
+
+
+Joseph Antoine Ferdinand Plateau - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNStjIzmPrPCCILCsLqsfmmOFL0B4Q:1571033415057&q=Joseph+Antoine+Ferdinand+Plateau&oi=ddle&ct=119276541&hl=en&sa=X&ved=0ahUKEwiO44bFi5vlAhUDcq0KHeiKBPsQPQgN&biw=1366&bih=694&dpr=1
+
+Nelson Goodman - Wikipedia
+https://en.wikipedia.org/wiki/Nelson_Goodman
+
+Bias - Wikipedia
+https://en.wikipedia.org/wiki/Bias
+
+Abductive reasoning - Wikipedia
+https://en.wikipedia.org/wiki/Abductive_reasoning
+
+Falsifiability - Wikipedia
+https://en.wikipedia.org/wiki/Falsifiability
+
+Ad hoc hypothesis - Wikipedia
+https://en.wikipedia.org/wiki/Ad_hoc_hypothesis
+
+Hickam's dictum - Wikipedia
+https://en.wikipedia.org/wiki/Hickam%27s_dictum
+
+Hitchens's razor - Wikipedia
+https://en.wikipedia.org/wiki/Hitchens%27s_razor
+
+Greedy reductionism - Wikipedia
+https://en.wikipedia.org/wiki/Greedy_reductionism
+
+Skeptical movement - Wikipedia
+https://en.wikipedia.org/wiki/Skeptical_movement#Scientific_skepticism
+
+Simplicity - Wikipedia
+https://en.wikipedia.org/wiki/Simplicity
+
+Sparse matrix - Wikipedia
+https://en.wikipedia.org/wiki/Sparse_matrix
+
+Elliott Sober - Wikipedia
+https://en.wikipedia.org/wiki/Elliott_Sober
+
+Mary Hesse - Wikipedia
+https://en.wikipedia.org/wiki/Mary_Hesse
+
+Richard Lewontin - Wikipedia
+https://en.wikipedia.org/wiki/Richard_Lewontin
+
+David Sloan Wilson - Wikipedia
+https://en.wikipedia.org/wiki/David_Sloan_Wilson
+
+Mike Steel (mathematician) - Wikipedia
+https://en.wikipedia.org/wiki/Mike_Steel_(mathematician)
+
+Maximum parsimony (phylogenetics) - Wikipedia
+https://en.wikipedia.org/wiki/Maximum_parsimony_(phylogenetics)
+
+Hilary Putnam - Wikipedia
+https://en.wikipedia.org/wiki/Hilary_Putnam
+
+The Myth of Occam's Razor - Wikisource, the free online library
+https://en.wikisource.org/wiki/The_Myth_of_Occam%27s_Razor
+
+实事求是为什么如此重要--理论-人民网
+http://theory.people.com.cn/n1/2018/0928/c40531-30317911.html
+
+Top Shots: October 9, 2019 | National Review
+https://www.nationalreview.com/photos/top-shots-interesting-images-photo-gallery-october-9-2019/
+
+Kyle Smith | National Review
+https://www.nationalreview.com/author/kyle-smith/
+
+No Free Lunch Theorems
+http://www.no-free-lunch.org/
+
+The dangers of anti-populism - spiked
+https://www.spiked-online.com/2019/05/03/the-dangers-of-anti-populism/
+
+The Not-So-New Populism | The American Conservative
+https://www.theamericanconservative.com/articles/the-not-so-new-populism-farage-le-pen-orban/
+
+The Guardian view on Macron’s anti-populism: rhetoric is not enough | Editorial | Opinion | The Guardian
+https://www.theguardian.com/commentisfree/2018/sep/26/the-guardian-view-on-macrons-anti-populism-rhetoric-is-not-enough
+
+New Tab
+about:newtab
+
+New Tab
+about:newtab
+
+
+
+Swift Monads - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Swift+Monads
+
+deep learning tensorflwo and partia differntial equations - Google Search
+https://www.google.com/search?client=firefox-b-d&q=deep+learning+tensorflwo+and+partia+differntial+equations
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&cad=rja&uact=8&ved=2ahUKEwj-xvvK45rlAhVKiqwKHcn3DdYQFjARegQIQBAC&url=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-02005362%2Ffile%2FMLBSDE-HPW.pdf&usg=AOvVaw3Y0CyW1n_8nwg3HUuWLX9K
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&cad=rja&uact=8&ved=2ahUKEwj-xvvK45rlAhVKiqwKHcn3DdYQFjARegQIQBAC&url=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-02005362%2Ffile%2FMLBSDE-HPW.pdf&usg=AOvVaw3Y0CyW1n_8nwg3HUuWLX9K
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&cad=rja&uact=8&ved=2ahUKEwj-xvvK45rlAhVKiqwKHcn3DdYQFjASegQIRBAC&url=https%3A%2F%2Fwww.uni-muenster.de%2FAMM%2Fnum%2Fwirth%2Fpeople%2FBraunsmann%2Fpresentation.pdf&usg=AOvVaw3NCTvitOZUgEFvC2_RUP5P
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&cad=rja&uact=8&ved=2ahUKEwj-xvvK45rlAhVKiqwKHcn3DdYQFjASegQIRBAC&url=https%3A%2F%2Fwww.uni-muenster.de%2FAMM%2Fnum%2Fwirth%2Fpeople%2FBraunsmann%2Fpresentation.pdf&usg=AOvVaw3NCTvitOZUgEFvC2_RUP5P
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&uact=8&ved=2ahUKEwj-xvvK45rlAhVKiqwKHcn3DdYQFjAUegQIRhAC&url=ftp%3A%2F%2Fftp.math.ucla.edu%2Fpub%2Fcamreport%2Fcam17-41.pdf&usg=AOvVaw39Tsh8mVxN-fEsxN_a-KGu
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&uact=8&ved=2ahUKEwj-xvvK45rlAhVKiqwKHcn3DdYQFjAUegQIRhAC&url=ftp%3A%2F%2Fftp.math.ucla.edu%2Fpub%2Fcamreport%2Fcam17-41.pdf&usg=AOvVaw39Tsh8mVxN-fEsxN_a-KGu
+
+Approximation with Artificial Neural Networks - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNTuLEYNbCpR1IFSrAGzqxfZjpStcA%3A1571023354492&ei=-umjXcrKHdD8tAXSpJSABg&q=Approximation+with+Artificial+Neural+Networks&oq=Approximation+with+Artificial+Neural+Networks&gs_l=psy-ab.12..0j0i22i30l3.53670.53670..54911...0.5..0.401.401.4-1......0....2j1..gws-wiz.......0i71.3Eqg_JpYgGs&ved=0ahUKEwjKr-mH5prlAhVQPq0KHVISBWAQ4dUDCAo
+
+The Elitism of the “Anti-Populists”
+https://jacobinmag.com/2019/09/the-elitism-of-the-anti-populists
+
+[1710.11278] Approximating Continuous Functions by ReLU Nets of Minimal Width
+https://arxiv.org/abs/1710.11278
+
+Neural networks for solving differential equations - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/neural-networks-for-solving-differential-equations-fa230ac5e04c
+
+Artificial Neuron Networks(Basics) | Introduction to Neural Networks
+https://becominghuman.ai/artificial-neuron-networks-basics-introduction-to-neural-networks-3082f1dcca8c
+
+Error | Astrill VPN
+http://matt.colorado.edu/teaching/highcog/spr10/readings/mm85.pdf
+
+Danyel Fisher
+https://danyelfisher.info/
+
+John T. Stasko Home Page
+https://www.cc.gatech.edu/~stasko/
+
