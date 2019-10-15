@@ -486,3 +486,60 @@ https://www.cc.gatech.edu/~stasko/
 
 - [ ] [The Nobel Prize in Economic Science Goes to Banerjee, Duflo, and Kremer - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/the-nobel-prize-in-economic-science-goes-to-banerjee-duflo-and-kremer.html)
 
+
+
+
+Problem loading page
+https://www.yuque.com/dashboard
+
+百度推广
+https://tuiguang.baidu.com/home.html?userid=24283231&castk=04a87zj73d16beb2ed749
+
+Problem loading page
+https://cas.baidu.com/?action=check&appid=3&u=https%3A%2F%2Ffengchao.baidu.com%2Fhairuo%2Fmain.do%3Fuserid%3D24283231%26rurl%3Dhttps%3A%2F%2Ffengchao.baidu.com%2Ffc%2Fmanage%2Fdashboard%2Fuser%2F24283231%2Foverview
+
+deeplearningbook.org/contents/prob.html
+http://www.deeplearningbook.org/contents/prob.html
+
+deeplearningbook.org/contents/numerical.html
+http://www.deeplearningbook.org/contents/numerical.html
+
+deeplearningbook.org/contents/representation.html
+http://www.deeplearningbook.org/contents/representation.html
+
+My Early Life. A Roving Commission.
+https://www.fadedpage.com/showbook.php?pid=20160543
+
+hadrienj/deepLearningBook-Notes: Notes on the Deep Learning book from Ian Goodfellow, Yoshua Bengio and Aaron Courville (2016)
+https://github.com/hadrienj/deepLearningBook-Notes
+
+The world’s leading software development platform · GitHub
+https://github.com/
+
+esther duflo - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNTrqXKSMjuZHFjLsqFqBVPsfBvHCg:1571107607508&q=esther+duflo&stick=H4sIAAAAAAAAAONgFuLUz9U3MDQsNzVR4gIxTQxMsotytBSyk630E8sTi1IgZHxyYklqen5RpVV5Zl5ealHxIlae1OKSjNQihZTStJx8AHpR8flKAAAA&sa=X&ved=2ahUKEwiyreX2n53lAhUDMawKHdUDCKgQri4wkQF6BAhmEDY&biw=1366&bih=672
+
+deep learning goodfellow source python - Google Search
+https://www.google.com/search?client=firefox-b-d&q=deep+learning+goodfellow+source+python
+
+Jean Tirole - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNTMK8w1P_sYC1hFTnxniUU2lSJnkQ%3A1571109446006&ei=RTqlXa__PI6OsQW2oLfwBA&q=Jean+Tirole&oq=Jean+Tirole&gs_l=psy-ab.3..0i131i273j0i67l4j0i20i263j0l4.9160.9160..9807...0.4..0.422.422.4-1......0....2j1..gws-wiz.......0i71.xeWFQEwT7eM&ved=0ahUKEwjvtbrjpp3lAhUOR6wKHTbQDU4Q4dUDCAo&uact=5
+
+jean tirole books - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQG8ZwtR4SmPpIW1vrJQ85yJ1rvBA:1571109460694&q=jean+tirole+books&stick=H4sIAAAAAAAAAONgFuLUz9U3SDZOzrVQQjC1pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWsglmpiXkKJZlF-TmpCmCJHayMADhY0uNLAAAA&sa=X&ved=2ahUKEwi89Lrqpp3lAhVRd6wKHeJRCogQzTooATB-egQIaxAC
+
+jean-jacques laffont books - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sa=X&sxsrf=ACYBGNQwN4ZV7IOxNuB1x8lyTC5LnPl-FQ:1571109458740&q=jean-jacques+laffont+books&stick=H4sIAAAAAAAAAONgFuLUz9U3MCu2tCxTQjC1pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWsUlmpiXm6WYnJhaWpxQo5iWlp-XklCmAVO1gZASoKC3FUAAAA&ved=2ahUKEwjl28Pppp3lAhVBAqwKHes-BkoQzTooATB_egQIYhAt
+
+françois bourguignon books - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sa=X&sxsrf=ACYBGNRVa_NkdYm6A5U4oixJXsSaNWU7DQ:1571109486968&q=fran%C3%A7ois+bourguignon+books&stick=H4sIAAAAAAAAAONgFuLUz9U3MM0wLDdTQjC1pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWs0mlFiXmHl-dnFisk5ZcWpZdmpufl5ymAlexgZQQAclf921UAAAA&ved=2ahUKEwi3yf72pp3lAhUER6wKHcNJCkUQzTooATB2egQIZRAm&biw=1366&bih=672
+
+How to break a CAPTCHA system in 15 minutes with Machine Learning
+https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
+
+Deep Learning from first principles in Python, R and Octave — Part 1
+https://medium.com/@tvganesh_85/deep-learning-from-first-principles-in-python-r-and-octave-part-1-7aa8eed786ce
+
+(29) What is deep learning? Why is this a growing trend in machine learning? Why not use SVMs? - Quora
+https://www.quora.com/What-is-deep-learning-Why-is-this-a-growing-trend-in-machine-learning-Why-not-use-SVMs
+
