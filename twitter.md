@@ -305,3 +305,44 @@ https://twitter.com/HigherGeometer
 - [ ] [Tim Rocktäschel (@_rockt) / Twitter](https://twitter.com/_rockt)
 
 - [ ] [Zachary Lipton (@zacharylipton) / Twitter](https://twitter.com/zacharylipton)
+
+
+
+## 10/15/2019
+
+ホーム / Twitter
+https://twitter.com/home
+
+honor sachs（@drhonor）さん / Twitter
+https://twitter.com/drhonor
+
+Kevin Gannon this is a Hegel stan account（@TheTattooedProf）さん / Twitter
+https://twitter.com/TheTattooedProf
+
+Yicai Global 第一财经さんはTwitterを使っています: 「Troubled Taojiji's Founder Claims Buyout Is at E-Commerce Startup's Door https://t.co/F6FaJKb1LK https://t.co/aRU9kBCKhB」 / Twitter
+https://twitter.com/yicaichina/status/1183991593763782656
+
+@tsxjs/@robertwiblin / @TwubblerさんはTwitterを利用しています / Twitter
+https://twitter.com/tsxjs/lists/robertwiblin-twubbler
+
+@tsxjs/@jbarro / @TwubblerさんはTwitterを利用しています / Twitter
+https://twitter.com/tsxjs/lists/jbarro-twubbler
+
+Representation theorem - Wikipedia
+https://en.wikipedia.org/wiki/Representation_theorem
+
+Rockefeller Sanitary Commission - Wikipedia
+https://en.wikipedia.org/wiki/Rockefeller_Sanitary_Commission
+
+Feature learning - Wikipedia
+https://en.wikipedia.org/wiki/Feature_learning
+
+Esther Duflo - Wikipedia
+https://en.wikipedia.org/wiki/Esther_Duflo
+
+Dean Karlan - Wikipedia
+https://en.wikipedia.org/wiki/Dean_Karlan
+
+Joshua Angrist - Wikipedia
+https://en.wikipedia.org/wiki/Joshua_Angrist
+
