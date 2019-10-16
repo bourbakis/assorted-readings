@@ -738,3 +738,50 @@ http://uc-r.github.io/regression_trees
 Quick-R: Tree-Based Models
 https://www.statmethods.net/advstats/cart.html
 
+
+
+
+#10/16/2019
+
+PsyArXiv Preprints | Beliefs about Human Intelligence in a Sample of Teachers and Non-Teachers
+https://psyarxiv.com/uctxp/
+
+Stratechery by Ben Thompson – On the business, strategy, and impact of technology.
+https://stratechery.com/
+
+Sinocism
+https://sinocism.com/
+
+Sinocism
+https://sinocism.com/
+
+Libra Launches, Loses Members; A Note on Facebook v Warren; The Office of Emerging Technologies – Stratechery by Ben Thompson
+https://stratechery.com/2019/libra-launches-loses-members-a-note-on-facebook-v-warren-the-office-of-emerging-technologies/
+
+New San Francisco Office Could Curb 'Reckless' Rollouts of Emerging Tech | KQED News
+https://www.kqed.org/news/11778738/new-s-f-office-could-curb-reckless-rollouts-of-emerging-tech
+
+5 things to start your day - fpcmotif@gmail.com - Gmail
+https://mail.google.com/mail/u/1/#inbox/FMfcgxwDrlZFrQmGlzHHmsLHQqrXKnvd
+
+Brexit Bulletin: Mind the gap - fpcmotif@gmail.com - Gmail
+https://mail.google.com/mail/u/1/#inbox/FMfcgxwDrlZGBdGhNZcSghHTdGzHfxGW
+
+immutable distributed hash table erlang - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQSU9KORC7MQDvyhdK6el2253dlcA%3A1571213182353&ei=fs-mXZ2aFY_usQX94YWgCA&q=immutable+distributed+hash+table+erlang&oq=immutable+distributed+hash+table+erlang&gs_l=psy-ab.3...116.227..1422...0.0..0.0.0.......0....1..gws-wiz.A1VoAgxHxI0&ved=0ahUKEwid0eacqaDlAhUPd6wKHf1wAYQQ4dUDCAo&uact=5
+
+Mutable Value Chains - <h1>Joe Armstrong - Erlang and other stuff</h1>
+https://joearms.github.io/published/2015-06-19-Mutable-Value_Chains.html
+
+Distributed hash table - Wikipedia
+https://en.wikipedia.org/wiki/Distributed_hash_table
+
+Distributed Hash Table - Erlang Tutorials by Cole Fichter
+http://erlang-tutorials.colefichter.ca/dht1
+
+Distributed Hash Table - Erlang Tutorials by Cole Fichter
+http://erlang-tutorials.colefichter.ca/dht1
+
+Erlang -- Miscellaneous Mnesia Features
+http://erlang.org/documentation/doc-5.8.3/lib/mnesia-4.4.17/doc/html/Mnesia_chap5.html
+
