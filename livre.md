@@ -1210,3 +1210,55 @@ http://libgen.is/search.php?req=David+K.+Levine&lg_topic=libgen&open=0&view=simp
 
 
 - [ ] [Library Genesis](http://libgen.is/search.php?req=Daniel+Treisman&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+
+### comparative politics and urban & religeon economics
+
+Library Genesis
+http://libgen.is/search.php?req=Cambridge+Studies+in+Comparative+Politics&column=series
+
+Library Genesis
+http://libgen.is/search.php?req=Advances+in+Urban+and+Regional+Economics&open=0&res=25&view=simple&phrase=1&column=series
+
+Library Genesis
+http://libgen.is/search.php?req=+David+Pines+%28auth.%29&column=author
+
+Library Genesis
+http://libgen.is/search.php?req=Yorgos+Y.+Papageorgiou&column=author
+
+Library Genesis: Sock-Yong Phang - Policy Innovations for Affordable Housing In Singapore
+http://libgen.is/book/index.php?md5=E20D19D3C380E87F986062E6690A62BE
+
+Library Genesis: Benjamin Higgins, Donald J. Savoie - Regional Economic Development: Essays in Honour of Francois Perroux
+http://libgen.is/book/index.php?md5=E2807EAD510509532832BC87DCF2B61C
+
+Library Genesis: Marco Magnani (auth.) - Creating Economic Growth: Lessons for Europe
+http://libgen.is/book/index.php?md5=A2D678F914C2EE8BF0EC015763939EE9
+
+Library Genesis
+http://libgen.is/search.php?req=Palgrave+Advances+in+Regional+and+Urban+Economics&column=series
+
+Library Genesis
+http://libgen.is/search.php?req=Studies+in+Urban+Economics&column=series
+
+Library Genesis: David Segal - The Economics of Neighborhood. Studies in Urban Economics
+http://libgen.is/book/index.php?md5=9EF3261C4F723F6A6B7F8E448D3CCA5B
+
+Library Genesis
+http://libgen.is/search.php?req=David+Segal&column=author
+
+Library Genesis: J. Vernon Henderson and Edwin S. Mills (Auth.) - Economic Theory and the Cities
+http://libgen.is/book/index.php?md5=03E0CB1EFB4EC8E5E7BF9E88F7731112
+
+Library Genesis
+http://libgen.is/search.php?req=Edwin+S.+Mills+%28Auth.%29&column=author
+
+Library Genesis
+http://libgen.is/search.php?req=J.+Vernon+Henderson&column=author
+
+Library Genesis
+http://libgen.is/search.php?req=Michael+J.+Greenwood&column=author
+
+Library Genesis
+http://libgen.is/search.php?req=Edwin+S.+Mills+%28Auth.%29&column=author
+
