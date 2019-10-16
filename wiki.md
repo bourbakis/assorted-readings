@@ -211,3 +211,42 @@ https://www.youtube.com/watch?v=M0t4uq-gpUA
 - [ ] [Richard T. Ely - Wikipedia](https://en.wikipedia.org/wiki/Richard_T._Ely)
 
 - [ ] [Thomas Lemieux - Wikipedia](https://en.wikipedia.org/wiki/Thomas_Lemieux)
+
+
+
+
+## 10/16/2019
+
+Caroline Hoxby - Wikipedia
+https://en.wikipedia.org/wiki/Caroline_Hoxby
+
+Martin Hellwig - Wikipedia
+https://en.wikipedia.org/wiki/Martin_Hellwig
+
+Dale T. Mortensen - Wikipedia
+https://en.wikipedia.org/wiki/Dale_T._Mortensen
+
+Christopher A. Pissarides - Wikipedia
+https://en.wikipedia.org/wiki/Christopher_A._Pissarides
+
+Tony Atkinson - Wikipedia
+https://en.wikipedia.org/wiki/Tony_Atkinson
+
+MacArthur Fellows Program - Wikipedia
+https://en.wikipedia.org/wiki/MacArthur_Fellows_Program
+
+Gabriel Zucman - Wikipedia
+https://en.wikipedia.org/wiki/Gabriel_Zucman
+
+Raj Chetty - Wikipedia
+https://en.wikipedia.org/wiki/Raj_Chetty
+
+Tax policy and economic inequality in the United States - Wikipedia
+https://en.wikipedia.org/wiki/Tax_policy_and_economic_inequality_in_the_United_States
+
+Income inequality in the United States - Wikipedia
+https://en.wikipedia.org/wiki/Income_inequality_in_the_United_States
+
+Economic inequality - Wikipedia
+https://en.wikipedia.org/wiki/Economic_inequality
+
