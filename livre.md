@@ -1172,3 +1172,37 @@ http://libgen.is/search.php?&req=Simon+Haykin&phrase=0&view=simple&column=def&so
 Library Genesis
 http://libgen.is/search.php?&req=Elliott+Sober&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
 
+
+
+
+## 10/14/2019
+
+### main about economic inequality and others
+
+Library Genesis
+http://libgen.is/search.php?req=Gabriel+Zucman&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+
+Library Genesis
+http://libgen.is/search.php?req=La+R%C3%A9publique+des+Id%C3%A9es&column=series
+
+Library Genesis
+http://libgen.is/
+
+Library Genesis
+http://libgen.is/search.php?&req=G%C3%89rard+Roland&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?req=Studies+in+Development+Economics+and+Policy&column=series
+
+Library Genesis
+http://libgen.is/search.php?req=+Emmanuel+Saez&column=author
+
+Library Genesis
+http://libgen.is/search.php?req=Camille+Landais&column=author
+
+Library Genesis
+http://libgen.is/search.php?req=+Gabriel+Zucman&column=author
+
+Library Genesis
+http://libgen.is/search.php?req=David+K.+Levine&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+
