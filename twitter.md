@@ -346,3 +346,22 @@ https://en.wikipedia.org/wiki/Dean_Karlan
 Joshua Angrist - Wikipedia
 https://en.wikipedia.org/wiki/Joshua_Angrist
 
+
+
+## 10/16/2019
+
+twitter.com/ryancbriggs
+https://twitter.com/ryancbriggs
+
+twitter.com/governwell
+https://twitter.com/governwell
+
+twitter.com/NilimaGulrajani
+https://twitter.com/NilimaGulrajani
+
+twitter.com/TanArrowz
+https://twitter.com/TanArrowz
+
+twitter.com/PabloYanguas
+https://twitter.com/PabloYanguas
+`
