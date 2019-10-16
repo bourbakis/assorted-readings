@@ -1206,3 +1206,7 @@ http://libgen.is/search.php?req=+Gabriel+Zucman&column=author
 Library Genesis
 http://libgen.is/search.php?req=David+K.+Levine&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
 
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Andrei+Shleifer+&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Daniel+Treisman&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
