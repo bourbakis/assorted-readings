@@ -49,3 +49,69 @@ http://homes.di.unimi.it/~cesabian/CDS/Part_10.html
 Universal approximation theorem - Wikipedia
 https://en.wikipedia.org/wiki/Universal_approximation_theorem
 
+
+
+
+Caroline Hoxby - Wikipedia
+https://en.wikipedia.org/wiki/Caroline_Hoxby
+
+Emmanuel Saez
+https://eml.berkeley.edu/~saez/
+
+MIT Economics : Peter Diamond
+http://economics.mit.edu/faculty/pdiamond
+
+Library Genesis
+http://libgen.is/search.php?req=David+K.+Levine&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+
+Finance & Development, September 2000 - Book Reviews
+https://www.imf.org/external/pubs/ft/fandd/2000/09/books.htm
+
+John D. Boy
+https://www.jboy.space/
+
+Martin Hellwig - Wikipedia
+https://en.wikipedia.org/wiki/Martin_Hellwig
+
+Dale T. Mortensen - Wikipedia
+https://en.wikipedia.org/wiki/Dale_T._Mortensen
+
+Christopher A. Pissarides - Wikipedia
+https://en.wikipedia.org/wiki/Christopher_A._Pissarides
+
+Tony Atkinson - Wikipedia
+https://en.wikipedia.org/wiki/Tony_Atkinson
+
+MacArthur Fellows Program - Wikipedia
+https://en.wikipedia.org/wiki/MacArthur_Fellows_Program
+
+Gabriel Zucman - Wikipedia
+https://en.wikipedia.org/wiki/Gabriel_Zucman
+
+Raj Chetty - Wikipedia
+https://en.wikipedia.org/wiki/Raj_Chetty
+
+img.slate.com/media/3/100914_NoahT_GreatDivergence.pdf
+about:blank
+
+Tax policy and economic inequality in the United States - Wikipedia
+https://en.wikipedia.org/wiki/Tax_policy_and_economic_inequality_in_the_United_States
+
+Income inequality in the United States - Wikipedia
+https://en.wikipedia.org/wiki/Income_inequality_in_the_United_States
+
+American Economic Association
+https://www.aeaweb.org/
+
+Taxing Job Creators - The New York Times
+https://krugman.blogs.nytimes.com/2011/11/22/taxing-job-creators/
+
+Essays on the economics of income taxation
+https://dspace.mit.edu/handle/1721.1/38434
+
+Economic inequality - Wikipedia
+https://en.wikipedia.org/wiki/Economic_inequality
+
+New Tab
+about:newtab
+
