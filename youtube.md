@@ -512,3 +512,44 @@
 - [ ] [YouTube](https://www.youtube.com/)
 
 - [ ] [YouTube](https://www.youtube.com/)
+
+
+
+
+# 10/17/2019
+
+## about CS theory and a little math 
+
+MIT economists Esther Duflo and Abhijit Banerjee win Nobel Prize (press conference) - YouTube
+https://www.youtube.com/watch?v=YBGrYxWbyhg
+
+The Applications of Matrices | What I wish my teachers told me way earlier - YouTube
+https://www.youtube.com/watch?v=rowWM-MijXU
+
+Visualising irrationality with triangular squares - YouTube
+https://www.youtube.com/watch?v=yk6wbvNPZW0
+
+YouTube
+https://www.youtube.com/watch?v=7KGdE2AK_MQ
+
+🍯 Is a Realistic Honey Simulation Possible? - YouTube
+https://www.youtube.com/watch?v=7SM816P5G9s
+
+What Computers Can't Do - with Kevin Buzzard - YouTube
+https://www.youtube.com/watch?v=jQPb7DRMoZY
+
+Mathieu Ropert “This Videogame Programmer Used the STL and You Will Never Guess What Happened Next” - YouTube
+https://www.youtube.com/watch?v=6hC9IxqdDDw
+
+"Categories for the Working Hacker" by Philip Wadler - YouTube
+https://www.youtube.com/watch?v=gui_SE8rJUM
+
+sdkcarlos (Carlos Delgado)
+https://github.com/sdkcarlos
+
+Simple Image Search Engine - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Simple+Image+Search+Engine
+
+tensorflow/neural-structured-learning: Training neural models with structured signals.
+https://github.com/tensorflow/neural-structured-learning
+

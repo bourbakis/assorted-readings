@@ -785,3 +785,102 @@ http://erlang-tutorials.colefichter.ca/dht1
 Erlang -- Miscellaneous Mnesia Features
 http://erlang.org/documentation/doc-5.8.3/lib/mnesia-4.4.17/doc/html/Mnesia_chap5.html
 
+
+
+Review: The Book of Why: The New Science of Cause and Effect | American Laboratory
+https://www.americanlaboratory.com/Blog/355626-Review-The-Book-of-Why-The-New-Science-of-Cause-and-Effect/
+
+百度推广
+https://tuiguang.baidu.com/home.html?userid=24283231
+
+Tomás J. Aragón
+https://taragonmd.github.io/#posts
+
+Website traffic dashboard - Google Sheets
+https://docs.google.com/spreadsheets/d/1r4zXJtAeC5zo10m5TN6p6qlgvOo6uIpw_bTuN-77Kdk/edit#gid=194721743
+
+Review: ‘The Book of Why’ Examines the Science of Cause and Effect - The New York Times
+https://www.nytimes.com/2018/06/01/business/dealbook/review-the-book-of-why-examines-the-science-of-cause-and-effect.html
+
+Sean J. Taylor (@seanjtaylor) / Twitter
+https://twitter.com/seanjtaylor
+
+Daniela Gabor (@DanielaGabor) / Twitter
+https://twitter.com/DanielaGabor
+
+WHY
+http://bayes.cs.ucla.edu/WHY/
+
+【友盟+】账号中心
+https://account.umeng.com/feedback
+
+友盟+登录
+https://passport.umeng.com/login?spm=a211g2.181323.0.0.3cb275efRkCNNy&redirectURL=https%3A%2F%2Fwww.umeng.com%2F
+
+(2) ICCV 17. A simple yet effective baseline for 3d human pose estimation - YouTube
+https://www.youtube.com/watch?v=Hmi3Pd9x1BE
+
+(2) Neural Network Backpropagation Basics For Dummies - YouTube
+https://www.youtube.com/watch?v=8d6jf7s6_Qs
+
+Library Genesis
+http://libgen.is/search.php?&req=Peter+Navarro&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+bayes.cs.ucla.edu/WHY/maudlin-review2019.pdf
+about:blank
+
+504 Gateway Time-out
+https://becominghuman.ai/why-ai-is-not-ai-until-it-wonders-why-eced6f84fcbf
+
+ams.org/journals/notices/201907/rnoti-p1093.pdf
+about:blank
+
+bayes.cs.ucla.edu/WHY/Pearl_ded-english.pdf
+about:blank
+
+The Best Science Books Of 2018
+https://www.sciencefriday.com/segments/the-best-science-books-of-2018/
+
+Artificial Intelligence Aligned With Human Values | Q&A With Stuart Russell | Quanta Magazine
+https://www.quantamagazine.org/artificial-intelligence-aligned-with-human-values-qa-with-stuart-russell-20150421/
+
+Why AlphaZero’s Artificial Intelligence Has Trouble With the Real World | Quanta Magazine
+https://www.quantamagazine.org/why-alphazeros-artificial-intelligence-has-trouble-with-the-real-world-20180221/
+
+Artificial Intelligence Learns to Learn Entirely on Its Own | Quanta Magazine
+https://www.quantamagazine.org/artificial-intelligence-learns-to-learn-entirely-on-its-own-20171018/
+
+John Preskill Explains ‘Quantum Supremacy’ | Quanta Magazine
+https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/
+
+Stephanie Wehner Is Designing a Quantum Internet | Quanta Magazine
+https://www.quantamagazine.org/stephanie-wehner-is-designing-a-quantum-internet-20190925/
+
+Artificial Intelligence Takes On Earthquake Prediction | Quanta Magazine
+https://www.quantamagazine.org/artificial-intelligence-takes-on-earthquake-prediction-20190919/
+
+Artificial Intelligence Learns to Learn Entirely on Its Own | Quanta Magazine
+https://www.quantamagazine.org/artificial-intelligence-learns-to-learn-entirely-on-its-own-20171018/
+
+PR advice for celebrities on how to deal with China - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/pr-advice-for-celebrities-on-how-to-deal-with-china.html
+
+NBA, Hong Kong and China: What LeBron James Should Have Said - Bloomberg
+https://www.bloomberg.com/opinion/articles/2019-10-15/nba-hong-kong-and-china-what-lebron-james-should-have-said?utm_content=view&cmpid%3D=socialflow-twitter-view&utm_source=twitter&utm_campaign=socialflow-organic&utm_medium=social
+
+German Economic Downturn Is Symptom of Deeper Growth Problem - Bloomberg
+https://www.bloomberg.com/opinion/articles/2019-10-14/german-economic-downturn-is-symptom-of-deeper-growth-problem?srnd=opinion
+
+The Atlas of Economic Complexity
+http://atlas.cid.harvard.edu/
+
+What is the incidence of the corporate income tax? - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/what-is-the-incidence-of-the-corporate-income-tax.html
+
+Trump’s ‘China Muse’ Has an Imaginary Friend - The Chronicle of Higher Education
+https://www.chronicle.com/interactives/20191015-navarro?key=mi0Bff1vaLHL09_no2EmgyMihEzsjLbIeR3PU-6_bOvXbpFCntWf-pV-DE7wqCZ0SzdTVWY2RTRwRkV1NXpHRDd0ZTBBbWNnNXdqV1ZpZkxUN3pYRjRMblRkNA
+
+How Universities Should Deal With the Trump Administration - The Chronicle of Higher Education
+https://www.chronicle.com/article/How-Universities-Should-Deal/244263
+:wq!
+

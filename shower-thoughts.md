@@ -60,3 +60,6 @@ how to import other's workflow and where to find one
 # 10/17/2019
 
 what is a good shock, when i open the app pinterst in iPad uder the dark mode, it is a short, i feel the design detail of pinterest ui and design
+
+
+- the standalone work like economist or mathematician is meanless, word economist must bind with its consittution just like the word professor in twitter/linkedin/his-or-her homepage

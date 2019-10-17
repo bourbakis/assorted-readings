@@ -483,3 +483,34 @@ https://twitter.com/ossia
 Laura Shin (@laurashin) / Twitter
 https://twitter.com/laurashin
 
+
+Daniel Jeffries (@Dan_Jeffries1) / Twitter
+https://twitter.com/Dan_Jeffries1
+
+David Smooke (@DavidSmooke) / Twitter
+https://twitter.com/DavidSmooke
+
+
+### More tech account
+
+Will Hamilton (@williamleif) / Twitter
+https://twitter.com/williamleif
+
+Yael Eisenstat (@YaelEisenstat) / Twitter
+https://twitter.com/YaelEisenstat
+
+Satya Mallick (@LearnOpenCV) / Twitter
+https://twitter.com/LearnOpenCV
+
+Davis King (@nulhom) / Twitter
+https://twitter.com/nulhom
+
+Microsoft Research (@MSFTResearch) / Twitter
+https://twitter.com/MSFTResearch
+
+stefano gori (@stefgori73) / Twitter
+https://twitter.com/stefgori73
+
+Hacker Noon (@hackernoon) / Twitter
+https://twitter.com/hackernoon
+

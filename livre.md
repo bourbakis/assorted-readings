@@ -1265,3 +1265,11 @@ http://libgen.is/search.php?req=Edwin+S.+Mills+%28Auth.%29&column=author
 
 ### non-economic
 - [ ] [Library Genesis](http://libgen.is/search.php?&req=The+Twilight+of+The+Elites&phrase=1&view=simple&column=def&sort=extension&sortmode=ASC)`
+
+[The Schematics of Computation - Google Search](https://www.google.com/search?client=firefox-b-d&q=The+Schematics+of+Computation)
+
+[Library Genesis](http://libgen.is/search.php?&req=Abelson+Sussman&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+[Library Genesis](http://libgen.is/search.php?&req=+Gerald+Jay+Sussman&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
+
+- [ ] 

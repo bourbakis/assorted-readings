@@ -79,3 +79,11 @@
 - [ ] [Resources | UCSD DSE MAS](https://mas-dse.github.io/DSE241/2018/resources/)
 
 - [ ] [Resources | UCSD DSE MAS](https://mas-dse.github.io/DSE210/resources/)
+
+
+
+
+
+# CV
+
+- [CPSC 425 Winter 2019/20 Term 1](https://www.cs.ubc.ca/~little/cpsc425/)

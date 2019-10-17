@@ -3147,3 +3147,6 @@ https://www.ted.com/talks/paul_collier_s_new_rules_for_rebuilding_a_broken_natio
 - [ ] [Prof. Tsu-Jae King Liu's Home Page](https://people.eecs.berkeley.edu/~tking/)
 
 - [ ] [Wenlong Mou (牟文龙)](https://people.eecs.berkeley.edu/~wmou/)
+
+
+[Reference-based manga colorization by graph correspondence using quadratic programming](https://dl.acm.org/citation.cfm?id=2669037)
