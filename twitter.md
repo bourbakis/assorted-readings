@@ -458,3 +458,28 @@ https://twitter.com/chelseabfinn
 Uri Shalit (@ShalitUri) / Twitter
 https://twitter.com/ShalitUri
 
+
+Hacker Noon (@hackernoon) / Twitter
+https://twitter.com/hackernoon
+
+Daniela Gabor (@DanielaGabor) / Twitter
+https://twitter.com/DanielaGabor
+
+Yannis Dafermos (@YannisDafermos) / Twitter
+https://twitter.com/YannisDafermos
+
+Annina Kaltenbrunner (@anninak82) / Twitter
+https://twitter.com/anninak82
+
+Rohan Grey (@rohangrey) / Twitter
+https://twitter.com/rohangrey
+
+𝙰𝚛𝚝𝚑𝚞𝚛 𝙲𝚑𝚊𝚛𝚙𝚎𝚗𝚝𝚒𝚎𝚛 🎃👻 (@freakonometrics) / Twitter
+https://twitter.com/freakonometrics
+
+Quincy Larson (@ossia) / Twitter
+https://twitter.com/ossia
+
+Laura Shin (@laurashin) / Twitter
+https://twitter.com/laurashin
+
