@@ -1,5 +1,8 @@
 ## 9/28/2019
 
+
+
+
 - [ ] [Andrej Karpathy (@karpathy) / Twitter](https://twitter.com/karpathy?lang=en)
 
 - [ ] [Andrej Karpathy on Twitter: "Hidden Technical Debt in Machine Learning Systems https://t.co/szYRTtSpDd on some of the new joys and struggles of deploying machine learning models in the wild. Still a long way to go to establish new language and design patterns for programming the 2.0 stack https://t.co/6qR9BAA6qS" / Twitter](https://twitter.com/karpathy/status/1059484735628435456?lang=en)
@@ -425,4 +428,33 @@ http://lp.speedyutils.live/fxmrkt/1/?x-context=wq38ark7vr7iejjp1tgvkhb8&utm_sour
 
 Subscribe to read | Financial Times
 https://www.ft.com/content/de4cac1e-dec2-11e9-b112-9624ec9edc59?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
+
+
+
+Jeff Hammerbacher (@hackingdata) / Twitter
+https://twitter.com/hackingdata
+
+John Myles White (@johnmyleswhite) / Twitter
+https://twitter.com/johnmyleswhite
+
+Dean Eckles (@deaneckles) / Twitter
+https://twitter.com/deaneckles
+
+Olivier Grisel (@ogrisel) / Twitter
+https://twitter.com/ogrisel
+
+Csaba Szepesvari (@CsabaSzepesvari) / Twitter
+https://twitter.com/CsabaSzepesvari
+
+Durk Kingma (@dpkingma) / Twitter
+https://twitter.com/dpkingma
+
+Yisong Yue (@yisongyue) / Twitter
+https://twitter.com/yisongyue
+
+Chelsea Finn (@chelseabfinn) / Twitter
+https://twitter.com/chelseabfinn
+
+Uri Shalit (@ShalitUri) / Twitter
+https://twitter.com/ShalitUri
 
