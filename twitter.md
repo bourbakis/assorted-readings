@@ -365,3 +365,64 @@ https://twitter.com/TanArrowz
 twitter.com/PabloYanguas
 https://twitter.com/PabloYanguas
 `
+
+
+## 10/17/2019
+
+Anthony Goldbloom - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSY6-fi2MOHrg3KCB_tQT-Gq-kttw:1569380565206&q=Anthony+Goldbloom&stick=H4sIAAAAAAAAAOPgE-LSz9U3SM9NSTErVAKzM_KSM3JMtRSzk63084vSE_MyqxJLMvPzUDhWyan5i1gFHfNKMvLzKhXc83NSknLy83MBVGrDilEAAAA&sa=X&ved=2ahUKEwja2uyY_urkAhUZQN4KHUnADeEQmxMoATCFAXoECGAQCw
+
+@akuroiwa/Computer Science on Twitter / Twitter
+https://twitter.com/akuroiwa/lists/computer-science
+
+Profile / Twitter
+https://twitter.com/VishvakM
+
+Home / Twitter
+https://twitter.com/home
+
+List / Twitter
+https://twitter.com/andrew_clegg/lists/ml-recsys-etc/members
+
+The (ring door) bell tolls for thee... on Twitter: "How did they train their shoplifting detection, you might ask? They had 100 actors shop “for hours” and presumably acted like people shoplifting. Good luck to anyone who happens to walk, gaze, or behave in the way that these actors did. https://t.co/OlSORjzEiT" / Twitter
+https://twitter.com/hypervisible/status/1176567319872622593
+
+Lists / Twitter
+https://twitter.com/akuroiwa/lists
+
+DeepAI (@Deep__AI) / Twitter
+https://twitter.com/Deep__AI
+
+Data Science & AI Research | DeepAI
+https://deepai.org/research
+
+Devi Parikh (@deviparikh) / Twitter
+https://twitter.com/deviparikh
+
+Chelsea Finn (@chelseabfinn) / Twitter
+https://twitter.com/chelseabfinn
+
+Towards Data Science (@TDataScience) / Twitter
+https://twitter.com/TDataScience
+
+Will Koehrsen (@koehrsen_will) / Twitter
+https://twitter.com/koehrsen_will
+
+George Seif (@GeorgeSeif94) / Twitter
+https://twitter.com/GeorgeSeif94
+
+A W Tozer (@TozerAW) / Twitter
+https://twitter.com/TozerAW
+
+Kaggle - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSY6-fi2MOHrg3KCB_tQT-Gq-kttw:1569380565206&q=Kaggle&stick=H4sIAAAAAAAAAONgFuLSz9U3SM9NSTErVEJia8lkJ1vpJ5UWZ-alFhfrZxYXl6YWWRVnpqSWJ1YWL2Jl805MT89J3cHKCAACKg4mRAAAAA&sa=X&ved=2ahUKEwja2uyY_urkAhUZQN4KHUnADeEQzTooATCKAXoECGMQAg
+
+Google subsidiaries - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSY6-fi2MOHrg3KCB_tQT-Gq-kttw:1569380565206&q=Google+subsidiaries&stick=H4sIAAAAAAAAAONgFuLSz9U3SM9NSTErVEJia8lkJ1vpJ5UWZ-alFhfrZxYXl6YWWRVnpqSWJ1YWr2IUTbNyz89Pz0lVKC5NAgpnJhZlphYvYhXGIgoAD3dOR2YAAAA&sa=X&ved=2ahUKEwja2uyY_urkAhUZQN4KHUnADeEQzTooADB9egQIZxAC
+
+Deceptive site ahead
+http://lp.speedyutils.live/fxmrkt/1/?x-context=wq38ark7vr7iejjp1tgvkhb8&utm_source=mfxmrkt&utm_campaign=mfxmrkt&pxl=MFX3272_MFX3200_RUNT&utm_pubid=14269848&x-at=9b83ef8a-3a8b-42d7-b17a-f753d436b450
+
+Subscribe to read | Financial Times
+https://www.ft.com/content/de4cac1e-dec2-11e9-b112-9624ec9edc59?segmentId=bcf1a7c7-d110-2a62-057d-20cc3ec69baf#myft:notification:push
+
