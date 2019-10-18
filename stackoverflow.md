@@ -126,3 +126,19 @@ Support-vector machine - Wikipedia
 https://en.wikipedia.org/wiki/Support-vector_machine
 ：wq！
 
+
+git - Add images to README.md on GitHub - Stack Overflow
+https://www.diigo.com/annotated/original/3d7748bacc2c9ebc4a5a6e19247f66e3?annId=df4d8f7916b3afa30d9780560f9c027b
+
+How to display local image in markdown - Stack Overflow
+https://stackoverflow.com/questions/41604263/how-to-display-local-image-in-markdown
+
+Getting Images into Markdown Documents and Weblog Posts with Markdown Monster
+https://medium.com/markdown-monster-blog/getting-images-into-markdown-documents-and-weblog-posts-with-markdown-monster-9ec6f353d8ec
+
+markdown - Unable to embed a gif on imgur to a README.md on github - Stack Overflow
+https://stackoverflow.com/questions/37750270/unable-to-embed-a-gif-on-imgur-to-a-readme-md-on-github
+
+git - Add images to README.md on GitHub - Stack Overflow
+https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
+
