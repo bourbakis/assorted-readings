@@ -26,3 +26,58 @@
 - [ ] [[1709.00404] Unbiased Hamiltonian Monte Carlo with couplings](https://arxiv.org/abs/1709.00404)
 
 - [ ] [[1909.07962] Two-scale coupling for preconditioned Hamiltonian Monte Carlo in infinite dimensions](https://arxiv.org/abs/1909.07962)
+
+
+
+## 10/18/2019
+
+### artices by Li Feifei team
+
+[1811.08592] Measuring Depression Symptom Severity from Spoken Language and 3D Facial Expressions
+https://arxiv.org/abs/1811.08592
+
+[1908.04346] SkrGAN: Sketching-rendering Unconditional Generative Adversarial Networks for Medical Image Synthesis
+https://arxiv.org/abs/1908.04346
+
+[1905.07698] A Reinforcement Learning Approach for Intelligent Traffic Signal Control at Urban Intersections
+https://arxiv.org/abs/1905.07698
+
+[1904.12575] Knowledge Graph Convolutional Networks for Recommender Systems
+https://arxiv.org/abs/1904.12575
+
+[1904.06775] See the World through Network Cameras
+https://arxiv.org/abs/1904.06775
+
+[1801.08284] DKN: Deep Knowledge-Aware Network for News Recommendation
+https://arxiv.org/abs/1801.08284
+
+[1712.00731] Joint Topic-Semantic-aware Social Recommendation for Online Voting
+https://arxiv.org/abs/1712.00731
+
+[1910.01751] Causal Induction from Visual Observations for Goal Directed Tasks
+https://arxiv.org/abs/1910.01751
+
+[1906.04876] Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction
+https://arxiv.org/abs/1906.04876
+
+
+[[1305.5506] Introduction to Judea Pearl's Do-Calculus](https://arxiv.org/abs/1305.5506)
+
+> Abstract: This is a purely pedagogical paper with no new results. The goal of the paper is to give a fairly self-contained introduction to Judea Pearl's do-calculus, including proofs of his 3 rules.
+
+
+[1902.01544] An Ensemble SVM-based Approach for Voice Activity Detection
+https://arxiv.org/abs/1902.01544
+
+[1811.09953] Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference
+https://arxiv.org/abs/1811.09953
+
+[1811.09951] A Fully Private Pipeline for Deep Learning on Electronic Health Records
+https://arxiv.org/abs/1811.09951
+
+[1811.09950] Privacy-Preserving Action Recognition for Smart Hospitals using Low-Resolution Depth Images
+https://arxiv.org/abs/1811.09950
+
+[1708.00163] Towards Vision-Based Smart Hospitals: A System for Tracking and Monitoring Hand Hygiene Compliance
+https://arxiv.org/abs/1708.00163
+

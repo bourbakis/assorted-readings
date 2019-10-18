@@ -1066,3 +1066,42 @@ a
 - [ ] [Paola Sapienza - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSZLYye3vGzOInpqFTWBdFoxTRwWg:1571055676032&q=Paola+Sapienza&stick=H4sIAAAAAAAAAONgFuLSz9U3MM9OtzBJUuLVT9c3NEw2N45Pz8lJ1-ILSC0qzs8LzkxJLU-sLF7EyheQmJ-TqBCcWJCZmleVuIOVEQC1jKR-QQAAAA&sa=X&ved=2ahUKEwiZ5Pe73pvlAhVJVsAKHUAPDZMQxA0wgwF6BAhiEAU)
 
 
+
+### Federated learning
+
+Federated learning - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Federated+learning
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwj24MGHqqXlAhUBb60KHbDvAaMQFjAYegQIPRAB&url=https%3A%2F%2Fhackernoon.com%2Fa-beginners-guide-to-federated-learning-b29e29ba65cf&usg=AOvVaw04SWHrm2JsNRSwff-d6d7e
+about:blank
+
+federated learning tensorflow - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQcqa_xIkFQ6gvRFdEJaT1jz8h6Yg%3A1571385204836&lei=dG-pXfbWMoHetQWw34eYCg&q=federated%20learning%20tensorflow&ved=2ahUKEwi0-suRqqXlAhUKi6wKHYcIDrcQsKwBKAB6BAgAEAE
+
+federated learning comic - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQcqa_xIkFQ6gvRFdEJaT1jz8h6Yg%3A1571385204836&lei=dG-pXfbWMoHetQWw34eYCg&q=federated%20learning%20comic&ved=2ahUKEwi0-suRqqXlAhUKi6wKHYcIDrcQsKwBKAF6BAgAEAI
+
+Federated Learning: The Future of Distributed Machine Learning
+https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897
+
+Federated Learning
+https://federated.withgoogle.com/
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&cad=rja&uact=8&ved=2ahUKEwj24MGHqqXlAhUBb60KHbDvAaMQFjAMegQIAhAB&url=https%3A%2F%2Ftowardsdatascience.com%2Fthe-new-dawn-of-ai-federated-learning-8ccd9ed7fc3a&usg=AOvVaw2HC3uZItntg63J8CHd281Z
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&cad=rja&uact=8&ved=2ahUKEwj24MGHqqXlAhUBb60KHbDvAaMQFjAMegQIAhAB&url=https%3A%2F%2Ftowardsdatascience.com%2Fthe-new-dawn-of-ai-federated-learning-8ccd9ed7fc3a&usg=AOvVaw2HC3uZItntg63J8CHd281Z
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=24&cad=rja&uact=8&ved=2ahUKEwj24MGHqqXlAhUBb60KHbDvAaMQFjAXegQIDBAC&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1902.01046&usg=AOvVaw0OSbSXMbWYJ1F_cv1XvZn7
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=24&cad=rja&uact=8&ved=2ahUKEwj24MGHqqXlAhUBb60KHbDvAaMQFjAXegQIDBAC&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1902.01046&usg=AOvVaw0OSbSXMbWYJ1F_cv1XvZn7
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=26&ved=2ahUKEwj24MGHqqXlAhUBb60KHbDvAaMQFjAZegQINxAB&url=https%3A%2F%2Fwww.tensorflow.org%2Ffederated%2Ffederated_learning&usg=AOvVaw1PUSMfroQfoJJAN3gRMj95
+about:blank
+
+Google AI Blog: Federated Learning: Collaborative Machine Learning without Centralized Training Data
+https://ai.googleblog.com/2017/04/federated-learning-collaborative.html
+
+mike.place
+https://mike.place/
+
+Mike Lee Williams - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Mike+Lee+Williams
+

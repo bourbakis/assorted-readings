@@ -87,3 +87,6 @@
 # CV
 
 - [CPSC 425 Winter 2019/20 Term 1](https://www.cs.ubc.ca/~little/cpsc425/)
+
+
+- [ ] [cs.columbia.edu/~blei/](http://www.cs.columbia.edu/~blei/)

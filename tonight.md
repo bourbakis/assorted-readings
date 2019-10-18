@@ -902,3 +902,155 @@ https://en.wikipedia.org/wiki/Randomized_controlled_trial
 Artificial general intelligence - Wikipedia
 https://en.wikipedia.org/wiki/Artificial_general_intelligence
 
+
+
+Military Might Takes Center Stage at Chinese 70-Year Anniversary Parade – Federation Of American Scientists
+https://fas.org/blogs/security/2019/10/china-military-parade/
+
+An Invitation to Active Learning
+https://blog.fastforwardlabs.com/2019/04/03/an-invitation-to-active-learning.html
+
+A Guide to Learning with Limited Labeled Data
+https://blog.fastforwardlabs.com/2019/04/02/a-guide-to-learning-with-limited-labeled-data.html
+
+A Guide to Learning with Limited Labeled Data
+https://blog.fastforwardlabs.com/2019/04/02/a-guide-to-learning-with-limited-labeled-data.html
+
+Theories of (machine) learning should shape horizon scanning - not just application
+https://blog.fastforwardlabs.com/2019/09/27/theories-of-machine-learning-should-shape-horizon-scanning-not-just-application.html
+
+Visualizing Active Learning
+https://blog.fastforwardlabs.com/2019/04/29/visualizing-active-learning.html
+
+Subscribe to read | Financial Times
+https://www.ft.com/content/502dc8f4-ef62-11e9-a55a-30afa498db1b
+
+Book summary: Unlocking the Emotional Brain - LessWrong 2.0
+https://www.lesswrong.com/posts/i9xyZBS3qzA8nFXNQ/book-summary-unlocking-the-emotional-brain
+
+Causal Diagrams and Causal Models - LessWrong 2.0
+https://www.lesswrong.com/posts/hzuSDMx7pd2uxFc5w/causal-diagrams-and-causal-models
+
+Shortform - LessWrong 2.0
+https://www.lesswrong.com/shortform
+
+Meta - LessWrong 2.0
+https://www.lesswrong.com/meta
+
+LessWrong 2.0
+https://www.lesswrong.com/
+
+Ethiopia fact of the day - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/ethiopia-fact-of-the-day.html#blog-comment-159994655
+
+How to argue for a wealth tax - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/how-to-argue-for-a-wealth-tax.html
+
+Department of Biostatistics | MD Anderson Cancer Center
+https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/biostatistics.html
+
+Stray Thoughts: Nobel Laureate Robert Solow’s Predictions for the Next Century | The MIT Press Reader
+https://thereader.mitpress.mit.edu/nobel-laureate-robert-solows-predictions-for-the-next-century/
+
+MoMA
+https://www.moma.org/
+
+An invitation to Active Learning / Chris Wallace / Observable
+https://observablehq.com/@cjwallace/an-invitation-to-active-learning
+
+An invitation to Active Learning / Chris Wallace / Observable
+https://observablehq.com/@cjwallace/an-invitation-to-active-learning
+
+Inbox (1) - pengch0308@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+NBA Commissioner speaks; US reciprocity for PRC diplomats; Maps are a minefield - fpcmotif@gmail.com - Gmail
+https://mail.google.com/mail/u/1/#search/sinocism/FMfcgxwDrlbPpgNFnLkCMsSkBKHPDFDz
+
+Li Fei-Fei - Google Scholar Citations
+https://scholar.google.com/citations?user=rDfyQnIAAAAJ&hl=en
+
+Fei-Fei Li's Profile | Stanford Profiles
+https://profiles.stanford.edu/fei-fei-li
+
+Stanford Computer Vision Lab
+http://vision.stanford.edu/
+
+Silvio Savarese - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sa=X&sxsrf=ACYBGNTV-3iVQrnhAXNhBCslt2xHolqhuQ:1571387640870&q=Silvio+Savarese&stick=H4sIAAAAAAAAAONgFuLSz9U3sMzONa-qUuLVT9c3NEyqLI9PNjBK15LKTrbSL0jNL8hJBVJFxfl5VsWZKanliZXFi1j5gzNzyjLzFYITyxKLUotTd7AyAgD9Ajj8TgAAAA&ved=0ahUKEwjvxI2Rs6XlAhVMI6wKHXvWArsQ-BYILjB4&biw=1366&bih=694
+
+Fei-Fei Li（@drfeifei）さん / Twitter
+https://twitter.com/drfeifei
+
+[1811.08592] Measuring Depression Symptom Severity from Spoken Language and 3D Facial Expressions
+https://arxiv.org/abs/1811.08592
+
+github Measuring Depression Symptom Severity from Spoken Language and 3D Facial Expressions code - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNTz_qQdVfAg9wgm6XR_SE_9VFjWAg%3A1571389289757&ei=aX-pXZHyLc2UsgWemafgBQ&q=github+Measuring+Depression+Symptom+Severity+from+Spoken+Language+and+3D+Facial+Expressions+code&oq=github+Measuring+Depression+Symptom+Severity+from+Spoken+Language+and+3D+Facial+Expressions+code&gs_l=psy-ab.3...9853.10864..11071...0.0..0.541.1403.4-2j1......0....1..gws-wiz.g7JLU4Vp5JM&ved=0ahUKEwjRyq2juaXlAhVNiqwKHZ7MCVwQ4dUDCAo&uact=5
+
+casual cnn code github - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRovLabSAQiZ9VZdopBcvvv0LTBzg:1571389724455&q=casual+cnn+code+github&tbm=isch&source=univ&client=firefox-b-d&sa=X&ved=2ahUKEwiYt9HyuqXlAhURQK0KHcUKDvMQsAR6BAgMEAE&biw=1366&bih=694
+
+philipperemy/keras-tcn: Keras Temporal Convolutional Network.
+https://github.com/philipperemy/keras-tcn
+
+kristpapadopoulos/seriesnet: Time series prediction using dilated causal convolutional neural nets (temporal CNN)
+https://github.com/kristpapadopoulos/seriesnet
+
+zziz/pwc: Papers with code. Sorted by stars. Updated weekly.
+https://github.com/zziz/pwc
+
+Super-Resolution via Deep Learning
+https://www.groundai.com/project/super-resolution-via-deep-learning/
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&cad=rja&uact=8&ved=2ahUKEwiYt9HyuqXlAhURQK0KHcUKDvMQFjAPegQIUBAC&url=http%3A%2F%2Fcs231n.stanford.edu%2Freports%2F2016%2Fpdfs%2F255_Report.pdf&usg=AOvVaw38Qkhvbb0cfTiOpa625ZZa
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&cad=rja&uact=8&ved=2ahUKEwiYt9HyuqXlAhURQK0KHcUKDvMQFjAPegQIUBAC&url=http%3A%2F%2Fcs231n.stanford.edu%2Freports%2F2016%2Fpdfs%2F255_Report.pdf&usg=AOvVaw38Qkhvbb0cfTiOpa625ZZa
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&cad=rja&uact=8&ved=2ahUKEwiYt9HyuqXlAhURQK0KHcUKDvMQFjASegQIOxAC&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1904.07629&usg=AOvVaw3HFMuk5Hs6OImZ-eZyeCcb
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&cad=rja&uact=8&ved=2ahUKEwiYt9HyuqXlAhURQK0KHcUKDvMQFjASegQIOxAC&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1904.07629&usg=AOvVaw3HFMuk5Hs6OImZ-eZyeCcb
+
+Yongxin Yang
+https://yang.ac/
+
+Error | Astrill VPN
+http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf
+
+100 days to Deep Learning: Part 2 the 100 days - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/100-days-to-deep-learning-part-2-the-100-days-8177659f199e
+
+theimpossibleastronaut/awesome-mentalhealth: A curated list of awesome mental health resources
+https://github.com/theimpossibleastronaut/awesome-mentalhealth
+
+halolimat/Social-media-Depression-Detector: Detect depression on social media using the ssToT method introduced in our ASONAM 2017 paper titled "Semi-Supervised Approach to Monitoring Clinical Depressive Symptoms in Social Media"
+https://github.com/halolimat/Social-media-Depression-Detector
+
+sureshHARDIYA/phd-resources: Internet Delivered Treatment using Adaptive Technology
+https://github.com/sureshHARDIYA/phd-resources
+
+niquejoe/Classification-of-Depression-on-Social-Media-Using-Text-Mining: The first asian machine learning in Jeju Island, South Korea - Project
+https://github.com/niquejoe/Classification-of-Depression-on-Social-Media-Using-Text-Mining
+
+GINK03/5ch-blog-depression-machine-learning: 5chのうつ傾向があるメンタルヘルスとその他の違いをボキャブラリや代名詞の使い方から明らかにします
+https://github.com/GINK03/5ch-blog-depression-machine-learning
+
+nezha3/DepressiveDetector: Depressive Detector iOS App
+https://github.com/nezha3/DepressiveDetector
+
+OpenModelMDD/open-model-mdd: A Discrete Event Simulation (DES) model to assess the cost-effectiveness of alternative treatment strategies for patients with Major Depressive Disorder (MDD).
+https://github.com/OpenModelMDD/open-model-mdd
+
+DanielSabba/Python: python projects and saved functions
+https://github.com/DanielSabba/Python
+
+Posters | ML4H: Machine Learning for Health
+https://ml4health.github.io/2018/pages/posters.html
+
+Thread by @cynicalsecurity: "Am about to drop the backlog of arXiv & IACR papers for the past few weeks. If you are not interested mute this thread now :) T. Xie et […]"
+https://threadreaderapp.com/thread/1085149218828967936.html
+
+Multimodal Modeling of Coordination and Coregulation Patterns in Speech Rate during Triadic Collaborative Problem Solving
+https://dl.acm.org/citation.cfm?id=3242989
+
+タイトル 「spoken_language」 を検索 - はてなブックマーク
+https://b.hatena.ne.jp/search/title?q=spoken_language&users=1
+

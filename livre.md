@@ -1279,3 +1279,6 @@ http://libgen.is/search.php?req=Edwin+S.+Mills+%28Auth.%29&column=author
 [Library Genesis](http://libgen.is/search.php?req=Cesar%20Hidalgo&column[]=author)
 
 [Library Genesis](http://libgen.is/search.php?req=Unlocking+the+Emotional+Brain&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+
+[Library Genesis](http://libgen.is/search.php?req=Ignacio+Palacios-Huerta&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
