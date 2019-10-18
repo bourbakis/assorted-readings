@@ -77,3 +77,52 @@
 - [ ] [r - Reset the graphical parameters back to default values without use of dev.off() - Stack Overflow](https://stackoverflow.com/questions/9292563/reset-the-graphical-parameters-back-to-default-values-without-use-of-dev-off)
 
 - [ ] [Using optim() or optimize() functions in R - Stack Overflow](https://stackoverflow.com/questions/48896182/using-optim-or-optimize-functions-in-r)
+
+
+
+
+## SVM v.s. Neural Network
+
+What are advantages of Artificial Neural Networks over Support Vector Machines? - Stack Overflow
+https://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines
+
+machine learning - SVM versus MLP (Neural Network): compared by performance and prediction accuracy - Stack Overflow
+https://stackoverflow.com/questions/10672268/svm-versus-mlp-neural-network-compared-by-performance-and-prediction-accuracy
+
+machine learning - When to use Random Forest over SVM and vice versa? - Data Science Stack Exchange
+https://datascience.stackexchange.com/questions/6838/when-to-use-random-forest-over-svm-and-vice-versa
+
+What are advantages of Artificial Neural Networks over Support Vector Machines? - Stack Overflow
+https://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines
+
+(30) What is difference between SVM and Neural Networks? - Quora
+https://www.quora.com/What-is-difference-between-SVM-and-Neural-Networks
+
+(30) Why is SVM equal to a 2-layer neural network? - Quora
+https://www.quora.com/Why-is-SVM-equal-to-a-2-layer-neural-network
+
+(30) If SVM is about a hidden (kernel) layer and a fully connected (hyper) layer, can SVM be regarded as special kind of Neural Net? - Quora
+https://www.quora.com/If-SVM-is-about-a-hidden-kernel-layer-and-a-fully-connected-hyper-layer-can-SVM-be-regarded-as-special-kind-of-Neural-Net
+
+Neural Networks, Manifolds, and Topology -- colah's blog
+http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
+
+(30) Why is SVM still used in machine learning when Neural Networks are much more accurate? - Quora
+https://www.quora.com/Why-is-SVM-still-used-in-machine-learning-when-Neural-Networks-are-much-more-accurate
+
+(30) Machine Learning: What are advantages of SVM over Neural networks and k- Nearest neighbours? - Quora
+https://www.quora.com/Machine-Learning-What-are-advantages-of-SVM-over-Neural-networks-and-k-Nearest-neighbours
+
+(30) Why are machine learning, neural networks, and other AI-approaches for instance, not more widely used in stock market predictions? - Quora
+https://www.quora.com/Why-are-machine-learning-neural-networks-and-other-AI-approaches-for-instance-not-more-widely-used-in-stock-market-predictions
+
+(30) Machine Learning: What are advantages of SVM over Neural networks and k- Nearest neighbours? - Quora
+https://www.quora.com/Machine-Learning-What-are-advantages-of-SVM-over-Neural-networks-and-k-Nearest-neighbours
+
+(30) What kind of machine learning algorithms do the driverless cars use? - Quora
+https://www.quora.com/What-kind-of-machine-learning-algorithms-do-the-driverless-cars-use
+
+Support-vector machine - Wikipedia
+https://en.wikipedia.org/wiki/Support-vector_machine
+：wq！
+

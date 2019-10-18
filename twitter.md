@@ -514,3 +514,76 @@ https://twitter.com/stefgori73
 Hacker Noon (@hackernoon) / Twitter
 https://twitter.com/hackernoon
 
+
+
+
+## AI influencers
+
+Murray Shanahan (@mpshanahan) / Twitter
+https://twitter.com/mpshanahan
+
+Profile / Twitter
+https://twitter.com/j2bryson
+
+Profile / Twitter
+https://twitter.com/santoroAI
+
+Profile / Twitter
+https://twitter.com/romanyam
+
+Ali Eslami (@arkitus) / Twitter
+https://twitter.com/arkitus
+
+Joanna J Bryson (@j2bryson) / Twitter
+https://twitter.com/j2bryson
+
+@steveblackmon/aiml-tripsreddy on Twitter / Twitter
+https://twitter.com/steveblackmon/lists/aiml-tripsreddy
+
+Joanna J Bryson (@j2bryson) / Twitter
+https://twitter.com/j2bryson
+
+
+
+
+## tops under hasttag #rstats, methodology and statistics, political science
+
+情報をリスト / Twitter
+https://twitter.com/McKibbinUSA/lists/rstats-gurus/info
+
+@jaruizso/Data analysisさんはTwitterを利用しています / Twitter
+https://twitter.com/jaruizso/lists/data-analysis
+
+@CoolBarnacle/Data VizさんはTwitterを利用しています / Twitter
+https://twitter.com/CoolBarnacle/lists/data-viz
+
+@Amanda_Grigg/Political Science+さんはTwitterを利用しています / Twitter
+https://twitter.com/Amanda_Grigg/lists/political-science
+
+@sostapel/German-speaking poli sciさんはTwitterを利用しています / Twitter
+https://twitter.com/sostapel/lists/german-speaking-poli-sci
+
+@KateSherrill/Politics & IssuesさんはTwitterを利用しています / Twitter
+https://twitter.com/KateSherrill/lists/politics-issues
+
+@paldhous/data mapping vizさんはTwitterを利用しています / Twitter
+https://twitter.com/paldhous/lists/data-mapping-viz
+
+Rens van de Schoot（@RensvdSchoot）さん / Twitter
+https://twitter.com/RensvdSchoot
+
+Sanne Smid（@SanneCSmid）さん / Twitter
+https://twitter.com/SanneCSmid
+
+Casper Albers（@CaAl）さん / Twitter
+https://twitter.com/CaAl
+
+Qixiang Fang（@qixiangfang）さん / Twitter
+https://twitter.com/qixiangfang
+
+Paul Bürkner（@paulbuerkner）さん / Twitter
+https://twitter.com/paulbuerkner
+
+Mine CetinkayaRundelさんはTwitterを使っています: 「Package name idea for the next person writing an #rstats package for importing/exporting data: vandelay! https://t.co/QYJq15zVjm」 / Twitter
+https://twitter.com/minebocek/status/1184986679532277762
+ 

@@ -63,3 +63,14 @@ what is a good shock, when i open the app pinterst in iPad uder the dark mode, i
 
 
 - the standalone work like economist or mathematician is meanless, word economist must bind with its consittution just like the word professor in twitter/linkedin/his-or-her homepage
+
+
+
+
+
+# 10/18/2019
+
+
+- modelling is also another kind of sampling. 
+ 
+modelling -> 诸葛亮的精囊妙计， 如果
