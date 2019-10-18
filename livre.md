@@ -1273,3 +1273,9 @@ http://libgen.is/search.php?req=Edwin+S.+Mills+%28Auth.%29&column=author
 [Library Genesis](http://libgen.is/search.php?&req=+Gerald+Jay+Sussman&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
 
 - [ ] 
+
+## 10/18/2019
+
+[Library Genesis](http://libgen.is/search.php?req=Cesar%20Hidalgo&column[]=author)
+
+[Library Genesis](http://libgen.is/search.php?req=Unlocking+the+Emotional+Brain&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)

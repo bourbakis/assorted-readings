@@ -74,3 +74,9 @@ what is a good shock, when i open the app pinterst in iPad uder the dark mode, i
 - modelling is also another kind of sampling. 
  
 modelling -> 诸葛亮的精囊妙计， 如果
+
+
+
+
+
+math & philosphy: distilling and abstraction -> programming different formalism and differet hiereachy

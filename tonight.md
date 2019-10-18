@@ -884,3 +884,21 @@ How Universities Should Deal With the Trump Administration - The Chronicle of Hi
 https://www.chronicle.com/article/How-Universities-Should-Deal/244263
 :wq!
 
+
+
+
+
+# 10/18/2019
+
+RHL
+https://extranet.who.int/rhl
+
+Bayesian network - Wikipedia
+https://en.wikipedia.org/wiki/Bayesian_network
+
+Randomized controlled trial - Wikipedia
+https://en.wikipedia.org/wiki/Randomized_controlled_trial
+
+Artificial general intelligence - Wikipedia
+https://en.wikipedia.org/wiki/Artificial_general_intelligence
+

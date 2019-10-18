@@ -131,3 +131,19 @@ https://rstudio.cloud/project/501114
 - [ ] [Figure Caption in R markdown - R Markdown - RStudio Community](https://community.rstudio.com/t/figure-caption-in-r-markdown/6951/2)
 
 - [ ] [Add titles to a plot in R software - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/add-titles-to-a-plot-in-r-software)
+
+
+## 10/18/2019
+
+RPubs - EPI 288 Lecture 2: Cluster analysis
+https://rpubs.com/kaz_yos/epi288-cluster
+
+RPubs - Clustering Tutorial
+https://rpubs.com/MrWayne/485581
+
+RPubs - Latent Class Multinomial Logit Models using gmnl
+https://rpubs.com/msarrias1986/335556
+
+RPubs - Pei_2017_MOLB7621_Final_Proj_v2
+https://rpubs.com/shawnspei/final_v2
+

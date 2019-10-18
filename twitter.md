@@ -587,3 +587,22 @@ https://twitter.com/paulbuerkner
 Mine CetinkayaRundelさんはTwitterを使っています: 「Package name idea for the next person writing an #rstats package for importing/exporting data: vandelay! https://t.co/QYJq15zVjm」 / Twitter
 https://twitter.com/minebocek/status/1184986679532277762
  
+
+
+## Machine Learning
+
+Victor Dibia（@vykthur）さん / Twitter
+https://twitter.com/vykthur
+
+Jade Abbott（@alienelf）さん / Twitter
+https://twitter.com/alienelf
+
+Deep Learning Indaba（@DeepIndaba）さん / Twitter
+https://twitter.com/DeepIndaba
+
+プロフィール / Twitter
+https://twitter.com/handtrackjs
+
+Dr. Vukosi Marivate（@vukosi）さん / Twitter
+https://twitter.com/vukosi
+

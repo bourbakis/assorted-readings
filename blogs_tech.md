@@ -141,3 +141,6 @@ http://yusukematsui.me/project/sis/sis_jp.html
 
 
 http://ml-india.org/ml-india-interview-priya-radhakrishnan/#proj
+
+
+[Cloudera Fast Forward Labs Blog](https://blog.fastforwardlabs.com/)
