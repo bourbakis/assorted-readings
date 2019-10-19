@@ -606,3 +606,48 @@ https://twitter.com/handtrackjs
 Dr. Vukosi Marivate（@vukosi）さん / Twitter
 https://twitter.com/vukosi
 
+
+
+
+
+## 10/19/2019
+
+- [ ] [#LambdaWorld - Twitter Search / Twitter](https://twitter.com/hashtag/LambdaWorld?src=hashtag_click)
+
+- [ ] [∆-module (@koszuldude) / Twitter](https://twitter.com/koszuldude)
+
+- [ ] [Anna Haensch (@extremefriday) / Twitter](https://twitter.com/extremefriday)
+
+- [ ] [BEAM Lab (@BEAM_Manchester) / Twitter](https://twitter.com/BEAM_Manchester)
+
+- [ ] [Dominic Verity (@DomVerity) / Twitter](https://twitter.com/DomVerity)
+
+- [ ] [Dragon_Plush (@DragonPlush) / Twitter](https://twitter.com/DragonPlush)
+
+- [ ] [Edward Frenkel (@edfrenkel) / Twitter](https://twitter.com/edfrenkel)
+
+- [ ] [Jen McBride (@JAMcB) / Twitter](https://twitter.com/JAMcB)
+
+- [ ] [Keith Devlin (@profkeithdevlin) / Twitter](https://twitter.com/profkeithdevlin)
+
+- [ ] [Sunil Singh (@Mathgarden) / Twitter](https://twitter.com/Mathgarden)
+
+- [ ] [Mike Lawler (@mikeandallie) / Twitter](https://twitter.com/mikeandallie)
+
+- [ ] [Koundinya Vajjha (@KodyVajjha) / Twitter](https://twitter.com/KodyVajjha)
+
+- [ ] [Lexiathan (@Lexiathan08) / Twitter](https://twitter.com/Lexiathan08)
+
+- [ ] [Manifold (位相幾何学) (@LoliAlgebra) / Twitter](https://twitter.com/LoliAlgebra)
+
+- [ ] [Matt Salomone (@matthematician) / Twitter](https://twitter.com/matthematician)
+
+- [ ] [Not Even Wrong (@notevenwrong) / Twitter](https://twitter.com/notevenwrong)
+
+- [ ] [ℙ rojective_orbits (@Abraximus1729) / Twitter](https://twitter.com/Abraximus1729)
+
+- [ ] [sara :: forall a. a (@MxLambda) / Twitter](https://twitter.com/MxLambda)
+
+- [ ] [sara :: forall a. a (@MxLambda) / Twitter](https://twitter.com/MxLambda)
+
+- [ ] [Soham Chowdhury (@mrkgrnao) / Twitter](https://twitter.com/mrkgrnao)

@@ -621,3 +621,17 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [(4) Bret Victor The Future of Programming - YouTube](https://www.youtube.com/watch?v=8pTEmbeENF4)
 
 - [ ] [(4) Daniel Murfet - YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd)
+
+
+
+# CS
+
+## 10/19/2019
+
+- [ ] [(4) Laws & Causes - YouTube](https://www.youtube.com/watch?v=_WHRWLnVm_M)
+
+- [ ] [(4) Lecture 25: Fast Stochastic Optimization Algorithms for ML - YouTube](https://www.youtube.com/watch?v=Cm90vyqQlFM)
+
+- [ ] [(4) Satya Nadella, CEO of Microsoft - YouTube](https://www.youtube.com/watch?v=rtgN27z0oi0)
+
+- [ ] [(4) Social Computing for Social Good in Low-Resource Environments - YouTube](https://www.youtube.com/watch?v=BVF3tryFb2g)

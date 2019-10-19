@@ -1104,3 +1104,54 @@ https://twitter.com/MatthieuSuc
 - [ ] [Overwatch Mei Is Becoming a Hong Kong Protest Symbol - Slashdot](https://games.slashdot.org/story/19/10/10/0437234/overwatch-mei-is-becoming-a-hong-kong-protest-symbol)
 
 - [ ] [Cambridge Analytica Whistleblower: US Heading In 'Same Direction As China' With Online Privacy - Slashdot](https://yro.slashdot.org/story/19/10/10/0449229/cambridge-analytica-whistleblower-us-heading-in-same-direction-as-china-with-online-privacy)
+
+
+## 10/19/2019
+
+- [ ] [Continuous force measurements reveal no inhibitory control deficits in Parkinson's disease | bioRxiv](https://www.biorxiv.org/content/10.1101/809780v1)
+
+- [ ] [Continuous force measurements reveal no inhibitory control deficits in Parkinson's disease | bioRxiv](https://www.biorxiv.org/content/10.1101/809780v1)
+
+- [ ] [Luis de Guindos: Speaking notes on climate-related risks](https://www.bis.org/review/r191018h.htm)
+
+- [ ] [Loli Algebra](https://lolialgebra.blogspot.com/)
+
+- [ ] [Platform Revolution: How Networked Markets are Transforming the Economy--and How to Make Them Work for You: Amazon.co.uk: Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary: 9780393249132: Books](https://www.amazon.co.uk/Platform-Revolution-Networked-Transforming-Economy/dp/0393249131)
+
+- [ ] [Emily Riehl](http://www.math.jhu.edu/~eriehl/)
+
+- [ ] [Emily Riehl](http://www.math.jhu.edu/~eriehl/#exposition)
+
+- [ ] [Emily Riehl](http://www.math.jhu.edu/~eriehl/#talks)
+
+- [ ] [Emily Riehl](http://www.math.jhu.edu/~eriehl/kan/)
+
+- [ ] [Program on Higher Structures in Geometry and Physics | Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de/node/5883)
+
+- [ ] [Categorical Homotopy Theory | The n-Category Café](https://golem.ph.utexas.edu/category/2014/06/categorical_homotopy_theory.html)
+
+- [ ] [Emily Riehl](http://www.math.jhu.edu/~eriehl/cathtpy/)
+
+- [ ] [context.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.math.jhu.edu/~eriehl/context.pdf)
+
+- [ ] [Category Theory in Context | The n-Category Café](https://golem.ph.utexas.edu/category/2016/11/category_theory_in_context.html)
+
+- [ ] [FSE Directory](https://directory.science.mq.edu.au/departments)
+
+- [ ] [The MIT Talbot Workshop](http://math.mit.edu/conferences/talbot/)
+
+- [ ] [Dominic Verity — Macquarie University](https://researchers.mq.edu.au/en/persons/dominic-verity)
+
+- [ ] [Buy Jonathan Beardsley a Coffee. ko-fi.com/beardsley - Ko-fi ❤️ Where creators get paid by fans, with a 'Buy Me a Coffee' Page.](https://ko-fi.com/beardsley)
+
+- [ ] [MacStories Shortcuts Icons Receives Free Update with 50 New Glyphs - MacStories](https://www.macstories.net/news/macstories-shortcuts-icons-receives-free-update-with-50-new-glyphs/)
+
+- [ ] [Facebook’s Secret Censorship Rules Protect White Men From Hate Speech But Not Black Children — ProPublica](https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms)
+
+- [ ] [A thread written by @MxLambda: "Here we go!! ^^ [...]"](https://threader.app/thread/1185090738855522304#)
+
+- [ ] [Criminal Justice Reform and the Courts by Rachel E. Barkow – The University of Chicago Law Review Online](https://lawreviewblog.uchicago.edu/2019/10/15/criminal-justice-reform-and-the-courts-by-rachel-e-barkow/)
+
+- [ ] [Washington gives Chinese diplomats a taste of their own medicine - The Washington Post](https://www.washingtonpost.com/opinions/global-opinions/washington-gives-chinese-diplomats-a-taste-of-their-own-medicine/2019/10/17/d74f0b7a-f11c-11e9-8693-f487e46784aa_story.html)
+
+- [ ] [What Is It Like to Be a Philosopher?](http://www.whatisitliketobeaphilosopher.com/)
