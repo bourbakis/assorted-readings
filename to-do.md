@@ -3150,3 +3150,144 @@ https://www.ted.com/talks/paul_collier_s_new_rules_for_rebuilding_a_broken_natio
 
 
 [Reference-based manga colorization by graph correspondence using quadratic programming](https://dl.acm.org/citation.cfm?id=2669037)
+
+
+
+
+
+
+
+
+---
+
+
+
+## 10/19/2019
+
+- [ ] [Photos - Google Photos](https://photos.google.com/u/2/)
+
+- [ ] [https://vincentarelbundock.github.io/Rdatasets/datasets.html](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+
+- [ ] [No Overview Available.](https://nooverviewavailable.com/)
+
+- [ ] [Social-Computing-for-Social-Good-in-Low-Resource-Environments-SLIDES.pdf](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/Social-Computing-for-Social-Good-in-Low-Resource-Environments-SLIDES.pdf)
+
+- [ ] [推进党的建设新的伟大工程要一以贯之 - 求是网](http://www.qstheory.cn/dukan/qs/2019-10/02/c_1125068596.htm)
+
+- [ ] [Google Translate](https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=The%20concept%20of%20a%20scheme%20was%20one%20of%20the%20cornerstones%20in%20the%20gargantuan%20effort%20led%20by%20Grothendieck%20to%20rebuild%20this%20vast%20subject.%20The%20thousands%20of%20pages%20meticulously%20composed%20over%20a%20decade%20starting%20in%20the%20late%201950s%20became%20commonly%20known%20as%20EGA%20and%20SGA%2C%20the%20abbreviations%20of%20their%20French%20titles.)
+
+- [ ] [Finite Automata and Formal Languages - 2009](http://www.cse.chalmers.se/~coquand/AUTOMATA/index.html)
+
+- [ ] [Langages des maths, langages de l’informatique – binaire](https://www.lemonde.fr/blog/binaire/2019/07/26/demonstrations-mathematiques-et-programmes-informatiques/)
+
+- [ ] [Michael Harris | Michael Harris](http://www.math.columbia.edu/~harris/website/)
+
+- [ ] [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/)
+
+- [ ] [Algebraic Set Theory](http://www.phil.cmu.edu/projects/ast/)
+
+- [ ] [Homotopy Type Theory and Univalent Foundations](https://www.andrew.cmu.edu/user/awodey/htt.html)
+
+- [ ] [David Ben-Zvi](https://web.ma.utexas.edu/users/benzvi/)
+
+- [ ] [GRASP: Introduction to Geometric Langlands](https://web.ma.utexas.edu/users/benzvi/Langlands.html)
+
+- [ ] [GRASP: Lecture Notes](https://web.ma.utexas.edu/users/benzvi/notes.html)
+
+- [ ] [romafest.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://web.ma.utexas.edu/users/benzvi/GRASP/lectures/romafest.pdf)
+
+- [ ] [GRASP: Lectures by D. Ben-Zvi](https://web.ma.utexas.edu/users/benzvi/GRASP/lectures/benzvi/mylectures.html)
+
+- [ ] [Charles Rezk's home page](https://faculty.math.illinois.edu/~rezk/)
+
+- [ ] [Courses](https://faculty.math.illinois.edu/~dan/Courses/)
+
+- [ ] [Dan Grayson's home page](https://faculty.math.illinois.edu/~dan/)
+
+- [ ] [K-theory Preprint Archives](https://faculty.math.illinois.edu/K-theory/)
+
+- [ ] [Lectures](https://faculty.math.illinois.edu/~dan/Lectures/)
+
+- [ ] [Math 428 (Rezk, Section E, 1:00 MWF).](https://faculty.math.illinois.edu/~rezk/428-fa19/math-428-fa19.html)
+
+- [ ] [Math 595-HCT (Rezk, 243 Altgeld Hall).](https://faculty.math.illinois.edu/~rezk/595-spr19/math-595-spr19.html)
+
+- [ ] [Short proofs in mathematics](https://faculty.math.illinois.edu/~dan/ShortProofs/)
+
+- [ ] [Thomas Nevins](https://faculty.math.illinois.edu/~nevins/)
+
+- [ ] [Alexander Grothendieck, Math Enigma, Dies at 86 - The New York Times](https://www.nytimes.com/2014/11/16/world/europe/alexander-grothendieck-math-enigma-dies-at-86.html?module=inline)
+
+- [ ] [Government Announces Steps to Restore Confidence on Encryption Standards - The New York Times](https://bits.blogs.nytimes.com/2013/09/10/government-announces-steps-to-restore-confidence-on-encryption-standards/?mtrref=undefined&assetType=REGIWALL&mtrref=bits.blogs.nytimes.com&gwh=A6B647E066D17C0F6B795DBA18217BBB&gwt=pay&assetType=REGIWALL)
+
+- [ ] [Math](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/recoltesetc.php)
+
+- [ ] [A Brief Introduction to Infinity by Edward Frenkel - The New York Times](https://wordplay.blogs.nytimes.com/2016/05/30/frenkel-cantor/)
+
+- [ ] [Clark Barwick](https://www.maths.ed.ac.uk/~cbarwick/)
+
+- [ ] [[1703.02325] Homological algebra in characteristic one](https://arxiv.org/abs/1703.02325)
+
+- [ ] [thesis.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://pi.math.cornell.edu/~zakh/thesis.pdf)
+
+- [ ] [Michael Hopkins](http://www.math.harvard.edu/~mjh/)
+
+- [ ] [Emily Riehl](http://www.math.jhu.edu/~eriehl/)
+
+- [ ] [Jonathan Campbell's Webpge](http://www.jonathanacampbell.com/)
+
+- [ ] [Jacob Lurie - MacArthur Foundation](https://www.macfound.org/fellows/921/)
+
+- [ ] [Home - Edward Frenkel](https://www.edwardfrenkel.com/)
+
+- [ ] [Proof! How the World Became Geometrical | Commonwealth Club](https://www.commonwealthclub.org/events/2019-10-10/proof-how-world-became-geometrical)
+
+- [ ] [Edward Frenkel - The Colbert Report (Video Clip) | Comedy Central](http://www.cc.com/video-clips/xj9d66/the-colbert-report-edward-frenkel)
+
+- [ ] [Gunpei Yokoi - Wikipedia](https://en.wikipedia.org/wiki/Gunpei_Yokoi)
+
+- [ ] [J. Peter May](http://www.math.uchicago.edu/~may/)
+
+- [ ] [[math/0608040v4] Higher Topos Theory](https://arxiv.org/abs/math/0608040v4)
+
+- [ ] [David Ayala - David Ayala | Montana State University](http://www.math.montana.edu/dayala/)
+
+- [ ] [All pages in nLab](https://ncatlab.org/nlab/all_pages)
+
+- [ ] [Clark Barwick](https://www.maths.ed.ac.uk/~cbarwick/)
+
+- [ ] [Yi-notes.pdf](http://www.math.harvard.edu/~gaitsgde/COMALG_2008/Yi-notes.pdf)
+
+- [ ] [Dominic Verity — Macquarie University](https://researchers.mq.edu.au/en/persons/dominic-verity)
+
+- [ ] [The geometry of blueprints: Part I: Algebraic background and scheme theory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S000187081100421X)
+
+- [ ] [Field with one element - Wikipedia](https://en.wikipedia.org/wiki/Field_with_one_element)
+
+- [ ] [article_sagnier_jnt.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.lix.polytechnique.fr/Labo/Aurelien.Sagnier/article_sagnier_jnt.pdf)
+
+- [ ] [(9) Alain Connes](https://www.researchgate.net/profile/Alain_Connes)
+
+- [ ] [[1108.2874] Thermodynamic Semirings](https://arxiv.org/abs/1108.2874)
+
+- [ ] [MSRI | Higher categories and categorification](http://www.msri.org/programs/323)
+
+- [ ] [The Rising Sea](http://therisingsea.org/)
+
+- [ ] [Lectures on the Curry-Howard Isomorphism, Volume 149 - 1st Edition](https://www.elsevier.com/books/lectures-on-the-curry-howard-isomorphism/srensen/978-0-444-52077-7)
+
+- [ ] [rosetta.pdf](http://math.ucr.edu/home/baez/rosetta.pdf)
+
+- [ ] [rosetta.pdf](http://math.ucr.edu/home/baez/rosetta.pdf)
+
+- [ ] [Index of /~avigad](http://www.phil.cmu.edu/~avigad/)
+
+- [ ] [www.phil.cmu.edu/~avigad/proofscripts/fibration_categories2.v](http://www.phil.cmu.edu/~avigad/proofscripts/fibration_categories2.v)
+
+- [ ] [Higher Topos Theory - Wikipedia](https://en.wikipedia.org/wiki/Higher_Topos_Theory)
+
+- [ ] [Vincent Arel-Bundock（@VincentAB）さん / Twitter](https://twitter.com/VincentAB)
+
+- [ ] [Mike Freeman（@mf_viz）さん / Twitter](https://twitter.com/mf_viz)
+
+- [ ] [Matt Levine（@matt_levine）さん / Twitter](https://twitter.com/matt_levine)

@@ -1105,3 +1105,11 @@ https://mike.place/
 Mike Lee Williams - Google Search
 https://www.google.com/search?client=firefox-b-d&q=Mike+Lee+Williams
 
+
+## 10/19/2019
+
+- [ ] [infinity categories - Google Search](https://www.google.com/search?q=infinity+categories&oq=infinity+categories&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Jacob Lurie lecture notes - Google Search](https://www.google.com/search?q=Jacob+Lurie+lecture+notes&oq=Jacob+Lurie+lecture+notes&aqs=chrome..69i57j69i60l2.4192j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The German YouTuber Emerging as the Voice of a Generation - Google Search](https://www.google.com/search?q=The+German+YouTuber+Emerging+as+the+Voice+of+a+Generation&oq=The+German+YouTuber+Emerging+as+the+Voice+of+a+Generation&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8)
