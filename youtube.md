@@ -607,3 +607,17 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [Taylor series | Essence of calculus, chapter 11 - YouTube](https://www.youtube.com/watch?v=3d6DsjIBzJ4)
 
 - [ ] [Convolutional Neural Networks (CNNs) explained - YouTube](https://www.youtube.com/watch?v=YRhxdVk_sIs)
+
+
+
+
+
+## math and CS: unifted
+
+## 10/19/2019
+
+- [ ] [(4) Dana S. Scott: Lambda Calculus, Then and Now - YouTube](https://www.youtube.com/watch?v=7cPtCpyBPNI)
+
+- [ ] [(4) Bret Victor The Future of Programming - YouTube](https://www.youtube.com/watch?v=8pTEmbeENF4)
+
+- [ ] [(4) Daniel Murfet - YouTube](https://www.youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ/videos?flow=list&live_view=500&view=0&sort=dd)

@@ -1282,3 +1282,58 @@ http://libgen.is/search.php?req=Edwin+S.+Mills+%28Auth.%29&column=author
 
 
 [Library Genesis](http://libgen.is/search.php?req=Ignacio+Palacios-Huerta&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+
+
+# Math
+
+
+## 10/19/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Mathematics+Without+Apologies&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Science+Essentials&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Michael%20Harris&column[]=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Love+and+Math&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=PROOF%21+HOW+THE+WORLD+BECAME+GEOMETRICAL&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Amir+Alexander&phrase=0&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Master+thesis+at+Utrecht+University+%28revised%29&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=PhD+thesis+at+University+of+Nottingham&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Research+Perspectives+CRM+Barcelona+%28Trends+in+Mathematics%29+3&column=series)
+
+- [ ] [Library Genesis: Alberto Mokak Teguia - Extensions of the Cayley-Hamilton Theorem with Applications to Elliptic Operators and Frames](http://libgen.is/book/index.php?md5=8EEBDBCA56E53340E2F97211C86D8A20)
+
+- [ ] [Library Genesis: Alexander Paunov - Positivity for Stanley’s chromatic functions](http://libgen.is/book/index.php?md5=2B4F173C68F3C71BCB142BA089D1EB21)
+
+- [ ] [Library Genesis: Alexey Beshenov - Algebraic K-theory of Number Fields](http://libgen.is/book/index.php?md5=93F9131AD0DD4D9E3F6BDE95BE49A3A8)
+
+- [ ] [Library Genesis: Andreas Aabrandt - Algebraic Varieties and System Design](http://libgen.is/book/index.php?md5=B454AA480FFACA4603457344FF24A9C9)
+
+- [ ] [Library Genesis: Christian Bruun - Young tableaux with applications to representation theory and flag manifolds](http://libgen.is/book/index.php?md5=F2C90F2933744D7F56BDDB05E096BA6E)
+
+- [ ] [Library Genesis: Diego Mirandola - Schur products of linear codes: a study of parameters](http://libgen.is/book/index.php?md5=4D2CAFE8DC8E3BE0BAA53AC74FA0D388)
+
+- [ ] [Library Genesis: Douglas H. Wiedemann - Hamming geometry](http://libgen.is/book/index.php?md5=360A07A746D9391050F0B3D401C35FCB)
+
+- [ ] [Library Genesis: Egbert Rijke - Homotopy type theory](http://libgen.is/book/index.php?md5=6420F279468C7BBF18151132AADE3904)
+
+- [ ] [Library Genesis: Lawrence Ernest Bridger - Rings with a polynomial identity](http://libgen.is/book/index.php?md5=CE3AF21E5AFB766AB303C5B51D150F6E)
+
+- [ ] [Library Genesis: M. del Mar González, P. C. Yang, N. Gambino, J. Kock (eds.) - Extended Abstracts Fall 2013: Geometrical Analysis; Type Theory, Homotopy Theory and Univalent Foundations](http://libgen.is/book/index.php?md5=FEEC191C8BEF03875EAE3CC2C342D1AB)
+
+- [ ] [Library Genesis: Méven Cadet - Le calcul dans les topos relatifs et l’interprétation du langage W](http://libgen.is/book/index.php?md5=6C3F08857D2D57CD53FA1CAE5FBFA846)
+
+- [ ] [Library Genesis: Nicola Marchetti - Applications of Groebner Bases to Coding Theory](http://libgen.is/book/index.php?md5=498D5F64AE26DCF19DF6C5D1624A6C45)
+
+- [ ] [Library Genesis: Nicolai Kraus - Truncation levels in homotopy type theory](http://libgen.is/book/index.php?md5=333B1F5C47DD21CFD7BB2E3248A3303C)
+
+- [ ] [Library Genesis: Olga Ruff - The Jordan Canonical Forms of complex orthogonal and skew-symmetric matrices: characterization and examples](http://libgen.is/book/index.php?md5=78E64F2B1FAFE6884BD2F7425C5E1570)
+
+- [ ] [Library Genesis: Tyler Leaser - Fourier Analysis on SU(2)](http://libgen.is/book/index.php?md5=299205B063B48511D0DB63F791ABFD7E)

@@ -887,3 +887,20 @@ https://zelda.gamepedia.com/Link
 - [ ] [jpneto/ScoringGames: Scoring Games Calculator](https://github.com/jpneto/ScoringGames)
 
 - [ ] [suppress the warning message on the R console screen? · Issue #90 · rstudio/blogdown](https://github.com/rstudio/blogdown/issues/90)
+
+
+
+
+## 10/19/2019
+
+- [ ] [dlicata335/hott-agda](https://github.com/dlicata335/hott-agda/)
+
+- [ ] [dmurfet/mf: Computing with matrix factorisations](https://github.com/dmurfet/mf)
+
+- [ ] [favonia/homotopy: My old Agda code for Homotopy Type Theory. (Halted. See HoTT/HoTT-Agda for the new one.)](https://github.com/favonia/homotopy)
+
+- [ ] [Homotopy Type Theory](https://github.com/HoTT)
+
+- [ ] [HoTT/HoTT-Agda: Development of homotopy type theory in Agda](https://github.com/hott/hott-agda/)
+
+- [ ] [HoTT/HoTT-Agda: Development of homotopy type theory in Agda](https://github.com/HoTT/HoTT-Agda)
