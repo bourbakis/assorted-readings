@@ -553,3 +553,57 @@ https://www.google.com/search?client=firefox-b-d&q=Simple+Image+Search+Engine
 tensorflow/neural-structured-learning: Training neural models with structured signals.
 https://github.com/tensorflow/neural-structured-learning
 
+
+
+
+
+## 10/18/2019
+
+
+
+
+
+### Neural network series lect and other scientific ideas
+
+
+- [ ] [(3) The Essence of Calculus, Chapter 1 - YouTube](https://www.youtube.com/watch?v=WUvTyaaNkzM)
+
+- [ ] [(3) Thinking outside the 10-dimensional box - YouTube](https://www.youtube.com/watch?v=zwAD6dRSVyI)
+
+- [ ] [(3) Why is pi here? And why is it squared? A geometric answer to the Basel problem - YouTube](https://www.youtube.com/watch?v=d-o3eB9sfls)
+
+- [ ] [(3) Imaginary Numbers Are Real [Part 1: Introduction] - YouTube](https://www.youtube.com/watch?v=T647CGsuOVU)
+
+- [ ] [(3) The paradox of the derivative | Essence of calculus, chapter 2 - YouTube](https://www.youtube.com/watch?v=9vKqVkMQHKk)
+
+- [ ] [(3) Gradient descent, how neural networks learn | Deep learning, chapter 2 - YouTube](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+
+- [ ] [(3) But what is a partial differential equation? | DE2 - YouTube](https://www.youtube.com/watch?v=ly4S0oi3Yz8)
+
+- [ ] [(3) The Bayesian Trap - YouTube](https://www.youtube.com/watch?v=R13BD8qKeTg)
+
+- [ ] [(3) Game of Cat and Mouse - Numberphile - YouTube](https://www.youtube.com/watch?v=vF_-ob9vseM)
+
+- [ ] [What is a Fourier Series? (Explained by drawing circles) - Smarter Every Day 205 - YouTube](https://www.youtube.com/watch?v=ds0cmAV-Yek)
+
+- [ ] [How Much Information? - YouTube](https://www.youtube.com/watch?v=zUDqI9PJpc8)
+
+- [ ] [The Absurdity of Detecting Gravitational Waves - YouTube](https://www.youtube.com/watch?v=iphcyNWFD10)
+
+- [ ] [The 10,958 Problem - Numberphile - YouTube](https://www.youtube.com/watch?v=-ruC5A9EzzE)
+
+- [ ] [The Wallis product for pi, proved geometrically - YouTube](https://www.youtube.com/watch?v=8GPy_UMV-08)
+
+- [ ] [(3) Convolutional Neural Networks - The Math of Intelligence (Week 4) - YouTube](https://www.youtube.com/watch?v=FTr3n7uBIuE)
+
+- [ ] [How Deep Neural Networks Work - YouTube](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+
+- [ ] [Sneaky Topology | The Borsuk-Ulam theorem and stolen necklaces - YouTube](https://www.youtube.com/watch?v=yuVqxCSsE7c)
+
+- [ ] [(3) Vectors, what even are they? | Essence of linear algebra, chapter 1 - YouTube](https://www.youtube.com/watch?v=fNk_zzaMoSs&t=27s)
+
+- [ ] [This problem seems hard, then it doesn't, but it really is - YouTube](https://www.youtube.com/watch?v=M64HUIJFTZM&t=203s)
+
+- [ ] [Taylor series | Essence of calculus, chapter 11 - YouTube](https://www.youtube.com/watch?v=3d6DsjIBzJ4)
+
+- [ ] [Convolutional Neural Networks (CNNs) explained - YouTube](https://www.youtube.com/watch?v=YRhxdVk_sIs)
