@@ -83,3 +83,173 @@ chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/imageExtractor.html?tabId=90
 - [ ] [Google Image Result for https://nolisllc.com/assets/img/logo/logo-nolis-pink.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fnolisllc.com%2Fassets%2Fimg%2Flogo%2Flogo-nolis-pink.png&imgrefurl=https%3A%2F%2Fnolisllc.com%2Frstudio19&docid=vWriPMhv7h14JM&tbnid=nUQn3QUPvV0DyM%3A&vet=12ahUKEwj8yrbB6JvlAhW1VRUIHcB-CNc4rAIQMygWMBZ6BAgBEBc..i&w=2157&h=795&bih=949&biw=1920&q=neural%20network%20logo&ved=2ahUKEwj8yrbB6JvlAhW1VRUIHcB-CNc4rAIQMygWMBZ6BAgBEBc&iact=mrc&uact=8)
 
 - [ ] [Google Image Result for https://www.seekclipart.com/clipng/middle/221-2215413_clojure-dynamic-neural-net-library-clipart.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.seekclipart.com%2Fclipng%2Fmiddle%2F221-2215413_clojure-dynamic-neural-net-library-clipart.png&imgrefurl=https%3A%2F%2Fwww.seekclipart.com%2Fclipart%2FJRmxho_clojure-dynamic-neural-net-library-clipart%2F&docid=KLUrmXxmi1r1EM&tbnid=kHgswkBUuK1FQM%3A&vet=12ahUKEwj8yrbB6JvlAhW1VRUIHcB-CNc4rAIQMyghMCF6BAgBECI..i&w=880&h=620&itg=1&bih=949&biw=1920&q=neural%20network%20logo&ved=2ahUKEwj8yrbB6JvlAhW1VRUIHcB-CNc4rAIQMyghMCF6BAgBECI&iact=mrc&uact=8)
+
+
+
+
+
+
+
+## 10/19/2019
+
+- [ ] [Twitter Statistics | Twipu](https://www.twipu.com/stats)
+
+- [ ] [Images and Photos from #YuJin - Nusgram](https://www.nusgram.com/tag/YuJin)
+
+- [ ] [#ミンジュ - Twitter Search / Twitter](https://twitter.com/search?q=%23%E3%83%9F%E3%83%B3%E3%82%B8%E3%83%A5&src=typed_query&f=image)
+
+- [ ] [kim minju pics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQE_Qz1fK3OpGP-VVXsdCyXqEASVA:1571491294742&q=kim+minju+pics&tbm=isch&source=univ&sa=X&ved=2ahUKEwiw0Y-jtajlAhWiIqYKHfVRD54QsAR6BAgKEAE&biw=1920&bih=989)
+
+- [ ] [Kim Min Ju | Kpop Wiki | FANDOM powered by Wikia](https://kpop.fandom.com/wiki/Kim_Min_Ju)
+
+- [ ] [Kwon Eun Bi | Kpop Wiki | FANDOM powered by Wikia](https://kpop.fandom.com/wiki/Kwon_Eun_Bi)
+
+- [ ] [The Psychology of the Joker from ‘Joker’ (2019) | FANDOM](https://www.fandom.com/articles/psychology-joker-2019-joaquin-phoenix)
+
+- [ ] [Never Surrender: A Galaxy Quest Documentary | Fathom Events](https://www.fathomevents.com/events/never-surrender)
+
+- [ ] [latest (920×1200)](https://vignette.wikia.nocookie.net/kpop/images/f/f8/IZONE_Kim_Min_Ju_Buenos_Aires_concept_photo.png/revision/latest?cb=20190523031232&format=original)
+
+- [ ] [Jang Won Young | Kpop Wiki | FANDOM powered by Wikia](https://kpop.fandom.com/wiki/Jang_Won_Young)
+
+## 10/19/2019
+
+- [ ] [Dan Hirschman (@asociologist) / Twitter](https://twitter.com/asociologist)
+
+- [ ] [Jess Calarco on Twitter: "HGTV: Sociological Theory Edition Host: Tell me about your design... (Thread)" / Twitter](https://twitter.com/JessicaCalarco/status/953331364287406080)
+
+- [ ] [Brigitte Madrian on Twitter: "The value of feedback. Colleague: You say 'um' a lot when speaking Me: Really? I need to work on that Months later after 30 min address w/o notes or slides as a crutch, attendee says: "I did not hear the word 'um' a single time, how hard have you worked on that?" Very hard!" / Twitter](https://twitter.com/BrigitteMadrian/status/1185403832328736768)
+
+- [ ] [Google Translate](https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=Sociological%20Theory)
+
+- [ ] [Stumbling and Mumbling](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/)
+
+- [ ] [Capitalism – not so alone | Michael Roberts Blog](https://thenextrecession.wordpress.com/2019/10/12/capitalism-not-so-alone/)
+
+- [ ] [Stumbling and Mumbling: A start, or an end?](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2019/09/a-start-or-an-end.html)
+
+- [ ] [Stumbling and Mumbling: Capitalists for Corbyn](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2019/09/capitalists-for-corbyn.html)
+
+- [ ] [Stumbling and Mumbling: Doubting disaster capitalism](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2019/09/doubting-disaster-capitalism.html)
+
+- [ ] [Stumbling and Mumbling: Financialization as symptom](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2019/10/financialization-as-symptom.html)
+
+- [ ] [Stumbling and Mumbling: On commodification](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2019/10/on-commodification.html)
+
+- [ ] [Stumbling and Mumbling: On Tory paradoxes](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2019/09/on-tory-paradoxes.html)
+
+- [ ] [Stumbling and Mumbling: The theatre of politics](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2019/08/the-theatre-of-politics.html)
+
+- [ ] [Stumbling and Mumbling: The trouble with capitalism](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2019/09/the-trouble-with-capitalism.html)
+
+- [ ] [Stumbling and Mumbling: What theft?](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2019/09/what-theft.html)
+
+- [ ] [Stumbling and Mumbling: Why we are wrong](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2019/10/why-we-are-wrong.html)
+
+- [ ] [Phil BC (@philbc3) / Twitter](https://twitter.com/philbc3)
+
+- [ ] [All That Is Solid ...: The Genius of Dominic Cummings](https://averypublicsociologist.blogspot.com/2019/10/the-genius-of-dominic-cummings.html)
+
+- [ ] [All That Is Solid ...: Economics & Politics](https://averypublicsociologist.blogspot.com/p/economics.html)
+
+- [ ] [All That Is Solid ...: Sociology](https://averypublicsociologist.blogspot.com/p/social-theory-sociology-and-marxism.html)
+
+- [ ] [All That Is Solid ...: Books](https://averypublicsociologist.blogspot.com/p/books.html)
+
+- [ ] [All That Is Solid ...: Re-Reading Reading Capital](https://averypublicsociologist.blogspot.com/2019/10/re-reading-reading-capital.html)
+
+- [ ] [All That Is Solid ...: Politics after the New Brexit Deal](https://averypublicsociologist.blogspot.com/2019/10/politics-after-new-brexit-deal.html)
+
+- [ ] [All That Is Solid ...: Against Stitch-Ups](https://averypublicsociologist.blogspot.com/2019/10/against-stitch-ups.html)
+
+- [ ] [The Vacuity of the Political "We" - Econlib](https://www.econlib.org/library/Columns/y2014/Lemieuxwe.html)
+
+- [ ] [AnkiConnect - AnkiWeb](https://ankiweb.net/shared/info/2055492159)
+
+- [ ] [yekingyan/anki_search_on_web: 在google、bing、yahoo等搜索引擎上，同步搜索本地的Anki数据。Tampermonkey script](https://github.com/yekingyan/anki_search_on_web)
+
+- [ ] [yekingyan (yekingyan)](https://github.com/yekingyan)
+
+- [ ] [My Drive - Google Drive](https://drive.google.com/drive/u/1/my-drive)
+
+- [ ] [Kaffae Extension](chrome-extension://cdopdmmkjbdmffleiaajlplpgfbikekc/popup.html)
+
+- [ ] [Kaffae](https://app.kaffae.com/)
+
+- [ ] [rstudio.cloud](https://rstudio.cloud/project/501114)
+
+- [ ] [Focused and Diffuse: Two Modes of Thinking](https://fs.blog/2019/10/focused-diffuse-thinking/)
+
+- [ ] [The Knowledge Project with Shane Parrish](https://fs.blog/the-knowledge-project/)
+
+- [ ] [Membership New](https://fs.blog/membership/)
+
+- [ ] [Random](https://fs.blog/random-articles/)
+
+- [ ] [The Best Articles on Farnam Street](https://fs.blog/best-articles/)
+
+- [ ] [A Helpful Guide to Reading Better](https://fs.blog/reading/)
+
+- [ ] [Decision Making: A Guide to Smarter Decisions and Reducing Errors](https://fs.blog/smart-decisions/)
+
+- [ ] [Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)](https://fs.blog/mental-models/)
+
+- [ ] [TweetDeck](https://tweetdeck.twitter.com/)
+
+- [ ] [DAGitty - drawing and analyzing causal diagrams (DAGs)](http://dagitty.net/)
+
+- [ ] [Uncertainty Estimation in Deep Learning](https://www.slideshare.net/perone/uncertainty-estimation-in-deep-learning)
+
+- [ ] [(54) LinkedIn](https://www.linkedin.com/posts/chadscherrer_chad-scherrer-activity-6584657887719751681-x9cI/)
+
+- [ ] [Uncertainty Quantification in Deep Learning - inovex-Blog](https://www.inovex.de/blog/uncertainty-quantification-deep-learning/)
+
+- [ ] [Understanding objective functions in neural networks.](https://towardsdatascience.com/understanding-objective-functions-in-neural-networks-d217cb068138)
+
+- [ ] [bayesian - Shrinkage priors - Cross Validated](https://stats.stackexchange.com/questions/431890/shrinkage-priors?atw=1)
+
+- [ ] [zhiiiyang (Zhi Yang)](https://github.com/zhiiiyang)
+
+- [ ] [An interactive treemap of media franchise revenue by category | Zhi Yang](https://zhiyang.netlify.com/post/treemap/)
+
+- [ ] [RMarkdown pdf xelatex not rendering images - R Markdown - RStudio Community](https://community.rstudio.com/t/rmarkdown-pdf-xelatex-not-rendering-images/42620)
+
+- [ ] [Kelvins - Collision Avoidance Challenge - Home](https://kelvins.esa.int/collision-avoidance-challenge/home/)
+
+- [ ] [所有人都谎言 ocn 韩剧 - Google Search](https://www.google.com/search?q=%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E8%B0%8E%E8%A8%80+ocn+%E9%9F%A9%E5%89%A7&oq=%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E8%B0%8E%E8%A8%80+ocn+%E9%9F%A9%E5%89%A7&aqs=chrome..69i57.11831j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [所有人的谎言_百度百科](https://baike.baidu.com/item/%E6%89%80%E6%9C%89%E4%BA%BA%E7%9A%84%E8%B0%8E%E8%A8%80/23754962)
+
+- [ ] [李裕英 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRXNJiYHdF0B4ktSdbpLqnbY643bQ:1571489187061&q=%E6%9D%8E%E8%A3%95%E8%8B%B1&tbm=isch&source=univ&sa=X&ved=2ahUKEwiPgo22rajlAhV8zIsBHVd-CmkQsAR6BAgHEAE&biw=1920&bih=940)
+
+- [ ] [Home](https://sites.google.com/view/abc-in-grenoble/home)
+
+- [ ] [AlexIoannides (Alex Ioannides) / Starred](https://github.com/AlexIoannides?tab=stars)
+
+- [ ] [Dr Alex Ioannides – Stochastic Process Calibration using Bayesian Inference & Probabilistic Programs](https://alexioannides.com/2019/01/18/stochastic-process-calibration-using-bayesian-inference-probabilistic-programs/)
+
+- [ ] [Dr Alex Ioannides – Bayesian Regression in PYMC3 using MCMC & Variational Inference](https://alexioannides.com/2018/11/07/bayesian-regression-in-pymc3-using-mcmc-variational-inference/)
+
+- [ ] [Alex Ioannides | Free Listening on SoundCloud](https://soundcloud.com/user-616657739)
+
+- [ ] [Dr Alex Ioannides – Machine Learning Pipelines for R](https://alexioannides.com/2017/05/08/machine-learning-pipelines-for-r/)
+
+- [ ] [Dr Alex Ioannides – An R Function for Generating Authenticated URLs to Private Web Sites Hosted on AWS S3](https://alexioannides.com/2016/09/19/an-r-function-for-generating-authenticated-urls-to-private-web-sites-hosted-on-aws-s3/)
+
+- [ ] [create anki with vim - Google Search](https://www.google.com/search?q=create%20anki%20with%20vim)
+
+- [ ] [Anki::Import - Anki note generation made easy. - metacpan.org](https://metacpan.org/pod/Anki::Import)
+
+- [ ] [Learn Vim with Spaced Repetition](https://spin.atomicobject.com/2012/03/20/vim-with-spaced-repetition/)
+
+- [ ] [Vim Commands - AnkiWeb](https://ankiweb.net/shared/info/553269875)
+
+- [ ] [Using Vim with Anki, what's your preferred setup? : Anki](https://www.reddit.com/r/Anki/comments/8p4ezo/using_vim_with_anki_whats_your_preferred_setup/)
+
+- [ ] [Branches · MFreidank/AnkiVim](https://github.com/MFreidank/AnkiVim/branches)
+
+- [ ] [#causalinference - Twitter Search / Twitter](https://twitter.com/hashtag/causalinference?src=hashtag_click)
+
+- [ ] [#dags - Twitter Search / Twitter](https://twitter.com/hashtag/dags?src=hashtag_click)
+
+- [ ] [Photos - Google Photos](https://photos.google.com/u/2/)

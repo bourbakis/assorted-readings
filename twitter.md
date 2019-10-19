@@ -651,3 +651,28 @@ https://twitter.com/vukosi
 - [ ] [sara :: forall a. a (@MxLambda) / Twitter](https://twitter.com/MxLambda)
 
 - [ ] [Soham Chowdhury (@mrkgrnao) / Twitter](https://twitter.com/mrkgrnao)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 10/19/2019
+
+- [ ] [Daniel Millimet (@dlmillimet) / Twitter](https://twitter.com/dlmillimet)
+
+- [ ] [George F. Will on Twitter: "(13/13) If Hong Kong’s heroic refusal to go gentle into Beijing’s dark night is accelerating this disenchantment, the summer of dissent has been this decade’s grandest and most important development. https://t.co/KjPbwTE5KS" / Twitter](https://twitter.com/GeorgeWill/status/1172158906342215682)
+
+- [ ] [Home / Twitter](https://twitter.com/home)
+
+- [ ] [Manifold Podcast (@ManifoldPodcast) / Twitter](https://twitter.com/manifoldpodcast)

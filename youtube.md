@@ -635,3 +635,49 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [(4) Satya Nadella, CEO of Microsoft - YouTube](https://www.youtube.com/watch?v=rtgN27z0oi0)
 
 - [ ] [(4) Social Computing for Social Good in Low-Resource Environments - YouTube](https://www.youtube.com/watch?v=BVF3tryFb2g)
+
+
+
+
+
+
+
+
+
+
+## 10/19/2019
+
+- [ ] [(4) Olivier Blanchard: Why Not Target Wage Rather than Price Inflation? - YouTube](https://www.youtube.com/watch?v=19cTpQpuVbo)
+
+- [ ] [(4) Would a “Wealth Tax” Help Combat Inequality? A Debate with Saez, Summers, and Mankiw - YouTube](https://www.youtube.com/watch?v=oUGpjpEGTfE)
+
+
+## 10/19/2019
+
+- [ ] [(4) Command line flash cards with bash - YouTube](https://www.youtube.com/watch?v=lX8jqo70r1I)
+
+- [ ] [(4) YouTube](https://www.youtube.com/)
+
+- [ ] [Constitution 101 | Lecture 1 - YouTube](https://www.youtube.com/watch?v=oU5gasRxYdU)
+
+- [ ] [Jimmy O. Yang Says There's No Stand-up Comedy In China - YouTube](https://www.youtube.com/watch?v=H9_pg-gTOR8)
+
+- [ ] [Kip Thorne - What is Space-Time? - YouTube](https://www.youtube.com/watch?v=mvdlN4H4T54)
+
+- [ ] [Richard Feynman Computer Heuristics Lecture - YouTube](https://www.youtube.com/watch?v=EKWGGDXe5MA)
+
+- [ ] [StatQuest: Maximum Likelihood, clearly explained!!! - YouTube](https://www.youtube.com/watch?v=XepXtl9YKwc)
+
+- [ ] [Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction - YouTube](https://www.youtube.com/watch?v=xNB_89vZ0y4)
+
+- [ ] [Understanding e to the i pi in 3.14 minutes | DE5 - YouTube](https://www.youtube.com/watch?v=v0YEaeIClKY)
+
+- [ ] [Would a “Wealth Tax” Help Combat Inequality? A Debate with Saez, Summers, and Mankiw - YouTube](https://www.youtube.com/watch?v=oUGpjpEGTfE)
+
+- [ ] [Installing Arch Linux on Raspberry Pi - YouTube](https://www.youtube.com/watch?v=ktta8hbJ-UY)
+
+- [ ] [Vim notetaking tips - YouTube](https://www.youtube.com/watch?v=wh_WGWii7UE)
+
+- [ ] [Writing academic papers on the command line with pandoc - YouTube](https://www.youtube.com/watch?v=nO4T8JDNYG0)
+
+- [ ] [10.14: Neural Networks: Backpropagation Part 1 - The Nature of Code - YouTube](https://www.youtube.com/watch?v=QJoa0JYaX1I)

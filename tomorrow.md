@@ -1212,3 +1212,53 @@ https://twitter.com/MatthieuSuc
 - [ ] [10 Best American novels of the past half century | Notes On Liberty](https://notesonliberty.com/2019/10/17/10-best-american-novels-of-the-past-half-century/)
 
 - [ ] [(59) Manifold Podcast - 首页](https://www.facebook.com/manifoldpodcast)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 10/19/2019
+
+- [ ] [Stumbling and Mumbling](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/)
+
+- [ ] [Capitalism – not so alone | Michael Roberts Blog](https://thenextrecession.wordpress.com/2019/10/12/capitalism-not-so-alone/)
+
+- [ ] [Global Inequality — Branko Milanovic | Harvard University Press](https://www.hup.harvard.edu/catalog.php?isbn=9780674737136)
+
+- [ ] [The Booker Prize judges had one job - UnHerd](https://unherd.com/2019/10/the-booker-judges-had-one-job/)
+
+- [ ] [Doubts over profit-led growth](https://www.investorschronicle.co.uk/chris-dillow/2019/08/29/doubts-over-profit-led-growth/)
+
+- [ ] [Listening to consumers](https://www.investorschronicle.co.uk/comment/2019/08/29/listening-to-consumers/)
+
+- [ ] [The rights and wrongs of negative rates](https://www.investorschronicle.co.uk/chris-dillow/2019/08/22/the-rights-and-wrongs-of-negative-rates/)
+
+- [ ] [Portfolios for workers](https://www.investorschronicle.co.uk/comment/2019/06/25/portfolios-for-workers/)
+
+- [ ] [The power of imprecision](https://www.investorschronicle.co.uk/2017/03/17/comment/chris-dillow/the-power-of-imprecision-4h91R8UYchUQTu0lcmr18H/article.html)
+
+- [ ] [In defence of pension freedom](https://www.investorschronicle.co.uk/2015/07/21/comment/chris-dillow/in-defence-of-pension-freedom-xQ9bJORWI1zuX4FTGnMoqK/article.html)
+
+- [ ] [The knowledge problem](https://www.investorschronicle.co.uk/2015/07/09/comment/chris-dillow/the-knowledge-problem-GCaA6AzVD09HKNDI4rEctM/article.html)
+
+- [ ] [‘Take Back Control’ | LRB](https://www.lrb.co.uk/blog/2019/october/take-back-control)
+
+- [ ] [The Crucial Century - Anton Howes](https://www.antonhowes.com/blog/the-crucial-century)
+
+- [ ] [The moral mathematics of letting people die | OUPblog](https://blog.oup.com/2019/10/the-moral-mathematics-of-letting-people-die/)
+
+- [ ] [On the limited applicability of game theory | LARS P. SYLL](https://larspsyll.wordpress.com/2019/10/14/on-the-limited-applicability-of-game-theory/)
+
+- [ ] [The age of low returns](https://www.investorschronicle.co.uk/chris-dillow/2019/08/15/the-age-of-low-returns/)
+
+- [ ] [Short-termist?](https://www.investorschronicle.co.uk/2015/08/04/comment/chris-dillow/short-termist-0Y28RStYyDNtvn7c2dhbbO/article.html)
+
+- [ ] [Why we can't predict](https://www.investorschronicle.co.uk/2013/09/03/comment/chris-dillow/why-we-can-t-predict-CBw6Z40EZFbzw09qOKBRyK/article.html)

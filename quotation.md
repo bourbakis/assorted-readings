@@ -19,3 +19,12 @@
 > Although defining meditation advocacy as a social movement (contemplative movement, as it’s called) can be debated, part of the power of this conceptualization is that it allows Kucinskas to use it as a case study interrogate the use of insider strategies.
 >
 > -- https://mobilizingideas.wordpress.com/2019/09/12/the-mindful-elite-mobilizing-from-the-inside-out-a-review/#post-12314
+
+
+> ### Sad News from China
+> 
+> Via the _[NY Times](https://www.nytimes.com/2019/10/11/business/china-hong-kong-education.html)_:
+> 
+> > Some universities have replaced textbooks by Western academics such as Milton Friedman and N. Gregory Mankiw with books written under a program called “Marxist theory research and building project.”
+>
+> -- https://gregmankiw.blogspot.com/#1719122766278206538
