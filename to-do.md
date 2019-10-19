@@ -3291,3 +3291,142 @@ https://www.ted.com/talks/paul_collier_s_new_rules_for_rebuilding_a_broken_natio
 - [ ] [Mike Freeman（@mf_viz）さん / Twitter](https://twitter.com/mf_viz)
 
 - [ ] [Matt Levine（@matt_levine）さん / Twitter](https://twitter.com/matt_levine)
+
+
+
+
+---
+
+
+
+
+
+## 10/19/2019
+
+- [ ] [Why Nations Fail - Why Nations Fail by Daron Acemoglu and James Robinson](http://whynationsfail.com/)
+
+- [ ] [The Leisure of the Theory Class](https://theoryclass.wordpress.com/)
+
+- [ ] [The Story of the Amul Girl, India's Ad Icon Who Was Ahead of Her Time | Muse by Clio](https://musebycl.io/advertising/story-amul-girl-indias-ad-icon-who-was-ahead-her-time)
+
+- [ ] [Innovations for Poverty Action](https://www.poverty-action.org/)
+
+- [ ] [A Newly Minted Nobel Laureate on Making Economics More of a Science - Bloomberg](https://www.bloomberg.com/news/articles/2019-10-17/a-newly-minted-nobel-laureate-on-making-economics-more-of-a-science)
+
+- [ ] [An interview with the Nobel prize-winning economists - Money talks](https://www.economist.com/podcasts/2019/10/15/an-interview-with-the-nobel-prize-winning-economists)
+
+- [ ] [Christopher Blattman](https://www.nber.org/people/christopher_blattman)
+
+- [ ] [Christopher Blattman - Google Scholar Citations](https://scholar.google.com/citations?user=yu2Oz0YAAAAJ&hl=en)
+
+- [ ] [PhD and post-doc advising - Chris Blattman](https://chrisblattman.com/graduate-advising/)
+
+- [ ] [Episode 494: What Happens When You Just Give Money To Poor People? : Planet Money : NPR](https://www.npr.org/sections/money/2013/11/08/243967328/episode-494-what-happens-when-you-just-give-money-to-poor-people)
+
+- [ ] [Chris Blattman on Cash, Poverty, and Development - Econlib](https://www.econtalk.org/chris-blattman-on-cash-poverty-and-development/)
+
+- [ ] [Final lecture: Order & Violence - Chris Blattman](https://chrisblattman.com/2017/05/22/final-lecture-order-violence/)
+
+- [ ] [development Archives - Chris Blattman](https://chrisblattman.com/tag/development/)
+
+- [ ] [conflict Archives - Chris Blattman](https://chrisblattman.com/tag/conflict/)
+
+- [ ] [China Archives - Chris Blattman](https://chrisblattman.com/tag/china/)
+
+- [ ] [Chris Blattman (@cblatts) / Twitter](https://twitter.com/cblatts)
+
+- [ ] [(60) Chris Blattman's Author Page - 首页](https://www.facebook.com/chrisblattmanblog)
+
+- [ ] [Zip Code Economies](https://www.zipcodeeconomies.org/)
+
+- [ ] [‎Freakonomics Radio: 390. Fed Up on Apple Podcasts](https://podcasts.apple.com/us/podcast/390-fed-up/id354668519?i=1000451279960)
+
+- [ ] [Mary Daly | Women in Economics Podcasts | St. Louis Fed](https://www.stlouisfed.org/timely-topics/women-in-economics/mary-daly)
+
+- [ ] [social_costs_policing_ABH_JMP.pdf - Google Drive](https://drive.google.com/file/d/1sSxhfmDY3N1VAN5XwyRObE65tmAZzhTj/view)
+
+- [ ] [Improving social protection by reaping the gains from international migration | VOX, CEPR Policy Portal](https://voxeu.org/article/creating-two-sided-market-work-permits#.XY32MMY_o_c.twitter)
+
+- [ ] [Lifting the floor to living standards by exploiting the gains from international migration | ECONOMICS & POVERTY](https://economicsandpoverty.com/2019/09/30/lifting-the-floor-to-living-standards-by-exploiting-the-gains-from-international-migration/)
+
+- [ ] [missing-market-1.pdf](https://examplewordpresscom61323.files.wordpress.com/2019/09/missing-market-1.pdf)
+
+- [ ] [Best blog comment of all time? - Chris Blattman](https://chrisblattman.com/2010/05/29/best-blog-comment-of-all-time/#comment-225073)
+
+- [ ] [Behavioral Economics Reading List | Cheap Talk](https://cheaptalk.org/behavioral-economics-reading-list/)
+
+- [ ] [Jeff’s Intermediate Micro Course | Cheap Talk](https://cheaptalk.org/jeffs-intermediate-micro-course/)
+
+- [ ] [Behavioral Economics Reading List | Cheap Talk](https://cheaptalk.org/behavioral-economics-reading-list/)
+
+- [ ] [Crumbs | Cheap Talk](https://cheaptalk.org/crumbs/)
+
+- [ ] [Henry VIII and Brexit | Cheap Talk](https://cheaptalk.org/2016/06/27/henry-viii-and-brexit/)
+
+- [ ] [Golden Balls Solved? | Cheap Talk](https://cheaptalk.org/2012/04/22/golden-balls-solved/)
+
+- [ ] [Strategic Voting Puzzle from Time Magazine | Cheap Talk](https://cheaptalk.org/2010/03/07/strategic-voting-puzzle-from-time-magazine/)
+
+- [ ] [What is Boris Johnson’s Strategy? | Cheap Talk](https://cheaptalk.org/2019/09/04/what-is-boris-johnsons-strategy/)
+
+- [ ] [IPA's weekly links - Chris Blattman](https://chrisblattman.com/2019/10/04/ipas-weekly-links-205/)
+
+- [ ] [www.kevinbryanecon.com](http://www.kevinbryanecon.com/)
+
+- [ ] [pseudoerasmus | Blog about economic history & comparative development](https://pseudoerasmus.com/)
+
+- [ ] [The NEP-HIS Blog | Discussion and comment on the latest research in business, economic and financial history](https://nephist.wordpress.com/)
+
+- [ ] [Daniel Millimet (@dlmillimet) / Twitter](https://twitter.com/dlmillimet)
+
+- [ ] [Manifold Podcast (@ManifoldPodcast) / Twitter](https://twitter.com/manifoldpodcast)
+
+- [ ] [(4) The Life & Thought of Friedrich Hayek - YouTube](https://www.youtube.com/watch?v=gU8rQnKN_uo)
+
+- [ ] [How The Economic Machine Works by Ray Dalio - YouTube](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+
+- [ ] [Claudia Goldin - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=958&bih=815&sxsrf=ACYBGNQM6Voh5GKTR0lNLQB2O_xEKFuPYg:1571471002214&q=Claudia+Goldin&stick=H4sIAAAAAAAAAONgFuLWz9U3MDRIS8u1MFHiAnGMzCorslK0-AJSi4rz84IzU1LLEyuLF7HyOecklqZkJiq45-ekZObtYGUEABO0Muo_AAAA&ved=2ahUKEwj0jPLW6aflAhXMLqYKHcpbDKkQxA0wgAF6BAhqEAY)
+
+- [ ] [Janet Currie - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=958&bih=815&sxsrf=ACYBGNQM6Voh5GKTR0lNLQB2O_xEKFuPYg:1571471002214&q=Janet+Currie&stick=H4sIAAAAAAAAAONgFuLWz9U3MDRIS8u1MFHiAnGSjYsKClK0-AJSi4rz84IzU1LLEyuLF7HyeCXmpZYoOJcWFWWm7mBlBAAjKtNkPQAAAA&ved=2ahUKEwj0jPLW6aflAhXMLqYKHcpbDKkQxA0wgAF6BAhqEAo)
+
+- [ ] [Marianne Bertrand - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQnSg0cmjPTM0Webqz8uPppqPSCog:1571469862108&q=Marianne+Bertrand&spell=1&sa=X&ved=0ahUKEwiX1p-35aflAhWxCqYKHfeXAfYQBQguKAA&biw=958&bih=815)
+
+- [ ] ['New Development Economics' and the Challenge to Theory on JSTOR](https://www.jstor.org/stable/4417230?seq=1#page_scan_tab_contents)
+
+- [ ] [A Fine Theorem on RCTs and the new Nobel Laureates - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/a-fine-theorem-on-rcts-and-the-new-nobel-laureates.html)
+
+- [ ] [Matthew Lilly on Saez and Zucman - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/matthew-lilly-on-saez-and-zucman.html)
+
+- [ ] [What to make of prediction markets this election season? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/what-to-make-of-prediction-markets-this-election-season.html)
+
+- [ ] [Jeffrey Ely (@Jeffely) on Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fcheaptalk.org%2F2019%2F09%2F04%2Fwhat-is-boris-johnsons-strategy%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=jeffely&tw_p=followbutton)
+
+- [ ] [scatterplot – the unruly darlings of public sociology](https://scatter.wordpress.com/)
+
+- [ ] [Luker, Data Reduction & CAQDAS | § Researchophile §](https://awesomeresearch.wordpress.com/2013/03/14/more-thoughts-on-luker-and-a-call-for-thoughts-on-data-reduction-caqdas/)
+
+- [ ] [on fights on scholar-activism – scatterplot](https://scatter.wordpress.com/2019/08/24/on-fights-on-scholar-activism/)
+
+- [ ] [Dan Hirschman (@asociologist) / Twitter](https://twitter.com/asociologist)
+
+- [ ] [Dan Hirschman](http://danhirschman.com/)
+
+- [ ] [Hirschman-2019-Soc1315-Spring-Syllabus-v1.pdf](http://danhirschman.com/wp-content/uploads/2019/03/Hirschman-2019-Soc1315-Spring-Syllabus-v1.pdf)
+
+- [ ] [HirschmanSoc315W16Syllabus.pdf](http://danhirschman.com/wp-content/uploads/2013/01/HirschmanSoc315W16Syllabus.pdf)
+
+- [ ] [HirschmanSoc495W16Syllabus.pdf](http://danhirschman.com/wp-content/uploads/2013/01/HirschmanSoc495W16Syllabus.pdf)
+
+- [ ] [Teaching | Dan Hirschman](http://danhirschman.com/teaching/)
+
+- [ ] [A (Budding) Sociologist's Commonplace Book | Thoughts on Politics, Economics, Sociology, and Such](https://asociologist.com/)
+
+- [ ] [About This Blog | A (Budding) Sociologist's Commonplace Book](https://asociologist.com/about/)
+
+- [ ] [Economics before human capital | A (Budding) Sociologist's Commonplace Book](https://asociologist.com/2015/07/02/economics-before-human-capital/#comment-19876)
+
+- [ ] [Funk and Hirschman (2014) “Derivatives and Deregulation” | A (Budding) Sociologist's Commonplace Book](https://asociologist.com/2014/10/07/funk-and-hirschman-2014-derivatives-and-deregulation/)
+
+- [ ] [Mentions of Race, Gender, and Inequality in Academic Articles | A (Budding) Sociologist's Commonplace Book](https://asociologist.com/2014/10/14/mentions-of-race-gender-and-inequality-in-academic-articles/#comment-19642)
+
+- [ ] [National Income Bibliography | A (Budding) Sociologist's Commonplace Book](https://asociologist.com/national-income-bibliography/)

@@ -142,3 +142,24 @@
 - [ ] [DL Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco4351/main.html)
 
 - [ ] [DL Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco7321/main.html)
+
+
+
+
+
+
+## 10/19/2019
+
+- [ ] [Daniel Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco6352/main.html)
+
+- [ ] [DL Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco4361/main.html)
+
+- [ ] [DL Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco6374/main.html)
+
+- [ ] [DL Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco6375/main.html)
+
+- [ ] [DL Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco7377/main.html)
+
+- [ ] [DL Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco4351/main.html)
+
+- [ ] [DL Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco7321/main.html)

@@ -1155,3 +1155,60 @@ https://twitter.com/MatthieuSuc
 - [ ] [Washington gives Chinese diplomats a taste of their own medicine - The Washington Post](https://www.washingtonpost.com/opinions/global-opinions/washington-gives-chinese-diplomats-a-taste-of-their-own-medicine/2019/10/17/d74f0b7a-f11c-11e9-8693-f487e46784aa_story.html)
 
 - [ ] [What Is It Like to Be a Philosopher?](http://www.whatisitliketobeaphilosopher.com/)
+
+
+## 10/19/2019
+
+- [ ] [Human Diversity: The Biology of Gender, Race, and Class: Charles Murray: 9781538744017: Amazon.com: Books](https://www.amazon.com/Human-Diversity-Biology-Gender-Class/dp/1538744015/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=/marginalrevol-20)
+
+- [ ] [SZ2019Appendix.pdf](https://eml.berkeley.edu/~saez/SZ2019Appendix.pdf)
+
+- [ ] [www.kevinbryanecon.com](http://www.kevinbryanecon.com/)
+
+- [ ] [Cheap Talk | A blog about economics, politics and the random interests of forty-something professors](https://cheaptalk.org/)
+
+- [ ] [Chris Blattman - International development, economics, politics, and policy](https://chrisblattman.com/)
+
+- [ ] [The Leisure of the Theory Class](https://theoryclass.wordpress.com/)
+
+- [ ] [The NEP-HIS Blog | Discussion and comment on the latest research in business, economic and financial history](https://nephist.wordpress.com/)
+
+- [ ] [pseudoerasmus | Blog about economic history & comparative development](https://pseudoerasmus.com/)
+
+- [ ] [A (Budding) Sociologist's Commonplace Book | Thoughts on Politics, Economics, Sociology, and Such](https://asociologist.com/)
+
+- [ ] [Why Nations Fail - Why Nations Fail by Daron Acemoglu and James Robinson](http://whynationsfail.com/)
+
+- [ ] [Phillip LeBel Homepage](https://msuweb.montclair.edu/~lebelp/)
+
+- [ ] [Good policy or good luck? - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/030439329390026C)
+
+- [ ] [How the (Econometric) Sausage is Made](https://dlm-econometrics.blogspot.com//)
+
+- [ ] [Christopher Parmeter | Faculty | Miami Herbert Business School](https://www.bus.miami.edu/thought-leadership/faculty/economics/parmeter.html)
+
+- [ ] [Punarjit Roychowdhury - Home](https://punarjitroyc.weebly.com/)
+
+- [ ] [HAO LI - Home](http://econhaoli.weebly.com/)
+
+- [ ] [Nicholas Gruen: evaluation knowledge comes not from numbers, but questions | The Mandarin](https://www.themandarin.com.au/83318-nicholas-gruen-evaluation-knowledge-comes-not-numbers-questions/)
+
+- [ ] [Research](https://www.carlosinoue.com/research)
+
+- [ ] [ChannellingFisherQJE](http://personal.lse.ac.uk/YoungA/ChannellingFisherQJE.pdf)
+
+- [ ] [The Big Fib about the Rich and Taxes – AIER](https://aier.org/article/the-big-fib-about-the-rich-and-taxes/)
+
+- [ ] [The burnout of the shooting star Carmelo Anthony](https://www.espn.com/nba/story/_/id/27802481/the-burnout-shooting-star-carmelo-anthony)
+
+- [ ] [Qatar, facing unbearable heat, has begun to air-condition the outdoors - Washington Post](https://www.washingtonpost.com/graphics/2019/world/climate-environment/climate-change-qatar-air-conditioning-outdoors/)
+
+- [ ] [Simulating Business Cash Flow Taxation: An Illustration Based on the "Better Way" Corporate Tax Reform](https://www.nber.org/papers/w23675)
+
+- [ ] [‎Manifold on Apple Podcasts](https://podcasts.apple.com/us/podcast/manifold/id1450540825)
+
+- [ ] [Manifold | Listen to Podcasts On Demand Free | TuneIn](https://tunein.com/podcasts/Science-Podcasts/Manifold-p1188918/)
+
+- [ ] [10 Best American novels of the past half century | Notes On Liberty](https://notesonliberty.com/2019/10/17/10-best-american-novels-of-the-past-half-century/)
+
+- [ ] [(59) Manifold Podcast - 首页](https://www.facebook.com/manifoldpodcast)

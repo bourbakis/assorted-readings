@@ -10,3 +10,12 @@
 > [The Why Nations Fail blog](http://www.whynationsfail.com/blog) by MIT’s Daron Acemoglu and Harvard’s James Robinson is self-recommending if you care about the intersection of political development and economic outcomes
 >
 > -- https://afinetheorem.wordpress.com/about/#post-2
+
+
+
+
+
+
+> Although defining meditation advocacy as a social movement (contemplative movement, as it’s called) can be debated, part of the power of this conceptualization is that it allows Kucinskas to use it as a case study interrogate the use of insider strategies.
+>
+> -- https://mobilizingideas.wordpress.com/2019/09/12/the-mindful-elite-mobilizing-from-the-inside-out-a-review/#post-12314
