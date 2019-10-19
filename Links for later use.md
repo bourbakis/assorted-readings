@@ -7,7 +7,7 @@
 - [ ] [耶鲁大学胡安·林茨 - Google 搜索](https://www.google.com/search?client=firefox-b-d&q=%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E8%83%A1%E5%AE%89%C2%B7%E6%9E%97%E8%8C%A8)
 - [ ] [Prof. Ran Spiegler: The Market for Keywords - YouTube](https://www.youtube.com/watch?v=fM30tP30msA)
 - [ ] [Three questions with Ran Spiegler - YouTube](https://www.youtube.com/watch?v=awhct8_Yco0)
-![](%23%20Links%20for%20later%20use/1F6A1DB7-0F88-4E5A-8D73-9C5B76596E58.png)
+![](Links%20for%20later%20use/1F6A1DB7-0F88-4E5A-8D73-9C5B76596E58.png)
 
 - [ ] [Lark 上线，字节跳动 toB 行军图成型 | 极客公园](https://www.geekpark.net/news/240246)
 - [ ] 
@@ -343,7 +343,7 @@ Paperless and document management
 
 ### Tweetstorm
 - [ ] Maybe take credit is the most easy and responsible way to say thanksigively.
-![](%23%20Links%20for%20later%20use/0B5B4370-1FFD-4900-B4B6-E7490AC673F9.png)
+![](Links%20for%20later%20use/0B5B4370-1FFD-4900-B4B6-E7490AC673F9.png)
 It is ok to benefit for value-add. The acceralting flow of information rewards. But never forget the source, never forget say thanking without the cost of ink and thanks letter. just use the word h/t, from via/by . World may be better and others will be encouraged. We Chinese benefit a lot for westerns, never forget that.
 
 I do not think the neglect of credit is a result of bad intent.
@@ -630,7 +630,7 @@ https://apps.apple.com/cn/story/id1330088857?l=en
 Embrace Space: The universe is your oyster in the massive Star Traders: Frontiers.
 
 https://apps.apple.com/us/story/id1465028482
-![](%23%20Links%20for%20later%20use/AB30869A-3400-435F-90F1-9A44A09773F1.jpg)
+![](Links%20for%20later%20use/AB30869A-3400-435F-90F1-9A44A09773F1.jpg)
 5 Ways to Get More Out of Bear: Tap the full potential of this elegant text editor.
 
 https://apps.apple.com/us/story/id1446924972
@@ -714,3 +714,16 @@ He’s on Fire!: Bring back the boomshakalaka with NBA Jam.
 
 https://apps.apple.com/us/story/id1449280954
 https://apps.apple.com/us/story/id1349435845
+@乔乔eureka: 又要来吐槽中信了。
+
+原文1：“The number of employees at that point other than Jeff who thought he could turn it into an eighty-billion-dollar company—that's a short list.“
+
+中信翻译：“众多亚马逊员工当时都相信亚马逊会发展成一个拥有800亿美元资产的公司，这还只是保守估计，连贝佐斯 ...全文
+
+
+
+
+
+
+
+https://www.google.co.uk/search?newwindow=1&client=safari&sa=X&hl=en-gb&sxsrf=ACYBGNQHIgqjmlPq82zMdzC5WUHNwYsaUA:1571465509029&q=dean+karlan+books&stick=H4sIAAAAAAAAAONgFuLSz9U3SDI3LbLIVUJia0llJ1vpJ-XnZ-snlpZk5BdZgdjFCvl5OZWLWAVTUhPzFLITi3KAFFhiBysjAK4ExCRNAAAA&ved=2ahUKEwjP5sSb1aflAhWdwosBHa1aAnUQzTooATB-egQIYhAu&biw=1366&bih=981&dpr=2
