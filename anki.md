@@ -21,3 +21,10 @@ There were four key factors:
 > from philosophical point of view, multiple universe langauge is not passable in current stage. (John Heil)
 
 > The author has not mentioned the later development after Sr. Karl Poper.
+
+
+
+# 10/19/2019
+
+In mathematics, a manifold is a topological space that locally resembles Euclidean space near each point.
+

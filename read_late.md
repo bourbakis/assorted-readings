@@ -8,3 +8,6 @@
 - [ ] [Opinion | The Reality of Quantum Weirdness - The New York Times](https://www.nytimes.com/2015/02/22/opinion/sunday/the-reality-of-quantum-weirdness.html)
 
 - [ ] [The Lives of Alexander Grothendieck, a Mathematical Visionary - The New York Times](https://www.nytimes.com/2014/11/25/science/the-lives-of-alexander-grothendieck-a-mathematical-visionary.html)
+
+
+https://manifoldlearning.com/2019/10/17/episode-021-transcript/
