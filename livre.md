@@ -1116,7 +1116,7 @@ http://libgen.is/search.php?req=+Philip+J.+Davis&open=0&res=25&view=simple&phras
 Library Genesis
 http://libgen.is/search.php?&req=Gary+F.+Marcus&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
 
-Library Genesis
+- [x] Library Genesis
 http://libgen.is/search.php?req=Learning%2C+Development%2C+and+Conceptual+Change&column=series
 
 Subscribe to read | Financial Times
