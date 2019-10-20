@@ -142,3 +142,79 @@ https://stackoverflow.com/questions/37750270/unable-to-embed-a-gif-on-imgur-to-a
 git - Add images to README.md on GitHub - Stack Overflow
 https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 
+
+
+
+# Statics
+
+## 10/20/2019
+
+- [ ] [data visualization - Generating visually appealing density heat maps in R - Cross Validated](https://stats.stackexchange.com/questions/26676/generating-visually-appealing-density-heat-maps-in-r)
+
+- [ ] [Posts containing 'spatstat' - Cross Validated](https://stats.stackexchange.com/search?q=Spatstat)
+
+- [ ] [r - Analysis of spatial replicated patterns - Cross Validated](https://stats.stackexchange.com/questions/292148/analysis-of-spatial-replicated-patterns/292425#292425)
+
+- [ ] [spatial - Testing for group differences based on Ripley's K-function - Cross Validated](https://stats.stackexchange.com/questions/168029/testing-for-group-differences-based-on-ripleys-k-function/168163#168163)
+
+- [ ] [python - What's so Poisson about a Poisson Point Process? (or, can I generate one using random ordered pairs?) - Cross Validated](https://stats.stackexchange.com/questions/85451/whats-so-poisson-about-a-poisson-point-process-or-can-i-generate-one-using-r)
+
+- [ ] [r - Bivariate K function for inhomogeneous spatial point processes - Cross Validated](https://stats.stackexchange.com/questions/163813/bivariate-k-function-for-inhomogeneous-spatial-point-processes)
+
+- [ ] [r - Residuals plot from ripley K function on spatstat - Cross Validated](https://stats.stackexchange.com/questions/118248/residuals-plot-from-ripley-k-function-on-spatstat)
+
+- [ ] [r - Spatstat: quadrat count test (window is a rectangle, but rotated, off-90 degree) - Cross Validated](https://stats.stackexchange.com/questions/254810/spatstat-quadrat-count-test-window-is-a-rectangle-but-rotated-off-90-degree)
+
+- [ ] [cluster analysis - Testing CSR on lpp with R - Stack Overflow](https://stackoverflow.com/questions/45904608/testing-csr-on-lpp-with-r)
+
+- [ ] [r - How to fix error when using studpermu.test with large dataset - Stack Overflow](https://stackoverflow.com/questions/58313274/how-to-fix-error-when-using-studpermu-test-with-large-dataset)
+
+- [ ] [delaunay - test for in-tile for Dirichlet tile, using R - Stack Overflow](https://stackoverflow.com/questions/53598124/test-for-in-tile-for-dirichlet-tile-using-r)
+
+- [ ] [sp - Add scale bar for plotting ppp object - Stack Overflow](https://stackoverflow.com/questions/53241073/add-scale-bar-for-plotting-ppp-object)
+
+- [ ] [process - simulate Boolean Model with R - Stack Overflow](https://stackoverflow.com/questions/53203371/simulate-boolean-model-with-r)
+
+- [ ] [sp - creating a convex hull of irregular shape - Stack Overflow](https://stackoverflow.com/questions/53164547/creating-a-convex-hull-of-irregular-shape)
+
+- [ ] [cluster analysis - Analyzing octopus catches with LinearK function in R - Stack Overflow](https://stackoverflow.com/questions/45816955/analyzing-octopus-catches-with-lineark-function-in-r/45859514#45859514)
+
+- [ ] [r - Simulation-based hypothesis testing on spatial point pattern hyperframes using "envelope" function in spatstat - Stack Overflow](https://stackoverflow.com/questions/38155216/simulation-based-hypothesis-testing-on-spatial-point-pattern-hyperframes-using?rq=1)
+
+- [ ] [r - Marking specific tiles in geom_tile() / geom_raster() - Stack Overflow](https://stackoverflow.com/questions/13258454/marking-specific-tiles-in-geom-tile-geom-raster?rq=1)
+
+- [ ] [sp - Add scale bar for plotting ppp object - Stack Overflow](https://stackoverflow.com/questions/53241073/add-scale-bar-for-plotting-ppp-object)
+
+- [ ] [spatstat - as.linnet function causes to hang the machine - Stack Overflow](https://stackoverflow.com/questions/41207694/as-linnet-function-causes-to-hang-the-machine/41217156#41217156)
+
+- [ ] [r - Spatstat: Inhomogeneous Lcross leads to strange plot, despite inhomogeneous point pattern according to quadrat count tests - Stack Overflow](https://stackoverflow.com/questions/41517019/spatstat-inhomogeneous-lcross-leads-to-strange-plot-despite-inhomogeneous-poin/41530317#41530317)
+
+- [ ] [r - How to calculate area of polygons within distance of other polygons - Stack Overflow](https://stackoverflow.com/questions/58085389/how-to-calculate-area-of-polygons-within-distance-of-other-polygons)
+
+- [ ] [r faq - How to make a great R reproducible example - Stack Overflow](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)
+
+- [ ] [Distance of point feature to nearest polygon in R - Stack Overflow](https://stackoverflow.com/questions/16448402/distance-of-point-feature-to-nearest-polygon-in-r)
+
+- [ ] [shapefile - Calculate area for each polygon in R - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/200420/calculate-area-for-each-polygon-in-r)
+
+- [ ] [Distance of point feature to nearest polygon in R - Stack Overflow](https://stackoverflow.com/questions/16448402/distance-of-point-feature-to-nearest-polygon-in-r?noredirect=1&lq=1)
+
+- [ ] [r - Plotting colores areas in a leaflet maps - Stack Overflow](https://stackoverflow.com/questions/58348104/plotting-colores-areas-in-a-leaflet-maps)
+
+- [ ] [r - Using a Point Process model for Prediction - Stack Overflow](https://stackoverflow.com/questions/46551492/using-a-point-process-model-for-prediction/46558485#46558485)
+
+- [ ] [(1) Data Science Stack Exchange](https://datascience.stackexchange.com/)
+
+- [ ] [r - Error in generating a poisson point pattern with calculated lambda - Stack Overflow](https://stackoverflow.com/questions/48723055/error-in-generating-a-poisson-point-pattern-with-calculated-lambda/48732912#48732912)
+
+- [ ] [graphics - Customize breaks on a color gradient legend using base R - Stack Overflow](https://stackoverflow.com/questions/48996343/customize-breaks-on-a-color-gradient-legend-using-base-r/49020486#49020486)
+
+- [ ] [c++ - Iterator for traversing a tree [v2] - Code Review Stack Exchange](https://codereview.stackexchange.com/questions/231002/iterator-for-traversing-a-tree-v2)
+
+- [ ] [c++ - Iterator for traversing a tree - Code Review Stack Exchange](https://codereview.stackexchange.com/questions/230903/iterator-for-traversing-a-tree)
+
+- [ ] [dnd 5e - What happens to a Bladesinger reincarnated as a Human? - Role-playing Games Stack Exchange](https://rpg.stackexchange.com/questions/158053/what-happens-to-a-bladesinger-reincarnated-as-a-human)
+
+- [ ] [python - More elegant way to express ((x == a and y == b) or (x == b and y == a))? - Stack Overflow](https://stackoverflow.com/questions/58435645/more-elegant-way-to-express-x-a-and-y-b-or-x-b-and-y-a)
+
+- [ ] [errors - Command \nr already defined (datetime2 and nccmath incompatibility) - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/512850/command-nr-already-defined-datetime2-and-nccmath-incompatibility)

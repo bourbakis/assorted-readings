@@ -133,3 +133,42 @@ https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html#maximum-likelihood-with-
 - [ ] [RPubs - EM Algorithm Implementation](https://rpubs.com/H_Zhu/246450)
 
 - [ ] [turboEM.pdf](https://cran.r-project.org/web/packages/turboEM/vignettes/turboEM.pdf)
+
+
+
+
+
+
+
+
+## 10/20/2019
+
+- [ ] [staff.math.su.se/hoehle/teaching/spatialepi2009/geostat-exercise.R](http://staff.math.su.se/hoehle/teaching/spatialepi2009/geostat-exercise.R)
+
+- [ ] [geostatistics_4.pdf](http://staff.math.su.se/hoehle/teaching/spatialepi2009/geostatistics_4.pdf)
+
+- [ ] [](http://mph.web.med.uni-muenchen.de/06msc/04lehrmaterialien/index.html)
+
+- [ ] [geostat-exercise.pdf](http://staff.math.su.se/hoehle/teaching/spatialepi2009/geostat-exercise.pdf)
+
+- [ ] [staff.math.su.se/hoehle/teaching/spatialepi2009/pp-exercise.R](http://staff.math.su.se/hoehle/teaching/spatialepi2009/pp-exercise.R)
+
+- [ ] [The geoR package](http://leg.ufpr.br/geoR/)
+
+- [ ] [RPubs - Point Pattern Hypthesis Testing](https://rpubs.com/molly/point_pattern_hypoth)
+
+- [ ] [R code for chapter 10 · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/chapter10.html)
+
+- [ ] [startup.R · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/R/startup.html)
+
+- [ ] [figurelayout.R · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/R/figurelayout.html)
+
+- [ ] [fijiquakes.R · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/R/fijiquakes.html)
+
+- [ ] [rSpecialMC.R · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/R/rSpecialMC.html)
+
+- [ ] [rSpecialNS.R · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/R/rSpecialNS.html)
+
+- [ ] [short.output.R · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/R/short.output.html)
+
+- [ ] [shortestpath.R · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/R/shortestpath.html)

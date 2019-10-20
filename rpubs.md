@@ -147,3 +147,110 @@ https://rpubs.com/msarrias1986/335556
 RPubs - Pei_2017_MOLB7621_Final_Proj_v2
 https://rpubs.com/shawnspei/final_v2
 
+
+
+
+## 10/19/2019
+
+- [ ] [RPubs](https://rpubs.com/JMHumphreys)
+
+- [ ] [RPubs](https://rpubs.com/corey_sparks)
+
+- [ ] [RPubs](https://rpubs.com/wilsonchua)
+
+- [ ] [RPubs - (More) reproducible data analysis using R - final](http://rpubs.com/bpbond/203006)
+
+- [ ] [RPubs - A Future of Geocomputation?](https://rpubs.com/chrisbrunsdon/kclgeocomp)
+
+- [ ] [RPubs - ANLY540 - Analysis of Human Language - Final Project](https://rpubs.com/surajkumaran/ANLY540_Project)
+
+- [ ] [RPubs - Applied Spatial Statistics: Columbus Crime](http://rpubs.com/fang/ASSP1)
+
+- [ ] [RPubs - Applied Spatial Statistics: Problem Set # 3](http://rpubs.com/fang/assPS3)
+
+- [ ] [RPubs - Applied Spatial Statistics: Week 1](http://rpubs.com/fang/HW1)
+
+- [ ] [RPubs - Applied Spatial Statistics: Week 1](http://rpubs.com/fang/HW1)
+
+- [ ] [RPubs - Bayesian Data Analysis 2 - Bayesian Hierarchical Models](https://rpubs.com/corey_sparks/164805)
+
+- [ ] [RPubs - Bayesian Multi-level Regression Models Using INLA](https://rpubs.com/corey_sparks/132760)
+
+- [ ] [RPubs - Bayesian Spatio-temporal analysis of mortality differentials in the US using the INLA approach](https://rpubs.com/corey_sparks/75485)
+
+- [ ] [RPubs - Bayesian Survival Analysis 1: Weibull Model with Stan](https://rpubs.com/kaz_yos/bayes_surv1)
+
+- [ ] [RPubs - Bridging the gap between statistical methodology and its use in practice](https://rpubs.com/kbanner14/references-MSUstat-seminar_3-23-17)
+
+- [ ] [RPubs - Chapter 10: Time Series Models](https://rpubs.com/jelsner/5579)
+
+- [ ] [RPubs - Chilean seabird risk assessment](https://rpubs.com/FrogWave/437229)
+
+- [ ] [RPubs - Data 607 Project-3 Trials](https://rpubs.com/deepakmongia/430790)
+
+- [ ] [RPubs - DEM 7093 - Projecting Spatial Data](https://rpubs.com/corey_sparks/395209)
+
+- [ ] [RPubs - DEM 7093 Spatial Statistics Part 2 - Linear models with spatial structure](https://rpubs.com/corey_sparks/400683)
+
+- [ ] [RPubs - DEM 7263 Spatial Demography - Small area estimation](https://rpubs.com/corey_sparks/490122)
+
+- [ ] [RPubs - DEM 7473 - Bayesian Regression using the INLA Approach](https://rpubs.com/corey_sparks/431920)
+
+- [ ] [RPubs - DEM 7473 - Week 7: Bayesian modeling part 1 - Updated](https://rpubs.com/corey_sparks/431913)
+
+- [ ] [RPubs - IntroToMapping fork](https://rpubs.com/vpipkt/INRUG-IntroToMapping)
+
+- [ ] [RPubs - PCA on water quality dataset](https://rpubs.com/dasaptaerwin/pcawaterquality)
+
+- [ ] [RPubs - Presentation](http://rpubs.com/bbs5179/337764)
+
+- [ ] [RPubs - R Resources](https://rpubs.com/recology_/rresources)
+
+- [ ] [RPubs - Spatial Modeling with R-INLA](https://rpubs.com/corey_sparks/127161)
+
+- [ ] [RPubs - Using R to work with (Picarro) data](https://rpubs.com/bpbond/147979)
+
+- [ ] [RPubs - Using Stan to calibrate autoregressive regression models.](https://rpubs.com/chrisbrunsdon/carstan)
+
+- [ ] [RPubs - UTHSC Job Talk](http://rpubs.com/gabrielodom/UTHSC_20190520)
+
+
+
+
+## 10/19/2019
+
+- [ ] [RPubs](https://rpubs.com/JTK)
+
+- [ ] [RPubs - A spatial point process model for violent tornado occurrence in the U.S.~Great Plains](https://rpubs.com/jelsner/4205)
+
+- [ ] [RPubs - Density of Trees in NYC](https://rpubs.com/kmshaon7/400900)
+
+- [ ] [RPubs - Download LAs and point-pattern analysis](https://rpubs.com/RobinLovelace/84426)
+
+- [ ] [RPubs - Exercise 10 - Point Pattern Analysis](https://rpubs.com/acrawford/5273)
+
+- [ ] [RPubs - Exploratory Analysis of Point Patterns using the WikiLeaks Iraq Data](https://rpubs.com/Seth/Exp_Point_Pattern)
+
+- [ ] [RPubs - Forecasts of Football Matches, May 1-7](https://rpubs.com/jjreade/forc_010515)
+
+- [ ] [RPubs - HASS Maps Lab 9](http://rpubs.com/Brian_Chew/hass_maps_lab_9)
+
+- [ ] [RPubs - Introduction to point pattern analysis for ecologists](https://rpubs.com/hughes/295880)
+
+- [ ] [RPubs - Klinger_HW6](https://rpubs.com/JTK/HW6)
+
+- [ ] [RPubs - Lab 9 (Part 3 - Spatial Point Patterns)](https://rpubs.com/Striker/MakingMaps_Lab9_3)
+
+- [ ] [RPubs - Lab 9 (Part 3 - Spatial Point Patterns)](https://rpubs.com/Striker/MakingMaps_Lab9_3)
+
+- [ ] [RPubs - Lightning flash density in northern Georgia: Relationship to roadways &amp; coal power plants](https://rpubs.com/jelsner/2034)
+
+- [ ] [RPubs - Making Heat Maps of Roman Amphitheaters](https://rpubs.com/sfsheath/72159)
+
+- [ ] [RPubs - Point pattern analysis 1](https://rpubs.com/spring19cp6521/Week11_Wednesday1)
+
+- [ ] [RPubs - The Changing Geography of Output Areas in 2011](https://rpubs.com/alexsingleton/outputareachange)
+
+- [ ] [RPubs - Tutorial 6: 2D kernel density plot](https://rpubs.com/ledongnhatnam/277418)
+
+- [ ] [RPubs - Visualizing Suitable Habitat Change for Saxifraga austromontana](https://rpubs.com/DonalOLeary/84531)

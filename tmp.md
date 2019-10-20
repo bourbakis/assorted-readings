@@ -253,3 +253,67 @@ chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/imageExtractor.html?tabId=90
 - [ ] [#dags - Twitter Search / Twitter](https://twitter.com/hashtag/dags?src=hashtag_click)
 
 - [ ] [Photos - Google Photos](https://photos.google.com/u/2/)
+
+
+
+## 10/20/2019
+
+- [ ] [staff.math.su.se/hoehle/teaching/spatialepi2009/geostat-exercise.R](http://staff.math.su.se/hoehle/teaching/spatialepi2009/geostat-exercise.R)
+
+- [ ] [spatstat examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpFtPr3VZtz2te3WjrHOmQ-3Ggeg:1571497197298&q=spatstat+examples&sa=X&ved=2ahUKEwjrktehy6jlAhWNw4sBHdWjACsQ1QIoAHoECFEQAQ&biw=958&bih=941)
+
+- [ ] [baddeley2005jrss.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://bemlar.ism.ac.jp/zhuang/pubs/baddeley2005jrss.pdf)
+
+- [ ] [chorley spatstats - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpFtPr3VZtz2te3WjrHOmQ-3Ggeg:1571497197298&q=chorley+spatstats&tbm=isch&source=univ&sa=X&ved=2ahUKEwjrktehy6jlAhWNw4sBHdWjACsQsAR6BAgGEAE)
+
+- [ ] [The Book of R - BookofR_index_sample.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://nostarch.com/download/BookofR_index_sample.pdf)
+
+- [ ] [Point_Patterns_IntroWeb.dvi - PP_intro.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://pcaragea.public.iastate.edu/S40608/Notes/PointPatterns/PP_intro.pdf)
+
+- [ ] [ppp in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpFtPr3VZtz2te3WjrHOmQ-3Ggeg:1571497197298&q=ppp+in+r&sa=X&ved=2ahUKEwjrktehy6jlAhWNw4sBHdWjACsQ1QIoA3oECFEQBA)
+
+- [ ] [point pattern analysis in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpFtPr3VZtz2te3WjrHOmQ-3Ggeg:1571497197298&q=point+pattern+analysis+in+r&sa=X&ved=2ahUKEwjrktehy6jlAhWNw4sBHdWjACsQ1QIoAnoECFEQAw)
+
+- [ ] [用户对问题“如何使用R中的Spatstat将强度转换为点模式中的概率？”的回答 - 问答 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/ask/201514/answer/313480)
+
+- [ ] [spatstat.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.dominic.schuhmacher.name/courses/spatstat.pdf)
+
+- [ ] [geospatial - How to convert intensities to Probabilities in a point pattern using Spatstat in R? - Stack Overflow](https://stackoverflow.com/questions/53740217/how-to-convert-intensities-to-probabilities-in-a-point-pattern-using-spatstat-in)
+
+- [ ] [Intro.dvi - SpatStatIntro.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.stat.ucla.edu/~frederic/222/S17/SpatStatIntro.pdf)
+
+- [ ] [Microsoft Word - BrazilPractical.docx - BrazilPractical.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stat.washington.edu/peter/PASI/BrazilPractical.pdf)
+
+- [ ] [datasets.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/spatstat/vignettes/datasets.pdf)
+
+- [ ] [chorley: Chorley-Ribble Cancer Data in spatstat.data: Datasets for 'spatstat'](https://rdrr.io/cran/spatstat.data/man/chorley.html)
+
+- [ ] [site:rpubs.com points pattern - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRiwpwjscftEpKhnW2RgEGqzM4G4A%3A1571497453308&ei=7SWrXdm5EuPpmAWevqqQDg&q=site%3Arpubs.com+points+pattern&oq=site%3Arpubs.com+points+pattern&gs_l=psy-ab.3...427363.427363..428704...0.0..0.99.99.1......0....1..gws-wiz.MQbJMbhAEkA&ved=0ahUKEwiZ5OCbzKjlAhXjNKYKHR6fCuIQ4dUDCAs&uact=5)
+
+- [ ] [RPubs - Point Pattern Hypthesis Testing](https://rpubs.com/molly/point_pattern_hypoth)
+
+- [ ] [site:rpubs.com density.ppp - Google Search](https://www.google.com/search?q=site%3Arpubs.com+density.ppp&oq=site%3Arpubs.com+density.ppp&aqs=chrome..69i57j69i58.5751j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/1F611659892B0FCF06ADB9AA1FBA25B0)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1916000/13ba619ca9803fdf2b2472b2e22e281b/Baddeley%20A.%20-%20Analysing%20spatial%20point%20patterns%20in%20R.pdf)
+
+- [ ] [The Spatstat Team](https://github.com/spatstat)
+
+- [ ] [spatstat.github.io/spatstatQuickref.pdf at master · spatstat/spatstat.github.io](https://github.com/spatstat/spatstat.github.io/blob/master/resources/spatstatQuickref.pdf)
+
+- [ ] [spatstat.github.io/spatstatManual.pdf at master · spatstat/spatstat.github.io](https://github.com/spatstat/spatstat.github.io/blob/master/resources/spatstatManual.pdf)
+
+- [ ] [R code for chapter 2 · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/chapter02.html)
+
+- [ ] [main.dvi - chapter09.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://book.spatstat.org/sample-chapters/chapter09.pdf)
+
+- [ ] [main.dvi - chapter03.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://book.spatstat.org/sample-chapters/chapter03.pdf)
+
+- [ ] [spatstat: An R package for Analyzing Spatial Point Patterns - spatstatJSSpaper.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://spatstat.org/resources/spatstatJSSpaper.pdf)
+
+- [ ] [Hybrids of Gibbs Point Process Models and Their Implementation | Baddeley | Journal of Statistical Software](https://www.jstatsoft.org/article/view/v055i11)
+
+- [ ] [anaysis of deviance r - Google Search](https://www.google.com/search?q=anaysis+of+deviance+r&oq=anaysis+of+deviance+r&aqs=chrome..69i57j0l7.6390j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Generalized Linear Models in R, Part 2: Understanding Model Fit in Logistic Regression Output - The Analysis Factor](https://www.theanalysisfactor.com/r-glm-model-fit/)
