@@ -1113,3 +1113,37 @@ https://www.google.com/search?client=firefox-b-d&q=Mike+Lee+Williams
 - [ ] [Jacob Lurie lecture notes - Google Search](https://www.google.com/search?q=Jacob+Lurie+lecture+notes&oq=Jacob+Lurie+lecture+notes&aqs=chrome..69i57j69i60l2.4192j0j4&sourceid=chrome&ie=UTF-8)
 
 - [ ] [The German YouTuber Emerging as the Voice of a Generation - Google Search](https://www.google.com/search?q=The+German+YouTuber+Emerging+as+the+Voice+of+a+Generation&oq=The+German+YouTuber+Emerging+as+the+Voice+of+a+Generation&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8)
+
+
+
+## 10/20/2019
+
+-[ ] [academic paper in markdown - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSvCOjrwFPizYO5XXACWCEZdZfLhA%3A1571536469515&lei=Vb6rXfeKH_XUmAWl5KvQDQ&q=academic%20paper%20in%20markdown&ved=2ahUKEwj33LDK3anlAhV8xYsBHVr1CjYQsKwBKAV6BAgAEAY)
+
+-[ ] [pandoc citations - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSvCOjrwFPizYO5XXACWCEZdZfLhA%3A1571536469515&lei=Vb6rXfeKH_XUmAWl5KvQDQ&q=pandoc%20citations&ved=2ahUKEwj33LDK3anlAhV8xYsBHVr1CjYQsKwBKAB6BAgAEAE)
+
+-[ ] [r markdown footnote - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSvCOjrwFPizYO5XXACWCEZdZfLhA%3A1571536469515&lei=Vb6rXfeKH_XUmAWl5KvQDQ&q=r%20markdown%20footnote&ved=2ahUKEwj33LDK3anlAhV8xYsBHVr1CjYQsKwBKAR6BAgAEAU)
+
+-[ ] [rmarkdown cross reference - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSvCOjrwFPizYO5XXACWCEZdZfLhA%3A1571536469515&lei=Vb6rXfeKH_XUmAWl5KvQDQ&q=rmarkdown%20cross%20reference&ved=2ahUKEwj33LDK3anlAhV8xYsBHVr1CjYQsKwBKAN6BAgAEAQ)
+
+- [ ] [bym model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRfjlIv-_iRX2a2mb0wu9ozWKWPUw%3A1571495910929&lei=5h-rXeOtONnEmAWLgrvgBQ&q=bym%20model&ved=2ahUKEwiF3qHKxqjlAhVdzIsBHbd9BEIQsKwBKAJ6BAgBEAM)
+
+- [ ] [chorley spatstats - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpFtPr3VZtz2te3WjrHOmQ-3Ggeg:1571497197298&q=chorley+spatstats&tbm=isch&source=univ&sa=X&ved=2ahUKEwjrktehy6jlAhWNw4sBHdWjACsQsAR6BAgGEAE)
+
+- [ ] [Estimate the lung cancer intensit by kernel smoothing the lung cancer data r spatstats - Google Search](https://www.google.com/search?q=Estimate+the+lung+cancer+intensit+by+kernel+smoothing+the+lung+cancer+data+r+spatstats&oq=Estimate+the+lung+cancer+intensit++by+kernel+smoothing+the+lung+cancer+data+r+spatstats&aqs=chrome..69i57.12380j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [logistic regression inla - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRfjlIv-_iRX2a2mb0wu9ozWKWPUw%3A1571495910929&lei=5h-rXeOtONnEmAWLgrvgBQ&q=logistic%20regression%20inla&ved=2ahUKEwiF3qHKxqjlAhVdzIsBHbd9BEIQsKwBKAB6BAgAEAE)
+
+- [ ] [point pattern analysis in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpFtPr3VZtz2te3WjrHOmQ-3Ggeg:1571497197298&q=point+pattern+analysis+in+r&sa=X&ved=2ahUKEwjrktehy6jlAhWNw4sBHdWjACsQ1QIoAnoECFEQAw)
+
+- [ ] [ppp in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpFtPr3VZtz2te3WjrHOmQ-3Ggeg:1571497197298&q=ppp+in+r&sa=X&ved=2ahUKEwjrktehy6jlAhWNw4sBHdWjACsQ1QIoA3oECFEQBA)
+
+- [ ] [site:rpubs.com Bayesian Spatial Analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRfjlIv-_iRX2a2mb0wu9ozWKWPUw:1571495910929&q=site:rpubs.com+Bayesian+Spatial+Analysis&tbm=isch&source=univ&sa=X&ved=2ahUKEwjjuKW8xqjlAhVZIqYKHQvBDlwQsAR6BAgMEAE)
+
+- [ ] [site:rpubs.com density.ppp - Google Search](https://www.google.com/search?q=site%3Arpubs.com+density.ppp&oq=site%3Arpubs.com+density.ppp&aqs=chrome..69i57j69i58.5751j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [site:rpubs.com points pattern - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRiwpwjscftEpKhnW2RgEGqzM4G4A%3A1571497453308&ei=7SWrXdm5EuPpmAWevqqQDg&q=site%3Arpubs.com+points+pattern&oq=site%3Arpubs.com+points+pattern&gs_l=psy-ab.3...427363.427363..428704...0.0..0.99.99.1......0....1..gws-wiz.MQbJMbhAEkA&ved=0ahUKEwiZ5OCbzKjlAhXjNKYKHR6fCuIQ4dUDCAs&uact=5)
+
+- [ ] [spatstat examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpFtPr3VZtz2te3WjrHOmQ-3Ggeg:1571497197298&q=spatstat+examples&sa=X&ved=2ahUKEwjrktehy6jlAhWNw4sBHdWjACsQ1QIoAHoECFEQAQ&biw=958&bih=941)
+
+- [ ] [the null hypothesis or null model is that the point process of cases of cancer of the larynx is a Poisson process with intensity r - Google Search](https://www.google.com/search?q=the+null+hypothesis+or+null+model+is+that+the+point+process+of+cases+of+cancer+of+the+larynx+is+a+Poisson+process+with+intensity+r&oq=the+null+hypothesis+or+null+model+is+that+the+point+process+of+cases+of+cancer+of+the+larynx+is+a+Poisson+process+with+intensity+r&aqs=chrome..69i57j69i64l3.2556j0j9&sourceid=chrome&ie=UTF-8)

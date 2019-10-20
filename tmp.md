@@ -317,3 +317,31 @@ chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/imageExtractor.html?tabId=90
 - [ ] [anaysis of deviance r - Google Search](https://www.google.com/search?q=anaysis+of+deviance+r&oq=anaysis+of+deviance+r&aqs=chrome..69i57j0l7.6390j1j1&sourceid=chrome&ie=UTF-8)
 
 - [ ] [Generalized Linear Models in R, Part 2: Understanding Model Fit in Logistic Regression Output - The Analysis Factor](https://www.theanalysisfactor.com/r-glm-model-fit/)
+
+
+
+## 10/20/2019
+
+-[ ] [Add Citations and Cross References to an R Markdown Report with Bookdown | Earth Data Science - Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/add-citations-to-rmarkdown-report/#introducing-bookdown)
+
+-[ ] [Add Citations and Cross References to an R Markdown Report with Bookdown | Earth Data Science - Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/document-your-science/add-citations-to-rmarkdown-report/#what-you-need)
+
+-[ ] [citations - Citing the author of a blockquote using Markdown Syntax - Stack Overflow](https://stackoverflow.com/questions/2002120/citing-the-author-of-a-blockquote-using-markdown-syntax)
+
+-[ ] [Academic Markdown and Citations · Chris Krycho](https://v4.chriskrycho.com/2015/academic-markdown-and-citations.html)
+
+-[ ] [revelation-pretty.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://v4.chriskrycho.com/downloads/revelation-pretty.pdf)
+
+-[ ] [Primer — An Introduction to CSL — Citation Style Language 1.0.1-dev documentation](http://docs.citationstyles.org/en/1.0.1/primer.html)
+
+-[ ] [GitHub - citation-style-language/styles: Official repository for Citation Style Language (CSL) citation styles.](https://github.com/citation-style-language/styles)
+
+-[ ] [Zotero Style Repository](https://www.zotero.org/styles)
+
+-[ ] [r - Pandoc insert appendix after bibliography - Stack Overflow](https://stackoverflow.com/questions/16427637/pandoc-insert-appendix-after-bibliography)
+
+-[ ] [references variable in templates · Issue #771 · jgm/pandoc · GitHub](https://github.com/jgm/pandoc/issues/771)
+
+-[ ] [How can the position of the bibliograpy section be set Latex format - Google Groups](https://groups.google.com/forum/#!searchin/pandoc-discuss/bibliography$20position|sort:relevance/pandoc-discuss/Q2Y0C2ZS4es/vNJAUWjoAwAJ)
+
+-[ ] [How can I specify the default bibliography LaTeX/BibTeX citation styles "plain" or "unsrt" in an R Markdown document? - Stack Overflow](https://stackoverflow.com/questions/37436504/how-can-i-specify-the-default-bibliography-latex-bibtex-citation-styles-plain)
