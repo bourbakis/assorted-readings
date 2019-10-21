@@ -1337,3 +1337,49 @@ http://libgen.is/search.php?req=Edwin+S.+Mills+%28Auth.%29&column=author
 - [ ] [Library Genesis: Olga Ruff - The Jordan Canonical Forms of complex orthogonal and skew-symmetric matrices: characterization and examples](http://libgen.is/book/index.php?md5=78E64F2B1FAFE6884BD2F7425C5E1570)
 
 - [ ] [Library Genesis: Tyler Leaser - Fourier Analysis on SU(2)](http://libgen.is/book/index.php?md5=299205B063B48511D0DB63F791ABFD7E)
+
+
+
+## 10/21/2019
+
+### math
+
+Combinatorial Identities For Stirling Numbers: The Unpublished Notes Of H W Gould Henry W. Gould - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNR0Wgj_RS2FPhBfHiS7H9Joqg1teg:1571636013728&q=Combinatorial+Identities+For+Stirling+Numbers:+The+Unpublished+Notes+Of+H+W+Gould+Henry+W.+Gould&stick=H4sIAAAAAAAAACXKsQ6CMBCA4cnERQdHp4ujg5XBGFlNFBcc1LBKocKFckeubRAfxydV4_Z_yT-eziaqUlFUrJ8krz5a_Kn7zm03O1nOmyJWmrlRefA1S_xrB0x2eI_ue241Uu5ZMLdwKg159GgcHFjg4lEsUgVpaLURF8O1NnCjLmiLrjYlpOy_7_kBCWRw5GBLSAzJANnqzw_a5gSMnwAAAA&sa=X&ved=2ahUKEwj14MGy0KzlAhV4JDQIHW-3DkIQmxMoATBuegQIXxAJ
+
+Library Genesis
+http://libgen.is/search.php?req=+Bela+Sz.-Nagy&column=author
+
+Library Genesis
+http://libgen.is/search.php?&req=+Jocelyn+Quaintance&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?req=Universitext&column=series
+
+Library Genesis
+http://libgen.is/search.php?&res=100&req=Dover+Books+on+Mathematics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC&page=4
+
+Library Genesis
+http://libgen.is/search.php?req=Charles+C+Pinter&column=author
+
+Library Genesis: A.N. Kolmogorov, Nathan Morrison - Foundations of the Theory of Probability
+http://libgen.is/book/index.php?md5=EA1C2FA08729ACEB22A2470CA9B1D3A4
+
+Library Genesis: J. B. Roberts - The Real Number System in an Algebraic Setting
+http://libgen.is/book/index.php?md5=E2CD2E491B85F238649222D87484EDCA
+
+Library Genesis: Jacob T. Schwartz - Lectures on the Mathematical Method in Analytical Economics
+http://libgen.is/book/index.php?md5=C128F687376B2B79A7C54EA7B55AC61E
+
+Library Genesis: Sherman Stein - Adventures in Mathematical Reasoning
+http://libgen.is/book/index.php?md5=725485FC8219718ACE0A059FE8E0F90C
+
+Library Genesis
+http://libgen.is/search.php?req=Maurice+Heins&column=author
+
+Library Genesis: Maurice Heins - Selected Topics in the Classical Theory of Functions of a Complex Variable
+http://libgen.is/book/index.php?md5=CBF9A3D5EC13B9523A757E78D21D4F53
+
+Library Genesis
+http://libgen.is/search.php?&req=+Bela+Sz.-Nagy&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
