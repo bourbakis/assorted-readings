@@ -1054,3 +1054,78 @@ https://dl.acm.org/citation.cfm?id=3242989
 タイトル 「spoken_language」 を検索 - はてなブックマーク
 https://b.hatena.ne.jp/search/title?q=spoken_language&users=1
 
+
+
+
+The Grumpy Economist: Who pays more taxes
+https://johnhcochrane.blogspot.com/2019/10/who-pays-more-taxes.html
+
+Python Machine Learning: Scikit-Learn Tutorial (article) - DataCamp
+https://www.datacamp.com/community/tutorials/machine-learning-python
+
+How to reveal a country’s sense, over the years, of its own well-being - Happiness and history
+https://www.economist.com/science-and-technology/2019/10/17/how-to-reveal-a-countrys-sense-over-the-years-of-its-own-well-being
+
+For NBA and other sports leagues, a difficult tightrope to business in China
+https://www.espn.com/nba/story/_/id/27874336/for-nba-other-sports-leagues-difficult-tightrope-business-china
+
+Principal Component Analysis with Python - GeeksforGeeks
+https://www.geeksforgeeks.org/principal-component-analysis-with-python/
+
+machenslab/dPCA: An implementation of demixed Principal Component Analysis (a supervised linear dimensionality reduction technique)
+https://github.com/machenslab/dPCA
+
+A Beginner's Guide to Python Machine Learning and Data Science Frameworks | Skymind
+https://skymind.ai/wiki/python-ai
+
+Code | Machens Lab
+https://machenslab.org/resources-code/
+
+Marx vs Mises: Rap Battle - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/marx-vs-mises-rap-battle.html
+
+Trust, Airbnb, and Himalayan villages - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/trust-airbnb-and-himalayan-villages.html
+
+Blog - Veridici
+https://veridici.com/blog/
+
+How Airbnb Is Silently Changing Himalayan Villages - Veridici
+https://veridici.com/how-airbnb-is-silently-changing-himalayan-villages/
+
+Ranking states by their degree of regulation - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/ranking-states-by-their-degree-of-regulation.html
+
+Principal Component Analysis - Azure Machine Learning Studio | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/principal-component-analysis
+
+ML From Scratch, Part 6: Principal Component Analysis - OranLooney.com
+http://www.oranlooney.com/post/ml-from-scratch-part-6-pca/
+
+ProDy — Protein Dynamics and Sequence Analysis
+http://prody.csb.pitt.edu/
+
+Dynamics Analysis — ProDy
+http://prody.csb.pitt.edu/manual/reference/dynamics/index.html
+
+sklearn.decomposition.PCA — scikit-learn 0.21.3 documentation
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
+PCA using Python (scikit-learn) - Towards Data Science
+https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+
+Python_Tutorials/PCA_Image_Reconstruction_and_such.ipynb at master · mGalarnyk/Python_Tutorials
+https://github.com/mGalarnyk/Python_Tutorials/blob/master/Sklearn/PCA/PCA_Image_Reconstruction_and_such.ipynb
+
+Download | Theoretical Climate Dynamics
+https://dept.atmos.ucla.edu/tcd/download
+
+Making America's richest families pay punitive new taxes is bad politics and bad economics - The Washington Post
+https://www.washingtonpost.com/business/economy/taxing-us-billionaires-more-will-just-hurt-the-rest-of-us/2019/10/16/2f9ee828-ef82-11e9-8693-f487e46784aa_story.html
+
+Functional principal component analysis - Wikipedia
+https://en.wikipedia.org/wiki/Functional_principal_component_analysis
+
+Tax Myths of Warrenomics - WSJ
+https://www.wsj.com/articles/tax-myths-of-warrenomics-11571351806
+
