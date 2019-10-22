@@ -80,3 +80,22 @@ modelling -> 诸葛亮的精囊妙计， 如果
 
 
 math & philosphy: distilling and abstraction -> programming different formalism and differet hiereachy
+
+
+
+
+
+
+---
+
+
+
+
+
+# 10/22/2019
+
+## How to define product and product manager
+
+Product manager is the one who turn the existing technology(productivity) into a （被封装后）。。。 defining what can visit or not(like api)
+
+`

@@ -81,3 +81,33 @@ https://arxiv.org/abs/1811.09950
 [1708.00163] Towards Vision-Based Smart Hospitals: A System for Tracking and Monitoring Hand Hygiene Compliance
 https://arxiv.org/abs/1708.00163
 
+
+# 10/22/2019
+
+[1910.09113] Discovering the Compositional Structure of Vector Representations with Role Learning Networks
+https://arxiv.org/abs/1910.09113
+
+[1812.08718] RNNs Implicitly Implement Tensor Product Representations
+https://arxiv.org/abs/1812.08718
+
+[1901.04587] Human few-shot learning of compositional instructions
+https://arxiv.org/abs/1901.04587
+
+[1810.11481] Can Entropy Explain Successor Surprisal Effects in Reading?
+https://arxiv.org/abs/1810.11481
+
+[1808.09930] A Neural Model of Adaptation in Reading
+https://arxiv.org/abs/1808.09930
+
+[1511.06426] Reasoning in Vector Space: An Exploratory Study of Question Answering
+https://arxiv.org/abs/1511.06426
+
+[1601.02745] Basic Reasoning with Tensor Product Representations
+https://arxiv.org/abs/1601.02745
+
+[1709.09118] Tensor Product Generation Networks for Deep NLP Modeling
+https://arxiv.org/abs/1709.09118
+
+[1710.11475] A Neural-Symbolic Approach to Design of CAPTCHA
+https://arxiv.org/abs/1710.11475
+
