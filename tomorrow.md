@@ -1262,3 +1262,55 @@ https://twitter.com/MatthieuSuc
 - [ ] [Short-termist?](https://www.investorschronicle.co.uk/2015/08/04/comment/chris-dillow/short-termist-0Y28RStYyDNtvn7c2dhbbO/article.html)
 
 - [ ] [Why we can't predict](https://www.investorschronicle.co.uk/2013/09/03/comment/chris-dillow/why-we-can-t-predict-CBw6Z40EZFbzw09qOKBRyK/article.html)
+
+FuturePress
+http://futurepress.org/
+
+Computation on Arrays: Broadcasting | Python Data Science Handbook
+https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html
+
+Benjamin Cheung | 張煦 | 장후 on Twitter: "This dataset is striking. Methodology close to random sampling w relatively large sample size to maximize generalizability to pop'n Data was publicly available, so I geeked out &amp; ran some analyses. My results: nb: rough analyses, may have errors. I'm also unaffiliated with CUHK" / Twitter
+https://twitter.com/UBCDrBenCh/status/1185736919759474688
+
+Problem loading page
+https://www.cbc.ca/news/technology/google-wing-aviation-drone-deliveries-1.5108679
+
+Problem loading page
+https://www.cbc.ca/news/business/ups-delivery-drones-1.5305588
+
+Do Most Academics Fib on Their CVs? - The Chronicle of Higher Education
+https://www.chronicle.com/article/Do-Most-Academics-Fib-on-Their/247376?key=r0-oN5kzyKeO3aq4KjvbnQSTXxIkXZ_ejhcVz3Hia52lDIeq5c1GW1_clv2HFdIDS3V4dE1MVW1oVXNXMC1fOGVueW0ydjJrc0h1ZjI3Q09ocTdHRDVWLUV2VQ
+
+Academic vita fraud? - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/academic-vita-fraud.html
+
+Do Most Academics Fib on Their CVs? - The Chronicle of Higher Education
+https://www.chronicle.com/article/Do-Most-Academics-Fib-on-Their/247376?key=r0-oN5kzyKeO3aq4KjvbnQSTXxIkXZ_ejhcVz3Hia52lDIeq5c1GW1_clv2HFdIDS3V4dE1MVW1oVXNXMC1fOGVueW0ydjJrc0h1ZjI3Q09ocTdHRDVWLUV2VQ
+
+Summers on the Wealth Tax - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/summers-on-the-wealth-tax.html
+
+Ranking states by their degree of regulation - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/10/ranking-states-by-their-degree-of-regulation.html
+
+Government Regulation: New Numerical Measure Ranks States | National Review
+https://www.nationalreview.com/2019/10/government-regulation-new-numerical-measure-ranks-states/
+
+Chinese banana plantations bring work and pollution to Laos / 老挝的香蕉园：就业与污染同在
+https://mailchi.mp/chinadialogue/locals-halt-chinese-owned-gold-mine-in-ecuador-163629?e=66426b4b3a
+
+Kruskall-Wallis - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Kruskall-Wallis
+
+Kruskal–Wallis one-way analysis of variance - Wikipedia
+https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance
+
+Kruskal–Wallis one-way analysis of variance r - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Kruskal%E2%80%93Wallis+one-way+analysis+of+variance++r
+
+Kruskal–Wallis one-way analysis of variance python - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Kruskal%E2%80%93Wallis+one-way+analysis+of+variance+python
+
+How to Calculate Nonparametric Statistical Hypothesis Tests in Python
+https://machinelearningmastery.com/nonparametric-statistical-significance-tests-in-python/
+
