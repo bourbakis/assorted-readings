@@ -182,3 +182,5 @@ https://ieeexplore.ieee.org/document/8248656
 Introduction to Bayesian Analysis Procedures: Markov Chain Monte Carlo Method :: SAS/STAT(R) 9.3 User's Guide
 https://support.sas.com/documentation/cdl/en/statug/63962/HTML/default/viewer.htm#statug_introbayes_sect007.htm
 
+
+[A hybrid expectation maximisation and MCMC sampling algorithm to implement Bayesian mixture model based genomic prediction and QTL mapping | BMC Genomics | Full Text](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3082-7)
