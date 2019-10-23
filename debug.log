@@ -2,3 +2,7 @@
 [1013/102159.180:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value 5eaf13cbd81b47b29d99c9cbbd52864a
 [1013/123822.166:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value 5eaf13cbd81b47b29d99c9cbbd52864a
 [1014/205157.162:WARNING:minidump_to_upload_parameters.cc(67)] duplicate annotation name metrics_client_id, discarding value 5eaf13cbd81b47b29d99c9cbbd52864a
+[1022/221100.223:ERROR:process_info.cc(359)] UncheckedAllocate
+[1022/221103.286:ERROR:process_info.cc(359)] UncheckedAllocate
+[1022/221104.535:ERROR:process_info.cc(359)] UncheckedAllocate
+[1022/221121.862:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)

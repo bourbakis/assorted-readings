@@ -115,3 +115,57 @@ https://en.wikipedia.org/wiki/Economic_inequality
 New Tab
 about:newtab
 
+
+
+
+
+---
+
+
+## 10/23/2019
+
+- [ ] [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
+
+- [ ] [Marriage is underrated for its social and political benefits - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/marriage-is-underrated-for-its-social-and-political-benefits.html)
+
+- [ ] [What is behind the spread of so many mass protests? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/what-is-behind-the-spread-of-so-many-mass-protests.html)
+
+- [ ] [Spatial Bayesian inversion with localized likelihoods: An exact sampling alternative to MCMC - Walker - 2014 - Journal of Geophysical Research: Solid Earth - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2014JB011010)
+
+- [ ] [Gaussian mixture | Xi'an's Og](https://xianblog.wordpress.com/tag/gaussian-mixture/)
+
+- [ ] [The distribution of the likelihood ratio for mixtures of densities from the one-parameter exponential family | SpringerLink](https://link.springer.com/article/10.1007/BF01720593)
+
+- [ ] [header.jpg (1662×428)](https://jwmi.github.io/images/header.jpg)
+
+- [ ] [Gibbs sampling - Wikipedia](https://en.wikipedia.org/wiki/Gibbs_sampling)
+
+
+## 10/23/2019
+
+- [ ] [How single men and women are making politics more extreme](https://theweek.com/articles/715794/how-single-men-women-are-making-politics-more-extreme)
+
+- [ ] [Edward – Unsupervised Learning](http://edwardlib.org/tutorials/unsupervised)
+
+- [ ] [Edward – Unsupervised Learning](http://edwardlib.org/tutorials/unsupervised)
+
+- [ ] [Book - Bayes.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.stat.cmu.edu/~larry/=sml/Bayes.pdf)
+
+- [ ] [Mixture models with a prior on the number of components](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6035010/)
+
+- [ ] [Identifying Bayesian Mixture Models](https://mc-stan.org/users/documentation/case-studies/identifying_mixture_models.html)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [An Intro to Gaussian Mixture Modeling | R-bloggers](https://www.r-bloggers.com/an-intro-to-gaussian-mixture-modeling/)
+
+- [ ] [LearnBayes package | R Documentation](https://www.rdocumentation.org/packages/LearnBayes/versions/2.15.1)
+
+- [ ] [Gibbs Sampling for a mixture of normals](https://stephens999.github.io/fiveMinuteStats/gibbs2.html)
+
+- [ ] [Computing2.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www4.stat.ncsu.edu/~reich/st740/Computing2.pdf)
+
+
+## 10/23/2019
+
+- [ ] [Safe Disposal of Unexploded WWII Bombs | R-bloggers](https://www.r-bloggers.com/safe-disposal-of-unexploded-wwii-bombs-2/)

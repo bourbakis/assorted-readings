@@ -1147,3 +1147,29 @@ https://www.google.com/search?client=firefox-b-d&q=Mike+Lee+Williams
 - [ ] [spatstat examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpFtPr3VZtz2te3WjrHOmQ-3Ggeg:1571497197298&q=spatstat+examples&sa=X&ved=2ahUKEwjrktehy6jlAhWNw4sBHdWjACsQ1QIoAHoECFEQAQ&biw=958&bih=941)
 
 - [ ] [the null hypothesis or null model is that the point process of cases of cancer of the larynx is a Poisson process with intensity r - Google Search](https://www.google.com/search?q=the+null+hypothesis+or+null+model+is+that+the+point+process+of+cases+of+cancer+of+the+larynx+is+a+Poisson+process+with+intensity+r&oq=the+null+hypothesis+or+null+model+is+that+the+point+process+of+cases+of+cancer+of+the+larynx+is+a+Poisson+process+with+intensity+r&aqs=chrome..69i57j69i64l3.2556j0j9&sourceid=chrome&ie=UTF-8)
+
+
+
+## 10/22/2019
+
+- [ ] [Computer Generation of Poisson Deviates from Modified Normal Distributions - Google Search](https://www.google.com/search?q=Computer+Generation+of+Poisson+Deviates+from+Modified+Normal+Distributions&oq=Computer+Generation+of+Poisson+Deviates+from+Modified+Normal+Distributions&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Erhan Çinlar books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpP4Qk_A-0S_1z7tmsywE3S7ln7Q:1571554597697&q=Erhan+%C3%87inlar+books&stick=H4sIAAAAAAAAAONgFuLSz9U3SDaJryo2VkJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriVYxSaVbJRamJJflFViCZYiuQpgzjopzy-EWswq5FGYl5CofbM_NyEosUwAoAoqqfmGUAAAA&sa=X&ved=2ahUKEwi3wqmMoarlAhWKBKYKHV6mDugQzTooADCBAXoECGwQAg)
+
+- [ ] [Introduction to Stochastic Processes - Google Search](https://www.google.com/search?q=Introduction+to+Stochastic+Processes&oq=Introduction+to+Stochastic+Processes&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Introduction to stochastic processes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpP4Qk_A-0S_1z7tmsywE3S7ln7Q:1571554597697&q=Introduction+to+stochastic+processes&stick=H4sIAAAAAAAAAONgFuLSz9U3SDaJryo2VkJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriRawqnnklRfkppcklmfl5CiX5CsUl-ckZicUlmckKBUX5yanFxanFO1gZAW3n-BJcAAAA&sa=X&ved=2ahUKEwi3wqmMoarlAhWKBKYKHV6mDugQzTooATCNAXoECHEQAg)
+
+- [ ] [Introduction to Stochastic Processes with R - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpP4Qk_A-0S_1z7tmsywE3S7ln7Q:1571554597697&q=Introduction+to+Stochastic+Processes+with+R&stick=H4sIAAAAAAAAAONgecRYwi3w8sc9YansSWtOXmNM5eIKzsgvd80rySypFNLjYoOyVLgEpXj10_UNDZPKC0qKkwvTNBik-LlQhZTUjYR3XZp2jo1X8FDo4U3frgU4aDFxMDxa3bmKlcmAoWnfikNsLByMAgw8i1i1PfNKivJTSpNLMvPzFEryFYJL8pMzEotLMpMVAoryk1OLi1OLFcozSzIUggA0P6FSpwAAAA&sa=X&ved=2ahUKEwi3wqmMoarlAhWKBKYKHV6mDugQ6RMwkAF6BAhqEAg)
+
+- [ ] [Introduction to Stochastic Processes, Second Edition Greg Lawler - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpP4Qk_A-0S_1z7tmsywE3S7ln7Q:1571554597697&q=Introduction+to+Stochastic+Processes,+Second+Edition+Greg+Lawler&stick=H4sIAAAAAAAAAONgecSYxy3w8sc9YanUSWtOXmOM5-IKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNzNIKC82qNBikeLiQ-ErqRsK7Lk07x8Yr-DKs4tC5h4EOWkwcDI9Wd65iZTJgaNq34hAbCwejAAPPIlYHz7ySovyU0uSSzPw8hZJ8heCS_OSMxOKSzGSFgKL85NTi4tRiHYXg1OT8vBQF15RMsDr3otR0BZ_E8pzUIgDj9541tgAAAA&sa=X&ved=2ahUKEwi3wqmMoarlAhWKBKYKHV6mDugQ6RMwjwF6BAhqEAQ)
+
+- [ ] [Monte Carlo Statistical Methods - Google Search](https://www.google.com/search?q=Monte+Carlo+Statistical+Methods&oq=Monte+Carlo+Statistical+Methods&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Simulation of Nonhomogeneous Poisson Processes by Thinning spatstats - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRO_zfffGj3RTNmHU05-Sa8CdJhaQ:1571554893518&q=Simulation+of+Nonhomogeneous+Poisson+Processes+by+Thinning+spatstats&tbm=isch&source=univ&sa=X&ved=2ahUKEwiT77CZoqrlAhW6yYsBHYQzCewQsAR6BAgGEAE)
+
+- [ ] [Stochastic process books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpP4Qk_A-0S_1z7tmsywE3S7ln7Q:1571554597697&q=Stochastic+process+books&stick=H4sIAAAAAAAAAONgFuLSz9U3SDaJryo2VkJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriVYwSaVbFpUlZqcklViCZYiuwprKS8kWsEsEl-ckZicUlmckKBUX5yanFxQpgNQA2kCmpaAAAAA&sa=X&ved=2ahUKEwi3wqmMoarlAhWKBKYKHV6mDugQzTooADCCAXoECGkQAg)
+
+- [ ] [Explorations in World History Why Europe? The Rise of the West in World History 1500-1850 book revirew - Google Search](https://www.google.com/search?q=Explorations+in+World+History+Why+Europe%3F+The+Rise+of+the+West+in+World+History+1500-1850+book+revirew&oq=Explorations+in+World+History+Why+Europe%3F+The+Rise+of+the+West+in+World+History+1500-1850+book+revirew&aqs=chrome..69i57.3639j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Recent updates | Goodreads](https://www.goodreads.com/)
