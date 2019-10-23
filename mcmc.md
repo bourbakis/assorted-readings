@@ -172,3 +172,13 @@ https://towardsdatascience.com/mle-vs-map-a989f423ae5c
 Posterior probability - Wikipedia
 https://en.wikipedia.org/wiki/Posterior_probability
 
+
+A Two-Layer Mixture Model of Gaussian Process Functional Regressions and Its MCMC EM Algorithm - IEEE Journals & Magazine
+https://ieeexplore.ieee.org/document/8248656
+
+A Two-Layer Mixture Model of Gaussian Process Functional Regressions and Its MCMC EM Algorithm - IEEE Journals & Magazine
+https://ieeexplore.ieee.org/document/8248656
+
+Introduction to Bayesian Analysis Procedures: Markov Chain Monte Carlo Method :: SAS/STAT(R) 9.3 User's Guide
+https://support.sas.com/documentation/cdl/en/statug/63962/HTML/default/viewer.htm#statug_introbayes_sect007.htm
+

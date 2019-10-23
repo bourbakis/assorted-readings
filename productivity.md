@@ -33,3 +33,5 @@ https://www.searchenginepeople.com/blog/managing-non-code-projects-with-github.h
 Using Microsoft Word with git
 https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/
 
+
+[how to save html as epub - Google Search](https://www.google.com/search?client=firefox-b-d&q=how+to+save+html+as+epub)
