@@ -904,3 +904,39 @@ https://zelda.gamepedia.com/Link
 - [ ] [HoTT/HoTT-Agda: Development of homotopy type theory in Agda](https://github.com/hott/hott-agda/)
 
 - [ ] [HoTT/HoTT-Agda: Development of homotopy type theory in Agda](https://github.com/HoTT/HoTT-Agda)
+
+
+
+d2l-pytorch/Ch12_Optimization_Algorithms at master · dsgiitr/d2l-pytorch
+https://github.com/dsgiitr/d2l-pytorch/tree/master/Ch12_Optimization_Algorithms
+
+zackchase/mxnet-the-straight-dope: An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---> Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/.
+https://github.com/zackchase/mxnet-the-straight-dope
+
+dsgiitr/d2l-pytorch: This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
+https://github.com/dsgiitr/d2l-pytorch
+
+Generalized Linear Models With Examples in R code - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Generalized+Linear+Models+With+Examples+in+R+code
+
+hands on deeplearning d2l pytorch - Google Search
+https://www.google.com/search?client=firefox-b-d&q=hands+on+deeplearning+d2l+pytorch
+
+mxnet gluon - Google Search
+https://www.google.com/search?client=firefox-b-d&q=mxnet+gluon
+
+Supported MXNet Models Exposed by the Gluon API - AWS DeepLens
+https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-supported-frameworks-gluon.html
+
+Dive into Deep Learning: Berkeley Course | Hacker News
+https://news.ycombinator.com/item?id=18838808
+
+Deep Learning - The Straight Dope — The Straight Dope 0.1 documentation
+https://gluon.mxnet.io/#
+
+gamma function r - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrS1Ruyn5KtRmgWSp09CySgXi5hQ%3A1571809602381&ei=QumvXY_2FpS10PEPuuSD8AE&q=gamma+function+r&oq=gamma+function+r&gs_l=psy-ab.3..0l10.23416.24436..25568...0.2..0.625.1118.4-1j1....3..0....1..gws-wiz.......0i71j0i67.2skNiT95i9U&ved=0ahUKEwiPn4SI17HlAhWUGjQIHTryAB4Q4dUDCAo&uact=5
+
+My Drive - Google Drive
+https://drive.google.com/drive/u/0/my-drive
+
