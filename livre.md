@@ -1383,3 +1383,28 @@ http://libgen.is/book/index.php?md5=CBF9A3D5EC13B9523A757E78D21D4F53
 Library Genesis
 http://libgen.is/search.php?&req=+Bela+Sz.-Nagy&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
 
+
+
+Library Genesis
+http://libgen.is/search.php?&req=Monte+Carlo+Statistical+Methods&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?&req=Chapman+%26++Hall%2FCRC+handbooks+of+modern+statistical+methods&phrase=0&view=simple&column=series&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?&req=Springer+Texts+in+Statistics&phrase=0&view=simple&column=series&sort=year&sortmode=DESC
+
+
+- [ ] [An Introduction to Modern Bayesian Econometrics Tony Lancaster - Google Search](https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNRb3EhMM_pVzB0VV4ybv3q2TcWJYA:1571810029276&q=An+Introduction+to+Modern+Bayesian+Econometrics+Tony+Lancaster&stick=H4sIAAAAAAAAAONgFuLSz9U3MCvKLalKU0Jia4llJ1vpJ-XnZ4MJq-LMlNTyxMriRax2jnkKnnklRfkppcklmfl5CiX5Cr75KalFeQpOiZWpxZmJeQquyfl5-bmpJUWZycUKIfl5lQo-iXnJicUlqUU7WBkBu96vfnYAAAA&sa=X&ved=2ahUKEwiRnMvT2LHlAhX1N30KHbDFBuEQzTooATBxegQIaxAC)
+
+
+[An Introduction to Modern Bayesian Econometrics: 9781405117203: Economics Books @ Amazon.com](https://www.amazon.com/Introduction-Modern-Bayesian-Econometrics/dp/1405117206)
+
+
+[An Introduction to Modern Bayesian Econometrics: 9781405117203: Economics Books @ Amazon.com](https://www.amazon.com/Introduction-Modern-Bayesian-Econometrics/dp/1405117206)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=+Bayesian+Statistics+%3A+An+Introduction&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+
+
+

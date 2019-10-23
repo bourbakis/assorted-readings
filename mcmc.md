@@ -97,3 +97,78 @@ https://en.m.wikipedia.org/wiki/Markov_chain_Monte_Carlo
 A simple Metropolis-Hastings MCMC in R | theoretical ecology
 https://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/
 
+
+
+
+Bayesian or maximum likelihood
+https://www.biostars.org/p/168845/
+
+Seeing Theory - Bayesian Inference
+https://seeing-theory.brown.edu/bayesian-inference/index.html
+
+MLE vs MAP: the connection between Maximum Likelihood and Maximum A Posteriori Estimation - Agustinus Kristiadi's Blog
+https://wiseodd.github.io/techblog/2017/01/01/mle-vs-map/
+
+posterier density v.s. maximum likilihood - Google Search
+https://www.google.com/search?client=firefox-b-d&q=posterier+density+v.s.+maximum+likilihood
+
+parameter estimation machine learning - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQacMOPhSpVmz55SfZggLqwoxS4rw%3A1571794348520&lei=rK2vXaq2H9DR0PEPmtGP8Ac&q=parameter%20estimation%20machine%20learning&ved=2ahUKEwjD6K6inrHlAhXRPn0KHeBMBMEQsKwBKAF6BAgBEAI
+
+maximum likelihood vs bayesian phylogeny - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQacMOPhSpVmz55SfZggLqwoxS4rw%3A1571794348520&lei=rK2vXaq2H9DR0PEPmtGP8Ac&q=maximum%20likelihood%20vs%20bayesian%20phylogeny&ved=2ahUKEwjD6K6inrHlAhXRPn0KHeBMBMEQsKwBKAB6BAgBEAE
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&ved=2ahUKEwiewKyZp7HlAhUbCjQIHbpZAvkQFjASegQIEhAC&url=https%3A%2F%2Fwww.soe.ucsc.edu%2Fsites%2Fdefault%2Ffiles%2Ftechnical-reports%2FAMS2005-3.pdf&usg=AOvVaw2hCZuMLtq2Wcuof9jV9iU8
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=19&ved=2ahUKEwiewKyZp7HlAhUbCjQIHbpZAvkQFjASegQIEhAC&url=https%3A%2F%2Fwww.soe.ucsc.edu%2Fsites%2Fdefault%2Ffiles%2Ftechnical-reports%2FAMS2005-3.pdf&usg=AOvVaw2hCZuMLtq2Wcuof9jV9iU8
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=2ahUKEwiewKyZp7HlAhUbCjQIHbpZAvkQFjAFegQIFRAC&url=https%3A%2F%2Fresearch.ncl.ac.uk%2Fmicrobial_eukaryotes%2Fdocuments%2Fpeter_rio09_toPrint2.pdf&usg=AOvVaw2q6F9_Nc9UjDpZAdnbh2Mr
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=2ahUKEwiewKyZp7HlAhUbCjQIHbpZAvkQFjAFegQIFRAC&url=https%3A%2F%2Fresearch.ncl.ac.uk%2Fmicrobial_eukaryotes%2Fdocuments%2Fpeter_rio09_toPrint2.pdf&usg=AOvVaw2q6F9_Nc9UjDpZAdnbh2Mr
+
+bayesian parameter estimation tutorial - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQacMOPhSpVmz55SfZggLqwoxS4rw%3A1571794348520&lei=rK2vXaq2H9DR0PEPmtGP8Ac&q=bayesian%20parameter%20estimation%20tutorial&ved=2ahUKEwjD6K6inrHlAhXRPn0KHeBMBMEQsKwBKAJ6BAgBEAM
+
+parameter estimation machine learning - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQacMOPhSpVmz55SfZggLqwoxS4rw%3A1571794348520&lei=rK2vXaq2H9DR0PEPmtGP8Ac&q=parameter%20estimation%20machine%20learning&ved=2ahUKEwjD6K6inrHlAhXRPn0KHeBMBMEQsKwBKAF6BAgBEAI
+
+bayes classifier using maximum likelihood - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQacMOPhSpVmz55SfZggLqwoxS4rw%3A1571794348520&lei=rK2vXaq2H9DR0PEPmtGP8Ac&q=bayes%20classifier%20using%20maximum%20likelihood&ved=2ahUKEwjD6K6inrHlAhXRPn0KHeBMBMEQsKwBKAV6BAgBEAY
+
+bayesian parameter learning - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQacMOPhSpVmz55SfZggLqwoxS4rw%3A1571794348520&lei=rK2vXaq2H9DR0PEPmtGP8Ac&q=bayesian%20parameter%20learning&ved=2ahUKEwjD6K6inrHlAhXRPn0KHeBMBMEQsKwBKAR6BAgBEAU
+
+reml vs bayesian - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQacMOPhSpVmz55SfZggLqwoxS4rw%3A1571794348520&lei=rK2vXaq2H9DR0PEPmtGP8Ac&q=reml%20vs%20bayesian&ved=2ahUKEwjD6K6inrHlAhXRPn0KHeBMBMEQsKwBKAN6BAgBEAQ
+
+prior and posterior probability example - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQacMOPhSpVmz55SfZggLqwoxS4rw%3A1571794348520&lei=rK2vXaq2H9DR0PEPmtGP8Ac&q=prior%20and%20posterior%20probability%20example&ved=2ahUKEwjD6K6inrHlAhXRPn0KHeBMBMEQsKwBKAB6BAgCEAE
+
+What is prior likelihood and posterior? - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQacMOPhSpVmz55SfZggLqwoxS4rw:1571794348520&q=What+is+prior+likelihood+and+posterior%3F&sa=X&ved=2ahUKEwiqvLaenrHlAhXQKDQIHZroA34Qzmd6BAhkEAo
+
+Fundamental differences between the methods of maximum likelihood and maximum posterior probability in phylogenetics. - PubMed - NCBI
+https://www.ncbi.nlm.nih.gov/pubmed/16507528
+
+Maximum Likelihood
+https://www.ncbi.nlm.nih.gov/Class/NAWBIS/Modules/Phylogenetics/phylo15.html
+
+Prior, likelihood, and posterior - Machine Learning with Spark - Second Edition [Book]
+https://www.oreilly.com/library/view/machine-learning-with/9781785889936/ff082869-751b-4de3-9a59-edff60ad4e94.xhtml
+
+What is the difference in Bayesian estimate and maximum likelihood estimate? - Cross Validated
+https://stats.stackexchange.com/questions/74082/what-is-the-difference-in-bayesian-estimate-and-maximum-likelihood-estimate
+
+bayesian - Comparing maximum likelihood estimation (MLE) and Bayes' Theorem - Cross Validated
+https://stats.stackexchange.com/questions/73439/comparing-maximum-likelihood-estimation-mle-and-bayes-theorem/73470#73470
+
+Maximum likelihood equivalent to maximum a posterior estimation - Cross Validated
+https://stats.stackexchange.com/questions/52395/maximum-likelihood-equivalent-to-maximum-a-posterior-estimation/52418#52418
+
+bayesian - Why semi/nonparametric models? - Cross Validated
+https://stats.stackexchange.com/questions/74164/why-semi-nonparametric-models
+
+Maximum Likelihood Estimation VS Maximum A Posterior
+https://towardsdatascience.com/mle-vs-map-a989f423ae5c
+
+Posterior probability - Wikipedia
+https://en.wikipedia.org/wiki/Posterior_probability
+
