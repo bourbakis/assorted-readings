@@ -140,12 +140,7 @@ about:newtab
 
 - [ ] [Gibbs sampling - Wikipedia](https://en.wikipedia.org/wiki/Gibbs_sampling)
 
-
-## 10/23/2019
-
 - [ ] [How single men and women are making politics more extreme](https://theweek.com/articles/715794/how-single-men-women-are-making-politics-more-extreme)
-
-- [ ] [Edward – Unsupervised Learning](http://edwardlib.org/tutorials/unsupervised)
 
 - [ ] [Edward – Unsupervised Learning](http://edwardlib.org/tutorials/unsupervised)
 
@@ -155,7 +150,6 @@ about:newtab
 
 - [ ] [Identifying Bayesian Mixture Models](https://mc-stan.org/users/documentation/case-studies/identifying_mixture_models.html)
 
-- [ ] [New Tab](chrome://newtab/)
 
 - [ ] [An Intro to Gaussian Mixture Modeling | R-bloggers](https://www.r-bloggers.com/an-intro-to-gaussian-mixture-modeling/)
 
@@ -164,8 +158,5 @@ about:newtab
 - [ ] [Gibbs Sampling for a mixture of normals](https://stephens999.github.io/fiveMinuteStats/gibbs2.html)
 
 - [ ] [Computing2.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www4.stat.ncsu.edu/~reich/st740/Computing2.pdf)
-
-
-## 10/23/2019
 
 - [ ] [Safe Disposal of Unexploded WWII Bombs | R-bloggers](https://www.r-bloggers.com/safe-disposal-of-unexploded-wwii-bombs-2/)
