@@ -160,3 +160,32 @@ about:newtab
 - [ ] [Computing2.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www4.stat.ncsu.edu/~reich/st740/Computing2.pdf)
 
 - [ ] [Safe Disposal of Unexploded WWII Bombs | R-bloggers](https://www.r-bloggers.com/safe-disposal-of-unexploded-wwii-bombs-2/)
+
+
+## 10/24/2019
+
+-[ ] [10708-scribe-lecture16.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cs.cmu.edu/~epxing/Class/10708-17/notes-17/10708-scribe-lecture16.pdf)
+
+-[ ] [CSE473: Introduction to Artificial Intelligence](https://courses.cs.washington.edu/courses/cse473/)
+
+-[ ] [Home](https://www.stat.berkeley.edu/~cgk/)
+
+-[ ] [Spatio-Temporal Methods in Environmental Epidemiology](https://www.stat.ubc.ca/~gavin/STEPIBookNewStyle/chapter2.html)
+
+-[ ] [Monte Carlo theory, methods and examples](https://statweb.stanford.edu/~owen/mc/)
+
+-[ ] [Index of /~richard/courses](http://web.math.ku.dk/~richard/courses/)
+
+-[ ] [Index of /~vishy/introml](https://www.stat.purdue.edu/~vishy/introml/)
+
+-[ ] [https://www.math.utah.edu/~davar/math6070/](https://www.math.utah.edu/~davar/math6070/)
+
+-[ ] [Introducing Monte Carlo Methods with R (Use R) - download](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.703.5878&rep=rep1&type=pdf)
+
+-[ ] [Index of /~teh/research/compstats](https://www.stats.ox.ac.uk/~teh/research/compstats/)
+
+-[ ] [Bayes Statistics [ISyE 8843] Home Page](https://www2.isye.gatech.edu/~brani/isyebayes/)
+
+-[ ] [Stat 260/CS 294: Bayesian Modeling and Inference](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/)
+
+-[ ] [J. Hoeting, CSU](https://www.stat.colostate.edu/~jah/)
