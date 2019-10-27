@@ -186,57 +186,67 @@ https://support.sas.com/documentation/cdl/en/statug/63962/HTML/default/viewer.ht
 [A hybrid expectation maximisation and MCMC sampling algorithm to implement Bayesian mixture model based genomic prediction and QTL mapping | BMC Genomics | Full Text](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3082-7)
 
 
+General-Purpose Gibbs Sampling with the ARMS - Google Search
+https://www.google.com/search?client=firefox-b-d&q=General-Purpose+Gibbs+Sampling+with+the+ARMS
+
+General-Purpose Gibbs Sampling for normal mixture model - Google Search
+https://www.google.com/search?client=firefox-b-d&q=General-Purpose+Gibbs+Sampling+for+normal+mixture+model
+
+mixture model gibbs sampling r - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&q=mixture+model+gibbs+sampling+r&sa=X&ved=2ahUKEwjW-ea44LHlAhWkHDQIHTg3BEAQ1QIoBXoECGQQBg
+
+how to derive a gibbs sampler - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&q=how+to+derive+a+gibbs+sampler&sa=X&ved=2ahUKEwjW-ea44LHlAhWkHDQIHTg3BEAQ1QIoBnoECGQQBw
+
+mcmc - How to derive Gibbs sampling? - Cross Validated
+https://stats.stackexchange.com/questions/129956/how-to-derive-gibbs-sampling
+
+derivation of gibbs sampling for finite gaussian mixture model - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&q=derivation+of+gibbs+sampling+for+finite+gaussian+mixture+model&sa=X&ved=2ahUKEwjW-ea44LHlAhWkHDQIHTg3BEAQ1QIoAHoECGQQAQ
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=2ahUKEwiq2rjn_7HlAhUkNX0KHZb-DaYQFjAGegQILhAC&url=https%3A%2F%2Fcourses.cs.washington.edu%2Fcourses%2Fcse599c1%2F13wi%2Fslides%2FLDA-sampling.pdf&usg=AOvVaw00qXM_5jIf8ksgCJ2r-iag
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=2ahUKEwiq2rjn_7HlAhUkNX0KHZb-DaYQFjAGegQILhAC&url=https%3A%2F%2Fcourses.cs.washington.edu%2Fcourses%2Fcse599c1%2F13wi%2Fslides%2FLDA-sampling.pdf&usg=AOvVaw00qXM_5jIf8ksgCJ2r-iag
+
+Kamper: Gibbs sampling for fitting finite and infinite... - Google Scholar
+https://scholar.google.com/scholar?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&um=1&ie=UTF-8&lr&q=related:JZlnYRzdIHZ_UM:scholar.google.com/
+
+bayesian inference for a mixture model using the gibbs sampler - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&q=bayesian+inference+for+a+mixture+model+using+the+gibbs+sampler&sa=X&ved=2ahUKEwjW-ea44LHlAhWkHDQIHTg3BEAQ1QIoAXoECGQQAg
+
+gibbs sampler for conjugate gaussian models - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&q=gibbs+sampler+for+conjugate+gaussian+models&sa=X&ved=2ahUKEwjW-ea44LHlAhWkHDQIHTg3BEAQ1QIoAnoECGQQAw
 
 
 
 
+General-Purpose Gibbs Sampling with the ARMS - Google Search
+https://www.google.com/search?client=firefox-b-d&q=General-Purpose+Gibbs+Sampling+with+the+ARMS
 
+General-Purpose Gibbs Sampling for normal mixture model - Google Search
+https://www.google.com/search?client=firefox-b-d&q=General-Purpose+Gibbs+Sampling+for+normal+mixture+model
 
+mixture model gibbs sampling r - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&q=mixture+model+gibbs+sampling+r&sa=X&ved=2ahUKEwjW-ea44LHlAhWkHDQIHTg3BEAQ1QIoBXoECGQQBg
 
+how to derive a gibbs sampler - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&q=how+to+derive+a+gibbs+sampler&sa=X&ved=2ahUKEwjW-ea44LHlAhWkHDQIHTg3BEAQ1QIoBnoECGQQBw
 
+mcmc - How to derive Gibbs sampling? - Cross Validated
+https://stats.stackexchange.com/questions/129956/how-to-derive-gibbs-sampling
 
+derivation of gibbs sampling for finite gaussian mixture model - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&q=derivation+of+gibbs+sampling+for+finite+gaussian+mixture+model&sa=X&ved=2ahUKEwjW-ea44LHlAhWkHDQIHTg3BEAQ1QIoAHoECGQQAQ
 
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=2ahUKEwiq2rjn_7HlAhUkNX0KHZb-DaYQFjAGegQILhAC&url=https%3A%2F%2Fcourses.cs.washington.edu%2Fcourses%2Fcse599c1%2F13wi%2Fslides%2FLDA-sampling.pdf&usg=AOvVaw00qXM_5jIf8ksgCJ2r-iag
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=2ahUKEwiq2rjn_7HlAhUkNX0KHZb-DaYQFjAGegQILhAC&url=https%3A%2F%2Fcourses.cs.washington.edu%2Fcourses%2Fcse599c1%2F13wi%2Fslides%2FLDA-sampling.pdf&usg=AOvVaw00qXM_5jIf8ksgCJ2r-iag
 
+Kamper: Gibbs sampling for fitting finite and infinite... - Google Scholar
+https://scholar.google.com/scholar?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&um=1&ie=UTF-8&lr&q=related:JZlnYRzdIHZ_UM:scholar.google.com/
 
+bayesian inference for a mixture model using the gibbs sampler - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&q=bayesian+inference+for+a+mixture+model+using+the+gibbs+sampler&sa=X&ved=2ahUKEwjW-ea44LHlAhWkHDQIHTg3BEAQ1QIoAXoECGQQAg
 
+gibbs sampler for conjugate gaussian models - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrQLgquh1EdovvPcnJsvGGcwnYiQ:1571812120583&q=gibbs+sampler+for+conjugate+gaussian+models&sa=X&ved=2ahUKEwjW-ea44LHlAhWkHDQIHTg3BEAQ1QIoAnoECGQQAw
+:wq!
 
-
-## Search
-
-## 10/24/2019
-
--[ ] [accept reject sampling audit - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTzpjx6MmuXRnMP293lVRAs_Upqug%3A1571848135021&lei=x3-wXZV57JWvvA-gk6zIAQ&q=accept%20reject%20sampling%20audit&ved=2ahUKEwjynu7O5rLlAhVGCqYKHWbUC28QsKwBKAN6BAgBEAQ)
-
--[ ] [adaptive rejection metropolis sampling - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTzpjx6MmuXRnMP293lVRAs_Upqug%3A1571848135021&lei=x3-wXZV57JWvvA-gk6zIAQ&q=adaptive%20rejection%20metropolis%20sampling&ved=2ahUKEwjynu7O5rLlAhVGCqYKHWbUC28QsKwBKAJ6BAgBEAM)
-
--[ ] [adaptive rejection sampling in r - Google Search](https://www.google.com/search?q=adaptive+rejection+sampling+in+r&oq=daptive+Rejection+Samplin&aqs=chrome.2.69i57j0l5.2889j0j1&sourceid=chrome&ie=UTF-8)
-
--[ ] [adaptive rejection sampling python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTzpjx6MmuXRnMP293lVRAs_Upqug%3A1571848135021&lei=x3-wXZV57JWvvA-gk6zIAQ&q=adaptive%20rejection%20sampling%20python&ved=2ahUKEwjynu7O5rLlAhVGCqYKHWbUC28QsKwBKAB6BAgBEAE)
-
--[ ] [adaptive rejection sampling r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTzpjx6MmuXRnMP293lVRAs_Upqug%3A1571848135021&lei=x3-wXZV57JWvvA-gk6zIAQ&q=adaptive%20rejection%20sampling%20r&ved=2ahUKEwjynu7O5rLlAhVGCqYKHWbUC28QsKwBKAF6BAgBEAI)
-
--[ ] [Direct Sampling pseudocode - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSI2k0-uq37rujojSJWwp6kOvNbcw:1571848185373&q=Direct+Sampling+pseudocode&tbm=isch&source=univ&sa=X&ved=2ahUKEwjWhuvl5rLlAhXWxosBHX7HCJQQsAR6BAgJEAE)
-
--[ ] [Direct Sampling psudo-code - Google Search](https://www.google.com/search?q=Direct+Sampling+psudo-code&oq=Direct+Sampling+psudo-code&aqs=chrome..69i57.13213j0j9&sourceid=chrome&ie=UTF-8)
-
--[ ] [gamma(a,b) - Google Search](https://www.google.com/search?q=gamma(a%2Cb)&oq=gamma(a%2Cb)&aqs=chrome..69i57j0l5.4548j1j1&sourceid=chrome&ie=UTF-8)
-
--[ ] [general-Purpose arms algorithm - Google Search](https://www.google.com/search?q=general-Purpose+arms+algorithm&oq=general-Purpose+arms+algorithm&aqs=chrome..69i57.9352j1j1&sourceid=chrome&ie=UTF-8)
-
--[ ] [General-Purpose Gibbs Sampling with the ARMS in r - Google Search](https://www.google.com/search?q=General-Purpose+Gibbs+Sampling+with+the+ARMS+in+r&oq=General-Purpose+Gibbs+Sampling+with+the+ARMS+in+r&aqs=chrome..69i57.2686j0j1&sourceid=chrome&ie=UTF-8)
-
--[ ] [gibbs samling in r - Google Search](https://www.google.com/search?q=gibbs+samling+in+r&oq=gibbs+samling+in+r&aqs=chrome..69i57j0j69i65l2j69i60l2.7842j1j4&sourceid=chrome&ie=UTF-8)
-
--[ ] [plot the kernel density estimation of g from your sample and the true density in one figure - Google Search](https://www.google.com/search?q=plot+the+kernel+density+estimation+of+g+from+your+sample+and+the+true+density+in+one+figure&oq=plot+the+kernel+density+estimation+of+g+from+your+sample+and+the+true+density+in+one+figure&aqs=chrome..69i57j69i64.733j0j1&sourceid=chrome&ie=UTF-8)
-
--[ ] [plot the kernel density estimation of g from your sample and the true density in one figure in r - Google Search](https://www.google.com/search?q=plot+the+kernel+density+estimation+of+g+from+your+sample+and+the+true+density+in+one+figure+in+r&oq=plot+the+kernel+density+estimation+of+g+from+your+sample+and+the+true+density+in+one+figure+in+r&aqs=chrome..69i57j69i64.3342j0j4&sourceid=chrome&ie=UTF-8)
-
--[ ] [rejection sampling bayesian network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTzpjx6MmuXRnMP293lVRAs_Upqug%3A1571848135021&lei=x3-wXZV57JWvvA-gk6zIAQ&q=rejection%20sampling%20bayesian%20network&ved=2ahUKEwjynu7O5rLlAhVGCqYKHWbUC28QsKwBKAR6BAgBEAU)
-
--[ ] [reverse sampling - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTzpjx6MmuXRnMP293lVRAs_Upqug%3A1571848135021&lei=x3-wXZV57JWvvA-gk6zIAQ&q=reverse%20sampling&ved=2ahUKEwjynu7O5rLlAhVGCqYKHWbUC28QsKwBKAV6BAgBEAY)
-
--[ ] [the incomplte gamma function gamma(a,z) - Google Search](https://www.google.com/search?q=the+incomplte+gamma+function+gamma(a%2Cz)&oq=the+incomplte+gamma+function+gamma(a%2Cz)&aqs=chrome..69i57j0l5.11035j0j4&sourceid=chrome&ie=UTF-8)
-
--[ ] [two probability densities on ( 0 , ∞ ) r rejection sample - Google Search](https://www.google.com/search?q=two+probability+densities+on+(+0+%2C+%E2%88%9E+)+r+rejection+sample&oq=two+probability+densities+on+(+0+%2C+%E2%88%9E+)+r+rejection+sample&aqs=chrome..69i57j69i64l3.5549j0j4&sourceid=chrome&ie=UTF-8)
-
--[ ] [www.google.com](https://www.google.com/search?q=rejection+sampling+site:rpubs.com&newwindow=1&sxsrf=ACYBGNQA_FHjYVO7KxBjgRKBDFTLcYe7Pw:1571845095044&ei=53OwXcijArzWmAXBqqFI&start=100&sa=N&ved=0ahUKEwiIs6Ck27LlAhU8K6YKHUFVCAkQ8NMDCJcF&biw=1920&bih=975)

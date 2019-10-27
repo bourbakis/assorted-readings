@@ -1249,3 +1249,28 @@ https://towardsdatascience.com/mle-vs-map-a989f423ae5c
 Posterior probability - Wikipedia
 https://en.wikipedia.org/wiki/Posterior_probability
 
+
+
+
+
+rejection sampling in r - Google Search
+https://www.google.com/search?client=firefox-b-d&q=rejection+sampling+in+r
+
+rejection sampling in julia - Google Search
+https://www.google.com/search?client=firefox-b-d&q=rejection+sampling+in+julia
+
+rejection sampling in python - Google Search
+https://www.google.com/search?client=firefox-b-d&q=rejection+sampling++in+python
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=22&cad=rja&uact=8&ved=2ahUKEwihvrrD-7HlAhUrCTQIHchYDwwQFjAVegQIWhAC&url=https%3A%2F%2Fpeople.eecs.berkeley.edu%2F~jordan%2Fcourses%2F260-spring10%2Flectures%2Flecture17.pdf&usg=AOvVaw3XJCzO2JjPSPTAdK_jpq9_
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=22&cad=rja&uact=8&ved=2ahUKEwihvrrD-7HlAhUrCTQIHchYDwwQFjAVegQIWhAC&url=https%3A%2F%2Fpeople.eecs.berkeley.edu%2F~jordan%2Fcourses%2F260-spring10%2Flectures%2Flecture17.pdf&usg=AOvVaw3XJCzO2JjPSPTAdK_jpq9_
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&uact=8&ved=2ahUKEwihvrrD-7HlAhUrCTQIHchYDwwQFjAUegQIYRAC&url=https%3A%2F%2Fwww.pas.rochester.edu%2F~sybenzvi%2Fcourses%2Fphy403%2F2015s%2Fp403_05_monte_carlo.pdf&usg=AOvVaw1BBJfwGBoPUJ-nj0_vP_lf
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=21&cad=rja&uact=8&ved=2ahUKEwihvrrD-7HlAhUrCTQIHchYDwwQFjAUegQIYRAC&url=https%3A%2F%2Fwww.pas.rochester.edu%2F~sybenzvi%2Fcourses%2Fphy403%2F2015s%2Fp403_05_monte_carlo.pdf&usg=AOvVaw1BBJfwGBoPUJ-nj0_vP_lf
+
+Rejection sampling - Wikipedia
+https://en.wikipedia.org/wiki/Rejection_sampling
+
+Rejection Sampling: Intuitive Understanding – Memento
+https://ragrawal.wordpress.com/2014/12/29/rejection-sampling-intuitive-understanding/
+
