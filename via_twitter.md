@@ -23,3 +23,8 @@
 - [ ] [RMarkdown pdf xelatex not rendering images - R Markdown - RStudio Community](https://community.rstudio.com/t/rmarkdown-pdf-xelatex-not-rendering-images/42620)
 
 - [ ] [Kelvins - Collision Avoidance Challenge - Home](https://kelvins.esa.int/collision-avoidance-challenge/home/)
+
+
+## 10/27/2019
+
+- [ ] [Brigitte Madrian on Twitter: "The value of feedback. Colleague: You say 'um' a lot when speaking Me: Really? I need to work on that Months later after 30 min address w/o notes or slides as a crutch, attendee says: "I did not hear the word 'um' a single time, how hard have you worked on that?" Very hard!" / Twitter](https://twitter.com/BrigitteMadrian/status/1185403832328736768)

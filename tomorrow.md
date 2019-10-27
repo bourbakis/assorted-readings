@@ -1314,3 +1314,189 @@ https://www.google.com/search?client=firefox-b-d&q=Kruskal%E2%80%93Wallis+one-wa
 How to Calculate Nonparametric Statistical Hypothesis Tests in Python
 https://machinelearningmastery.com/nonparametric-statistical-significance-tests-in-python/
 
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+## 10/27/2019
+
+- [ ] [Google Translate](https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=Sociological%20Theory)
+
+- [ ] [Stumbling and Mumbling](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/)
+
+- [ ] [Kaffae Extension](chrome-extension://cdopdmmkjbdmffleiaajlplpgfbikekc/popup.html)
+
+- [ ] [Kaffae](https://app.kaffae.com/)
+
+- [ ] [Focused and Diffuse: Two Modes of Thinking](https://fs.blog/2019/10/focused-diffuse-thinking/)
+
+- [ ] [The Knowledge Project with Shane Parrish](https://fs.blog/the-knowledge-project/)
+
+- [ ] [Membership New](https://fs.blog/membership/)
+
+- [ ] [Random](https://fs.blog/random-articles/)
+
+- [ ] [The Best Articles on Farnam Street](https://fs.blog/best-articles/)
+
+- [ ] [A Helpful Guide to Reading Better](https://fs.blog/reading/)
+
+- [ ] [Decision Making: A Guide to Smarter Decisions and Reducing Errors](https://fs.blog/smart-decisions/)
+
+- [ ] [Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)](https://fs.blog/mental-models/)
+
+- [ ] [Photos - Google Photos](https://photos.google.com/u/2/)
+
+- [ ] [purrr | 📦 R Package Showcase 💎](http://uribo.github.io/rpkg_showcase/programming/purrr.html)
+
+- [ ] [spatstat - spatstat website](http://spatstat.org/)
+
+- [ ] [Hyperexponential and hypoexponential distributions](https://www.johndcook.com/blog/2019/10/12/hyperexponential-hypoexponential/)
+
+- [ ] [Robinlovelace/bikeR: Reproducible analysis of UK 'Stats19' data in R](https://github.com/Robinlovelace/bikeR)
+
+- [ ] [spatstat.github.io/spatstatManual.pdf at master · spatstat/spatstat.github.io](https://github.com/spatstat/spatstat.github.io/blob/master/resources/spatstatManual.pdf)
+
+- [ ] [spatstat.github.io/spatstatQuickref.pdf at master · spatstat/spatstat.github.io](https://github.com/spatstat/spatstat.github.io/blob/master/resources/spatstatQuickref.pdf)
+
+- [ ] [The Spatstat Team](https://github.com/spatstat)
+
+- [ ] [Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more](https://www.amazon.com/)
+
+- [ ] [RPubs - Experimental design and Bayesian techniques](https://api.rpubs.com/jakubecp/330544)
+
+- [ ] [(4) Non-Homogeneous Poisson Processes - Example - YouTube](https://www.youtube.com/watch?v=6PF1XSsvjcc)
+
+- [ ] [Capitalism – not so alone | Michael Roberts Blog](https://thenextrecession.wordpress.com/2019/10/12/capitalism-not-so-alone/)
+
+- [ ] [CSC321 Winter 2015: Introduction to Neural Networks](http://www.cs.toronto.edu/~rgrosse/csc321/notes.html)
+
+- [ ] [CSC321 Winter 2015: Introduction to Neural Networks](http://www.cs.toronto.edu/~rgrosse/csc321/homework.html)
+
+- [ ] [Home Page of Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Foundations+and+Trends+R+in+Theoretical+Computer+Science&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=AMS+MBK+%23107&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Introduction+to+Stochastic+Processes&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Explorations+in+World+History&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Princeton+economic+history+of+the+Western+world&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=why+europe&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Markov+Chains+and+Mixing+Times&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Levin D., Peres Y., Wilmer E. - Markov chains and mixing times](http://libgen.is/book/index.php?md5=043C69264384D15F8D1619BED562CC97)
+
+- [ ] [cbd 死亡预测模型 r - Google Search](https://www.google.com/search?q=cbd+%E6%AD%BB%E4%BA%A1%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B+r&oq=cbd+%E6%AD%BB%E4%BA%A1%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B+r&aqs=chrome..69i57.21581j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Design an MCMC using the Gibbs sampling approach to estimate all 5 parameters in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnRz4KvXmrYWceyDdfptXmabP8dA%3A1571753368973&ei=mA2vXdyNO_SXr7wPlf6OyAs&q=Design+an+MCMC+using+the+Gibbs+sampling+approach+to+estimate+all+5+parameters+in+r&oq=Design+an+MCMC+using+the+Gibbs+sampling+approach+to+estimate+all+5+parameters+in+r&gs_l=psy-ab.3..0i71l8.50651.52215..52451...0.2..0.0.0.......0....1..gws-wiz.a0La5-Toju8&ved=0ahUKEwjcue3JhbDlAhX0y4sBHRW_A7kQ4dUDCAs&uact=5)
+
+- [ ] [gibbs samping - Google Search](https://www.google.com/search?q=gibbs+samping&oq=gibbs+samping&aqs=chrome..69i57j69i59j0l10.7208j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [gibbs sampling - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT_8mOBX-Hs2AUMVIsU6g93B3cnYQ:1571756121894&q=gibbs+sampling&tbm=isch&source=univ&sa=X&ved=2ahUKEwjVoMbqj7DlAhVIyosBHW1TA8oQiR56BAhhEBA)
+
+- [ ] [log posterirer of normal mixture in r - Google Search](https://www.google.com/search?q=log+posterirer+of+normal+mixture+in+r&oq=log+posterirer+of+normal+mixture+in+r&aqs=chrome..69i57.13770j1j9&sourceid=chrome&ie=UTF-8)
+
+- [ ] [normal mxiture posterier r - Google Search](https://www.google.com/search?q=normal+mxiture+posterier+r&oq=normal+mxiture+posterier+r&aqs=chrome..69i57j69i64.13740j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [poster density of normal mixture - Google Search](https://www.google.com/search?q=poster+density+of+normal+mixture&oq=poster+density+of+normal+mixture&aqs=chrome..69i57j33.11773j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [(1) Home / Twitter](https://twitter.com/home)
+
+- [ ] [curve fitting - How to fit a mixture of Gamma distributions to the PMF of a discrete distribution? - Cross Validated](https://stats.stackexchange.com/questions/103062/how-to-fit-a-mixture-of-gamma-distributions-to-the-pmf-of-a-discrete-distributio)
+
+- [ ] [Decompose mixture of gamma and gaussian distributions - Cross Validated](https://stats.stackexchange.com/questions/269113/decompose-mixture-of-gamma-and-gaussian-distributions)
+
+- [ ] [Gamma mixture distributions - Cross Validated](https://stats.stackexchange.com/questions/250302/gamma-mixture-distributions)
+
+- [ ] [mixture - Why does not the weighted sum of gamma distribution come from weighted gamma variables? - Cross Validated](https://stats.stackexchange.com/questions/376818/why-does-not-the-weighted-sum-of-gamma-distribution-come-from-weighted-gamma-var)
+
+- [ ] [random generation - sampling from a mixture of two Gamma distributions - Cross Validated](https://stats.stackexchange.com/questions/226834/sampling-from-a-mixture-of-two-gamma-distributions)
+
+- [ ] [1906.00116.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1906.00116.pdf)
+
+- [ ] [A Stein--Papangelou Goodness-of-Fit Test for Point Processes - yang19a.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://proceedings.mlr.press/v89/yang19a/yang19a.pdf)
+
+- [ ] [a059904.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://apps.dtic.mil/dtic/tr/fulltext/u2/a059904.pdf)
+
+- [ ] [baddeley2005jrss.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://bemlar.ism.ac.jp/zhuang/pubs/baddeley2005jrss.pdf)
+
+- [ ] [badturn.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www3.uji.es/~mateu/badturn.pdf)
+
+- [ ] [Bayesian Analysis of Spatial Point Patterns - TLeininger_Dissertation_Econo.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www2.stat.duke.edu/~tjl13/papers/TLeininger_Dissertation_Econo.pdf)
+
+- [ ] [CMA 18-2006.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cma.fct.unl.pt/sites/www.cma.fct.unl.pt/files/documentos/publicacoes/pdf_2006/CMA%2018-2006.pdf)
+
+- [ ] [datasets.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/spatstat/vignettes/datasets.pdf)
+
+- [ ] [Dissertation_Didden.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://archiv.ub.uni-heidelberg.de/volltextserver/17757/1/Dissertation_Didden.pdf)
+
+- [ ] [Intro.dvi - SpatStatIntro.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.stat.ucla.edu/~frederic/222/S17/SpatStatIntro.pdf)
+
+- [ ] [INTRODUCTION TO SPATIAL POINT PROCESSES AND SIMULATION-BASED INFERENCE - Handout_Moller_CIMPA_Togo_2018.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cimpatogo2018.sciencesconf.org/data/pages/Handout_Moller_CIMPA_Togo_2018.pdf)
+
+- [ ] [Introduction to Stochastic Processes, Assignment 4 - MIT18_445S15_homework4.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/assignments/MIT18_445S15_homework4.pdf)
+
+- [ ] [Introduction to Stochastic Processes, Assignment 5 - MIT18_445S15_homework5.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/assignments/MIT18_445S15_homework5.pdf)
+
+- [ ] [Introduction to Stochastic Processes, Solution 1 - MIT18_445S15_homework1_sol.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/assignments/MIT18_445S15_homework1_sol.pdf)
+
+- [ ] [Introduction to Stochastic Processes, Solution 2 - MIT18_445S15_homework2_sol.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/assignments/MIT18_445S15_homework2_sol.pdf)
+
+- [ ] [Introduction to Stochastic Processes, Solution 3 - MIT18_445S15_homework3_sol.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/assignments/MIT18_445S15_homework3_sol.pdf)
+
+- [ ] [Introduction to Stochastic Processes, Solution 4 - MIT18_445S15_homework4_sol.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/assignments/MIT18_445S15_homework4_sol.pdf)
+
+- [ ] [Introduction to Stochastic Processes, Solution 5 - MIT18_445S15_homework5_sol.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-445-introduction-to-stochastic-processes-spring-2015/assignments/MIT18_445S15_homework5_sol.pdf)
+
+- [ ] [main.dvi - chapter03.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://book.spatstat.org/sample-chapters/chapter03.pdf)
+
+- [ ] [main.dvi - chapter09.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://book.spatstat.org/sample-chapters/chapter09.pdf)
+
+- [ ] [Microsoft Word - BrazilPractical.docx - BrazilPractical.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stat.washington.edu/peter/PASI/BrazilPractical.pdf)
+
+- [ ] [Notes.dvi - PointPatterTutorial.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://training.fws.gov/courses/references/tutorials/geospatial/CSP7304/documents/PointPatterTutorial.pdf)
+
+- [ ] [Point_Patterns_IntroWeb.dvi - PP_intro.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://pcaragea.public.iastate.edu/S40608/Notes/PointPatterns/PP_intro.pdf)
+
+- [ ] [pointprocesses_4.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://staff.math.su.se/hoehle/teaching/spatialepi2009/pointprocesses_4.pdf)
+
+- [ ] [SimonThesis2016.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://math.uoregon.edu/wp-content/uploads/2017/10/SimonThesis2016.pdf)
+
+- [ ] [spatialEpiBook.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf)
+
+- [ ] [spatstat: An R package for Analyzing Spatial Point Patterns - spatstatJSSpaper.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://spatstat.org/resources/spatstatJSSpaper.pdf)
+
+- [ ] [spatstat.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://cran.seoul.go.kr/web/packages/spatstat/spatstat.pdf)
+
+- [ ] [spatstat.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://ftp.uni-bayreuth.de/math/statlib/R/CRAN/doc/packages/spatstat.pdf)
+
+- [ ] [spatstat.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.dominic.schuhmacher.name/courses/spatstat.pdf)
+
+- [ ] [spatstatManual.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://spatstat.org/resources/spatstatManual.pdf)
+
+- [ ] [SSIAB_Book_0.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://informatique-mia.inra.fr/workshop-ssiab9/sites/ciam.inra.fr.workshop-ssiab9/files/SSIAB_Book_0.pdf)
+
+- [ ] [The Book of R - BookofR_index_sample.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://nostarch.com/download/BookofR_index_sample.pdf)
+
+- [ ] [Normal-gamma distribution - Wikipedia](https://en.wikipedia.org/wiki/Normal-gamma_distribution)
+
+- [ ] [Random Walks and Mixtures of Gamma Distributions | Theory of Probability & Its Applications | Vol. 55, No. 3 | Society for Industrial and Applied Mathematics](https://epubs.siam.org/doi/abs/10.1137/S0040585X97985005?journalCode=tprbau)
+
+- [ ] [Google AI Blog: Quantum Supremacy Using a Programmable Superconducting Processor](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html?m=1)
+
+- [ ] [Chapter 6 Markov Chain Monte Carlo | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/markov-chain-monte-carlo.html#exercises-4)
