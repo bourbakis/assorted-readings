@@ -172,3 +172,12 @@ https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html#maximum-likelihood-with-
 - [ ] [short.output.R · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/R/short.output.html)
 
 - [ ] [shortestpath.R · Spatial Point Patterns: Methodology and Applications with R.](https://book.spatstat.org/chapter-code/R/shortestpath.html)
+
+
+## 10/27/2019
+
+- [ ] [zoib | 📦 R Package Showcase 💎](http://uribo.github.io/rpkg_showcase/modeling/zoib.html)
+
+- [ ] [spatstat - spatstat website](http://spatstat.org/)
+
+- [ ] [Hyperexponential and hypoexponential distributions](https://www.johndcook.com/blog/2019/10/12/hyperexponential-hypoexponential/)

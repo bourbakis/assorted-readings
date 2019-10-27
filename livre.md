@@ -1408,3 +1408,21 @@ http://libgen.is/search.php?&req=Springer+Texts+in+Statistics&phrase=0&view=simp
 
 
 
+
+## 10/27/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Foundations+and+Trends+R+in+Theoretical+Computer+Science&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=AMS+MBK+%23107&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Introduction+to+Stochastic+Processes&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Explorations+in+World+History&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Princeton+economic+history+of+the+Western+world&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=why+europe&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Markov+Chains+and+Mixing+Times&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Levin D., Peres Y., Wilmer E. - Markov chains and mixing times](http://libgen.is/book/index.php?md5=043C69264384D15F8D1619BED562CC97)

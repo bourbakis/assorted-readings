@@ -163,3 +163,28 @@
 - [ ] [DL Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco4351/main.html)
 
 - [ ] [DL Millimet (SMU)](https://faculty.smu.edu/millimet/classes/eco7321/main.html)
+
+
+
+## 10/27/2019
+
+- [ ] [CSC321 Winter 2015: Introduction to Neural Networks](http://www.cs.toronto.edu/~rgrosse/csc321/notes.html)
+
+- [ ] [CSC321 Winter 2015: Introduction to Neural Networks](http://www.cs.toronto.edu/~rgrosse/csc321/homework.html)
+
+- [ ] [Home Page of Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
+
+
+
+
+## 10/27/2019
+
+- [ ] [Jiancang Zhuang's homepage](http://bemlar.ism.ac.jp/zhuang/)
+
+- [ ] [HomePage Jorge Mateu](http://www3.uji.es/~mateu/)
+
+- [ ] [Thomas Leininger -- Statistics PhD Graduate](http://www2.stat.duke.edu/~tjl13/)
+
+- [ ] [Rick Paik Schoenberg's Home page](http://www.stat.ucla.edu/~frederic/)
+
+- [ ] [USFWS/NCTC - Training](https://training.fws.gov/courses/)

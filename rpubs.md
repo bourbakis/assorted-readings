@@ -254,3 +254,9 @@ https://rpubs.com/shawnspei/final_v2
 - [ ] [RPubs - Tutorial 6: 2D kernel density plot](https://rpubs.com/ledongnhatnam/277418)
 
 - [ ] [RPubs - Visualizing Suitable Habitat Change for Saxifraga austromontana](https://rpubs.com/DonalOLeary/84531)
+
+
+
+## 10/27/2019
+
+- [ ] [RPubs - Experimental design and Bayesian techniques](https://api.rpubs.com/jakubecp/330544)

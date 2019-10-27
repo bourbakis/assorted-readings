@@ -21,3 +21,15 @@ Representation learning is perhaps the biggest differentiation between deep lear
 It is the power of representation learning that is spurring such great creativity in the way the techniques are being used. 
 
 - https://machinelearningmastery.com/deep-learning-with-python/
+
+
+
+
+
+## 10/27/2019
+
+- [ ] [CSC321 Winter 2015: Introduction to Neural Networks](http://www.cs.toronto.edu/~rgrosse/csc321/notes.html)
+
+- [ ] [CSC321 Winter 2015: Introduction to Neural Networks](http://www.cs.toronto.edu/~rgrosse/csc321/homework.html)
+
+- [ ] [Home Page of Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)

@@ -940,3 +940,13 @@ https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQrS1Ruy
 My Drive - Google Drive
 https://drive.google.com/drive/u/0/my-drive
 
+
+## 10/27/2019
+
+- [ ] [Robinlovelace/bikeR: Reproducible analysis of UK 'Stats19' data in R](https://github.com/Robinlovelace/bikeR)
+
+- [ ] [spatstat.github.io/spatstatManual.pdf at master · spatstat/spatstat.github.io](https://github.com/spatstat/spatstat.github.io/blob/master/resources/spatstatManual.pdf)
+
+- [ ] [spatstat.github.io/spatstatQuickref.pdf at master · spatstat/spatstat.github.io](https://github.com/spatstat/spatstat.github.io/blob/master/resources/spatstatQuickref.pdf)
+
+- [ ] [The Spatstat Team](https://github.com/spatstat)
