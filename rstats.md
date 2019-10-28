@@ -181,3 +181,19 @@ https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html#maximum-likelihood-with-
 - [ ] [spatstat - spatstat website](http://spatstat.org/)
 
 - [ ] [Hyperexponential and hypoexponential distributions](https://www.johndcook.com/blog/2019/10/12/hyperexponential-hypoexponential/)
+
+
+
+## 10/27/2019
+
+-[ ] [A Method for Efficiently Sampling From Distributions With Correlated Dimensions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4140408/)
+
+-[ ] [Adaptive Mixture Modelling Metropolis Methods for Bayesian Analysis of Non-linear State-Space Models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2887612/)
+
+-[ ] [Exact Likelihood-free Markov Chain Monte Carlo for Elliptically Contoured Distributions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4607478/)
+
+-[ ] [Exact Likelihood-free Markov Chain Monte Carlo for Elliptically Contoured Distributions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4607478/#R23)
+
+-[ ] [Exact Likelihood-free Markov Chain Monte Carlo for Elliptically Contoured Distributions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4607478/#R23)
+
+-[ ] [High throughput nonparametric probability density estimation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5947915/)

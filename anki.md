@@ -26,5 +26,10 @@ There were four key factors:
 
 # 10/19/2019
 
-In mathematics, a manifold is a topological space that locally resembles Euclidean space near each point.
+In mathematics, a manifold is a topological space that locally resembles Euclidean space near each point.A
 
+
+
+# 10/27/2019
+
+As always, inferential thinking begins with a careful examination of the assumptions about the data. Sets of assumptions are known as models. Sets of assumptions about randomness in roughly linear scatter plots are called regression models.

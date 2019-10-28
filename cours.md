@@ -188,3 +188,27 @@
 - [ ] [Rick Paik Schoenberg's Home page](http://www.stat.ucla.edu/~frederic/)
 
 - [ ] [USFWS/NCTC - Training](https://training.fws.gov/courses/)
+
+
+
+
+
+# Statistics
+
+
+
+## 10/27/2019
+
+- [ ] [David Wagner](https://people.eecs.berkeley.edu/~daw/)
+
+- [ ] [Teaching](http://denero.org/pages/teaching.html)
+
+- [ ] [index](https://www.stat.berkeley.edu/~ani/)
+
+- [ ] [Prob 140 · Probability for Data Science](http://prob140.org/)
+
+- [ ] [Data 8](http://data8.org/sp19/)
+
+- [ ] [Best of Berkeley: Campus 2019 | The Daily Californian](https://www.dailycal.org/2019/04/18/best-of-berkeley-campus/)
+
+- [ ] [Stat 2X](http://stat2x.blogspot.com/)

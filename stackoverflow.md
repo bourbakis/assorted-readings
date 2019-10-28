@@ -218,3 +218,16 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [python - More elegant way to express ((x == a and y == b) or (x == b and y == a))? - Stack Overflow](https://stackoverflow.com/questions/58435645/more-elegant-way-to-express-x-a-and-y-b-or-x-b-and-y-a)
 
 - [ ] [errors - Command \nr already defined (datetime2 and nccmath incompatibility) - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/512850/command-nr-already-defined-datetime2-and-nccmath-incompatibility)
+
+
+## 10/27/2019
+
+- [ ] [curve fitting - How to fit a mixture of Gamma distributions to the PMF of a discrete distribution? - Cross Validated](https://stats.stackexchange.com/questions/103062/how-to-fit-a-mixture-of-gamma-distributions-to-the-pmf-of-a-discrete-distributio)
+
+- [ ] [Decompose mixture of gamma and gaussian distributions - Cross Validated](https://stats.stackexchange.com/questions/269113/decompose-mixture-of-gamma-and-gaussian-distributions)
+
+- [ ] [Gamma mixture distributions - Cross Validated](https://stats.stackexchange.com/questions/250302/gamma-mixture-distributions)
+
+- [ ] [mixture - Why does not the weighted sum of gamma distribution come from weighted gamma variables? - Cross Validated](https://stats.stackexchange.com/questions/376818/why-does-not-the-weighted-sum-of-gamma-distribution-come-from-weighted-gamma-var)
+
+- [ ] [random generation - sampling from a mixture of two Gamma distributions - Cross Validated](https://stats.stackexchange.com/questions/226834/sampling-from-a-mixture-of-two-gamma-distributions)
