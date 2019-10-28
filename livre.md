@@ -1426,3 +1426,17 @@ http://libgen.is/search.php?&req=Springer+Texts+in+Statistics&phrase=0&view=simp
 - [ ] [Library Genesis](http://libgen.is/search.php?&req=Markov+Chains+and+Mixing+Times&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 
 - [ ] [Library Genesis: Levin D., Peres Y., Wilmer E. - Markov chains and mixing times](http://libgen.is/book/index.php?md5=043C69264384D15F8D1619BED562CC97)
+
+
+---
+
+
+## 10/28/2019
+
+-[ ] [503 Service Temporarily Unavailable](http://libgen.is/book/index.php?md5=A70ADD8D01030E0A1D6FED1C0ADEACAD)
+
+-[ ] [Library Genesis: Douglas A. Lind - Statistical Techniques in Business and Economics](http://libgen.is/book/index.php?md5=27179F29DA41F1A87B1E3399080ECB75)
+
+-[ ] [Library Genesis: Michael Kutner, Christopher Nachtsheim, John Neter, William Li - Applied Linear Statistical Models 5th Edition - Instructor's Solutions Manual](http://libgen.is/book/index.php?md5=F625BEE224215AF31B0A1EC5384627F1)
+
+-[ ] [503 Service Temporarily Unavailable](http://libgen.is/book/index.php?md5=E086C04A82603F05510D25490D1D30F4)
