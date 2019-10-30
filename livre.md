@@ -1453,3 +1453,137 @@ http://libgen.is/search.php?&req=Springer+Texts+in+Business+and+Economics&phrase
 Library Genesis
 http://libgen.is/search.php?&req=probability+game&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
 
+
+## 10/30/2019
+
+- [ ] [Library Genesis: Halpern, Joseph Y - Reasoning about uncertainty](http://libgen.is/book/index.php?md5=D07CA341698E658CD126862079AA41E6)
+
+- [ ] [Library Genesis: Lee McIntyre - Post-Truth](http://libgen.is/book/index.php?md5=CFE586B97CE9E92FC1167548011F0766)
+
+- [ ] [Library Genesis: Nolen Gertz - Nihilism](http://libgen.is/book/index.php?md5=F5A86B8F6E2EB171CF19E5754A484FFC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=The+MIT+Press+Essential+Knowledge&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=The+MIT+Press+Essential+Knowledge&column=series)
+
+- [ ] [Library Genesis: Hany Farid - Fake Photos](http://libgen.is/book/index.php?md5=E2B6FAC40002E12ABFB83ED806E5D58A)
+
+- [ ] [Library Genesis: Alex Rosenberg - How History Gets Things Wrong: The Neuroscience of Our Addiction to Stories](http://libgen.is/book/index.php?md5=6A81F0DE1B8E6E261812503DE72FFE7F)
+
+- [ ] [Library Genesis: Arlindo Oliveira - The Digital Mind: How Science Is Redefining Humanity](http://libgen.is/book/index.php?md5=D58465E88E8562F9CCE45F6899356D96)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Arlindo+Oliveira&column=author)
+
+- [ ] [Library Genesis: Michael Buckland - Information and Society](http://libgen.is/book/index.php?md5=4BE4337361167052FC0D7F876C25418C)
+
+- [ ] [Library Genesis: Paul E. Ceruzzi - GPS](http://libgen.is/book/index.php?md5=42A8F68A82538B45C03BEAB8510C7E2E)
+
+- [ ] [Library Genesis: Nick Montfort - Exploratory Programming for the Arts and Humanities](http://libgen.is/book/index.php?md5=DB1B4AEAC4D331AF3FD127D842A5353E)
+
+- [ ] [Library Genesis: Olivier Blanchard, Raghuram Rajan, Kenneth Rogoff, Lawrence H. Summers - Progress and Confusion: The State of Macroeconomic Policy](http://libgen.is/book/index.php?md5=A0B769B9AD60D6B296D8C65FDDD1A35E)
+
+- [ ] [Library Genesis: Arun Sundararajan - The Sharing Economy: The End of Employment and the Rise of Crowd-Based Capitalism](http://libgen.is/book/index.php?md5=DD8F7F07F62ECA97BD811EBA6F15FFA8)
+
+- [ ] [Library Genesis: Morten H. Christiansen, Nick Chater, Peter W. Culicover - Creating Language: Integrating Evolution, Acquisition, and Processing](http://libgen.is/book/index.php?md5=EA5A50AA424288161E507C95D34EC6FB)
+
+- [ ] [Library Genesis: Timothy P. Hubbard, Harry J. Paarsch - Auctions](http://libgen.is/book/index.php?md5=7DC805BF145BA03E621D5B023DCE8EFF)
+
+- [ ] [Library Genesis: Gina Neff, Dawn Nafus - Self-Tracking](http://libgen.is/book/index.php?md5=AF56483A5A0D430F71747A06BF907C7B)
+
+- [ ] [Library Genesis: Robert C. Berwick, Noam Chomsky - Why Only Us: Language and Evolution](http://libgen.is/book/index.php?md5=2189774EF1F1580F9154FB6388C7C02C)
+
+- [ ] [Library Genesis: Murray Shanahan - The Technological Singularity](http://libgen.is/book/index.php?md5=8D5DBA5BE12C272F380B9BE830F6B12B)
+
+- [ ] [Library Genesis: Robert Arp, Barry Smith, Andrew D. Spear - Building Ontologies with Basic Formal Ontology](http://libgen.is/book/index.php?md5=B03A578ED1B878583E62CE3A8FBF3A33)
+
+- [ ] [Library Genesis: Kristina Musholt - Thinking about Oneself: From Nonconceptual Content to the Concept of a Self](http://libgen.is/book/index.php?md5=95007717D6DE1396C96437F03A286937)
+
+- [ ] [Library Genesis: Katy Börner - Atlas of Knowledge: Anyone Can Map](http://libgen.is/book/index.php?md5=74E4EFCA1BA00C6F2D51E7F81FD6A98B)
+
+- [ ] [Library Genesis: Kreuz, Roger J.; Roberts, Richard Miller - Becoming fluent : how cognitive science can help adults learn a foreign language](http://libgen.is/book/index.php?md5=0CE3E4CAE8D27E4A1828AE5A1D033058)
+
+- [ ] [Library Genesis: Nilsson, Nils J - Understanding beliefs](http://libgen.is/book/index.php?md5=DE15BA6A1C7DFCE1A0A5B2FC53099747)
+
+- [ ] [Library Genesis: Torey, Zoltan - The conscious mind](http://libgen.is/book/index.php?md5=AA8973B057786F7B0FE84F920B4CE795)
+
+- [ ] [Library Genesis: David I. Spivak - Category Theory for the Sciences](http://libgen.is/book/index.php?md5=A42ED91D8DA69E60EC32F49EA4AA8F88)
+
+- [ ] [Library Genesis: Balaguer, Mark - Free will](http://libgen.is/book/index.php?md5=4AFAA45F1EF0477EE9D499EC14F72859)
+
+- [ ] [Library Genesis: Jeffrey Pomerantz - Metadata](http://libgen.is/book/index.php?md5=861E1ADD84F75E49DEA49CE4D32BF3D6)
+
+- [ ] [Library Genesis: Murray Shanahan - The Technological Singularity](http://libgen.is/book/index.php?md5=91D8DDD6E97256CC24151A5BD17C8D7C)
+
+- [ ] [Library Genesis: Shifman, Limor - Memes in Digital Culture](http://libgen.is/book/index.php?md5=DE76A08EAA0722429D0EF64255AE3182)
+
+- [ ] [Library Genesis: Paul E. Ceruzzi - Computing: A Concise History](http://libgen.is/book/index.php?md5=FCE836D60B5BB78E3A69739E05C2C4E3)
+
+- [ ] [Library Genesis: Kenneth L. Judd - Numerical Methods in Economics](http://libgen.is/book/index.php?md5=ABB5808C93A36EA41286C49375D93FC4)
+
+- [ ] [Library Genesis: Cohen, Daniel - The wealth of the world and the poverty of nations](http://libgen.is/book/index.php?md5=44DA5A5731A71A9ACFF096FEB49BDA5F)
+
+- [ ] [Library Genesis: Ward Churchill, Howard Zinn - From a Native Son: Selected Essays on Indigenism, 1985-1995](http://libgen.is/book/index.php?md5=14EB20E8C54AC77D135A9DB79AC03458)
+
+- [ ] [Library Genesis: Benjamin M. Compaine (ed.) - The Digital Divide: Facing a Crisis or Creating a Myth?](http://libgen.is/book/index.php?md5=331F1603477B9F26D0F876522EDA6DDF)
+
+- [ ] [Library Genesis: Albert A.E., Gardner L.A.Jr. - Stochastic Approximation and Nonlinear Regression](http://libgen.is/book/index.php?md5=481D2820D93558F58390321DCFB95F86)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=MIT+Press+Classics&phrase=0&view=simple&column=series&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Arthur E. Albert, Leland A. Gardner Jr. - Stochastic Approximation and NonLinear Regression](http://libgen.is/book/index.php?md5=FDCFF2CBB98532FA0150B735AB15A82A)
+
+- [ ] [Library Genesis: Lawrence Hunter - Artificial Intelligence and Molecular Biology. Chapter 3 is absent](http://libgen.is/book/index.php?md5=27607B7913A2C705844A484F2DC49E01)
+
+- [ ] [Library Genesis: Andreas Paepcke - Object-Oriented Programming: The CLOS Perspective](http://libgen.is/book/index.php?md5=CC79A37B15D0105AA2676DAC20462D01)
+
+- [ ] [Library Genesis: Alfred K. Susskind - Notes on Analog-Digital Coversion Techniques](http://libgen.is/book/index.php?md5=F8A1AC5E5B907D6914B01FC4113560BC)
+
+- [ ] [Library Genesis: W H G Armytage - A Social History of Engineering](http://libgen.is/book/index.php?md5=F8A830E70F8E289E403B5F8062F01477)
+
+- [ ] [Library Genesis: Joseph Y. Halpern - Reasoning about Uncertainty](http://libgen.is/book/index.php?md5=4B2AACCF77CFC1F714B9AA9950E300E9)
+
+- [ ] [Library Genesis: Sven Ove Hansson, Gertrude Hirsch Hadorn (eds.) - The Argumentative Turn in Policy Analysis: Reasoning about Uncertainty](http://libgen.is/book/index.php?md5=3568B29ECDD3CDDB8DA06A1BA719A994)
+
+- [ ] [libgen.is/search.php?&req=David+E.+Goldberg&phrase=0&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=David+E.+Goldberg&phrase=0&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=The+Evolution+of+Cooperation%2C&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=+Yanis+Varoufakis&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Genetic+Programming+On+the+programming+of+computers+by+means+of+natural+selection&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=John+R.+Koza&phrase=0&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Vojislav Kecman - Learning and Soft Computing: Support Vector Machines, Neural Networks, and Fuzzy Logic Models](http://libgen.is/book/index.php?md5=D60C5B7A1828CE9EE5480E6090C0BF4B)
+
+- [ ] [Library Genesis: Vojislav Kecman - Learning and Soft Computing: Support Vector Machines, Neural Networks, and Fuzzy Logic Models](http://libgen.is/book/index.php?md5=75EA6ED9D7BD3B8E935F61DC3D903B48)
+
+- [ ] [Library Genesis: Stuart R. Hameroff, Alfred W. Kaszniak, David J. Chalmers - Toward a Science of Consciousness III: The Third Tucson Discussions and Debates (Complex Adaptive Systems)](http://libgen.is/book/index.php?md5=868403BBF20E33D88F8FDAA9EB32D67B)
+
+- [ ] [Library Genesis: Kishan Mehrotra, Chilukuri K. Mohan, Sanjay Ranka - Elements of artificial neural networks](http://libgen.is/book/index.php?md5=0EDEE774BEB832E399FC8E28A24891ED)
+
+- [ ] [Library Genesis: Melanie Mitchell - Artificial Intelligence: A Guide for Thinking Humans](http://libgen.is/book/index.php?md5=1BC25D606DB058532DBADA0905554562)
+
+- [ ] [Library Genesis: Melanie Mitchell - Complexity: A Guided Tour](http://libgen.is/book/index.php?md5=81B3A2472ED40EBEFDC9574AF861A8B1)
+
+- [ ] [Library Genesis: Melanie Mitchell - Complexity: A Guided Tour](http://libgen.is/book/index.php?md5=97330E8F0F60737D46108E5103C6F00E)
+
+- [ ] [Library Genesis: Mitchell, Melanie - Complexity](http://libgen.is/book/index.php?md5=DC0E02439CF3EA2A9E69D26DE73D2A4E)
+
+- [ ] [Library Genesis: Melanie Mitchell - An Introduction to Genetic Algorithms (Complex Adaptive Systems)](http://libgen.is/book/index.php?md5=C88EDDF35CF5E6F03C529EFC0AE4BFDE)
+
+- [ ] [Library Genesis: Melanie Mitchell - An Introduction to Genetic Algorithms](http://libgen.is/book/index.php?md5=CB5046EB11F77CD6F4CD7A9723784BBB)
+
+- [ ] [Library Genesis: David E. Goldberg - Genetic Algorithms in Search, Optimization, and Machine Learning](http://libgen.is/book/index.php?md5=5759E9E6234E275A748230AA29C15E10)
+
+- [ ] [Library Genesis: David E. Goldberg - Genetic Algorithms in Search, Optimization, and Machine Learning](http://libgen.is/book/index.php?md5=8AC0783BA24B71236B695CBDFAB2CA67)
+
+- [ ] [Library Genesis: Joseph Y. Halpern - Actual Causality](http://libgen.is/book/index.php?md5=5BC13CE8C5D61D8106DE9B1B3F07F038)
+
+- [ ] [Library Genesis: Shaun Hargreaves-Heap, Yanis Varoufakis - Game Theory: A Critical Introduction](http://libgen.is/book/index.php?md5=4AD97977418113FEA36FD4498EC68BC0)
+
+- [ ] [Library Genesis: Shaun Hargreaves-Heap, Yanis Varoufakis - Game Theory: A Critical Introduction](http://libgen.is/book/index.php?md5=81A62E003D420B4DE5C585D9F3584B36)
+
+- [ ] [Library Genesis: Shaun Hargreaves-Heap, Yanis Varoufakis - Game Theory: A Critical Introduction](http://libgen.is/book/index.php?md5=0A73B1EC77A812003F21DB046F10CF75)
+
+- [ ] [Library Genesis: Shaun Hargreaves-Heap, Yanis Varoufakis - Game theory: a critical text](http://libgen.is/book/index.php?md5=8A43E40918500DCF9D08778F4877749C)
