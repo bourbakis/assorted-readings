@@ -1440,3 +1440,16 @@ http://libgen.is/search.php?&req=Springer+Texts+in+Statistics&phrase=0&view=simp
 -[ ] [Library Genesis: Michael Kutner, Christopher Nachtsheim, John Neter, William Li - Applied Linear Statistical Models 5th Edition - Instructor's Solutions Manual](http://libgen.is/book/index.php?md5=F625BEE224215AF31B0A1EC5384627F1)
 
 -[ ] [503 Service Temporarily Unavailable](http://libgen.is/book/index.php?md5=E086C04A82603F05510D25490D1D30F4)
+
+
+## 10/30/2019
+
+Library Genesis: Tim Roughgarden - Twenty Lectures on Algorithmic Game Theory
+http://libgen.is/book/index.php?md5=EB6A02DEBE25CCA2E9F59022D3DE2F9E
+
+Library Genesis
+http://libgen.is/search.php?&req=Springer+Texts+in+Business+and+Economics&phrase=0&view=simple&column=series&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?&req=probability+game&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
