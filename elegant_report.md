@@ -285,3 +285,27 @@
 - [ ] [machine learning - How do you visualize neural network architectures? - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/12851/how-do-you-visualize-neural-network-architectures)
 
 - [ ] [Visualizing Artificial Neural Networks (ANNs) with just One Line of Code](https://towardsdatascience.com/visualizing-artificial-neural-networks-anns-with-just-one-line-of-code-b4233607209e)
+
+
+## 10/31/2019
+
+Game Playing in Artificial Intelligence - GeeksforGeeks
+https://www.geeksforgeeks.org/game-playing-in-artificial-intelligence/
+
+AI/csp at master · georgosgeorgos/AI
+https://github.com/georgosgeorgos/AI/tree/master/csp
+
+gzachos/ai-course-uoi: Project for the Artificial Intelligence course @cse.uoi.gr
+https://github.com/gzachos/ai-course-uoi
+
+kutlay/AI-Algorithms: Collection of artificial intelligence algorithms in Python. Artificial Intelligence, Spring 2019, New College of Florida
+https://github.com/kutlay/AI-Algorithms
+
+Artificial_Intelligence/AI_Game_Playing_Algorithm at master · shivneshr/Artificial_Intelligence
+https://github.com/shivneshr/Artificial_Intelligence/tree/master/AI_Game_Playing_Algorithm
+
+Axelrod-Python/AxelrodExamples: Analysis and examples for the Axelrod-Python library
+https://github.com/Axelrod-Python/AxelrodExamples
+
+:wq
+
