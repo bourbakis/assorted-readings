@@ -307,5 +307,84 @@ https://github.com/shivneshr/Artificial_Intelligence/tree/master/AI_Game_Playing
 Axelrod-Python/AxelrodExamples: Analysis and examples for the Axelrod-Python library
 https://github.com/Axelrod-Python/AxelrodExamples
 
-:wq
+A Stochastic Processes Toolkit for Risk Management by Damiano Brigo, Antonio Dalessandro, Matthias Neugebauer, Fares Triki :: SSRN
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1109160
+
+Zenodo - Research. Shared.
+https://zenodo.org/
+
+tech report publish rmarkdown code chunck - Google Search
+https://www.google.com/search?client=firefox-b-d&q=tech+report+publish+rmarkdown+code+chunck
+
+Knitr with R Markdown
+https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html
+
+Reproducibility - Wikipedia
+https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research
+
+R function to deal with sprintf("%.2f", ...) returning -0.00
+https://gist.github.com/kbroman/5217617
+
+Using R Markdown for Class Reports
+https://www.stat.cmu.edu/~cshalizi/rmarkdown/
+
+29 R Markdown formats | R for Data Science
+https://r4ds.had.co.nz/r-markdown-formats.html
+
+Writing reproducible reports in R with markdown, knitr and pandoc - Nice R Code
+https://nicercode.github.io/guides/reports/
+
+27 R Markdown | R for Data Science
+https://r4ds.had.co.nz/r-markdown.html
+
+Creating Pretty Documents from R Markdown
+https://cran.r-project.org/web/packages/prettydoc/vignettes/leonids.html
+
+Introduction to R Markdown
+https://aberdeenstudygroup.github.io/studyGroup/lessons/SG-T5-RMarkdown/Intro_RMarkdown/
+
+Remove Hashes in R Output from R Markdown and Knitr - Stack Overflow
+https://stackoverflow.com/questions/15081212/remove-hashes-in-r-output-from-r-markdown-and-knitr
+
+flexdashboard: Easy interactive dashboards for R
+https://rmarkdown.rstudio.com/flexdashboard/
+
+Dynamic Documents with R and knitr - Yihui Xie - Google Books
+https://books.google.com/books?id=fyIuDwAAQBAJ&pg=PT9&lpg=PT9&dq=pdf+latex+beautiful+output+from+code+rmarkdown&source=bl&ots=QGZU47pg6-&sig=ACfU3U0zC2ogmbiY1vG9aliQd7jIKALXMw&hl=en&sa=X&ved=2ahUKEwjB_b2I4MXlAhXSup4KHVtcA5AQ6AEwJHoECGIQAQ#v=onepage&q=pdf%20latex%20beautiful%20output%20from%20code%20rmarkdown&f=false
+
+Human Verification
+https://fres-news.com/?p=gbtdayrtgm5gi3bpgm3dk
+
+knitr - How can I nest a code chunk within an enumerate environment when using R Markdown? - TeX - LaTeX Stack Exchange
+https://tex.stackexchange.com/questions/210003/how-can-i-nest-a-code-chunk-within-an-enumerate-environment-when-using-r-markdow
+
+From Markdown to LaTeX output using RMarkdown. | R-bloggers
+https://www.r-bloggers.com/from-markdown-to-latex-output-using-rmarkdown/
+
+3.3 PDF document | R Markdown: The Definitive Guide
+https://bookdown.org/yihui/rmarkdown/pdf-document.html#appearance_and_style
+
+knit_theme: Syntax highlighting themes in knitr: A General-Purpose Package for Dynamic Report Generation in R
+https://rdrr.io/cran/knitr/man/knit_theme.html
+
+syntax - text highlight in markdown - Stack Overflow
+https://stackoverflow.com/questions/25104738/text-highlight-in-markdown
+
+Using colours in LaTeX - Overleaf, Online LaTeX Editor
+https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX
+
+formatting - colorbox doesn't wrap the text correctly - TeX - LaTeX Stack Exchange
+https://tex.stackexchange.com/questions/232489/colorbox-doesnt-wrap-the-text-correctly
+
+The R package tinytex - Helper Functions to Manage TinyTeX, and Compile LaTeX Documents - Yihui Xie | 谢益辉
+https://yihui.name/tinytex/r/#debugging
+
+R Markdown Cookbook
+https://dr-harper.github.io/rmarkdown-cookbook/
+
+syntax - text highlight in markdown - Stack Overflow
+https://stackoverflow.com/questions/25104738/text-highlight-in-markdown
+
+jgm/pandoc: Universal markup converter
+https://github.com/jgm/pandoc
 
