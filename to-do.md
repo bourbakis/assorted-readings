@@ -3430,3 +3430,416 @@ https://www.ted.com/talks/paul_collier_s_new_rules_for_rebuilding_a_broken_natio
 - [ ] [Mentions of Race, Gender, and Inequality in Academic Articles | A (Budding) Sociologist's Commonplace Book](https://asociologist.com/2014/10/14/mentions-of-race-gender-and-inequality-in-academic-articles/#comment-19642)
 
 - [ ] [National Income Bibliography | A (Budding) Sociologist's Commonplace Book](https://asociologist.com/national-income-bibliography/)
+
+
+---
+
+
+
+## 10/31/2019
+
+- [ ] [爬虫作业 - 腾讯文档](https://docs.qq.com/doc/DZm9lREpZRmx0eUVC?tdsourcetag=s_pctim_file_edit&ADUIN=527185952&ADSESSION=1572145358&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26933)
+
+- [ ] [爬虫作业 - 腾讯文档](https://docs.qq.com/doc/DZm9lREpZRmx0eUVC?tdsourcetag=s_pctim_file_edit&ADUIN=527185952&ADSESSION=1572145358&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26933)
+
+- [ ] [A Complete Tutorial on Time Series Analysis and Modelling in R](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
+
+- [ ] [500 Internal Privoxy Error](http://scifun.chem.wisc.edu/WOP/RandomWalk.html)
+
+- [ ] [Settings - About Chrome](chrome://settings/help)
+
+- [ ] [Easy time-series prediction with R: a tutorial with air traffic data from Lux Airport - Econometrics and Free Software](https://www.brodrigues.co/blog/2018-11-14-luxairport/)
+
+- [ ] [A Markov Chain Based Demand Prediction Model for Stations in Bike Sharing Systems](https://www.hindawi.com/journals/mpe/2018/8028714/)
+
+- [ ] [酷狗直播客户端下载](http://mfanxing.kugou.com/?qq-pf-to=pcqq.group)
+
+- [ ] [A Quick Start of Time Series Forecasting with a Practical Example using FB Prophet](https://towardsdatascience.com/a-quick-start-of-time-series-forecasting-with-a-practical-example-using-fb-prophet-31c4447a2274)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [Inferring causal impact using Bayesian structural time-series models – Google AI](https://ai.google/research/pubs/pub41854)
+
+- [ ] [CausalImpact](https://google.github.io/CausalImpact/)
+
+- [ ] [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html)
+
+- [ ] [16 Dates and times | R for Data Science](https://r4ds.had.co.nz/dates-and-times.html)
+
+- [ ] [xts Cheat Sheet: Time Series in R (article) - DataCamp](https://www.datacamp.com/community/blog/r-xts-cheat-sheet)
+
+- [ ] [Summarize Time Series Data by Month or Year Using Tidyverse Pipes in R | Earth Data Science - Earth Lab](https://www.earthdatascience.org/courses/earth-analytics/time-series-data/summarize-time-series-by-month-in-r/)
+
+- [ ] [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/print.html)
+
+- [ ] [Time Series 04: Subset and Manipulate Time Series Data with dplyr | NSF NEON | Open Data to Understand our Ecosystems](https://www.neonscience.org/dc-time-series-subset-dplyr-r)
+
+- [ ] [yearqtr function | R Documentation](https://www.rdocumentation.org/packages/zoo/versions/1.8-6/topics/yearqtr)
+
+- [ ] [Quarter-year date format in R - tidyverse - RStudio Community](https://community.rstudio.com/t/quarter-year-date-format-in-r/21570)
+
+- [ ] [r - Format date as Year/Quarter - Stack Overflow](https://stackoverflow.com/questions/21571703/format-date-as-year-quarter)
+
+- [ ] [Model tuning via grid search — tune_grid • tune](https://tidymodels.github.io/tune/reference/tune_grid.html)
+
+- [ ] [Newest 'causalimpact' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/causalimpact)
+
+- [ ] [r - How to forecast traffic data with ARIMA? - Cross Validated](https://stats.stackexchange.com/questions/275143/how-to-forecast-traffic-data-with-arima)
+
+- [ ] [Mining massive datasets 2nd edition | Knowledge management, databases and data mining | Cambridge University Press](https://www.cambridge.org/ca/academic/subjects/computer-science/knowledge-management-databases-and-data-mining/mining-massive-datasets-2nd-edition?format=HB&isbn=9781107077232)
+
+- [ ] [Products Available from CED Magic](http://www.cedmagic.com/home/products.html)
+
+- [ ] [Software Downloads for the RCA VideoDisc System](http://www.cedmagic.com/home/software-downloads-page.html)
+
+- [ ] [Mining of Massive Datasets](http://www.mmds.org/)
+
+- [ ] [Mining of Massive Datasets](http://www.mmds.org/)
+
+- [ ] [Foundations of Data Science - Lecture 1 | Microsoft Research | Channel 9](https://channel9.msdn.com/Shows/Microsoft-Research/Foundations-of-Data-Science-Lecture-1)
+
+- [ ] [NSF Award Search: Award#0514429 - The Analysis and Modeling of Large Linked Networks](https://nsf.gov/awardsearch/showAward?AWD_ID=0514429)
+
+- [ ] [CS345A: Data Mining](http://infolab.stanford.edu/~ullman/mining/2009/index.html)
+
+- [ ] [Jeffrey D. Ullman --- Books](http://infolab.stanford.edu/~ullman/ullman-books.html)
+
+- [ ] [Mining of Massive Datasets: Beta Version of Third Edition](http://infolab.stanford.edu/~ullman/mmdsn.html)
+
+- [ ] [CS246 | Home](http://web.stanford.edu/class/cs246/)
+
+- [ ] [What You Do Is Who You Are - Andreessen Horowitz](https://a16z.com/book/whatyoudo/)
+
+- [ ] [Kaffae](https://app.kaffae.com/)
+
+- [ ] [Top 16 Tech Blogs and Sites - How New Tech Will Grow Your Business](https://www.pagecloud.com/blog/best-tech-blogs-websites)
+
+- [ ] [Foundations of Data Science - Lecture 1 - Microsoft Research](https://www.microsoft.com/en-us/research/video/foundations-of-data-science-lecture-1/)
+
+- [ ] [Foundations of Data Science - Microsoft Research](https://www.microsoft.com/en-us/research/publication/foundations-of-data-science/)
+
+- [ ] [Foundations of Data Science - Microsoft Research](https://www.microsoft.com/en-us/research/publication/foundations-of-data-science-2/)
+
+- [ ] [CS 381](http://www.cs.cornell.edu/courses/cs381/2007fa/)
+
+- [ ] [CS 683 Home](http://www.cs.cornell.edu/courses/cs683/2008sp/)
+
+- [ ] [Page not found | Department of Computer Science](http://www.cs.cornell.edu/cs/Courses/cs4850/2009sp/index.htm)
+
+- [ ] [Page not found | Department of Computer Science](https://www.cs.cornell.edu/jeh/www.cs.cornell.edu/~yli)
+
+- [ ] [Settings - About Chrome](chrome://settings/help)
+
+- [ ] [A Course in Algebraic Number Theory](https://faculty.math.illinois.edu/~r-ash/ANT.html)
+
+- [ ] [Abstract Algebra: The Basic Graduate Year](https://faculty.math.illinois.edu/~r-ash/Algebra.html)
+
+- [ ] [Basic Probability Theory](https://faculty.math.illinois.edu/~r-ash/BPT.html)
+
+- [ ] [Complex Variables](https://faculty.math.illinois.edu/~r-ash/CV.html)
+
+- [ ] [Differential Equations](https://faculty.math.illinois.edu/~ash/DE.html)
+
+- [ ] [Discrete Math](https://faculty.math.illinois.edu/~ash/Discrete.html)
+
+- [ ] [Lectures on Statistics](https://faculty.math.illinois.edu/~r-ash/Stat.html)
+
+- [ ] [Linear Algebra](https://faculty.math.illinois.edu/~ash/LinearAlg.html)
+
+- [ ] [Introduction to Statistics: Descriptive Statistics | edX](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)
+
+- [ ] [Introduction to Statistics: Inference | edX](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)
+
+- [ ] [Introduction to Statistics: Probability | edX](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)
+
+- [ ] [python – Pandas Melt関数 - コードログ](https://codeday.me/jp/qa/20190402/531428.html)
+
+- [ ] [Reshaping Pandas Data With Melt | Codementor](https://www.codementor.io/abhishake/reshaping-pandas-data-with-melt-lazg3j4te)
+
+- [ ] [Python | Pandas.melt() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-melt/)
+
+- [ ] [Python | Pandas.melt() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-melt/)
+
+- [ ] [pandas.melt — pandas 0.25.2 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.melt.html)
+
+- [ ] [python - Pandas Melt Function - Stack Overflow](https://stackoverflow.com/questions/34830597/pandas-melt-function)
+
+- [ ] [python - Pandas Melt with Multiple Value Vars - Stack Overflow](https://stackoverflow.com/questions/45066873/pandas-melt-with-multiple-value-vars)
+
+- [ ] [python - pandas, melt, unmelt preserve index - Stack Overflow](https://stackoverflow.com/questions/50529022/pandas-melt-unmelt-preserve-index)
+
+- [ ] [python - Unpivot Pandas Data - Stack Overflow](https://stackoverflow.com/questions/18259067/unpivot-pandas-data)
+
+- [ ] [Simultaneously melt multiple columns in Python Pandas - Stack Overflow](https://stackoverflow.com/questions/51519101/simultaneously-melt-multiple-columns-in-python-pandas)
+
+- [ ] [Be an Actuary](http://www.beanactuary.org/)
+
+- [ ] [Bipartisan Alliance](https://www.bipartisanalliance.com/)
+
+- [ ] [Assessing Models](https://www.inferentialthinking.com/chapters/11/1/Assessing_Models.html)
+
+- [ ] [Causality and Experiments](https://www.inferentialthinking.com/chapters/02/causality-and-experiments.html)
+
+- [ ] [Inference for Regression](https://www.inferentialthinking.com/chapters/16/Inference_for_Regression.html)
+
+- [ ] [The Theory of Interest Information Center: Solutions Manual](http://highered.mheducation.com/sites/0073382442/information_center_view0/solutions_manual.html)
+
+- [ ] [rafaellvandervaart (u/rafaellvandervaart) - Reddit](https://www.reddit.com/r/neoliberal/comments/dok6xi/be_cautious_with_the_precautionary_principle/)
+
+- [ ] ['The New Center' Thought Leaders | Thinklab](https://thinklab.com/influencers)
+
+- [ ] [Thinklab](https://thinklab.com/about/thought-leaders)
+
+- [ ] [Thinklab](https://thinklab.com/about/thought-leaders)
+
+- [ ] [H5N1: Be cautious with the precautionary principle: Evidence from Fukushima Daiichi nuclear accident](https://crofsblogs.typepad.com/h5n1/2019/10/be-cautious-with-the-precautionary-principle-evidence-from-fukushima-daiichi-nuclear-accident.html)
+
+- [ ] [Daily Assignments for STA 4183](http://users.stat.ufl.edu/~rrandles/sta4183/4183assign16/index.html)
+
+- [ ] [Frank Wood, Associate Professor, (Information) Engineering, Oxford](http://www.robots.ox.ac.uk/~fwood/)
+
+- [ ] [(PDF) Applied Linear Regression Models 4th Edition With Student CD McGraw Hill Irwin Series Operations | Michele Rowe - Academia.edu](https://www.academia.edu/39317784/Applied_Linear_Regression_Models_4th_Edition_With_Student_CD_McGraw_Hill_Irwin_Series_Operations)
+
+- [ ] [AddALL book search and price comparison](http://www.addall.com/)
+
+- [ ] [Shirley Mills' Home Page](https://people.math.carleton.ca/~smills/)
+
+- [ ] [khk gene cDNA ORF clone, Danio rerio(zebrafish) - GenScript](https://qa-sap.genscript.com/gene/danio-rerio/436909/khk.html)
+
+- [ ] [Peptide News](https://www.genscript.com/peptide_news.html)
+
+- [ ] [{epub download} Applied Linear Regression Models- 4th Edition with Student CD (McGraw HillIrwin Seri by cullenb1nholloway - Issuu](https://issuu.com/cullenb1nholloway/docs/_epub_download__applied_linear_regr)
+
+- [ ] [系统模型传递函数 - 腾讯文档](https://docs.qq.com/doc/DZkN1d2pWZ3dpeXJH?tdsourcetag=s_pctim_file_edit&ADUIN=527185952&ADSESSION=1572177152&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26933&jumpuin=527185952)
+
+- [ ] [matconv: A Code Converter from the Matlab/Octave Language to R version 0.4.0 from CRAN](https://rdrr.io/cran/matconv/)
+
+- [ ] [Index of /~winner/sta4210](http://users.stat.ufl.edu/~winner/sta4210/)
+
+- [ ] [Decisions and Orders of the National Labor Relations Board - United States. National Labor Relations Board - Google Books](https://books.google.com/books?id=4pw7AQAAMAAJ&pg=PA1634&lpg=PA1634&dq=r+kege+analysis&source=bl&ots=KeSn3aNv06&sig=ACfU3U3Qtps06hCEZG0hQkZTA1MVSTrYbg&hl=en&sa=X&ved=2ahUKEwjwsdWrybzlAhWNv5QKHVn2Bi8Q6AEwAHoECGUQAQ#v=onepage&q=r%20kege%20analysis&f=false)
+
+- [ ] [Cuban Missile Crisis - Wikipedia](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis)
+
+- [ ] [Amazon | 本, ファッション, 家電から食品まで | アマゾン](https://www.amazon.co.jp/)
+
+- [ ] [A market for emotions | MIT News](http://news.mit.edu/2014/with-emotion-tracking-software-affectiva-attracts-clients-mood-aware-internet-0731)
+
+- [ ] [New synthesis method yields degradable polymers | MIT News](http://news.mit.edu/2019/new-synthesis-method-yields-degradable-polymers-1028)
+
+- [ ] [Supercomputer analyzes web traffic across entire internet | MIT News](http://news.mit.edu/2019/supercomputer-analyzes-web-traffic-across-entire-internet-1028)
+
+- [ ] [Christopher Foley - MRC Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/christopher-foley/)
+
+- [ ] [Christopher N. Foley | DeepAI](https://deepai.org/machine-learning/researcher/christopher-n-foley)
+
+- [ ] [(19) Christopher N Foley's research works | University of Cambridge, Cambridge (Cam) and other places](https://www.researchgate.net/scientific-contributions/2138872037_Christopher_N_Foley)
+
+- [ ] [China's Congress Passes Cryptography Law, Effective Jan. 1, 2020 - CoinDesk](https://www.coindesk.com/chinas-congress-passes-cryptography-law-effective-jan-1-2020)
+
+- [ ] [From Banking Giants to Tech Darlings, China Reveals Over 500 Enterprise Blockchain Projects - CoinDesk](https://www.coindesk.com/from-banking-giants-to-tech-darlings-china-reveals-over-500-enterprise-blockchain-projects)
+
+- [ ] [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
+
+- [ ] [Open Borders: The Graphic Novel - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/open-borders-the-graphic-novel.html)
+
+- [ ] [China central bank official says commercial banks should step up blockchain application - Reuters](https://www.reuters.com/article/us-china-blockchain-idUSKBN1X704A)
+
+- [ ] [A neural net solves the three-body problem 100 million times faster - MIT Technology Review](https://www.technologyreview.com/s/614597/a-neural-net-solves-the-three-body-problem-100-million-times-faster/)
+
+- [ ] [A neural net solves the three-body problem 100 million times faster - MIT Technology Review](https://www.technologyreview.com/s/614597/a-neural-net-solves-the-three-body-problem-100-million-times-faster/)
+
+- [ ] [Blockchain - MIT Technology Review](https://www.technologyreview.com/blockchain/)
+
+- [ ] [Can you really “deradicalize” a terrorist? - MIT Technology Review](https://www.technologyreview.com/s/614569/deradicalize-terrorist-boko-haram/)
+
+- [ ] [China will now officially try to extend its Great Firewall to blockchains - MIT Technology Review](https://www.technologyreview.com/f/612749/china-will-now-officially-try-to-extend-its-great-firewall-to-blockchains/)
+
+- [ ] [Emerging Technology from the arXiv - MIT Technology Review](https://www.technologyreview.com/profile/emerging-technology-from-the-arxiv/)
+
+- [ ] [https://www.technologyreview.com/contributor/emerging-technology-from-the-arxiv/rss/](https://www.technologyreview.com/contributor/emerging-technology-from-the-arxiv/rss/)
+
+- [ ] [MIT Technology Review](https://www.technologyreview.com/)
+
+- [ ] [MIT Technology Review](https://www.technologyreview.com/)
+
+- [ ] [NASA is sending a rover to the moon to look for water ice - MIT Technology Review](https://www.technologyreview.com/f/614637/nasa-is-sending-a-rover-to-the-moon-to-look-for-water-ice/)
+
+- [ ] [Russian hackers are targeting the 2020 Olympics - MIT Technology Review](https://www.technologyreview.com/f/614640/russian-hackers-are-targeting-the-2020-olympics/)
+
+- [ ] [users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/KutnerData/Chapter  6 Data Sets/CH06PR15.txt](http://users.stat.ufl.edu/~rrandles/sta4210/Rclassnotes/data/textdatasets/KutnerData/Chapter%20%206%20Data%20Sets/CH06PR15.txt)
+
+- [ ] [习近平在中央政治局第十八次集体学习时强调 把区块链作为核心技术自主创新重要突破口 加快推动区块链技术和产业创新发展-新华网](http://www.xinhuanet.com/2019-10/25/c_1125153665.htm)
+
+- [ ] [Kata Stats: Prisoner's Dilemma | Codewars](https://www.codewars.com/kata/5943f7bdd18815170e000137)
+
+- [ ] [prisoner dilemma python - Google Search](https://www.google.com/search?q=prisoner+dilemma+python&oq=prisoner+dilemma+python&aqs=chrome..69i57j0l5.15600j1j9&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Scatter plot matrix and correlation matrix and its interpretation - Google Search](https://www.google.com/search?q=Scatter+plot+matrix+and+correlation+matrix+and+its+interpretation&oq=Scatter+plot+matrix+and+correlation+matrix+and+its+interpretation&aqs=chrome..69i57j69i64.8494j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [scatter plot matrix and correlation matrix r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR5b6aU58ZC_4GvPmfjUYxAob9fOg%3A1572359313775&ei=kUy4Xfv-LonU0gTl2ZrYDg&q=scatter+plot+matrix+and+correlation+matrix+r&oq=Scatter+plot+matrix+and+correlation+matrix+r&gs_l=psy-ab.1.0.33i299.10178.10366..11822...0.2..0.231.383.0j1j1......0....1..gws-wiz.......0i71j0i22i30.nXt4YOgPCmo)
+
+- [ ] [medium.com](https://medium.com/thinking-is-hard/a-prisoners-dilemma-cheat-sheet-4d85fe289d87)
+
+- [ ] [](https://pypi.org/project/Axelrod/)
+
+- [ ] [Prisoner Dilemma | Python Fiddle](http://pythonfiddle.com/prisoner-dilemma/)
+
+- [ ] [Scatterplot Matrices | R-bloggers](https://www.r-bloggers.com/scatterplot-matrices/)
+
+- [ ] [Welcome to the documentation for the Axelrod Python library — Axelrod 0.0.1 documentation](https://axelrod.readthedocs.io/en/stable/)
+
+- [ ] [Winning the prisoner's dilemma : learnpython](https://www.reddit.com/r/learnpython/comments/1urk8g/winning_the_prisoners_dilemma/)
+
+- [ ] [performance - Prisoner's Dilemma Algorithm - Stack Overflow](https://stackoverflow.com/questions/126737/prisoners-dilemma-algorithm)
+
+- [ ] [Prisoner's Dilemma in Python - Stack Overflow](https://stackoverflow.com/questions/47889310/prisoners-dilemma-in-python)
+
+- [ ] [python - Random run through of Prisoner's Dilemma, but doesn't run - Stack Overflow](https://stackoverflow.com/questions/40385891/random-run-through-of-prisoners-dilemma-but-doesnt-run)
+
+- [ ] [Prison Escape - Solving Prisoner’s Dilemma with Machine Learning](https://towardsdatascience.com/prison-escape-solving-prisoners-dilemma-with-machine-learning-c194600b0b71)
+
+- [ ] [](https://trinket.io/python/7c9b7b7348)
+
+- [ ] [HW3: Spatial](http://bytes.usc.edu/cs585/f19_AGI1ml04Us/hw/HW3/index.html)
+
+- [ ] [An iterated prisoners dilemma on github](https://vknight.org/unpeudemath/code/2015/02/20/an-iterated-prisoners-dilemma-on-github.html)
+
+- [ ] [A real-time fluorometric method for the simultaneous detection of cell death type and rate r code - Google Search](https://www.google.com/search?q=A+real-time+fluorometric+method+for+the+simultaneous+detection+of+cell+death+type+and+rate+r+code&oq=A+real-time+fluorometric+method+for+the+simultaneous+detection+of+cell+death+type+and+rate++r+code&aqs=chrome..69i57j69i64l3.3626j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [applied linear regression models 4th edition type:djuv - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSwgvXzIYxFBUnOLIsLbqCu5-_6wg%3A1572183541852&ei=9Z21Xc7YM7-Gr7wP54W74Ac&q=applied+linear+regression+models+4th+edition+type%3Adjuv&oq=applied+linear+regression+models+4th+edition+type%3Adjuv&gs_l=psy-ab.3...455325.460495..460912...0.2..0.601.4698.3-3j3j4....2..0....1..gws-wiz.......0i71j35i39j0j33i22i29i30j33i160j33i299._IVtKHuzXwQ&ved=0ahUKEwiOp6KMyLzlAhU_w4sBHefCDnwQ4dUDCAs&uact=5)
+
+- [ ] [combine quater and year as time series in r - Google Search](https://www.google.com/search?q=combine+quater+and+year+as+time+series+in+r&oq=combine+quater+and+year+as+time+series+in+r&aqs=chrome..69i57.16262j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Google Image Result for https://www.spiedigitallibrary.org/ContentImages/Proceedings/10836/1083626/FigureImages/00080_PSISDG10836_1083626_page_6_1.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.spiedigitallibrary.org%2FContentImages%2FProceedings%2F10836%2F1083626%2FFigureImages%2F00080_PSISDG10836_1083626_page_6_1.jpg&imgrefurl=https%3A%2F%2Fwww.spiedigitallibrary.org%2Fconference-proceedings-of-spie%2F10836%2F1083626%2FNetwork-traffic-prediction-platform-based-on-distributed-stream-processing-and%2F10.1117%2F12.2514036.full&tbnid=f6H4cqZnoaCBFM&vet=12ahUKEwifqNmp2rvlAhUL9pQKHbbkCJYQMygIegUIARDhAQ..i&docid=OXee_FdfoVtQjM&w=518&h=386&q=traffic%20data%20armia%20prediction%20r&ved=2ahUKEwifqNmp2rvlAhUL9pQKHbbkCJYQMygIegUIARDhAQ)
+
+- [ ] [https://www.google.com/search?q=Aaron+Wright&oq=Aaron+Wright&aqs=chrome..69i57j69i64j69i65&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=Aaron+Wright&oq=Aaron+Wright&aqs=chrome..69i57j69i64j69i65&sourceid=chrome&ie=UTF-8)
+
+- [ ] [is mit technology review worth it - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTaxLggDFVvUgEstxuCwXk2eyKcWQ:1572159802851&q=is+mit+technology+review+worth+it&sa=X&ved=2ahUKEwjF0tDU77vlAhWJJaYKHUb8CnEQ1QIoAnoECGEQAw)
+
+- [ ] [mit technology review 50 smartest companies 2019 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTaxLggDFVvUgEstxuCwXk2eyKcWQ:1572159802851&q=mit+technology+review+50+smartest+companies+2019&sa=X&ved=2ahUKEwjF0tDU77vlAhWJJaYKHUb8CnEQ1QIoB3oECGEQCA)
+
+- [ ] [pandas.melt - Google Search](https://www.google.com/search?q=pandas.melt&newwindow=1&sxsrf=ACYBGNRxhFoRq031E13pS3YpUHKfrTzHtw:1572162338028&source=lnt&tbs=lr:lang_1en%7Clang_1fr%7Clang_1ja&lr=lang_en%7Clang_fr%7Clang_ja&sa=X&ved=0ahUKEwiZx7-N-bvlAhVRy4sBHQ5ZDkYQpwUIKQ&biw=1920&bih=989)
+
+- [ ] [Philip G. Breen - Google Search](https://www.google.com/search?q=Philip+G.+Breen&oq=Philip+G.+Breen&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [r kegel analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTMzGQI3SqVtkkATbvaWAdkbCRXOw%3A1572183876137&ei=RJ-1XfD_B43_0gTZ7Jv4Ag&q=r+kegel+analysis&oq=r+kegel+analysis&gs_l=psy-ab.3..0i71l8.33114.33114..33727...0.2..0.0.0.......0....1..gws-wiz.wa7BkulLHFo&ved=0ahUKEwjwsdWrybzlAhWNv5QKHVn2Bi8Q4dUDCAs&uact=5)
+
+- [ ] [r kegg analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTMzGQI3SqVtkkATbvaWAdkbCRXOw:1572183876137&q=r+kegg+analysis&spell=1&sa=X&ved=0ahUKEwjwsdWrybzlAhWNv5QKHVn2Bi8QBQguKAA)
+
+- [ ] [Simon Portegies Zwart - Google Search](https://www.google.com/search?q=Simon+Portegies+Zwart&oq=Simon+Portegies+Zwart&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [SocialQube - Google Search](https://www.google.com/search?q=SocialQube&oq=SocialQube&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [three body problem neural network mit review - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQY0G_G0CgiDz116BhW3MlRwOdwEQ%3A1572159773426&ei=HUG1Xe3SGYqImAXimrSgBA&q=three+body+problem++neural+network+mit+review&oq=three+body+problem++neural+network+mit+review&gs_l=psy-ab.3...18200.27607..27725...2.1..0.413.4020.24j11j1j0j1......0....1..gws-wiz.......0i71j0i67j0i7i30j0j0i7i10i30j0i8i7i30j0i13j0i13i5i30j0i8i13i30.0qwKqfUGRfY&ved=0ahUKEwit1czG77vlAhUKBKYKHWINDUQQ4dUDCAs&uact=5)
+
+- [ ] [Tjarda Boekholt - Google Search](https://www.google.com/search?q=Tjarda+Boekholt&oq=Tjarda+Boekholt&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [traffic data armia prediction r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxqD67pqFhvBU0RIP3RMX6DIcfJQ:1572154056582&q=traffic+data+armia+prediction+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwjZhcyg2rvlAhXrGKYKHfwOAowQsAR6BAgFEAE)
+
+- [ ] [traffic data armia preidction r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgvhj_I2q6yTt3e4LRih3yZIxwQ%3A1572154049875&ei=wSq1Xdv-NLeRr7wP_Z26oA0&q=traffic+data+armia+preidction+r&oq=traffic+data+armia+preidction+r&gs_l=psy-ab.3..33i10i299l3j33i10i160.1097.1736..3345...0.2..0.848.1238.3-1j6-1......0....1..gws-wiz.......0i71.WWW8uG0-82E&ved=0ahUKEwib47Kd2rvlAhW3yIsBHf2ODtQQ4dUDCAs&uact=5)
+
+- [ ] [translate Genscript into r language - Google Search](https://www.google.com/search?q=translate+Genscript+into+r+language&oq=translate+Genscript+into+r+language&aqs=chrome..69i57j69i64l2.8701j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?q=Li+Wei%2C+head+of+the+People%E2%80%99s+Bank+of+China%E2%80%99s+technology+department&oq=Li+Wei%2C+head+of+the+People%E2%80%99s+Bank+of+China%E2%80%99s+technology+department&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Modal-based estimation via heterogeneity-penalized weighting: model averaging for consistent and efficient estimation in Mendelian randomization when a plurality of candidate instruments are valid | International Journal of Epidemiology | Oxford Academic](https://academic.oup.com/ije/article/47/4/1242/5011821)
+
+- [ ] [COMP329: 2017-2018 Robotics and Autonomous Systems](https://cgi.csc.liv.ac.uk/~trp/COMP329.html)
+
+- [ ] [Algorithms and Data Structures - COMP225 - 2017 Course Handbook - Macquarie University](http://handbook.mq.edu.au/2017/Units/UGUnit/COMP225)
+
+- [ ] [Object-Oriented Programming Practices - COMP229 - 2017 Course Handbook - Macquarie University](http://handbook.mq.edu.au/2017/Units/UGUnit/COMP229)
+
+- [ ] [Web Technology - COMP249 - 2017 Course Handbook - Macquarie University](http://handbook.mq.edu.au/2017/Units/UGUnit/COMP249)
+
+- [ ] [Unit Guide](https://unitguides.mq.edu.au/unit_offerings/72571/unit_guide#assessment_task_163333)
+
+- [ ] [Unit Guide](https://unitguides.mq.edu.au/unit_offerings/72571/unit_guide#assessment_task_163338)
+
+- [ ] [Unit Guide](https://unitguides.mq.edu.au/unit_offerings/72571/unit_guide#assessment_task_163339)
+
+- [ ] [Unit Guide](https://unitguides.mq.edu.au/unit_offerings/72571/unit_guide#assessment_task_163343)
+
+- [ ] [Unit Guide](https://unitguides.mq.edu.au/unit_offerings/72571/unit_guide#assessment_task_163348)
+
+- [ ] [Unit Guide](https://unitguides.mq.edu.au/unit_offerings/72571/unit_guide#assessment_task_163355)
+
+- [ ] [Unit Guide](https://unitguides.mq.edu.au/unit_offerings/72571/unit_guide#assessment_task_163362)
+
+- [ ] [Report_Template - Google Docs](https://docs.google.com/document/d/1MF_mv_WOpsp-QeffEYYQV2fe5dh8eQHOopiKvDM-xtk/edit#heading=h.gjdgxs)
+
+- [ ] [PDF Viewer Online](http://pdfviewer.softgateon.net/?state=%7B%22ids%22:%5B%221L0mEMW-NVRzQIgaMnXcis5acuUZSm-N1%22%5D,%22action%22:%22open%22,%22userId%22:%22105018216518425778042%22%7D)
+
+- [ ] [Abhaya Nayak - Google Search](https://www.google.com/search?q=Abhaya+Nayak&oq=Abhaya+Nayak&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Rolf Schwitter - Google Search](https://www.google.com/search?q=Rolf+Schwitter&oq=Rolf+Schwitter&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Semester 2: Comp333, Comp329 or Meco319? : MacUni](https://www.reddit.com/r/MacUni/comments/84lnhj/semester_2_comp333_comp329_or_meco319/)
+
+- [ ] [COMP329: ROBOTICS AND AUTONOMOUS SYSTEMS | University of Liverpool](https://liverpool.rl.talis.com/modules/comp329.html)
+
+- [ ] [Inferring Causal Relationships between Risk Factors and Outcomes Using Genetic Variation - Handbook of Statistical Genomics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119487845.ch23)
+
+- [ ] [Author Page for Aaron Wright :: SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2373233)
+
+- [ ] [Downloads](chrome://downloads/)
+
+- [ ] [Blockchain Marketing - oneQube](https://oneqube.com/blockchain-marketing/)
+
+- [ ] [Blog - oneQube](https://oneqube.com/blog/)
+
+- [ ] [Contact us - oneQube](https://oneqube.com/contact-us/)
+
+- [ ] [Contact us - oneQube](https://oneqube.com/contact-us/)
+
+- [ ] [oneQube | Digital Audience Development & Marketing Platform](https://oneqube.com/)
+
+- [ ] [What is oneQube - oneQube](https://oneqube.com/what-is-oneqube/)
+
+- [ ] [conduct the lack of fit test r - Google Search](https://www.google.com/search?q=conduct+the+lack+of+fit+test+r&oq=conduct+the+lack+of+fit+test+r&aqs=chrome..69i57j0.10557j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [newonlinecourses.science.psu.edu](https://newonlinecourses.science.psu.edu/stat501/lesson/2/2.11)
+
+- [ ] [stat.rutgers.edu/home/yhung/HW586/review 586/06.03_LOF.html](http://stat.rutgers.edu/home/yhung/HW586/review%20586/06.03_LOF.html)
+
+- [ ] [statistics - Using R for lack-of-fit test - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2140676/using-r-for-lack-of-fit-test)
+
+- [ ] [regression - Whats the relationship between $R^2$ and F-Test? - Cross Validated](https://stats.stackexchange.com/questions/56881/whats-the-relationship-between-r2-and-f-test)
+
+- [ ] [chi squared - How can I compute Pearson's $\chi^2$ test statistic for lack of fit on a logistic regression model in R? - Cross Validated](https://stats.stackexchange.com/questions/29653/how-can-i-compute-pearsons-chi2-test-statistic-for-lack-of-fit-on-a-logisti)
+
+- [ ] [regression - Lack of fit and Pure error - Cross Validated](https://stats.stackexchange.com/questions/99989/lack-of-fit-and-pure-error)
+
+- [ ] [regression - F-test for lack of fit using R - Cross Validated](https://stats.stackexchange.com/questions/40884/f-test-for-lack-of-fit-using-r)
+
+- [ ] [Using R for lack-of-fit F-test - Stack Overflow](https://stackoverflow.com/questions/45364277/using-r-for-lack-of-fit-f-test)
+
+- [ ] [@EliaMssawir/Best Startup Specialists on Twitter / Twitter](https://twitter.com/EliaMssawir/lists/best-startup-specialists)
+
+- [ ] [(1) ☠l̶̫͚̍̃͊́͐e̷̛̊́x̸-̴́̿n̷̛̜̣̥͛̋͛̓ǒ̶̾̿̒͂̈́̍d̸͛̔̀̽ë̵́☠ (@lex_node) / Twitter](https://twitter.com/lex_node)
+
+- [ ] [(1) Bruno Rodrigues (@brodriguesco) / Twitter](https://twitter.com/brodriguesco/)
+
+- [ ] [(1) Paul Kedrosky on Twitter: "More people died from higher post-Fukushima power prices than from the accident itself: power consumption was reduced in cold weather, causing higher mortality. Be Cautious with the Precautionary Principle: Evidence from Fukushima Daiichi Nuclear Accident https://t.co/DTKME1XykA https://t.co/XrtPNH8yXG" / Twitter](https://twitter.com/pkedrosky/status/1188212009583562754)
+
+- [ ] [(1) WeThePeeps (@WeThePeeps_us) / Twitter](https://twitter.com/wethepeeps_us)
+
+- [ ] [(1) Wikia, Inc. (@wikia) / Twitter](https://twitter.com/Wikia)
+
+- [ ] [ZJ (@evalparse) / Twitter](https://twitter.com/evalparse)
+
+- [ ] [Lewis Cohen (@NYcryptolawyer) / Twitter](https://twitter.com/NYcryptolawyer)
+
+- [ ] [Max Kuhn (@topepos) / Twitter](https://twitter.com/topepos)
+
+- [ ] [mikefc (@coolbutuseless) / Twitter](https://twitter.com/coolbutuseless)
+
+- [ ] [OpenLaw (@OpenLawOfficial) / Twitter](https://twitter.com/OpenLawOfficial)
+
+- [ ] [RdataLu (@rdata_lu) / Twitter](https://twitter.com/rdata_lu)
+
+- [ ] [Thinklab (@Thinklab) / Twitter](https://twitter.com/thinklab)
+
+- [ ] [tj nightmahr 🎃🍕 (@tjmahr) / Twitter](https://twitter.com/tjmahr)
+
+- [ ] [www.google.com](https://www.google.com/search?q=Co-Evolution%20and%20Spatial%20Interaction)
