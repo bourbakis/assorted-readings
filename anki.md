@@ -1,5 +1,7 @@
 ##  [Why Republic Venie so successful](https://www.quora.com/Why-was-the-Republic-of-Venice-so-successful-for-such-a-long-time-despite-being-a-small-country-neighboring-the-Austrian-behemoth)
 
+
+
 Why was the Republic of Venice so successful for such a long time despite being a small country neighboring the Austrian behemoth?
 
 There were four key factors:
@@ -33,3 +35,11 @@ In mathematics, a manifold is a topological space that locally resembles Euclide
 # 10/27/2019
 
 As always, inferential thinking begins with a careful examination of the assumptions about the data. Sets of assumptions are known as models. Sets of assumptions about randomness in roughly linear scatter plots are called regression models.
+
+
+
+## 10/31/2019
+
+- [ ] What is "computation". Give a working general definition of "computing".
+
+

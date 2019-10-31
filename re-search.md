@@ -1307,3 +1307,40 @@ https://ragrawal.wordpress.com/2014/12/29/rejection-sampling-intuitive-understan
 - [ ] [normal mxiture posterier r - Google Search](https://www.google.com/search?q=normal+mxiture+posterier+r&oq=normal+mxiture+posterier+r&aqs=chrome..69i57j69i64.13740j0j1&sourceid=chrome&ie=UTF-8)
 
 - [ ] [poster density of normal mixture - Google Search](https://www.google.com/search?q=poster+density+of+normal+mixture&oq=poster+density+of+normal+mixture&aqs=chrome..69i57j33.11773j1j1&sourceid=chrome&ie=UTF-8)
+
+
+## 10/31/2019
+
+how to control the sytle of code chunk in r - Google Search
+https://www.google.com/search?client=firefox-b-d&q=how+to+control+the+sytle+of+code+chunk+in+r
+
+r markdown latex table - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNT1RyMKXk5hHzo6Ord7IK3aSJqMqw%3A1572489266680&lei=Mki6XfGSKZ6-0PEP19ieyAQ&q=r%20markdown%20latex%20table&ved=2ahUKEwj0jviQu8XlAhUIIDQIHcGUBC8QsKwBKAB6BAgAEAE
+
+kable padding - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNT1RyMKXk5hHzo6Ord7IK3aSJqMqw%3A1572489266680&lei=Mki6XfGSKZ6-0PEP19ieyAQ&q=kable%20padding&ved=2ahUKEwj0jviQu8XlAhUIIDQIHcGUBC8QsKwBKAJ6BAgAEAM
+
+kabel extra - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNT1RyMKXk5hHzo6Ord7IK3aSJqMqw%3A1572489266680&lei=Mki6XfGSKZ6-0PEP19ieyAQ&q=kabel%20extra&ved=2ahUKEwj0jviQu8XlAhUIIDQIHcGUBC8QsKwBKAR6BAgAEAU
+
+jgm/pandoc-templates: Templates for pandoc, tagged to release
+https://github.com/jgm/pandoc-templates
+
+Re-creating a Voronoi-Style Map with R | Tony ElHabr
+https://tonyelhabr.rbind.io/post/recreate-voronoi-map-r/
+
+The Ultimate Guide to Writing & Publishing with Markdown
+https://ghost.org/blog/markdown/
+
+My Drive - Google Drive
+https://drive.google.com/drive/u/0/my-drive
+
+v.2_twoColumnSet_ーガー"SG 施エマニュアル1028 - Google Docs
+https://docs.google.com/document/d/17tHO8Iiq6XF-1NNnRXPN3uPVmxHh2vt6QsypYIhb0Tc/edit
+
+Priority - Google Drive
+https://drive.google.com/drive/u/2/priority
+
+insert implied symbol - Google Search
+https://www.google.com/search?client=firefox-b-d&q=insert+implied+symbol
+

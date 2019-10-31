@@ -3843,3 +3843,98 @@ https://www.ted.com/talks/paul_collier_s_new_rules_for_rebuilding_a_broken_natio
 - [ ] [tj nightmahr 🎃🍕 (@tjmahr) / Twitter](https://twitter.com/tjmahr)
 
 - [ ] [www.google.com](https://www.google.com/search?q=Co-Evolution%20and%20Spatial%20Interaction)
+
+
+Google Translate
+https://translate.google.com/#view=home&op=translate&sl=ja&tl=zh-CN&text=%E4%BD%86%E3%81%97%E3%80%81%E7%9B%AE%E5%9C%B0%E3%81%AE%E7%8A%B6%E6%85%8B%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E3%81%AF%E5%9D%87%E3%83%BC%E3%81%AA%E6%BF%A1%E3%82%8C%E8%89%B2%E3%81%AB%E3%81%AF%E3%81%AA%E3%82%89%E3%81%9A%E3%80%81%E3%83%A0%E3%83%A9%E3%81%8C%E6%AE%8B%E3%81%A3%E3%81%9F%E3%81%BE%E3%81%BE%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82
+
+在线翻译_有道
+http://fanyi.youdao.com/
+
+CBR Reader - the most popular comic book reader
+https://www.cdisplayex.com/
+
+Edge.org
+https://www.edge.org/responses/what-is-your-favorite-deep-elegant-or-beautiful-explanation
+
+Chicken game | Economics | FANDOM powered by Wikia
+https://economics.fandom.com/wiki/Chicken_game
+
+Game Playing in Artificial Intelligence - GeeksforGeeks
+https://www.geeksforgeeks.org/game-playing-in-artificial-intelligence/
+
+AI/csp at master · georgosgeorgos/AI
+https://github.com/georgosgeorgos/AI/tree/master/csp
+
+gzachos/ai-course-uoi: Project for the Artificial Intelligence course @cse.uoi.gr
+https://github.com/gzachos/ai-course-uoi
+
+kutlay/AI-Algorithms: Collection of artificial intelligence algorithms in Python. Artificial Intelligence, Spring 2019, New College of Florida
+https://github.com/kutlay/AI-Algorithms
+
+Artificial_Intelligence/AI_Game_Playing_Algorithm at master · shivneshr/Artificial_Intelligence
+https://github.com/shivneshr/Artificial_Intelligence/tree/master/AI_Game_Playing_Algorithm
+
+Axelrod-Python/AxelrodExamples: Analysis and examples for the Axelrod-Python library
+https://github.com/Axelrod-Python/AxelrodExamples
+
+ーガー"SG 施エマニュアル - Google Docs
+https://docs.google.com/document/d/1PGAmoD8K_Ff5yxhembtQFThEzuJzL5pZz4wT4igjAfk/edit#heading=h.piy8tjulomv1
+
+表格翻译_ーガー"SG 施エマニュアル - Google Docs
+https://docs.google.com/document/d/1pEPtBiOCbheYLXEGn6lQbYGYZhEsdmdDUwX27MprQYQ/edit#
+
+天补公司部门指标库 - Google Sheets
+https://docs.google.com/spreadsheets/d/1YcVk5sRsq1bimpZFFZc5qaxBQUUZRFE2j4r95AXdlhs/edit#gid=2135512806
+
+日文 引号 - Google Search
+https://www.google.com/search?client=firefox-b-d&q=%E6%97%A5%E6%96%87+%E5%BC%95%E5%8F%B7
+
+Game of Chicken game theory - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Game+of+Chicken+game+theory
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=27&cad=rja&uact=8&ved=2ahUKEwiHw9a998LlAhXLpJ4KHfzYAtoQFjAaegQISBAC&url=http%3A%2F%2Fpeople.math.umass.edu%2F~lr7q%2Fps_files%2Fteaching%2Fmath456%2FWeek8.pdf&usg=AOvVaw0HbGmICYIXAFv8o1tHkI8l
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=27&cad=rja&uact=8&ved=2ahUKEwiHw9a998LlAhXLpJ4KHfzYAtoQFjAaegQISBAC&url=http%3A%2F%2Fpeople.math.umass.edu%2F~lr7q%2Fps_files%2Fteaching%2Fmath456%2FWeek8.pdf&usg=AOvVaw0HbGmICYIXAFv8o1tHkI8l
+
+playing iterated prison game of memory depth 3 in the context of genetic algorithm - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNSelpFypieRJoFtRPxOXFrJLLkJyw%3A1572402620366&ei=vPW4XZeKFpD1-gSCyJvoAg&q=playing+iterated+prison+game+of+memory+depth+3+in+the+context+of+genetic+algorithm&oq=playing+iterated+prison+game+of+memory+depth+3+in+the+context+of+genetic+algorithm&gs_l=psy-ab.3...20614.31186..31688...2.3..1.1655.7811.1j5-1j4j2j1......0....1..gws-wiz.......0i71j35i39.C8pnmjxhUlc&ved=0ahUKEwiX2IWd-MLlAhWQup4KHQLkBi0Q4dUDCAo&uact=5
+
+a strategy for iterated game of chicken - Google Search
+https://www.google.com/search?client=firefox-b-d&q=a+strategy+for+iterated+game+of+chicken
+
+Priority - Google Drive
+https://drive.google.com/drive/u/2/priority
+
+Report_Template - Google Docs
+https://docs.google.com/document/d/1MF_mv_WOpsp-QeffEYYQV2fe5dh8eQHOopiKvDM-xtk/edit#heading=h.gjdgxs
+
+difference betewn chicken game v..s prison dilmma - Google Search
+https://www.google.com/search?client=firefox-b-d&q=difference+betewn+chicken+game+v..s+prison+dilmma
+
+Suppose we want to represent strategies for playing iterated prison dillema of memory depth 3 inthe context of GA. How many bits shall we need to represent the individuals,and why? - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNR6D5JREtn1e4kTNqT9kTG0GFG25Q%3A1572413083143&ei=mx65Xay5CJbB-gTglq2YBA&q=Suppose+we+want+to+represent+strategies+for+playing+iterated+prison+dillema+of+memory+depth+3+inthe+context+of+GA.+How+many+bits+shall+we+need+to+represent+the+individuals%2Cand+why%3F&oq=Suppose+we+want+to+represent+strategies+for+playing+iterated+prison+dillema+of+memory+depth+3+inthe+context+of+GA.+How+many+bits+shall+we+need+to+represent+the+individuals%2Cand+why%3F&gs_l=psy-ab.3..0i71l8.13651.32962..33240...0.3..1.0.0.......5....1..gws-wiz.G5rq7e6GnA0&ved=0ahUKEwjs8oqan8PlAhWWoJ4KHWBLC0MQ4dUDCAo&uact=5
+
+iterated prison delimma of memory depth 3 - Google Search
+https://www.google.com/search?client=firefox-b-d&q=iterated+prison+delimma+of+memory+depth+3
+
+Google Translate
+https://translate.google.com/#view=home&op=translate&sl=en&tl=zh-CN&text=chromosome
+
+The Game Theory of Blackmail - LessWrong 2.0
+https://www.lesswrong.com/posts/wm2rdS3sDY9M5kpWb/the-game-theory-of-blackmail
+
+In Logical Time, All Games are Iterated Games - LessWrong 2.0
+https://www.lesswrong.com/posts/dKAJqBDZRMMsaaYo5/in-logical-time-all-games-are-iterated-games
+
+An iterated hawk-and-dove game | SpringerLink
+https://link.springer.com/chapter/10.1007/BFb0055028
+
+game theory - How is prisoner's dilemma different from chicken? - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/645/how-is-prisoners-dilemma-different-from-chicken
+
+Game Theory - Area 51 - Stack Exchange
+https://area51.stackexchange.com/proposals/47845/game-theory?referrer=MGta8a5T8SlJlb1swuXPYQ2
+
+Chicken (game) - Wikipedia
+https://en.wikipedia.org/wiki/Chicken_(game)
+
