@@ -1587,3 +1587,138 @@ http://libgen.is/search.php?&req=probability+game&phrase=1&view=simple&column=de
 - [ ] [Library Genesis: Shaun Hargreaves-Heap, Yanis Varoufakis - Game Theory: A Critical Introduction](http://libgen.is/book/index.php?md5=0A73B1EC77A812003F21DB046F10CF75)
 
 - [ ] [Library Genesis: Shaun Hargreaves-Heap, Yanis Varoufakis - Game theory: a critical text](http://libgen.is/book/index.php?md5=8A43E40918500DCF9D08778F4877749C)
+
+
+
+
+
+## 11/2/2019
+
+- [ ] [The best books on Learning from the Great Depression | A Five Books interview](https://fivebooks.com/best-books/learning-from-the-great-depression/)
+
+- [ ] [Best Books of 2019 | Five Books Expert Recommendations](https://fivebooks.com/books/best-books-of-2019/)
+
+- [ ] [Book Awards | Five Books Expert Recommendations](https://fivebooks.com/books/book-awards/)
+
+- [ ] [Books that Inspired a Liberal Economist | Paul Krugman on Five Books](https://fivebooks.com/best-books/paul-krugman-readinglist/)
+
+- [ ] [Books that Show Economics is Fun | Five Books Expert Recommendations](https://fivebooks.com/best-books/economics-fun-daniel-hamermesh/)
+
+- [ ] [Economic Theory and the Financial Crisis: A Reading List | Five Books Expert Recommendations](https://fivebooks.com/best-books/economic-theory-financial-crisis-eric-maskin/)
+
+- [ ] [New Books | Five Books Expert Recommendations](https://fivebooks.com/new-books/)
+
+- [ ] [The Best Adam Smith Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/)
+
+- [ ] [The Best Audiobooks | Five Books Expert Recommendations](https://fivebooks.com/category/audiobooks/)
+
+- [ ] [The Best Audiobooks | Five Books Expert Recommendations](https://fivebooks.com/category/audiobooks/)
+
+- [ ] [The Best Books on An Economic Historian's Favourite Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/peter-temin-favourite-books/)
+
+- [ ] [The Best Books on Austrian Economics | Five Books Expert Recommendations](https://fivebooks.com/best-books/peter-boetkke-on-austrian-economics/)
+
+- [ ] [The Best Books on Economics for Teenagers (Ages 10+) | Five Books Expert Recommendations](https://fivebooks.com/best-books/yana-van-der-meulen-rodgers-on-economics-for-teenagers/)
+
+- [ ] [The Best Books on Economics, the Soulful Science | Five Books Expert Recommendations](https://fivebooks.com/best-books/diane-coyle-economics-soulful-science/)
+
+- [ ] [The Best Books on Futures | Five Books Expert Recommendations](https://fivebooks.com/best-books/andrew-curry-futures/)
+
+- [ ] [The Best Books on Game Theory | Five Books Expert Recommendations](https://fivebooks.com/best-books/ariel-rubinstein-on-game-theory/)
+
+- [ ] [The Best Books on John Maynard Keynes | Five Books Expert Recommendations](https://fivebooks.com/best-books/robert-skidelsky-keynes/)
+
+
+
+
+
+
+
+
+
+
+## 11/2/2019
+
+- [ ] [The Best Books on Congress | Five Books Expert Recommendations](https://fivebooks.com/best-books/congress-julian-zelizer/)
+
+- [ ] []()
+
+- [ ] [The Best Books on American History | Five Books Expert Recommendations](https://fivebooks.com/best-books/american-history-brent-glass/)
+
+- [ ] [The best books on the History of American Women | Five Books interview](https://fivebooks.com/best-books/jay-kleinberg-on-the-history-of-american-women/)
+
+- [ ] [The Best Books on The Rise and Fall of America | Five Books Expert Recommendations](https://fivebooks.com/best-books/dr-patrick-porter-on-the-rise-and-fall-of-america/)
+
+- [ ] [The Best Books on The US Constitution | Five Books Expert Recommendations](https://fivebooks.com/best-books/jack-rakove-on-the-us-constitution/)
+
+- [ ] [The Best Books on American Imperialism | Five Books Expert Recommendations](https://fivebooks.com/best-books/american-imperialism-ag-hopkins/)
+
+- [ ] [The Best Speeches of all Time | Five Books](https://fivebooks.com/best-books/clarence-b-jones-best-speeches-of-all-time/)
+
+- [ ] [The Best Books on American Presidents | Five Books Expert Recommendations](https://fivebooks.com/best-books/h-w-brands-on-american-presidents/)
+
+- [ ] []()
+
+- [ ] [The Best Books about First Ladies | Five Books Expert Recommendations](https://fivebooks.com/best-books/first-ladies-carl-sferrazza-anthony/)
+
+- [ ] [What ended the Great Depression? (NBER working papers series): Christina Romer: Amazon.com: Books](https://www.amazon.com/dp/B0006DDXM8/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [The Best Books on 9/11 | Five Books Expert Recommendations](https://fivebooks.com/best-books/yosri-fouda-on-911/)
+
+- [ ] [The Best Books on The Reagan Era | Five Books Expert Recommendations](https://fivebooks.com/best-books/doug-rossinow-reagan-era/)
+
+- [ ] [The End of One Big Deflation | Five Books Expert Reviews](https://fivebooks.com/book/end-one-big-deflation/)
+
+- [ ] [Best Books of 2019 | Five Books Expert Recommendations](https://fivebooks.com/books/best-books-of-2019/)
+
+- [ ] [Book Awards | Five Books Expert Recommendations](https://fivebooks.com/books/book-awards/)
+
+- [ ] [Books that Inspired a Liberal Economist | Paul Krugman on Five Books](https://fivebooks.com/best-books/paul-krugman-readinglist/)
+
+- [ ] [Books that Show Economics is Fun | Five Books Expert Recommendations](https://fivebooks.com/best-books/economics-fun-daniel-hamermesh/)
+
+- [ ] [Economic Theory and the Financial Crisis: A Reading List | Five Books Expert Recommendations](https://fivebooks.com/best-books/economic-theory-financial-crisis-eric-maskin/)
+
+- [ ] [New Books | Five Books Expert Recommendations](https://fivebooks.com/new-books/)
+
+- [ ] [The Best Adam Smith Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/)
+
+- [ ] [The Best Audiobooks | Five Books Expert Recommendations](https://fivebooks.com/category/audiobooks/)
+
+- [ ] [The Best Audiobooks | Five Books Expert Recommendations](https://fivebooks.com/category/audiobooks/)
+
+- [ ] [The Best Books on An Economic Historian's Favourite Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/peter-temin-favourite-books/)
+
+- [ ] [The Best Books on Austrian Economics | Five Books Expert Recommendations](https://fivebooks.com/best-books/peter-boetkke-on-austrian-economics/)
+
+- [ ] [The Best Books on Economics for Teenagers (Ages 10+) | Five Books Expert Recommendations](https://fivebooks.com/best-books/yana-van-der-meulen-rodgers-on-economics-for-teenagers/)
+
+- [ ] [The Best Books on Economics, the Soulful Science | Five Books Expert Recommendations](https://fivebooks.com/best-books/diane-coyle-economics-soulful-science/)
+
+- [ ] [The Best Books on Futures | Five Books Expert Recommendations](https://fivebooks.com/best-books/andrew-curry-futures/)
+
+- [ ] [Experts we've interviewed for book recommendations, listed by discipline | Five Books](https://fivebooks.com/experts/)
+
+- [ ] [Best Modern British History Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/modern-british-history-andrew-hindmoor/)
+
+- [ ] [The Best Books on Philosophy for Teens | Five Books Expert Recommendations](https://fivebooks.com/best-books/philosophy-for-teens-andrew-brower-latz/)
+
+- [ ] [The Best Books on Napoleon | Five Books Expert Recommendations](https://fivebooks.com/best-books/napoleon-andrew-roberts/)
+
+- [ ] [The best books on Learning from the Great Depression | A Five Books interview](https://fivebooks.com/best-books/learning-from-the-great-depression/)
+
+- [ ] [Economics Books | Five Books Expert Recommendations](https://fivebooks.com/category/economics/)
+
+- [ ] [The Best Board Games | Five Books Editors' Recommendations](https://fivebooks.com/gift-list/the-best-board-games/)
+
+- [ ] [The Best Philosophy Books | Five Books Expert Recommendations](https://fivebooks.com/category/philosophy/)
+
+- [ ] [Math Books & Statistics Books | Five Books Expert Recommendations](https://fivebooks.com/category/mathematics-and-science/maths-statistics/)
+
+- [ ] [The Best Sherlock Holmes Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/sherlock-holmes-michael-dirda/)
+
+- [ ] [The Best Agatha Christie Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/agatha-christie-mathew-prichard/)
+
+- [ ] [The Best Books on Computer Science and Programming | Five Books Expert Recommendations](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
+
+- [ ] [The Best Books on Ancient Greece | Five Books Expert Recommendations](https://fivebooks.com/best-books/ancient-greece-christopher-pelling/)
