@@ -339,3 +339,23 @@ https://en.wikipedia.org/wiki/Economic_inequality
 - [ ] [Sydney - Wikipedia](https://en.wikipedia.org/wiki/Sydney)
 
 - [ ] [Wiener process - Wikipedia](https://en.wikipedia.org/wiki/Wiener_process)
+
+
+
+## 11/2/2019
+
+- [ ] [Ad hominem - Wikipedia](https://en.wikipedia.org/wiki/Ad_hominem)
+
+- [ ] [Bounded rationality - Wikipedia](https://en.wikipedia.org/wiki/Bounded_rationality)
+
+- [ ] [Cognitive dissonance - Wikipedia](https://en.wikipedia.org/wiki/Cognitive_dissonance)
+
+- [ ] [Doug Guthrie - Wikipedia](https://en.wikipedia.org/wiki/Doug_Guthrie)
+
+- [ ] [File:Georgeevans.gif - Wikipedia](https://en.wikipedia.org/wiki/File:Georgeevans.gif)
+
+- [ ] [George Evans (cartoonist) - Wikipedia](https://en.wikipedia.org/wiki/George_Evans_(cartoonist))
+
+- [ ] [Space Shuttle Challenger disaster - Wikipedia](https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster)
+
+- [ ] [Wikipedia:No personal attacks - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:No_personal_attacks)

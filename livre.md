@@ -1785,3 +1785,24 @@ http://libgen.is/search.php?&req=probability+game&phrase=1&view=simple&column=de
 - [ ] [Truth About Markets: Why Some Countries Are Rich And Others Remain Poor: John Kay: 9780140296723: Amazon.com: Books](https://www.amazon.com/dp/0140296727/ref=as_at?tag=fivebooks001-20)
 
 - [ ] [www.amazon.com](https://www.amazon.com/dp/0072877308/ref=as_at?tag=fivebooks001-20)
+
+
+## 11/2/2019
+
+- [ ] [Best Economics Books for Kids | Five Books Expert Recommendations](https://fivebooks.com/best-books/economics-kids-yana-van-der-meulen-rodgers/)
+
+- [ ] [Economic Theory and the Financial Crisis: A Reading List | Five Books Expert Recommendations](https://fivebooks.com/best-books/economic-theory-financial-crisis-eric-maskin/)
+
+- [ ] [Economics Books | Five Books Expert Recommendations](https://fivebooks.com/category/economics/)
+
+- [ ] [Sophie Roell | Five Books](https://fivebooks.com/interviewer/sophie-roell/)
+
+- [ ] [The Best Books on Economics, the Soulful Science | Five Books Expert Recommendations](https://fivebooks.com/best-books/diane-coyle-economics-soulful-science/)
+
+- [ ] [The Best Books on Market Competition | Five Books Expert Recommendations](https://fivebooks.com/best-books/market-competition-jason-furman/)
+
+- [ ] [The Best Books on Rethinking Economics | Five Books Expert Recommendations](https://fivebooks.com/best-books/rethinking-economics/)
+
+- [ ] [The Best Books on Risk Management | Five Books Expert Recommendations](https://fivebooks.com/best-books/graciela-chichilnisky-on-risk-management/)
+
+- [ ] [The Best Books on Urban Economics | Five Books Expert Recommendations](https://fivebooks.com/best-books/best-books-urban-economics-edward-glaeser/)
