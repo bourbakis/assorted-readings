@@ -388,3 +388,42 @@ https://stackoverflow.com/questions/25104738/text-highlight-in-markdown
 jgm/pandoc: Universal markup converter
 https://github.com/jgm/pandoc
 
+
+
+
+
+## 11/2/2019
+
+- [ ] [Adding a curve to a scatter plot in R - Stack Overflow](https://stackoverflow.com/questions/21805183/adding-a-curve-to-a-scatter-plot-in-r)
+
+- [ ] [ggplot2 - R: Add a curve,with my own equation, to an x,y scatterplot - Stack Overflow](https://stackoverflow.com/questions/28969760/r-add-a-curve-with-my-own-equation-to-an-x-y-scatterplot)
+
+- [ ] [How to plot a function curve in R - Stack Overflow](https://stackoverflow.com/questions/26091323/how-to-plot-a-function-curve-in-r)
+
+- [ ] [r - curve() does not add curve to my plot when "add = TRUE" - Stack Overflow](https://stackoverflow.com/questions/37198445/curve-does-not-add-curve-to-my-plot-when-add-true)
+
+- [ ] [r - Draw more than one function curves in the same plot - Stack Overflow](https://stackoverflow.com/questions/4049674/draw-more-than-one-function-curves-in-the-same-plot)
+
+
+
+## 11/2/2019
+
+- [ ] [data visualization - How to interpret height of density plot - Cross Validated](https://stats.stackexchange.com/questions/147885/how-to-interpret-height-of-density-plot)
+
+- [ ] [ggplot kernel density - Google Search](https://www.google.com/search?q=ggplot+kernel+density&oq=ggplot+ker&aqs=chrome.0.0j69i57j0l10.4746j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Creating plots in R using ggplot2 - part 8: density plots](http://t-redactyl.io/blog/2016/03/creating-plots-in-r-using-ggplot2-part-8-density-plots.html)
+
+- [ ] [geom_density | ggplot2 | Plotly](https://plot.ly/ggplot2/geom_density/)
+
+- [ ] [add a curve to a plot in r - Google Search](https://www.google.com/search?q=add+a+curve+to+a+plot+in+r&oq=add+a+curve+to+&aqs=chrome.1.69i57j0l11.5777j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [R tutorials, R plots, plot(), plot function, curve(), draw curve to function](http://www.countbio.com/web_pages/left_object/R_for_biology/R_fundamentals/curve_to_function_R.html)
+
+- [ ] [R: Draw Function Plots](https://www.math.ucla.edu/~anderson/rw1001/library/base/html/curve.html)
+
+## 11/2/2019
+
+- [ ] [How to Make a Histogram with Basic R (article) - DataCamp](https://www.datacamp.com/community/tutorials/make-histogram-basic-r)
+
+- [ ] [ggplot2 package | R Documentation](https://www.rdocumentation.org/packages/ggplot2/versions/3.2.1)

@@ -212,3 +212,16 @@
 - [ ] [Best of Berkeley: Campus 2019 | The Daily Californian](https://www.dailycal.org/2019/04/18/best-of-berkeley-campus/)
 
 - [ ] [Stat 2X](http://stat2x.blogspot.com/)
+
+## 11/2/2019
+
+- [ ] [Poisson process 1 (video) | Random variables | Khan Academy](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/poisson-distribution/v/poisson-process-1)
+
+- [ ] [Poisson process 2 (video) | Random variables | Khan Academy](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/poisson-distribution/v/poisson-process-2)
+
+
+## 11/2/2019
+
+- [ ] [How to Make a Histogram with Basic R (article) - DataCamp](https://www.datacamp.com/community/tutorials/make-histogram-basic-r)
+
+- [ ] [ggplot2 package | R Documentation](https://www.rdocumentation.org/packages/ggplot2/versions/3.2.1)

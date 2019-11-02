@@ -1344,3 +1344,80 @@ https://drive.google.com/drive/u/2/priority
 insert implied symbol - Google Search
 https://www.google.com/search?client=firefox-b-d&q=insert+implied+symbol
 
+
+
+## 11/2/2019
+
+- [ ] [%>% operator in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQYSQAZvIp-HYqY-GbRSq-HJO09Yg%3A1572691441700&lei=8V29XeudKuOUr7wP56Cp4Aw&q=%25%3E%25%20operator%20in%20r&ved=2ahUKEwjBkPmWrMvlAhUOCqYKHf-4DEcQsKwBKAB6BAgBEAE)
+
+- [ ] [Advice to hedgehogs, or, constants can vary - Google Search](https://www.google.com/search?q=Advice+to+hedgehogs%2C+or%2C+constants+can+vary&oq=Advice+to+hedgehogs%2C+or%2C+constants+can+vary&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [An Introduction to the Theory of Point Processes - Google Search](https://www.google.com/search?q=An+Introduction+to+the+Theory+of+Point+Processes&oq=An+Introduction+to+the+Theory+of+Point+Processes&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [argument is of length zero r - Google Search](https://www.google.com/search?q=argument+is+of+length+zero+r&oq=argument+is+of+length+zero+r&aqs=chrome..69i57j0l4j69i64.2563j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [brownian motion quant - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTrfacef3Y485jxdcpZrWTfvxF54Q%3A1572659227771&lei=G-C8XevcLoqVr7wPsOGA6AM&q=brownian%20motion%20quant&ved=2ahUKEwi45bWZtMrlAhXjKqYKHVFEBc8QsKwBKAR6BAgDEAU)
+
+- [ ] [compound poisson process solved problems - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQudLYODFGeU4PxcTsjGC6gQIF8lA%3A1572686932045&lei=VEy9XbuzAumtmAXsloDYCA&q=compound%20poisson%20process%20solved%20problems&ved=2ahUKEwiF0IOym8vlAhUQy4sBHV_XAkQQsKwBKAN6BAgBEAQ)
+
+- [ ] [donald trump - Google Search](https://www.google.com/search?gs_ssp=eJzj4tTP1TdILiyxNDBgBAAT3QLx&q=donald+trump&oq=donaold+tr&aqs=chrome.1.69i57j46j0j46j0.5072j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [e euler maruyama scheme - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQk97GP6U7heLbOBt3w6fDTqRQ-zw:1572660141224&q=e+euler+maruyama+scheme&sa=X&ved=2ahUKEwjIq8fIt8rlAhVxHKYKHXUNBnAQ1QIoBHoECD4QBQ)
+
+- [ ] [equivalent definitions of poisson process - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQudLYODFGeU4PxcTsjGC6gQIF8lA%3A1572686932045&lei=VEy9XbuzAumtmAXsloDYCA&q=equivalent%20definitions%20of%20poisson%20process&ved=2ahUKEwiF0IOym8vlAhUQy4sBHV_XAkQQsKwBKAV6BAgDEAY)
+
+- [ ] [Euler–Maruyama method orstein-uhlenbeck process simulation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQk97GP6U7heLbOBt3w6fDTqRQ-zw%3A1572660141224&ei=reO8XYihDfG4mAX1mpiABw&q=Euler%E2%80%93Maruyama+method+orstein-uhlenbeck+process+simulation+&oq=Euler%E2%80%93Maruyama+method+orstein-uhlenbeck+process+simulation+&gs_l=psy-ab.3..35i304i39.40565.40565..41508...0.1..0.203.203.2-1......0....1..gws-wiz.......0i71.mjEYXR7c_1A&ved=0ahUKEwjIq8fIt8rlAhVxHKYKHXUNBnAQ4dUDCAs&uact=5)
+
+- [ ] [exclamation mark in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQYSQAZvIp-HYqY-GbRSq-HJO09Yg%3A1572691441700&lei=8V29XeudKuOUr7wP56Cp4Aw&q=exclamation%20mark%20in%20r&ved=2ahUKEwjBkPmWrMvlAhUOCqYKHf-4DEcQsKwBKAR6BAgBEAU)
+
+- [ ] [exponential distribution interarrival time - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSHt2Tufs6WCkhvbjavTMPcaVoT4Q%3A1572687227952&lei=e029XavjObaPr7wPgcm3gAc&q=exponential%20distribution%20interarrival%20time&ved=2ahUKEwie8PnBnMvlAhUDHKYKHfjrACoQsKwBKAV6BAgFEAY)
+
+- [ ] [girl - Google Search](https://www.google.com/search?newwindow=1&tbs=simg:CAESuAIJaDfbLovPifsarAILEKjU2AQaBAgXCD0MCxCwjKcIGmIKYAgDEijpHMgR6hyFHIgc_1x6GHOYchByJHLIysTK2MrcylTLKPJYyyTyYMukxGjDaf4M7yeDXB3Num7CfJRyLG0OafycGDPkpHl13U2o6D5k3-TZ90TEJUn4Du_1_1QQzEgBAwLEI6u_1ggaCgoICAESBKydx40MCxCd7cEJGpcBChcKBGdpcmzapYj2AwsKCS9tLzA1cjY1NQofCgtwaG90byBzaG9vdNqliPYDDAoKL20vMDJxYmwxbQogCg1qYXBhbmVzZSBpZG9s2qWI9gMLCgkvbS8wM3NyNDMKHwoMZ3JhdnVyZSBpZG9s2qWI9gMLCgkvbS8wM3dtMjIKGAoFbmF2ZWzapYj2AwsKCS9tLzAxaG5ubQw&sxsrf=ACYBGNQJhXgiEzyXXhMFw-xCkmfy0FqGMw:1572679268382&q=girl&tbm=isch&sa=X&ved=2ahUKEwi7w4zp_srlAhWOF6YKHcrSCrQQsw56BAgAEAE)
+
+- [ ] [Google Search](https://www.google.com/search?tbs=sbi:AMhZZitbQ4ECq5Ty4yw6nDq16LXrljj-qeclqQwyoA3_1_1DpFPYNeu3PlYnO4gQLYE0ta0tK21wvB4Dpjnlrjg3VuYdFGGZjqZz9C5XMBvn9asN_1sjasmqR5kaoSSnmb8Jjsf82XG6z1dWIfPufIfJs-4TS8ZY2Ye2KlrEx6xqe1g0KcZRm6RRDiz5SGrfyQUZ3Xq6xfAUFGKPdSb9pecgBMjHkK5R3zzqC295jH-E45N6hHgkEZZOEZUZuuqXDdoONENs_1GQYBSKaesrZ-PVWonzzZ1YUr4JBNJ2gIyc44I0JGXLm6FF8AWpqkPNFU8nkyljJpDeLUvkQsHgsLDPybRbDR4p25y_1jg)
+
+- [ ] [Google Search](https://www.google.com/search?tbs=sbi:AMhZZivwxVfFwg1qOM5QUhspDNJj23Yp_1vV37cV9LFmTrwxRp4q5d_1alxs4hU4jfxLURbooJlkoh6UzQLD1p1VzPeF5Qgr3RH7ASa7HOERKXe50BAoDj2QiuEc2MacwGFO7QT0JS2yIYneEPOqdAdNJxd7YUEN39Ln_1JQY7RKB14_1wWW7SMtB-QsWKqaFHZPW8yfk5y0LUQTbUoWhUc2GtI-igtix4I7ZxZOGrJqS3IbZDRBVOpY0PYZ1EO135dM7HGeiaNy-phfvj1-EIzqPdpg1uL7vUhYmNDwcATNtOM2OmS3M0FdAZHV33KxdF67uXPLg9QMnYHBTVl-xrW_10CYfL_1j0s1RBcQ)
+
+- [ ] [Google Search](https://www.google.com/search?tbs=sbi:AMhZZiuxU4Q3FU-24Cz1j05xm8FvEfcMyQpNq2gYNU1LlnWouwY69ZEHTZgOQ5vMRmoBJG4btarkkRC0aHR7Qb78mOcsiFZ74bTfLiRxRiNPQY6KnIrOkVflHfdE9KQsqOJXoFsegOouzzl14WcRg0C3DYQ9E0eltOyHu14G5whgGGGgNTmPGpw2R8c96V7uqgljng46K9066OMQcusNVqwdJKF1QylRIp5GBgILqVoP2hFhBXeW-5NsZHMkNL6lSfAm4SRYVuXb0Ky65U1suKcv7d9YKL9J-r8qKXPMGWxeZP3cEu9ADZyq-zlWOYvdRyvx_1elQpaXyAzOJMzcoZpXGbEVoqkPqdA)
+
+- [ ] [Implementing Ornstein–Uhlenbeck in python - Google Search](https://www.google.com/search?q=Implementing+Ornstein%E2%80%93Uhlenbeck+in+python&oq=Implementing+Ornstein%E2%80%93Uhlenbeck+in+python&aqs=chrome..69i57j69i59l2j69i60.3124j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [inner prodct r - Google Search](https://www.google.com/search?q=inner+prodct+r&oq=inner+prodct+r&aqs=chrome..69i57j0l5.3775j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [langevin equation python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQk97GP6U7heLbOBt3w6fDTqRQ-zw:1572660141224&q=langevin+equation+python&sa=X&ved=2ahUKEwjIq8fIt8rlAhVxHKYKHXUNBnAQ1QIoA3oECD4QBA)
+
+- [ ] [Malware Warning](https://www.google.com/interstitial?url=http://new.alfarenginiai.lt/t12u/brownian-motion-stock-price-simulation-python.html)
+
+- [ ] [poisson distribution with variable rate - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQudLYODFGeU4PxcTsjGC6gQIF8lA%3A1572686932045&lei=VEy9XbuzAumtmAXsloDYCA&q=poisson%20distribution%20with%20variable%20rate&ved=2ahUKEwiF0IOym8vlAhUQy4sBHV_XAkQQsKwBKAV6BAgBEAY)
+
+- [ ] [Poisson Point Processes: Imaging, Tracking, and Sensin - Google Search](https://www.google.com/search?q=Poisson+Point+Processes%3A+Imaging%2C+Tracking%2C+and+Sensin&oq=Poisson+Point+Processes%3A+Imaging%2C+Tracking%2C+and+Sensin&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [poisson process expected value proof - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQudLYODFGeU4PxcTsjGC6gQIF8lA%3A1572686932045&lei=VEy9XbuzAumtmAXsloDYCA&q=poisson%20process%20expected%20value%20proof&ved=2ahUKEwiF0IOym8vlAhUQy4sBHV_XAkQQsKwBKAJ6BAgDEAM)
+
+- [ ] [poisson process python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTReu_EIuxHfbc61HfKnD4S3KnG8Q%3A1572687227951&lei=e029XZDhOYiymAWEgafoCg&q=poisson%20process%20python&ved=2ahUKEwjc5fLCnMvlAhUCGaYKHVXWCikQsKwBKAJ6BAgCEAM)
+
+- [ ] [poisson process python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQudLYODFGeU4PxcTsjGC6gQIF8lA%3A1572686932045&lei=VEy9XbuzAumtmAXsloDYCA&q=poisson%20process%20python&ved=2ahUKEwiF0IOym8vlAhUQy4sBHV_XAkQQsKwBKAR6BAgBEAU)
+
+- [ ] [Poisson processe - Google Search](https://www.google.com/search?q=Poisson+processe&oq=Poisson+processe&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [r generate non homogeneous poisson process - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTReu_EIuxHfbc61HfKnD4S3KnG8Q%3A1572687227951&lei=e029XZDhOYiymAWEgafoCg&q=r%20generate%20non%20homogeneous%20poisson%20process&ved=2ahUKEwjc5fLCnMvlAhUCGaYKHVXWCikQsKwBKAR6BAgCEAU)
+
+- [ ] [r generate non homogeneous poisson process - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXwHtq_I5M-1jaOfvdML9QpWp21w:1572692469259&q=r+generate+non+homogeneous+poisson+process&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQ1QIoBXoECGQQBg)
+
+- [ ] [Pasupathy: Generating homogeneous poisson processes - Google Scholar](https://scholar.google.com/scholar?cluster=9959853397508521067)
+
+- [ ] [r short circuit - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQYSQAZvIp-HYqY-GbRSq-HJO09Yg%3A1572691441700&lei=8V29XeudKuOUr7wP56Cp4Aw&q=r%20short%20circuit&ved=2ahUKEwjBkPmWrMvlAhUOCqYKHf-4DEcQsKwBKAJ6BAgBEAM)
+
+- [ ] [show that a wiener process is a martingale - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTrfacef3Y485jxdcpZrWTfvxF54Q%3A1572659227771&lei=G-C8XevcLoqVr7wPsOGA6AM&q=show%20that%20a%20wiener%20process%20is%20a%20martingale&ved=2ahUKEwi45bWZtMrlAhXjKqYKHVFEBc8QsKwBKAV6BAgDEAY)
+
+- [ ] [simulate ornstein uhlenbeck python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQk97GP6U7heLbOBt3w6fDTqRQ-zw:1572660141224&q=simulate+ornstein+uhlenbeck+python&sa=X&ved=2ahUKEwjIq8fIt8rlAhVxHKYKHXUNBnAQ1QIoAnoECD4QAw)
+
+- [ ] [soft tennis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTOyLcA9fdS_SR6hv1ajiqHhTwSXw:1572679149625&q=soft+tennis&sa=X&ved=0ahUKEwjzhbyw_srlAhWDGqYKHbpGDOMQvQ4IMigE)
+
+- [ ] [Stochastic geometry and its application - Google Search](https://www.google.com/search?q=Stochastic+geometry+and+its+application&oq=Stochastic+geometry+and+its+application&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [What happened to discrete chaos, the Quenouille process, and the sharp Markov property? Some history of stochastic point processes" - Google Search](https://www.google.com/search?q=What+happened+to+discrete+chaos%2C+the+Quenouille+process%2C+and+the+sharp+Markov+property%3F+Some+history+of+stochastic+point+processes%22&oq=What+happened+to+discrete+chaos%2C+the+Quenouille+process%2C+and+the+sharp+Markov+property%3F+Some+history+of+stochastic+point+processes%22&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [what is a non homogeneous poisson process - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTReu_EIuxHfbc61HfKnD4S3KnG8Q%3A1572687227951&lei=e029XZDhOYiymAWEgafoCg&q=what%20is%20a%20non%20homogeneous%20poisson%20process&ved=2ahUKEwjc5fLCnMvlAhUCGaYKHVXWCikQsKwBKAV6BAgCEAY)
+
+- [ ] [Write a function to simulate from this Poisson process python - Google Search](https://www.google.com/search?q=Write+a+function+to+simulate+from+this+Poisson+process+python&oq=Write+a+function+to+simulate+from+this+Poisson+process&aqs=chrome.1.69i57j69i59l2.1058j0j1&sourceid=chrome&ie=UTF-8)

@@ -457,3 +457,35 @@
 - [ ] [](http://thepowerelite.blogspot.com/)
 
 - [ ] [image (1600×1600)](https://themes.googleusercontent.com/image?id=0BwVBOzw_-hbMOGFhZWQ3YjgtZGZiZC00ODlhLWFkNmQtMzRmZmQzMjAxNTY0)
+
+## 11/2/2019
+
+- [ ] [Poisson Processes](http://www.staff.city.ac.uk/r.j.gerrard/courses/2dsm/dsm03_6.htm)
+
+- [ ] [https://tel.archives-ouvertes.fr/tel-01575418/document](https://tel.archives-ouvertes.fr/tel-01575418/document)
+
+- [ ] [https://projects.iq.harvard.edu/files/stat110/files/r_code_from_r_sections.txt](https://projects.iq.harvard.edu/files/stat110/files/r_code_from_r_sections.txt)
+
+- [ ] [“Tout est poison, rien n’est poison : c’est la dose qui fait le poison” | Freakonometrics](https://freakonometrics.hypotheses.org/58407)
+
+- [ ] [Combining automatically factor levels with trees | Freakonometrics](https://freakonometrics.hypotheses.org/58446)
+
+- [ ] [De l’abus de notation dans les modèles de régression | Freakonometrics](https://freakonometrics.hypotheses.org/58451)
+
+- [ ] [Intelligence artificielle et assurance IARD | Freakonometrics](https://freakonometrics.hypotheses.org/58404)
+
+- [ ] [Machine Learning and Econometrics | Freakonometrics](https://freakonometrics.hypotheses.org/58375)
+
+- [ ] [On leverage | Freakonometrics](https://freakonometrics.hypotheses.org/58421)
+
+- [ ] [Le programme OpenEdition Freemium](https://www.openedition.org/14043)
+
+- [ ] [📈 Simulating Poisson process (part 1) | R-bloggers](https://www.r-bloggers.com/%F0%9F%93%88-simulating-poisson-process-part-1/)
+
+- [ ] [500 Internal Privoxy Error](http://www.winlab.rutgers.edu/~zhibinwu/html/Exponentail_and_Poisson.html)
+
+- [ ] [Lab 3: Simulations in R](https://web.stanford.edu/class/bios221/labs/simulation/Lab_3_simulation.html)
+
+- [ ] [The Poisson Process: Everything you need to know - Towards Data Science](https://towardsdatascience.com/the-poisson-process-everything-you-need-to-know-322aa0ab9e9a)
+
+- [ ] [www.mat.ufrgs.br/~giacomo/Softwares/R/Dobrow - Stochastic with R/ch6.pdf](http://www.mat.ufrgs.br/~giacomo/Softwares/R/Dobrow%20-%20Stochastic%20with%20R/ch6.pdf)
