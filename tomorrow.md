@@ -1500,3 +1500,100 @@ https://machinelearningmastery.com/nonparametric-statistical-significance-tests-
 - [ ] [Google AI Blog: Quantum Supremacy Using a Programmable Superconducting Processor](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html?m=1)
 
 - [ ] [Chapter 6 Markov Chain Monte Carlo | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/markov-chain-monte-carlo.html#exercises-4)
+
+
+
+
+## 11/2/2019
+
+- [ ] [Chapter 5 Random Number Generation | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/random-number-generation.html#ref-Lewi:Shed:simu:1979)
+
+- [ ] [https://www-ljk.imag.fr/membres/Jean-Francois.Coeurjolly/documents/lecture2.pdf](https://www-ljk.imag.fr/membres/Jean-Francois.Coeurjolly/documents/lecture2.pdf)
+
+- [ ] [Ch-processes.pdf](https://statweb.stanford.edu/~owen/mc/Ch-processes.pdf)
+
+- [ ] [users.iems.northwestern.edu/~ifghardt/GerhardtNelson_NSNP.pdf](http://users.iems.northwestern.edu/~ifghardt/GerhardtNelson_NSNP.pdf)
+
+- [ ] [proceedings.mlr.press/v63/lim83.pdf](http://proceedings.mlr.press/v63/lim83.pdf)
+
+- [ ] [A Nonhomogeneous Poisson Hidden Markov Model for Claim Counts | ASTIN Bulletin: The Journal of the IAA | Cambridge Core](https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/nonhomogeneous-poisson-hidden-markov-model-for-claim-counts/1C15BAEF81B6ED18089C88BEF4EC6F61)
+
+- [ ] [www.math.utah.edu/~bresslof/publications/18-7.pdf](http://www.math.utah.edu/~bresslof/publications/18-7.pdf)
+
+- [ ] [poisson process thinning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXwHtq_I5M-1jaOfvdML9QpWp21w:1572692469259&q=poisson+process+thinning&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQ1QIoA3oECGQQBA)
+
+- [ ] [AMS 550 | Applied Mathematics & Statistics](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams550.php)
+
+- [ ] [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/course-notes/MIT6_262S11_chap04.pdf](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/course-notes/MIT6_262S11_chap04.pdf)
+
+- [ ] [continuous time branching process - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSmHOMTBmMaY7w15nAIVK09oJ5lLQ%3A1572692625468&lei=kWK9XamlHNeXr7wP-4e4uAQ&q=continuous%20time%20branching%20process&ved=2ahUKEwjvgKDMsMvlAhWRw4sBHV0iDu4QsKwBKAN6BAgAEAQ)
+
+- [ ] [Glencoe algebra 1 teacher edition](http://developmentbox1.ca/9pas/glencoe-algebra-1-teacher-edition.html)
+
+- [ ] [Rd exam prep quizlet](https://savinarosero.com/huv9/rd-exam-prep-quizlet.html)
+
+- [ ] [https://registrar.humboldt.edu/sites/default/files/pdf/catalog/course-descriptions/math.pdf](https://registrar.humboldt.edu/sites/default/files/pdf/catalog/course-descriptions/math.pdf)
+
+- [ ] [www.uni-mysore.ac.in/assets/downloads2011/PHD-syllabus/Statistics.pdf](http://www.uni-mysore.ac.in/assets/downloads2011/PHD-syllabus/Statistics.pdf)
+
+- [ ] [halweb.uc3m.es/esp/Personal/personas/bdauria/0910/Stoc_Proc_PhD/Notes/2010-03-11Th_Comments.pdf](http://halweb.uc3m.es/esp/Personal/personas/bdauria/0910/Stoc_Proc_PhD/Notes/2010-03-11Th_Comments.pdf)
+
+- [ ] [galton.uchicago.edu/~lalley/Courses/312/RenewalTheory.pdf](http://galton.uchicago.edu/~lalley/Courses/312/RenewalTheory.pdf)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/project/634440)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/project/634440)
+
+- [ ] [mean - R code for Ornstein-Uhlenbeck process - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/1260/r-code-for-ornstein-uhlenbeck-process)
+
+- [ ] [dustinvtran (Dustin Tran)](https://github.com/dustinvtran)
+
+- [ ] [hstrey/Ornstein-Uhlenbeck-Bayesian](https://github.com/hstrey/Ornstein-Uhlenbeck-Bayesian)
+
+- [ ] [Bayesian network in R: Introduction | R-bloggers](https://www.r-bloggers.com/bayesian-network-in-r-introduction/)
+
+- [ ] [Fit an Ornstein–Uhlenbeck process with discrete time series data | R-bloggers](https://www.r-bloggers.com/fit-an-ornstein-uhlenbeck-process-with-discrete-time-series-data/)
+
+- [ ] [A Tell of Tensorflow Probability - Towards Data Science](https://towardsdatascience.com/a-tell-of-tensorflow-probability-a2bf5a364391)
+
+- [ ] [Introducing DoWhy - Towards Data Science](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
+
+- [ ] [Artificial Intelligence – Towards Data Science](https://towardsdatascience.com/tagged/artificial-intelligence)
+
+- [ ] [Invector Labs – Towards Data Science](https://towardsdatascience.com/tagged/invector-labs)
+
+- [ ] [Deep Learning – Towards Data Science](https://towardsdatascience.com/tagged/deep-learning)
+
+- [ ] [[1610.09787] Edward: A library for probabilistic modeling, inference, and criticism](https://arxiv.org/abs/1610.09787)
+
+- [ ] [[1701.03757] Deep Probabilistic Programming](https://arxiv.org/abs/1701.03757)
+
+- [ ] [[1805.05977] On the Estimation of Parameters from Time Traces originating from an Ornstein-Uhlenbeck Process](https://arxiv.org/abs/1805.05977)
+
+- [ ] [Edward – API](http://edwardlib.org/api/)
+
+- [ ] [Edward – Deep Probabilistic Programming](http://edwardlib.org/iclr2017)
+
+- [ ] [Edward – Tutorials](http://edwardlib.org/tutorials/)
+
+- [ ] [Presentation Matters: The Effect of Wrapping Neatness on Gift Attitudes - Rixom - - Journal of Consumer Psychology - Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcpy.1140)
+
+- [ ] [Do You Talk About It in Open Borders Yes! - Econlib](https://www.econlib.org/do-you-talk-about-it-in-open-borders-yes/)
+
+- [ ] [Queens | Journal of Political Economy: Vol 0, No ja](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/707011)
+
+- [ ] [Login • Instagram](https://www.instagram.com/accounts/login/)
+
+- [ ] [Economic Fables - Ariel Rubinstein](http://www.possibleworlds.co.il/agadotE/)
+
+- [ ] [Undue Burden Beyond Texas: An Analysis of Abortion Clinic Closures, Births, And Abortions in Wisconsin](https://www.nber.org/papers/w26362#fromrss)
+
+- [ ] [Presentation Matters: The Effect of Wrapping Neatness on Gift Attitudes - Rixom - - Journal of Consumer Psychology - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/jcpy.1140)
+
+- [ ] [Doug Guthrie - The View From Washington](https://www.forbes.com/sites/dougguthrie/#671a930c28c8)
+
+- [ ] [Sean Myers - PhD Candidate - Stanford](https://web.stanford.edu/~smyers2/)
+
+- [ ] [关于印发《安康学院学生教学信息员工作管理规定的通知》-安康学院教务处](http://jwc.aku.edu.cn/info/news/content/4984.htm)
+
+- [ ] ['Not on my list': private California firms fight fires, raise concerns | AFP.com](https://www.afp.com/en/news/3954/not-my-list-private-california-firms-fight-fires-raise-concerns-doc-1lw8131)

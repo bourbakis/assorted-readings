@@ -1722,3 +1722,66 @@ http://libgen.is/search.php?&req=probability+game&phrase=1&view=simple&column=de
 - [ ] [The Best Books on Computer Science and Programming | Five Books Expert Recommendations](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
 
 - [ ] [The Best Books on Ancient Greece | Five Books Expert Recommendations](https://fivebooks.com/best-books/ancient-greece-christopher-pelling/)
+
+
+
+
+## from amazon
+
+## 11/2/2019
+
+- [ ] [Amazon.com: Modeling Bounded Rationality (9780262681001): Ariel Rubinstein: Books](https://www.amazon.com/dp/0262681005/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Amazon.com: Obliquity: Why Our Goals Are Best Achieved Indirectly (9780143120551): John Kay: Books](https://www.amazon.com/dp/0143120557/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Amazon.com: Origin of Wealth: Evolution, Complexity, and the Radical Remaking of Economics (9781578517770): Eric D. Beinhocker: Books](https://www.amazon.com/dp/157851777X/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [America's Greatest Depression, 1929-1941: 9780060412296: Economics Books @ Amazon.com](https://www.amazon.com/dp/0060412291/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [America's Greatest Depression, 1929-1941: 9780060412296: Economics Books @ Amazon.com](https://www.amazon.com/dp/0060412291/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Collected Papers, Vol. 1: Robert J. Aumann: 9780262011549: Amazon.com: Books](https://www.amazon.com/dp/0262011549/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Economic Fables: Ariel Rubinstein: 9781906924775: Amazon.com: Books](https://www.amazon.com/dp/1906924775/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Economic Fables: Ariel Rubinstein: 9781906924775: Amazon.com: Books](https://www.amazon.com/Economic-Fables-Ariel-Rubinstein/dp/1906924775?creativeASIN=1906924775&linkCode=w61&imprToken=vx54aea8mYAPYj4cOlC2sA&slotNum=1&tag=thebro-21)
+
+- [ ] [Economics and Language (Churchill Lectures in Economics): Ariel Rubinstein: 9780521789905: Amazon.com: Books](https://www.amazon.com/dp/0521789907/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Essays on the Great Depression: Ben S. Bernanke: 9780691118208: Amazon.com: Books](https://www.amazon.com/dp/0691118205/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Essays on the Great Depression: Ben S. Bernanke: 9780691118208: Amazon.com: Books](https://www.amazon.com/dp/0691118205/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Games and Decisions: Introduction and Critical Survey (Dover Books on Mathematics): R. Duncan Luce, Howard Raiffa: 9780486659435: Amazon.com: Books](https://www.amazon.com/dp/0486659437/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Golden Fetters: The Gold Standard and the Great Depression, 1919-1939 (NBER Series on Long-term Factors in Economic Development): Barry Eichengreen: 9780195101133: Amazon.com: Books](https://www.amazon.com/dp/0195101138/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [John Maynard Keynes (Great Thinkers in Economics): P. Davidson: 9780230229204: Amazon.com: Books](https://www.amazon.com/dp/0230229204/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [John Maynard Keynes: 1883-1946: Economist, Philosopher, Statesman: Robert Skidelsky: 9780143036159: Amazon.com: Books](https://www.amazon.com/dp/0143036157/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [John Maynard Keynes: Fighting for Freedom, 1937-1946: Robert Skidelsky: 9780142001677: Amazon.com: Books](https://www.amazon.com/dp/0142001678/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [John Maynard Keynes: Hyman P. Minsky: 9780071593014: Amazon.com: Books](https://www.amazon.com/dp/0071593012/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Keynes and the Market: How the World's Greatest Economist Overturned Conventional Wisdom and Made a Fortune on the Stock Market: Justyn Walsh: 9780470284964: Amazon.com: Books](https://www.amazon.com/dp/047028496X/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Lecture Notes in Microeconomic Theory: The Economic Agent: 8580000741209: Economics Books @ Amazon.com](https://www.amazon.com/dp/0691120315/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Oswald Mosley (Papermacs): Robert Skidelsky: 9780333293850: Amazon.com: Books](https://www.amazon.com/dp/0333293851/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Other People's Money: Masters of the Universe or Servants of the People? [Paperback] John Kay: J. Kay: 9781781254455: Amazon.com: Books](https://www.amazon.com/dp/1781254451/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Russia's Choices: Robert Skidelsky: 9780954643003: Amazon.com: Books](https://www.amazon.com/dp/0954643003/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Russia's Place in the World in the 21st Century (Research): Robert Skidelsky: 9780955497544: Amazon.com: Books](https://www.amazon.com/dp/095549754X/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [The Architecture of Markets: An Economic Sociology of Twenty-First-Century Capitalist Societies: Neil Fligstein: 9780691102542: Amazon.com: Books](https://www.amazon.com/dp/0691102546/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [The Long and the Short of It (International Edition): Professor of Industrial Policy at the London Business School and Fellow John Kay: 9781781256756: Amazon.com: Books](https://www.amazon.com/dp/1781256756/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [The Unexplored Keynes and Other Essays: A Socio-Economic Miscellany: Anand Chandavarkar: 9788171887361: Amazon.com: Books](https://www.amazon.com/dp/8171887368/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Truth About Markets: Why Some Countries Are Rich And Others Remain Poor: John Kay: 9780140296723: Amazon.com: Books](https://www.amazon.com/dp/0140296727/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [www.amazon.com](https://www.amazon.com/dp/0072877308/ref=as_at?tag=fivebooks001-20)
