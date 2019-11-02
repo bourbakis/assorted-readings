@@ -950,3 +950,38 @@ https://drive.google.com/drive/u/0/my-drive
 - [ ] [spatstat.github.io/spatstatQuickref.pdf at master · spatstat/spatstat.github.io](https://github.com/spatstat/spatstat.github.io/blob/master/resources/spatstatQuickref.pdf)
 
 - [ ] [The Spatstat Team](https://github.com/spatstat)
+
+
+## 11/1/2019
+
+- [ ] [06-finite-mixture-regression-Kun73/report.html at master · statcomputing/06-finite-mixture-regression-Kun73](https://github.com/statcomputing/06-finite-mixture-regression-Kun73/blob/master/report.html)
+
+- [ ] [b-rodrigues (Bruno Rodrigues)](https://github.com/b-rodrigues/)
+
+- [ ] [choldgraf/jupyter-book: Create an online book with Jupyter Notebooks and Jekyll](https://github.com/choldgraf/jupyter-book)
+
+- [ ] [daattali/shiny-server: My personal Shiny server](https://github.com/daattali/shiny-server)
+
+- [ ] [ftilmann/latexdiff: Compares two latex files and marks up significant differences between them. Releases on www.ctan.org and mirrors](https://github.com/ftilmann/latexdiff)
+
+- [ ] [github.com](https://github.com/)
+
+- [ ] [github.com](https://github.com/google-research/dex-lang)
+
+- [ ] [google-research/google-research: Google AI Research](https://github.com/google-research/google-research)
+
+- [ ] [google/CausalImpact: An R package for causal inference in time series](https://github.com/google/CausalImpact)
+
+- [ ] [google/trax](https://github.com/google/trax)
+
+- [ ] [github.com](https://github.com/pandas-dev/pandas/blob/v0.25.2/pandas/core/reshape/melt.py#L18-L118)
+
+- [ ] [prisoner-dilemma-simulation · GitHub Topics](https://github.com/topics/prisoner-dilemma-simulation)
+
+- [ ] [rust-unofficial/too-many-lists: Learn Rust by writing Entirely Too Many linked lists](https://github.com/rust-unofficial/too-many-lists)
+
+- [ ] [Statistical Computing 5361](https://github.com/statcomputing?page=5)
+
+- [ ] [tohweizhong (Toh Wei Zhong) / Repositories](https://github.com/tohweizhong?tab=repositories)
+
+- [ ] [TuringLang/MCMCChains.jl: Chain types and utility functions for MCMC simulations](https://github.com/TuringLang/MCMCChains.jl)
