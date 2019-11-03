@@ -985,3 +985,69 @@ https://drive.google.com/drive/u/0/my-drive
 - [ ] [tohweizhong (Toh Wei Zhong) / Repositories](https://github.com/tohweizhong?tab=repositories)
 
 - [ ] [TuringLang/MCMCChains.jl: Chain types and utility functions for MCMC simulations](https://github.com/TuringLang/MCMCChains.jl)
+
+
+
+
+
+## 11/3/2019
+
+- [ ] [anki/cozmo-python-sdk: Anki Cozmo Python SDK](https://github.com/anki/cozmo-python-sdk)
+
+- [ ] [anki/vector-python-sdk: Anki Vector Python SDK](https://github.com/anki/vector-python-sdk)
+
+- [ ] [carllacan/ankimaker: Automatically generates Anki decks from many sources](https://github.com/carllacan/ankimaker)
+
+- [ ] [cubical-type-theory · GitHub Topics](https://github.com/topics/cubical-type-theory)
+
+- [ ] [dae/ankidocs: Source files for Anki's documentation](https://github.com/dae/ankidocs)
+
+- [ ] [donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.](https://github.com/donnemartin/interactive-coding-challenges)
+
+- [ ] [FooSoft/yomichan-anki: Plugin for sentence/vocab mining Japanese books in Anki.](https://github.com/FooSoft/yomichan-anki)
+
+- [ ] [gecrooks/weyl: The Weyl chamber of canonical non-local 2-qubit gates](https://github.com/gecrooks/weyl)
+
+- [ ] [glutanimate/anki-addons-misc: Various add-ons I've written for Anki](https://github.com/glutanimate/anki-addons-misc)
+
+- [ ] [glutanimate/review-heatmap: Anki add-on to help you keep track of your review activity](https://github.com/glutanimate/review-heatmap)
+
+- [ ] [haoxuany/furiganalize-epub: Annotate EPUB books with furigana](https://github.com/haoxuany/furiganalize-epub)
+
+- [ ] [haoxuany/vim-mltools: HYPE!](https://github.com/haoxuany/vim-mltools)
+
+- [ ] [louietan/anki-editor: Emacs minor mode for making Anki cards with Org](https://github.com/louietan/anki-editor)
+
+- [ ] [mromerdagan/memorize-flashcards: Flashcards memorization game (API+client)](https://github.com/mromerdagan/memorize-flashcards)
+
+- [ ] [ninja33/anki-templates: Anki Note Template](https://github.com/ninja33/anki-templates)
+
+- [ ] [ninja33/ODH: A chrome extension to show online dictionary content.](https://github.com/ninja33/ODH)
+
+- [ ] [nuprl · GitHub Topics](https://github.com/topics/nuprl)
+
+- [ ] [onevcat (Wei Wang)](https://github.com/onevcat)
+
+- [ ] [onevcat/Kingfisher: A lightweight, pure-Swift library for downloading and caching images from the web.](https://github.com/onevcat/Kingfisher)
+
+- [ ] [open-ai-robot/awesome-anki-vector: Anki Vector AI++](https://github.com/open-ai-robot/awesome-anki-vector)
+
+- [ ] [proof-assistant · GitHub Topics](https://github.com/topics/proof-assistant)
+
+- [ ] [pschlette/memrise2anki-extension: An extension for Anki 2 that downloads and converts a course from Memrise into an Anki deck.](https://github.com/pschlette/memrise2anki-extension)
+
+- [ ] [qwiglydee/anki-interactive: Interactive Cards for Anki](https://github.com/qwiglydee/anki-interactive)
+
+- [ ] [RedPRL/sml-redprl: The People's Refinement Logic](https://github.com/RedPRL/sml-redprl)
+
+- [ ] [Releases · badlydrawnrob/anki](https://github.com/badlydrawnrob/anki/releases)
+
+- [ ] [repeat-space/anki-apkg-export: Generate decks for Anki (spaced repetition software)](https://github.com/repeat-space/anki-apkg-export)
+
+- [ ] [Search · anki](https://github.com/search?p=11&q=anki&ref=opensearch&type=Repositories)
+
+- [ ] [Troyciv/anki-templates-superlist: A collection of Anki card styles](https://github.com/Troyciv/anki-templates-superlist)
+
+- [ ] [type-theory · GitHub Topics](https://github.com/topics/type-theory)
+
+- [ ] [xiaoleeza/Ankihelp: LaTeX 排版的中文 Anki 手册](https://github.com/xiaoleeza/Ankihelp)

@@ -1806,3 +1806,67 @@ http://libgen.is/search.php?&req=probability+game&phrase=1&view=simple&column=de
 - [ ] [The Best Books on Risk Management | Five Books Expert Recommendations](https://fivebooks.com/best-books/graciela-chichilnisky-on-risk-management/)
 
 - [ ] [The Best Books on Urban Economics | Five Books Expert Recommendations](https://fivebooks.com/best-books/best-books-urban-economics-edward-glaeser/)
+
+
+
+
+
+
+
+
+----
+
+
+
+
+## 11/3/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&res=100&req=swift&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Wallace%20Wang&column[]=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Allan%20Fowler&column[]=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Stefan+Kaczmarek&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+Brad+Lees&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+Gary+Bennett&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Jesse+Feiler&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Hacking+With+Swift&column=series)
+
+- [ ] [Library Genesis: Clayton, Janie - Metal programming guide : tutorial and reference via Swift](http://libgen.is/book/index.php?md5=E96C9E4098011B64AA53E20130BCD307)
+
+- [ ] [Library Genesis: E.M. Rasel, W.P. Schleich, S. Wölk - Foundations of Quantum Theory (International School of Physics Enrico Fermi)](http://libgen.is/book/index.php?md5=472C7E83826C92D70301E94323CCA170)
+
+- [ ] [Library Genesis: Enrique López Mañas - 100 Questions and Answers to Help You Land Your Dream iOS Job: Or to Hire the Right Candidate!](http://libgen.is/book/index.php?md5=B3580C66E28F62B75D8349EE18B63EDD)
+
+- [ ] [Library Genesis: Jesse Feiler - Implementing iOS and macOS Documents with the Files App: Managing Files and Ensuring Compatibility](http://libgen.is/book/index.php?md5=DB631DC82FCF32FE47EEB72BFAFF2ADC)
+
+- [ ] [Library Genesis: Jon Hoffman - Swift Protocol-Oriented Programming](http://libgen.is/book/index.php?md5=44F1144CDB56D17B80DA8414E76E3275)
+
+- [ ] [Library Genesis: Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent - Practical Artificial Intelligence with Swift: From Fundamental Theory to Development of AI-Driven Apps](http://libgen.is/book/index.php?md5=50165F6A8610A34C4F49861AD51F13DB)
+
+- [ ] [Library Genesis: Matt Neuburg - iOS 13 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics](http://libgen.is/book/index.php?md5=ED0430B56E6C48B34B656D67160A25C0)
+
+- [ ] [Library Genesis: Mohit Thakkar - Beginning Machine Learning in iOS: CoreML Framework](http://libgen.is/book/index.php?md5=114FA375C45AC233C0B596C3C144F726)
+
+- [ ] [Library Genesis: Paul Hudson - Swift Coding Challenges](http://libgen.is/book/index.php?md5=924803FCA4A0FF9790F09ABA73BE83D8)
+
+- [ ] [Library Genesis: raywenderlich Tutorial Team; Matthijs Hollemans; Audrey Tam; Chris LaPollo - Machine Learning by Tutorials: Beginning Machine Learning for Apple and iOS](http://libgen.is/book/index.php?md5=FDA043F76954A968DC684E4A2548E08A)
+
+- [ ] [Library Genesis: Stefan Kaczmarek, Brad Lees, Gary Bennett - Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS](http://libgen.is/book/index.php?md5=9BE66BD517E2E7CF0E1FC8E0C088DF12)
+
+- [ ] [Library Genesis: Tjeerd in ’t Veen - Swift In Depth](http://libgen.is/book/index.php?md5=5B97DDA9FECE597CC3D1A2789297AE7C)
+
+- [ ] [Library Genesis: Wallace Wang - Beginning ARKit for iPhone and iPad: Augmented Reality App Development for iOS](http://libgen.is/book/index.php?md5=45BF1A3782C4CE070301AB02E2BDDB29)
+
+- [ ] [Library Genesis: Wallace Wang - Beginning ARKit for iPhone and iPad: Augmented Reality App Development for iOS](http://libgen.is/book/index.php?md5=2FF833E7DD6C69A87830285DDDE5D6F3)
+
+- [ ] [Library Genesis: Wallace Wang - Beginning iPhone Development with Swift 5: Exploring the iOS SDK](http://libgen.is/book/index.php?md5=DD0B3AE354B2415C4EDC08120F21C567)
+
+- [ ] [Library Genesis: Wallace Wang - Pro iPhone Development with Swift 5: Design and Manage Top Quality Apps](http://libgen.is/book/index.php?md5=52294991014364ABBA10573A26CEB242)
+
+- [ ] [Library Genesis: Yanis Zafirópulos - Swift 4 Recipes: Hundreds of Useful Hand-picked Code Snippets](http://libgen.is/book/index.php?md5=19BEB64837BB5ED3A8564956B6677736)
