@@ -4518,3 +4518,71 @@ https://en.wikipedia.org/wiki/Chicken_(game)
 - [ ] [simulating-nonhomogeneous-poisson-process.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://radhakrishna.typepad.com/simulating-nonhomogeneous-poisson-process.pdf)
 
 - [ ] [6a00d83453b94569e2022ad39d4795200b-pi (266×399)](https://radhakrishna.typepad.com/.a/6a00d83453b94569e2022ad39d4795200b-pi)
+
+
+
+
+
+
+
+---
+
+
+
+
+
+## 11/3/2019
+
+- [ ] [My Map Free](chrome-extension://pklnbjkiadglpemlgdaheegaehhlehlp/ex/ex.html)
+
+- [ ] [Edit Field During Review - AnkiWeb](https://ankiweb.net/shared/info/1020366288)
+
+- [ ] [506 | Christian Smith on the Power of Religion - Chicago Humanities Festival](https://www.chicagohumanities.org/events/christian-smith-power-religion/)
+
+- [ ] [98-277: Vim](http://www.andrew.cmu.edu/user/haoxuany/vim/)
+
+- [ ] [Warren Buffett's Berkshire Hathaway reports a $128 billion cash pile](https://www.cnbc.com/2019/11/02/warren-buffetts-berkshire-hathaway-reports-a-128-billion-cash-pile.html)
+
+- [ ] [Anki Sync for Spaced Repetition](https://getpolarized.io/docs/anki-sync-for-spaced-repetition.html)
+
+- [ ] [Anki Extension | Habitica Wiki | FANDOM powered by Wikia](https://habitica.fandom.com/wiki/Anki_Extension)
+
+- [ ] [The Top 25 Anki Open Source Projects](https://awesomeopensource.com/projects/anki)
+
+- [ ] [Anki must be able to connect to a local port / Problems / Knowledge Base - Anki Support](https://anki.tenderapp.com/kb/problems/anki-must-be-able-to-connect-to-a-local-port)
+
+- [ ] [How to Automatically Generate Vocabulary Flashcards with Google Translate and Anki - Art of Memory Blog](https://artofmemory.com/blog/vocabulary-flashcards-google-translate-anki-4561.html)
+
+- [ ] [5 Must-Have Anki Addons for Medical Students (Anki 2.0 and 2.1) — SHAMIM AHMED](https://medshamim.com/med/must-have-anki-add-ons)
+
+- [ ] [GitHub - sudarshang/anki-connect: Anki plugin to expose a remote API for creating flash cards.](https://octolinker-demo.now.sh/sudarshang/anki-connect)
+
+- [ ] [ObjC 中国 - SwiftUI 与 Combine 编程](https://objccn.io/products/swift-ui)
+
+- [ ] [OneV's Den](https://onevcat.com/)
+
+- [ ] [www.reddit.com](https://www.reddit.com/r/Anki/comments/98eyv6/can_i_get_anki_desktop_on_chromebook/)
+
+- [ ] [www.reddit.com](https://www.reddit.com/r/Anki/comments/8o01pq/anki_quick_adder_a_chrome_extension_for_creating/)
+
+- [ ] [www.reddit.com](https://www.reddit.com/r/Anki/comments/8y4gfj/question_what_do_you_think_about_anki_chromebook/)
+
+- [ ] [1497504 – anki: Can't download any plugins from Anki repository](https://bugzilla.redhat.com/show_bug.cgi?id=1497504)
+
+- [ ] [The RedPRL Proof Assistant — RedPRL documentation](http://www.redprl.org/en/latest/)
+
+- [ ] [ImageResizer, an anki addon to resize images | Searene](http://searene.me/2016/02/14/ImageResizer-an-anki-addon-to-resize-images/)
+
+- [ ] [The Making of the World’s Greatest Investor - WSJ](https://www.wsj.com/articles/the-making-of-the-worlds-greatest-investor-11572667202)
+
+- [ ] [The Making of the World’s Greatest Investor - WSJ](https://www.wsj.com/articles/the-making-of-the-worlds-greatest-investor-11572667202)
+
+- [ ] [Using Anki and Spaced Repetition | Hacker News](https://news.ycombinator.com/item?id=20015406)
+
+- [ ] [AnkiConnect - AnkiWeb](https://ankiweb.net/shared/info/2055492159)
+
+- [ ] [FooSoft Productions - Yomichan](https://foosoft.net/projects/yomichan/)
+
+- [ ] [FooSoft Productions - AnkiConnect](https://foosoft.net/projects/anki-connect/)
+
+- [ ] [FooSoft Productions - Yomichan](https://foosoft.net/projects/yomichan/)
