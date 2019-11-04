@@ -1344,3 +1344,21 @@ https://drive.google.com/drive/u/2/priority
 insert implied symbol - Google Search
 https://www.google.com/search?client=firefox-b-d&q=insert+implied+symbol
 
+
+## 11/01/2019
+
+Time Series Workshop
+http://roseyu.com/time-series-workshop/
+
+gpytorch/Simple_GP_Regression.ipynb at master · cornellius-gp/gpytorch
+https://github.com/cornellius-gp/gpytorch/blob/master/examples/01_Simple_GP_Regression/Simple_GP_Regression.ipynb
+
+r scrape pdf report - Google Search
+https://www.google.com/search?client=firefox-b-d&q=r+scrape+pdf+report
+
+pdf_text r - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNR_UWSXaKDM1npZ5ZNRH47L7oZShA%3A1572583860424&lei=tLm7XZvDGda4-gTGxYm4DA&q=pdf_text%20r&ved=2ahUKEwjMmOy1m8jlAhUJvJ4KHaaVCowQsKwBKAB6BAgAEAE
+
+read pdf table in r - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNR_UWSXaKDM1npZ5ZNRH47L7oZShA%3A1572583860424&lei=tLm7XZvDGda4-gTGxYm4DA&q=read%20pdf%20table%20in%20r&ved=2ahUKEwjMmOy1m8jlAhUJvJ4KHaaVCowQsKwBKAN6BAgAEAQ
+
