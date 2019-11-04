@@ -705,3 +705,45 @@ https://twitter.com/malco_barrett
 - [ ] [Quoc Le (@quocleix) / Twitter](https://twitter.com/quocleix)
 
 - [ ] [The Stanford AI Lab (@StanfordAILab) / Twitter](https://twitter.com/StanfordAILab)
+
+
+
+
+## 11/04/2019
+
+(1) Min RK (@minrk) / Twitter
+https://twitter.com/minrk
+
+Death Stranding: The Kotaku Review
+https://kotaku.com/death-stranding-the-kotaku-review-1839474313
+
+Yisong Yue (@yisongyue) / Twitter
+https://twitter.com/yisongyue
+
+Peter Battaglia (@PeterWBattaglia) / Twitter
+https://twitter.com/PeterWBattaglia
+
+Andrew Gordon Wilson (@andrewgwils) / Twitter
+https://twitter.com/andrewgwils
+
+Chris Holdgraf (@choldgraf) / Twitter
+https://twitter.com/choldgraf
+
+David Sussillo ☝️🤓 (@SussilloDavid) / Twitter
+https://twitter.com/SussilloDavid
+
+Yisong Yue (@yisongyue) / Twitter
+https://twitter.com/yisongyue
+
+TensorFlow Probability
+https://www.tensorflow.org/probability/overview
+
+probability/logistic_regression.py at master · tensorflow/probability
+https://github.com/tensorflow/probability/blob/master/tensorflow_probability/examples/logistic_regression.py
+
+probability/bayesian_neural_network.py at master · tensorflow/probability
+https://github.com/tensorflow/probability/blob/master/tensorflow_probability/examples/bayesian_neural_network.py
+
+probability/tensorflow_probability/examples/jupyter_notebooks at master · tensorflow/probability
+https://github.com/tensorflow/probability/tree/master/tensorflow_probability/examples/jupyter_notebooks
+

@@ -1631,3 +1631,26 @@ https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNR_UWSXa
 
 - [ ] [r kernel density bandwidth selection - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRcTh8bJGwycXHfZNgEXQ7eppD7dg%3A1572696014642&lei=zm-9XYvtJuPemAXmib_wDA&q=r%20kernel%20density%20bandwidth%20selection&ved=2ahUKEwi-ndObvcvlAhU-yIsBHUDTD9YQsKwBKAF6BAgBEAI)
 >>>>>>> 1a70c67005c7f5e27d39ca464416d9b00d62f450
+
+
+
+---
+
+
+## 11/04/2019
+
+module 'tensorflow' has no attribute 'random_uniform' - Google Search
+https://www.google.com/search?client=firefox-b-d&q=module+%27tensorflow%27+has+no+attribute+%27random_uniform%27
+
+www.tf.enable_eager_execution()/ - Google Search
+https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTG-xRhDitBU2wKz1LE16lhPqyjfw%3A1572847921552&source=hp&ei=McG_XdX_HuvB7gLlv7iICg&q=www.tf.enable_eager_execution%28%29%2F&oq=www.tf.enable_eager_execution%28%29%2F&gs_l=psy-ab.3...14350.24963..25572...0.0..1.1520.3292.6-2j0j1......0....2j1..gws-wiz.....10..35i362i39.Fox1mhEvQhw&ved=0ahUKEwiV3JaN88_lAhXroFsKHeUfDqEQ4dUDCAc&uact=5
+
+module 'tensorflow' has no attribute 'random_uniform' - Google Search
+https://www.google.com/search?client=firefox-b-d&q=module+%27tensorflow%27+has+no+attribute+%27random_uniform%27
+
+tensorflow - Can I use TensorBoard with Google Colab? - Stack Overflow
+https://stackoverflow.com/questions/47818822/can-i-use-tensorboard-with-google-colab/52844764
+
+Diigo PDF Reader
+moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
+
