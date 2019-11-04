@@ -36,3 +36,28 @@ https://vimeo.com/328803321
 
 erre Relations -- from Wolfram MathWorld](http://mathworld.wolfram.com/Chevalley-SerreRelations.html)
 
+
+how to add admin in gcp - Google Search
+https://www.google.com/search?client=firefox-b-d&q=how+to+add+admin+in+gcp
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiOx9Kg5M_lAhXL6Z4KHbgjBTUQFjABegQIEBAC&url=http%3A%2F%2Fwww.maths.usyd.edu.au%2FSTAT3023%2Fr%2FSTAT3023-UoS-outline.pdf&usg=AOvVaw3ZJd9iropMr918H-Jv7NRa
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwiOx9Kg5M_lAhXL6Z4KHbgjBTUQFjABegQIEBAC&url=http%3A%2F%2Fwww.maths.usyd.edu.au%2FSTAT3023%2Fr%2FSTAT3023-UoS-outline.pdf&usg=AOvVaw3ZJd9iropMr918H-Jv7NRa
+
+"julia" vector norm - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNRG5sY_tqFtTZtg9HK6raklICdRmA%3A1572841451840&ei=66e_XYTyMurM0PEPqv2iyA0&q=%22julia%22+vector+norm&oq=%22julia%22+vector+norm&gs_l=psy-ab.3..0i71l8.3349686.3353762..3354342...0.3..0.0.0.......0....1..gws-wiz.3cUcjGYAebU&ved=0ahUKEwjEk5mA28_lAhVqJjQIHaq-CNkQ4dUDCAo&uact=5
+
+Class: Vector (Ruby 2.6.2)
+https://ruby-doc.org/stdlib-2.6.2/libdoc/matrix/rdoc/Vector.html
+
+dataframe - R: Calculating the norm from a data frame - Stack Overflow
+https://stackoverflow.com/questions/49164206/r-calculating-the-norm-from-a-data-frame
+
+r - Euclidean distance of two vectors - Stack Overflow
+https://stackoverflow.com/questions/5559384/euclidean-distance-of-two-vectors
+
+L1 and L2 norms in R - Stack Overflow
+https://stackoverflow.com/questions/42049895/l1-and-l2-norms-in-r
+
+how to calculate the Euclidean norm of a vector in R? - Stack Overflow
+https://stackoverflow.com/questions/10933945/how-to-calculate-the-euclidean-norm-of-a-vector-in-r
+
