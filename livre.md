@@ -1587,3 +1587,286 @@ http://libgen.is/search.php?&req=probability+game&phrase=1&view=simple&column=de
 - [ ] [Library Genesis: Shaun Hargreaves-Heap, Yanis Varoufakis - Game Theory: A Critical Introduction](http://libgen.is/book/index.php?md5=0A73B1EC77A812003F21DB046F10CF75)
 
 - [ ] [Library Genesis: Shaun Hargreaves-Heap, Yanis Varoufakis - Game theory: a critical text](http://libgen.is/book/index.php?md5=8A43E40918500DCF9D08778F4877749C)
+
+
+
+
+
+## 11/2/2019
+
+- [ ] [The best books on Learning from the Great Depression | A Five Books interview](https://fivebooks.com/best-books/learning-from-the-great-depression/)
+
+- [ ] [Best Books of 2019 | Five Books Expert Recommendations](https://fivebooks.com/books/best-books-of-2019/)
+
+- [ ] [Book Awards | Five Books Expert Recommendations](https://fivebooks.com/books/book-awards/)
+
+- [ ] [Books that Inspired a Liberal Economist | Paul Krugman on Five Books](https://fivebooks.com/best-books/paul-krugman-readinglist/)
+
+- [ ] [Books that Show Economics is Fun | Five Books Expert Recommendations](https://fivebooks.com/best-books/economics-fun-daniel-hamermesh/)
+
+- [ ] [Economic Theory and the Financial Crisis: A Reading List | Five Books Expert Recommendations](https://fivebooks.com/best-books/economic-theory-financial-crisis-eric-maskin/)
+
+- [ ] [New Books | Five Books Expert Recommendations](https://fivebooks.com/new-books/)
+
+- [ ] [The Best Adam Smith Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/)
+
+- [ ] [The Best Audiobooks | Five Books Expert Recommendations](https://fivebooks.com/category/audiobooks/)
+
+- [ ] [The Best Audiobooks | Five Books Expert Recommendations](https://fivebooks.com/category/audiobooks/)
+
+- [ ] [The Best Books on An Economic Historian's Favourite Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/peter-temin-favourite-books/)
+
+- [ ] [The Best Books on Austrian Economics | Five Books Expert Recommendations](https://fivebooks.com/best-books/peter-boetkke-on-austrian-economics/)
+
+- [ ] [The Best Books on Economics for Teenagers (Ages 10+) | Five Books Expert Recommendations](https://fivebooks.com/best-books/yana-van-der-meulen-rodgers-on-economics-for-teenagers/)
+
+- [ ] [The Best Books on Economics, the Soulful Science | Five Books Expert Recommendations](https://fivebooks.com/best-books/diane-coyle-economics-soulful-science/)
+
+- [ ] [The Best Books on Futures | Five Books Expert Recommendations](https://fivebooks.com/best-books/andrew-curry-futures/)
+
+- [ ] [The Best Books on Game Theory | Five Books Expert Recommendations](https://fivebooks.com/best-books/ariel-rubinstein-on-game-theory/)
+
+- [ ] [The Best Books on John Maynard Keynes | Five Books Expert Recommendations](https://fivebooks.com/best-books/robert-skidelsky-keynes/)
+
+
+
+
+
+
+
+
+
+
+## 11/2/2019
+
+- [ ] [The Best Books on Congress | Five Books Expert Recommendations](https://fivebooks.com/best-books/congress-julian-zelizer/)
+
+- [ ] []()
+
+- [ ] [The Best Books on American History | Five Books Expert Recommendations](https://fivebooks.com/best-books/american-history-brent-glass/)
+
+- [ ] [The best books on the History of American Women | Five Books interview](https://fivebooks.com/best-books/jay-kleinberg-on-the-history-of-american-women/)
+
+- [ ] [The Best Books on The Rise and Fall of America | Five Books Expert Recommendations](https://fivebooks.com/best-books/dr-patrick-porter-on-the-rise-and-fall-of-america/)
+
+- [ ] [The Best Books on The US Constitution | Five Books Expert Recommendations](https://fivebooks.com/best-books/jack-rakove-on-the-us-constitution/)
+
+- [ ] [The Best Books on American Imperialism | Five Books Expert Recommendations](https://fivebooks.com/best-books/american-imperialism-ag-hopkins/)
+
+- [ ] [The Best Speeches of all Time | Five Books](https://fivebooks.com/best-books/clarence-b-jones-best-speeches-of-all-time/)
+
+- [ ] [The Best Books on American Presidents | Five Books Expert Recommendations](https://fivebooks.com/best-books/h-w-brands-on-american-presidents/)
+
+- [ ] []()
+
+- [ ] [The Best Books about First Ladies | Five Books Expert Recommendations](https://fivebooks.com/best-books/first-ladies-carl-sferrazza-anthony/)
+
+- [ ] [What ended the Great Depression? (NBER working papers series): Christina Romer: Amazon.com: Books](https://www.amazon.com/dp/B0006DDXM8/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [The Best Books on 9/11 | Five Books Expert Recommendations](https://fivebooks.com/best-books/yosri-fouda-on-911/)
+
+- [ ] [The Best Books on The Reagan Era | Five Books Expert Recommendations](https://fivebooks.com/best-books/doug-rossinow-reagan-era/)
+
+- [ ] [The End of One Big Deflation | Five Books Expert Reviews](https://fivebooks.com/book/end-one-big-deflation/)
+
+- [ ] [Best Books of 2019 | Five Books Expert Recommendations](https://fivebooks.com/books/best-books-of-2019/)
+
+- [ ] [Book Awards | Five Books Expert Recommendations](https://fivebooks.com/books/book-awards/)
+
+- [ ] [Books that Inspired a Liberal Economist | Paul Krugman on Five Books](https://fivebooks.com/best-books/paul-krugman-readinglist/)
+
+- [ ] [Books that Show Economics is Fun | Five Books Expert Recommendations](https://fivebooks.com/best-books/economics-fun-daniel-hamermesh/)
+
+- [ ] [Economic Theory and the Financial Crisis: A Reading List | Five Books Expert Recommendations](https://fivebooks.com/best-books/economic-theory-financial-crisis-eric-maskin/)
+
+- [ ] [New Books | Five Books Expert Recommendations](https://fivebooks.com/new-books/)
+
+- [ ] [The Best Adam Smith Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/adam-smith-dennis-rasmussen/)
+
+- [ ] [The Best Audiobooks | Five Books Expert Recommendations](https://fivebooks.com/category/audiobooks/)
+
+- [ ] [The Best Audiobooks | Five Books Expert Recommendations](https://fivebooks.com/category/audiobooks/)
+
+- [ ] [The Best Books on An Economic Historian's Favourite Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/peter-temin-favourite-books/)
+
+- [ ] [The Best Books on Austrian Economics | Five Books Expert Recommendations](https://fivebooks.com/best-books/peter-boetkke-on-austrian-economics/)
+
+- [ ] [The Best Books on Economics for Teenagers (Ages 10+) | Five Books Expert Recommendations](https://fivebooks.com/best-books/yana-van-der-meulen-rodgers-on-economics-for-teenagers/)
+
+- [ ] [The Best Books on Economics, the Soulful Science | Five Books Expert Recommendations](https://fivebooks.com/best-books/diane-coyle-economics-soulful-science/)
+
+- [ ] [The Best Books on Futures | Five Books Expert Recommendations](https://fivebooks.com/best-books/andrew-curry-futures/)
+
+- [ ] [Experts we've interviewed for book recommendations, listed by discipline | Five Books](https://fivebooks.com/experts/)
+
+- [ ] [Best Modern British History Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/modern-british-history-andrew-hindmoor/)
+
+- [ ] [The Best Books on Philosophy for Teens | Five Books Expert Recommendations](https://fivebooks.com/best-books/philosophy-for-teens-andrew-brower-latz/)
+
+- [ ] [The Best Books on Napoleon | Five Books Expert Recommendations](https://fivebooks.com/best-books/napoleon-andrew-roberts/)
+
+- [ ] [The best books on Learning from the Great Depression | A Five Books interview](https://fivebooks.com/best-books/learning-from-the-great-depression/)
+
+- [ ] [Economics Books | Five Books Expert Recommendations](https://fivebooks.com/category/economics/)
+
+- [ ] [The Best Board Games | Five Books Editors' Recommendations](https://fivebooks.com/gift-list/the-best-board-games/)
+
+- [ ] [The Best Philosophy Books | Five Books Expert Recommendations](https://fivebooks.com/category/philosophy/)
+
+- [ ] [Math Books & Statistics Books | Five Books Expert Recommendations](https://fivebooks.com/category/mathematics-and-science/maths-statistics/)
+
+- [ ] [The Best Sherlock Holmes Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/sherlock-holmes-michael-dirda/)
+
+- [ ] [The Best Agatha Christie Books | Five Books Expert Recommendations](https://fivebooks.com/best-books/agatha-christie-mathew-prichard/)
+
+- [ ] [The Best Books on Computer Science and Programming | Five Books Expert Recommendations](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
+
+- [ ] [The Best Books on Ancient Greece | Five Books Expert Recommendations](https://fivebooks.com/best-books/ancient-greece-christopher-pelling/)
+
+
+
+
+## from amazon
+
+## 11/2/2019
+
+- [ ] [Amazon.com: Modeling Bounded Rationality (9780262681001): Ariel Rubinstein: Books](https://www.amazon.com/dp/0262681005/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Amazon.com: Obliquity: Why Our Goals Are Best Achieved Indirectly (9780143120551): John Kay: Books](https://www.amazon.com/dp/0143120557/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Amazon.com: Origin of Wealth: Evolution, Complexity, and the Radical Remaking of Economics (9781578517770): Eric D. Beinhocker: Books](https://www.amazon.com/dp/157851777X/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [America's Greatest Depression, 1929-1941: 9780060412296: Economics Books @ Amazon.com](https://www.amazon.com/dp/0060412291/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [America's Greatest Depression, 1929-1941: 9780060412296: Economics Books @ Amazon.com](https://www.amazon.com/dp/0060412291/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Collected Papers, Vol. 1: Robert J. Aumann: 9780262011549: Amazon.com: Books](https://www.amazon.com/dp/0262011549/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Economic Fables: Ariel Rubinstein: 9781906924775: Amazon.com: Books](https://www.amazon.com/dp/1906924775/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Economic Fables: Ariel Rubinstein: 9781906924775: Amazon.com: Books](https://www.amazon.com/Economic-Fables-Ariel-Rubinstein/dp/1906924775?creativeASIN=1906924775&linkCode=w61&imprToken=vx54aea8mYAPYj4cOlC2sA&slotNum=1&tag=thebro-21)
+
+- [ ] [Economics and Language (Churchill Lectures in Economics): Ariel Rubinstein: 9780521789905: Amazon.com: Books](https://www.amazon.com/dp/0521789907/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Essays on the Great Depression: Ben S. Bernanke: 9780691118208: Amazon.com: Books](https://www.amazon.com/dp/0691118205/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Essays on the Great Depression: Ben S. Bernanke: 9780691118208: Amazon.com: Books](https://www.amazon.com/dp/0691118205/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Games and Decisions: Introduction and Critical Survey (Dover Books on Mathematics): R. Duncan Luce, Howard Raiffa: 9780486659435: Amazon.com: Books](https://www.amazon.com/dp/0486659437/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Golden Fetters: The Gold Standard and the Great Depression, 1919-1939 (NBER Series on Long-term Factors in Economic Development): Barry Eichengreen: 9780195101133: Amazon.com: Books](https://www.amazon.com/dp/0195101138/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [John Maynard Keynes (Great Thinkers in Economics): P. Davidson: 9780230229204: Amazon.com: Books](https://www.amazon.com/dp/0230229204/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [John Maynard Keynes: 1883-1946: Economist, Philosopher, Statesman: Robert Skidelsky: 9780143036159: Amazon.com: Books](https://www.amazon.com/dp/0143036157/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [John Maynard Keynes: Fighting for Freedom, 1937-1946: Robert Skidelsky: 9780142001677: Amazon.com: Books](https://www.amazon.com/dp/0142001678/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [John Maynard Keynes: Hyman P. Minsky: 9780071593014: Amazon.com: Books](https://www.amazon.com/dp/0071593012/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Keynes and the Market: How the World's Greatest Economist Overturned Conventional Wisdom and Made a Fortune on the Stock Market: Justyn Walsh: 9780470284964: Amazon.com: Books](https://www.amazon.com/dp/047028496X/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Lecture Notes in Microeconomic Theory: The Economic Agent: 8580000741209: Economics Books @ Amazon.com](https://www.amazon.com/dp/0691120315/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Oswald Mosley (Papermacs): Robert Skidelsky: 9780333293850: Amazon.com: Books](https://www.amazon.com/dp/0333293851/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Other People's Money: Masters of the Universe or Servants of the People? [Paperback] John Kay: J. Kay: 9781781254455: Amazon.com: Books](https://www.amazon.com/dp/1781254451/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Russia's Choices: Robert Skidelsky: 9780954643003: Amazon.com: Books](https://www.amazon.com/dp/0954643003/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Russia's Place in the World in the 21st Century (Research): Robert Skidelsky: 9780955497544: Amazon.com: Books](https://www.amazon.com/dp/095549754X/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [The Architecture of Markets: An Economic Sociology of Twenty-First-Century Capitalist Societies: Neil Fligstein: 9780691102542: Amazon.com: Books](https://www.amazon.com/dp/0691102546/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [The Long and the Short of It (International Edition): Professor of Industrial Policy at the London Business School and Fellow John Kay: 9781781256756: Amazon.com: Books](https://www.amazon.com/dp/1781256756/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [The Unexplored Keynes and Other Essays: A Socio-Economic Miscellany: Anand Chandavarkar: 9788171887361: Amazon.com: Books](https://www.amazon.com/dp/8171887368/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [Truth About Markets: Why Some Countries Are Rich And Others Remain Poor: John Kay: 9780140296723: Amazon.com: Books](https://www.amazon.com/dp/0140296727/ref=as_at?tag=fivebooks001-20)
+
+- [ ] [www.amazon.com](https://www.amazon.com/dp/0072877308/ref=as_at?tag=fivebooks001-20)
+
+
+## 11/2/2019
+
+- [ ] [Best Economics Books for Kids | Five Books Expert Recommendations](https://fivebooks.com/best-books/economics-kids-yana-van-der-meulen-rodgers/)
+
+- [ ] [Economic Theory and the Financial Crisis: A Reading List | Five Books Expert Recommendations](https://fivebooks.com/best-books/economic-theory-financial-crisis-eric-maskin/)
+
+- [ ] [Economics Books | Five Books Expert Recommendations](https://fivebooks.com/category/economics/)
+
+- [ ] [Sophie Roell | Five Books](https://fivebooks.com/interviewer/sophie-roell/)
+
+- [ ] [The Best Books on Economics, the Soulful Science | Five Books Expert Recommendations](https://fivebooks.com/best-books/diane-coyle-economics-soulful-science/)
+
+- [ ] [The Best Books on Market Competition | Five Books Expert Recommendations](https://fivebooks.com/best-books/market-competition-jason-furman/)
+
+- [ ] [The Best Books on Rethinking Economics | Five Books Expert Recommendations](https://fivebooks.com/best-books/rethinking-economics/)
+
+- [ ] [The Best Books on Risk Management | Five Books Expert Recommendations](https://fivebooks.com/best-books/graciela-chichilnisky-on-risk-management/)
+
+- [ ] [The Best Books on Urban Economics | Five Books Expert Recommendations](https://fivebooks.com/best-books/best-books-urban-economics-edward-glaeser/)
+
+
+
+
+
+
+
+
+----
+
+
+
+
+## 11/3/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&res=100&req=swift&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Wallace%20Wang&column[]=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Allan%20Fowler&column[]=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Stefan+Kaczmarek&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+Brad+Lees&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+Gary+Bennett&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Jesse+Feiler&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Hacking+With+Swift&column=series)
+
+- [ ] [Library Genesis: Clayton, Janie - Metal programming guide : tutorial and reference via Swift](http://libgen.is/book/index.php?md5=E96C9E4098011B64AA53E20130BCD307)
+
+- [ ] [Library Genesis: E.M. Rasel, W.P. Schleich, S. Wölk - Foundations of Quantum Theory (International School of Physics Enrico Fermi)](http://libgen.is/book/index.php?md5=472C7E83826C92D70301E94323CCA170)
+
+- [ ] [Library Genesis: Enrique López Mañas - 100 Questions and Answers to Help You Land Your Dream iOS Job: Or to Hire the Right Candidate!](http://libgen.is/book/index.php?md5=B3580C66E28F62B75D8349EE18B63EDD)
+
+- [ ] [Library Genesis: Jesse Feiler - Implementing iOS and macOS Documents with the Files App: Managing Files and Ensuring Compatibility](http://libgen.is/book/index.php?md5=DB631DC82FCF32FE47EEB72BFAFF2ADC)
+
+- [ ] [Library Genesis: Jon Hoffman - Swift Protocol-Oriented Programming](http://libgen.is/book/index.php?md5=44F1144CDB56D17B80DA8414E76E3275)
+
+- [ ] [Library Genesis: Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent - Practical Artificial Intelligence with Swift: From Fundamental Theory to Development of AI-Driven Apps](http://libgen.is/book/index.php?md5=50165F6A8610A34C4F49861AD51F13DB)
+
+- [ ] [Library Genesis: Matt Neuburg - iOS 13 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics](http://libgen.is/book/index.php?md5=ED0430B56E6C48B34B656D67160A25C0)
+
+- [ ] [Library Genesis: Mohit Thakkar - Beginning Machine Learning in iOS: CoreML Framework](http://libgen.is/book/index.php?md5=114FA375C45AC233C0B596C3C144F726)
+
+- [ ] [Library Genesis: Paul Hudson - Swift Coding Challenges](http://libgen.is/book/index.php?md5=924803FCA4A0FF9790F09ABA73BE83D8)
+
+- [ ] [Library Genesis: raywenderlich Tutorial Team; Matthijs Hollemans; Audrey Tam; Chris LaPollo - Machine Learning by Tutorials: Beginning Machine Learning for Apple and iOS](http://libgen.is/book/index.php?md5=FDA043F76954A968DC684E4A2548E08A)
+
+- [ ] [Library Genesis: Stefan Kaczmarek, Brad Lees, Gary Bennett - Swift 5 for Absolute Beginners: Learn to Develop Apps for iOS](http://libgen.is/book/index.php?md5=9BE66BD517E2E7CF0E1FC8E0C088DF12)
+
+- [ ] [Library Genesis: Tjeerd in ’t Veen - Swift In Depth](http://libgen.is/book/index.php?md5=5B97DDA9FECE597CC3D1A2789297AE7C)
+
+- [ ] [Library Genesis: Wallace Wang - Beginning ARKit for iPhone and iPad: Augmented Reality App Development for iOS](http://libgen.is/book/index.php?md5=45BF1A3782C4CE070301AB02E2BDDB29)
+
+- [ ] [Library Genesis: Wallace Wang - Beginning ARKit for iPhone and iPad: Augmented Reality App Development for iOS](http://libgen.is/book/index.php?md5=2FF833E7DD6C69A87830285DDDE5D6F3)
+
+- [ ] [Library Genesis: Wallace Wang - Beginning iPhone Development with Swift 5: Exploring the iOS SDK](http://libgen.is/book/index.php?md5=DD0B3AE354B2415C4EDC08120F21C567)
+
+- [ ] [Library Genesis: Wallace Wang - Pro iPhone Development with Swift 5: Design and Manage Top Quality Apps](http://libgen.is/book/index.php?md5=52294991014364ABBA10573A26CEB242)
+
+- [ ] [Library Genesis: Yanis Zafirópulos - Swift 4 Recipes: Hundreds of Useful Hand-picked Code Snippets](http://libgen.is/book/index.php?md5=19BEB64837BB5ED3A8564956B6677736)

@@ -197,3 +197,25 @@ https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html#maximum-likelihood-with-
 -[ ] [Exact Likelihood-free Markov Chain Monte Carlo for Elliptically Contoured Distributions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4607478/#R23)
 
 -[ ] [High throughput nonparametric probability density estimation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5947915/)
+
+
+
+
+
+## 11/2/2019
+
+- [ ] [Quick-R: Density Plots](https://www.statmethods.net/graphs/density.html)
+
+- [ ] [R Programming/Nonparametric Methods - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/R_Programming/Nonparametric_Methods)
+
+- [ ] [Smoothed density estimates — geom_density • ggplot2](https://ggplot2.tidyverse.org/reference/geom_density.html)
+
+- [ ] [plot.density: Plot Method for Kernel Density Estimation](https://rdrr.io/r/stats/plot.density.html)
+
+- [ ] [Density Plot - Learn about this chart and tools to create it](https://datavizcatalogue.com/methods/density_plot.html)
+
+- [ ] [ggplot2 histogram plot : Quick start guide - R software and data visualization - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/ggplot2-histogram-plot-quick-start-guide-r-software-and-data-visualization)
+
+- [ ] [15 Common Logical Fallacies and How to Spot Them](https://blog.hubspot.com/marketing/common-logical-fallacies)
+
+- [ ] [R: Kernel Density Estimation](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/density.html)

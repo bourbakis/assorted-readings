@@ -43,3 +43,11 @@ As always, inferential thinking begins with a careful examination of the assumpt
 - [ ] What is "computation". Give a working general definition of "computing".
 
 
+> “The stresses on the US economy in 2008 were much larger than those in 1930\. So why has this recession, as bad as it has been, not been a second Great Depression or even worse?”
+>
+> -- https://fivebooks.com/best-books/learning-from-the-great-depression/#book-22A
+
+describe in what perspetive 2008 depression is worse than 1929
+
+and why the great depression is not even worse
+

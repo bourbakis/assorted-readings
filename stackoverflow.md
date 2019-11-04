@@ -231,3 +231,17 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [mixture - Why does not the weighted sum of gamma distribution come from weighted gamma variables? - Cross Validated](https://stats.stackexchange.com/questions/376818/why-does-not-the-weighted-sum-of-gamma-distribution-come-from-weighted-gamma-var)
 
 - [ ] [random generation - sampling from a mixture of two Gamma distributions - Cross Validated](https://stats.stackexchange.com/questions/226834/sampling-from-a-mixture-of-two-gamma-distributions)
+
+
+
+## 11/2/2019
+
+- [ ] [Adding a curve to a scatter plot in R - Stack Overflow](https://stackoverflow.com/questions/21805183/adding-a-curve-to-a-scatter-plot-in-r)
+
+- [ ] [ggplot2 - R: Add a curve,with my own equation, to an x,y scatterplot - Stack Overflow](https://stackoverflow.com/questions/28969760/r-add-a-curve-with-my-own-equation-to-an-x-y-scatterplot)
+
+- [ ] [How to plot a function curve in R - Stack Overflow](https://stackoverflow.com/questions/26091323/how-to-plot-a-function-curve-in-r)
+
+- [ ] [r - curve() does not add curve to my plot when "add = TRUE" - Stack Overflow](https://stackoverflow.com/questions/37198445/curve-does-not-add-curve-to-my-plot-when-add-true)
+
+- [ ] [r - Draw more than one function curves in the same plot - Stack Overflow](https://stackoverflow.com/questions/4049674/draw-more-than-one-function-curves-in-the-same-plot)

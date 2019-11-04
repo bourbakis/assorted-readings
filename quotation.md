@@ -28,3 +28,9 @@
 > > Some universities have replaced textbooks by Western academics such as Milton Friedman and N. Gregory Mankiw with books written under a program called “Marxist theory research and building project.”
 >
 > -- https://gregmankiw.blogspot.com/#1719122766278206538
+
+
+
+> _The case of the_ [_computer sciences_](https://fivebooks.com/best-books/programming-computer-science-ana-bell/) _is interesting. For many years the Israeli computer scientists were criticised because the computer sciences were too abstract in Israel, whereas in other places they were thinking more in terms of practical applications.__But I think that people will agree now that the big success of the Israeli hi-tech industry in the last 20 years is also the outcome of the abstract way computer sciences was taught in places like Jerusalem in the seventies and eighties._That created the cultural environment on which the unbelievable success and flourishing of the hi-tech industry of Israel since the 1990s is based. This is a case where abstraction led indirectly to something practical. Of course, I’m not against something practical coming out eventually of abstract studies but it is not the target. Of course I can give you examples where game theoreticians, because they were intelligent, gave good advice – and probably some examples where game theoreticians gave bad advice.
+>
+> -- https://fivebooks.com/best-books/ariel-rubinstein-on-game-theory/#interviewcontent

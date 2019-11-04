@@ -680,3 +680,28 @@ https://twitter.com/vukosi
 
 
 https://twitter.com/malco_barrett
+
+
+
+
+## 11/2/2019
+
+- [ ] [(1) Cam DP (@Cmrn_DP) / Twitter](https://twitter.com/Cmrn_DP)
+
+- [ ] [(1) Doug Guthrie (@ProfGuthrie) / Twitter](https://twitter.com/profguthrie)
+
+- [ ] [(1) List memberships for @paperswithcode / Twitter](https://twitter.com/paperswithcode/lists/memberships)
+
+- [ ] [fast.ai (@fastdotai) / Twitter](https://twitter.com/fastdotai)
+
+- [ ] [Five Books (@five_books) / Twitter](https://twitter.com/five_books)
+
+- [ ] [(1) Michael Shwe (@mikeshwe) / Twitter](https://twitter.com/mikeshwe)
+
+- [ ] [Matthew McAteer (@MatthewMcAteer0) / Twitter](https://twitter.com/MatthewMcAteer0)
+
+- [ ] [Michael Shwe (@mikeshwe) / Twitter](https://twitter.com/mikeshwe)
+
+- [ ] [Quoc Le (@quocleix) / Twitter](https://twitter.com/quocleix)
+
+- [ ] [The Stanford AI Lab (@StanfordAILab) / Twitter](https://twitter.com/StanfordAILab)

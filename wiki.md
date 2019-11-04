@@ -250,3 +250,112 @@ https://en.wikipedia.org/wiki/Income_inequality_in_the_United_States
 Economic inequality - Wikipedia
 https://en.wikipedia.org/wiki/Economic_inequality
 
+
+
+
+
+## 11/2/2019
+
+- [ ] [Abstract Wiener space - Wikipedia](https://en.wikipedia.org/wiki/Abstract_Wiener_space)
+
+- [ ] [Biased random walk on a graph - Wikipedia](https://en.wikipedia.org/wiki/Biased_random_walk_on_a_graph)
+
+- [ ] [Branching random walk - Wikipedia](https://en.wikipedia.org/wiki/Branching_random_walk)
+
+- [ ] [Brownian bridge - Wikipedia](https://en.wikipedia.org/wiki/Brownian_bridge)
+
+- [ ] [Brownian excursion - Wikipedia](https://en.wikipedia.org/wiki/Brownian_excursion)
+
+- [ ] [Brownian motion - Wikipedia](https://en.wikipedia.org/wiki/Brownian_motion)
+
+- [ ] [Brownian web - Wikipedia](https://en.wikipedia.org/wiki/Brownian_web)
+
+- [ ] [Classical Wiener space - Wikipedia](https://en.wikipedia.org/wiki/Classical_Wiener_space)
+
+- [ ] [Correlation and dependence - Wikipedia](https://en.wikipedia.org/wiki/Correlation_and_dependence)
+
+- [ ] [Counting process - Wikipedia](https://en.wikipedia.org/wiki/Counting_process)
+
+- [ ] [Dahyun - Wikipedia](https://en.wikipedia.org/wiki/Dahyun)
+
+- [ ] [Donsker's theorem - Wikipedia](https://en.wikipedia.org/wiki/Donsker%27s_theorem)
+
+- [ ] [Entropy rate - Wikipedia](https://en.wikipedia.org/wiki/Entropy_rate)
+
+- [ ] [Euler–Maruyama method - Wikipedia](https://en.wikipedia.org/wiki/Euler%E2%80%93Maruyama_method)
+
+- [ ] [Euler–Maruyama method - Wikipedia](https://en.wikipedia.org/wiki/Euler%E2%80%93Maruyama_method)
+
+- [ ] [Expected value - Wikipedia](https://en.wikipedia.org/wiki/Expected_value)
+
+- [ ] [File:Eight-step random walks.png - Wikipedia](https://en.wikipedia.org/wiki/File:Eight-step_random_walks.png)
+
+- [ ] [File:Inhomogeneouspoissonprocess.svg - Wikipedia](https://en.wikipedia.org/wiki/File:Inhomogeneouspoissonprocess.svg)
+
+- [ ] [File:Marked point process.png - Wikipedia](https://en.wikipedia.org/wiki/File:Marked_point_process.png)
+
+- [ ] [File:OrnsteinUhlenbeck3.png - Wikipedia](https://en.wikipedia.org/wiki/File:OrnsteinUhlenbeck3.png)
+
+- [ ] [File:Random Walk Simulator.gif - Wikipedia](https://en.wikipedia.org/wiki/File:Random_Walk_Simulator.gif)
+
+- [ ] [File:ServidorParalelo.jpg - Wikipedia](https://en.wikipedia.org/wiki/File:ServidorParalelo.jpg)
+
+- [ ] [File:Sydney skyline at dusk - Dec 2008.jpg - Wikipedia](https://en.wikipedia.org/wiki/File:Sydney_skyline_at_dusk_-_Dec_2008.jpg)
+
+- [ ] [Fractal - Wikipedia](https://en.wikipedia.org/wiki/Fractal)
+
+- [ ] [Gravure idol - Wikipedia](https://en.wikipedia.org/wiki/Gravure_idol)
+
+- [ ] [Karhunen–Loève theorem - Wikipedia](https://en.wikipedia.org/wiki/Karhunen%E2%80%93Lo%C3%A8ve_theorem)
+
+- [ ] [Law of the iterated logarithm - Wikipedia](https://en.wikipedia.org/wiki/Law_of_the_iterated_logarithm)
+
+- [ ] [Lévy flight - Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9vy_flight)
+
+- [ ] [Lévy flight foraging hypothesis - Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9vy_flight_foraging_hypothesis)
+
+- [ ] [Limit (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Limit_(mathematics))
+
+- [ ] [Loop-erased random walk - Wikipedia](https://en.wikipedia.org/wiki/Loop-erased_random_walk)
+
+- [ ] [Maximal entropy random walk - Wikipedia](https://en.wikipedia.org/wiki/Maximal_entropy_random_walk)
+
+- [ ] [Norbert Wiener - Wikipedia](https://en.wikipedia.org/wiki/Norbert_Wiener)
+
+- [ ] [Poisson point process - Wikipedia](https://en.wikipedia.org/wiki/Poisson_point_process#Terminology)
+
+- [ ] [Poisson point process - Wikipedia](https://en.wikipedia.org/wiki/Poisson_point_process)
+
+- [ ] [Probability density function - Wikipedia](https://en.wikipedia.org/wiki/Probability_density_function)
+
+- [ ] [Probability distribution of extreme points of a Wiener stochastic process - Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution_of_extreme_points_of_a_Wiener_stochastic_process)
+
+- [ ] [Queueing theory - Wikipedia](https://en.wikipedia.org/wiki/Queueing_theory)
+
+- [ ] [Random walk - Wikipedia](https://en.wikipedia.org/wiki/Random_walk)
+
+- [ ] [Soft tennis - Wikipedia](https://en.wikipedia.org/wiki/Soft_tennis)
+
+- [ ] [Sydney - Wikipedia](https://en.wikipedia.org/wiki/Sydney)
+
+- [ ] [Wiener process - Wikipedia](https://en.wikipedia.org/wiki/Wiener_process)
+
+
+
+## 11/2/2019
+
+- [ ] [Ad hominem - Wikipedia](https://en.wikipedia.org/wiki/Ad_hominem)
+
+- [ ] [Bounded rationality - Wikipedia](https://en.wikipedia.org/wiki/Bounded_rationality)
+
+- [ ] [Cognitive dissonance - Wikipedia](https://en.wikipedia.org/wiki/Cognitive_dissonance)
+
+- [ ] [Doug Guthrie - Wikipedia](https://en.wikipedia.org/wiki/Doug_Guthrie)
+
+- [ ] [File:Georgeevans.gif - Wikipedia](https://en.wikipedia.org/wiki/File:Georgeevans.gif)
+
+- [ ] [George Evans (cartoonist) - Wikipedia](https://en.wikipedia.org/wiki/George_Evans_(cartoonist))
+
+- [ ] [Space Shuttle Challenger disaster - Wikipedia](https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster)
+
+- [ ] [Wikipedia:No personal attacks - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:No_personal_attacks)

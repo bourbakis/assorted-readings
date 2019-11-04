@@ -1345,6 +1345,7 @@ insert implied symbol - Google Search
 https://www.google.com/search?client=firefox-b-d&q=insert+implied+symbol
 
 
+<<<<<<< HEAD
 ## 11/01/2019
 
 Time Series Workshop
@@ -1362,3 +1363,271 @@ https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNR_UWSXa
 read pdf table in r - Google Search
 https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNR_UWSXaKDM1npZ5ZNRH47L7oZShA%3A1572583860424&lei=tLm7XZvDGda4-gTGxYm4DA&q=read%20pdf%20table%20in%20r&ved=2ahUKEwjMmOy1m8jlAhUJvJ4KHaaVCowQsKwBKAN6BAgAEAQ
 
+=======
+
+## 11/2/2019
+
+- [ ] [%>% operator in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQYSQAZvIp-HYqY-GbRSq-HJO09Yg%3A1572691441700&lei=8V29XeudKuOUr7wP56Cp4Aw&q=%25%3E%25%20operator%20in%20r&ved=2ahUKEwjBkPmWrMvlAhUOCqYKHf-4DEcQsKwBKAB6BAgBEAE)
+
+- [ ] [Advice to hedgehogs, or, constants can vary - Google Search](https://www.google.com/search?q=Advice+to+hedgehogs%2C+or%2C+constants+can+vary&oq=Advice+to+hedgehogs%2C+or%2C+constants+can+vary&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [An Introduction to the Theory of Point Processes - Google Search](https://www.google.com/search?q=An+Introduction+to+the+Theory+of+Point+Processes&oq=An+Introduction+to+the+Theory+of+Point+Processes&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [argument is of length zero r - Google Search](https://www.google.com/search?q=argument+is+of+length+zero+r&oq=argument+is+of+length+zero+r&aqs=chrome..69i57j0l4j69i64.2563j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [brownian motion quant - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTrfacef3Y485jxdcpZrWTfvxF54Q%3A1572659227771&lei=G-C8XevcLoqVr7wPsOGA6AM&q=brownian%20motion%20quant&ved=2ahUKEwi45bWZtMrlAhXjKqYKHVFEBc8QsKwBKAR6BAgDEAU)
+
+- [ ] [compound poisson process solved problems - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQudLYODFGeU4PxcTsjGC6gQIF8lA%3A1572686932045&lei=VEy9XbuzAumtmAXsloDYCA&q=compound%20poisson%20process%20solved%20problems&ved=2ahUKEwiF0IOym8vlAhUQy4sBHV_XAkQQsKwBKAN6BAgBEAQ)
+
+- [ ] [donald trump - Google Search](https://www.google.com/search?gs_ssp=eJzj4tTP1TdILiyxNDBgBAAT3QLx&q=donald+trump&oq=donaold+tr&aqs=chrome.1.69i57j46j0j46j0.5072j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [e euler maruyama scheme - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQk97GP6U7heLbOBt3w6fDTqRQ-zw:1572660141224&q=e+euler+maruyama+scheme&sa=X&ved=2ahUKEwjIq8fIt8rlAhVxHKYKHXUNBnAQ1QIoBHoECD4QBQ)
+
+- [ ] [equivalent definitions of poisson process - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQudLYODFGeU4PxcTsjGC6gQIF8lA%3A1572686932045&lei=VEy9XbuzAumtmAXsloDYCA&q=equivalent%20definitions%20of%20poisson%20process&ved=2ahUKEwiF0IOym8vlAhUQy4sBHV_XAkQQsKwBKAV6BAgDEAY)
+
+- [ ] [Euler–Maruyama method orstein-uhlenbeck process simulation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQk97GP6U7heLbOBt3w6fDTqRQ-zw%3A1572660141224&ei=reO8XYihDfG4mAX1mpiABw&q=Euler%E2%80%93Maruyama+method+orstein-uhlenbeck+process+simulation+&oq=Euler%E2%80%93Maruyama+method+orstein-uhlenbeck+process+simulation+&gs_l=psy-ab.3..35i304i39.40565.40565..41508...0.1..0.203.203.2-1......0....1..gws-wiz.......0i71.mjEYXR7c_1A&ved=0ahUKEwjIq8fIt8rlAhVxHKYKHXUNBnAQ4dUDCAs&uact=5)
+
+- [ ] [exclamation mark in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQYSQAZvIp-HYqY-GbRSq-HJO09Yg%3A1572691441700&lei=8V29XeudKuOUr7wP56Cp4Aw&q=exclamation%20mark%20in%20r&ved=2ahUKEwjBkPmWrMvlAhUOCqYKHf-4DEcQsKwBKAR6BAgBEAU)
+
+- [ ] [exponential distribution interarrival time - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSHt2Tufs6WCkhvbjavTMPcaVoT4Q%3A1572687227952&lei=e029XavjObaPr7wPgcm3gAc&q=exponential%20distribution%20interarrival%20time&ved=2ahUKEwie8PnBnMvlAhUDHKYKHfjrACoQsKwBKAV6BAgFEAY)
+
+- [ ] [girl - Google Search](https://www.google.com/search?newwindow=1&tbs=simg:CAESuAIJaDfbLovPifsarAILEKjU2AQaBAgXCD0MCxCwjKcIGmIKYAgDEijpHMgR6hyFHIgc_1x6GHOYchByJHLIysTK2MrcylTLKPJYyyTyYMukxGjDaf4M7yeDXB3Num7CfJRyLG0OafycGDPkpHl13U2o6D5k3-TZ90TEJUn4Du_1_1QQzEgBAwLEI6u_1ggaCgoICAESBKydx40MCxCd7cEJGpcBChcKBGdpcmzapYj2AwsKCS9tLzA1cjY1NQofCgtwaG90byBzaG9vdNqliPYDDAoKL20vMDJxYmwxbQogCg1qYXBhbmVzZSBpZG9s2qWI9gMLCgkvbS8wM3NyNDMKHwoMZ3JhdnVyZSBpZG9s2qWI9gMLCgkvbS8wM3dtMjIKGAoFbmF2ZWzapYj2AwsKCS9tLzAxaG5ubQw&sxsrf=ACYBGNQJhXgiEzyXXhMFw-xCkmfy0FqGMw:1572679268382&q=girl&tbm=isch&sa=X&ved=2ahUKEwi7w4zp_srlAhWOF6YKHcrSCrQQsw56BAgAEAE)
+
+- [ ] [Google Search](https://www.google.com/search?tbs=sbi:AMhZZitbQ4ECq5Ty4yw6nDq16LXrljj-qeclqQwyoA3_1_1DpFPYNeu3PlYnO4gQLYE0ta0tK21wvB4Dpjnlrjg3VuYdFGGZjqZz9C5XMBvn9asN_1sjasmqR5kaoSSnmb8Jjsf82XG6z1dWIfPufIfJs-4TS8ZY2Ye2KlrEx6xqe1g0KcZRm6RRDiz5SGrfyQUZ3Xq6xfAUFGKPdSb9pecgBMjHkK5R3zzqC295jH-E45N6hHgkEZZOEZUZuuqXDdoONENs_1GQYBSKaesrZ-PVWonzzZ1YUr4JBNJ2gIyc44I0JGXLm6FF8AWpqkPNFU8nkyljJpDeLUvkQsHgsLDPybRbDR4p25y_1jg)
+
+- [ ] [Google Search](https://www.google.com/search?tbs=sbi:AMhZZivwxVfFwg1qOM5QUhspDNJj23Yp_1vV37cV9LFmTrwxRp4q5d_1alxs4hU4jfxLURbooJlkoh6UzQLD1p1VzPeF5Qgr3RH7ASa7HOERKXe50BAoDj2QiuEc2MacwGFO7QT0JS2yIYneEPOqdAdNJxd7YUEN39Ln_1JQY7RKB14_1wWW7SMtB-QsWKqaFHZPW8yfk5y0LUQTbUoWhUc2GtI-igtix4I7ZxZOGrJqS3IbZDRBVOpY0PYZ1EO135dM7HGeiaNy-phfvj1-EIzqPdpg1uL7vUhYmNDwcATNtOM2OmS3M0FdAZHV33KxdF67uXPLg9QMnYHBTVl-xrW_10CYfL_1j0s1RBcQ)
+
+- [ ] [Google Search](https://www.google.com/search?tbs=sbi:AMhZZiuxU4Q3FU-24Cz1j05xm8FvEfcMyQpNq2gYNU1LlnWouwY69ZEHTZgOQ5vMRmoBJG4btarkkRC0aHR7Qb78mOcsiFZ74bTfLiRxRiNPQY6KnIrOkVflHfdE9KQsqOJXoFsegOouzzl14WcRg0C3DYQ9E0eltOyHu14G5whgGGGgNTmPGpw2R8c96V7uqgljng46K9066OMQcusNVqwdJKF1QylRIp5GBgILqVoP2hFhBXeW-5NsZHMkNL6lSfAm4SRYVuXb0Ky65U1suKcv7d9YKL9J-r8qKXPMGWxeZP3cEu9ADZyq-zlWOYvdRyvx_1elQpaXyAzOJMzcoZpXGbEVoqkPqdA)
+
+- [ ] [Implementing Ornstein–Uhlenbeck in python - Google Search](https://www.google.com/search?q=Implementing+Ornstein%E2%80%93Uhlenbeck+in+python&oq=Implementing+Ornstein%E2%80%93Uhlenbeck+in+python&aqs=chrome..69i57j69i59l2j69i60.3124j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [inner prodct r - Google Search](https://www.google.com/search?q=inner+prodct+r&oq=inner+prodct+r&aqs=chrome..69i57j0l5.3775j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [langevin equation python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQk97GP6U7heLbOBt3w6fDTqRQ-zw:1572660141224&q=langevin+equation+python&sa=X&ved=2ahUKEwjIq8fIt8rlAhVxHKYKHXUNBnAQ1QIoA3oECD4QBA)
+
+- [ ] [Malware Warning](https://www.google.com/interstitial?url=http://new.alfarenginiai.lt/t12u/brownian-motion-stock-price-simulation-python.html)
+
+- [ ] [poisson distribution with variable rate - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQudLYODFGeU4PxcTsjGC6gQIF8lA%3A1572686932045&lei=VEy9XbuzAumtmAXsloDYCA&q=poisson%20distribution%20with%20variable%20rate&ved=2ahUKEwiF0IOym8vlAhUQy4sBHV_XAkQQsKwBKAV6BAgBEAY)
+
+- [ ] [Poisson Point Processes: Imaging, Tracking, and Sensin - Google Search](https://www.google.com/search?q=Poisson+Point+Processes%3A+Imaging%2C+Tracking%2C+and+Sensin&oq=Poisson+Point+Processes%3A+Imaging%2C+Tracking%2C+and+Sensin&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [poisson process expected value proof - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQudLYODFGeU4PxcTsjGC6gQIF8lA%3A1572686932045&lei=VEy9XbuzAumtmAXsloDYCA&q=poisson%20process%20expected%20value%20proof&ved=2ahUKEwiF0IOym8vlAhUQy4sBHV_XAkQQsKwBKAJ6BAgDEAM)
+
+- [ ] [poisson process python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTReu_EIuxHfbc61HfKnD4S3KnG8Q%3A1572687227951&lei=e029XZDhOYiymAWEgafoCg&q=poisson%20process%20python&ved=2ahUKEwjc5fLCnMvlAhUCGaYKHVXWCikQsKwBKAJ6BAgCEAM)
+
+- [ ] [poisson process python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQudLYODFGeU4PxcTsjGC6gQIF8lA%3A1572686932045&lei=VEy9XbuzAumtmAXsloDYCA&q=poisson%20process%20python&ved=2ahUKEwiF0IOym8vlAhUQy4sBHV_XAkQQsKwBKAR6BAgBEAU)
+
+- [ ] [Poisson processe - Google Search](https://www.google.com/search?q=Poisson+processe&oq=Poisson+processe&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [r generate non homogeneous poisson process - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTReu_EIuxHfbc61HfKnD4S3KnG8Q%3A1572687227951&lei=e029XZDhOYiymAWEgafoCg&q=r%20generate%20non%20homogeneous%20poisson%20process&ved=2ahUKEwjc5fLCnMvlAhUCGaYKHVXWCikQsKwBKAR6BAgCEAU)
+
+- [ ] [r generate non homogeneous poisson process - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXwHtq_I5M-1jaOfvdML9QpWp21w:1572692469259&q=r+generate+non+homogeneous+poisson+process&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQ1QIoBXoECGQQBg)
+
+- [ ] [Pasupathy: Generating homogeneous poisson processes - Google Scholar](https://scholar.google.com/scholar?cluster=9959853397508521067)
+
+- [ ] [r short circuit - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQYSQAZvIp-HYqY-GbRSq-HJO09Yg%3A1572691441700&lei=8V29XeudKuOUr7wP56Cp4Aw&q=r%20short%20circuit&ved=2ahUKEwjBkPmWrMvlAhUOCqYKHf-4DEcQsKwBKAJ6BAgBEAM)
+
+- [ ] [show that a wiener process is a martingale - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTrfacef3Y485jxdcpZrWTfvxF54Q%3A1572659227771&lei=G-C8XevcLoqVr7wPsOGA6AM&q=show%20that%20a%20wiener%20process%20is%20a%20martingale&ved=2ahUKEwi45bWZtMrlAhXjKqYKHVFEBc8QsKwBKAV6BAgDEAY)
+
+- [ ] [simulate ornstein uhlenbeck python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQk97GP6U7heLbOBt3w6fDTqRQ-zw:1572660141224&q=simulate+ornstein+uhlenbeck+python&sa=X&ved=2ahUKEwjIq8fIt8rlAhVxHKYKHXUNBnAQ1QIoAnoECD4QAw)
+
+- [ ] [soft tennis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTOyLcA9fdS_SR6hv1ajiqHhTwSXw:1572679149625&q=soft+tennis&sa=X&ved=0ahUKEwjzhbyw_srlAhWDGqYKHbpGDOMQvQ4IMigE)
+
+- [ ] [Stochastic geometry and its application - Google Search](https://www.google.com/search?q=Stochastic+geometry+and+its+application&oq=Stochastic+geometry+and+its+application&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [What happened to discrete chaos, the Quenouille process, and the sharp Markov property? Some history of stochastic point processes" - Google Search](https://www.google.com/search?q=What+happened+to+discrete+chaos%2C+the+Quenouille+process%2C+and+the+sharp+Markov+property%3F+Some+history+of+stochastic+point+processes%22&oq=What+happened+to+discrete+chaos%2C+the+Quenouille+process%2C+and+the+sharp+Markov+property%3F+Some+history+of+stochastic+point+processes%22&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [what is a non homogeneous poisson process - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTReu_EIuxHfbc61HfKnD4S3KnG8Q%3A1572687227951&lei=e029XZDhOYiymAWEgafoCg&q=what%20is%20a%20non%20homogeneous%20poisson%20process&ved=2ahUKEwjc5fLCnMvlAhUCGaYKHVXWCikQsKwBKAV6BAgCEAY)
+
+- [ ] [Write a function to simulate from this Poisson process python - Google Search](https://www.google.com/search?q=Write+a+function+to+simulate+from+this+Poisson+process+python&oq=Write+a+function+to+simulate+from+this+Poisson+process&aqs=chrome.1.69i57j69i59l2.1058j0j1&sourceid=chrome&ie=UTF-8)
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+## economics, AI(esp. differentail and/or probabilitic programming)
+
+
+## 11/2/2019
+
+- [ ] [Ad hominem attacks - Google Search](https://www.google.com/search?q=Ad+hominem+attacks&oq=Ad+hominem+attacks&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8)
+
+- [ ] [argumentum ad hominem - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT35Pu75LuDGnLFVfYrhIwLKgyRIg:1572701063944&q=argumentum+ad+hominem&tbm=isch&source=univ&sa=X&ved=2ahUKEwjzjISC0MvlAhXiFqYKHU9MCsQQiR56BAhiEAw)
+
+- [ ] [argumentum ad hominem - Google Search](https://www.google.com/search?q=argumentum+ad+hominem&oq=argumentum+ad+hominem&aqs=chrome..69i57j69i64j0l4.726j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Ariel Rubinstein - Google Search](https://www.google.com/search?q=Ariel+Rubinstein&oq=Ariel+Rubinstein&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Bayesian Analysis with Python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=Bayesian+Analysis+with+Python&stick=H4sIAAAAAAAAAEWOSwrCMABE6UKQojdQCOK-9mOxS3UtdO2mJKFtQvNPMOQ6HqdHcqVSP8vHzDxmvtoskz5JU7yvmA5aZ7EKHOcASTlct8pIBBFl1DqKwYt6AzmnogeuFVaajkk_RpMBlTtyKFnz5a9xjBZvzhAvUu3Rr-6DslWRfWKC1Y2Iwf3XTd6Zij-iuA6X83ToPlufYGgthQIcBWTBUgs8dQTUwREpnh9AdIXOAAAA&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQxA0wdnoECGUQBA)
+
+- [ ] [Bayesian Cognitive Modeling: A Practical Course - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=Bayesian+Cognitive+Modeling:+A+Practical+Course&stick=H4sIAAAAAAAAAEWOOw6CMACGw2BiiN7AoTHuCCIRN2UmYXYhbS2loQ9oEdLreByO5CQ-0PHP__rmq_XCo55f4rorZdUGbm0F3gGkVHXZ1FohiBhnpmUYjIpqKASTFLREGqULrvrBWb4GfBRty0PE80njfcwb2zSD8z4IkAj9pke_eG9rE4fB157-_-18V-hYPBw3s2nyAbrPvDO0xDAoQaKoZC3rCEjVlfCR6QhOINMQj6iQj_5NG_IE3S_5o98AAAA&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQxA0wdnoECGUQCg)
+
+- [ ] [bayesian methods for hackers review - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw%3A1572700639655&lei=34G9XaHgJ6-Sr7wPy8KuqAk&q=bayesian%20methods%20for%20hackers%20review&ved=2ahUKEwjGu5S-zsvlAhUZxYsBHRjUBnIQsKwBKAR6BAgAEAU)
+
+- [ ] [Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=Bayesian+Methods+for+Hackers:+Probabilistic+Programming+and+Bayesian+Inference&stick=H4sIAAAAAAAAAFWOOw6CMACGw2BiiN7AoTHuyEMijrrogGF2IW0p0NAHtETS63gcjuSkRkUZv_yPfNPFcu4UjuuicF1uQ5Z6dm049gGSsrqsaiURRJRR3VIMnlQoyDkVBWiJ0FLlTHa9NX74Mt5ErDFN01uzF3uIB27ToaHemVpHgfeJS1xfS1G1v3Xq5yrid8tOTHx4C90m5z00RFMoQEzaUmYa5FKBI8QVUXoHkpFv8ucLRQaG7UnkRBGByQMi2ViV_wAAAA&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQxA0wdnoECGUQDg)
+
+- [ ] [bayesian network python - Google Search](https://www.google.com/search?q=bayesian+network+python&oq=baysian+network+&aqs=chrome.1.69i57j0l5.6909j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [bayesian network r - Google Search](https://www.google.com/search?q=bayesian+network+r&oq=bayesian+network+r&aqs=chrome..69i57j0l4j69i64.2598j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [bayesian network r - Google Search](https://www.google.com/search?q=bayesian+network+r&newwindow=1&sxsrf=ACYBGNR-nJYcV0hQNnuUm0V1LWLfSzFPKw:1572701484484&tbm=isch&sa=X&ved=2ahUKEwiD3sfK0cvlAhX_yYsBHX-3BKUQ7AkoAXoECGYQCw)
+
+- [ ] [bayesian network tensorflow probability - Google Search](https://www.google.com/search?q=bayesian+network+tensorflow+probability&oq=bayesian+network+tens&aqs=chrome.2.69i57j0l5.5964j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Bayesian survival analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=Bayesian+survival+analysis&stick=H4sIAAAAAAAAAEWOOQrCQBhGSSFI0AtIikHsY1ZMq7VgbRP-GbIMmX1iwlzH4-RIVipxKR_fwlsG23XYhFFEsjKpTcFjXzlOEoSl7K47ZSQGTBm1PSXoRY0BzqloUF8JK03N5Dh58wPO9-0hZ-WXSVYw7bSevNWbY8zTSI_4Vx-dskUaf-KWqKEVXf9fzz4Pz7-482kWui82R3CVpSCQvZmBDsAQCGDOUvsETWY4WMsAAAA&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQxA0wdnoECGUQDA)
+
+- [ ] [bayesloop - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw%3A1572700639655&lei=34G9XaHgJ6-Sr7wPy8KuqAk&q=bayesloop&ved=2ahUKEwjGu5S-zsvlAhUZxYsBHRjUBnIQsKwBKAF6BAgAEAI)
+
+- [ ] [Beinhocker - Google Search](https://www.google.com/search?q=Beinhocker&oq=Beinhocker&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Bob Aumann - Google Search](https://www.google.com/search?q=Bob+Aumann&oq=Bob+Aumann&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Bryan Seybold - Google Search](https://www.google.com/search?q=Bryan+Seybold&oq=Bryan+Seybold&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [causal inference tensorflow - Google Search](https://www.google.com/search?q=causal+inference+tensorflow&oq=causal+inference+tens&aqs=chrome.0.0j69i57j0l3.8782j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [China and globalization Doug Guthrie - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRkC0FRqxpncoOwY_M-Zm9USMvuag:1572706293201&q=China+and+globalization+Doug+Guthrie&stick=H4sIAAAAAAAAAONgFuLSz9U3SK6yTKsqV4KwjZMNDM21BBxLSzLyi0LynfLzs_3zcioXsao4Z2TmJSok5qUopOfkJyXmZFYllmTm5ym45JemK7gD1RdlpgIAy2MsRVMAAAA&ved=2ahUKEwiqtsS_48vlAhVcxYsBHQlgBXIQxA0wenoECGUQJg)
+
+- [ ] [Christina Romer - Google Search](https://www.google.com/search?q=Christina+Romer&oq=Christina+Romer&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [classification python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQW7vqOs-EGXnb6lmvZXGJnv_d6w:1572701477784&q=classification+python&stick=H4sIAAAAAAAAAE2MuwrCMBRArUR0FEHFRYKL4JJ2qEMnP8HZRa7xloamNzEJ9PE1pZ_ppIKI24FzOLP9YiMaKUQl4kR2xzL7UNol1xPS7qdS2T2Sf3XYVhggE40FQv3ODEm0IfPqjjW0_rK-QYteAXHCUBtXctuGwtAQzT9Th7kirJCCiJ_R6ozGauSgveEewcmC58b1bNSzqGfjnk2HyVJq8F7lSkJQhr6_FzgpzanBAAAA&sa=X&ved=2ahUKEwiE9K7H0cvlAhUoHKYKHewbBx4Q0p8CMIABegQIaBAb)
+
+- [ ] [cognitive bias - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTufmWIUdcwkgNH1iBX2eiWXrHbRw%3A1572701081671&ei=mYO9XbLHKMOLr7wPgZSUiAU&q=cognitive+bias&oq=cognitive+bias&gs_l=psy-ab.3.0.0j0i20i263j0l8.9001.9796..11213...0.3..0.452.930.2j2j4-1......0....1..gws-wiz.......0i71j35i39.mzHXpg_22Mk)
+
+- [ ] [cognitive dissonance - Google Search](https://www.google.com/search?q=cognitive+dissonance&oq=cognitive+&aqs=chrome.1.69i57j0i271l2j69i65j69i61j69i64.5445j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [cognitive dissonance examples everyday life - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTufmWIUdcwkgNH1iBX2eiWXrHbRw%3A1572701081671&ei=mYO9XbLHKMOLr7wPgZSUiAU&q=cognitive+dissonance+examples+everyday+life&oq=cognitive+dissonance&gs_l=psy-ab.1.1.0i71l8.0.0..7377...0.6..0.0.0.......0......gws-wiz.G-S6NEtXKwI)
+
+- [ ] [cognitive dissonance experiment - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTufmWIUdcwkgNH1iBX2eiWXrHbRw%3A1572701081671&ei=mYO9XbLHKMOLr7wPgZSUiAU&q=cognitive+dissonance+experiment&oq=cognitive+dissonance&gs_l=psy-ab.3.0.0i71l8.0.0..9507...0.4..0.0.0.......0......gws-wiz.S6F-dUt3tYg)
+
+- [ ] [Doing Bayesian Data Analysis: A Tutorial Introduction with R John Kruschke - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=Doing+Bayesian+Data+Analysis:+A+Tutorial+Introduction+with+R+John+Kruschke&stick=H4sIAAAAAAAAAFWOvW7CMBSFlQEJIfoGDFcVOySkqOnGz1IqJFQxdYlsN8RXsX0T22nk1-nj8EhMFBWoOh6dn-_0R4_DSTmJE67TuOl4MqiDFjPgRNXHuLbEGUeFzqOAH1VapjWaEnxhHNmDou4YPVwGYj6fyue5ym9aPGWqCU1zjP4B7vEu1C5Lk6stRf0lTeX_2vnsYDN9iga7sF39HvrubdZ0oS9ZKBwyA2vmGSwMU8Ghe4EF7FtPFpmCV-MtfbbCIxno0Et4hw1JA2-2dUJWxRnzwlER-gAAAA&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQxA0wdnoECGUQBg)
+
+- [ ] [Doug Guthrie - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSj1QlZoeYZnuTdQC8cjkCaq2cMXA:1572706272894&q=Doug+Guthrie&stick=H4sIAAAAAAAAAOPgE-LSz9U3MC0rK8iuUgKzk6ss06rKtTQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrHyuOSXpiu4l5ZkFGWmAgCkRvglUwAAAA&ved=2ahUKEwifge2148vlAhWVyosBHXalDmAQmxMoATB3egQIYRAp)
+
+- [ ] [Dragon in a three-piece suit Doug Guthrie - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRkC0FRqxpncoOwY_M-Zm9USMvuag:1572706293201&q=Dragon+in+a+three-piece+suit+Doug+Guthrie&stick=H4sIAAAAAAAAAONgFuLSz9U3SK6yTKsqV4KwjZMNDJO0BBxLSzLyi0LynfLzs_3zcioXsWq6FCWm5-cpZOYpJCqUZBSlpuoWZKYmpyoUl2aWKLjkl6YruAM1FWWmAgCEC10uWAAAAA&ved=2ahUKEwiqtsS_48vlAhVcxYsBHQlgBXIQxA0wenoECGUQKA)
+
+- [ ] [Economic Fables - Google Search](https://www.google.com/search?q=Economic+Fables&oq=Economic+Fables&aqs=chrome..69i57j69i60l4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [edward bayesian regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw%3A1572700639655&lei=34G9XaHgJ6-Sr7wPy8KuqAk&q=edward%20bayesian%20regression&ved=2ahUKEwjGu5S-zsvlAhUZxYsBHRjUBnIQsKwBKAR6BAgEEAU)
+
+- [ ] [Edward Glaeser - Google Search](https://www.google.com/search?q=Edward+Glaeser&oq=Edward+Glaeser&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [edward tensorflow tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw%3A1572700639655&lei=34G9XaHgJ6-Sr7wPy8KuqAk&q=edward%20tensorflow%20tutorial&ved=2ahUKEwjGu5S-zsvlAhUZxYsBHRjUBnIQsKwBKAJ6BAgEEAM)
+
+- [ ] [Elisabeth S. Clemens - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRkC0FRqxpncoOwY_M-Zm9USMvuag:1572706293201&q=Elisabeth+S.+Clemens&stick=H4sIAAAAAAAAAONgFuLSz9U3SK6yTKsqV4KwjS0Ksg20-AJSi4rz84IzU1LLEyuLF7GKuOZkFicmpZZkKATrKTjnpOam5hUDABntNDhBAAAA&ved=2ahUKEwiqtsS_48vlAhVcxYsBHQlgBXIQxA0wfHoECGUQMw)
+
+- [ ] [George Evans - Google Search](https://www.google.com/search?q=George+Evans&oq=George+Evans&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [George Evans - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTj5F7f1zrCUrwkJ6S6hVXFnpleZQ:1572703491602&q=George+Evans&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnOSalUQjC1hLOTrfST83Nz8_OsijNTUssTK4sXsfK4p-YXpacquJYl5hXvYGUEACXE7c8_AAAA&sa=X&ved=2ahUKEwjjr9CH2cvlAhX9w4sBHfNnCUcQzTooATCDAXoECGsQAg)
+
+- [ ] [george evans books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTj5F7f1zrCUrwkJ6S6hVXFnpleZQ:1572703491602&q=george+evans+books&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnOSalUQjC1pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWsQump-UXpqQqpZYl5xQpgmR2sjAB1xDmdTAAAAA&sa=X&ved=2ahUKEwjjr9CH2cvlAhX9w4sBHfNnCUcQzTooATCCAXoECGYQAg)
+
+- [ ] [Hanno Lustig - Google Search](https://www.google.com/search?q=Hanno+Lustig&oq=Hanno+Lustig&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [It tells us the difficulty markets have in correcting group think. You really have to be quite Aspergerish to take a stand against the crowd. In fact one of Lewis’s heroes, as it were, is hedge fund manager Michael Burry, who clearly had serious socialisation problems. - Google Search](https://www.google.com/search?q=It+tells+us+the+difficulty+markets+have+in+correcting+group+think.+You+really+have+to+be+quite+Aspergerish+to+take+a+stand+against+the+crowd.+In+fact+one+of+Lewis%E2%80%99s+heroes%2C+as+it+were%2C+is+hedge+fund+manager+Michael+Burry%2C+who+clearly+had+serious+socialisation+problems.&oq=It+tells+us+the+difficulty+markets+have+in+correcting+group+think.+You+really+have+to+be+quite+Aspergerish+to+take+a+stand+against+the+crowd.+In+fact+one+of+Lewis%E2%80%99s+heroes%2C+as+it+were%2C+is+hedge+fund+manager+Michael+Burry%2C+who+clearly+had+serious+socialisation+problems.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [John Kay - Google Search](https://www.google.com/search?q=John+Kay&oq=John+Kay&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Joshua Rauh - Google Search](https://www.google.com/search?q=Joshua+Rauh&oq=Joshua+Rauh&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Long-Run Economic Relationships - Google Search](https://www.google.com/search?q=Long-Run+Economic+Relationships&oq=Long-Run+Economic+Relationships&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Macroeconomic Theory, again by Thomas Sargent - Google Search](https://www.google.com/search?q=Macroeconomic+Theory%2C+again+by+Thomas+Sargent&oq=Macroeconomic+Theory%2C+again+by+Thomas+Sargent&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Meredith Whitney - Google Search](https://www.google.com/search?q=Meredith+Whitney&oq=Meredith+Whitney&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Monika Piazzesi - Google Search](https://www.google.com/search?q=Monika+Piazzesi&oq=Monika+Piazzesi&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [naive bayes python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQW7vqOs-EGXnb6lmvZXGJnv_d6w:1572701477784&q=naive+bayes+python&stick=H4sIAAAAAAAAAE2OvQrCMBSFrUR0lA6KCBJcBJe0gw6ZfARnF4nxloa2NyEJ9udpQh_TSSsKbodzPj7ObBevWCMZq1iSyu5Y8CEduvR6Atyuf9NQcBTqAfQmWnDvcb-pwAvOGiMQyjeoUYLx3Kk71KJ1l-WHVAIpgq-1Lahpfa6xj-aD1kKmECpAz5JntDiDNiVQUTpNHQgrc5ppG8gokCiQcSDTfhL_PfjKXmrKh6rAAAAA&sa=X&ved=2ahUKEwiE9K7H0cvlAhUoHKYKHewbBx4Q0p8CMIABegQIaBAZ)
+
+- [ ] [Neil Fligstein - Google Search](https://www.google.com/search?q=Neil+Fligstein&oq=Neil+Fligstein&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Neil Fligstein - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSj1QlZoeYZnuTdQC8cjkCaq2cMXA:1572706272894&q=Neil+Fligstein&stick=H4sIAAAAAAAAAONgFuLSz9U3MC0rK8iuUkJia0llJ1vpF6TmF-SkAqmi4vw8q-LMlNTyxMriRax8fqmZOQpuOZnpxSWpmXk7WBkBOMy6ekoAAAA&ved=2ahUKEwifge2148vlAhWVyosBHXalDmAQzTooATB6egQIYRA5)
+
+- [ ] [neil fligstein books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSIzxdwpSJy7ikWrLvd4qjZw3Iiuw:1572706213268&q=neil+fligstein+books&stick=H4sIAAAAAAAAAONgFuLSz9U3MC0rK8iuUkJia0llJ1vpJ-XnZ-snlpZk5BdZgdjFCvl5OZWLWEXyUjNzFNJyMtOLS1Iz8xTAcjtYGQH5tdq4UAAAAA&sa=X&ved=2ahUKEwi76LWZ48vlAhUzK6YKHXAXA7sQzTooATB7egQIZhAC)
+
+- [ ] [neural network python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQW7vqOs-EGXnb6lmvZXGJnv_d6w:1572701477784&q=neural+network+python&stick=H4sIAAAAAAAAAF2MuwrCMBRArUR0FMHXIsFFcEk71KGTn-DsItf0lpamNyGJ9PE1pZ_ppA6CuB04hzM7LLaikUJUIoxkdyqTD8VddDsj7TdfFad5_WuOuwo9JKIxQKjelSaJxieuSLGG1l3Xd2jRFUCc0Nfalty0Ptc0BPPP02JWEFZIXoTPYHVBbRRyUE5zh2BlzjNtezbqWdCzcc-mw2RJ-LCg_n4vl70LjMAAAAA&sa=X&ved=2ahUKEwiE9K7H0cvlAhUoHKYKHewbBx4Q0p8CMIABegQIaBAd)
+
+- [ ] [osh Dillon - Google Search](https://www.google.com/search?q=osh+Dillon&oq=osh+Dillon&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [practical probabilistic programming - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw%3A1572700639655&lei=34G9XaHgJ6-Sr7wPy8KuqAk&q=practical%20probabilistic%20programming&ved=2ahUKEwjGu5S-zsvlAhUZxYsBHRjUBnIQsKwBKAB6BAgAEAE)
+
+- [ ] [Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano - Google Search](https://www.google.com/search?q=Probabilistic+Programming+in+Python%3A+Bayesian+Modeling+and+Probabilistic+Machine+Learning+with+Theano&oq=Probabilistic+Programming+in+Python%3A+Bayesian+Modeling+and+Probabilistic+Machine+Learning+with+Theano&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [probabilistic programming languages - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw%3A1572700639655&lei=34G9XaHgJ6-Sr7wPy8KuqAk&q=probabilistic%20programming%20languages&ved=2ahUKEwjGu5S-zsvlAhUZxYsBHRjUBnIQsKwBKAN6BAgAEAQ)
+
+- [ ] [probabilistic programming python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=probabilistic+programming+python&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQ1QIoAnoECGgQAw)
+
+- [ ] [Probabilistic Programming pytorch - Google Search](https://www.google.com/search?q=Probabilistic+Programming+pytorch&oq=Probabilistic+Programming+pytorch&aqs=chrome..69i57.5702j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [probabilistic programming tensorflow - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=probabilistic+programming+tensorflow&stick=H4sIAAAAAAAAAOOQMZIrKMpPSkzKzMksLslMVgDy0osSc3Mz89IVkvLzs6NUcMuXpOYV5xel5eSXn2Lk1U_XNzRMMjPIsDDLiYfzyytzswuKDE8x8oD4Rkm5KZXpxhWnGLn0c_UNzAoLLCqLEXIlOVVpRTCt6VkVhjlFecZw6bwCg5T0EoRqs5KSwiwE1zynPKviF6NcAF7vLGIlyj8AEPcIQRgBAAA&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQzTooADB1egQIZxAC)
+
+- [ ] [probabilistic programming tensorflow - Google Search](https://www.google.com/search?newwindow=1&sa=N&sxsrf=ACYBGNT_DUzECihOghcfjgFWMwIO8OfuQQ:1572700732258&q=probabilistic+programming+tensorflow&tbm=isch&source=univ&ved=2ahUKEwjUx-_jzsvlAhW7IqYKHUPtDkM4ZBCwBHoECAoQAQ)
+
+- [ ] [probabilistic programming vs machine learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw%3A1572700639655&lei=34G9XaHgJ6-Sr7wPy8KuqAk&q=probabilistic%20programming%20vs%20machine%20learning&ved=2ahUKEwjGu5S-zsvlAhUZxYsBHRjUBnIQsKwBKAV6BAgAEAY)
+
+- [ ] [pyro vs edward - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw%3A1572700639655&lei=34G9XaHgJ6-Sr7wPy8KuqAk&q=pyro%20vs%20edward&ved=2ahUKEwjGu5S-zsvlAhUZxYsBHRjUBnIQsKwBKAV6BAgEEAY)
+
+- [ ] [R Duncan Luce and Howard Raiffa - Google Search](https://www.google.com/search?q=R+Duncan+Luce+and+Howard+Raiffa&oq=R+Duncan+Luce+and+Howard+Raiffa&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Rational Expectations and Econometric Practice - Google Search](https://www.google.com/search?q=Rational+Expectations+and+Econometric+Practice&oq=Rational+Expectations+and+Econometric+Practice&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Recursive Macroeconomic Theory - Google Search](https://www.google.com/search?q=Recursive+Macroeconomic+Theory&oq=Recursive+Macroeconomic+Theory&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [reinforcement learning python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQW7vqOs-EGXnb6lmvZXGJnv_d6w:1572701477784&q=reinforcement+learning+python&stick=H4sIAAAAAAAAADWMuwrCMBiFrVR0FAcvgxJcBJe0gw6dfARnF4nxr41N_4Qk0MvThD6mk23R7XC-75zZYbGhFae0oFHMm3Oe9OnUxPcL4H79R30xkOwty44cdwU4ltBKMwTZWQo5aJdY8YSS1fa2erAarGBIEFypTE507TKFbTDvPw2kAqEAdDT6BMsrKC2BMGkVscAMz0iqjA9HPgx8OPbhtJ1sDQjsWj7MiOw0FPj6_X4BR39egsgAAAA&sa=X&ved=2ahUKEwiE9K7H0cvlAhUoHKYKHewbBx4Q0p8CMIABegQIaBAf)
+
+- [ ] [Sean Myers - Google Search](https://www.google.com/search?q=Sean+Myers&oq=Sean+Myers&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Statistical Rethinking: A Bayesian Course with Examples in R and Stan - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=Statistical+Rethinking:+A+Bayesian+Course+with+Examples+in+R+and+Stan&stick=H4sIAAAAAAAAAEWOzQ7BQBSF04VEhDewuBF7Wj9RO8RSIuxsZKamnUnnrzNDzet4HI9kpSiWX-6553zNbq8zyAZhiEuvbTyOopb2IhkBVio_9LVRGGHGmXUsgYoyg4RgMgNHpFUm5aq8B3XDdEhnU378cjKJeeGL4h60XxxhMQ6LEv_i9WB9pom-UJm7__dxlJpYPILW1m9WH6FbY713yL1tEIcdcZTJvNKZwwKWyBPLkISVOhtLoGSOwvqKhObEApOwAyRPUBXIJyqT7Hj2AAAA&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQxA0wdnoECGUQCA)
+
+- [ ] [Temin and Wigmore - Google Search](https://www.google.com/search?q=Temin+and+Wigmore&oq=Temin+and+Wigmore&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [tensorflow edward2 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw%3A1572700639655&lei=34G9XaHgJ6-Sr7wPy8KuqAk&q=tensorflow%20edward2&ved=2ahUKEwjGu5S-zsvlAhUZxYsBHRjUBnIQsKwBKAN6BAgEEAQ)
+
+- [ ] [tensorflow probability bayesian neural network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=tensorflow+probability+bayesian+neural+network&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQ1QIoBnoECGgQBw)
+
+- [ ] [tensorflow probability book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=tensorflow+probability+book&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQ1QIoBXoECGgQBg)
+
+- [ ] [tensorflow probability edward2 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=tensorflow+probability+edward2&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQ1QIoBHoECGgQBQ)
+
+- [ ] [tensorflow probability examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=tensorflow+probability+examples&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQ1QIoAHoECGgQAQ)
+
+- [ ] [tensorflow probability github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=tensorflow+probability+github&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQ1QIoAXoECGgQAg)
+
+- [ ] [tensorflow probability review - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw%3A1572700639655&lei=34G9XaHgJ6-Sr7wPy8KuqAk&q=tensorflow%20probability%20review&ved=2ahUKEwjGu5S-zsvlAhUZxYsBHRjUBnIQsKwBKAJ6BAgAEAM)
+
+- [ ] [tensorflow probability tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRR2OD4cZdMeGrggSP4A-RvKEzAJw:1572700639655&q=tensorflow+probability+tutorial&sa=X&ved=2ahUKEwjhy9u3zsvlAhUvyYsBHUuhC5UQ1QIoA3oECGgQBA)
+
+- [ ] [The agglomeration effects of culturally defined weeks cannot be avoided - Google Search](https://www.google.com/search?q=The+agglomeration+effects+of+culturally+defined+weeks+cannot+be+avoided&oq=The+agglomeration+effects+of+culturally+defined+weeks+cannot+be+avoided&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The Truth About Markets: Why Some Nations are Rich But Most Remain Poor - Google Search](https://www.google.com/search?q=The+Truth+About+Markets%3A+Why+Some+Nations+are+Rich+But+Most+Remain+Poor&oq=The+Truth+About+Markets%3A+Why+Some+Nations+are+Rich+But+Most+Remain+Poor&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+
+
+## others
+
+## 11/2/2019
+
+- [ ] [histogram in r ggplot2 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRcTh8bJGwycXHfZNgEXQ7eppD7dg%3A1572696014642&lei=zm-9XYvtJuPemAXmib_wDA&q=histogram%20in%20r%20ggplot2&ved=2ahUKEwi-ndObvcvlAhU-yIsBHUDTD9YQsKwBKAB6BAgAEAE)
+
+- [ ] [histogram in r with two variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRcTh8bJGwycXHfZNgEXQ7eppD7dg%3A1572696014642&lei=zm-9XYvtJuPemAXmib_wDA&q=histogram%20in%20r%20with%20two%20variables&ved=2ahUKEwi-ndObvcvlAhU-yIsBHUDTD9YQsKwBKAR6BAgAEAU)
+
+- [ ] [how to interpret density plot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRcTh8bJGwycXHfZNgEXQ7eppD7dg%3A1572696014642&lei=zm-9XYvtJuPemAXmib_wDA&q=how%20to%20interpret%20density%20plot&ved=2ahUKEwi-ndObvcvlAhU-yIsBHUDTD9YQsKwBKAN6BAgAEAQ)
+
+- [ ] [kdensity r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRcTh8bJGwycXHfZNgEXQ7eppD7dg%3A1572696014642&lei=zm-9XYvtJuPemAXmib_wDA&q=kdensity%20r&ved=2ahUKEwi-ndObvcvlAhU-yIsBHUDTD9YQsKwBKAJ6BAgBEAM)
+
+- [ ] [plot density kernel in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRcTh8bJGwycXHfZNgEXQ7eppD7dg:1572696014642&q=plot+density+kernel+in+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwiLjKuavcvlAhVjL6YKHebED84QsAR6BAgIEAE)
+
+- [ ] [pyschology fallacy - Google Search](https://www.google.com/search?q=pyschology%20fallacy)
+
+- [ ] [r kernel density bandwidth selection - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRcTh8bJGwycXHfZNgEXQ7eppD7dg%3A1572696014642&lei=zm-9XYvtJuPemAXmib_wDA&q=r%20kernel%20density%20bandwidth%20selection&ved=2ahUKEwi-ndObvcvlAhU-yIsBHUDTD9YQsKwBKAF6BAgBEAI)
+>>>>>>> 1a70c67005c7f5e27d39ca464416d9b00d62f450

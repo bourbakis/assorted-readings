@@ -3938,3 +3938,651 @@ https://area51.stackexchange.com/proposals/47845/game-theory?referrer=MGta8a5T8S
 Chicken (game) - Wikipedia
 https://en.wikipedia.org/wiki/Chicken_(game)
 
+
+
+
+
+
+
+
+## 11/2/2019
+
+- [ ] [Chapter 5 Random Number Generation | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/random-number-generation.html#ref-Lewi:Shed:simu:1979)
+
+- [ ] [https://www-ljk.imag.fr/membres/Jean-Francois.Coeurjolly/documents/lecture2.pdf](https://www-ljk.imag.fr/membres/Jean-Francois.Coeurjolly/documents/lecture2.pdf)
+
+- [ ] [Ch-processes.pdf](https://statweb.stanford.edu/~owen/mc/Ch-processes.pdf)
+
+- [ ] [users.iems.northwestern.edu/~ifghardt/GerhardtNelson_NSNP.pdf](http://users.iems.northwestern.edu/~ifghardt/GerhardtNelson_NSNP.pdf)
+
+- [ ] [proceedings.mlr.press/v63/lim83.pdf](http://proceedings.mlr.press/v63/lim83.pdf)
+
+- [ ] [A Nonhomogeneous Poisson Hidden Markov Model for Claim Counts | ASTIN Bulletin: The Journal of the IAA | Cambridge Core](https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/nonhomogeneous-poisson-hidden-markov-model-for-claim-counts/1C15BAEF81B6ED18089C88BEF4EC6F61)
+
+- [ ] [www.math.utah.edu/~bresslof/publications/18-7.pdf](http://www.math.utah.edu/~bresslof/publications/18-7.pdf)
+
+- [ ] [poisson process thinning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXwHtq_I5M-1jaOfvdML9QpWp21w:1572692469259&q=poisson+process+thinning&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQ1QIoA3oECGQQBA)
+
+- [ ] [probability - How Thinning a Poisson process can be thought of as a special case of a compound Poisson process? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2348056/how-thinning-a-poisson-process-can-be-thought-of-as-a-special-case-of-a-compound)
+
+- [ ] [probability theory - Thinning of Poisson process - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1581577/thinning-of-poisson-process)
+
+- [ ] [AMS 550 | Applied Mathematics & Statistics](https://www.stonybrook.edu/commcms/ams/graduate/_courses/ams550.php)
+
+- [ ] [A frequency quantum interpretation of the surface renewal model of mass transfer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541532/)
+
+- [ ] [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/course-notes/MIT6_262S11_chap04.pdf](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/course-notes/MIT6_262S11_chap04.pdf)
+
+- [ ] [continuous time branching process - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSmHOMTBmMaY7w15nAIVK09oJ5lLQ%3A1572692625468&lei=kWK9XamlHNeXr7wP-4e4uAQ&q=continuous%20time%20branching%20process&ved=2ahUKEwjvgKDMsMvlAhWRw4sBHV0iDu4QsKwBKAN6BAgAEAQ)
+
+- [ ] [Glencoe algebra 1 teacher edition](http://developmentbox1.ca/9pas/glencoe-algebra-1-teacher-edition.html)
+
+- [ ] [Rd exam prep quizlet](https://savinarosero.com/huv9/rd-exam-prep-quizlet.html)
+
+- [ ] [https://registrar.humboldt.edu/sites/default/files/pdf/catalog/course-descriptions/math.pdf](https://registrar.humboldt.edu/sites/default/files/pdf/catalog/course-descriptions/math.pdf)
+
+- [ ] [www.uni-mysore.ac.in/assets/downloads2011/PHD-syllabus/Statistics.pdf](http://www.uni-mysore.ac.in/assets/downloads2011/PHD-syllabus/Statistics.pdf)
+
+- [ ] [halweb.uc3m.es/esp/Personal/personas/bdauria/0910/Stoc_Proc_PhD/Notes/2010-03-11Th_Comments.pdf](http://halweb.uc3m.es/esp/Personal/personas/bdauria/0910/Stoc_Proc_PhD/Notes/2010-03-11Th_Comments.pdf)
+
+- [ ] [galton.uchicago.edu/~lalley/Courses/312/RenewalTheory.pdf](http://galton.uchicago.edu/~lalley/Courses/312/RenewalTheory.pdf)
+
+- [ ] [probability - Thinning a Poisson Process - Mathematics Stack Exchange](https://math.stackexchange.com/questions/580883/thinning-a-poisson-process)
+
+- [ ] [Page not found - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2254770/probability-distribution/2254900#2254900)
+
+- [ ] [[0/203/203-retry:0/0]/岡田紗佳 画像103枚！エロいお宝マンスジの水着下着グラビアにキュン死ｗ | アイドル村-グラビアエロ画像まとめサイト -](chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/imageExtractor.html?tabId=2623&fetchLevel=0)
+
+- [ ] [prob3.pdf](https://people.maths.ox.ac.uk/gilesm/mc/mc/prob3.pdf)
+
+- [ ] [[0705.1951] Brownian Motion, "Diverse and Undulating"](https://arxiv.org/abs/0705.1951)
+
+- [ ] [Index of /~cshalizi/754/notes](https://www.stat.cmu.edu/~cshalizi/754/notes/)
+
+- [ ] [xxx.dvi](https://www.csie.ntu.edu.tw/~lyuu/finance1/2015/20150429.pdf)
+
+- [ ] [Jr-Yan Wang's Homepage](http://homepage.ntu.edu.tw/~jryanwang/)
+
+- [ ] [ORNSTEIN_UHLENBECK - Approximate Solution of a Stochastic Differential Equation](https://people.sc.fsu.edu/~jburkardt/cpp_src/ornstein_uhlenbeck/ornstein_uhlenbeck.html)
+
+- [ ] [IPython Cookbook - 13.4. Simulating a stochastic differential equation](https://ipython-books.github.io/134-simulating-a-stochastic-differential-equation/)
+
+- [ ] [Photos - Google Photos](https://photos.google.com/u/1/?pageId=none)
+
+- [ ] [Untitled Document](https://physerver.hamilton.edu/Research/Brownian/index.html)
+
+- [ ] [岡田紗佳 画像103枚！エロいお宝マンスジの水着下着グラビアにキュン死ｗ | アイドル村-グラビアエロ画像まとめサイト](http://idol-gazoum.net/851.html)
+
+- [ ] [【グラビア】華村あすか、純白ビキニで美バストちらり　新プロジェクト始動 | グラドルまとめニュース](https://guradoru.matomenews.link/%E3%80%90%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E3%80%91%E8%8F%AF%E6%9D%91%E3%81%82%E3%81%99%E3%81%8B%E3%80%81%E7%B4%94%E7%99%BD%E3%83%93%E3%82%AD%E3%83%8B%E3%81%A7%E7%BE%8E%E3%83%90%E3%82%B9%E3%83%88/)
+
+- [ ] [Brownian Motion (Wiener Process)](https://www.probabilitycourse.com/chapter11/11_4_0_brownian_motion_wiener_process.php)
+
+- [ ] [Goodman : Distribution Estimates for Functionals of the Two-Parameter Wiener Process](https://projecteuclid.org/euclid.aop/1176995940)
+
+- [ ] [ImageAssistant Resource List : 资源列表 | 普利坞](http://www.pullywood.com/publish/imageassistant-resource-list)
+
+- [ ] [ResearchGate](https://www.researchgate.net/post/Are_Brownian_Motion_and_Wiener_Process_the_same_thing_How_is_Markov_Process_different_from_Martingale_Process)
+
+- [ ] [ResearchGate](https://www.researchgate.net/publication/288310720_The_euler-maruyama_approximation_for_the_reflecting_Ornstein-Uhlenbeck_process_using_the_penalty_method)
+
+- [ ] [pairs trading - How can I estimate the Ornstein-Uhlenbeck paramters of some mean reverting data that I have on R? - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/17156/how-can-i-estimate-the-ornstein-uhlenbeck-paramters-of-some-mean-reverting-data/17193#17193)
+
+- [ ] [Kawaii - deepbluetomato.tumblr.com - Tumbex](https://www.tumbex.com/deepbluetomato.tumblr/posts?tag=%E5%B2%A1%E7%94%B0%E7%B4%97%E4%BD%B3)
+
+- [ ] [sinitai - Tumblr Blog Gallery](https://tumblrgallery.com/tumblrblog/gallery/1003542/2.html)
+
+- [ ] [S. Lalley: Courses](http://www.stat.uchicago.edu/~lalley/Courses/index.html)
+
+- [ ] [Numerical Methods for Stochastic Ordinary Differential Equations (SODEs)](http://math.ucr.edu/~buli/GSS_Numerical_SODE.pdf)
+
+- [ ] [A Standard Wiener Process](https://sites.me.ucsb.edu/~moehlis/APC591/tutorials/tutorial7/node2.html)
+
+- [ ] [lectures_final.dvi](https://home.cscamm.umd.edu/lectures/files/EVandenLectures_final.pdf)
+
+- [ ] [Exercise 3: Stochastic differential equations](http://www.iam.fmph.uniba.sk/institute/stehlikova/fd14en/ex/ex03.html)
+
+- [ ] [Woods Hole Oceanographic Institution](https://www.whoi.edu/)
+
+- [ ] [Wiener Process -- from Wolfram MathWorld](http://mathworld.wolfram.com/WienerProcess.html)
+
+- [ ] [Brownian Motion and Stochastic Calculus (Graduate Texts in Mathematics) (Volume 113): Ioannis Karatzas, Steven Shreve: 9780387976556: Amazon.com: Books](https://www.amazon.com/exec/obidos/ASIN/0387976558/ref=nosim/ericstreasuretro)
+
+- [ ] [Probability, random variables, and stochastic processes (McGraw-Hill series in electrical engineering): Athanasios Papoulis: 9780070484689: Amazon.com: Books](https://www.amazon.com/exec/obidos/ASIN/0070484686/ref=nosim/ericstreasuretro)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/project/634440)
+
+- [ ] [Estimate Ornstein-Uhlenbeck Parameters with Euler Maruyama - Questions - PyMC Discourse](https://discourse.pymc.io/t/estimate-ornstein-uhlenbeck-parameters-with-euler-maruyama/1356/3)
+
+- [ ] [https://www.stat.auckland.ac.nz/~ihaka/downloads/Taupo-handouts.pdf](https://www.stat.auckland.ac.nz/~ihaka/downloads/Taupo-handouts.pdf)
+
+- [ ] [www.stats.ox.ac.uk/~evans/CDT/p1sols.pdf](http://www.stats.ox.ac.uk/~evans/CDT/p1sols.pdf)
+
+- [ ] [https://www.ams.org/journals/tran/1963-109-01/S0002-9947-1963-0154337-6/S0002-9947-1963-0154337-6.pdf](https://www.ams.org/journals/tran/1963-109-01/S0002-9947-1963-0154337-6/S0002-9947-1963-0154337-6.pdf)
+
+- [ ] [4.6 Simulation | Techincal Analysis with R](https://bookdown.org/kochiuyu/Technical-Analysis-with-R/simulation.html)
+
+- [ ] [https://www.cs.cmu.edu/~avrim/598/chap5only.pdf](https://www.cs.cmu.edu/~avrim/598/chap5only.pdf)
+
+- [ ] [amsbook.mac.tex](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter11.pdf)
+
+- [ ] [Simulate the random walk model | R](https://campus.datacamp.com/courses/introduction-to-time-series-analysis/predicting-the-future?ex=11)
+
+- [ ] [[R] 2D Random walk](https://stat.ethz.ch/pipermail/r-help/2010-December/261947.html)
+
+- [ ] [C:/Users/danupon/Desktop/Research/Distributed (Gopal et al)/random walk/Journal/journal_jacm_format.dvi](https://people.math.gatech.edu/~tetali/PUBLIS/DNPT.pdf)
+
+- [ ] [RandomWalks.pdf](https://websites.math.leidenuniv.nl/probability/lecturenotes/RandomWalks.pdf)
+
+- [ ] [The short answer: - G. Lemus - Medium](https://medium.com/@gjlr2000/the-short-answer-ec560e9e3a6f)
+
+- [ ] [Using higher-order Markov models to reveal flow-based communities in networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4814833/)
+
+- [ ] [Simulating a stochastic differential equation - IPython Interactive Computing and Visualization Cookbook](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783284818/13/ch13lvl1sec109/simulating-a-stochastic-differential-equation)
+
+- [ ] [set3.pdf](https://mast.queensu.ca/~stat455/lecturenotes/set3.pdf)
+
+- [ ] [A Plot of 250 Random Walks | R-bloggers](https://www.r-bloggers.com/a-plot-of-250-random-walks/)
+
+- [ ] [Fit an Ornstein–Uhlenbeck process with discrete time series data - Kun Ren's Blog Posts](https://renkun.me/2014/04/15/fit-an-ornstein-uhlenbeck-process-with-discrete-time-series-data/)
+
+- [ ] [https://www.cs.rochester.edu/u/kshen/papers/tc2007.pdf](https://www.cs.rochester.edu/u/kshen/papers/tc2007.pdf)
+
+- [ ] [mcrw.dvi](https://pdfs.semanticscholar.org/251b/3a804be62da4e0835fcffa704cacb03ce310.pdf)
+
+- [ ] [MCQMC 2016, Stanford](http://mcqmc2016.stanford.edu/)
+
+- [ ] [strong_sta.pdf](https://statweb.stanford.edu/~cgates/PERSI/papers/strong_sta.pdf)
+
+- [ ] [Random walks down Wall Street, Stochastic Processes in Python](http://www.turingfinance.com/random-walks-down-wall-street-stochastic-processes-in-python/)
+
+- [ ] [https://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf](https://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf)
+
+- [ ] [https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf)
+
+- [ ] [Basics of Applied Stochastic Processes_Serfozo.pdf](http://www.stat.yale.edu/~jtc5/251/readings/Basics%20of%20Applied%20Stochastic%20Processes_Serfozo.pdf)
+
+- [ ] [PubMed Central, Figure 2: Sci Rep. 2016; 6: 23194. Published online 2016 Mar 31. doi: 10.1038/srep23194](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4814833/figure/f2/)
+
+- [ ] [Click on image to zoom](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4814833_srep23194-f3.jpg)
+
+- [ ] [CamDavidsonPilon/PyProcess: Generate stochastic processes using Python. Unfortunately not maintained any longer =(](https://github.com/CamDavidsonPilon/PyProcess)
+
+- [ ] [crflynn/stochastic: Generate realizations of stochastic processes in python.](https://github.com/crflynn/stochastic)
+
+- [ ] [Fit an Ornstein–Uhlenbeck process with discrete time series data | R-bloggers](https://www.r-bloggers.com/fit-an-ornstein-uhlenbeck-process-with-discrete-time-series-data/)
+
+- [ ] [mean - R code for Ornstein-Uhlenbeck process - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/1260/r-code-for-ornstein-uhlenbeck-process)
+
+- [ ] [Simulate the random walk model | R](https://campus.datacamp.com/courses/introduction-to-time-series-analysis/predicting-the-future?ex=11)
+
+- [ ] [A Plot of 250 Random Walks | R-bloggers](https://www.r-bloggers.com/a-plot-of-250-random-walks/)
+
+- [ ] [Fit an Ornstein–Uhlenbeck process with discrete time series data | R-bloggers](https://www.r-bloggers.com/fit-an-ornstein-uhlenbeck-process-with-discrete-time-series-data/)
+
+- [ ] [OU function | R Documentation](https://www.rdocumentation.org/packages/Sim.DiffProc/versions/1.0/topics/OU)
+
+- [ ] [simulate_rou_model: Simulate a reflected Ornstein-Uhlenbeck model for continuous... in castor: Efficient Phylogenetics on Large Trees](https://rdrr.io/cran/castor/man/simulate_rou_model.html)
+
+- [ ] [mean - R code for Ornstein-Uhlenbeck process - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/1260/r-code-for-ornstein-uhlenbeck-process)
+
+- [ ] [WWW Home Page for Steve Dunbar](http://www.math.unl.edu/~sdunbar1/)
+
+- [ ] [[physics/0412132] Brownian Motion for the School-Going Child](http://xxx.imsc.res.in/abs/physics/0412132)
+
+- [ ] [⌈ girl groups ♡ ⌋ ♡´･ᴗ･`♡ (@lovingpjm_) - Instagram metrics, photos and videos](https://graphixto.com/lovingpjm_)
+
+- [ ] [林娜琏_滤境-雏菊日报社-话本小说网](http://www.ihuaben.com/book/1523715/12313424.html)
+
+- [ ] [K-POP時代なBIGBANG,SUPER JUNIOR,少女時代,東方神起,EXO、K-POP最新情報](http://beast140.rssing.com/chan-9350262/all_p723.html)
+
+- [ ] [WANT - 자연광일때 제일 빛나는 임나연2 (사진많음주의)](http://www.wantwice.com/FREE/14639988)
+
+- [ ] [133 images about ❣ ⓗⓘⓡⓐⓘ ⓜⓞⓜⓞ on We Heart It | See more about twice, momo and hirai momo](https://weheartit.com/kookia/collections/104374089-)
+
+- [ ] [林娜琏_滤境章节在线阅读_奶味.杂货铺_青春校园小说 - 我笔趣阁](https://m.wobiquge.com/chapter/3938041.html)
+
+- [ ] [homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eslami.pdf](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0809/eslami.pdf)
+
+- [ ] [personal.strath.ac.uk/x.mao/teaching/MM307/note3.pdf](http://personal.strath.ac.uk/x.mao/teaching/MM307/note3.pdf)
+
+- [ ] [Meteor FAQs - American Meteor Society](https://www.amsmeteors.org/meteor-showers/meteor-faq/)
+
+- [ ] [Meteor Showers 2019 - 2020 - American Meteor Society](https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/)
+
+- [ ] [https://www2.eecs.berkeley.edu/Pubs/TechRpts/2010/EECS-2010-109.pdf](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2010/EECS-2010-109.pdf)
+
+- [ ] [https://www2.eecs.berkeley.edu/Pubs/TechRpts/2010/EECS-2010-109.pdf](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2010/EECS-2010-109.pdf)
+
+- [ ] [https://www.casact.org/library/astin/vol33no2/209.pdf](https://www.casact.org/library/astin/vol33no2/209.pdf)
+
+- [ ] [stochastic-I-PP.pdf](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I-PP.pdf)
+
+- [ ] [stochastic-I-PP.pdf](http://www.columbia.edu/~ks20/stochastic-I/stochastic-I-PP.pdf)
+
+- [ ] [On Poisson process - Daijiang Li](https://daijiang.name/en/2014/01/24/on-poisson-process/)
+
+- [ ] [R: The Poisson Distribution](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Poisson.html)
+
+- [ ] [Nicole White](https://nicolewhite.github.io/2015/05/23/understanding-waiting-times.html)
+
+- [ ] [https://www.mhhe.com/engcs/electrical/papoulis/graphics/ppt/lectr15.pdf](https://www.mhhe.com/engcs/electrical/papoulis/graphics/ppt/lectr15.pdf)
+
+- [ ] [https://dspace.mit.edu/bitstream/handle/1721.1/85015/Citi-2013-Likelihood Methods f.pdf;jsessionid=992BE654B5752D42E53A5956EA5EE224?sequence=2](https://dspace.mit.edu/bitstream/handle/1721.1/85015/Citi-2013-Likelihood%20Methods%20f.pdf;jsessionid=992BE654B5752D42E53A5956EA5EE224?sequence=2)
+
+- [ ] [math.mit.edu/~sheffield/440/Lecture13.pdf](http://math.mit.edu/~sheffield/440/Lecture13.pdf)
+
+- [ ] [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/course-notes/MIT6_262S11_chap02.pdf](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/course-notes/MIT6_262S11_chap02.pdf)
+
+- [ ] [UOR_2.12.1](https://web.mit.edu/urban_or_book/www/book/chapter2/2.12.1.html)
+
+- [ ] [https://www.pitt.edu/~super7/19011-20001/19501.pdf](https://www.pitt.edu/~super7/19011-20001/19501.pdf)
+
+- [ ] [How to Generate Random Timings for a Poisson Process](https://preshing.com/20111007/how-to-generate-random-timings-for-a-poisson-process/)
+
+- [ ] [Basic Concepts of the Poisson Process](https://www.probabilitycourse.com/chapter11/11_1_2_basic_concepts_of_the_poisson_process.php)
+
+- [ ] [rpois - Simulating A Poisson Distribution in R - ProgrammingR](http://www.programmingr.com/examples/neat-tricks/sample-r-function/rpois-poisson-distribution/)
+
+- [ ] [Expectation of Poisson Distribution - ProofWiki](https://proofwiki.org/wiki/Expectation_of_Poisson_Distribution)
+
+- [ ] [https://llc.stat.purdue.edu/2014/41600/notes/prob1804.pdf](https://llc.stat.purdue.edu/2014/41600/notes/prob1804.pdf)
+
+- [ ] [poisson.pdf](https://cran.r-project.org/web/packages/poisson/poisson.pdf)
+
+- [ ] [Poisson Distribution | Real Statistics Using Excel](http://www.real-statistics.com/binomial-and-related-distributions/poisson-distribution/)
+
+- [ ] [RPubs - Basic Probability Distributions In R](https://rpubs.com/ggraham412/100906)
+
+- [ ] [3 Random Variables | Foundations of Statistics with R](https://mathstat.slu.edu/~speegle/_book/random-variables.html)
+
+- [ ] [https://images-na.ssl-images-amazon.com/images/G/01/books/stech-ems/Intro-to-Stochastic-Modeling-4E-sample-9780123814166._V154961835_.pdf](https://images-na.ssl-images-amazon.com/images/G/01/books/stech-ems/Intro-to-Stochastic-Modeling-4E-sample-9780123814166._V154961835_.pdf)
+
+- [ ] [Poisson Distribution Calculator](https://stattrek.com/online-calculator/poisson.aspx)
+
+- [ ] [math.tntech.edu](https://math.tntech.edu/machida/counting/note02.pdf)
+
+- [ ] [math.tntech.edu](https://math.tntech.edu/machida/counting/note02.pdf)
+
+- [ ] [The Poisson Distribution and Poisson Process Explained](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
+
+- [ ] [Will Koehrsen (@koehrsen_will) / Twitter](https://twitter.com/koehrsen_will)
+
+- [ ] [https://www.math.ucdavis.edu/~gravner/MAT135B/materials/ch18.pdf](https://www.math.ucdavis.edu/~gravner/MAT135B/materials/ch18.pdf)
+
+- [ ] [https://home.cc.umanitoba.ca/~thavane/ASS305/5pp.pdf](https://home.cc.umanitoba.ca/~thavane/ASS305/5pp.pdf)
+
+- [ ] [www.math.unl.edu/~sdunbar1/ProbabilityTheory/Lessons/Poisson/PoissonOld/poisson.shtml](http://www.math.unl.edu/~sdunbar1/ProbabilityTheory/Lessons/Poisson/PoissonOld/poisson.shtml)
+
+- [ ] [individual.utoronto.ca/zheli/poisson.pdf](http://individual.utoronto.ca/zheli/poisson.pdf)
+
+- [ ] [lecture_10_poisson_process.pdf](http://pages.cs.wisc.edu/~dsmyers/cs547/lecture_10_poisson_process.pdf)
+
+- [ ] [Poisson.Proc.pdf](http://www.stat.yale.edu/~pollard/Courses/241.fall97/Poisson.Proc.pdf)
+
+- [ ] [(36) Statistics with R Programming Part 3 | Poisson Distribution Tutorial | Data Science Tutorial - YouTube](https://www.youtube.com/watch?v=Ldtd5J1gG10)
+
+- [ ] [Courses](https://www2.isye.gatech.edu/~sman/courses/6644/)
+
+- [ ] [hpaulkeeler/posts: A repository of pieces of code that have appeared on my blog with a focus stochastic simulations.](https://github.com/hpaulkeeler/posts)
+
+- [ ] [posts/PoissonCheck at master · hpaulkeeler/posts](https://github.com/hpaulkeeler/posts/tree/master/PoissonCheck)
+
+- [ ] [Time-dependent thinning of a Poisson Process](https://stephens999.github.io/fiveMinuteStats/poisson_process_time_dependent_thinning.html#simulating_a_poisson_process_with_time-dependent_type_probabilities)
+
+- [ ] [Critique of Connectivism - PhD Wiki](https://sites.google.com/site/andycoverdale/texts/critique-of-connectivism)
+
+- [ ] [Simulating an inhomogeneous Poisson point process – H. Paul Keeler %](https://hpaulkeeler.com/simulating-an-inhomogeneous-poisson-point-process/)
+
+- [ ] [Données Agrégées et Variables Compositionnelles | Freakonometrics](https://freakonometrics.hypotheses.org/58169)
+
+- [ ] [Estimates on training vs. validation samples | Freakonometrics](https://freakonometrics.hypotheses.org/58157)
+
+- [ ] [Extended Scale Free Networks | Freakonometrics](https://freakonometrics.hypotheses.org/58165)
+
+- [ ] [From betting to “prediction market” | Freakonometrics](https://freakonometrics.hypotheses.org/58042)
+
+- [ ] [Generating a non-homogeneous Poisson process | Freakonometrics](https://freakonometrics.hypotheses.org/724)
+
+- [ ] [Optimal transport on large networks | Freakonometrics](https://freakonometrics.hypotheses.org/58176)
+
+- [ ] [Pareto Models for Top Incomes | Freakonometrics](https://freakonometrics.hypotheses.org/58173)
+
+- [ ] [Gold-Mining Week 9 (2019) | R-bloggers](https://www.r-bloggers.com/gold-mining-week-9-2019/)
+
+- [ ] [LongCART – Regression tree for longitudinal data | R-bloggers](https://www.r-bloggers.com/longcart-regression-tree-for-longitudinal-data/)
+
+- [ ] [New package: simfinR | R-bloggers](https://www.r-bloggers.com/new-package-simfinr/)
+
+- [ ] [https://www.win.tue.nl/~marko/2WB05/dictaat.pdf](https://www.win.tue.nl/~marko/2WB05/dictaat.pdf)
+
+- [ ] [(1) ONLYchaewon_TH🍑 on Twitter: "🧚🏻‍♀️ | IZ*ONE KIMCHAEWON : รูปน้องแชวอนจากรายการ Mcountdown ค่ะ😍 #2 (ในเพลง Violeta) #김채원 #キム・チェウォン #IZONE #아이즈원 #アイズワン https://t.co/Jt5W5yKflF" / Twitter](https://twitter.com/onlychaewon_th/status/1113824155856539650?lang=en)
+
+- [ ] [Rick Paik Schoenberg's Home page](http://www.stat.ucla.edu/~frederic/)
+
+- [ ] [faculty.uml.edu/jpropp/584/Lec11.pdf](http://faculty.uml.edu/jpropp/584/Lec11.pdf)
+
+- [ ] [. pine . real _2 gravure L size photograph 10 sheets : Real Yahoo auction salling](http://yahoo.aleado.com/lot?auctionID=k347978589)
+
+- [ ] [Access denied | id.porn-image-xxx.com used Cloudflare to restrict access](https://id.porn-image-xxx.com/story/miyu-pictures-122-photos-big-breasts-swimsuit-gravure-idol-image-of-f-cup/)
+
+- [ ] [Access denied | ko.porn-image-xxx.com used Cloudflare to restrict access](https://ko.porn-image-xxx.com/story/miyu-pictures-122-photos-big-breasts-swimsuit-gravure-idol-image-of-f-cup/)
+
+- [ ] [Kawaii - deepbluetomato.tumblr.com - Tumbex](https://www.tumbex.com/deepbluetomato.tumblr/posts?tag=MIYU)
+
+- [ ] [Access denied | porn-image-xxx.com used Cloudflare to restrict access](https://porn-image-xxx.com/story/miyu-pictures-122-photos-big-breasts-swimsuit-gravure-idol-image-of-f-cup/)
+
+- [ ] [pymoso](https://github.com/pymoso/)
+
+- [ ] [500 Internal Privoxy Error](http://mapas.mma.gov.br/i3geo/pacotes/rlib/win/spatstat/html/rpoispp.html)
+
+- [ ] [https://www.probabilitycourse.com/chapter13/Chapter_13.pdf](https://www.probabilitycourse.com/chapter13/Chapter_13.pdf)
+
+- [ ] [Global Indicator Analyses with R - ProgrammingR](http://www.programmingr.com/content/global-indicator-analyses-with-r/)
+
+- [ ] [rpois - Simulating A Poisson Distribution in R - ProgrammingR](http://www.programmingr.com/examples/neat-tricks/sample-r-function/rpois-poisson-distribution/)
+
+- [ ] [Webscraping using readLines and RCurl - ProgrammingR](http://www.programmingr.com/content/webscraping-using-readlines-and-rcurl/)
+
+- [ ] [Webscraping with rvest: So Easy Even An MBA Can Do It! - ProgrammingR](http://www.programmingr.com/content/webscraping-rvest-easy-mba-can/)
+
+- [ ] [https://web.ics.purdue.edu/~pasupath/PAPERS/2011pasA.pdf](https://web.ics.purdue.edu/~pasupath/PAPERS/2011pasA.pdf)
+
+- [ ] [📈 Simulating Poisson process (part 1) | R-bloggers](https://www.r-bloggers.com/%F0%9F%93%88-simulating-poisson-process-part-1/)
+
+- [ ] [Iegor Rudnytskyi | R-bloggers](https://www.r-bloggers.com/author/iegor-rudnytskyi/)
+
+- [ ] [Poisson Distribution | R Tutorial](http://www.r-tutor.com/elementary-statistics/probability-distributions/poisson-distribution)
+
+- [ ] [Simulation-Optimization - Home](http://www.simopt.org/)
+
+- [ ] [statistics - Generate Poisson process using R - Stack Overflow](https://stackoverflow.com/questions/6321520/generate-poisson-process-using-r)
+
+- [ ] [Lab 3: Simulations in R](https://web.stanford.edu/class/bios221/labs/simulation/Lab_3_simulation.html)
+
+- [ ] [https://www.win.tue.nl/~resing/2DF11/sim.pdf](https://www.win.tue.nl/~resing/2DF11/sim.pdf)
+
+- [ ] [sas.uwaterloo.ca/~dlmcleis/s906/slides151-200](http://sas.uwaterloo.ca/~dlmcleis/s906/slides151-200)
+
+- [ ] [미유 - 주간 플레이보이 net 스페셜 사진집 2018 No.216 > 짤방 게시판 | 루루네 가족 이야기](https://yadolee.com/bbs/board.php?bo_table=jjalbang&wr_id=8007&page=46)
+
+- [ ] [(36) STAT 420 (Time Series), Lectures by Pasupathy, Purdue University, Fall 2019 - YouTube](https://www.youtube.com/playlist?list=PLGwgTarsp82TWPIDce6p1cptoT8l8PwQy)
+
+- [ ] [Google Photos](https://photos.google.com/u/1/search/_cAF1QipN37Lc5KQb8TLbt4DNMTDN7t7X4sESvoEs_)
+
+- [ ] [Google Photos](https://photos.google.com/u/1/search/_cAF1QipOeBDeInkXtr2bmljwljvheRPBTqqyjU~u8_)
+
+- [ ] [Google Photos](https://photos.google.com/u/1/search/_cAF1QipNBMJArEVv0jpW6zJOVVkwkpnOnpi~uKco0_)
+
+- [ ] [Google Photos](https://photos.google.com/u/1/search/_cAF1QipPurtWoJqdG6CloRJyuajPIZMI0Iync2b8_)
+
+- [ ] [Google Photos](https://photos.google.com/u/1/search/_cAF1QipOcH4H0ao~uh2PJ8WH4eqqAHaUSdqzWSv~uc_)
+
+- [ ] [Google Photos](https://photos.google.com/u/1/search/_cAF1QipPBRbihkQr7xD~ultBtgNxu7msFv4dZahaA_)
+
+- [ ] [nanban-taro - miyacci.tumblr.com - Tumbex](https://www.tumbex.com/miyacci.tumblr/posts?tag=MIYU)
+
+- [ ] [R: Logical Operators](https://stat.ethz.ch/R-manual/R-devel/library/base/html/Logic.html)
+
+- [ ] [R: Logical Operators](https://astrostatistics.psu.edu/su07/R/html/base/html/Logic.html)
+
+- [ ] [Dahyun looking into the camera : twicemedia](https://www.reddit.com/r/twicemedia/comments/de8fzu/dahyun_looking_into_the_camera/)
+
+- [ ] [How to get last subelement of every element of a list in R - Stack Overflow](https://stackoverflow.com/questions/36143119/how-to-get-last-subelement-of-every-element-of-a-list-in-r)
+
+- [ ] [How to get the last element in a list in R - Stack Overflow](https://stackoverflow.com/questions/50982530/how-to-get-the-last-element-in-a-list-in-r)
+
+- [ ] [r - Getting the last n elements of a vector. Is there a better way than using the length() function? - Stack Overflow](https://stackoverflow.com/questions/6136613/getting-the-last-n-elements-of-a-vector-is-there-a-better-way-than-using-the-le?lq=1)
+
+- [ ] [r - How to access the last value in a vector? - Stack Overflow](https://stackoverflow.com/questions/77434/how-to-access-the-last-value-in-a-vector)
+
+- [ ] [R: Access the last subelement of each element in a list - Stack Overflow](https://stackoverflow.com/questions/38258778/r-access-the-last-subelement-of-each-element-in-a-list)
+
+- [ ] [regex - R get last element from str_split - Stack Overflow](https://stackoverflow.com/questions/42943533/r-get-last-element-from-str-split)
+
+- [ ] [(34) Brownian Motion (Wiener process) - YouTube](https://www.youtube.com/watch?v=BVYVeaPojY4)
+
+- [ ] [(36) The Poisson Distribution - YouTube](https://www.youtube.com/watch?v=Fk02TW6reiA)
+
+- [ ] [Mod-01 Lec-36 The Wiener process (standard Brownian motion) - YouTube](https://www.youtube.com/watch?v=tdgnWgTfZnQ)
+
+- [ ] [Standard Brownian Motion / Wiener Process: An Introduction - YouTube](https://www.youtube.com/watch?v=ld0rxwAJpkM)
+
+- [ ] [(1 - T e^(- T) - e^(-T)) / (1 - e^(-T)) - (1 - e^(-T)) - Wolfram|Alpha](https://www.wolframalpha.com/input/?i=%281+-+T+e%5E%28-+T%29+-+e%5E%28-T%29%29+%2F+%281+-+e%5E%28-T%29%29+-+%281+-+e%5E%28-T%29%29)
+
+- [ ] [https://hal.archives-ouvertes.fr/hal-01875943v2/document](https://hal.archives-ouvertes.fr/hal-01875943v2/document)
+
+- [ ] [Python for Data Analysis Part 22: Probability Distributions | Life Is Study](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-22.html)
+
+- [ ] [Binomial and Poisson Distribution in R - Explore the complete concept! - DataFlair](https://data-flair.training/blogs/binomial-and-poisson-distribution/)
+
+- [ ] [Probability Distributions in Python (article) - DataCamp](https://www.datacamp.com/community/tutorials/probability-distributions-python)
+
+- [ ] [transp-or.epfl.ch/courses/OptSim2012/slides/05b-poisson.pdf](http://transp-or.epfl.ch/courses/OptSim2012/slides/05b-poisson.pdf)
+
+- [ ] [web.mit.edu/modiano/www/6.263/lec5-6.pdf](http://web.mit.edu/modiano/www/6.263/lec5-6.pdf)
+
+- [ ] [NEST Simulator](https://www.nest-simulator.org/part-1-neurons-and-simple-neural-networks/)
+
+- [ ] [users.iems.northwestern.edu/~nelsonb/IEMS435/PythonSim.pdf](http://users.iems.northwestern.edu/~nelsonb/IEMS435/PythonSim.pdf)
+
+- [ ] [https://www.cns.nyu.edu/~david/handouts/poisson.pdf](https://www.cns.nyu.edu/~david/handouts/poisson.pdf)
+
+- [ ] [Simulating a Poisson process - IPython Interactive Computing and Visualization Cookbook](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783284818/13/ch13lvl1sec107/simulating-a-poisson-process)
+
+- [ ] [Getting started with PyMC3 — PyMC3 3.6 documentation](https://docs.pymc.io/notebooks/getting_started.html)
+
+- [ ] [numpy.random.poisson — NumPy v1.15 Manual](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.poisson.html)
+
+- [ ] [https://web.cs.ucdavis.edu/~matloff/matloff/public_html/156/PLN/DESimIntro.pdf](https://web.cs.ucdavis.edu/~matloff/matloff/public_html/156/PLN/DESimIntro.pdf)
+
+- [ ] [eric.univ-lyon2.fr/~ricco/tanagra/fichiers/en_Tanagra_Calcul_P_Value.pdf](http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/en_Tanagra_Calcul_P_Value.pdf)
+
+- [ ] [https://web.ics.purdue.edu/~pasupath/PAPERS/2011pasB.pdf](https://web.ics.purdue.edu/~pasupath/PAPERS/2011pasB.pdf)
+
+- [ ] [Principal Component Analysis: A Generalized Gini Approach | Freakonometrics](https://freakonometrics.hypotheses.org/58495)
+
+- [ ] [(1) Pinterest](https://www.pinterest.fr/DubuJichu/dubu-dahyun/)
+
+- [ ] [Pinterest](https://www.pinterest.fr/pin/30469734965505530/?lp=true)
+
+- [ ] [MIYU](https://bellford.tumblr.com/post/171917065691/miyu)
+
+- [ ] [for loop - R: Writing a recursive function for a Random Walk (initial values) - Stack Overflow](https://stackoverflow.com/questions/34844793/r-writing-a-recursive-function-for-a-random-walk-initial-values)
+
+- [ ] [function - R error if statement 'argument is of length zero' - Stack Overflow](https://stackoverflow.com/questions/53236743/r-error-if-statement-argument-is-of-length-zero)
+
+- [ ] [Generate Random Walk with Drift and/or Trend in R - Stack Overflow](https://stackoverflow.com/questions/24272862/generate-random-walk-with-drift-and-or-trend-in-r)
+
+- [ ] [Generate Random Walk with Drift and/or Trend in R - Stack Overflow](https://stackoverflow.com/questions/24272862/generate-random-walk-with-drift-and-or-trend-in-r)
+
+- [ ] [if statement - R “argument is of length zero” in if(condition) - Stack Overflow](https://stackoverflow.com/questions/29332457/r-argument-is-of-length-zero-in-ifcondition)
+
+- [ ] [matrix - Finding dot product in r - Stack Overflow](https://stackoverflow.com/questions/28294210/finding-dot-product-in-r)
+
+- [ ] [R - argument is of length zero in if statement - Stack Overflow](https://stackoverflow.com/questions/27350636/r-argument-is-of-length-zero-in-if-statement)
+
+- [ ] [r - Error in if/while (condition) { : argument is of length zero - Stack Overflow](https://stackoverflow.com/questions/12307139/error-in-if-while-condition-argument-is-of-length-zero?rq=1)
+
+- [ ] [r - Error in if/while (condition) { : argument is of length zero - Stack Overflow](https://stackoverflow.com/questions/12307139/error-in-if-while-condition-argument-is-of-length-zero)
+
+- [ ] [r - if statement get rid of: Error in if: argument is of length zero - Stack Overflow](https://stackoverflow.com/questions/39519491/if-statement-get-rid-of-error-in-if-argument-is-of-length-zero)
+
+- [ ] [r - Simulating a Random Walk - Stack Overflow](https://stackoverflow.com/questions/21991130/simulating-a-random-walk)
+
+- [ ] [r - Simulating a Random Walk - Stack Overflow](https://stackoverflow.com/questions/21991130/simulating-a-random-walk)
+
+- [ ] [sampling - How to repeat 1000 times this random walk simulation in R? - Stack Overflow](https://stackoverflow.com/questions/35535227/how-to-repeat-1000-times-this-random-walk-simulation-in-r)
+
+- [ ] [sampling - How to repeat 1000 times this random walk simulation in R? - Stack Overflow](https://stackoverflow.com/questions/35535227/how-to-repeat-1000-times-this-random-walk-simulation-in-r)
+
+- [ ] [Simulate a random walk with purrr in R - Stack Overflow](https://stackoverflow.com/questions/45883887/simulate-a-random-walk-with-purrr-in-r)
+
+- [ ] [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/)
+
+- [ ] [How to estimate Poisson process using R? (Or: how to use NHPoisson package?) - Cross Validated](https://stats.stackexchange.com/questions/49012/how-to-estimate-poisson-process-using-r-or-how-to-use-nhpoisson-package)
+
+- [ ] [How to estimate Poisson process using R? (Or: how to use NHPoisson package?) - Cross Validated](https://stats.stackexchange.com/questions/49012/how-to-estimate-poisson-process-using-r-or-how-to-use-nhpoisson-package)
+
+- [ ] [monte carlo - simulation of non-homogeneous poisson processes - Cross Validated](https://stats.stackexchange.com/questions/323337/simulation-of-non-homogeneous-poisson-processes)
+
+- [ ] [monte carlo - simulation of non-homogeneous poisson processes - Cross Validated](https://stats.stackexchange.com/questions/323337/simulation-of-non-homogeneous-poisson-processes)
+
+- [ ] [r - arguments of length zero error with very similar code while forecasting - Cross Validated](https://stats.stackexchange.com/questions/141404/arguments-of-length-zero-error-with-very-similar-code-while-forecasting)
+
+- [ ] [r - How to simulate Poisson arrival times if the rate varies with time? - Cross Validated](https://stats.stackexchange.com/questions/276454/how-to-simulate-poisson-arrival-times-if-the-rate-varies-with-time)
+
+- [ ] [r - Non homogenous Poisson process with simple rates - Cross Validated](https://stats.stackexchange.com/questions/368968/non-homogenous-poisson-process-with-simple-rates)
+
+- [ ] [r - Non homogenous Poisson process with simple rates - Cross Validated](https://stats.stackexchange.com/questions/368968/non-homogenous-poisson-process-with-simple-rates)
+
+- [ ] [r - Nonhomogeneous poisson process simulation - Cross Validated](https://stats.stackexchange.com/questions/369288/nonhomogeneous-poisson-process-simulation)
+
+- [ ] [r - Trajectory of homogeneous poisson process - Cross Validated](https://stats.stackexchange.com/questions/368284/trajectory-of-homogeneous-poisson-process)
+
+- [ ] [self study - Paradox of Poisson process with at least one event in the interval - Cross Validated](https://stats.stackexchange.com/questions/260734/paradox-of-poisson-process-with-at-least-one-event-in-the-interval)
+
+- [ ] [simulation - Poisson Process in R from exponential distribution - Cross Validated](https://stats.stackexchange.com/questions/148997/poisson-process-in-r-from-exponential-distribution)
+
+- [ ] [probability - Splitting Poisson process formal proof - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1777427/splitting-poisson-process-formal-proof)
+
+- [ ] [probability theory - How to prove that the thinned Poisson process (by a specific definition) has intensity $p \lambda$? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2114275/how-to-prove-that-the-thinned-poisson-process-by-a-specific-definition-has-int)
+
+- [ ] [stochastic processes - How the Ornstein–Uhlenbeck process can be considered as the continuous-time analogue of the discrete-time AR(1) process? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/345773/how-the-ornstein-uhlenbeck-process-can-be-considered-as-the-continuous-time-anal)
+
+- [ ] [stochastic processes - Implementing Ornstein–Uhlenbeck in Matlab - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1287634/implementing-ornstein-uhlenbeck-in-matlab)
+
+- [ ] [stochastic processes - Prove $A_t := W_t^3-3t W_t$ a martingale - Mathematics Stack Exchange](https://math.stackexchange.com/questions/962613/prove-a-t-w-t3-3t-w-t-a-martingale)
+
+- [ ] [Deena Schmidt](https://www.deenaschmidt.com/)
+
+- [ ] [A First Course in Stochastic Models - Henk C. Tijms - Google Books](https://books.google.com/books?id=RK9yFrNxom8C)
+
+- [ ] [Human and Machine Learning: Visible, Explainable, Trustworthy and Transparent - Google Books](https://books.google.com/books?id=UBtfDwAAQBAJ&pg=PA395&lpg=PA395&dq=Simulation+of+Nonhomogeneous+Poisson+Processes+by+Thinning&source=bl&ots=Ueynq5jUhn&sig=ACfU3U2eK_gkWUNTCI65RAHT1r6IRpKlCg&hl=en&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQ6AEwaXoECGEQAQ#v=onepage&q=Simulation%20of%20Nonhomogeneous%20Poisson%20Processes%20by%20Thinning&f=false)
+
+- [ ] [Stochastic Geometry: Lectures given at the C.I.M.E. Summer School held in ... - W. Weil, A. Baddeley, I. Bárány, R. Schneider - Google Books](https://books.google.com/books?id=X-m5BQAAQBAJ)
+
+- [ ] [geometric distribution - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQWlnnMBCiw8vMXc5qB2OdoVuz_MQ%3A1572694359283&lei=V2m9XdH4EKummAXooa7oCw&q=geometric%20distribution&ved=2ahUKEwjGv5GLt8vlAhXtyIsBHdO8DZgQsKwBKAV6BAgBEAY&biw=1200&bih=1790)
+
+- [ ] [homogeneous poisson point process - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXwHtq_I5M-1jaOfvdML9QpWp21w:1572692469259&q=homogeneous+poisson+point+process&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQ1QIoBnoECGQQBw&biw=1200&bih=1790)
+
+- [ ] [homogeneous poisson point process - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1200&bih=1790&sxsrf=ACYBGNTCSIuL9vFuoXGc5isg9cs8pAWzBw:1572692589174&q=homogeneous+poisson+point+process&tbm=isch&source=univ&ved=2ahUKEwi1j_m4sMvlAhWHyIsBHXqPCYIQsAR6BAgHEAE&cshid=1572692598495411)
+
+- [ ] [inverse transform method in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTbIGvaX_qpUzZdBj6rAqAFoOk4wQ%3A1572693520058&lei=EGa9XceVA82ymAXPtKAo&q=inverse%20transform%20method%20in%20r&ved=2ahUKEwj6p5D2s8vlAhXqGaYKHV6KCUIQsKwBKAF6BAgEEAI)
+
+- [ ] [key renewal theorem - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSmHOMTBmMaY7w15nAIVK09oJ5lLQ%3A1572692625468&lei=kWK9XamlHNeXr7wP-4e4uAQ&q=key%20renewal%20theorem&ved=2ahUKEwjvgKDMsMvlAhWRw4sBHV0iDu4QsKwBKAJ6BAgAEAM)
+
+- [ ] [markov theory pdf - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSmHOMTBmMaY7w15nAIVK09oJ5lLQ%3A1572692625468&lei=kWK9XamlHNeXr7wP-4e4uAQ&q=markov%20theory%20pdf&ved=2ahUKEwjvgKDMsMvlAhWRw4sBHV0iDu4QsKwBKAV6BAgAEAY)
+
+- [ ] [non homogeneous poisson process proof - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXwHtq_I5M-1jaOfvdML9QpWp21w:1572692469259&q=non+homogeneous+poisson+process+proof&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQ1QIoB3oECGQQCA)
+
+- [ ] [non homogeneous poisson process simulation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXwHtq_I5M-1jaOfvdML9QpWp21w:1572692469259&q=non+homogeneous+poisson+process+simulation&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQ1QIoAHoECGQQAQ)
+
+- [ ] [ogata thinning algorithm - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXwHtq_I5M-1jaOfvdML9QpWp21w:1572692469259&q=ogata+thinning+algorithm&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQ1QIoBHoECGQQBQ)
+
+- [ ] [poisson process with non constant rate - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQzW14x_qJvudc750KlKHjRATiHhw%3A1572693344882&lei=YGW9XZvCNa-0mAX1qZaQCw&q=poisson%20process%20with%20non%20constant%20rate&ved=2ahUKEwjNxrqis8vlAhVDK6YKHbTvBD0QsKwBKAJ6BAgAEAM)
+
+- [ ] [Simulation of Nonhomogeneous Poisson Processes by Thinning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXwHtq_I5M-1jaOfvdML9QpWp21w:1572692469259&q=Simulation+of+Nonhomogeneous+Poisson+Processes+by+Thinning&tbm=isch&source=univ&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQsAR6BAgMEAE)
+
+- [ ] [stochastic process uchicago - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSmHOMTBmMaY7w15nAIVK09oJ5lLQ%3A1572692625468&lei=kWK9XamlHNeXr7wP-4e4uAQ&q=stochastic%20process%20uchicago&ved=2ahUKEwjvgKDMsMvlAhWRw4sBHV0iDu4QsKwBKAR6BAgAEAU)
+
+- [ ] [sum of poisson processes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQzW14x_qJvudc750KlKHjRATiHhw%3A1572693344882&lei=YGW9XZvCNa-0mAX1qZaQCw&q=sum%20of%20poisson%20processes&ved=2ahUKEwjNxrqis8vlAhVDK6YKHbTvBD0QsKwBKAV6BAgAEAY)
+
+- [ ] [thinning algorithm point process - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXwHtq_I5M-1jaOfvdML9QpWp21w:1572692469259&q=thinning+algorithm+point+process&sa=X&ved=2ahUKEwiLieL_r8vlAhXKyosBHVXABlMQ1QIoAnoECGQQAw)
+
+- [ ] [Index of /~fewster/325/notes](https://www.stat.auckland.ac.nz/~fewster/325/notes/)
+
+- [ ] [STAT 260, Spring 2007](https://www.stat.berkeley.edu/~aldous/Networks/)
+
+- [ ] [Index of /~db5d/SummerSchool09/lectures-dd](http://www.math.ubc.ca/~db5d/SummerSchool09/lectures-dd/)
+
+- [ ] [Gordan Žitković](https://web.ma.utexas.edu/users/gordanz/)
+
+- [ ] [Index of /~genovese/class/iprob-S06/notes](http://www.stat.cmu.edu/~genovese/class/iprob-S06/notes/)
+
+- [ ] [Introduction to spatial point processes - introductionSPP_cours.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://math.univ-lille1.fr/~heinrich/geostoch2014/SPP/introductionSPP_cours.pdf)
+
+- [ ] [Homepage of Aditya Krishna Menon](https://akmenon.github.io/)
+
+- [ ] [Chazelle's liner notes](https://www.cs.princeton.edu/~chazelle/linernotes.html)
+
+- [ ] [Publications of Aditya Krishna Menon](https://akmenon.github.io/publications)
+
+- [ ] [Bob Williamson (Robert C. Williamson) Home Page](http://users.cecs.anu.edu.au/~williams/)
+
+- [ ] [Charles Elkan](http://cseweb.ucsd.edu/~elkan/)
+
+- [ ] [Sanjay Chawla- School of IT - The University of Sydney](http://pmg.it.usyd.edu.au/)
+
+- [ ] [RK's Musings](https://radhakrishna.typepad.com/)
+
+- [ ] [simulating-nonhomogeneous-poisson-process.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://radhakrishna.typepad.com/simulating-nonhomogeneous-poisson-process.pdf)
+
+- [ ] [6a00d83453b94569e2022ad39d4795200b-pi (266×399)](https://radhakrishna.typepad.com/.a/6a00d83453b94569e2022ad39d4795200b-pi)
+
+
+
+
+
+
+
+---
+
+
+
+
+
+## 11/3/2019
+
+- [ ] [My Map Free](chrome-extension://pklnbjkiadglpemlgdaheegaehhlehlp/ex/ex.html)
+
+- [ ] [Edit Field During Review - AnkiWeb](https://ankiweb.net/shared/info/1020366288)
+
+- [ ] [506 | Christian Smith on the Power of Religion - Chicago Humanities Festival](https://www.chicagohumanities.org/events/christian-smith-power-religion/)
+
+- [ ] [98-277: Vim](http://www.andrew.cmu.edu/user/haoxuany/vim/)
+
+- [ ] [Warren Buffett's Berkshire Hathaway reports a $128 billion cash pile](https://www.cnbc.com/2019/11/02/warren-buffetts-berkshire-hathaway-reports-a-128-billion-cash-pile.html)
+
+- [ ] [Anki Sync for Spaced Repetition](https://getpolarized.io/docs/anki-sync-for-spaced-repetition.html)
+
+- [ ] [Anki Extension | Habitica Wiki | FANDOM powered by Wikia](https://habitica.fandom.com/wiki/Anki_Extension)
+
+- [ ] [The Top 25 Anki Open Source Projects](https://awesomeopensource.com/projects/anki)
+
+- [ ] [Anki must be able to connect to a local port / Problems / Knowledge Base - Anki Support](https://anki.tenderapp.com/kb/problems/anki-must-be-able-to-connect-to-a-local-port)
+
+- [ ] [How to Automatically Generate Vocabulary Flashcards with Google Translate and Anki - Art of Memory Blog](https://artofmemory.com/blog/vocabulary-flashcards-google-translate-anki-4561.html)
+
+- [ ] [5 Must-Have Anki Addons for Medical Students (Anki 2.0 and 2.1) — SHAMIM AHMED](https://medshamim.com/med/must-have-anki-add-ons)
+
+- [ ] [GitHub - sudarshang/anki-connect: Anki plugin to expose a remote API for creating flash cards.](https://octolinker-demo.now.sh/sudarshang/anki-connect)
+
+- [ ] [ObjC 中国 - SwiftUI 与 Combine 编程](https://objccn.io/products/swift-ui)
+
+- [ ] [OneV's Den](https://onevcat.com/)
+
+- [ ] [www.reddit.com](https://www.reddit.com/r/Anki/comments/98eyv6/can_i_get_anki_desktop_on_chromebook/)
+
+- [ ] [www.reddit.com](https://www.reddit.com/r/Anki/comments/8o01pq/anki_quick_adder_a_chrome_extension_for_creating/)
+
+- [ ] [www.reddit.com](https://www.reddit.com/r/Anki/comments/8y4gfj/question_what_do_you_think_about_anki_chromebook/)
+
+- [ ] [1497504 – anki: Can't download any plugins from Anki repository](https://bugzilla.redhat.com/show_bug.cgi?id=1497504)
+
+- [ ] [The RedPRL Proof Assistant — RedPRL documentation](http://www.redprl.org/en/latest/)
+
+- [ ] [ImageResizer, an anki addon to resize images | Searene](http://searene.me/2016/02/14/ImageResizer-an-anki-addon-to-resize-images/)
+
+- [ ] [The Making of the World’s Greatest Investor - WSJ](https://www.wsj.com/articles/the-making-of-the-worlds-greatest-investor-11572667202)
+
+- [ ] [The Making of the World’s Greatest Investor - WSJ](https://www.wsj.com/articles/the-making-of-the-worlds-greatest-investor-11572667202)
+
+- [ ] [Using Anki and Spaced Repetition | Hacker News](https://news.ycombinator.com/item?id=20015406)
+
+- [ ] [AnkiConnect - AnkiWeb](https://ankiweb.net/shared/info/2055492159)
+
+- [ ] [FooSoft Productions - Yomichan](https://foosoft.net/projects/yomichan/)
+
+- [ ] [FooSoft Productions - AnkiConnect](https://foosoft.net/projects/anki-connect/)
+
+- [ ] [FooSoft Productions - Yomichan](https://foosoft.net/projects/yomichan/)

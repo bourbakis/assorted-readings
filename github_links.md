@@ -950,3 +950,104 @@ https://drive.google.com/drive/u/0/my-drive
 - [ ] [spatstat.github.io/spatstatQuickref.pdf at master · spatstat/spatstat.github.io](https://github.com/spatstat/spatstat.github.io/blob/master/resources/spatstatQuickref.pdf)
 
 - [ ] [The Spatstat Team](https://github.com/spatstat)
+
+
+## 11/1/2019
+
+- [ ] [06-finite-mixture-regression-Kun73/report.html at master · statcomputing/06-finite-mixture-regression-Kun73](https://github.com/statcomputing/06-finite-mixture-regression-Kun73/blob/master/report.html)
+
+- [ ] [b-rodrigues (Bruno Rodrigues)](https://github.com/b-rodrigues/)
+
+- [ ] [choldgraf/jupyter-book: Create an online book with Jupyter Notebooks and Jekyll](https://github.com/choldgraf/jupyter-book)
+
+- [ ] [daattali/shiny-server: My personal Shiny server](https://github.com/daattali/shiny-server)
+
+- [ ] [ftilmann/latexdiff: Compares two latex files and marks up significant differences between them. Releases on www.ctan.org and mirrors](https://github.com/ftilmann/latexdiff)
+
+- [ ] [github.com](https://github.com/)
+
+- [ ] [github.com](https://github.com/google-research/dex-lang)
+
+- [ ] [google-research/google-research: Google AI Research](https://github.com/google-research/google-research)
+
+- [ ] [google/CausalImpact: An R package for causal inference in time series](https://github.com/google/CausalImpact)
+
+- [ ] [google/trax](https://github.com/google/trax)
+
+- [ ] [github.com](https://github.com/pandas-dev/pandas/blob/v0.25.2/pandas/core/reshape/melt.py#L18-L118)
+
+- [ ] [prisoner-dilemma-simulation · GitHub Topics](https://github.com/topics/prisoner-dilemma-simulation)
+
+- [ ] [rust-unofficial/too-many-lists: Learn Rust by writing Entirely Too Many linked lists](https://github.com/rust-unofficial/too-many-lists)
+
+- [ ] [Statistical Computing 5361](https://github.com/statcomputing?page=5)
+
+- [ ] [tohweizhong (Toh Wei Zhong) / Repositories](https://github.com/tohweizhong?tab=repositories)
+
+- [ ] [TuringLang/MCMCChains.jl: Chain types and utility functions for MCMC simulations](https://github.com/TuringLang/MCMCChains.jl)
+
+
+
+
+
+## 11/3/2019
+
+- [ ] [anki/cozmo-python-sdk: Anki Cozmo Python SDK](https://github.com/anki/cozmo-python-sdk)
+
+- [ ] [anki/vector-python-sdk: Anki Vector Python SDK](https://github.com/anki/vector-python-sdk)
+
+- [ ] [carllacan/ankimaker: Automatically generates Anki decks from many sources](https://github.com/carllacan/ankimaker)
+
+- [ ] [cubical-type-theory · GitHub Topics](https://github.com/topics/cubical-type-theory)
+
+- [ ] [dae/ankidocs: Source files for Anki's documentation](https://github.com/dae/ankidocs)
+
+- [ ] [donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.](https://github.com/donnemartin/interactive-coding-challenges)
+
+- [ ] [FooSoft/yomichan-anki: Plugin for sentence/vocab mining Japanese books in Anki.](https://github.com/FooSoft/yomichan-anki)
+
+- [ ] [gecrooks/weyl: The Weyl chamber of canonical non-local 2-qubit gates](https://github.com/gecrooks/weyl)
+
+- [ ] [glutanimate/anki-addons-misc: Various add-ons I've written for Anki](https://github.com/glutanimate/anki-addons-misc)
+
+- [ ] [glutanimate/review-heatmap: Anki add-on to help you keep track of your review activity](https://github.com/glutanimate/review-heatmap)
+
+- [ ] [haoxuany/furiganalize-epub: Annotate EPUB books with furigana](https://github.com/haoxuany/furiganalize-epub)
+
+- [ ] [haoxuany/vim-mltools: HYPE!](https://github.com/haoxuany/vim-mltools)
+
+- [ ] [louietan/anki-editor: Emacs minor mode for making Anki cards with Org](https://github.com/louietan/anki-editor)
+
+- [ ] [mromerdagan/memorize-flashcards: Flashcards memorization game (API+client)](https://github.com/mromerdagan/memorize-flashcards)
+
+- [ ] [ninja33/anki-templates: Anki Note Template](https://github.com/ninja33/anki-templates)
+
+- [ ] [ninja33/ODH: A chrome extension to show online dictionary content.](https://github.com/ninja33/ODH)
+
+- [ ] [nuprl · GitHub Topics](https://github.com/topics/nuprl)
+
+- [ ] [onevcat (Wei Wang)](https://github.com/onevcat)
+
+- [ ] [onevcat/Kingfisher: A lightweight, pure-Swift library for downloading and caching images from the web.](https://github.com/onevcat/Kingfisher)
+
+- [ ] [open-ai-robot/awesome-anki-vector: Anki Vector AI++](https://github.com/open-ai-robot/awesome-anki-vector)
+
+- [ ] [proof-assistant · GitHub Topics](https://github.com/topics/proof-assistant)
+
+- [ ] [pschlette/memrise2anki-extension: An extension for Anki 2 that downloads and converts a course from Memrise into an Anki deck.](https://github.com/pschlette/memrise2anki-extension)
+
+- [ ] [qwiglydee/anki-interactive: Interactive Cards for Anki](https://github.com/qwiglydee/anki-interactive)
+
+- [ ] [RedPRL/sml-redprl: The People's Refinement Logic](https://github.com/RedPRL/sml-redprl)
+
+- [ ] [Releases · badlydrawnrob/anki](https://github.com/badlydrawnrob/anki/releases)
+
+- [ ] [repeat-space/anki-apkg-export: Generate decks for Anki (spaced repetition software)](https://github.com/repeat-space/anki-apkg-export)
+
+- [ ] [Search · anki](https://github.com/search?p=11&q=anki&ref=opensearch&type=Repositories)
+
+- [ ] [Troyciv/anki-templates-superlist: A collection of Anki card styles](https://github.com/Troyciv/anki-templates-superlist)
+
+- [ ] [type-theory · GitHub Topics](https://github.com/topics/type-theory)
+
+- [ ] [xiaoleeza/Ankihelp: LaTeX 排版的中文 Anki 手册](https://github.com/xiaoleeza/Ankihelp)
