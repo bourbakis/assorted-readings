@@ -2361,3 +2361,29 @@ http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=autho
 - [ ] [What's Happening in the Mathematical Sciences, Volume 9 (What's Happening in the Mathermatical Sciences): Dana Mackenzie: 9780821887394: Amazon.com: Books](https://www.amazon.com/gp/product/0821887394/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i6)
 
 - [ ] [What's Happening in the Mathematical Sciences: Barry Cipra, Dana Mackenzie: 9780821835852: Amazon.com: Books](https://www.amazon.com/gp/product/0821835858/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)
+
+
+
+## 11/6/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Souchou%20Yao&column[]=author)
+
+- [ ] [Library Genesis: Alexander Pantsov - The Bolsheviks and the Chinese Revolution, 1919–1927](http://libgen.is/book/index.php?md5=0D9636638223CDB96BFDE7D1C2A09CC4)
+
+- [ ] [Library Genesis: Christian Göbel - The Politics of Rural Reform in China: State Policy and Village Predicament in the Early 2000s](http://libgen.is/book/index.php?md5=C09AA53A8E76FD1F4CAC451258392248)
+
+- [ ] [Library Genesis: Dana Mackenzie - The Universe in Zero Words: The Story of Mathematics as Told through Equations](http://libgen.is/book/index.php?md5=F78217128E7E39AD4C3C958B31F4F8D0)
+
+- [ ] [Library Genesis: Dana Mackenzie - What’s Happening in the Mathematical Sciences, Vol. 7](http://libgen.is/book/index.php?md5=B5F2375571BD96538D7B4F17D0827606)
+
+- [ ] [Library Genesis: Dr Jun Li, Jun Li - Financing China's Rural Enterprises](http://libgen.is/book/index.php?md5=D13DD50E5D450D8B11F36A67831198C8)
+
+- [ ] [Library Genesis: Glen Peterson - Overseas Chinese in the People’s Republic of China](http://libgen.is/book/index.php?md5=1FB3C4706CB364F945DAF4ECE0547A13)
+
+- [ ] [Library Genesis: Kwok-bun Chan - Migration, Ethnic Relations and Chinese Business](http://libgen.is/book/index.php?md5=99683D90BF2CB009B54756F8C36E23C9)
+
+- [ ] [Library Genesis: Mackenzie, Dana - What’s Happening n in the Mathematical Sciences](http://libgen.is/book/index.php?md5=4EF1CA42ABF89B702FF543E9F5E908E6)
+
+- [ ] [Library Genesis: Michael B. Griffiths - Consumers and Individuals in China: Standing Out, Fitting In](http://libgen.is/book/index.php?md5=89B371CAA06B845958FADAEB5939D279)
+
+- [ ] [Library Genesis: Souchou Yao - Confucian Capitalism: Discourse, Practice and the Myth of Chinese Enterprise](http://libgen.is/book/index.php?md5=27A3705F7E6E198EE3B9D2105A16CBF9)
