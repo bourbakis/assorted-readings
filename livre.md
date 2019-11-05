@@ -2018,3 +2018,322 @@ http://libgen.is/search.php?req=Cambridge+Series+in+Statistical+and+Probabilisti
 Library Genesis
 http://libgen.is/search.php?&req=Peter+M%C3%B6rters&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
 
+Library Genesis
+http://93.174.95.29/_ads/1629ABF4C75033DB60B7209893A8C2CA
+
+Library Genesis
+http://libgen.is/search.php?req=Vladimir+I.+Arnold+-+Collected+Works&open=0&res=25&view=simple&phrase=1&column=series
+
+Library Genesis: V. I. Arnold, S. M. Gusein-Zade, A. N. Varchenko (auth.) - Singularities of Differentiable Maps: Volume I: The Classification of Critical Points Caustics and Wave Fronts
+http://libgen.is/book/index.php?md5=EB5327BEDCA732E8062B9FF64B33EDDC
+
+
+Library Genesis: Kristopher Tapp - Matrix Groups for Undergraduates
+http://libgen.is/book/index.php?md5=9F492FD66FC5AD5481D62999A0C8FC39
+
+Library Genesis: Vaughn Climenhaga, Anatole Katok - From Groups to Geometry and Back
+http://libgen.is/book/index.php?md5=26BE615F44D439BDBDD298B1E6E4A169
+
+Library Genesis: Ida Kantor, Jiri Matousek, Robert Samal - Mathematics : Selected Topics Beyond the Basic Courses
+http://libgen.is/book/index.php?md5=6BD2EF3BF9B9A355498AE03D81D855B7
+
+Library Genesis: Bruce M. Landman, Aaron Robertson - Ramsey theory on the integers
+http://libgen.is/book/index.php?md5=3009ADDA08979802CA00FB84C3A4ACE8
+
+Library Genesis: Amir-Kian Kashani-Poor, Ruben Minasian, Nikita Nekrasov, Boris Pioline, Editors - String-Math 2016
+http://libgen.is/book/index.php?md5=B686207FC04E97BA8E9C6843E0D63B97
+
+Library Genesis: Erdman, John M - A problems based course in advanced calculus
+http://libgen.is/book/index.php?md5=7F648E9CE0FB96C86F7B051FC87FA7D4
+
+Library Genesis: Bühler, Theo; Salamon, Dietmar A. - Functional analysis
+http://libgen.is/book/index.php?md5=7422EEAA202E522B0EDCC1E18077ABEE
+
+Library Genesis: Lisl Gaal - A Mathematical Gallery
+http://libgen.is/book/index.php?md5=51C884F3261B839A9F1F157889ECD323
+
+Library Genesis: Tom Lindstrøm - Spaces: An Introduction to Real Analysis
+http://libgen.is/book/index.php?md5=B1463A4CEA860096CD0DFEE867765F92
+
+Library Genesis: Gaitsgory, Dennis; Rozenblyum, Nick - A study in derived algebraic geometry. Volume II, Deformations, Lie theory and formal geometry
+http://libgen.is/book/index.php?md5=0E6F071339CC6E314B1A0ABEBA9D2ADC
+
+Library Genesis
+http://libgen.is/search.php?req=Gaitsgory%2C+Dennis&column=author
+
+Library Genesis
+http://libgen.is/search.php?req=+Rozenblyum%2C+Nick&column=author
+
+Library Genesis: Matt Devos, Deborah A. Kent - Game Theory: A Playful Introduction
+http://libgen.is/book/index.php?md5=EEBB50A99899D0A519D248CA13F39C0C
+
+Library Genesis: Bowen Kerins, Darryl Yong, Al Cuoco, Glenn Stevens, Mary Pilgrim - Some Applications of Geometric Thinking
+http://libgen.is/book/index.php?md5=0FFAD6CC4B8C09E2A79774FF33BEE568
+
+
+Library Genesis: Alex Iosevich - A View from the Top
+http://libgen.is/book/index.php?md5=BD224CD53DD40FD94FE4D0E7C62A561B
+
+Library Genesis: Deguang Han, Keri Kornelson, David Larson, Eric Weber - Frames for Undergraduates
+http://libgen.is/book/index.php?md5=AA4E12360459F60CD8F3AA842643AF96
+
+Library Genesis: Jorg Bewersdorff - Galois Theory for Beginners: A Historical Perspective
+http://libgen.is/book/index.php?md5=FA106DF342E95FC1F983F5ECAFE89D47
+
+Library Genesis: Sheldon Katz - Enumerative geometry and string theory
+http://libgen.is/book/index.php?md5=0ECFA879EDCCE65C065D823ADB9BDD98
+
+Library Genesis: Sheldon Katz - Enumerative geometry and string theory
+http://libgen.is/book/index.php?md5=4CD5D250CAC6DBA979E2646C4F0BF6B2
+
+Library Genesis: John McCleary - A First Course in Topology: Continuity and Dimension
+http://libgen.is/book/index.php?md5=26F340D049DEFD2A16CD5EF1F2AFA28B
+
+Library Genesis: Bruce C. Berndt - Number theory in the spirit of Ramanujan
+http://libgen.is/book/index.php?md5=43FA236B122911F2286B489958FFB7D5
+
+Library Genesis: Serge Tabachnikov - Geometry and Billiards
+http://libgen.is/book/index.php?md5=932319B3DC8DA1FB1009734E572C8E3D
+
+Library Genesis: Robin Forman, Frank Jones, Barbara Lee Keyfitz, Frank Morgan, Michael Wolf, Steven J. Cox, Robert Hardt - Six Themes On Variation (Student Mathematical Library, V. 26)
+http://libgen.is/book/index.php?md5=6BAD7D5FF584D637F0E0AAF0F9043E0A
+
+Library Genesis: Mark Levi - Classical Mechanics With Calculus of Variations and Optimal Control: An Intuitive Introduction
+http://libgen.is/book/index.php?md5=C8C5DF74C7FA230330A39FEFD7AD6462
+
+Library Genesis: Thomas Garrity, Richard Belshoff, Lynette Boos, Ryan Brown, Carl Lienert - Algebraic Geometry: A Problem Solving Approach (With solutions)
+http://libgen.is/book/index.php?md5=648BBEC2424D496DD45BEA746C21433B
+
+Library Genesis: Victor H. Moll - Numbers and Functions: From a Classical-Experimental Mathematician's Point of View
+http://libgen.is/book/index.php?md5=90D07AEF2B679B81A2ABC79F13E9567D
+
+Library Genesis: Jiri Matousek - Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra
+http://libgen.is/book/index.php?md5=29F1A48685687A32CD23CC030352ED0F
+
+Library Genesis: Gregory F. Lawler - Random walk and the heat equation
+http://libgen.is/book/index.php?md5=09515207210FA4C24CACC5EC7403F7CF
+
+Library Genesis: Harold M. Edwards - Higher Arithmetic: An Algorithmic Introduction to Number Theory
+http://libgen.is/book/index.php?md5=A3232E1E440BB91AA0AAAA391B698BB0
+
+Library Genesis
+http://libgen.is/search.php?req=Harold+M.+Edwards&column=author
+
+Library Genesis: Yitzhak Katznelson and Yonatan R. Katznelson - A (terse) introduction to linear algebra
+http://libgen.is/book/index.php?md5=E90CC7C8BBB817F608839B879831F0FE
+
+
+Library Genesis: Tamara J. Lakins - The Tools of Mathematical Reasoning
+http://libgen.is/book/index.php?md5=6E37EFDDA138C6C0ED37FA91B4409DAD
+
+Library Genesis: Cuoco, Albert; Kerins, Bowen; Waterman, Kevin - Linear Algebra and Geometry
+http://libgen.is/book/index.php?md5=D304A37AE44F04E5399D8EAEB770F07C
+
+Library Genesis: Joel H Shapiro - Volterra Adventures
+http://libgen.is/book/index.php?md5=D3FD5CD7BCFD32093D2F39F9673D10CF
+
+Library Genesis: V. V. Yashchenko (ed.) - Cryptography: an introduction
+http://libgen.is/book/index.php?md5=D05A03F76D09A01A71BE60D8A186D7B0
+
+Library Genesis: W. J. Kaczor, M. T. Nowak - Problems in mathematical analysis 2. Continuity and differentiation
+http://libgen.is/book/index.php?md5=92E3646E855BAED007544C9C6276369B
+
+Library Genesis: Mesterton-Gibbons M. - An introduction to game-theoretic modelling
+http://libgen.is/book/index.php?md5=03C43C5D1C32A0E22B9AAE3DF997DDCE
+
+Library Genesis: John Oprea - The mathematics of soap films: explorations with Maple(R)
+http://libgen.is/book/index.php?md5=C37B870FBA0B03599258DF3899538243
+
+Library Genesis
+http://libgen.is/search.php?req=John+Oprea&column=author
+
+Library Genesis: Alexander Mehlmann - The Game's Afoot! Game Theory in Myth and Paradox
+http://libgen.is/book/index.php?md5=AC729ED483AC9882955BD22C1C854B0E
+
+Library Genesis: Gregory F. Lawler, Lester N. Coyle - Lectures on Contemporary Probability
+http://libgen.is/book/index.php?md5=2ACC2FB12CEBC5779DA33D6F4546F2E5
+
+
+# Liberal ARt
+
+Library Genesis: George C. Williams - Adaptation and Natural Selection. A Critique of Some Current Evolutionary Thought
+http://libgen.is/book/index.php?md5=D7112A1458F744A2A3AE2BAA220735A2
+
+Library Genesis: Ethan H. Shagan - The Birth of Modern Belief: Faith and Judgment from the Middle Ages to the Enlightenment
+http://libgen.is/book/index.php?md5=5777D8B8F0923E2B38251E5C8962AC1A
+
+Library Genesis
+http://libgen.is/search.php?req=George%20C.%20Williams&column[]=author
+
+Library Genesis: Robyn Creswell - City of Beginnings: Poetic Modernism in Beirut
+http://libgen.is/book/index.php?md5=96C8C1B2F70C2EC89D60CC55B0D54262
+
+Library Genesis: Jason Sharman - Empires of the Weak: The Real Story of European Expansion and the Creation of the New World Order
+http://libgen.is/book/index.php?md5=8ECACC0DEFF4F768FABF316169E8D9C7
+
+Library Genesis: Christopher Clark - Time and Power: Visions of History in German Politics, from the Thirty Years’ War to the Third Reich
+http://libgen.is/book/index.php?md5=E0B4C833749BD8BAC4049972D02C9DB0
+
+Library Genesis: Kenneth Steiglitz - The Discrete Charm of the Machine: Why the World Became Digital
+http://libgen.is/book/index.php?md5=D856226C9EF6FD397E631F3E335BCBAA
+
+Library Genesis: Andrew Hui - A Theory of the Aphorism: From Confucius to Twitter
+http://libgen.is/book/index.php?md5=3C83FA77E1CA3B7A432B68FA6F03B331
+
+Library Genesis: Justin E. H. Smith - Irrationality: A History of the Dark Side of Reason
+http://libgen.is/book/index.php?md5=388D766319A415BE68A3B5587556C463
+
+Library Genesis: Jacob Viner - The role of providence in the social order : an essay in intellectual history
+http://libgen.is/book/index.php?md5=9BCF1F65C6E373D74443C65491D7CBDF
+
+Library Genesis: Matthias Doepke; Fabrizio Zilibotti - Love, Money, and Parenting
+http://libgen.is/book/index.php?md5=28D7D51FE4726BA620D96096753B172E
+
+Library Genesis: Roos, Jerome - Why not default? : the political economy of sovereign debt
+http://libgen.is/book/index.php?md5=EDC977E68E070886D4E38744CD27B2DB
+
+Library Genesis: Lewis HARRY., Zax R. - Essential discrete mathematics for computer science
+http://libgen.is/book/index.php?md5=331A9D16CE09C7590B29D72743FBFAFE
+
+Library Genesis: Yael Tamir - Why Nationalism
+http://libgen.is/book/index.php?md5=25808AF2ACB54FE31F1F3C37D4AD7A31
+
+Library Genesis: Beineke, Jennifer / Rosenhouse, Jason - The Mathematics of Various Entertaining Subjects - Volume 3: The Magic of Mathematics
+http://libgen.is/book/index.php?md5=9EAE3C4332D0C88871C24969C5208122
+
+Library Genesis: Kieran Healy - Data Visualization: A Practical Introduction
+http://libgen.is/book/index.php?md5=28F9095F96C306FBBF46836E2A0004F9
+
+john Adams and the Spirit of Liberty as well as Neoconservatism: An Obituary for an Idea - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNTkZ8aNaECoa7xAy1M6_wwEztbfiw%3A1572923374835&ei=7ufAXeC_Ms-E-gTy4Y_ICQ&q=john+Adams+and+the+Spirit+of+Liberty+as+well+as+Neoconservatism%3A+An+Obituary+for+an+Idea&oq=john+Adams+and+the+Spirit+of+Liberty+as+well+as+Neoconservatism%3A+An+Obituary+for+an+Idea&gs_l=psy-ab.3...79602.79602..81364...0.0..0.959.959.6-1......0....1..gws-wiz.EzT4w70ELGw&ved=0ahUKEwjg7o-YjNLlAhVPgp4KHfLwA5kQ4dUDCAo&uact=5
+
+C. Bradley Thompson - Google Search
+https://www.google.com/search?client=firefox-b-d&q=C.+Bradley+Thompson
+
+
+Library Genesis: Yirmiyahu Yovel - Kant’s Philosophical Revolution: A Short Guide to the Critique of Pure Reason
+http://libgen.is/book/index.php?md5=36CA5F4F34D49C264255FD47CC1ADEFF
+
+Library Genesis: Matthew Engelke - How to Think Like an Anthropologist
+http://libgen.is/book/index.php?md5=5ADB0589B4034BB09FE90005F741F5B4
+
+Library Genesis: Paul Tucker - Unelected Power: The Quest for Legitimacy in Central Banking and the Regulatory State
+http://libgen.is/book/index.php?md5=52068DAD66BF963A3C2318CF70104F2B
+
+503 Service Temporarily Unavailable
+http://libgen.is/book/index.php?md5=5E12EBC4BA01D24E8627D00A721910B5
+
+Library Genesis: Paul Sagar - The Opinion of Mankind: Sociability and the Theory of the State from Hobbes to Smith
+http://libgen.is/book/index.php?md5=17E289CF484228E9B2D070E27E1B8A9E
+
+Library Genesis: John Stillwell - Reverse mathematics: proofs from the inside out
+http://libgen.is/book/index.php?md5=DCBF6615E1094BD33154E4A786329D3E
+
+Library Genesis: Eli Maor - Music by the Numbers: From Pythagoras to Schoenberg
+http://libgen.is/book/index.php?md5=529CAB91599DC548E9311177F9FE7198
+
+Library Genesis: Eric Posner, E. Weyl - Radical Markets: Uprooting Capitalism and Democracy for a Just Society
+http://libgen.is/book/index.php?md5=80924A54860798A37E57F61BCCB07519
+
+Library Genesis: Sunzi - The Art of War: An Illustrated Edition
+http://libgen.is/book/index.php?md5=9BE588ADEF956D50EFF4087EE3BE69E7
+
+Library Genesis: John MacCormick - What Can Be Computed?: A Practical Guide to the Theory of Computation
+http://libgen.is/book/index.php?md5=7B9C51FE0080FE233189DF1A9FDBE717
+
+Library Genesis: Albert Einstein, Ze’ev Rosenkranz - The Travel Diaries of Albert Einstein: The Far East, Palestine, and Spain, 1922-1923
+http://libgen.is/book/index.php?md5=5B49EFFA09826834288AD92CE49389FF
+
+Library Genesis: O’Connor, Brian - Idleness : a philosophical essay
+http://libgen.is/book/index.php?md5=D48B295A46FA6CEAE11C1AFBCDE52400
+
+Library Genesis: Ralph Adolphs, David J. Anderson - The Neuroscience of Emotion: A New Synthesis
+http://libgen.is/book/index.php?md5=320970E4A9CAFC19C02CD768B92040EF
+
+Library Genesis: A. G. Hopkins - American Empire: A Global History
+http://libgen.is/book/index.php?md5=62C157CDCEFAE9082AA5743566319D83
+
+Library Genesis: Sebastian Edwards - American Default: The Untold Story of FDR, the Supreme Court, and the Battle Over Gold
+http://libgen.is/book/index.php?md5=BA97C5A596980B83ED63020A5AE4DFD8
+
+Library Genesis: A. Wess Mitchell - The Grand Strategy of the Habsburg Empire
+http://libgen.is/book/index.php?md5=9D966348513CE8CEF5D48885AED94DAB
+
+Library Genesis: Su Li - The Constitution of Ancient China
+http://libgen.is/book/index.php?md5=3B644A1201A0D46F82B6D3367B891D90
+
+Library Genesis: Michael J. Ryan - A Taste for the Beautiful: The Evolution of Attraction
+http://libgen.is/book/index.php?md5=400AE209D42311361BBF32A643F72065
+
+Library Genesis: Jack Tannous - The Making of the Medieval Middle East: Religion, Society, and Simple Believers
+http://libgen.is/book/index.php?md5=C2A32DFCE43870E494ED74488746200C
+
+Library Genesis: Rosenthal, Gil Guastoni - Mate Choice: The Evolution of Sexual Decision Making From Microbes to Humans
+http://libgen.is/book/index.php?md5=742CDAAD590A7E5466281F8A3565073E
+
+Library Genesis: Mircea Pitici - The Best Writing on Mathematics 2018
+http://libgen.is/book/index.php?md5=A81E597E0E6C62F9D0FFCAECB1D48465
+
+Library Genesis: Hassan Malik - Bankers And Bolsheviks: International Finance And The Russian Revolution
+http://libgen.is/book/index.php?md5=0B1E50CAD1993BEBE8A3A862F682E9CE
+
+Library Genesis: Nicola Gennaioli; Andrei Shleifer - A Crisis of Beliefs: Investor Psychology and Financial Fragility
+http://libgen.is/book/index.php?md5=EE00D85BA43974EDBDC545E7BA97A220
+
+
+Library Genesis: Jonathan Renshon - Fighting for Status: Hierarchy and Conflict in World Politics
+http://libgen.is/book/index.php?md5=EE0D439ECD16A4654D6A6168BCEFF0D6
+
+Library Genesis: João P. Hespanha - Noncooperative Game Theory: An Introduction for Engineers and Computer Scientists
+http://libgen.is/book/index.php?md5=EC9EC0AD688445021F8BB2CAD8EBF430
+
+Library Genesis: Robert Jervis - Perception and Misperception in International Politics
+http://libgen.is/book/index.php?md5=26F50C6FCBB094030118933452F10D5B
+
+Library Genesis: Jonathan Renshon - Fighting for Status: Hierarchy and Conflict in World Politics
+http://libgen.is/book/index.php?md5=EE0D439ECD16A4654D6A6168BCEFF0D6
+
+Library Genesis: Robert Jervis - How Statesmen Think: The Psychology of International Politics
+http://libgen.is/book/index.php?md5=02CAEF8707755520B796A915786EC595
+
+
+
+
+## Statistics
+
+Library Genesis: Dr. Rajan Srinivasan (auth.) - Importance Sampling: Applications in Communications and Detection
+http://libgen.is/book/index.php?md5=129246A58574647C7BAC6515BD3E47F2
+
+Library Genesis
+http://libgen.is/search.php?&req=rare+event+simulation&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis: Olav Kallenberg - Foundations of Modern Probability
+http://libgen.is/book/index.php?md5=331458FF847FD255922B18A754BC3BB5
+
+Library Genesis: Mark J. van der Laan, Sherri Rose - Targeted Learning in Data Science
+http://libgen.is/book/index.php?md5=CDA90A212FEB51717DA89CFA120786DE
+
+Library Genesis: Dominique Fourdrinier, William E. Strawderman, Martin T. Wells - Shrinkage Estimation
+http://libgen.is/book/index.php?md5=CD352819FEAEE7B2903DA0787C8487F2
+
+Library Genesis: Peter Filzmoser, Karel Hron, Matthias Templ - Applied Compositional Data Analysis: With Worked Examples in R
+http://libgen.is/book/index.php?md5=01BC3187F88C69D39296EFE58AE02866
+
+Library Genesis: Jan G. De Gooijer (auth.) - Elements of Nonlinear Time Series Analysis and Forecasting
+http://libgen.is/book/index.php?md5=1757FC2FADAAD515775C17E84D2574C0
+
+Library Genesis: Akahira, Masafumi - Statistical estimation for truncated exponential families
+http://libgen.is/book/index.php?md5=666D494ADF029E9F3872601CB8FF7B3B
+
+Library Genesis: Toshio Sakata, Toshio Sumi, Mitsuhiro Miyazaki - Algebraic and Computational Aspects of Real Tensor Ranks
+http://libgen.is/book/index.php?md5=5C0DC10715B2FD2F660EF0CEF45BFDD3
+
+Library Genesis: Thomas W. Yee (auth.) - Vector Generalized Linear and Additive Models: With an Implementation in R
+http://libgen.is/book/index.php?md5=2E22F349FABDB8BE9012BC6ED9637AC7
+
+Library Genesis
+http://libgen.is/search.php?req=Gerardo+Rubino&column=author
+
+Library Genesis
+http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
