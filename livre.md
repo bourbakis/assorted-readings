@@ -1907,3 +1907,114 @@ A Time to Build: From Family and Community to Congress and the Campus, How Recom
 https://www.amazon.com/Time-Build-Community-Recommitting-Institutions/dp/1541699270/ref=sr_1_1?keywords=yuval+levin+time+to+build&qid=1572824237&sr=8-1/marginalrevol-20
 :wq
 
+
+### Math
+
+Library Genesis: Paul B. Larson - The Stationary Tower: Notes on a Course by W. Hugh Woodin
+http://libgen.is/book/index.php?md5=47981918EBE19E4D0D6D2BE2C135A115
+
+Library Genesis: Harald Niederreiter - Coding Theory and Cryptology
+http://libgen.is/book/index.php?md5=FBFCACD6544856EDB127260A32075353
+
+Library Genesis: Jr. Bojko Bakalov and Alexander Kirillov - Lectures on Tensor Categories and Modular Functors
+http://libgen.is/book/index.php?md5=9FAAAAC8FAF3A06C80509567BF5A6C3E
+
+Library Genesis: Jr. Bojko Bakalov and Alexander Kirillov - Lectures on Tensor Categories and Modular Functors
+http://libgen.is/book/index.php?md5=D348499C51E590B16B243327635FB1A6
+
+Library Genesis
+http://libgen.is/search.php?req=Taras+E.+Panov&column=author
+
+Library Genesis
+http://libgen.is/search.php?req=Harold+S.+Shapiro&column=author
+
+Library Genesis: Luis Barreira, Yakov B. Pesin - Lyapunov exponents and smooth ergodic theory
+http://libgen.is/book/index.php?md5=5B7D014B7191C0D518A0959A4A83918A
+
+Library Genesis: I. G. MacDonald - Symmetric Functions and Orthogonal Polynomials
+http://libgen.is/book/index.php?md5=12C786E92FE78EF9CD93C9925733EACA
+
+Library Genesis
+http://libgen.is/search.php?req=+William+P.+Thurston&column=author
+
+Library Genesis: Lars Garding - Some points of analysis and their history
+http://libgen.is/book/index.php?md5=FEBF3435EDB13F2A560FD4FD60AB5C1F
+
+Library Genesis: Bernd Sturmfels - Grobner bases and convex polytopes
+http://libgen.is/book/index.php?md5=68AE818D00BBC9FBAC37BEEB6F0477DE
+
+Library Genesis: Bernd Sturmfels - Grobner Bases and Convex Polytopes
+http://libgen.is/book/index.php?md5=AB713A26D64BF97393DBEEE64164E7FD
+
+Library Genesis: Alexander Polishchuk, Leonid Positselski - Quadratic Algebras
+http://libgen.is/book/index.php?md5=40AE1AD9820960B50D69E0AFE556CED9
+
+Library Genesis: Kendall W.S., Liang F., Wang J.-S. (eds.) - Markov Chain Monte Carlo: innovations and applications
+http://libgen.is/book/index.php?md5=99402C2EE3A839AE9ED7AF0041D8DAE7
+
+Library Genesis: Oscar Zariski - The moduli problem for plane branches
+http://libgen.is/book/index.php?md5=C0254B142EA47BEAE7928BD1AC539285
+
+Library Genesis: Lars V. Ahlfors - Lectures on quasiconformal mappings
+http://libgen.is/book/index.php?md5=9C3847E9573503EC90B7C544971C6A6D
+
+Library Genesis: Jian-Shu Li, Eng-Chye Tan, Nolan Wallach, Chen-Bo Zhu, Editors - Harmonic Analysis, Group Representations, Automorphic Forms and Invariant Theory: In Honor of Roger E. Howe
+http://libgen.is/book/index.php?md5=CC4E128414D89F3963F70F8BAA178797
+
+Library Genesis: Chitat Chong, Qi Feng, Theodore A. Slaman, W. Hugh Woodin, Yue Yang (ed.) - Computational prospects of infinity. Part II: Presented talks
+http://libgen.is/book/index.php?md5=5FE3054DFFA5BE4B7716DD02032AA83C
+
+Library Genesis: Chitat Chong, Qi Feng, Theodore A. Slaman, W. Hugh Woodin, Yue Yang (ed.) - Computational prospects of infinity. Part I: Tutorials
+http://libgen.is/book/index.php?md5=C2CB38A1C657BB4E7123AE506D4E14ED
+
+Library Genesis
+http://libgen.is/search.php?&req=National+University+of+Singapore&phrase=1&view=simple&column=series&sort=year&sortmode=DESC&page=2
+
+Library Genesis: Chong, Chi-Tat; Feng, Qi; Slaman, Theodore Allen; Woodin, W. Hugh; Yang, Yue (eds.) - Forcing, Iterated Ultrapowers, and Turing Degrees
+http://libgen.is/book/index.php?md5=E4E493611927446F478C444D0449CF11
+
+Library Genesis: Jon Berrick, Jon Berrick, Frederick R. Cohen, Elizabeth Hanbury - Braids: Introductory lectures on braids, configurations and their applications
+http://libgen.is/book/index.php?md5=921FAF369C9096EFAFA70D8953822678
+
+Library Genesis: Roberto S. Mariano, Yiu-Kuen Tse, Roberto S. Mariano, Yiu-Kuen Tse - Econometric Forecasting And High-Frequency Data Analysis
+http://libgen.is/book/index.php?md5=09D55E28FB656F7F445EF63C15867FDA
+
+Library Genesis: Chitat Chong, Chitat Chong, Qi Feng, Theodore A. Slaman, W. Hugh Woodin, Yue Yang - Computational Prospects of Infinity, Part I: Tutorials: Tutorials Pt. I
+http://libgen.is/book/index.php?md5=8CDAC2D3F987DEE9F7114449F4D6F59B
+
+Library Genesis: Stefan Ma, Stefan Ma, Yingcun Xia - Mathematical Understanding of Infectious Disease Dynamics
+http://libgen.is/book/index.php?md5=9305DC4D706EB8D5CD89D2E472D9B01E
+
+Library Genesis: Zhi Dong Bai, Zhi Dong Bai, Yang Chen, Ying-chang Liang - Random matrix theory and its applications: Multivariate statistics and wireless communications
+http://libgen.is/book/index.php?md5=625FC028F266630725D5DE04E4AF3E96
+
+Library Genesis: Wentworth, Richard A.; Wilkin, Graeme (eds.) - The geometry, topology and physics of moduli spaces of Higgs bundles
+http://libgen.is/book/index.php?md5=20C912AB4EB958B13006ABBFAB7C4958
+
+Library Genesis: De Concini C., Procesi C. - The invariant theory of matrices
+http://libgen.is/book/index.php?md5=379F3C117602CF4EC35F5B05D92C4417
+
+Library Genesis
+http://libgen.is/search.php?req=Lecture+Notes+Series%2C+Institute+for+Mathematical+Sciences%2C+National+University+of+Singapore&column=series
+
+Library Genesis: Chitat Chong, Qi Feng, Theodore A Slaman, W Hugh Woodin, Chitat Chong, Qi Feng, Theodore A Slaman, W Hugh Woodin - Infinity and Truth
+http://libgen.is/book/index.php?md5=DAF1076A778FB27B9566AC1E3AD84431
+
+Library Genesis: Denis R Hirschfeldt, Chitat Chong, Qi Feng, Theodore A Slaman, W Hugh Woodin, Yue Yang - Slicing the Truth: On the Computable and Reverse Mathematics of Combinatorial Principles
+http://libgen.is/book/index.php?md5=99E0EE37104EC9BFB0DB8FAD64028A32
+
+Library Genesis: Iwaniec H. - Lectures on the Riemann zeta function
+http://libgen.is/book/index.php?md5=41D90C7B65CE600AB7D3BBF724FB9B6A
+
+Library Genesis: Iwaniec H. - Lectures on the Riemann zeta function
+http://libgen.is/book/index.php?md5=EBB2FE4E6B53AE408D8598AEE03547DE
+
+Library Genesis: Peter D Lax; Lawrence Allen Zalcman - Complex proofs of real theorems
+http://libgen.is/book/index.php?md5=3E62D505749B4AC74212914270BB4E7F
+
+Library Genesis
+http://libgen.is/search.php?req=Cambridge+Series+in+Statistical+and+Probabilistic+Mathematics&open=0&res=100&view=simple&phrase=1&column=series
+
+Library Genesis
+http://libgen.is/search.php?&req=Peter+M%C3%B6rters&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
