@@ -1654,3 +1654,80 @@ https://stackoverflow.com/questions/47818822/can-i-use-tensorboard-with-google-c
 Diigo PDF Reader
 moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 
+
+
+## 11/6/2019
+
+- [ ] [anki connect plugin - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSq0PoiqbNrkiOcWdrLtsTILYE1lw%3A1572733669315&lei=5QK-XZjuErrFmAWc6I6IAg&q=anki%20connect%20plugin&ved=2ahUKEwjolpPByczlAhUHBKYKHQ2ZCxAQsKwBKAB6BAgAEAE)
+
+- [ ] [anki desktop - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSq0PoiqbNrkiOcWdrLtsTILYE1lw%3A1572733669315&lei=5QK-XZjuErrFmAWc6I6IAg&q=anki%20desktop&ved=2ahUKEwjolpPByczlAhUHBKYKHQ2ZCxAQsKwBKAN6BAgAEAQ)
+
+- [ ] [anki flashcards chrome - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSq0PoiqbNrkiOcWdrLtsTILYE1lw%3A1572733669315&lei=5QK-XZjuErrFmAWc6I6IAg&q=anki%20flashcards%20chrome&ved=2ahUKEwjolpPByczlAhUHBKYKHQ2ZCxAQsKwBKAF6BAgAEAI)
+
+- [ ] [edit field during review anki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSq0PoiqbNrkiOcWdrLtsTILYE1lw%3A1572733669315&lei=5QK-XZjuErrFmAWc6I6IAg&q=edit%20field%20during%20review%20anki&ved=2ahUKEwjolpPByczlAhUHBKYKHQ2ZCxAQsKwBKAJ6BAgAEAM)
+
+## 11/6/2019
+
+- [ ] [anki connect plugin - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSq0PoiqbNrkiOcWdrLtsTILYE1lw%3A1572733669315&lei=5QK-XZjuErrFmAWc6I6IAg&q=anki%20connect%20plugin&ved=2ahUKEwjolpPByczlAhUHBKYKHQ2ZCxAQsKwBKAB6BAgAEAE)
+
+- [ ] [anki desktop - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSq0PoiqbNrkiOcWdrLtsTILYE1lw%3A1572733669315&lei=5QK-XZjuErrFmAWc6I6IAg&q=anki%20desktop&ved=2ahUKEwjolpPByczlAhUHBKYKHQ2ZCxAQsKwBKAN6BAgAEAQ)
+
+- [ ] [anki flashcards chrome - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSq0PoiqbNrkiOcWdrLtsTILYE1lw%3A1572733669315&lei=5QK-XZjuErrFmAWc6I6IAg&q=anki%20flashcards%20chrome&ved=2ahUKEwjolpPByczlAhUHBKYKHQ2ZCxAQsKwBKAF6BAgAEAI)
+
+- [ ] [edit field during review anki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSq0PoiqbNrkiOcWdrLtsTILYE1lw%3A1572733669315&lei=5QK-XZjuErrFmAWc6I6IAg&q=edit%20field%20during%20review%20anki&ved=2ahUKEwjolpPByczlAhUHBKYKHQ2ZCxAQsKwBKAJ6BAgAEAM)
+
+- [ ] [forest plot in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSrmRyxDzNCd7qTgMA-cvgbToPRYQ%3A1572877546264&lei=6jTAXd7ZD4bW0gTqqKbIDA&q=forest%20plot%20in%20r&ved=2ahUKEwiJnMe84dDlAhUxE6YKHWwTAsQQsKwBKAN6BAgAEAQ)
+
+- [ ] [google extension - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSq0PoiqbNrkiOcWdrLtsTILYE1lw%3A1572733669315&lei=5QK-XZjuErrFmAWc6I6IAg&q=google%20extension&ved=2ahUKEwjolpPByczlAhUHBKYKHQ2ZCxAQsKwBKAR6BAgAEAU)
+
+- [ ] [gooogle search from local anki - Google Search](https://www.google.com/search?q=gooogle+search+from+local+anki&oq=gooogle+search+from+local+anki&aqs=chrome..69i57.9713j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [how to do a meta analysis - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNT5f9QTBNM3j-G7WUCH6BHCtaFImw:1572877578989&q=how+to+do+a+meta+analysis&sa=X&ved=2ahUKEwienPvK4dDlAhW4y4sBHYYpDQIQ1QIoAXoECGUQAg)
+
+- [ ] [how to make a forest plot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSrmRyxDzNCd7qTgMA-cvgbToPRYQ%3A1572877546264&lei=6jTAXd7ZD4bW0gTqqKbIDA&q=how%20to%20make%20a%20forest%20plot&ved=2ahUKEwiJnMe84dDlAhUxE6YKHWwTAsQQsKwBKAJ6BAgAEAM)
+
+- [ ] [how to support google search from local anki - Google Search](https://www.google.com/search?q=how+to+support+google+search+from+local+anki&oq=how+to+support+google+search+from+local+anki&aqs=chrome..69i57.16701j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [matplotlib forest plot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSrmRyxDzNCd7qTgMA-cvgbToPRYQ%3A1572877546264&lei=6jTAXd7ZD4bW0gTqqKbIDA&q=matplotlib%20forest%20plot&ved=2ahUKEwiJnMe84dDlAhUxE6YKHWwTAsQQsKwBKAB6BAgAEAE)
+
+- [ ] [meta analysis advantages and disadvantages - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNT5f9QTBNM3j-G7WUCH6BHCtaFImw:1572877578989&q=meta+analysis+advantages+and+disadvantages&sa=X&ved=2ahUKEwienPvK4dDlAhW4y4sBHYYpDQIQ1QIoBXoECGUQBg)
+
+- [ ] [meta analysis example - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNT5f9QTBNM3j-G7WUCH6BHCtaFImw:1572877578989&q=meta+analysis+example&sa=X&ved=2ahUKEwienPvK4dDlAhW4y4sBHYYpDQIQ1QIoAHoECGUQAQ)
+
+- [ ] [meta analysis literature review - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNT5f9QTBNM3j-G7WUCH6BHCtaFImw:1572877578989&q=meta+analysis+literature+review&sa=X&ved=2ahUKEwienPvK4dDlAhW4y4sBHYYpDQIQ1QIoA3oECGUQBA)
+
+- [ ] [meta analysis r - Google Search](https://www.google.com/search?q=meta%20analysis%20r)
+
+- [ ] [meta analysis vs systematic review - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNT5f9QTBNM3j-G7WUCH6BHCtaFImw:1572877578989&q=meta+analysis+vs+systematic+review&sa=X&ved=2ahUKEwienPvK4dDlAhW4y4sBHYYpDQIQ1QIoBHoECGUQBQ)
+
+- [ ] [onevcat - Google Search](https://www.google.com/search?q=onevcat&oq=onevcat&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [poisson process wiki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT7o42Kukvy1JXHpsPLVKRMXJhvyQ%3A1572738252715&ei=zBS-Xa2oK5iOr7wPnqy10A4&q=poisson+process+wiki&oq=poisson+process+wiki&gs_l=psy-ab.3..35i39j0i20i263.3791.4857..5360...0.2..0.129.562.1j4......0....1..gws-wiz.......0i71j0j0i22i30.HTCSy3iMJ5k&ved=0ahUKEwitvoLH2szlAhUYx4sBHR5WDeoQ4dUDCAs&uact=5)
+
+- [ ] [poisson process wiki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ4C9NWRjI6lGKAWwFr3eAziMuimQ:1572738263557&q=poisson+process+wiki&stick=H4sIAAAAAAAAAOOQMVLMySwuUchPUyguSSwBMjOTE3MUUoCMosyk0pLM_LziKJGC_Mzi4vw8hYKi_OTU4mKF8szszFOMHPq5-gZJKcXFUGZyWnkhlGmaYpAFZRpaFOWdYuQEM1NSLMphitMNMmBMi_hyqArTgqR4I5jqZIuqZBjboqAi-xejog8hty5ixepYAPfrCSzoAAAA&sa=X&ved=2ahUKEwjTmZjM2szlAhXWyYsBHVZVCH8QzTooADBtegQIZRAC)
+
+- [ ] [Probability and stochastics - Google Search](https://www.google.com/search?q=Probability+and+stochastics&oq=Probability+and+stochastics&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [probability distribution of x - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRPDMLppw-UFx-k6TVnDrYZOD75nA:1572739264750&q=probability+distribution+of+x&tbm=isch&source=univ&sa=X&ved=2ahUKEwiSj8yp3szlAhUCCqYKHZsaDYcQiR56BAhjEBA)
+
+- [ ] [probability distribution of x - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRPDMLppw-UFx-k6TVnDrYZOD75nA:1572739264750&q=probability+distribution+of+x&tbm=isch&source=univ&sa=X&ved=2ahUKEwiSj8yp3szlAhUCCqYKHZsaDYcQiR56BAhjEBA)
+
+- [ ] [Probability theory : an analytic view - Google Search](https://www.google.com/search?q=Probability+theory+%3A+an+analytic+view&oq=Probability+theory%C2%A0%3A+an+analytic+view&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Quantum machine learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNROnjSNJ3zahRlFppr_7ZFDO2Gnog:1572996423197&q=Quantum+machine+learning&stick=H4sIAAAAAAAAAONQF5LQr0jW18_VNzDMqMyItyosTcwrKc11SM1TwimjJZebWpJopV9RkJiXmgNUlZ-XnFpQYlWcmZJanlhZHCUBVauQm5ickZmXqpCTmliUl5mXvohRAGRoUWoaUDQ3Na9E3-AXI8MCFsYFLECSaQEL8wIWtgUs7AtYWBawsC5ilQjEYRAA0I0TBLkAAAA&sa=X&ved=2ahUKEwjax4_3n83lAhUMq5QKHSvSDRwQzTooADB1egQIZhAC&sec_act=sr)
+
+- [ ] [quantum machine learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTHWWEeDq5enOtkHRTKHqZ76PhyQg:1572996423198&q=quantum+machine+learning&stick=H4sIAAAAAAAAAOOQMRIrLE3MKynNVUjOzy0oLcnMS1dIzilNipKAiecmJmdk5qUq5KQmFuUBpU8xcunn6hsYmeVYpBlAOcYpVeWWyacYefXT9Q0NMwxzs5IzspJOMXKCVRaY5prD5FLiS9Kq0i1LoHKGRjlVRacYOUDsQkOQMJiZVZBdfoqRG6zCoCIlIwmm3rg4JcfgF6NYIIajnYGOXsSK09UAlvN6_uoAAAA&sa=X&ved=2ahUKEwjax4_3n83lAhUMq5QKHSvSDRwQzTooADB2egQIZRAC&sec_act=sr)
+
+- [ ] [quantum machine learning github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTVV91_wE2UWJYAFtJQKiS0JHNRsw:1572756875640&lei=i12-XZrWJozW0gSrpLfgAQ&q=quantum+machine+learning+github&ved=2ahUKEwiX5r6GoM3lAhWKvZQKHU7MAXsQsKwBKAB6BAgCEAE&sec_act=d)
+
+- [ ] [quntum machine learning - Google Search](https://www.google.com/search?q=quntum+machine+learning&oq=quntum+machine+learning&aqs=chrome..69i57j0l11.6078j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [What is meta analysis used for - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNT5f9QTBNM3j-G7WUCH6BHCtaFImw:1572877578989&q=What+is+meta+analysis+used+for&stick=H4sIAAAAAAAAAOOQMZLIySwuUchPUyhKLU5NLErOUMhNLcnITymOkgvPSCxRyCwGCSQqJOYl5lQWA3mlxakpCmn5RacYOfRz9Q3Sy7KyTzFygphGBulZZTB2SrFRBpRtmJVSkAZj51VWVsG0WprkwoSLLePLYexkC3NTqBKz5GJDqLBxiVl53i9GCR8c7l3ESsDBAE-bycrtAAAA&ved=2ahUKEwienPvK4dDlAhW4y4sBHYYpDQIQzTooADBwegQIaRAC)
+
+- [ ] [What is meta analysis used for - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNT5f9QTBNM3j-G7WUCH6BHCtaFImw:1572877578989&q=What+is+meta+analysis+used+for&stick=H4sIAAAAAAAAAOOQMRLKTS1JVEjMS8ypLM4sVkjKz8-OkgvPSCxRAPJQ5UqLU1MU0vKLTjHy6KfrGxol5RmlZcdXnWLk0s_VNzArMjZLNz3FyAuSM0wqryzJMDapgqstNk8ySTOBSadUFCalpRknwZVXFpkWm5ckwZXnWhZaFiXDjM7IzigsgKlNNszLKbBIykKozTCrKEz5xSjkC3SuLopXFrES8AsAYEe5SwIBAAA&ved=2ahUKEwienPvK4dDlAhW4y4sBHYYpDQIQzTooADBvegQIZhAC)
+
+- [ ] [What is meta analysis used for? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSrmRyxDzNCd7qTgMA-cvgbToPRYQ:1572877546264&q=What+is+meta+analysis+used+for%3F&sa=X&ved=2ahUKEwje9q274dDlAhUGq5QKHWqUCckQzmd6BAhlEAs)
+
+- [ ] [What is quantum machine? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTVV91_wE2UWJYAFtJQKiS0JHNRsw:1572756875640&q=What+is+quantum+machine?&sa=X&ved=2ahUKEwjax4_3n83lAhUMq5QKHSvSDRwQzmd6BAhnEAs&sec_act=d)
+
+- [ ] [quantum machine learning python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTVV91_wE2UWJYAFtJQKiS0JHNRsw:1572756875640&q=quantum+machine+learning+python&sa=X&ved=2ahUKEwjax4_3n83lAhUMq5QKHSvSDRwQ1QIoAHoECGQQAQ&sec_act=d)

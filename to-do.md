@@ -4585,4 +4585,636 @@ https://en.wikipedia.org/wiki/Chicken_(game)
 
 - [ ] [FooSoft Productions - AnkiConnect](https://foosoft.net/projects/anki-connect/)
 
-- [ ] [FooSoft Productions - Yomichan](https://foosoft.net/projects/yomichan/)
+- [ ] [FooSoft Productions - Yomichan](https://foosoft.net/projects/yomichan/GA
+
+
+
+
+
+
+
+
+## 11/6/2019
+
+- [ ] [Dot matrix printing - Wikipedia](https://en.wikipedia.org/wiki/Dot_matrix_printing)
+
+- [ ] [Network topology - Wikipedia](https://en.wikipedia.org/wiki/Network_topology)
+
+- [ ] [The Narrow Corridor: States, Societies, and the Fate of Liberty | Cato Institute](https://www.cato.org/events/the-narrow-corridor)
+
+- [ ] [Job Market Paper | Itzchak Tzachi Raz](https://scholar.harvard.edu/iraz/jmp)
+
+- [ ] [Research | Taehoon Kim](https://scholar.harvard.edu/taehoonkim/research)
+
+- [ ] [Ricardo De la O - Job Market Candidate - Stanford](https://web.stanford.edu/~delao/)
+
+- [ ] [Sean Myers - PhD Candidate - Stanford](https://web.stanford.edu/~smyers2/)
+
+- [ ] [Shocked into Service: Free Trade and the American South’s Military Burden: International Interactions: Vol 0, No 0](https://www.tandfonline.com/doi/abs/10.1080/03050629.2019.1674298)
+
+- [ ] [What is fingerprinting? The online tracking you can’t avoid. - The Washington Post](https://www.washingtonpost.com/technology/2019/10/31/think-youre-anonymous-online-third-popular-websites-are-fingerprinting-you/?arc404=true)
+
+- [ ] [TensorFlow Probability](https://www.tensorflow.org/probability/overview)
+
+- [ ] [TensorFlow Probability](https://www.tensorflow.org/probability)
+
+- [ ] [TensorFlow Probability](https://www.tensorflow.org/probability)
+
+- [ ] [TensorFlow Probability](https://www.tensorflow.org/probability/overview#layer_3_probabilistic_inference)
+
+- [ ] [A frequency quantum interpretation of the surface renewal model of mass transfer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541532/)
+
+- [ ] [Dustin Tran](http://dustintran.com/)
+
+- [ ] [Dustin Tran](http://dustintran.com/blog/)
+
+- [ ] [An introduction to probabilistic programming, now available in TensorFlow Probability](https://medium.com/tensorflow/an-introduction-to-probabilistic-programming-now-available-in-tensorflow-probability-6dcc003ca29e)
+
+- [ ] [The most insightful stories about Bayesian – Medium](https://medium.com/tag/bayesian)
+
+- [ ] [The most insightful stories about Bayesian Machine Learning – Medium](https://medium.com/tag/bayesian-machine-learning)
+
+- [ ] [CiteSeerX — Generating Homogeneous Poisson Processes](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.418.2426)
+
+- [ ] [graduate admissions - Is it possible to be admitted to CS PhD programs (in US) with scholarship at age 18? - Academia Stack Exchange](https://academia.stackexchange.com/questions/139259/is-it-possible-to-be-admitted-to-cs-phd-programs-in-us-with-scholarship-at-age)
+
+- [ ] [beginner - First attempt: Python Rock Paper Scissors - Code Review Stack Exchange](https://codereview.stackexchange.com/questions/231695/first-attempt-python-rock-paper-scissors)
+
+- [ ] [Replacing 2-prong outlets in basement - existing wiring has two hot wires, one neutral? - Home Improvement Stack Exchange](https://diy.stackexchange.com/questions/177520/replacing-2-prong-outlets-in-basement-existing-wiring-has-two-hot-wires-one-n)
+
+- [ ] [Converting a Scheme function to Emacs Lisp - Emacs Stack Exchange](https://emacs.stackexchange.com/questions/53505/converting-a-scheme-function-to-emacs-lisp)
+
+- [ ] [time keeping - What does BPE/PE in some archaeology journals stand for? - History Stack Exchange](https://history.stackexchange.com/questions/55193/what-does-bpe-pe-in-some-archaeology-journals-stand-for)
+
+- [ ] [guitar - What does it take to make metal music? - Music: Practice & Theory Stack Exchange](https://music.stackexchange.com/questions/91386/what-does-it-take-to-make-metal-music)
+
+- [ ] [pdf - Isn't LaTeX a complete software for producing books? - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/514595/isnt-latex-a-complete-software-for-producing-books)
+
+- [ ] [leadership - How should a leader behave when he misses deadlines himself? - The Workplace Stack Exchange](https://workplace.stackexchange.com/questions/147419/how-should-a-leader-behave-when-he-misses-deadlines-himself)
+
+- [ ] [What does it mean by "commercial support available" for an open-source platform? - Super User](https://superuser.com/questions/1497997/what-does-it-mean-by-commercial-support-available-for-an-open-source-platform)
+
+- [ ] [500 Internal Privoxy Error](http://filebox.vt.edu/users/pasupath/papers/nonhompoisson_streams.pdf)
+
+- [ ] [Generating Homogeneous Poisson Processes - Pasupathy - 2011 - Major Reference Works - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470400531.eorms0355)
+
+- [ ] [Generating Nonhomogeneous Poisson Processes - Pasupathy - 2011 - Major Reference Works - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470400531.eorms0356)
+
+- [ ] [The Friday Effect: Firm Lobbying, the Timing of Drug Safety Alerts, and Drug Side Effects | Management Science](https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2019.3386)
+
+- [ ] [The Friday Effect: Firm Lobbying, the Timing of Drug Safety Alerts, and Drug Side Effects | Management Science](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3386)
+
+- [ ] [Department of Mathematical Sciences — the University of Bath's research portal](https://researchportal.bath.ac.uk/en/organisations/department-of-mathematical-sciences)
+
+- [ ] [Kit Yates — the University of Bath's research portal](https://researchportal.bath.ac.uk/en/persons/kit-yates)
+
+- [ ] [American Scientist](https://www.americanscientist.org/)
+
+- [ ] [American Mathematical Society Home](https://bookstore.ams.org/?fn=20&arg1=genint&item=HAPPENING-6)
+
+- [ ] [Dana Mackenzie | Simons Institute for the Theory of Computing](https://simons.berkeley.edu/people/dana-mackenzie)
+
+- [ ] [The Laughing Mathematician: The making of Barry Cipra](http://laughmaths.blogspot.com/2014/02/the-making-of-barry-cipra.html)
+
+- [ ] [Blog Posts - Dana Mackenzie](http://danamackenzie.com/blog-posts/)
+
+- [ ] [One Week Till Publication! Upcoming Events - Dana Mackenzie](http://danamackenzie.com/one-week-till-publication-upcoming-events/)
+
+- [ ] [Outtakes - Dana Mackenzie](http://danamackenzie.com/outtakes/)
+
+- [ ] [Reviews of The Book of Why - Dana Mackenzie](http://danamackenzie.com/reviews-of-the-book-of-why/)
+
+- [ ] [Talking Points - Dana Mackenzie](http://danamackenzie.com/talking-points/)
+
+- [ ] [Dana Mackenzie's Blogs](http://www.danamackenzie.com/blogs.htm)
+
+- [ ] [Dana Mackenzie's Books](http://www.danamackenzie.com/new_books.html)
+
+- [ ] [Tenure Chase I](http://www.danamackenzie.com/prehist.html)
+
+- [ ] [Who Hung the Moon?](http://www.danamackenzie.com/moon/)
+
+- [ ] [Dana Mackenzie - Google Scholar Citations](https://scholar.google.com/citations?user=sQhKQ5cAAAAJ#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26user%3DsQhKQ5cAAAAJ%26citation_for_view%3DsQhKQ5cAAAAJ%3A9yKSN-GCB0IC)
+
+- [ ] [Dana Mackenzie - Google Scholar Citations](https://scholar.google.com/citations?user=sQhKQ5cAAAAJ#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26user%3DsQhKQ5cAAAAJ%26citation_for_view%3DsQhKQ5cAAAAJ%3AXiSMed-E-HIC)
+
+- [ ] [500 Internal Privoxy Error](http://hazelhillstudios.com/)
+
+- [ ] [Maayan Visuals](http://www.maayanillustration.com/)
+
+- [ ] ['Tribute to a mathemagician' | plus.maths.org](https://plus.maths.org/content/tribute-mathemagician)
+
+- [ ] [New Scientist | Science news and science articles from New Scientist](https://www.newscientist.com/)
+
+- [ ] [Science | AAAS](https://www.sciencemag.org/)
+
+- [ ] [Smithsonian.com | Smithsonian Magazine | Smithsonian](https://www.smithsonianmag.com/)
+
+- [ ] [UC Santa Cruz - Science Communication Program](https://scicom.ucsc.edu/)
+
+- [ ] [Clusters keep switching in Gibbs sampling of Dirichlet Process Mixture Model - Cross Validated](https://stats.stackexchange.com/questions/419663/clusters-keep-switching-in-gibbs-sampling-of-dirichlet-process-mixture-model)
+
+- [ ] [r - How to simulate Poisson arrival times if the rate varies with time? - Cross Validated](https://stats.stackexchange.com/questions/276454/how-to-simulate-poisson-arrival-times-if-the-rate-varies-with-time)
+
+- [ ] [r - How to simulate Poisson arrival times if the rate varies with time? - Cross Validated](https://stats.stackexchange.com/questions/276454/how-to-simulate-poisson-arrival-times-if-the-rate-varies-with-time/276647#276647)
+
+- [ ] [r - How to simulate Poisson arrival times if the rate varies with time? - Cross Validated](https://stats.stackexchange.com/questions/276454/how-to-simulate-poisson-arrival-times-if-the-rate-varies-with-time/276593#276593)
+
+- [ ] [Why is weighing random observations according to their probability from all distributions wrong? - Cross Validated](https://stats.stackexchange.com/questions/431171/why-is-weighing-random-observations-according-to-their-probability-from-all-dist)
+
+- [ ] [Amazing Science Art - Dana Mackenzie](http://danamackenzie.com/amazing-science-art/)
+
+- [ ] [Barbara Stoddard Burks: Pioneer in Causality - Dana Mackenzie](http://danamackenzie.com/barbara-stoddard-burks-pioneer-in-causality/)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/projects)
+
+- [ ] [New Page 1](http://www.danamackenzie.com/quiz.htm)
+
+- [ ] [The Big Splat](http://www.danamackenzie.com/books.htm)
+
+- [ ] [The Big Splat](http://www.danamackenzie.com/big_splat_animation.htm)
+
+- [ ] [dana blogs chess — all the chess that's fit to print](http://www.danamackenzie.com/blog/)
+
+- [ ] [Siri Shortcuts - SiriKit - Human Interface Guidelines - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/sirikit/overview/siri-shortcuts/)
+
+- [ ] [How Did Topological Data Analysis (TDA) Lead to the Birth of Ayasdi? | Ayasdi](https://www.ayasdi.com/blog/topology/how-did-topological-data-analysis-tda-lead-to-the-birth-of-ayasdi/)
+
+- [ ] [How Did Topological Data Analysis (TDA) Lead to the Birth of Ayasdi? | Ayasdi](https://www.ayasdi.com/blog/topology/how-did-topological-data-analysis-tda-lead-to-the-birth-of-ayasdi/)
+
+- [ ] [Trade War Latest: Trump, Xi, summit, Iowa, tariffs, Alaska, Hawai - Bloomberg](https://www.bloomberg.com/news/articles/2019-11-04/trade-war-latest-trump-xi-summit-iowa-tariffs-alaska-hawai)
+
+- [ ] [The Campbell Collaboration - The Campbell Collaboration](https://campbellcollaboration.org/)
+
+- [ ] [The best of Siri: 11 funny responses from the iPhone's virtual assistant - Telegraph](https://www.telegraph.co.uk/technology/apple/11709991/The-best-of-Siri-11-funny-responses-from-the-iPhones-virtual-assistant.html)
+
+- [ ] [How to use Apple's new Shortcuts app | Cult of Mac](https://www.cultofmac.com/560329/how-to-use-apples-new-shortcuts-app/)
+
+- [ ] [IES :: Overview](http://ies.fsv.cuni.cz/en/node/60)
+
+- [ ] [Michael Robinson's Tutorial on Sheaves in Data Analytics page](http://www.drmichaelrobinson.net/sheaftutorial/index.html)
+
+- [ ] [Calculus on Computational Graphs: Backpropagation -- colah's blog](http://colah.github.io/posts/2015-08-Backprop/)
+
+- [ ] [TTK - the Topology ToolKit - Topological Data Analysis and Visualization](https://topology-tool-kit.github.io/persistentHomologyDummies.html)
+
+- [ ] [Discovering the Whole by the Coarse: A topological paradigm for data analysis - IEEE Journals & Magazine](https://ieeexplore.ieee.org/document/7426571?tp=&arnumber=7426571&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7426571)
+
+- [ ] [Topological Data Analysis – Open Source Implementations](https://www.kdnuggets.com/2015/11/topological-data-analysis-open-source-implementations.html)
+
+- [ ] [Putting Topology to Work | Mathematical Association of America](https://www.maa.org/meetings/calendar-events/putting-topology-to-work)
+
+- [ ] [The Myth of Chinese Capitalism | Dexter Roberts | Macmillan](https://us.macmillan.com/books/9781250089373)
+
+- [ ] [www.macstories.net](https://www.macstories.net/)
+
+- [ ] [The most useful Siri Shortcuts for iPhone | Macworld](https://www.macworld.com/article/3309404/the-best-shortcuts-for-iphone.html)
+
+- [ ] [MAER-Net | Meta-Analysis of Economics Research Network](https://www.maer-net.org/)
+
+- [ ] [Extracting insights from the shape of complex data using topology | Scientific Reports](https://www.nature.com/articles/srep01236)
+
+- [ ] [403 Forbidden](https://research.math.osu.edu/tgda/)
+
+- [ ] [Meta-Analysis in Economics | IDEAS/RePEc](https://ideas.repec.org/k/metaana.html)
+
+- [ ] [CS 233 Main Page](http://cs233.stanford.edu/)
+
+- [ ] [A concrete application of Topological Data Analysis](https://towardsdatascience.com/a-concrete-application-of-topological-data-analysis-86b89aa27586)
+
+- [ ] [From Topological Data Analysis to Deep Learning: No Pain No Gain](https://towardsdatascience.com/from-tda-to-dl-d06f234f51d)
+
+- [ ] [Mixing Topology and Deep Learning with PersLay - Towards Data Science](https://towardsdatascience.com/mixing-topology-and-deep-learning-with-perslay-2e60af69c321)
+
+- [ ] [Manuel Soriano Trigueros](http://personal.us.es/msoriano4/)
+
+- [ ] [MEASURING INTERTEMPORAL SUBSTITUTION: THE IMPORTANCE OF METHOD CHOICES AND SELECTIVE REPORTING - Havránek - 2015 - Journal of the European Economic Association - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeea.12133)
+
+- [ ] [Bala Krishnamoorthy (WSU Math)](http://www.math.wsu.edu/math/faculty/bkrishna/)
+
+- [ ] [Siri Shortcuts + Zapier: How to Create Siri Shortcuts Beyond Your iPhone](https://zapier.com/blog/zapier-siri-shortcuts/)
+
+- [ ] [Don't Watch The Latest UK Polls, Instead Watch The Trends | Zero Hedge](https://www.zerohedge.com/political/dont-watch-latest-uk-polls-instead-watch-trends)
+
+- [ ] [download](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.5187&rep=rep1&type=pdf)
+
+- [ ] [sigma.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://meta-analysis.cz/sigma/sigma.pdf)
+
+- [ ] [sigma.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://meta-analysis.cz/sigma/sigma.pdf)
+
+- [ ] [Do consumers really follow a rule of thumb? Three thousand estimates from 144 studies say “probably not” - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1094202518302849)
+
+- [ ] [Habit formation in consumption: A meta-analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0014292117300569)
+
+- [ ] [(108) Beginning Data Science, Analytics, Machine Learning, Data Mining, R, Python](https://www.facebook.com/groups/995474220466742/?ref=nf_target&fref=nf&__tn__=C-R)
+
+- [ ] [(108) Dana-Farber Cancer Institute](https://www.facebook.com/pages/Dana-Farber-Cancer-Institute/196920324296152?__tn__=K-R0.g&eid=ARA6xPUPbNTFMLQgv5d84qMT_ykHy7cH4jnWehOVaOBYyY3u8JcSN-Qtd_Qwe7g03HsS1FfvPQfh6GAk&fref=mentions)
+
+- [ ] [LinkedIn: Log In or Sign Up](https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQF2wLR6lP9alwAAAW42mMF4NhaKNXl21QKPHvvd6XEGHihOzeOzzL5aqy-QVOjNKPp5f1c0yy5G8K4NsCHQyzYDHTRTiEC2T25UxjS9ABb4mxwXzoEjg2ciFaq0XVxTVHHf_Fg=&originalReferer=https://t.co/jNNZeDvJiY?amp=1&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fcap%2Fview%2F1527394739%2F%3FpathWildcard%3D1527394739%26trk%3Dmcm%26utm_content%3Dbuffer7a606%26utm_medium%3Dsocial%26utm_source%3Dtwitter.com%26utm_campaign%3Dbuffer%2B(bruegel))
+
+- [ ] [@galka_max - Google Search](https://www.google.com/search?q=%40galka_max&oq=%40galka_max&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [@SteveStuWill - Google Search](https://www.google.com/search?q=%40SteveStuWill&oq=%40SteveStuWill&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Application of topological data analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBSld7cEFOKMPMsVJ6Z4iwifny7A:1572994551313&q=Application+of+topological+data+analysis&sa=X&ved=2ahUKEwjrsdurldTlAhUdxYsBHdjYCbIQ3rMBKAJ6BAhkEAk)
+
+- [ ] [applications of topology to machine learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSUDyHF9h72uyOMt9PCmk-zP5ULRA%3A1572994674121&lei=cv7BXd2FB7-Sr7wP5Oqm4A4&q=applications%20of%20topology%20to%20machine%20learning&ved=2ahUKEwi2rqLnldTlAhUHx4sBHXNrDesQsKwBKAR6BAgBEAU&biw=1920&bih=948)
+
+- [ ] [ECON 1342: The History of Economic Growth - Google Search](https://www.google.com/search?q=ECON+1342%3A+The+History+of+Economic+Growth&oq=ECON+1342%3A+The+History+of+Economic+Growth&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [ECON1400: The Future of Globalization: Issues, Actors, and Decisions - Google Search](https://www.google.com/search?q=ECON1400%3A+The+Future+of+Globalization%3A+Issues%2C+Actors%2C+and+Decisions&oq=ECON1400%3A+The+Future+of+Globalization%3A+Issues%2C+Actors%2C+and+Decisions&aqs=chrome..69i57j69i58&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Even ‘Project Runway’ Couldn’t Save Zac Posen - Google Search](https://www.google.com/search?q=Even+%E2%80%98Project+Runway%E2%80%99+Couldn%E2%80%99t+Save+Zac+Posen&oq=Even+%E2%80%98Project+Runway%E2%80%99+Couldn%E2%80%99t+Save+Zac+Posen&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [local heterogeneity - Google Search](https://www.google.com/search?q=local+heterogeneity&oq=local+heterogeneity&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [oligarchich - Google Search](https://www.google.com/search?q=oligarchich&oq=oligarchich&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Paul Zorn - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTT8KWNyoWQnuBSWQBWNkRKZI9_lg:1572709529741&q=Paul+Zorn&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOLcxKM8tLUeLSz9U3MK0oT86x0OILSC0qzs8LzkxJLU-sLF7EyhmQWJqjEJVflLeDlREA7JjE0DwAAAA&sa=X&ved=2ahUKEwiCpOvG78vlAhVYyosBHdN-DdgQxA0wdXoECGYQCA)
+
+- [ ] [siri shortcuts apple book quote - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSSLLTInfRl2CC04wpw_TZIKXB_0Q:1572877427777&q=siri+shortcuts+apple+book+quote&tbm=isch&source=univ&sa=X&ved=2ahUKEwiqju6C4dDlAhUkNKYKHQB4CsUQsAR6BAgMEAE)
+
+- [ ] [tdamapper python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTYE8ruX8RxzB2eTALI38RxV8QuzA%3A1572994616934&lei=OP7BXdfNOIvLmAWKh4-QAg&q=tdamapper%20python&ved=2ahUKEwjnnLDMldTlAhXvGaYKHbYuDaMQsKwBKAF6BAgGEAI)
+
+- [ ] [The Meaning of Luxury - Google Search](https://www.google.com/search?q=The+Meaning+of+Luxury&oq=The+Meaning+of+Luxury&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [the myth of chinese capitalism - Google Search](https://www.google.com/search?q=the+myth+of+chinese+capitalism&oq=the+myth+of+chinese+capitalism&aqs=chrome..69i57j69i60j69i61l4.784j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [topological data analysis barcodes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQM2_mj-dEXDtvgy2IKkEXZp_XzJA:1572994636739&q=topological+data+analysis+barcodes&stick=H4sIAAAAAAAAAI3PPQ6CMACG4XQwMUZvYAjxAqUtFbmHk4vpjwhtaZE2INfxOBzJyTiAG3F88n7Lt97jKLjGGXevBDOxZIHFzDIz-MrH3Dl9OSx01gonb34EW3iHCPOatD3SI9h9iYSn_KFVM7m4KqxI-pznFueSHEewgTVMKBIlzuYtzTQeiJ3M-yacfBp-LjqVl2hyiW2RdBLPnZpBdn3-BtF58d9r9cfBD_qqMCsnAQAA&sa=X&ved=2ahUKEwj8rrnUldTlAhWayYsBHR-hD_8QzTooADB1egQIZRAC)
+
+- [ ] [topological data analysis example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQM2_mj-dEXDtvgy2IKkEXZp_XzJA:1572994636739&q=topological+data+analysis+example&sa=X&ved=2ahUKEwj8rrnUldTlAhWayYsBHR-hD_8Q1QIoBnoECGQQBw&biw=1920&bih=899)
+
+- [ ] [topological data analysis machine learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTYE8ruX8RxzB2eTALI38RxV8QuzA%3A1572994616934&lei=OP7BXdfNOIvLmAWKh4-QAg&q=topological%20data%20analysis%20machine%20learning&ved=2ahUKEwjnnLDMldTlAhXvGaYKHbYuDaMQsKwBKAR6BAgDEAU)
+
+- [ ] [topological data analysis r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTYE8ruX8RxzB2eTALI38RxV8QuzA%3A1572994616934&lei=OP7BXdfNOIvLmAWKh4-QAg&q=topological%20data%20analysis%20r&ved=2ahUKEwjnnLDMldTlAhXvGaYKHbYuDaMQsKwBKAB6BAgDEAE)
+
+- [ ] [Wedding Photography Collides With ‘Ruin Porn’ - Google Search](https://www.google.com/search?q=Wedding+Photography+Collides+With+%E2%80%98Ruin+Porn%E2%80%99&oq=Wedding+Photography+Collides+With+%E2%80%98Ruin+Porn%E2%80%99&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [What's happening in the mathematical sciences Barry Arthur Cipra - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTT8KWNyoWQnuBSWQBWNkRKZI9_lg:1572709529741&q=What%27s+happening+in+the+mathematical+sciences+Barry+Arthur+Cipra&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOLcxKM8tLUeLSz9U3MEs3S0nL1RJwLC3JyC8KyXfKz8_2z8upXMTqEJ6RWKJerJCRWFCQmpeZl66QmadQkpGqkJsIJIFEZnJijkJxcmZqXnJqsYJTYlFRpYJjUUlGaZGCc2ZBUeIOVkYAh05gYXUAAAA&sa=X&ved=2ahUKEwiCpOvG78vlAhVYyosBHdN-DdgQxA0wdHoECGUQBA)
+
+- [ ] [www.google.com](https://www.google.com/search?q=Alex%27s+Adventures+in+Numberland&oq=Alex%27s+Adventures+in+Numberland&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?q=Dana+Mackenzie&oq=Dana+Mackenzie&aqs=chrome..69i57j69i61l4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB2OOSOE_uczxBlWrsmHpWs0ZaWw:1572709195745&q=Dana+Mackenzie&stick=H4sIAAAAAAAAAONgFuLSz9U3SDbOTTexUEJiawlnJ1vpJ-fn5ubnWRVnpqSWJ1YWL2Llc0nMS1TwTUzOTs2rykzdwcoIAL5VgnZDAAAA&sa=X&ved=2ahUKEwjV4Mmn7svlAhUiyYsBHUG2BBIQzTooATB9egQIaxAC)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB2OOSOE_uczxBlWrsmHpWs0ZaWw:1572709195745&q=dana+mackenzie+books&stick=H4sIAAAAAAAAAONgFuLSz9U3SDbOTTexUEJia0llJ1vpJ-XnZ-snlpZk5BdZgdjFCvl5OZWLWEVSEvMSFXITk7NT86oyUxXAcjtYGQFXMFTuUAAAAA&sa=X&ved=2ahUKEwjV4Mmn7svlAhUiyYsBHUG2BBIQzTooATB6egQIZhAC)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTT8KWNyoWQnuBSWQBWNkRKZI9_lg:1572709529741&q=Erik+Demaine&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOLcxKM8tLUeLUz9U3MK7ILTDR4gtILSrOzwvOTEktT6wsXsTK41qUma3gkpqbmJmXuoOVEQD1A28FPgAAAA&sa=X&ved=2ahUKEwiCpOvG78vlAhVYyosBHdN-DdgQxA0wdXoECGYQBg)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTT8KWNyoWQnuBSWQBWNkRKZI9_lg:1572709529741&q=Martin+Demaine&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOLcxKM8tLUeLSz9U3MM-2qCoq0-ILSC0qzs8LzkxJLU-sLF7EyuebWFSSmafgkpqbmJmXuoOVEQDTcZXcQQAAAA&sa=X&ved=2ahUKEwiCpOvG78vlAhVYyosBHdN-DdgQxA0wdXoECGYQBA)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTT8KWNyoWQnuBSWQBWNkRKZI9_lg:1572709529741&q=MISTEAKS+and+how+to+Find+Them+Barry+Arthur+Cipra&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOLcxKM8tLUYJyi-LNUywzzLQEHEtLMvKLQvKd8vOz_fNyKhexGvh6Boe4OnoHKyTmpShk5JcrlOQruGUC2SEZqbkKTolFRZUKjkUlGaVFCs6ZBUWJO1gZARlwpo1oAAAA&sa=X&ved=2ahUKEwiCpOvG78vlAhVYyosBHdN-DdgQxA0wdHoECGUQCg)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTT8KWNyoWQnuBSWQBWNkRKZI9_lg:1572709529741&q=Misteaks+Barry+Arthur+Cipra&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOLcxKM8tLUeLSz9U3MEsxtUwy0xJwLC3JyC8KyXfKz8_2z8upXMQq7ZtZXJKamF2s4JRYVFSp4FhUklFapOCcWVCUuIOVEQAWkwXeUAAAAA&sa=X&ved=2ahUKEwiCpOvG78vlAhVYyosBHdN-DdgQxA0wdHoECGUQBg)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTT8KWNyoWQnuBSWQBWNkRKZI9_lg:1572709529741&q=Misteaks.+.+.+and+how+to+Find+Them+Before+the+Teacher+Does.+.+.:+A+Calculus+Supplement,+3rd+Edition&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOLcxKM8tLUYJw0-MrqkpSDIy1BBxLSzLyi0LynfLzs_3zcioXsSb7ZhaXpCZmF-spgGBiXopCRn65Qkm-glsmkB2SkZqr4JSall-UqlCSkaoQkpqYnJFapOCSnwrRYaXgqOCcmJNcmlNarBBcWlCQk5qbmleio2BclKLgmpJZkpmft4OVEQAD_g68mwAAAA&sa=X&ved=2ahUKEwiCpOvG78vlAhVYyosBHdN-DdgQxA0wdHoECGUQCA)
+
+- [ ] [(28) Professor Gunnar Carlsson Introduces Topological Data Analysis - YouTube](https://www.youtube.com/watch?v=XfWibrh6stw)
+
+- [ ] [Ai bankability: 10 ways artificial intelligence is transforming banking](https://www.fintechnews.org/ai-bakability-10-ways-artificial-intelligence-is-transforming-banking/)
+
+- [ ] [[Paper] Topological Data Analysis: Theory, Practice, Software, and Po…](https://www.slideshare.net/JustinSkycak/skycak-tda-expository-paper)
+
+- [ ] [Citi Ventures Deploys Machine Learning And Artificial Intelligence With People](https://www.forbes.com/sites/tomgroenfeldt/2016/10/31/citi-ventures-deploys-machine-learning-and-artificial-intelligence-with-people/#1db945095268)
+
+- [ ] [Warren’s plan to finance Medicare-for-all pushes into dangerous and uncharted territory - The Washington Post](https://www.washingtonpost.com/opinions/2019/11/05/warrens-plan-finance-medicare-for-all-pushes-into-dangerous-uncharted-territory/)
+
+- [ ] [Warren’s Medicare for All Plan Will Cost More Than She Says - Bloomberg](https://www.bloomberg.com/opinion/articles/2019-11-04/warren-s-medicare-for-all-plan-will-cost-more-than-she-says?utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-view&utm_medium=social&utm_content=view&utm_source=twitter)
+
+- [ ] [Frank Lichtenberg and the cost of saving lives through pharmaceuticals - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/04/frank-lichtenberg-and-the-cost-of-saving-lives-through-pharmaceuticals.html)
+
+- [ ] [Elizabeth Warren’s ‘Medicare for All’ Math - The New York Times](https://www.nytimes.com/2019/11/01/upshot/elizabeth-warrens-medicare-for-all-math.html?action=click&module=Top%20Stories&pgtype=Homepage)
+
+- [ ] [Elizabeth Warren Wants To Pay for Medicare for All With a $9 Trillion Tax That Will Hit the Middle Class – Reason.com](https://reason.com/2019/11/01/elizabeth-warren-wants-to-pay-for-medicare-for-all-with-a-9-trillion-tax-that-will-hit-the-middle-class/)
+
+- [ ] [Delhi pollution falls by 4% in 2019 compared to last year](https://www.indiatoday.in/diu/story/delhi-pollution-falls-by-4-in-2019-compared-to-last-year-1616035-2019-11-05)
+
+- [ ] [Washington Post: Breaking News, World, US, DC News & Analysis - The Washington Post](https://www.washingtonpost.com/?reload=true)
+
+- [ ] [Sondland testimony: Ambassador ties Trump to quid pro quo - The Washington Post](https://www.washingtonpost.com/)
+
+- [ ] [Sign in to The Washington Post](https://www.washingtonpost.com/subscribe/signin?next_url=https%3A%2F%2Fwww.washingtonpost.com%2F)
+
+- [ ] [大阪大学　社会経済研究所](https://www.iser.osaka-u.ac.jp/faculty/serizawa.html)
+
+- [ ] [The Myth of the Nazi War Machine | Notes On Liberty](https://notesonliberty.com/2019/11/03/the-myth-of-the-nazi-war-machine/)
+
+- [ ] [Three Facts You Haven’t Heard Much About Are Keys to Better Policy Toward Central America | Center For Global Development](https://www.cgdev.org/blog/three-facts-you-havent-heard-much-about-are-keys-better-policy-toward-central-america)
+
+- [ ] [Professor José M. F. Moura | Home Page](http://users.ece.cmu.edu/~moura/)
+
+- [ ] [Topological Data Analysis: A Framework for Machine Learning | Ayasdi](https://www.ayasdi.com/blog/topology/topological-data-analysis-a-framework-for-machine-learning/)
+
+- [ ] [Topological Data Analysis with R (Revolutions)](https://blog.revolutionanalytics.com/2014/01/topological-data-analysis-with-r.html)
+
+- [ ] [Resources | Ayasdi](https://www.ayasdi.com/resources/)
+
+
+
+
+
+
+
+---
+
+
+
+
+## 11/6/2019
+
+- [ ] [Add-ons for Anki 2.0 - AnkiWeb](https://ankiweb.net/shared/addons/)
+
+- [ ] [Online Dictionary Helper - Chrome Web Store](https://chrome.google.com/webstore/detail/online-dictionary-helper/lppjdajkacanlmpbbcdkccjkdbpllajb?hl=en)
+
+- [ ] [raw.githubusercontent.com](https://raw.githubusercontent.com/qwiglydee/anki-interactive/master/dist/interactive.apkg)
+
+- [ ] [Swift Talk - objc.io](https://talk.objc.io/)
+
+- [ ] [Joshua Kim](https://josh-kim.github.io/index.html)
+
+- [ ] [brill.com](https://brill.com/view/title/38676)
+
+- [ ] [Ycebaer.blogspot.com: Meta Analysis with Python: (1) Intro](http://ycebaer.blogspot.com/2016/06/meta-analysis-with-python-1-intro_11.html)
+
+- [ ] [Statistics.com - Meta Analysis In R](https://www.statistics.com/meta-analysis-in-r)
+
+- [ ] [(38) How do I use R to do meta analysis? - Quora](https://www.quora.com/How-do-I-use-R-to-do-meta-analysis)
+
+- [ ] [MIT Researcher New Meta-Analysis Method To Help Settle Unresolved Debates](https://www.kdnuggets.com/2017/04/mit-meta-analysis-method.html)
+
+- [ ] [(22) Timothy Sweetser - Diamond mixed effects models in Python - YouTube](https://www.youtube.com/watch?v=jrprjZEX9gU)
+
+- [ ] [Why Perform a Meta-Analysis](https://www.meta-analysis.com/pages/why_do.php)
+
+- [ ] [meta-analysis · GitHub Topics](https://github.com/topics/meta-analysis)
+
+- [ ] [CRAN - Package rmeta](https://cran.r-project.org/web/packages/rmeta/index.html)
+
+- [ ] [dept.stat.lsa.umich.edu/~kshedden/Python-Workshop/probiotic_meta_analysis.html](http://dept.stat.lsa.umich.edu/~kshedden/Python-Workshop/probiotic_meta_analysis.html)
+
+- [ ] [METASOFT](http://genetics.cs.ucla.edu/meta_jemdoc/index.html#download)
+
+- [ ] [Horizontal boxplot with observations — seaborn 0.9.0 documentation](http://seaborn.pydata.org/examples/horizontal_boxplot.html)
+
+- [ ] [Welcome to PyMeta.com](http://www.pymeta.com/)
+
+- [ ] [PythonMeta · PyPI](https://pypi.org/project/PythonMeta/)
+
+- [ ] [Poisson Matrix Factorization – Hong, LiangJie](https://www.hongliangjie.com/2015/08/17/poisson-matrix-factorization/)
+
+- [ ] [12: Poisson - explain xkcd](https://www.explainxkcd.com/wiki/index.php/12:_Poisson)
+
+- [ ] [pr.probability - How to construct a Poisson-like process with dependent increments? - MathOverflow](https://mathoverflow.net/questions/288761/how-to-construct-a-poisson-like-process-with-dependent-increments)
+
+- [ ] [Index of /STScI](https://astrostatistics.psu.edu/STScI/)
+
+- [ ] [minerva.stats.ox.ac.uk](https://minerva.stats.ox.ac.uk/perl/classlists.pl)
+
+- [ ] [SB3b Statistical Lifetime-Models](http://www.stats.ox.ac.uk/~winkel/bs3b.html)
+
+- [ ] [www0.maths.ox.ac.uk](https://www0.maths.ox.ac.uk/courses/course/26287)
+
+- [ ] [Part C/MScMCF Lévy Processes and Finance](http://www.stats.ox.ac.uk/~winkel/ms3b.html)
+
+- [ ] [Earn Bitcoins - through small jobs and tasks](https://wissen.fun/en/earn-bitcoins/)
+
+- [ ] [Redirecting](https://linkinghub.elsevier.com/retrieve/pii/S037722171830986X)
+
+- [ ] [Probability Distribution](https://stattrek.com/probability-distributions/probability-distribution.aspx)
+
+- [ ] [Probabilistic load flow: A review - IEEE Conference Publication](https://ieeexplore.ieee.org/document/4523658)
+
+- [ ] [Tech. Note: Gates, States, and Circuits - threeplusone](https://threeplusone.com/pubs/technote-gates-014v1/)
+
+- [ ] [Preprint: Gradients of parameterized quantum gates using the parameter-shift rule and gate decomposition - threeplusone](https://threeplusone.com/pubs/gradients/)
+
+- [ ] [Probability distribution - Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Probability_distribution)
+
+- [ ] [Books · objc.io](https://www.objc.io/books/)
+
+- [ ] [Issues · objc.io](https://www.objc.io/issues/)
+
+- [ ] [The Complete Collection · objc.io](https://www.objc.io/books/bundles/complete-collection/)
+
+- [ ] [causality - The Book of Why by Judea Pearl: Why is he bashing statistics? - Cross Validated](https://stats.stackexchange.com/questions/376920/the-book-of-why-by-judea-pearl-why-is-he-bashing-statistics)
+
+- [ ] [causality - The Book of Why by Judea Pearl: Why is he bashing statistics? - Cross Validated](https://stats.stackexchange.com/questions/376920/the-book-of-why-by-judea-pearl-why-is-he-bashing-statistics)
+
+- [ ] [Amazon and JPMorgan to roll out new health insurance plans as part of Haven joint venture – GeekWire](https://www.geekwire.com/2019/amazon-jpmorgan-roll-new-health-insurance-plans-part-haven-joint-venture/)
+
+- [ ] [Mueller Memos: Cohen Told Investigators His Lies To Congress Were “Not His Idea”](https://www.buzzfeednews.com/article/anthonycormier/rump-lawyer-cohen-tells-investigators-false-congress)
+
+- [ ] [Rated R](https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6?highlight=spotify:track:7IZxrfKnoci7NH5AI6Fkro)
+
+- [ ] [What Google's Fitbit Buy Means for the Future of Wearables | WIRED](https://www.wired.com/story/google-fitbit-future-of-wearables/)
+
+- [ ] [Quantiki | Quantum Information Portal and Wiki](https://www.quantiki.org/)
+
+- [ ] [Glutanimate](https://glutanimate.com/)
+
+- [ ] [Awesome Quantum Machine Learning | awesome-quantum-machine-learning](https://krishnakumarsekar.github.io/awesome-quantum-machine-learning/)
+
+- [ ] [Quantum Machine Learning Projects](http://mgad.protection-shop.de/quantum-machine-learning-projects.html)
+
+- [ ] [[Ep.5] Quantum Machine Learning](https://www.brighttalk.com/webcast/17171/351571/ep-5-quantum-machine-learning)
+
+- [ ] [What is quantum computing? - Definition from WhatIs.com](https://whatis.techtarget.com/definition/quantum-computing)
+
+- [ ] [Quantum Machine Learning | edX](https://www.edx.org/course/quantum-machine-learning-2)
+
+- [ ] [Machine learning meets quantum physics: Physics Today: Vol 72, No 3](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4164)
+
+- [ ] [The Ultimate Guide to Quantum Machine Learning - The next Big thing - GeeksforGeeks](https://www.geeksforgeeks.org/the-ultimate-guide-to-quantum-machine-learning-the-next-big-thing/)
+
+- [ ] [QuTiP - Quantum Toolbox in Python](http://qutip.org/)
+
+- [ ] [Bayesforge](http://bayesforge.com/)
+
+- [ ] [Rigetti Computing](https://www.rigetti.com/forest)
+
+- [ ] [Microsoft Quantum Development Kit - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit)
+
+- [ ] [(38) How will quantum computing revolutionize deep learning? - Quora](https://www.quora.com/How-will-quantum-computing-revolutionize-deep-learning)
+
+- [ ] [Google researcher: Quantum computers aren't perfect for deep learning | VentureBeat](https://venturebeat.com/2015/11/11/google-researcher-quantum-computers-arent-perfect-for-deep-learning/)
+
+- [ ] [Find your people | Meetup](https://www.meetup.com/Quantum-Physics-Drinks/)
+
+- [ ] [NPTEL :: Physics - NOC:Introductory Quantum Mechanics](https://nptel.ac.in/courses/115104096/)
+
+- [ ] [(38) Will quantum computers eventually replace classical computers any time soon? - Quora](https://www.quora.com/Will-quantum-computers-eventually-replace-classical-computers-any-time-soon)
+
+- [ ] [Machine learning in quantum spaces](https://www.nature.com/articles/d41586-019-00771-0)
+
+- [ ] [Quantum machine learning | Nature](https://www.nature.com/articles/nature23474)
+
+- [ ] [[1707.08561] Quantum machine learning: a classical perspective](https://arxiv.org/abs/1707.08561)
+
+- [ ] [[1906.10175] Machine learning methods in quantum computing theory](https://arxiv.org/abs/1906.10175)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/?searchtype=author&query=Crooks%2C+G+E)
+
+- [ ] [Machine learning, meet quantum computing - MIT Technology Review](https://www.technologyreview.com/s/612435/machine-learning-meet-quantum-computing/)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Quantum+Machine+Learning&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+- [ ] [Quantum Machine Learning | ScienceDirect](https://www.sciencedirect.com/book/9780128009536/quantum-machine-learning)
+
+- [ ] [Tensor product | Quantiki](https://www.quantiki.org/wiki/tensor-product)
+
+- [ ] [We're sorry, but the page you requested could not be found](https://warwick.ac.uk/fac/sci/physics/current/postgraduate/pglist/phrfbk/presentations/leeds14.pdf)
+
+- [ ] [(22) Quantum Machine Learning - YouTube](https://www.youtube.com/watch?v=DmzWsvb-Un4)
+
+- [ ] [(22) Sean Carroll: Quantum Gravity | AI Podcast Clips - YouTube](https://www.youtube.com/watch?v=ZR3xQ7ouPew)
+
+- [ ] [www.youtube.com](https://www.youtube.com/watch?v=bD-CWgbsCeI&list=PLgKuh-lKre10UQnP7gBCFoKgq5KWIA7el)
+
+- [ ] [www.youtube.com](https://www.youtube.com/watch?v=86QsYPxoBow)
+
+- [ ] [www.youtube.com](https://www.youtube.com/watch?v=2Qsh_w2kq9Y)
+
+- [ ] [Quantum Information and String Theory 2019: Kyoto U., YITP workshop - YouTube](https://www.youtube.com/watch?v=R2X4xW8qYdM&feature=youtu.be&t=5948)
+
+- [ ] [Quantum Machine Learning LIVE - YouTube](https://www.youtube.com/watch?v=AAO4oq2M_48)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=cD_Y_8IfT_A)
+
+- [ ] [We're sorry, but the page you requested could not be found](https://warwick.ac.uk/fac/sci/physics/current/postgraduate/pglist/phrfbk/presentations/leeds14.pdf)
+
+- [ ] [Traffic temporarily blocked](https://www.microsoft.com/en-us/research/wp-content/china.htm)
+
+- [ ] [404 Not Found](http://www.machinelearning.org/proceedings/icml2007/papers/518.pdf)
+
+- [ ] [Prediction of Solar Irradiation Using Quantum Support Vector Machine Learning Algorithm](https://www.scirp.org/journal/PaperInformation.aspx?paperID=72542)
+
+- [ ] [500 Internal Privoxy Error](http://ac.els-cdn.com/S2212667812001359/1-s2.0-S2212667812001359-main.pdf?_tid=42e0cd66-2f4a-11e7-920f-00000aacb361&acdnat=1493738345_8f536599e404c7588811ddd49c484688)
+
+- [ ] [Open Access Journals | OMICS International](https://www.omicsonline.org/open-access/quantum-neural-network-based-parts-of-speech-tagger-for-hindi-0976-4860-5-137-152.pdf.php?aid=35658)
+
+- [ ] [Open Access Journals | OMICS International](https://www.omicsonline.org/open-access/quantum-neural-network-based-parts-of-speech-tagger-for-hindi-0976-4860-5-137-152.pdf.php?aid=35658)
+
+- [ ] [(21) (PDF) Quantum Learning and Quantum Perceptrons](https://www.researchgate.net/publication/231178445_Quantum_Learning_and_Quantum_Perceptrons)
+
+- [ ] [Index of /papers](http://axon.cs.byu.edu/papers/)
+
+- [ ] [Quantum Minimax Theorem in Statistical Decision Theory (RIMS2014)](https://www.slideshare.net/tanafuyu/slide-2014-rims1031public)
+
+- [ ] [Quantum Minimax Theorem in Statistical Decision Theory (RIMS2014)](https://www.slideshare.net/tanafuyu/slide-2014-rims1031public)
+
+- [ ] [Quantum Minimax Theorem in Statistical Decision Theory (RIMS2014)](https://www.slideshare.net/tanafuyu/slide-2014-rims1031public)
+
+- [ ] [Quantum Dynamics as Generalized Conditional Probabilities](https://www.slideshare.net/mleifer/quantum-dynamics-as-generalized-conditional-probabilities)
+
+- [ ] [github.com](https://github.com/dingliu0305/Tree-Tensor-Networks-in-Machine-Learning)
+
+- [ ] [github.com](https://github.com/emstoudenmire/TNML)
+
+- [ ] [github.com](https://github.com/krishnakumarsekar/)
+
+- [ ] [github.com](https://github.com/krishnakumarsekar/)
+
+- [ ] [github.com](https://github.com/krishnakumarsekar/)
+
+- [ ] [github.com](https://github.com/krishnakumarsekar/)
+
+- [ ] [github.com](https://github.com/krishnakumarsekar/)
+
+- [ ] [github.com](https://github.com/krishnakumarsekar/)
+
+- [ ] [github.com](https://github.com/krishnakumarsekar/)
+
+- [ ] [github.com](https://github.com/krishnakumarsekar/)
+
+- [ ] [krishnakumarsekar (krishna kumar sekar)](https://github.com/krishnakumarsekar/)
+
+- [ ] [github.com](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
+
+- [ ] [github.com](https://github.com/QISKit)
+
+- [ ] [github.com](https://github.com/quantumlib)
+
+- [ ] [码隆科技提出：CharNet 卷积字符网络（场景文字检测+识别）](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247492729&idx=4&sn=1f2de56cd3ce717a4fdb56bb558caa19&chksm=f9a196f6ced61fe00c17bc9b816b49e95b4cd6941c2880ed9c123aef9dd50940c629ac1f326c&mpshare=1&scene=1&srcid=&sharer_sharetime=1572874322895&sharer_shareid=42a896371dfe6ebe8cc4cd474d9b747c&key=4457fd9057cefb6c4c3bb24ed43789e63efdb63d159d3824d255eaf85d1b3fce8535814a9ec4ce14b791fea79f242a4c5af1964b66ad7e011735872cb7132c1dee85e54c94e1cdcbe87309525ddcc54f&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=MbkuF9V6VlxkHtwA08hhIjQcWgSUzQUIsoCsGdfY7oM%3D)
+
+- [ ] [mp.weixin.qq.com](https://mp.weixin.qq.com/s/ZzR6cdv6v51fWhIlxdTkVA)
+
+- [ ] [Bias in meta-analytic research. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/m/pubmed/1624971/)
+
+- [ ] [Akaike information criterion - Wikipedia](https://en.wikipedia.org/wiki/Akaike_information_criterion)
+
+- [ ] [Bayesian information criterion - Wikipedia](https://en.wikipedia.org/wiki/Bayesian_information_criterion)
+
+- [ ] [Copula (probability theory) - Wikipedia](https://en.wikipedia.org/wiki/Copula_(probability_theory))
+
+- [ ] [Cox process - Wikipedia](https://en.wikipedia.org/wiki/Cox_process)
+
+- [ ] [Empirical probability - Wikipedia](https://en.wikipedia.org/wiki/Empirical_probability)
+
+- [ ] [File:Dice Distribution (bar).svg - Wikipedia](https://en.wikipedia.org/wiki/File:Dice_Distribution_(bar).svg)
+
+- [ ] [File:Poisson pmf.svg - Wikipedia](https://en.wikipedia.org/wiki/File:Poisson_pmf.svg)
+
+- [ ] [File:Standard deviation diagram.svg - Wikipedia](https://en.wikipedia.org/wiki/File:Standard_deviation_diagram.svg)
+
+- [ ] [File:Sydney skyline at dusk - Dec 2008.jpg - Wikipedia](https://en.wikipedia.org/wiki/File:Sydney_skyline_at_dusk_-_Dec_2008.jpg)
+
+- [ ] [Histogram - Wikipedia](https://en.wikipedia.org/wiki/Histogram)
+
+- [ ] [Independent increments - Wikipedia](https://en.wikipedia.org/wiki/Independent_increments)
+
+- [ ] [Kirkwood approximation - Wikipedia](https://en.wikipedia.org/wiki/Kirkwood_approximation)
+
+- [ ] [Markovian arrival process - Wikipedia](https://en.wikipedia.org/wiki/Markovian_arrival_process)
+
+- [ ] [Meta-analysis - Wikipedia](https://en.wikipedia.org/wiki/Meta-analysis)
+
+- [ ] [Meta-analysis - Wikipedia](https://en.wikipedia.org/wiki/Meta-analysis)
+
+- [ ] [Moment-generating function - Wikipedia](https://en.wikipedia.org/wiki/Moment-generating_function)
+
+- [ ] [Nearest neighbour distribution - Wikipedia](https://en.wikipedia.org/wiki/Nearest_neighbour_distribution)
+
+- [ ] [Poisson point process - Wikipedia](https://en.wikipedia.org/wiki/Poisson_point_process)
+
+- [ ] [Poisson point process - Wikipedia](https://en.wikipedia.org/wiki/Poisson_point_process#cite_note-Wu2019-173)
+
+- [ ] [Poisson point process - Wikipedia](https://en.wikipedia.org/wiki/Poisson_point_process)
+
+- [ ] [Probability density function - Wikipedia](https://en.wikipedia.org/wiki/Probability_density_function)
+
+- [ ] [Probability distribution - Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution)
+
+- [ ] [Probability distribution - Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution)
+
+- [ ] [Quantum cellular automaton - Wikipedia](https://en.wikipedia.org/wiki/Quantum_cellular_automaton)
+
+- [ ] [Quantum machine learning - Wikipedia](https://en.wikipedia.org/wiki/Quantum_machine_learning)
+
+- [ ] [Quantum phase estimation algorithm - Wikipedia](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm)
+
+- [ ] [Quasiprobability distribution - Wikipedia](https://en.wikipedia.org/wiki/Quasiprobability_distribution)
+
+- [ ] [Riemann–Stieltjes integral - Wikipedia](https://en.wikipedia.org/wiki/Riemann%E2%80%93Stieltjes_integral#Application_to_probability_theory)
+
+- [ ] [Simple random sample - Wikipedia](https://en.wikipedia.org/wiki/Simple_random_sample)
+
+- [ ] [Singleton (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Singleton_(mathematics))
+
+- [ ] [Stochastic geometry - Wikipedia](https://en.wikipedia.org/wiki/Stochastic_geometry)
+
+- [ ] [Stochastic geometry models of wireless networks - Wikipedia](https://en.wikipedia.org/wiki/Stochastic_geometry_models_of_wireless_networks)
+
+- [ ] [Superintelligence: Paths, Dangers, Strategies - Wikipedia](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
+
+- [ ] [Tensor - Wikipedia](https://en.wikipedia.org/wiki/Tensor)
+
+- [ ] [Tensor network theory - Wikipedia](https://en.wikipedia.org/wiki/Tensor_network_theory)
+
+- [ ] [Tensor product - Wikipedia](https://en.wikipedia.org/wiki/Tensor_product)
+
+- [ ] [Tensor product of Hilbert spaces - Wikipedia](https://en.wikipedia.org/wiki/Tensor_product_of_Hilbert_spaces)
+
+- [ ] [Three common mistakes in meta-analysis - Towards Data Science](https://towardsdatascience.com/how-to-avoid-three-common-mistakes-in-meta-analysis-eb64427e8569)
+
+- [ ] [New Tab](chrome://newtab/)
