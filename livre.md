@@ -2337,3 +2337,27 @@ http://libgen.is/search.php?req=Gerardo+Rubino&column=author
 Library Genesis
 http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
 
+
+
+
+## 11/6/2019
+
+- [ ] [Amazon.com: Artificial Intelligence: A Modern Approach (9789332543515): Stuart Russell: Books](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=as_li_ss_tl?keywords=Artificial+Intelligence+-+A+Modern+Approach&qid=1563148965&s=books&sr=1-1&linkCode=sl1&tag=inspiredalgor-20&linkId=e6d3aee30d2c0df592b22ebffa2a4f8e&language=en_US)
+
+- [ ] [Computational Topology: An Introduction: Herbert Edelsbrunner, John L. Harer: 9780821849255: Amazon.com: Books](https://www.amazon.com/Computational-Topology-Introduction-Herbert-Edelsbrunner/dp/0821849255)
+
+- [ ] [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series): Kevin P. Murphy: 9780262018029: Amazon.com: Books](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=as_li_ss_tl?keywords=machine+learning&qid=1563150905&s=books&sr=1-7&linkCode=sl1&tag=inspiredalgor-20&linkId=36ea988ab0adb253f90b6e4f0c27454f&language=en_US)
+
+- [ ] [Pattern Recognition and Machine Learning (Information Science and Statistics): Christopher M. Bishop: 9780387310732: Amazon.com: Books](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=as_li_ss_tl?keywords=Pattern+Recognition+and+Machine+Learning&qid=1563148939&s=books&sr=1-1&linkCode=sl1&tag=inspiredalgor-20&linkId=d655f6e30d43b3675f6389f04db17f64&language=en_US)
+
+- [ ] [The Big Splat, or How Our Moon Came to Be: A Violent Natural History 1, Dana Mackenzie - Amazon.com](https://www.amazon.com/gp/product/B00DNL0M74/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i4)
+
+- [ ] [The Universe in Zero Words: The Story of Mathematics as Told through Equations: Dana Mackenzie: 9780691152820: Amazon.com: Books](https://www.amazon.com/The-Universe-Zero-Words-Mathematics/dp/0691152829?creativeASIN=0691152829&linkCode=w61&imprToken=DwxT1x8xd20yq.F1qsg-kg&slotNum=1&tag=thebro-21)
+
+- [ ] [Visualizing Geology, 4th Edition (Visualizing Series) 4, Barbara W. Murck, Brian J. Skinner - Amazon.com](https://www.amazon.com/gp/product/B01AKSZAJM/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i5)
+
+- [ ] [What's Happening in the Mathematical Sciences, Volume 8 (What's Happening in the Mathermatical Sciences): Dana Mackenzie: 9780821849996: Amazon.com: Books](https://www.amazon.com/gp/product/0821849999/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2)
+
+- [ ] [What's Happening in the Mathematical Sciences, Volume 9 (What's Happening in the Mathermatical Sciences): Dana Mackenzie: 9780821887394: Amazon.com: Books](https://www.amazon.com/gp/product/0821887394/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i6)
+
+- [ ] [What's Happening in the Mathematical Sciences: Barry Cipra, Dana Mackenzie: 9780821835852: Amazon.com: Books](https://www.amazon.com/gp/product/0821835858/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)

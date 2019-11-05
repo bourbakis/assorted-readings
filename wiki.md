@@ -359,3 +359,22 @@ https://en.wikipedia.org/wiki/Economic_inequality
 - [ ] [Space Shuttle Challenger disaster - Wikipedia](https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster)
 
 - [ ] [Wikipedia:No personal attacks - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:No_personal_attacks)
+
+
+
+
+## 11/6/2019
+
+- [ ] [Ayasdi - Wikipedia](https://en.wikipedia.org/wiki/Ayasdi)
+
+- [ ] [Barry Arthur Cipra - Wikipedia](https://en.wikipedia.org/wiki/Barry_Arthur_Cipra)
+
+- [ ] [Latent variable - Wikipedia](https://en.wikipedia.org/wiki/Latent_variable)
+
+- [ ] [Mixture model - Wikipedia](https://en.wikipedia.org/wiki/Mixture_model)
+
+- [ ] [Poisson point process - Wikipedia](https://en.wikipedia.org/wiki/Poisson_point_process#Defined_on_the_real_line)
+
+- [ ] [Sheaf (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Sheaf_%28mathematics%29)
+
+- [ ] [Topological data analysis - Wikipedia](https://en.wikipedia.org/wiki/Topological_data_analysis#Workflow)
