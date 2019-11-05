@@ -1870,3 +1870,40 @@ http://libgen.is/search.php?&req=probability+game&phrase=1&view=simple&column=de
 - [ ] [Library Genesis: Wallace Wang - Pro iPhone Development with Swift 5: Design and Manage Top Quality Apps](http://libgen.is/book/index.php?md5=52294991014364ABBA10573A26CEB242)
 
 - [ ] [Library Genesis: Yanis Zafirópulos - Swift 4 Recipes: Hundreds of Useful Hand-picked Code Snippets](http://libgen.is/book/index.php?md5=19BEB64837BB5ED3A8564956B6677736)
+
+
+
+
+## 11/05/2019
+
+Yuval Levin - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Yuval+Levin
+
+Library Genesis
+http://libgen.is/search.php?&req=+Yuval+Peres&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis: David A. Levin, Yuval Peres - Markov Chains and Mixing Times
+http://libgen.is/book/index.php?md5=1545167FC91B0C4EE5E71C065A3C934C
+
+Library Genesis
+http://93.174.95.29/_ads/F1896C2BD944383D13A68F69A1FF1F23
+
+Library Genesis: Yuval Levin - The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left
+http://libgen.is/book/index.php?md5=BBC779D83670FE5FB6CF6FABBF3C7675
+
+Library Genesis
+http://libgen.is/search.php?req=David+A.+Levin&column=author
+
+Amazon.com: Give Me Liberty: A History of America's Exceptional Idea (9781541699137): Richard Brookhiser: Books
+https://www.amazon.com/Give-Me-Liberty-Americas-Exceptional/dp/1541699130/ref=sr_1_1?keywords=richard+brookhiser&qid=1572824112&sr=8-1/marginalrevol-20
+
+A Theory of Jerks and Other Philosophical Misadventures (The MIT Press): Eric Schwitzgebel: 9780262043090: Amazon.com: Books
+https://www.amazon.com/Theory-Jerks-Other-Philosophical-Misadventures-Press/dp/0262043092/ref=sr_1_1?keywords=theory+of+jerks&qid=1572824156&sr=8-1/marginalrevol-20
+
+Amazon.com: The Boundless Sea: A Human History of the Oceans (9780199934980): David Abulafia: Books
+https://www.amazon.com/Boundless-Sea-Human-History-Oceans/dp/0199934983/ref=sr_1_1?keywords=boundless+sea&qid=1572824196&sr=8-1/marginalrevol-20
+
+A Time to Build: From Family and Community to Congress and the Campus, How Recommitting to Our Institutions Can Revive the American Dream: Yuval Levin: 9781541699274: Amazon.com: Books
+https://www.amazon.com/Time-Build-Community-Recommitting-Institutions/dp/1541699270/ref=sr_1_1?keywords=yuval+levin+time+to+build&qid=1572824237&sr=8-1/marginalrevol-20
+:wq
+
