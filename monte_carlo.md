@@ -329,3 +329,58 @@ http://libgen.is/search.php?req=Mathematics+and+Visualization&column=series
 Library Genesis
 http://libgen.is/search.php?&req=Topological+Methods+in+Data+Analysis+and+Visualization&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
 
+
+Why do we draw parameters to draw from a marginal distribution that does not contain the parameters? | Xi'an's Og
+https://xianblog.wordpress.com/2019/11/03/why-do-we-draw-parameters-to-draw-from-a-marginal-distribution-that-does-not-contain-the-parameters/
+
+Bayesian model averaging in astrophysics [guest post] | Xi'an's Og
+https://xianblog.wordpress.com/2015/08/12/bayesian-model-averaging-in-astrophysics-guest-post/
+
+revisiting the balance heuristic | Xi'an's Og
+https://xianblog.wordpress.com/2019/10/24/revisiting-the-balance-heuristic/
+
+Bayesian model comparison with intractable constants | Xi'an's Og
+https://xianblog.wordpress.com/2016/02/08/bayesian-model-comparison-with-intractable-constants/
+
+Another bit from Art Owen, this time dunking on ripoff publishers « Statistical Modeling, Causal Inference, and Social Science
+https://statmodeling.stat.columbia.edu/2019/03/31/another-bit-from-art-owen-this-time-dunking-on-ripoff-publishers/
+
+A comment about p-values from Art Owen, upon reading Deborah Mayo’s new book « Statistical Modeling, Causal Inference, and Social Science
+https://statmodeling.stat.columbia.edu/2019/03/31/a-comment-about-p-values-from-art-owen-upon-reading-deborah-mayos-new-book/
+
+Bootstrapping (statistics) - Wikipedia
+https://en.wikipedia.org/wiki/Bootstrapping_(statistics)
+
+self study - Evaluate integral with Importance sampling method in R - Cross Validated
+https://stats.stackexchange.com/questions/260256/evaluate-integral-with-importance-sampling-method-in-r
+
+self study - Estimate integral value using Monte Carlo Importance Sampling method - Cross Validated
+https://stats.stackexchange.com/questions/207864/estimate-integral-value-using-monte-carlo-importance-sampling-method
+
+Importance Sampling to evaluate integral in R - Cross Validated
+https://stats.stackexchange.com/questions/88991/importance-sampling-to-evaluate-integral-in-r
+
+statistics - R: monte carlo integration using Importance Sampling - Stack Overflow
+https://stackoverflow.com/questions/22060675/r-monte-carlo-integration-using-importance-sampling
+
+how to Design a better importance sampling method to estimate r - Google Search
+https://www.google.com/search?client=firefox-b-d&q=how+to+Design+a+better+importance+sampling+method+to+estimate+r
+
+Importance sampling - Wikipedia
+https://en.wikipedia.org/wiki/Importance_sampling
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&uact=8&ved=2ahUKEwjXlenpktXlAhWyIjQIHcmDDT4QFjAJegQILhAC&url=http%3A%2F%2Fib.berkeley.edu%2Flabs%2Fslatkin%2Feriq%2Fclasses%2Fguest_lect%2Fmc_lecture_notes.pdf&usg=AOvVaw1suYipl0xwpBceHGEc_Vo1
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&uact=8&ved=2ahUKEwjXlenpktXlAhWyIjQIHcmDDT4QFjAJegQILhAC&url=http%3A%2F%2Fib.berkeley.edu%2Flabs%2Fslatkin%2Feriq%2Fclasses%2Fguest_lect%2Fmc_lecture_notes.pdf&usg=AOvVaw1suYipl0xwpBceHGEc_Vo1
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&cad=rja&uact=8&ved=2ahUKEwjXlenpktXlAhWyIjQIHcmDDT4QFjAQegQILBAC&url=http%3A%2F%2Fwww.stats.ox.ac.uk%2F~winkel%2FASim11.pdf&usg=AOvVaw1XYltg3rTal-VEeD9i1t9a
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&cad=rja&uact=8&ved=2ahUKEwjXlenpktXlAhWyIjQIHcmDDT4QFjAQegQILBAC&url=http%3A%2F%2Fwww.stats.ox.ac.uk%2F~winkel%2FASim11.pdf&usg=AOvVaw1XYltg3rTal-VEeD9i1t9a
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&cad=rja&uact=8&ved=2ahUKEwjXlenpktXlAhWyIjQIHcmDDT4QFjARegQIMBAC&url=http%3A%2F%2Fwww.cs.cmu.edu%2F~epxing%2FClass%2F10708-16%2Fnote%2F10708_scribe_lecture15.pdf&usg=AOvVaw2gvOYiPYoz5KWZBXUd4bOI
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&cad=rja&uact=8&ved=2ahUKEwjXlenpktXlAhWyIjQIHcmDDT4QFjARegQIMBAC&url=http%3A%2F%2Fwww.cs.cmu.edu%2F~epxing%2FClass%2F10708-16%2Fnote%2F10708_scribe_lecture15.pdf&usg=AOvVaw2gvOYiPYoz5KWZBXUd4bOI
+
+causul reasoning - Google Search
+https://www.google.com/search?client=firefox-b-d&q=causul+reasoning
+
+many world interpretation - Google Search
+https://www.google.com/search?client=firefox-b-d&q=many+world+interpretation
+
