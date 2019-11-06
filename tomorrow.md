@@ -1597,3 +1597,38 @@ https://machinelearningmastery.com/nonparametric-statistical-significance-tests-
 - [ ] [关于印发《安康学院学生教学信息员工作管理规定的通知》-安康学院教务处](http://jwc.aku.edu.cn/info/news/content/4984.htm)
 
 - [ ] ['Not on my list': private California firms fight fires, raise concerns | AFP.com](https://www.afp.com/en/news/3954/not-my-list-private-california-firms-fight-fires-raise-concerns-doc-1lw8131)
+
+
+
+
+## 11/6/2019
+
+- [ ] [My voice and noise on subprime bank regulations: The risk weighted capital requirements for banks should have had to consider the conditional probabilities... it did not!](https://subprimeregulations.blogspot.com/2018/08/risk-weighted-capital-requirements-for.html)
+
+- [ ] [To Transform a Street, Just Paint a Park - CityLab](https://www.citylab.com/transportation/2019/10/safe-streets-janette-sadik-khan-bloomberg-asphalt-art-initiative/600988/?utm_medium=social&utm_term=2019-10-31T17%3A10%3A33&utm_source=facebook&utm_campaign=citylab&utm_content=edit-promo&fbclid=IwAR0LBK_nxmuFZHjvriUDYPAPNPvZ5s9pBUhJVtaHPIdDkZ6rpq9oy4Qcxkw)
+
+- [ ] [Asia’s coral faces a deadly onslaught - Polyp apocalypse](https://www.economist.com/asia/2019/10/24/asias-coral-faces-a-deadly-onslaught?utm_source=Facebook&utm_medium=Economist_Films&utm_campaign=Link_Description&utm_term=&utm_content=Social_native_videos&linkId=100000008825109&fbclid=IwAR3lv2rkqQyjHQAZm0XiJcmu9KcnVbZCjgw8Y0KE81GQtNlZk8ejTEwYiRo)
+
+- [ ] [The first map of America's food supply chain is mind-boggling](https://www.fastcompany.com/90422553/the-first-map-of-americas-food-supply-chain-is-mind-boggling?partner=citylab&fbclid=IwAR3ZKJ3MfqFrYGVtagucShl_JnKm5xCU4wt2J2WBmMMgvIP9ijyMhOt8SRo)
+
+- [ ] [This 13-year-old invented a better version of the hyperloop](https://www.fastcompany.com/90422113/this-13-year-old-invented-a-better-version-of-the-hyperloop?partner=citylab&fbclid=IwAR3HhwD7ElEzBuopOz6kl47b5lTo1fFW07El_BT-0UpWPX80YQQx8CrX1cE)
+
+- [ ] [Systems for Machine Learning request for proposals - Facebook Research](https://research.fb.com/programs/research-awards/proposals/systems-for-machine-learning-request-for-proposals/)
+
+- [ ] [Subscribe - Harvard Business Review UK](https://subscribe.hbr.org/pubs/H0/HBR/newbusiness_int_GBB4.jsp?cds_page_id=238075&cds_mag_code=HBR&id=1572786916435&lsid=93070715164027319&vid=1&fbclid=IwAR2XlC73rGsEyIW-4u1e9SVyvdeQW6oLjlLIsjZsx9l33nGlcD9KvGvGh9Q&utm_medium=paidsocial&cds_response_key=I91NWEB3&utm_source=facebook&utm_campaign=subscribetohbr_gbb_intl)
+
+- [ ] [A Gentle Introduction to Expectation-Maximization (EM Algorithm)](https://machinelearningmastery.com/expectation-maximization-em-algorithm/?fbclid=IwAR1Gd0ZsUoyOgUP64qPcu5y6oUtjpY2bj1WlDdX7Lgw2Mg-SirTOTDV_zpQ)
+
+- [ ] [2019’s top Russia-related books ‘Meduza’ has your reading list for the next 10,000 years — Meduza](https://meduza.io/en/slides/2019-s-top-russia-related-books)
+
+- [ ] [Déjà vu During the USSR's August Putsch, a photographer shot an iconic image of five protesters. 28 years later, he's discovered that one of them is Nobel Prize-winning economist Esther Duflo. — Meduza](https://meduza.io/en/feature/2019/10/28/deja-vu)
+
+- [ ] [Quantifying the dynamics of failure across science, startups and security | Nature](https://www.nature.com/articles/s41586-019-1725-y?fbclid=IwAR2Pj8eOW_--7riv8ev-dXM95UObuxZDUq5NYfZGcaJzJNS8fLSff_XIohw)
+
+- [ ] [Why Britain has embraced vaping | Matt Ridley](http://www.rationaloptimist.com/blog/vaping-us-vs-uk/?fbclid=IwAR1x30c4r80_ATnQv964Ds6YGnNPWbC_kiNToXKlqlIQCRrhh_QColQnawY)
+
+- [ ] [Intuitive Hyperparameter Optimization : Grid Search, Random Search and Bayesian Search!](https://towardsdatascience.com/intuitive-hyperparameter-optimization-grid-search-random-search-and-bayesian-search-2102dbfaf5b)
+
+- [ ] [Learn Ethical Hacking From Scratch | Udemy](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/?fbclid=IwAR16hYfeaUMPoR5FQiB4-0j1sy8PrQA3r6JJXK5AaQLppQqg-m2oTh_g5NE&k_clickid=52978f57-f26c-44cc-bba0-4c3913190f43_177546227&utm_campaign=ROW-FB-TECH-IT-Instagram-Creative-Testing2-hacking-Mobile-EN-ENG_._ci_857010_._sl_ENG_._vi_TECH_._sd_Mobile_._la_EN_.+&utm_medium=udemyads&utm_source=facebook&utm_term=_._ag_04W3w9-_._ci_857010_static-CTA-signup-control15+1+copy_._gi_all_._ai_21--65_._an_static2-CTA-signup+1+copy_._la_English+%28All%29)
+
+- [ ] [Sketchnoting Course Additions: Captions & Transcripts - Verbal To Visual](https://www.verbaltovisual.com/sketchnoting-course-additions/?fbclid=IwAR3GkTRQ6HoNvIO2TFYB_ohC9EDLcx3_LH2Y147sKi6bdGY8PlW5Huy2IcU)

@@ -10,3 +10,27 @@
 [Robert Solow on the future of leisure - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/10/robert-solow-on-the-future-of-leisure.html)
 
 > …there is no logical or physical reason that the work year of a machine should not actually increase, say. But it would seem more likely that increased leisure over the next century should be accompanied by a smaller stock of capital (per worker), smaller gross investment (per worker), and thus a larger share of consumption in GDP. Of course, this tendency will almost certainly be offset by an ongoing increase in capital intensity, even in the service sector. Obviously there are other, totally moot, considerations. Will leisure time activities be especially capital intensive (grandiose hotels, enormous cruise ships) or the opposite (growing marigolds, reading poetry)? Show me an economist with a strong opinion about these things, and I will show you that oxymoron: a _daredevil_economist.
+
+
+
+
+
+## 11/6/2019
+
+- [ ] [Are queens more warlike than kings? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/are-queens-more-warlike-than-kings.html)
+
+- [ ] [Economists and non-economists on elasticity - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/economists-vs-non-economists-on-elasticity.html)
+
+- [ ] [Learning is Caring: An Agrarian Origin of American Individualism - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/learning-is-caring-an-agrarian-origin-of-american-individualism.html)
+
+- [ ] [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
+
+- [ ] [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
+
+- [ ] [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
+
+- [ ] [Public employee pension and municipal insolvency - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/public-employee-pension-and-municipal-insolvency.html)
+
+- [ ] [Release Bad News on a Friday - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/release-bad-news-on-a-friday.html)
+
+- [ ] [What should I ask Esther Duflo? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/what-should-i-ask-esther-duflo.html)

@@ -747,3 +747,39 @@ https://github.com/tensorflow/probability/blob/master/tensorflow_probability/exa
 probability/tensorflow_probability/examples/jupyter_notebooks at master · tensorflow/probability
 https://github.com/tensorflow/probability/tree/master/tensorflow_probability/examples/jupyter_notebooks
 
+
+
+
+## 11/6/2019
+
+- [ ] [(1) #ItFromQubit - Twitter検索 / Twitter](https://twitter.com/hashtag/ItFromQubit?src=hashtag_click)
+
+- [ ] [(1) David JuurlinkさんはTwitterを使っています: 「With a crop of new interns hitting the wards tomorrow, here are ten (somewhat random) #TipsForNewDocs with a focus on drugs. Feel free to suggest others. Thread —&gt;」 / Twitter](https://twitter.com/DavidJuurlink/status/1145489525751369732)
+
+- [ ] [(1) Gavin Crooks（@gavincrooks）さん / Twitter](https://twitter.com/gavincrooks)
+
+- [ ] [Jonathan Oppenheim（@postquantum）さん / Twitter](https://twitter.com/postquantum)
+
+- [ ] [(1) Jonathan OppenheimさんはTwitterを使っています: 「"The book has not yet been written on Quantum Machine Learning. Well, one has, but it shouldn't have been." A review of an emerging field, without the hype by Vedran Dunjko at the #ItFromQubit summer school: https://t.co/BzVoWwdlHq https://t.co/J9RV4vP1sk」 / Twitter](https://twitter.com/postquantum/status/1142056866563760133)
+
+- [ ] [(1) Glutanimate（@glutanimate）さん / Twitter](https://twitter.com/glutanimate)
+
+
+
+## 11/6/2019
+
+- [ ] [(2) Bjorn Lomborg（@BjornLomborg）さん / Twitter](https://twitter.com/BjornLomborg)
+
+- [ ] [(1) Bjorn LomborgさんはTwitterを使っています: 「New York Times ran a sensational story on how many places will soon be underwater Unfortunately, it misuses data to conclude disaster, creating unreasonable fear https://t.co/elkRetdSD9, https://t.co/pVD0xBats8 https://t.co/1SfDKEoJ0d」 / Twitter](https://twitter.com/BjornLomborg/status/1191021723644301312)
+
+- [ ] [ホーム / Twitter](https://twitter.com/home)
+
+- [ ] [朱韵和（@zhu0588）さん / Twitter](https://twitter.com/zhu0588)
+
+- [ ] [草祭（@caojitw）さん / Twitter](https://twitter.com/caojitw)
+
+- [ ] [Dexter Roberts（@dtiffroberts）さん / Twitter](https://twitter.com/dtiffroberts)
+
+- [ ] [Matt Ridley（@mattwridley）さん / Twitter](https://twitter.com/mattwridley)
+
+- [ ] [Richard Tol（@RichardTol）さん / Twitter](https://twitter.com/RichardTol)
