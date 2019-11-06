@@ -269,3 +269,63 @@ https://stackoverflow.com/questions/38749697/importance-sampling-in-r
 Importance sampling adds an interesting twist to Monte Carlo simulation | R-bloggers
 https://www.r-bloggers.com/importance-sampling-adds-an-interesting-twist-to-monte-carlo-simulation/
 
+
+## 11/06/2019
+
+monte carlo caluclate pi py - Google Search
+https://www.google.com/search?client=firefox-b-d&q=monte+carlo+caluclate+pi+py
+
+monte carlo caluclate pi r - Google Search
+https://www.google.com/search?client=firefox-b-d&q=monte+carlo+caluclate+pi+r
+
+Estimation of the number PI – A Monte Carlo simulation | R-bloggers
+https://www.r-bloggers.com/estimation-of-the-number-pi-a-monte-carlo-simulation/
+
+Monte Carlo Pi
+http://mathfaculty.fullerton.edu/mathews/n2003/montecarlopimod.html
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&ved=2ahUKEwiXi4fUt9TlAhU4AGMBHQfHCDMQFjANegQIBRAC&url=https%3A%2F%2Fcourses.cs.washington.edu%2Fcourses%2Fcse160%2F16wi%2Fsections%2F07%2FSection07Handout.pdf&usg=AOvVaw0pvPpVjtxSBVIMVEhPcoww
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&ved=2ahUKEwiXi4fUt9TlAhU4AGMBHQfHCDMQFjANegQIBRAC&url=https%3A%2F%2Fcourses.cs.washington.edu%2Fcourses%2Fcse160%2F16wi%2Fsections%2F07%2FSection07Handout.pdf&usg=AOvVaw0pvPpVjtxSBVIMVEhPcoww
+
+Estimating pi with GIS and Monte Carlo methods in R
+http://strimas.com/gis/estimating-pi/
+
+algorithm - Monte Carlo pi method - Stack Overflow
+https://stackoverflow.com/questions/15186163/monte-carlo-pi-method
+
+The Monte Carlo method for estimating pi in MATLAB - Stack Overflow
+https://stackoverflow.com/questions/32553764/the-monte-carlo-method-for-estimating-pi-in-matlab
+
+matlab - Monte Carlo approximation of pi with a sphere - Stack Overflow
+https://stackoverflow.com/questions/33860295/monte-carlo-approximation-of-pi-with-a-sphere
+
+probability - Error in calculation of $\pi$ using Monte Carlo method. - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/2493445/error-in-calculation-of-pi-using-monte-carlo-method
+
+功能需求 - Google Search
+https://www.google.com/search?q=%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82&tbm=isch&hl=en&chips=q:%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82,online_chips:%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82,online_chips:%E7%94%A8%E4%BE%8B&client=firefox-b-d&hl=en&ved=2ahUKEwjWqdPgutTlAhXQkZ4KHUwoDsYQ4lYoCHoECAEQIA&biw=1351&bih=672#imgrc=RYCBdBHLKgT-OM
+
+how to write Business requirement for software develpment - Google Search
+https://www.google.com/search?client=firefox-b-d&q=how++to+write+Business+requirement+for+software+develpment
+
+Business requirements - Wikipedia
+https://en.wikipedia.org/wiki/Business_requirements
+
+Business Requirements Document: a High-level Review - iSixSigma
+https://www.isixsigma.com/implementation/project-selection-tracking/business-requirements-document-high-level-review/
+
+Tips for Writing Business Requirements Documents | Lucidchart Blog
+https://www.lucidchart.com/blog/tips-for-a-perfect-business-requirements-document
+
+how to write business proposal - Google Search
+https://www.google.com/search?client=firefox-b-d&q=how+to+write+business+proposal
+
+Library Genesis
+http://libgen.is/search.php?&req=topological+data+analysis&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?req=Mathematics+and+Visualization&column=series
+
+Library Genesis
+http://libgen.is/search.php?&req=Topological+Methods+in+Data+Analysis+and+Visualization&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
