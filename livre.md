@@ -2337,3 +2337,12 @@ http://libgen.is/search.php?req=Gerardo+Rubino&column=author
 Library Genesis
 http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
 
+
+[Library Genesis](http://libgen.is/search.php?&req=Stochastic+Simulation&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+
+## Differntial Programming
+
+- [Library Genesis](http://libgen.is/search.php?&res=100&req=Adaptive+Computation+and+Machine+Learning&phrase=1&view=simple&column=series&sort=year&sortmode=DESC)
+
+- [Library Genesis](http://libgen.is/search.php?&req=Alpaydin+Ethem+&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
