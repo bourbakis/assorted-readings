@@ -363,3 +363,171 @@ brary Genesis](http://libgen.is/search.php?&req=causation&phrase=1&view=simple&c
 [Library Genesis](http://libgen.is/search.php?&req=Causal+inference&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 
 [Library Genesis](http://libgen.is/search.php?req=many-worlds+interpretation+&open=0&res=25&view=simple&phrase=1&column=def)
+
+
+
+
+
+
+
+# Math
+
+## 11/7/2019
+
+- [ ] [Library Genesis: Richard Courant, Edward James McShane - Differential and Integral Calculus](http://libgen.is/book/index.php?md5=4001F9BDB4C64C30813E4C8C52969C3A)
+
+- [ ] [Library Genesis: Varadarajan V.S. - Supersymmetry for Mathematicians. An Introduction (Courant Lectures on Supersymmetry)](http://libgen.is/book/index.php?md5=7DB110EE240ED8E3B4AC3CE51D3916B1)
+
+- [ ] [Library Genesis: Rorres, Chris (ed.) - Archimedes in the 21st Century: Proceedings of a World Conference at the Courant Institute of Mathematical Sciences](http://libgen.is/book/index.php?md5=15E487CAE0B7E24621439D61381F6836)
+
+- [ ] [Library Genesis: Meyer, Schick, Tschinkel. (eds.) - Trends in mathematics. Courant-Colloquium, October 2007](http://libgen.is/book/index.php?md5=BE7BF2C9E2F37C231B22A41B62481979)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Peter+D.+Lax&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=V.+S.+Varadarajan&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Courant+Lecture+Notes&column=series)
+
+- [ ] [Library Genesis: Richard Courant - Dirichlet's principle, conformal mapping, and minimal surfaces](http://libgen.is/book/index.php?md5=C15EEB86DB64948B06B958D527A9FA4E)
+
+- [ ] [Library Genesis: Richard Courant, Fritz John - Introduction to Calculus and Analysis. Vol.1](http://libgen.is/book/index.php?md5=4A08AF53BDC8D1248C59B61732968EE7)
+
+- [ ] [Library Genesis: Richard Courant, Fritz John, Albert A. Blank, Alan Solomon - Introduction to Calculus and Analysis: Volume II](http://libgen.is/book/index.php?md5=29295A199482C38DCB3DDA53109FB61F)
+
+- [ ] [Library Genesis: Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis I](http://libgen.is/book/index.php?md5=A4B2710B3A5F7A27C9A5E8495C247239)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Classics+in+Mathematics&column=series)
+
+- [ ] [Library Genesis: Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis II/1](http://libgen.is/book/index.php?md5=B16CA97080EAF6A292406F55D33974B3)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+D.+Hilbert&column=author)
+
+- [ ] [Library Genesis: R. Courant, D. Hilbert - Methods of Mathematical Physics [Vol 1](classic)](http://libgen.is/book/index.php?md5=BF105105533DC3308972BC8EAE603DA9)
+
+- [ ] [Library Genesis: R. Courant, D. Hilbert - Methods of Mathematical Physics [Vol 2](classic)](http://libgen.is/book/index.php?md5=A66C9D6AE8004027F2AD9C354AFDF1C7)
+
+- [ ] [Library Genesis: R. Courant, D. Hilbert - Methods of Mathematical Physics (2 Volumes)](http://libgen.is/book/index.php?md5=CB89024FD912D2B5FE8B5BCE6E99894B)
+
+- [ ] [Library Genesis: R. Courant, D. Hilbert - Methods of Mathematical Physics (2 Volumes)](http://libgen.is/book/index.php?md5=23640C0E829C3843E55A0575278C9B86)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Wiley+classics+library&column=series)
+
+- [ ] [Library Genesis: Richard Courant, D. Hilbert - Methods of mathematical physics](http://libgen.is/book/index.php?md5=B9EFE716C95EA257F26266A6E9C12428)
+
+- [ ] [Library Genesis: Richard Courant, D. Hilbert - Methods of Mathematical Physics](http://libgen.is/book/index.php?md5=8508A8A89F2BE4992F6809A10C9CC957)
+
+- [ ] [Library Genesis: Courant R. - Advanced methods in applied mathematics, lecture course](http://libgen.is/book/index.php?md5=491C552FBBA9663919E99BB29C455D87)
+
+- [ ] [Library Genesis: Carlo Cellucci - Indiscrete Variations on Gian-Carlo Rota's Themes](http://libgen.is/book/index.php?md5=9FA38BB816FB5CAF0C9EF98C2AF7EC5E)
+
+- [ ] [Library Genesis: Marilena Barnabei, Andrea Brini, Gian-Carlo Rota (auth.), A. Barlotti (eds.) - Matroid Theory and its Applications](http://libgen.is/book/index.php?md5=B58BB2A8988ECAA199FFEEF8334D4AD0)
+
+- [ ] [Library Genesis: Fabrizio Palombi - The Star and the Whole: Gian-Carlo Rota on Mathematics and Phenomenology](http://libgen.is/book/index.php?md5=F419F5DC85DBBE137C31C4FF2AAF3E72)
+
+- [ ] [Library Genesis: Joseph P. S. Kung, Gian-Carlo Rota, Catherine H. Yan - Combinatorics: The Rota Way](http://libgen.is/book/index.php?md5=9D68BCCCA779B1D38F88C72D22145B48)
+
+- [ ] [Library Genesis: David Hilbert, Reinhard C. Laubenbacher, Bernd Sturmfels - Theory of algebraic invariants](http://libgen.is/book/index.php?md5=4936EB69F17C9C513A4CD10CED9B77D7)
+
+- [ ] [Library Genesis: David Hilbert - Geometry and the imagination](http://libgen.is/book/index.php?md5=969B26A97D4CDE57AE18B83A843E730B)
+
+- [ ] [Library Genesis: Sauer, Tilman; Hilbert, David - David Hilbert's lectures on the foundations of mathematics and physics, 1891-1933 / Vol. 5. David Hilbert's lectures on the foundations of physics 1915-1927](http://libgen.is/book/index.php?md5=7C772664EEA68665306CE9C4134064A9)
+
+- [ ] [Library Genesis: David Hilbert, I.T. Adamson, F. Lemmermeyer, N. Schappacher, R. Schoof - The Theory of Algebraic Number Fields](http://libgen.is/book/index.php?md5=126A33C4AD93C6B04C189FBA30333722)
+
+- [ ] [Library Genesis: David Hilbert, I.T. Adamson, F. Lemmermeyer, N. Schappacher, R. Schoof - The theory of algebraic number fields](http://libgen.is/book/index.php?md5=14D04D6AC03F3196C79FF2B7762A620E)
+
+- [ ] [Library Genesis: David Hilbert; Robert Hermann - Hilbert's invariant theory papers](http://libgen.is/book/index.php?md5=83213E740199712BF25775209663BDEE)
+
+- [ ] [Library Genesis: David Hilbert, M. Ackerman, R. Hermann - Hilbert's invariant theory papers](http://libgen.is/book/index.php?md5=54EE4135CCE7E88574EED057032D10EB)
+
+- [ ] [Library Genesis: Hilbert David - Geometry and the Imagination](http://libgen.is/book/index.php?md5=44588AAD789564C5ED099BD69BFFA7FD)
+
+- [ ] [Library Genesis: David Hilbert - The foundations of Geometry](http://libgen.is/book/index.php?md5=7F1E541CA82F8441763BCB6ADAB1424C)
+
+- [ ] [Library Genesis: Diane Maclagan, Bernd Sturmfels - Introduction to Tropical Geometry](http://libgen.is/book/index.php?md5=34318822086EBAD1D2A41644C6544776)
+
+- [ ] [Library Genesis: Diane Maclagan, Bernd Sturmfels - Introduction to Tropical Geometry](http://libgen.is/book/index.php?md5=CC5FA7DBA7BB8233A6E11475D3D7DAD3)
+
+- [ ] [Library Genesis: Mathias Drton, Bernd Sturmfels, Seth Sullivant - Lectures on Algebraic Statistics (Oberwolfach Seminars)](http://libgen.is/book/index.php?md5=1BEEFF25FBA0CAE2FDFC7D27E513EDC6)
+
+- [ ] [Library Genesis: Bernd Sturmfels - Algorithms in Invariant Theory (Texts and Monographs in Symbolic Computation)](http://libgen.is/book/index.php?md5=DA704C8F1C6430AD989335248452B6B9)
+
+- [ ] [Library Genesis: J. van Lint, G. van der Geer - Introduction to coding theory and algebraic geometry](http://libgen.is/book/index.php?md5=A384D44932A950047EC1CD3B3142DA81)
+
+- [ ] [Library Genesis: Dan Hefetz, Michael Krivelevich, Miloš Stojaković, Tibor Szabó (auth.) - Positional Games](http://libgen.is/book/index.php?md5=1A836CA03D09130696D921FA9863723F)
+
+- [ ] [Library Genesis: Mathias Drton, Bernd Sturmfels, Seth Sullivant (auth.) - Lectures on Algebraic Statistics](http://libgen.is/book/index.php?md5=4920AA0C5899C64E9CA862332450ED36)
+
+- [ ] [Library Genesis: Bernd Sturmfels - Solving Systems of Polynomial Equations (CBMS Regional Conference Series in Mathematics)](http://libgen.is/book/index.php?md5=B8A469289A2AB4196A1F730B82CBF441)
+
+- [ ] [Library Genesis: Lior Pachter, Bernd Sturmfels (eds.) - Algebraic Statistics for Computational Biology](http://libgen.is/book/index.php?md5=4209C0BBF4F6B9CC95FC5DF6F0349050)
+
+- [ ] [Library Genesis: Wolfram Decker and Gerhard Pfister, with Oliver Labs - A First Course in Computational Algebraic Geometry](http://libgen.is/book/index.php?md5=40BC4F8CAB6E01F5BA177BBFED790119)
+
+- [ ] [Library Genesis: Andrew Granville - An Introduction to Gauss's Number Theory](http://libgen.is/book/index.php?md5=99C1C5F172F24293C6538D6C023DE757)
+
+- [ ] [Library Genesis: Arjeh M. Cohen, Hans Cuypers, Hans Sterk - Algebra Interactive](http://libgen.is/book/index.php?md5=55ED77323B5D1743FC3ED2982BEE17FB)
+
+- [ ] [Library Genesis: Henri Lombardi, Claude Quitté - Résolutions libres finies: Méthodes constructives](http://libgen.is/book/index.php?md5=39010FAC01191E06E24E8D22D28365EB)
+
+- [ ] [Library Genesis: Lorenzo Ramero - Grimoire d’algèbre commutative](http://libgen.is/book/index.php?md5=0DDD9DFE6E1FF72C0ADA98F731DCFBA4)
+
+- [ ] [Library Genesis: Scott Corry, David Perkinson - Divisors and Sandpiles](http://libgen.is/book/index.php?md5=08690AA5A42C28B6110345E88A4DC8DF)
+
+- [ ] [Library Genesis: Joseph Rotman - Canonical forms (a section from "Abstract Algebra Arising from Fermat’s Last Theorem")](http://libgen.is/book/index.php?md5=56397FA2E2C9B378A93F801C06DA4748)
+
+- [ ] [Library Genesis: Mutsumi Saito, Bernd Sturmfels, Nobuki Takayama - Groebner Deformations of Hypergeometric Differential Equations](http://libgen.is/book/index.php?md5=7BCE5907F67E4D4E88264DEE689A2E79)
+
+- [ ] [Library Genesis: Sean Meyn, Richard L. Tweedie, Peter W. Glynn - Markov chains and stochastic stability](http://libgen.is/book/index.php?md5=BACC5120E3789F1C7C30F28A70CAD4D4)
+
+- [ ] [Library Genesis: Hardy, Godfrey Harold; T. W. Körner (eds.) - A Course of Pure Mathematics Centenary edition](http://libgen.is/book/index.php?md5=3471A2E7F850ED5E77751C94DA8E25AC)
+
+- [ ] [Library Genesis: Hardy, Godfrey Harold - A Mathematician's Apology](http://libgen.is/book/index.php?md5=F3151BC58FAC7E8C21CF5B7A0F48AA72)
+
+- [ ] [Library Genesis: T. W. Körner - Vectors, Pure and Applied: A General Introduction to Linear Algebra](http://libgen.is/book/index.php?md5=1ADA5FC28578B643B8D3249F4410396C)
+
+- [ ] [Library Genesis: T. W. Körner - Naive Decision Making](http://libgen.is/book/index.php?md5=A9C24D62A2E89EEB4834E541E6C03EA7)
+
+- [ ] [Library Genesis: J. E. Littlewood - A mathematician's miscellany](http://libgen.is/book/index.php?md5=7FB4AD3FD00083EAC57564DA7495C21F)
+
+- [ ] [Library Genesis: David Hilbert, Reinhard C. Laubenbacher - Theory of Algebraic Invariants](http://libgen.is/book/index.php?md5=266A875EC648A391F689A0C6B68CBA73)
+
+- [ ] [Library Genesis: Gian-Carlo Rota (auth.), Fabrizio Palombi (eds.) - Indiscrete Thoughts](http://libgen.is/book/index.php?md5=571951E71932150EAAE6E183A54E38CE)
+
+- [ ] [Library Genesis: F. P. Ramsey (auth.), Ira Gessel, Gian-Carlo Rota (eds.) - Classic papers in combinatorics](http://libgen.is/book/index.php?md5=4F03A4C49B016E598127CEE527EABD24)
+
+- [ ] [Library Genesis: George Pólya, Gian-Carlo Rota - Collected Papers - vol 4: Probability: Combinarorics: Teaching and Learning in Mathematics](http://libgen.is/book/index.php?md5=05DFD0953961BE577B27880ECD8846B9)
+
+- [ ] [Library Genesis: Gian-Carlo Rota - Studies in Algebraic Topology](http://libgen.is/book/index.php?md5=63D8F68BF405A207352CA3206B2E4C8C)
+
+- [ ] [Library Genesis: Gian-Carlo Rota - Studies in Algebraic Topology](http://libgen.is/book/index.php?md5=782A98E95FD1643783B2E0ABB41A95B3)
+
+- [ ] [Library Genesis: Gian-Carlo Rota - Studies in Foundations and Combinatorics](http://libgen.is/book/index.php?md5=C8A0BBB183C07993AE6D59015D204F2A)
+
+- [ ] [Library Genesis: Gian-Carlo Rota - Studies in Analysis](http://libgen.is/book/index.php?md5=12D94E0B92BED381C28F9B588A9BAF98)
+
+- [ ] [Library Genesis: Gian-Carlo Rota - Studies in Algebra and Number Theory](http://libgen.is/book/index.php?md5=E5F76368023AC75C4A93BF5590F4AA55)
+
+- [ ] [Library Genesis: Gian-Carlo Rota - Studies in Algebra and Number Theory](http://libgen.is/book/index.php?md5=C370CEC89390F57027EFA44DF0DBB362)
+
+- [ ] [Library Genesis: Gian-Carlo Rota (ed.) - Studies in combinatorics](http://libgen.is/book/index.php?md5=50F3A97F800EC6C6E87AA98F6EBDD7C1)
+
+- [ ] [Library Genesis: Gian-Carlo Rota, etc. - Finite Operator Calculus](http://libgen.is/book/index.php?md5=C8FF5F7CC04ED687A30CD8E3ADF01CE7)
+
+- [ ] [Library Genesis: Gian-Carlo Rota, etc. - Finite Operator Calculus](http://libgen.is/book/index.php?md5=7729A42A8C0DA2C3A80F163B1DDCECB2)
+
+- [ ] [Library Genesis: Frank D. Grosshans, Gian-Carlo Rota, Joel A. Stein - Invariant theory and superalgebras](http://libgen.is/book/index.php?md5=F87F49424E457AAD12540CC8BB30A171)
+
+- [ ] [Library Genesis: Henry H. Crapo, Gian-Carlo Rota - On The Foundations of Combinatorial Theory: Combinatorial Geometries](http://libgen.is/book/index.php?md5=B3CE6C2266BCE9655CB809220E9344E5)
+
+- [ ] [Library Genesis: Gian-Carlo Rota, Joseph P. Kung - Gian-Carlo Rota on combinatorics: introductory papers and commentaries](http://libgen.is/book/index.php?md5=BB56F8A5C28F6DBF5BA04AADBA56B25C)
+
+- [ ] [Library Genesis: Gian-Carlo Rota, Kenneth Baclawski - An Introduction to Probability and Random Processes](http://libgen.is/book/index.php?md5=B99DCC3E9890449666DE490D573C7F1D)
+
+- [ ] [Library Genesis: H. Crapo (auth.), H. Crapo, D. Senato (eds.) - Algebraic Combinatorics and Computer Science: A Tribute to Gian-Carlo Rota](http://libgen.is/book/index.php?md5=51161AFF15B090A4AA459C0E172DF0DA)
+
+- [ ] [Library Genesis: Daniel A. Klain, Gian-Carlo Rota - Introduction to Geometric Probability (Lezioni Lincee)](http://libgen.is/book/index.php?md5=8C34CD863A784631778D532797ACCA3C)
+
+- [ ] [Library Genesis: George Pólya, Gian-Carlo Rota - Collected papers: probability, combinatorics, teaching(no p.231-472)](http://libgen.is/book/index.php?md5=C6A094D358D7F256BE3B1F13170BD39C)
+
+- [ ] [Library Genesis: Garrett Birkhoff, Gian-Carlo Rota - Ordinary differential equations](http://libgen.is/book/index.php?md5=054B6C84773F946BCDF9095A7B77FC8D)

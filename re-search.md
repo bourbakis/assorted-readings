@@ -1731,3 +1731,32 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 - [ ] [What is quantum machine? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTVV91_wE2UWJYAFtJQKiS0JHNRsw:1572756875640&q=What+is+quantum+machine?&sa=X&ved=2ahUKEwjax4_3n83lAhUMq5QKHSvSDRwQzmd6BAhnEAs&sec_act=d)
 
 - [ ] [quantum machine learning python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTVV91_wE2UWJYAFtJQKiS0JHNRsw:1572756875640&q=quantum+machine+learning+python&sa=X&ved=2ahUKEwjax4_3n83lAhUMq5QKHSvSDRwQ1QIoAHoECGQQAQ&sec_act=d)
+
+
+## 11/7/2019
+
+- [ ] [Fabrizio Palombi - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT9Vy0CUBERrk7LsC2292pTuqASIA:1573080273598&q=Fabrizio+Palombi&stick=H4sIAAAAAAAAAONgFuLQz9U3KCgpqlDi0U_XNzQ0LrcwTLLI0-ILSC0qzs8LzkxJLU-sLF7EKuCWmFSUWZWZrxCQmJOfm5S5g5URACHCBFJAAAAA&sa=X&ved=2ahUKEwihtaTX1NblAhVvyosBHSrUBe4QxA0wfXoECGoQCQ)
+
+- [ ] [importance sampling mcmc - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQULdnO9nT1qoFvXDImtRt8JP_5_A%3A1572998791642&lei=hw7CXavjJseQr7wP0eGqiAE&q=importance%20sampling%20mcmc&ved=2ahUKEwjeidmTpdTlAhWELqYKHaIMDbwQsKwBKAR6BAgEEAU)
+
+- [ ] [importance sampling option pricing python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT1OpwqXVbe2wB_9ON17OiIOItQfA%3A1572998821610&ei=pQ7CXe3zJL-Nr7wPpM2TKA&q=importance+sampling+option+pricing+python&oq=importance+sampling+option+pricing+python&gs_l=psy-ab.3..33i299.883039.886673..888999...0.0..1.283.1234.0j5j2......0....1..gws-wiz.......0i22i30j33i160.ZVnm02dmK_8&ved=0ahUKEwit2vmfpdTlAhW_xosBHaTmBAUQ4dUDCAs&uact=5)
+
+- [ ] [Incremental gradient, subgradient, and proximal methods for convex optimization: a survey - Google Search](https://www.google.com/search?q=Incremental+gradient%2C+subgradient%2C+and+proximal+methods+for+convex+optimization%3A+a+survey&oq=Incremental+gradient%2C+subgradient%2C+and+proximal+methods+for+convex+optimization%3A+a+survey&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Irena Lasiecka - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNR-2yaasUveMlCU8c1LS35TpL1pzw:1573081235489&q=Irena+Lasiecka&stick=H4sIAAAAAAAAAONgFuLQz9U3KCgpqlDiBrEMjTKS87IqtfgCUouK8_OCM1NSyxMrixex8nkWpeYlKvgkFmemJmcn7mBlBABLUFHSPQAAAA&ved=0ahUKEwjI1vmh2NblAhUCyYsBHQIUDZUQ-BYISjCBAQ&biw=1920&bih=948)
+
+- [ ] [Jacob T. Schwartz - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT9Vy0CUBERrk7LsC2292pTuqASIA:1573080273598&q=Jacob+T.+Schwartz&stick=H4sIAAAAAAAAAONgFuLQz9U3KCgpqlDiBLHMSgyKy7X4AlKLivPzgjNTUssTK4sXsQp6JSbnJymE6CkEJ2eUJxaVVO1gZQQA3Hp7rT4AAAA&sa=X&ved=2ahUKEwihtaTX1NblAhVvyosBHSrUBe4QxA0wfXoECGoQCw)
+
+- [ ] [linear dynamical systems applications - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXa4SRVx45SWcPP-uXtT_yBimoGw%3A1573080262276&lei=xkzDXc-6ENaTr7wP1qqh-Ac&q=linear%20dynamical%20systems%20applications&ved=2ahUKEwiKrP_S1NblAhWIxosBHW9GBa4QsKwBKAN6BAgAEAQ)
+
+- [ ] [linear dynamical systems pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXa4SRVx45SWcPP-uXtT_yBimoGw%3A1573080262276&lei=xkzDXc-6ENaTr7wP1qqh-Ac&q=linear%20dynamical%20systems%20pdf&ved=2ahUKEwiKrP_S1NblAhWIxosBHW9GBa4QsKwBKAF6BAgAEAI)
+
+- [ ] [Machine Learning: a Regularization Approach - Google Search](https://www.google.com/search?q=Machine+Learning%3A+a+Regularization+Approach&oq=Machine+Learning%3A+a+Regularization+Approach&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [normal distribution density function wiki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCnOU3uokQ9UqFISQetkym4Jo9MQ%3A1573083410176&ei=ElnDXfKqCpGwmAWL_JHADA&q=normal+distribution+density+function+wiki&oq=normal+distribution+density+function+wiki&gs_l=psy-ab.3..33i22i29i30.15411.17181..17430...0.2..0.115.543.1j4......0....1..gws-wiz.......0i71j0j0i22i30.n-YcAcXxVRU&ved=0ahUKEwjy-_Wu4NblAhURGKYKHQt-BMgQ4dUDCAs&uact=5)
+
+- [ ] [Optimization for Machine Learning, - Google Search](https://www.google.com/search?q=Optimization+for+Machine+Learning%2C&oq=Optimization+for+Machine+Learning%2C&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Stochastic Approximation Algorithms and Applications - Google Search](https://www.google.com/search?q=Stochastic+Approximation+Algorithms+and+Applications&oq=Stochastic+Approximation+Algorithms+and+Applications&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Stochastic approximation and recursive algorithms and application - Google Search](https://www.google.com/search?q=Stochastic+approximation+and+recursive+algorithms+and+application&oq=Stochastic+approximation+and+recursive+algorithms+and+application&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
