@@ -82,3 +82,13 @@ https://en.wikipedia.org/wiki/Data_compression
 Importance sampling - Wikipedia
 https://en.wikipedia.org/wiki/Importance_sampling
 
+
+Kayvon Beykpour - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Kayvon+Beykpour
+
+Wally Gurzynski - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Wally+Gurzynski
+
+Singer Jungkook, member of K-pop group BTS, investigated over traffic accident
+https://www.nbcnews.com/news/world/police-investigating-bts-member-over-traffic-accident-n1076031
+

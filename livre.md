@@ -1,5 +1,8 @@
 ## 9/8/2019
 
+
+
+
 - [ ] [Library Genesis](http://gen.lib.rus.ec/search.php?&req=Graham+Harman&phrase=0&view=simple&column=def&sort=year&sortmode=DESC)
 
 - [ ] [Library Genesis: Graham Harman - Object Oriented Ontology: A New Theory of Everything](http://gen.lib.rus.ec/book/index.php?md5=FEA84861B16ED65E52207269B0AD172C)
@@ -531,3 +534,37 @@ brary Genesis](http://libgen.is/search.php?&req=causation&phrase=1&view=simple&c
 - [ ] [Library Genesis: George Pólya, Gian-Carlo Rota - Collected papers: probability, combinatorics, teaching(no p.231-472)](http://libgen.is/book/index.php?md5=C6A094D358D7F256BE3B1F13170BD39C)
 
 - [ ] [Library Genesis: Garrett Birkhoff, Gian-Carlo Rota - Ordinary differential equations](http://libgen.is/book/index.php?md5=054B6C84773F946BCDF9095A7B77FC8D)
+
+
+
+
+
+
+
+
+# Spreadsheet
+
+Library Genesis
+http://libgen.is/search.php?&req=excel+finance&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?&req=The+Wiley+Finance+Series&phrase=0&view=simple&column=series&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?&req=Michael+Rees&phrase=0&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis: Gan, Guojun [Gan, Guojun] - An Introduction to Excel VBA Programming: with Applications in Finance and Insurance
+http://libgen.is/book/index.php?md5=B548B81F009D44ED07BC666384184233
+
+Library Genesis
+http://libgen.is/search.php?req=Isaac+Gottlieb&column=author
+
+Library Genesis: Gunter Meissner - Correlation Risk Modeling and Management, + Website: An Applied Guide including the Basel III Correlation Framework - With Interactive Models in Excel / VBA
+http://libgen.is/book/index.php?md5=020A19CDC252D6B9AE9E9244058AC281
+
+Library Genesis: Holden, Craig W. - Excel modeling in corporate finance
+http://libgen.is/book/index.php?md5=64880F122155CDA9112D444EC720BEE2
+
+Library Genesis: William Preinitz, Matthew Niedermaier - Intermediate Structured Finance Modeling, with Website: Leveraging Excel, VBA, Access, and Powerpoint
+http://libgen.is/book/index.php?md5=6A3709B10A970F433E138F2E07ABD717
+
