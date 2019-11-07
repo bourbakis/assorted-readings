@@ -46,3 +46,42 @@
 - [ ] [Opinion | We Shouldn’t be Scared by ‘Superintelligent A.I.’ - The New York Times](https://www.nytimes.com/2019/10/31/opinion/superintelligent-artificial-intelligence.html?auth=login-email&login=email&fbclid=IwAR17dXfSdFCdTq-hrZhmMJda_8XoAgmGQb5unM-QuIIQjAOaERVF0kwaqKs)
 
 - [ ] [Opinion | We Shouldn’t be Scared by ‘Superintelligent A.I.’ - The New York Times](https://www.nytimes.com/2019/10/31/opinion/superintelligent-artificial-intelligence.html?fbclid=IwAR2sH5lSgmxLVSuxxxloego4vh1njKxx-QG_yXWBPdviKJfSWDr5eh7jYoY)
+
+
+## 11/7/2019
+
+[Trump-Xi meet may be in December; Financial Stability and Development Commission meeting](https://sinocism.com/p/trump-xi-meet-may-be-in-december)
+
+> China risks overplaying its hand if they try to force too many of the existing tariffs into phase one. President Trump and General Secretary Xi clearly want a deal, so I still think the odds are good there is a phase one deal before the end of the year, but it may not be as done a deal as many seem to think.
+
+
+[Trump-Xi meet may be in December; Financial Stability and Development Commission meeting](https://sinocism.com/p/trump-xi-meet-may-be-in-december)
+
+> #### 3\. A worthwhile podcast
+> 
+> **I always have time for Chris’ views on Xi and China.**
+> 
+> **[Transcript: China expert Chris Johson on Xi Jinping, a possible trade deal and propaganda - CBS News](https://www.cbsnews.com/news/transcript-chris-johnson-talks-with-michael-morell-on-intelligence-matters/)**
+> 
+> > _Chris Johnson, senior fellow at the Center for Strategic and International Studies and former CIA senior China analyst, about the state of play in U.S.-China relations. Johnson offers a portrait of President Xi, who has consolidated power and alliances domestically and throughout the region, and discusses the Chinese Communist Party's efforts to make its own case globally. Johnson and Morell also discuss the latest on the emerging U.S.-China trade deal, Beijing's response to the Hong Kong protests, and the attention paid overseas to the ongoing impeachment inquiry in the U.S._
+
+
+
+
+
+[Plenum decision; China wants US tariffs removed; Xi's CIIE speech; More TikTok disclosures](https://sinocism.com/p/plenum-decision-china-wants-us-tariffs)
+
+> **[省政府党组召开会议_省政府会议_福建省人民政府门户网站](http://www.fujian.gov.cn/szf/hy/201911/t20191105_5084994.htm)**
+> 
+> > Fujian Governor Tang Dengjie holds Fujian Government Party Leadership Group meeting to convey the Plenum "spirit", refers to Xi as "People's Leader"  
+> >   
+> > 我们要始终在思想上政治上行动上同以习近平同志为核心的党中央保持高度一致，把对_人民领袖_
+> > 
+> > 的深厚爱戴之情转化为践行“两个维护”的高度自觉，不忘初心、牢记使命，稳稳地做、实实地干，更好地服务全国大局。  
+> >   
+> > We should always keep in high accord with the CPC Central Committee with Comrade Xi Jinping at the core in terms of ideology, politics and actions. We should translate our deep love the people's leader into a high degree of self-consciousness in carrying out the "two safeguards". We should stay true to our original aspiration and keep our mission in mind.
+
+
+rpt from "Xi Jinping: The Backlash" by Richard McGregor](https://sinocism.com/p/excerpt-from-xi-jinping-the-backlash?utm_source=substack&utm_content=topposts)
+
+> Richard is a senior fellow at the Lowy Institute in Sydney and before that he was a journalist with the Financial Times. His 2010 book [The Party: The Secret World of China's Communist Rulers](https://amzn.to/2SnOXBn) is still required reading for understanding the Communist Party and his 2017 book [Asia's Reckoning: China, Japan, and the Fate of U.S. Power in the Pacific Century](https://amzn.to/2O2UI9g) is also excellent.
