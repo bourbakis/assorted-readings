@@ -470,3 +470,93 @@ https://www.nbcnews.com/news/world/police-investigating-bts-member-over-traffic-
 - [ ] [NCM.AX 31.42 0.64 2.08% : NEWCREST FPO - Yahoo Finance](https://au.finance.yahoo.com/quote/NCM.AX/history?p=NCM.AX&.tsrc=fin-srch)
 
 - [ ] [Downloads](chrome://downloads/)
+
+
+
+## 11/8/2019
+
+- [ ] [How to Calculate the Standard Deviation of a Portfolio: 6 Steps](https://www.wikihow.com/Calculate-the-Standard-Deviation-of-a-Portfolio)
+
+- [ ] [SIUFIN433.pdf](https://data.bloomberglp.com/professional/sites/10/SIUFIN433.pdf)
+
+- [ ] [FINANCE 586: PORTFOLIO THEORY & MANAGEMENT](https://www.scranton.edu/faculty/hussain/teaching/fin586.shtml)
+
+- [ ] [ZhangC_Web15_7_.pdf](http://t.www.na-businesspress.com/JAF/ZhangC_Web15_7_.pdf)
+
+- [ ] [R9-P1-T1-Amenc-Ch4-CAPM-v5.pdf](https://www.bionicturtle.com/FRM/2018/PPT/R9-P1-T1-Amenc-Ch4-CAPM-v5.pdf)
+
+- [ ] [WES.AX 40.82 0.97 2.43% : WESFARMER FPO - Yahoo Finance](https://au.finance.yahoo.com/quote/WES.AX/history?period1=1226073600&period2=1573142400&interval=1mo&filter=history&frequency=1mo)
+
+- [ ] [WOW.AX 38.19 0.82 2.19% : WOOLWORTHS FPO - Yahoo Finance](https://au.finance.yahoo.com/quote/WOW.AX/history?period1=1226073600&period2=1573142400&interval=1mo&filter=history&frequency=1mo)
+
+- [ ] [Measures of Shape: Skewness and Kurtosis](https://brownmath.com/stat/shape.htm)
+
+- [ ] [Skewness Formula (Definition, Example) | How to Calculate Skewness?](https://www.wallstreetmojo.com/skewness-formula/)
+
+- [ ] [Index of /staff/fmasci/home/astro_refs](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/)
+
+- [ ] [1.3.5.11. Measures of Skewness and Kurtosis](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35b.htm)
+
+- [ ] [How to Use Excel to Calculate a Confidence Interval | Techwalla.com](https://www.techwalla.com/articles/how-to-use-excel-to-calculate-a-confidence-interval)
+
+- [ ] [Eric Zivot's UW Homepage](http://faculty.washington.edu/ezivot/)
+
+- [ ] [Eric Zivot's UW Classes](http://faculty.washington.edu/ezivot/classes.htm)
+
+- [ ] [Davidson and MacKinnon -- Estimation and Inference in Econometrics](http://qed.econ.queensu.ca/pub/dm-book/)
+
+- [ ] [How to Build Efficient Frontier in Excel - Finance Train](https://financetrain.com/how-to-build-efficient-frontier-in-excel/)
+
+- [ ] [How to Subtract Matrices on Excel](https://sciencing.com/subtract-matrices-excel-8353496.html)
+
+- [ ] [How to subtract in Excel: cells, columns, percentages, dates and times](https://www.ablebits.com/office-addins-blog/2018/09/19/subtract-excel-cells-columns-percentages-dates-times/)
+
+- [ ] [Use the Name Manager in Excel - Excel](https://support.office.com/en-us/article/use-the-name-manager-in-excel-4d8c4c2b-9f7d-44e3-a3b4-9f61bd5c64e4)
+
+- [ ] [Introductory Econometrics: Using Monte Carlo Simulation with Microsoft Excel - Humberto Barreto, Frank Howland - Google Books](https://books.google.com/books?id=-7oM9FYZfkkC&pg=PA232&lpg=PA232&dq=mcsim+add+in&source=bl&ots=gipconMLmX&sig=ACfU3U1ZsvRVPt0jYc8bkWwYL4N76AQhqw&hl=en&sa=X&ved=2ahUKEwiilfyilNnlAhX6IaYKHWv_AbgQ6AEwCHoECF8QAQ#v=onepage&q=mcsim%20add%20in&f=false)
+
+- [ ] [www.montecarlito.com](http://www.montecarlito.com/)
+
+- [ ] [Excel.PDF](http://finance.wharton.upenn.edu/~bodnarg/courses/readings/regression)
+
+- [ ] [Linear regression analysis in Excel](https://www.ablebits.com/office-addins-blog/2018/08/01/linear-regression-analysis-excel/)
+
+- [ ] [American University, Washington, D.C.](https://www.american.edu/)
+
+- [ ] [Simple Portfolio Optimization Harry Markowitz Mean Variance Model Using Excel](https://medium.com/@saadahmed387/simple-portfolio-optimization-harry-markowitz-mean-variance-model-using-excel-part-1-efc3f19a347)
+
+- [ ] [www.quora.com](https://www.quora.com/How-can-you-do-portfolio-optimization-in-Excel)
+
+- [ ] [Mean-Variance Portfolio Optimization with Excel](http://investexcel.net/mean-variance-portfolio-optimization-with-excel/)
+
+- [ ] [www.quora.com](https://www.quora.com/How-can-you-do-portfolio-optimization-in-Excel)
+
+- [ ] [Excel Portfolio Optimization](https://www.business-spreadsheets.com/solutions.asp?prod=6)
+
+- [ ] [Excel Portfolio Optimization Template](https://www.business-spreadsheets.com/portopt.htm)
+
+- [ ] [Free Portfolio Optimization](https://www.spreadsheetml.com/finance/freeportfoliooptimization.shtml)
+
+- [ ] [Pulling Stock Data and Creating an Efficient Frontier in Excel | Shafquat Arefeen](https://www.shafquatarefeen.com/efficient-frontier/)
+
+- [ ] [How Robo Advisers Allocate Your Money - Marc Gerstein | Seeking Alpha](https://seekingalpha.com/instablog/192600-marc-gerstein/4716346-robo-advisers-allocate-money)
+
+- [ ] [Introduction to mathematical modelling](https://people.maths.ox.ac.uk/fowler/courses/o11intro.html)
+
+- [ ] [Education news & jobs at the Times Higher Education Supplement](http://people.maths.ox.ac.uk/howison/review.htm)
+
+- [ ] [How to Make a Pareto Chart in Excel 2007/2010: With Downloadable Template](https://www.brighthubpm.com/templates-forms/8708-creating-pareto-charts-with-microsoft-excel/)
+
+- [ ] [df5b5b147f9a7fb73bea7cf4f9c59ab8d424.pdf](https://pdfs.semanticscholar.org/75b6/df5b5b147f9a7fb73bea7cf4f9c59ab8d424.pdf)
+
+- [ ] [Term Structure of Interest Rates](https://data.bloomberglp.com/bat/sites/3/Staff-Johnson-PPT.pdf)
+
+- [ ] [PPMSolutionGuide-TAL.pdf](https://d2oc0ihd6a5bt.cloudfront.net/wp-content/uploads/sites/1133/2016/03/PPMSolutionGuide-TAL.pdf)
+
+- [ ] [PortfolioOptimization.pdf](https://www.spreadsheetml.com/finance/PortfolioOptimization.pdf)
+
+- [ ] [Finance Toys](http://www.financetoys.com/portfolio/portfolio.html)
+
+- [ ] [Modern portfolio theory - Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
+
+- [ ] []()
