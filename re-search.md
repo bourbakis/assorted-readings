@@ -1827,3 +1827,73 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRGW8y6UB3WvDxnTGYc9am6TTMMGQ:1573131455033&q=variance+of+simulation&sa=X&ved=2ahUKEwjlrr-sk9jlAhWVy4sBHd8cDM8Q1QIoBnoECGQQBw)
 [monte carlo talk about some common methods to reduce variance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRGW8y6UB3WvDxnTGYc9am6TTMMGQ:1573131455033&q=monte+carlo+talk+about+some+common+methods+to+reduce+variance&sa=X&ved=2ahUKEwjlrr-sk9jlAhWVy4sBHd8cDM8Q1QIoB3oECGQQCA)
 [control variates - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRGW8y6UB3WvDxnTGYc9am6TTMMGQ:1573131455033&q=control+variates&sa=X&ved=2ahUKEwjlrr-sk9jlAhWVy4sBHd8cDM8Q1QIoAHoECGQQAQ&biw=1920&bih=948)
+
+
+
+
+
+## 11/8/2019
+
+- [ ] [excel efficient frontier template - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ6eVY5rTvjAGt6c-fs3KvrTJSU4w%3A1573170941288&lei=_a7EXceWEc-Er7wPuN24gAs&q=excel%20efficient%20frontier%20template&ved=2ahUKEwipl6O9ptnlAhUnG6YKHe9oD9gQsKwBKAB6BAgAEAE)
+
+- [ ] [matrix minus vector excel - Google Search](https://www.google.com/search?q=matrix+minus+vector+excel&oq=matrix+minus+vector+excel&aqs=chrome..69i57j33.7726j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [bootstrap xla - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTiPVUOlB-IEhaOvkwGyjoR-ILQcA%3A1573166051148&lei=45vEXevRCNuIr7wPq7e28Ak&q=bootstrap%20xla&ved=2ahUKEwiP-tuelNnlAhUQzIsBHQuvBgQQsKwBKAR6BAgBEAU)
+
+- [ ] [capital market line excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuKFsqCP_GkPROIIuGbI0L2dMo8g%3A1573151014646&lei=JmHEXdWFJ8OGr7wP7pe4wAs&q=capital%20market%20line%20excel&ved=2ahUKEwj4n-id3NjlAhXPw4sBHbFtCFYQsKwBKAV6BAgAEAY)
+
+- [ ] [clear the name in excel - Google Search](https://www.google.com/search?q=clear+the+name+in+excel&oq=clear+the+name+in+excel&aqs=chrome..69i57j0.8562j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [draw efficient frontier excel - Google Search](https://www.google.com/search?q=draw+efficient+frontier+excel&oq=draw+efficient+&aqs=chrome.0.0j69i57j0l7.6118j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [efficient frontier asset allocation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuKFsqCP_GkPROIIuGbI0L2dMo8g%3A1573151014646&lei=JmHEXdWFJ8OGr7wP7pe4wAs&q=efficient%20frontier%20asset%20allocation&ved=2ahUKEwj4n-id3NjlAhXPw4sBHbFtCFYQsKwBKAN6BAgAEAQ)
+
+- [ ] [efficient frontier with risk free asset - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuKFsqCP_GkPROIIuGbI0L2dMo8g%3A1573151014646&lei=JmHEXdWFJ8OGr7wP7pe4wAs&q=efficient%20frontier%20with%20risk%20free%20asset&ved=2ahUKEwj4n-id3NjlAhXPw4sBHbFtCFYQsKwBKAR6BAgAEAU)
+
+- [ ] [excel add in ols regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTiPVUOlB-IEhaOvkwGyjoR-ILQcA%3A1573166051148&lei=45vEXevRCNuIr7wPq7e28Ak&q=excel%20add%20in%20ols%20regression&ved=2ahUKEwiP-tuelNnlAhUQzIsBHQuvBgQQsKwBKAF6BAgBEAI)
+
+- [ ] [excel business tools portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB66WhFzGN0TGJxXOqRJuwQ3K2cg%3A1573151032169&lei=OGHEXcn4CY-D0wSJ6IaYCg&q=excel%20business%20tools%20portfolio%20optimization&ved=2ahUKEwiomYq-3NjlAhURqpQKHRvzBfsQsKwBKAR6BAgDEAU)
+
+- [ ] [google sheets efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuKFsqCP_GkPROIIuGbI0L2dMo8g%3A1573151014646&lei=JmHEXdWFJ8OGr7wP7pe4wAs&q=google%20sheets%20efficient%20frontier&ved=2ahUKEwj4n-id3NjlAhXPw4sBHbFtCFYQsKwBKAB6BAgAEAE)
+
+- [ ] [kurtosis excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTpiSmhLNJGTS7yUo9ABNbsVgWIig%3A1573149668490&lei=5FvEXcvSHZPVmAWf6ZjYCg&q=kurtosis%20excel&ved=2ahUKEwiMpdWb19jlAhUuG6YKHehCCmEQsKwBKAR6BAgAEAU)
+
+- [ ] [markowitz simulation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB66WhFzGN0TGJxXOqRJuwQ3K2cg%3A1573151032169&lei=OGHEXcn4CY-D0wSJ6IaYCg&q=markowitz%20simulation&ved=2ahUKEwiomYq-3NjlAhURqpQKHRvzBfsQsKwBKAB6BAgDEAE)
+
+- [ ] [modern portfolio theory excel template - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB66WhFzGN0TGJxXOqRJuwQ3K2cg%3A1573151032169&lei=OGHEXcn4CY-D0wSJ6IaYCg&q=modern%20portfolio%20theory%20excel%20template&ved=2ahUKEwiomYq-3NjlAhURqpQKHRvzBfsQsKwBKAF6BAgDEAI)
+
+- [ ] [monte carlo optimization excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpYffzMJIFmrpTeSZYt2dJRymikg%3A1573166063230&lei=75vEXeLhDfrDmAXr_ofACw&q=monte%20carlo%20optimization%20excel&ved=2ahUKEwjKq_OllNnlAhVWx4sBHViwBtsQsKwBKAF6BAgAEAI)
+
+- [ ] [monte carlo simulation tool - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTiPVUOlB-IEhaOvkwGyjoR-ILQcA%3A1573166051148&lei=45vEXevRCNuIr7wPq7e28Ak&q=monte%20carlo%20simulation%20tool&ved=2ahUKEwiP-tuelNnlAhUQzIsBHQuvBgQQsKwBKAJ6BAgBEAM)
+
+- [ ] [normailization in excel - Google Search](https://www.google.com/search?q=normailization+in+excel&oq=normailization+in+excel&aqs=chrome..69i57j0l11.6061j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio risk and return graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuKFsqCP_GkPROIIuGbI0L2dMo8g%3A1573151014646&lei=JmHEXdWFJ8OGr7wP7pe4wAs&q=portfolio%20risk%20and%20return%20graph&ved=2ahUKEwj4n-id3NjlAhXPw4sBHbFtCFYQsKwBKAJ6BAgAEAM)
+
+- [ ] [riskamp monte carlo - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpYffzMJIFmrpTeSZYt2dJRymikg%3A1573166063230&lei=75vEXeLhDfrDmAXr_ofACw&q=riskamp%20monte%20carlo&ved=2ahUKEwjKq_OllNnlAhVWx4sBHViwBtsQsKwBKAR6BAgAEAU)
+
+- [ ] [sharpe ratio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuKFsqCP_GkPROIIuGbI0L2dMo8g%3A1573151014646&lei=JmHEXdWFJ8OGr7wP7pe4wAs&q=sharpe%20ratio&ved=2ahUKEwj4n-id3NjlAhXPw4sBHbFtCFYQsKwBKAR6BAgBEAU&biw=1920&bih=948)
+
+- [ ] [simple portfolio optimization in excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB66WhFzGN0TGJxXOqRJuwQ3K2cg%3A1573151032169&lei=OGHEXcn4CY-D0wSJ6IaYCg&q=simple%20portfolio%20optimization%20in%20excel&ved=2ahUKEwiomYq-3NjlAhURqpQKHRvzBfsQsKwBKAN6BAgDEAQ)
+
+- [ ] [sims() excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5EWPuHTEImjqS4mebeYFeE4trkg:1573166092730&q=sims()+excel&tbm=isch&source=univ&sa=X&ved=2ahUKEwjc0ISxlNnlAhV7KqYKHVDgB8wQsAR6BAgHEAE&biw=1904&bih=884)
+
+- [ ] [skewness and kurtosis formula in excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTpiSmhLNJGTS7yUo9ABNbsVgWIig%3A1573149668490&ei=5FvEXcvSHZPVmAWf6ZjYCg&q=skewness+and+kurtosis+formula+in+excel&oq=skewness+and+kurtosis+formula+in+ex&gs_l=psy-ab.3.0.0j0i22i30l2j0i333l2.910883.915320..916566...4.2..0.472.2690.0j2j7j0j1......0....1..gws-wiz.......0i71j33i22i29i30.5sYsVG6lK6g)
+
+- [ ] [skewness and kurtosis pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTpiSmhLNJGTS7yUo9ABNbsVgWIig%3A1573149668490&lei=5FvEXcvSHZPVmAWf6ZjYCg&q=skewness%20and%20kurtosis%20pdf&ved=2ahUKEwiMpdWb19jlAhUuG6YKHehCCmEQsKwBKAB6BAgAEAE)
+
+- [ ] [skewness calculator - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTpiSmhLNJGTS7yUo9ABNbsVgWIig%3A1573149668490&lei=5FvEXcvSHZPVmAWf6ZjYCg&q=skewness%20calculator&ved=2ahUKEwiMpdWb19jlAhUuG6YKHehCCmEQsKwBKAN6BAgAEAQ)
+
+- [ ] [trianinv excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTddRlK_1ak3-xiKAjLnjSlD-KZzQ%3A1573166166076&lei=VpzEXbqmBNeSr7wP1NuI-Ak&q=trianinv%20excel&ved=2ahUKEwjx4azYlNnlAhXiDaYKHbv1BMYQsKwBKAJ6BAgAEAM)
+
+- [ ] [tukhi excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTddRlK_1ak3-xiKAjLnjSlD-KZzQ%3A1573166166076&lei=VpzEXbqmBNeSr7wP1NuI-Ak&q=tukhi%20excel&ved=2ahUKEwjx4azYlNnlAhXiDaYKHbv1BMYQsKwBKAF6BAgAEAI)
+
+- [ ] [variance covariance matrix excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuKFsqCP_GkPROIIuGbI0L2dMo8g%3A1573151014646&lei=JmHEXdWFJ8OGr7wP7pe4wAs&q=variance%20covariance%20matrix%20excel&ved=2ahUKEwj4n-id3NjlAhXPw4sBHbFtCFYQsKwBKAF6BAgBEAI)
+
+- [ ] [www wabash edu econometrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpYffzMJIFmrpTeSZYt2dJRymikg%3A1573166063230&lei=75vEXeLhDfrDmAXr_ofACw&q=www%20wabash%20edu%20econometrics&ved=2ahUKEwjKq_OllNnlAhVWx4sBHViwBtsQsKwBKAJ6BAgAEAM)
+
+- [ ] [xlsim - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQpYffzMJIFmrpTeSZYt2dJRymikg%3A1573166063230&lei=75vEXeLhDfrDmAXr_ofACw&q=xlsim&ved=2ahUKEwjKq_OllNnlAhVWx4sBHViwBtsQsKwBKAN6BAgAEAQ)
+
+- [ ] [excel covariance sample proportion - Google Search](https://www.google.com/search?q=excel+covariance+sample+proportion&oq=excel+covariance+sample+propo&aqs=chrome.2.69i57j33l2.9943j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Portfolio Theory Calculation excel - Google Search](https://www.google.com/search?q=Portfolio+Theory+Calculation+excel&oq=Portfolio+Theory+Calculation+excel&aqs=chrome..69i57j33.2635j1j1&sourceid=chrome&ie=UTF-8)
