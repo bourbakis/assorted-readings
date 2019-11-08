@@ -1897,3 +1897,19 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 - [ ] [excel covariance sample proportion - Google Search](https://www.google.com/search?q=excel+covariance+sample+proportion&oq=excel+covariance+sample+propo&aqs=chrome.2.69i57j33l2.9943j0j1&sourceid=chrome&ie=UTF-8)
 
 - [ ] [Portfolio Theory Calculation excel - Google Search](https://www.google.com/search?q=Portfolio+Theory+Calculation+excel&oq=Portfolio+Theory+Calculation+excel&aqs=chrome..69i57j33.2635j1j1&sourceid=chrome&ie=UTF-8)
+
+
+
+
+
+## 11/8/2019
+
+- [ ] [efficient frontier and cal template - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuKFsqCP_GkPROIIuGbI0L2dMo8g%3A1573151014646&lei=JmHEXdWFJ8OGr7wP7pe4wAs&q=efficient%20frontier%20and%20cal%20template&ved=2ahUKEwj4n-id3NjlAhXPw4sBHbFtCFYQsKwBKAF6BAgAEAI)
+
+- [ ] [google sheets efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3lv_hNnHfkUe5oCrh5P9JVabE8g:1573170962201&q=google+sheets+efficient+frontier&sa=X&ved=2ahUKEwi9u_3CptnlAhWJyIsBHT2TB9IQ1QIoA3oECGUQBA)
+
+- [ ] [minimum variance portfolio excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3lv_hNnHfkUe5oCrh5P9JVabE8g:1573170962201&q=minimum+variance+portfolio+excel&sa=X&ved=2ahUKEwi9u_3CptnlAhWJyIsBHT2TB9IQ1QIoAnoECGUQAw)
+
+- [ ] [google sheets efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSQQdaa_rHTv2ZQ9DXVORTyZUTGTg:1573171083222&q=google+sheets+efficient+frontier&tbm=isch&source=univ&ved=2ahUKEwiWhdj8ptnlAhUGBKYKHYAHBMYQsAR6BAgDEAE)
+
+- [ ] [Portfolio Theory Calculation sheet - Google Search](https://www.google.com/search?q=Portfolio+Theory+Calculation+sheet&oq=Portfolio+Theory+Calculation+sheet&aqs=chrome..69i57j0l7.3047j0j1&sourceid=chrome&ie=UTF-8)
