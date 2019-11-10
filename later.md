@@ -604,3 +604,98 @@ https://www.nbcnews.com/news/world/police-investigating-bts-member-over-traffic-
 - [ ] [Sharpe Ratio Formula | Calculator (Excel template)](https://www.educba.com/sharpe-ratio-formula/)
 
 - [ ] [client.login.rstudio.cloud](https://client.login.rstudio.cloud/oauth/login?show_auth=0&show_login=0&show_setup=1)
+
+
+
+
+## 11/10/2019
+
+- [ ] [efficient frontier and cal template - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuKFsqCP_GkPROIIuGbI0L2dMo8g%3A1573151014646&lei=JmHEXdWFJ8OGr7wP7pe4wAs&q=efficient%20frontier%20and%20cal%20template&ved=2ahUKEwj4n-id3NjlAhXPw4sBHbFtCFYQsKwBKAF6BAgAEAI)
+
+- [ ] [google sheets efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3lv_hNnHfkUe5oCrh5P9JVabE8g:1573170962201&q=google+sheets+efficient+frontier&sa=X&ved=2ahUKEwi9u_3CptnlAhWJyIsBHT2TB9IQ1QIoA3oECGUQBA)
+
+- [ ] [minimum variance portfolio excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3lv_hNnHfkUe5oCrh5P9JVabE8g:1573170962201&q=minimum+variance+portfolio+excel&sa=X&ved=2ahUKEwi9u_3CptnlAhWJyIsBHT2TB9IQ1QIoAnoECGUQAw)
+
+- [ ] [google sheets efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSQQdaa_rHTv2ZQ9DXVORTyZUTGTg:1573171083222&q=google+sheets+efficient+frontier&tbm=isch&source=univ&ved=2ahUKEwiWhdj8ptnlAhUGBKYKHYAHBMYQsAR6BAgDEAE)
+
+- [ ] [Portfolio Theory Calculation sheet - Google Search](https://www.google.com/search?q=Portfolio+Theory+Calculation+sheet&oq=Portfolio+Theory+Calculation+sheet&aqs=chrome..69i57j0l7.3047j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [My Drive - Google Drive](https://drive.google.com/drive/u/1/my-drive)
+
+- [ ] [Are Aspects of Twitter Use Associated with Reduced Depressive Symptoms? The Moderating Role of In-Person Social Support | Cyberpsychology, Behavior, and Social Networking](https://www.liebertpub.com/doi/10.1089/cyber.2019.0035)
+
+- [ ] [Philip Glass Is Too Busy to Care About Legacy - The New York Times](https://www.nytimes.com/2019/11/07/arts/music/philip-glass-akhnaten-met-opera.html?action=click&module=Editors%20Picks&pgtype=Homepage)
+
+- [ ] [Nestle launches luxury KitKat bars — but they're not cheap - CNN](https://www.cnn.com/2019/09/23/business/kit-kat-luxury-bars-scli-gbr-intl)
+
+- [ ] [Moi, j’aime McDonald’s | L’actualité](https://lactualite.com/lactualite-affaires/moi-jaime-mcdonalds/)
+
+- [ ] [All the international brands that have apologized to China - SupChina](https://signal.supchina.com/all-the-international-brands-that-have-apologized-to-china/)
+
+- [ ] [Can the Catholic Church Help Explain Western Psychology? | Harvard Magazine](https://www.harvardmagazine.com/2019/11/can-the-catholic-church-help-explain-western-psychology)
+
+- [ ] [The early Catholic Church may have helped spark Western individualism | Science News](https://www.sciencenews.org/article/medieval-catholic-church-may-have-helped-spark-western-individualism/amp?__twitter_impression=true)
+
+- [ ] [Can the Catholic Church Help Explain Western Psychology? | Harvard Magazine](https://www.harvardmagazine.com/2019/11/can-the-catholic-church-help-explain-western-psychology)
+
+- [ ] [(1) Tage RaiさんはTwitterを使っています: 「Some thoughts on "The Church, intensive kinship, and global psychological variation" in @sciencemagazine today. Its the most theoretically ambitious paper I've encountered, maybe ever. 1/ @JF_Schulz @JoHenrich @DumanBRad jonathan beauchamp https://t.co/uLiYmBnwcq」 / Twitter](https://mobile.twitter.com/tage_rai/status/1192537590353629185)
+
+- [ ] [Are the Tech Bros Who ‘Dopamine Fast’ Full of Shit? | MEL Magazine](https://melmagazine.com/en-us/story/are-the-tech-bros-who-dopamine-fast-full-of-shit)
+
+- [ ] [What if "dopamine fasting" isn't Silicon Valley B.S.? The science is there | Inverse](https://www.inverse.com/article/59978-dopamine-fasting-trend-neuroscience)
+
+- [ ] [How to Feel Nothing Now, in Order to Feel More Later - The New York Times](https://www.nytimes.com/2019/11/07/style/dopamine-fasting.html?action=click&module=Top%20Stories&pgtype=Homepage)
+
+- [ ] [Here’s the weird thing about a post-Christian Christendom - The Washington Post](https://www.washingtonpost.com/opinions/2019/11/07/heres-weird-thing-about-post-christian-christendom/)
+
+- [ ] [Benjamin Schreiber says life sentence served after he briefly died and was resuscitated - The Washington Post](https://www.washingtonpost.com/nation/2019/11/08/benjamin-schreiber-denied-life-sentence-appeal-iowa/)
+
+- [ ] [Powerful Coalition Pushes Back on Anti-Tech Fervor - The New York Times](https://www.nytimes.com/2019/11/07/technology/powerful-coalition-pushes-back-on-anti-tech-fervor.html)
+
+- [ ] [Courses given by John Hassler](http://hassler-j.iies.su.se/COURSES/)
+
+- [ ] [Exploring Wealth Inequality | Cato Institute](https://www.cato.org/publications/policy-analysis/exploring-wealth-inequality)
+
+- [ ] [Craig MacTavish: Inside my three-month whirlwind stint in the KHL - TSN.ca](https://www.tsn.ca/craig-mactavish-inside-my-three-month-whirlwind-stint-in-the-khl-1.1393997)
+
+- [ ] [Shachihata - Google Search](https://www.google.com/search?q=Shachihata&oq=Shachihata&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Japanese commuters try new ways to deter gropers - Pervert alert](https://www.economist.com/asia/2019/10/31/japanese-commuters-try-new-ways-to-deter-gropers)
+
+- [ ] [My Drive - Google Drive](https://drive.google.com/drive/u/1/my-drive)
+
+- [ ] [Can an Artificial Intelligence Write A Good Blog Post? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/can-an-artificial-intelligence-write-a-good-blog-post.html)
+
+- [ ] [Did the medieval church make us WEIRD? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/did-the-medieval-church-make-us-weird.html)
+
+- [ ] [Model this dopamine fast - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/model-this-dopamine-fast.html)
+
+- [ ] [(51) Joe Rogan Experience #1379 - Ben Westhoff - YouTube](https://www.youtube.com/watch?v=gxwgwaLS7KI&feature=youtu.be)
+
+- [ ] [The Church, intensive kinship, and global psychological variation | Science](https://science.sciencemag.org/content/366/6466/eaau5141)
+
+- [ ] [The Church, intensive kinship, and global psychological variation | Science](https://science.sciencemag.org/content/366/6466/eaau5141/tab-pdf)
+
+- [ ] [Maximum Likelihood Estimation (MLE) to fit an appropriate accident severity distribution for individual claims - Google Search](https://www.google.com/search?q=Maximum+Likelihood+Estimation+(MLE)+to+fit+an+appropriate+accident+severity+distribution+for+individual+claims&oq=Maximum+Likelihood+Estimation+(MLE)+to+fit+an+appropriate+accident+severity+distribution+for+individual+claims&aqs=chrome..69i57.861j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Weibull distribution - Wikipedia](https://en.wikipedia.org/wiki/Weibull_distribution)
+
+- [ ] [Risk Analysis and Portfolio Modelling - Google Books](https://books.google.com/books?id=ct-2DwAAQBAJ&pg=PA99&lpg=PA99&dq=fit+the+Log-normal,+Gamma,+Weibull+and+Burr+XII+distributions+to+the+claims+data+and+use+appropriate+goodness-of-fit+tests&source=bl&ots=XmUgFlp8Rp&sig=ACfU3U2JqoQPsEySmfzD1m0IkJdFGaBAkQ&hl=en&sa=X&ved=2ahUKEwiy_JC--9vlAhUHq5QKHWYECiQQ6AEwAnoECCgQAQ#v=onepage&q=fit%20the%20Log-normal%2C%20Gamma%2C%20Weibull%20and%20Burr%20XII%20distributions%20to%20the%20claims%20data%20and%20use%20appropriate%20goodness-of-fit%20tests&f=false)
+
+- [ ] [RPubs - DEM 7283 - Example 2- Logit and Probit Models](https://rpubs.com/corey_sparks/353626)
+
+- [ ] [RPubs - Example 6 Multiple Imputation &amp; Missing Data](https://rpubs.com/corey_sparks/63681)
+
+- [ ] [RPubs - Example 7 Principal components analysis](https://rpubs.com/corey_sparks/65532)
+
+- [ ] [RPubs - Extracting pdf tables](https://rpubs.com/jflowers/359392)
+
+- [ ] [RPubs - Portfolio using RMarkdown](https://rpubs.com/trishul/portfolio)
+
+- [ ] [RPubs - Predicting Medical Expenses](https://rpubs.com/hoakevinquach/Predicting-Medical-Expenses)
+
+- [ ] [RPubs - Predictive Modeling Process](https://rpubs.com/arifulmondal/predmod)
+
+- [ ] [RPubs - U.S. Household Expense Analysis](https://rpubs.com/ragunandan/375426)
+
+- [ ] [The beta Burr type X distribution properties with application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4899377/)

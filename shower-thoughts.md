@@ -99,3 +99,12 @@ math & philosphy: distilling and abstraction -> programming different formalism 
 Product manager is the one who turn the existing technology(productivity) into a （被封装后）。。。 defining what can visit or not(like api)
 
 `
+
+
+
+# 11/10/2019
+
+Since words = world, utterance makes world, so i must polsih words just as clean my glass and 医生精心查实显微镜一般。 so very important when i use anki as momorized and connecting-dots tools, not only check the mental images but also compare the differnce of my way of phrasing the ans each time and my fluent to answer the question recored.
+
+Also, to present my ideas in a linearly organized mode.
+

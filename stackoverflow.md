@@ -245,3 +245,76 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [r - curve() does not add curve to my plot when "add = TRUE" - Stack Overflow](https://stackoverflow.com/questions/37198445/curve-does-not-add-curve-to-my-plot-when-add-true)
 
 - [ ] [r - Draw more than one function curves in the same plot - Stack Overflow](https://stackoverflow.com/questions/4049674/draw-more-than-one-function-curves-in-the-same-plot)
+
+
+## 11/10/2019
+
+- [ ] [linear algebra - Is the U factor in LU decomposition for rectangular matrices always in row echelon form? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/891334/is-the-u-factor-in-lu-decomposition-for-rectangular-matrices-always-in-row-echel)
+
+- [ ] [optimization - Python - CVXOPT: What exactly should I check for G when "Rank(A) < p or Rank([G; A]) < n” exception is thrown? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1778635/python-cvxopt-what-exactly-should-i-check-for-g-when-ranka-p-or-rankg)
+
+
+
+## 11/10/2019
+
+- [ ] [Generate 100 values with Weibull distribution in R - Stack Overflow](https://stackoverflow.com/questions/17771962/generate-100-values-with-weibull-distribution-in-r)
+
+- [ ] [How to find row-echelon matrix form (not reduced) in Python? - Stack Overflow](https://stackoverflow.com/questions/53875432/how-to-find-row-echelon-matrix-form-not-reduced-in-python)
+
+- [ ] [Maximum Likelihood Estimation for three-parameter Weibull distribution in r - Stack Overflow](https://stackoverflow.com/questions/38676425/maximum-likelihood-estimation-for-three-parameter-weibull-distribution-in-r)
+
+- [ ] [numpy - Python PCA - projection into lower dimensional space - Stack Overflow](https://stackoverflow.com/questions/36771525/python-pca-projection-into-lower-dimensional-space)
+
+- [ ] [numpy - solving Ax =b for a non-square matrix A using python - Stack Overflow](https://stackoverflow.com/questions/46377331/solving-ax-b-for-a-non-square-matrix-a-using-python)
+
+- [ ] [numpy - using python to calculate Vector Projection - Stack Overflow](https://stackoverflow.com/questions/55226011/using-python-to-calculate-vector-projection)
+
+- [ ] [parameters - Error in maximum likelihood estimation using R - Stack Overflow](https://stackoverflow.com/questions/34950924/error-in-maximum-likelihood-estimation-using-r)
+
+- [ ] [python - 2D Orthogonal projection of vector onto line with numpy yields wrong result - Stack Overflow](https://stackoverflow.com/questions/39895330/2d-orthogonal-projection-of-vector-onto-line-with-numpy-yields-wrong-result/39895669)
+
+- [ ] [python - 2D Orthogonal projection of vector onto line with numpy yields wrong result - Stack Overflow](https://stackoverflow.com/questions/39895330/2d-orthogonal-projection-of-vector-onto-line-with-numpy-yields-wrong-result)
+
+- [ ] [python - Calculate Matrix Rank using scipy - Stack Overflow](https://stackoverflow.com/questions/2473983/calculate-matrix-rank-using-scipy)
+
+- [ ] [python - How to find linearly independent rows from a matrix - Stack Overflow](https://stackoverflow.com/questions/28816627/how-to-find-linearly-independent-rows-from-a-matrix)
+
+- [ ] [python - Is there a good way to find the rank of a matrix in a field of characteristic p>0? - Stack Overflow](https://stackoverflow.com/questions/39683153/is-there-a-good-way-to-find-the-rank-of-a-matrix-in-a-field-of-characteristic-p)
+
+- [ ] [python - numpy matrix rank incorrect result - Stack Overflow](https://stackoverflow.com/questions/36843515/numpy-matrix-rank-incorrect-result)
+
+- [ ] [python - orthogonal projection with numpy - Stack Overflow](https://stackoverflow.com/questions/17836880/orthogonal-projection-with-numpy)
+
+- [ ] [r - Error in optim: function cannot be evaluated at initial parameters - Stack Overflow](https://stackoverflow.com/questions/15068213/error-in-optim-function-cannot-be-evaluated-at-initial-parameters)
+
+- [ ] [r - Error in optim/constrOptim "initial value in 'vmmin' is not finite" - Stack Overflow](https://stackoverflow.com/questions/10382842/error-in-optim-constroptim-initial-value-in-vmmin-is-not-finite)
+
+- [ ] [r - Fitting a 3 parameter Weibull distribution - Stack Overflow](https://stackoverflow.com/questions/11817883/fitting-a-3-parameter-weibull-distribution)
+
+- [ ] [r - Issue with constrOptim - Stack Overflow](https://stackoverflow.com/questions/30741117/issue-with-constroptim)
+
+- [ ] [R - Markdown avoiding package loading messages - Stack Overflow](https://stackoverflow.com/questions/13090838/r-markdown-avoiding-package-loading-messages)
+
+- [ ] [r - Optim error: function cannot be evaluated at initial parameters - Stack Overflow](https://stackoverflow.com/questions/46391977/optim-error-function-cannot-be-evaluated-at-initial-parameters)
+
+- [ ] [r - Retrieving warnings generated in a knitr session - Stack Overflow](https://stackoverflow.com/questions/55984323/retrieving-warnings-generated-in-a-knitr-session)
+
+- [ ] [r - Suppressing messages in Knitr / Rmarkdown - Stack Overflow](https://stackoverflow.com/questions/15406028/suppressing-messages-in-knitr-rmarkdown)
+
+- [ ] [r markdown - How to suppress all messages in knitr/ Rmarkdown? - Stack Overflow](https://stackoverflow.com/questions/26456924/how-to-suppress-all-messages-in-knitr-rmarkdown)
+
+- [ ] [R markdown global option warning=FALSE not working as expected - Stack Overflow](https://stackoverflow.com/questions/50300278/r-markdown-global-option-warning-false-not-working-as-expected)
+
+- [ ] [R: Trying to create a Q-Q plot for the Weibull Distribution, getting error "NAs Introduced by Coersion" - Stack Overflow](https://stackoverflow.com/questions/34167012/r-trying-to-create-a-q-q-plot-for-the-weibull-distribution-getting-error-nas)
+
+- [ ] [Rank items in an array using Python/NumPy, without sorting array twice - Stack Overflow](https://stackoverflow.com/questions/5284646/rank-items-in-an-array-using-python-numpy-without-sorting-array-twice/)
+
+- [ ] [simulation - How to code a multiparameter log-likelihood function in R - Stack Overflow](https://stackoverflow.com/questions/20786249/how-to-code-a-multiparameter-log-likelihood-function-in-r)
+
+- [ ] [simulation - How to code a multiparameter log-likelihood function in R - Stack Overflow](https://stackoverflow.com/questions/20786249/how-to-code-a-multiparameter-log-likelihood-function-in-r)
+
+- [ ] [The Weibull distribution in R (ExtDist) - Stack Overflow](https://stackoverflow.com/questions/45208176/the-weibull-distribution-in-r-extdist)
+
+- [ ] [Use the cumulative distribution function of Weibull in R - Stack Overflow](https://stackoverflow.com/questions/17768765/use-the-cumulative-distribution-function-of-weibull-in-r)
+
+- [ ] [Weibull MLE in R - Stack Overflow](https://stackoverflow.com/questions/47264485/weibull-mle-in-r)

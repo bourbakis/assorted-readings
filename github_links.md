@@ -1051,3 +1051,21 @@ https://drive.google.com/drive/u/0/my-drive
 - [ ] [type-theory · GitHub Topics](https://github.com/topics/type-theory)
 
 - [ ] [xiaoleeza/Ankihelp: LaTeX 排版的中文 Anki 手册](https://github.com/xiaoleeza/Ankihelp)
+
+
+
+## 11/10/2019
+
+- [ ] [actuar/risk.R at master · cran/actuar](https://github.com/cran/actuar/blob/master/demo/risk.R)
+
+- [ ] [ai-union/PythonSpider: 这是也一个爬虫教学的项目](https://github.com/ai-union/PythonSpider)
+
+- [ ] [Error in optim(init, optimLH, method = meth) : function cannot be evaluated at initial parameters · Issue #8 · hmorlon/PANDA](https://github.com/hmorlon/PANDA/issues/8)
+
+- [ ] [ExtDist/Weibull.R at master · cran/ExtDist](https://github.com/cran/ExtDist/blob/master/R/Weibull.R)
+
+- [ ] [How to hide message, warning, results, ... · Issue #12 · dr-harper/rmarkdown-cookbook](https://github.com/dr-harper/rmarkdown-cookbook/issues/12)
+
+- [ ] [huggingface/transformers: 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.](https://github.com/huggingface/transformers)
+
+- [ ] [maxLik/examples.R at master · cran/maxLik](https://github.com/cran/maxLik/blob/master/tests/examples.R)

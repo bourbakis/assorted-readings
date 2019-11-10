@@ -2038,3 +2038,80 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 - [ ] [weibull plotting position in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREm7XKRzLuNd2l5Nfs7cr4IihyPg:1573269802725&q=weibull+plotting+position+in+r&sa=X&ved=2ahUKEwiFt-jdltzlAhU6y4sBHfa-A3MQ1QIoB3oECGcQCA)
 
 - [ ] [when to use weibull distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREm7XKRzLuNd2l5Nfs7cr4IihyPg:1573269802725&q=when+to+use+weibull+distribution&sa=X&ved=2ahUKEwiFt-jdltzlAhU6y4sBHfa-A3MQ1QIoBnoECGcQBw)
+
+
+
+
+
+
+## 11/10/2019
+
+- [ ] [best linear algebra library python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=best%20linear%20algebra%20library%20python&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAJ6BAgAEAM)
+
+- [ ] [cayley hamilton theorem in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=cayley%20hamilton%20theorem%20in%20python&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAR6BAgAEAU)
+
+- [ ] [datacamp sklearn cheatsheet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=datacamp%20sklearn%20cheatsheet&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAR6BAgBEAU)
+
+- [ ] [economics of insurance pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR7yVDl5BiBWCPRx4KEY-dvZjn8Mw%3A1573278428063&lei=3FLGXb-8A5aTr7wPlvab8Ac&q=economics%20of%20insurance%20pdf&ved=2ahUKEwjhzc_vttzlAhVBHKYKHQnJBUMQsKwBKAB6BAgAEAE)
+
+- [ ] [essential numpy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=essential%20numpy&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAN6BAgBEAQ)
+
+- [ ] [full insurance economics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR7yVDl5BiBWCPRx4KEY-dvZjn8Mw%3A1573278428063&lei=3FLGXb-8A5aTr7wPlvab8Ac&q=full%20insurance%20economics&ved=2ahUKEwjhzc_vttzlAhVBHKYKHQnJBUMQsKwBKAF6BAgAEAI)
+
+- [ ] [how to find rank of 2 * 2 matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=how+to+find+rank+of+2+*+2+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoBHoECGUQBQ)
+
+- [ ] [how to find row rank and column rank of a matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=how+to+find+row+rank+and+column+rank+of+a+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoA3oECGUQBA)
+
+- [ ] [how to find the matrix rank in r - Google Search](https://www.google.com/search?q=how%20to%20find%20the%20matrix%20rank%20in%20r)
+
+- [ ] [how to get hte rank of a matrix in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ4KaJW6bT9UQW36aN-S4CgORqvdw%3A1573360669960&ei=HZTHXfalOqaIr7wPqOOwgAU&q=how+to+get+hte+rank+of+a+matrix+in+python&oq=how+to+get+hte+rank+of+a+matrix+in+python&gs_l=psy-ab.3..33i22i10i29i30.4961.13549..13772...4.4..2.558.7554.1j33j7j1j1j1......0....1..gws-wiz.......0i71j35i39j0i67j0j0i131j35i305i39j0i10j0i20i263j0i13j0i22i30j0i13i30j0i22i10i30.M7u1kI2eNfA&ved=0ahUKEwi2qNie6d7lAhUmxIsBHagxDFAQ4dUDCAs&uact=5)
+
+- [ ] [insurance and calculating risks math ia - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS3bRF4SrX0zjgX2uI1WwZg8PAjEQ%3A1573278328914&lei=eFLGXfCgN7KSr7wP1tCB0Ac&q=insurance%20and%20calculating%20risks%20math%20ia&ved=2ahUKEwiIw67AttzlAhUXyYsBHUQFA0cQsKwBKAF6BAgBEAI)
+
+- [ ] [insurance premium - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS3bRF4SrX0zjgX2uI1WwZg8PAjEQ%3A1573278328914&lei=eFLGXfCgN7KSr7wP1tCB0Ac&q=insurance%20premium&ved=2ahUKEwiIw67AttzlAhUXyYsBHUQFA0cQsKwBKAR6BAgBEAU)
+
+- [ ] [linear algebra using python book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=linear%20algebra%20using%20python%20book&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAB6BAgAEAE)
+
+- [ ] [linear algebra with python course - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=linear%20algebra%20with%20python%20course&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAF6BAgAEAI)
+
+- [ ] [load insurance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS3bRF4SrX0zjgX2uI1WwZg8PAjEQ%3A1573278328914&lei=eFLGXfCgN7KSr7wP1tCB0Ac&q=load%20insurance&ved=2ahUKEwiIw67AttzlAhUXyYsBHUQFA0cQsKwBKAN6BAgBEAQ)
+
+- [ ] [matlab to numpy cheat sheet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=matlab%20to%20numpy%20cheat%20sheet&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAV6BAgBEAY)
+
+- [ ] [matrix exponential python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=matrix%20exponential%20python&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAV6BAgCEAY)
+
+- [ ] [numpy linalg pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=numpy%20linalg%20pdf&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAB6BAgBEAE)
+
+- [ ] [numpy orthogonal vector - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=numpy%20orthogonal%20vector&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAN6BAgCEAQ)
+
+- [ ] [numpy project - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=numpy%20project&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAJ6BAgCEAM)
+
+- [ ] [numpy random full rank matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=numpy+random+full+rank+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoAnoECGUQAw)
+
+- [ ] [numpy vector projection - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=numpy%20vector%20projection&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAB6BAgCEAE)
+
+- [ ] [premium loading calculation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS3bRF4SrX0zjgX2uI1WwZg8PAjEQ%3A1573278328914&lei=eFLGXfCgN7KSr7wP1tCB0Ac&q=premium%20loading%20calculation&ved=2ahUKEwiIw67AttzlAhUXyYsBHUQFA0cQsKwBKAB6BAgBEAE)
+
+- [ ] [program to calculate rank of a matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=program+to+calculate+rank+of+a+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoB3oECGUQCA)
+
+- [ ] [python code for eigenvalues - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=python%20code%20for%20eigenvalues&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAF6BAgCEAI)
+
+- [ ] [python find linearly dependent columns - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=python+find+linearly+dependent+columns&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoBXoECGUQBg)
+
+- [ ] [python linear algebra solver - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=python%20linear%20algebra%20solver&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAN6BAgAEAQ)
+
+- [ ] [python program to find rank of a matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=python+program+to+find+rank+of+a+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoAHoECGUQAQ)
+
+- [ ] [python square root of matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=python%20square%20root%20of%20matrix&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAR6BAgCEAU)
+
+- [ ] [python square root of matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=python%20square%20root%20of%20matrix&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAV6BAgAEAY)
+
+- [ ] [rank approximation numpy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=rank+approximation+numpy&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoBnoECGUQBw)
+
+- [ ] [rank of matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=rank+of+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoAXoECGUQAg)
+
+- [ ] [risk premium insurance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS3bRF4SrX0zjgX2uI1WwZg8PAjEQ%3A1573278328914&lei=eFLGXfCgN7KSr7wP1tCB0Ac&q=risk%20premium%20insurance&ved=2ahUKEwiIw67AttzlAhUXyYsBHUQFA0cQsKwBKAJ6BAgBEAM)
+
+- [ ] [scipy stats cheat sheet pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=scipy%20stats%20cheat%20sheet%20pdf&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAF6BAgBEAI)
+
+- [ ] [statsmodels cheat sheet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=statsmodels%20cheat%20sheet&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAJ6BAgBEAM)
