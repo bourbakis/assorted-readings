@@ -699,3 +699,260 @@ https://www.nbcnews.com/news/world/police-investigating-bts-member-over-traffic-
 - [ ] [RPubs - U.S. Household Expense Analysis](https://rpubs.com/ragunandan/375426)
 
 - [ ] [The beta Burr type X distribution properties with application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4899377/)
+
+
+
+
+## 11/10/2019
+
+- [ ] [Ruin Theory](https://www.slideshare.net/DavidRechavel/ruin-theory-64003521)
+
+- [ ] [(43) How can I find the rank of a matrix? - Quora](https://www.quora.com/How-can-I-find-the-rank-of-a-matrix-2)
+
+- [ ] [Engineering Software and Solutions for Reliability, Durability and Performance - HBM Prenscia](https://www.hbmprenscia.com/)
+
+- [ ] [Knitr with R Markdown](https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
+
+- [ ] [1.3.6.6.9. Lognormal Distribution](https://www.itl.nist.gov/div898/handbook/eda/section3/eda3669.htm)
+
+- [ ] [Life Data Analysis Reference Book - ReliaWiki](http://reliawiki.org/index.php/Life_Data_Analysis_Reference_Book)
+
+- [ ] [The Lognormal Distribution - ReliaWiki](http://reliawiki.org/index.php/The_Lognormal_Distribution)
+
+- [ ] [Weibull++ Examples - ReliaWiki](http://reliawiki.org/index.php/Weibull%2B%2B_Examples)
+
+- [ ] [Code Chunks](https://rmarkdown.rstudio.com/lesson-3.html)
+
+- [ ] [r - Suppress library comments from output with knitr - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/152488/suppress-library-comments-from-output-with-knitr)
+
+- [ ] [Reliability Engineering, Reliability Theory and Reliability Data Analysis and Modeling Resources for Reliability Engineers](https://www.weibull.com/)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/projects)
+
+- [ ] [LogNormalLMMEstimator (ELKI: Environment for DeveLoping KDD-Applications Supported by Index-Structures)](http://elki.dbs.ifi.lmu.de/releases/release0.7.1/doc/de/lmu/ifi/dbs/elki/math/statistics/distribution/estimator/LogNormalLMMEstimator.html)
+
+- [ ] [Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more](https://www.amazon.com/###)
+
+- [ ] [不走弯路:14G最适合入门的Python+数据分析学习教程资料，先到先得~](https://mp.weixin.qq.com/s?__biz=MzI0OTc0MzAwNA==&mid=2247485755&idx=1&sn=5578d4c80ed3ccbd678d2b04f0dd6f56&chksm=e98d9ac8defa13de1a934a3106ee465c1dfd19e635a2f3b270cc84e8aa8354287c0ceb51a8bc&scene=0&xtrack=1&key=b360eb3d5d26029dd53f4af8134504af53c88f5b2f8e7b729e399056fa05be039025d79b3d7d91e32ac452ab248b9d8123d0e5ae43b7cd30d22c026292763d9cffa13c8463785c8a54df0347a8be04fe&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [使用python假装装黑客，批量破解朋友的网站密码](https://mp.weixin.qq.com/s?__biz=MzI0OTc0MzAwNA==&mid=2247485757&idx=1&sn=d6b716115687374112b65ea35bbcb7f7&chksm=e98d9acedefa13d8b5c82789aee0bffa64e548c479125865c6487b5d39afd741d79a44278cee&scene=0&xtrack=1&key=f9f399b73a44587a38c6eb0305b64d89edf9ec41fea83522c3867216a9ac62c5f9ff9969636e5dd44e15cf938622a60b015ba1b6f4c19aa1312d0a7ea9279c0588d2725e51aee4847dc2bf9e462d8c42&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [漫画 | 面试的我 VS 真实的我](https://mp.weixin.qq.com/s?__biz=MzI0OTc0MzAwNA==&mid=2247485755&idx=2&sn=7d8b82fb47a3dddd069698647cb45708&chksm=e98d9ac8defa13de3a033fc735712b44a59a96afed639474b5f02f6b81672a2d43b6dd886ece&scene=0&xtrack=1&key=e15c8f28f870437090d51c02e08326e56f4a1810d16f7be64d93c01a812d4df65d45f321d28de62a5b64a498d1b3d8ea79206b3c8ea59470b51dad7d52f52c441b3a86f9366c579789016164407bef5a&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [阿里、腾讯、美团、头条大厂的员工等级及薪资说明，你对标阿里P几？](https://mp.weixin.qq.com/s?__biz=MzI0OTc0MzAwNA==&mid=2247485752&idx=1&sn=89aa5ae26cf40e644a4f88b486e5445a&chksm=e98d9acbdefa13dd9b8cd7845bef08af006eb9863c61fc4e0f5ed48b625643951919cfc0da2b&scene=0&xtrack=1&key=f9ce3cccd4c4920c98034d27a8a1592745e95610a91a73d818483bb7e1ef775b5fbe7c87ee98a65d4e82814ced5b37f8e7c7bf2cd59eeac2039b3946e34f58bcb4aaf5a2cbc39f0aaff58ca37bea4506&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [使用VSCode进行远程炼丹](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247492926&idx=2&sn=71b8f296d5be99904afb4c16700c9894&chksm=f9a197b1ced61ea79c9822f286f6d6040a0986cc3376690ac99d599b6a1d3944a04da6370b25&mpshare=1&scene=1&srcid=&sharer_sharetime=1573268684711&sharer_shareid=42a896371dfe6ebe8cc4cd474d9b747c&key=e15c8f28f8704370582cf3d4cf20cb4e1ddf12e4331f28b4669f00bee4b6f823d8a8f201058d5a990e123d0166258ca2e99418a36953e9211bcba5983ea3c523d9355c2bf9f7abe1571a00ab18d286a0&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [网易微专业 交互设计师教程分享](https://mp.weixin.qq.com/s?__biz=MzUyOTE1NDA3MA==&mid=2247484321&idx=1&sn=b1adb9daf22ba991f4cd7fa31d0c2192&chksm=fa642ad8cd13a3ce83155793716e70cd4ed5d9ee7343fce333daa77b445f75c82b568d4b972b&scene=0&xtrack=1&key=f9f399b73a44587a7a344a7833ca9d9f6f180f08107e63ba0b56901288ebba96b81ee78728c9632377cb2e0d0f4a51301e61b76aaf0667de2dcff622d1cabda5a818e507d3bbb22d52ab30c4c0f082cb&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [94页论文综述卷积神经网络：从基础技术到研究前景](https://mp.weixin.qq.com/s?__biz=MzU3ODkwNDM3Mw==&mid=2247484862&idx=2&sn=736aae555a9357aa580b76d303d70d35&chksm=fd6f0de4ca1884f250736b64ed78c9661d6df1d6cc2ac87c45d89103ed099d8da869b0516854&scene=0&xtrack=1&key=4457fd9057cefb6c035b58af13c02b975c346ceea850ea0ce7964e0f1594fe1e38a0a1d60375c26979e86212d9c600a2c334c931b6c7cb6843832538216b8c298dd0a751d9407edcd04800643a861086&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [[1803.08834] What Do We Understand About Convolutional Networks?](https://arxiv.org/abs/1803.08834)
+
+- [ ] [深度分析！如何把支付宝存储服务器给炸了？炸了会发生什么？](https://mp.weixin.qq.com/s?__biz=MzU3ODkwNDM3Mw==&mid=2247484862&idx=1&sn=022bbd70044d5b285af8935859ad5625&chksm=fd6f0de4ca1884f2c1f52309e5b7b40ebc7cc7877a2f03df90945d54d1ce240f58e8e458ba25&scene=0&xtrack=1&key=af7bb4aaf3b59cd818485180b08a753a1be49fe5cd2dbe99d20f484ceedbff4bb9fe3fbcfb0f81136214f34fcb7394c4af418dd21773703de4ca22b0ed25c35fe2dc8bfb9398bd36d58c7d4eba75bdf6&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [资源&讲解|一篇全面的深度学习综述分享](https://mp.weixin.qq.com/s?__biz=MzU3ODkwNDM3Mw==&mid=2247484870&idx=1&sn=10882ee60d667f7f4cf5117c4c2c2ec4&chksm=fd6f0d9cca18848a6f7d3cde3491e4e77170c37b9051f776ca5adec19fc3ff109bda1eae3d6f&scene=0&xtrack=1&key=f9ce3cccd4c4920cfa1be2ad9066b49e7adce39e5bfd27cf73f872c4feab73189037fcd41dfb8eb9dfe8bf01b790f5cd596196c3f95c5b1ed75bdfd34caf25b4500aefb9ad059f8ff054d60a1440ee57&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [arxiv.org](https://arxiv.org/pdf/1807.08169v1.pdf)
+
+- [ ] [medium.com](https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a)
+
+- [ ] [HuggingFace – Medium](https://medium.com/huggingface)
+
+- [ ] [Hugging Face – On a mission to solve NLP, one commit at a time.](https://huggingface.co/)
+
+- [ ] [R: The Reverse Weibull Distribution](http://finzi.psych.upenn.edu/library/evd/html/rweibull.html)
+
+- [ ] [www.reddit.com](https://www.reddit.com/r/statistics/comments/91o8to/weibull_distribution/)
+
+- [ ] [weibullanalysis.dvi](http://faculty.washington.edu/fscholz/Reports/weibullanalysis.pdf)
+
+- [ ] [Parametric regression model for survival data: Weibull regression model as an example](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233524/)
+
+- [ ] [A Note on Characterisations of the Weibull Distribution on JSTOR](https://www.jstor.org/stable/25050594?seq=1#page_scan_tab_contents)
+
+- [ ] [The Exponentiated Weibull distribution](https://rstudio-pubs-static.s3.amazonaws.com/291883_38e5b7f177a64d7aa538ddb1874bbed6.html)
+
+- [ ] [The Weibull Distribution - ReliaWiki](http://reliawiki.org/index.php/The_Weibull_Distribution)
+
+- [ ] [On Some Further Properties and Application of Weibull- R Family of Distributions | SpringerLink](https://link.springer.com/article/10.1007%2Fs40745-018-0142-7)
+
+- [ ] [Quick-R: Probability Plots](https://www.statmethods.net/advgraphs/probability.html)
+
+- [ ] [R code to implement the Weibull Distribution | S-Logix](https://slogix.in/how-to-implement-the-weibull-distribution-in-r)
+
+- [ ] [R: The Weibull Distribution](http://ceadserv1.nku.edu/longa//Rweb/library/base/html/Weibull.html)
+
+- [ ] [RPubs - Weibull Distribution Basics](https://rpubs.com/JanpuHou/307645)
+
+- [ ] [R: The Weibull Distribution](https://astrostatistics.psu.edu/su07/R/html/stats/html/Weibull.html)
+
+- [ ] [Weibull Distribution: Characteristics of the Weibull Distribution](https://www.weibull.com/hotwire/issue14/relbasics14.htm)
+
+- [ ] [Weibull Distribution and Weibull Analysis - Statistics How To](https://www.statisticshowto.datasciencecentral.com/weibull-distribution/)
+
+- [ ] [beta.mle: MLE of distributions defined in the (0, 1) interval in Rfast: A Collection of Efficient and Extremely Fast R Functions](https://rdrr.io/cran/Rfast/man/beta.mle.html)
+
+- [ ] [An Introductory Guide to Maximum Likelihood Estimation (with a case study in R)](https://www.analyticsvidhya.com/blog/2018/07/introductory-guide-maximum-likelihood-estimation-case-study-r/)
+
+- [ ] [Maximum Likelihood -- from Wolfram MathWorld](http://mathworld.wolfram.com/MaximumLikelihood.html)
+
+- [ ] [Doing Maximum Likelihood Estimation by Hand in R](http://www.johnmyleswhite.com/notebook/2010/04/21/doing-maximum-likelihood-estimation-by-hand-in-r/)
+
+- [ ] [people.reed.edu/~jones/Courses/GammaMLE.R](http://people.reed.edu/~jones/Courses/GammaMLE.R)
+
+- [ ] [people.reed.edu/~jones/Courses/GammaMLE.R](http://people.reed.edu/~jones/Courses/GammaMLE.R)
+
+- [ ] [weibull.mle function | R Documentation](https://www.rdocumentation.org/packages/weibullness/versions/1.19.8/topics/weibull.mle)
+
+- [ ] [eweibull function | R Documentation](https://www.rdocumentation.org/packages/EnvStats/versions/2.3.1/topics/eweibull)
+
+- [ ] [weibullMLE: Maximum Likelihood Parameter Estimation of a Weibull Model... in STAR: Spike Train Analysis with R](https://rdrr.io/cran/STAR/man/weibullMLE.html)
+
+- [ ] [GitHub年度报告：Python首次击败Java，中国成第二大开源贡献国](https://mp.weixin.qq.com/s/zTz_cXmsmxe9K2Y2eB_qqA)
+
+- [ ] [会看源码，将比90%人更容易拿到顶级offer！跟着这几个公众号我学习了很多](https://mp.weixin.qq.com/s/0qqJgmS1mxpd7GWPu6kNhg)
+
+- [ ] [等不及了！从零开始学爬虫专栏完结撒花汇总来啦！](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486646&idx=1&sn=5559ad12a770340f15f50790fdc40eee&chksm=fbfe5620cc89df36419ffc68f9cc818482e86f1ac52830cc61631f6b8e7e8771319c65f280df&mpshare=1&scene=1&srcid=&sharer_sharetime=1573211875670&sharer_shareid=332a30fee424f11c143e21db63101f26&key=4457fd9057cefb6c6ad3c169b86cd4fb97dd43cce60a7137b4cc27caa1f2112555454f0ac810a2029b390db57106ab6082522148ff26c37f1fd41d2c313ab6db0ec35c0d8141a6b565592e8a7833e56b&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [Appendix: Maximum Likelihood Estimation Example - ReliaWiki](http://reliawiki.org/index.php/Appendix:_Maximum_Likelihood_Estimation_Example)
+
+- [ ] [RPubs - Maximum Likelihood Estimation for a Normal Distribution](https://rpubs.com/Koba/MLE-Normal)
+
+- [ ] [Maximum Likelihood Estimation Explained - Normal Distribution](https://towardsdatascience.com/maximum-likelihood-estimation-explained-normal-distribution-6207b322e47f)
+
+- [ ] [ECON 407: Companion to Maximum Likelihood | Rob Hicks](https://rlhick.people.wm.edu/stories/econ_407_notes_mle_companion.html)
+
+- [ ] [如何用R计算极大似然估计（入门） - 知乎](https://zhuanlan.zhihu.com/p/69858457)
+
+- [ ] [RPubs - MLE using the maxLik package](https://rpubs.com/ssong/mle_demo1)
+
+- [ ] [Page not found | Taylor & Francis Group](https://www.taylorfrancis.com/books/10.1201/9781420087444.ch12)
+
+- [ ] [(38) Probability of Ruin Adjustment Coefficient - YouTube](https://www.youtube.com/watch?v=Ctvk7xZC4GA)
+
+- [ ] [(PDF) Lecture notes on Risk Theory | Nizar Ben Fatma - Academia.edu](https://www.academia.edu/30727070/Lecture_notes_on_Risk_Theory)
+
+- [ ] [Course Home Page: Ruinteori](http://web.math.ku.dk/~collamore/Ruin/)
+
+- [ ] [Ruin theory | SpringerLink](https://link.springer.com/chapter/10.1007%2F0-306-47603-7_4)
+
+- [ ] [Risk Theory - ANU](https://programsandcourses.anu.edu.au/2020/course/STAT3035)
+
+- [ ] [Ruin Probability in Compound Poisson Process with Investment](https://www.hindawi.com/journals/jam/2012/286792/)
+
+- [ ] [2020年数据分析必知必会（二）：NumPy数组----文章末尾附Python之父访谈视频](https://mp.weixin.qq.com/s/5hv02drGhLEjzYKYXzq5_g)
+
+- [ ] [Python实现​旋转描记器：几何绘图不再是梦](https://mp.weixin.qq.com/s/BlaAelhj3Fpg_TtyAru9Dw)
+
+- [ ] [Python实现​旋转描记器：几何绘图不再是梦](https://mp.weixin.qq.com/s/BlaAelhj3Fpg_TtyAru9Dw)
+
+- [ ] [很有意思的Python实现分形可视化：生成漂亮的分形图案](https://mp.weixin.qq.com/s/ubKo53_xL8ALoUuW-EfZNg)
+
+- [ ] [人工智能领域的5种最佳编程语言](https://mp.weixin.qq.com/s/St0yBNZGOwcFxn-3NeCCmA)
+
+- [ ] [An Introduction to Mathematical Risk Theory - Google Search](https://www.google.com/search?q=An+Introduction+to+Mathematical+Risk+Theory&oq=An+Introduction+to+Mathematical+Risk+Theory&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Loss Models, From Data to Decisions - Google Search](https://www.google.com/search?q=Loss+Models%2C+From+Data+to+Decisions&oq=Loss+Models%2C+From+Data+to+Decisions&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/projects)
+
+- [ ] [Insurance Risk and Ruin - David C. M. Dickson - Google Books](https://books.google.com/books?id=9zP0MMqJXcUC&pg=PA130&lpg=PA130&dq=adjust+coefficients+for+the+surplus+process&source=bl&ots=meDRlUSLn9&sig=ACfU3U0iVbsCcpHeJwNsl-gd9TBvaJHT0g&hl=en&sa=X&ved=2ahUKEwjyvs6erNzlAhWDy4sBHTFrCL8Q6AEwA3oECGEQAQ#v=onepage&q=adjust%20coefficients%20for%20the%20surplus%20process&f=false)
+
+- [ ] [Modern Actuarial Risk Theory: Using R - Rob Kaas, Marc Goovaerts, Jan Dhaene, Michel Denuit - Google Books](https://books.google.com/books?id=PgEz6nDHWHEC&pg=PA116&lpg=PA116&dq=calculate++adjustment+coefficient+in+r&source=bl&ots=Ttz_Le6aae&sig=ACfU3U3Uhh72LlW-rHLzgiiuTdIUoG_sbQ&hl=en&sa=X&ved=2ahUKEwizpq3XrNzlAhVJ05QKHTj9Aho4ZBDoATAFegQIYxAB#v=onepage&q=calculate%20%20adjustment%20coefficient%20in%20r&f=false)
+
+- [ ] [Statistical and Probabilistic Methods in Actuarial Science - Philip J. Boland - Google Books](https://books.google.com/books?id=MTc2wj12QnwC&pg=PA153&lpg=PA153&dq=adjust+coefficients+for+the+surplus+process&source=bl&ots=7PQ_rudt6v&sig=ACfU3U3oD5gN2aJE5puVcRDLKgNER1KtzQ&hl=en&sa=X&ved=2ahUKEwjyvs6erNzlAhWDy4sBHTFrCL8Q6AEwBHoECGMQAQ#v=onepage&q=adjust%20coefficients%20for%20the%20surplus%20process&f=false)
+
+- [ ] [A note on the adjustment coefficient in ruin theory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/0167668786900399)
+
+- [ ] [Classical Risk Model - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/mathematics/classical-risk-model)
+
+- [ ] [Methods for statistical analysis of reliability and life data : Mann, Nancy R : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/methodsforstatis00mann)
+
+- [ ] [https://www.mathpages.com/home/kmath122/kmath122.htm](https://www.mathpages.com/home/kmath122/kmath122.htm)
+
+- [ ] [Reliafy](http://www.reliafy.com/)
+
+- [ ] [Weibull distribution - Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Weibull_distribution)
+
+- [ ] [Methods for statistical analysis of reliability and life data : Mann, Nancy R : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/methodsforstatis00mann)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20110930040053/http://www.eurojournals.com/irjfe_35_14.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://www.eurojournals.com/irjfe_35_14.pdf)
+
+- [ ] [Risk.net - Financial Risk Management News Analysis](https://www.risk.net/)
+
+- [ ] [MacroRisk Analytics – Investment Tools for a Changing Economy®](http://www.macrorisk.com/)
+
+- [ ] [Elements of Financial Risk Management - 2nd Edition](https://www.elsevier.com/books/elements-of-financial-risk-management/christoffersen/978-0-12-374448-7)
+
+- [ ] [Quantitative Risk Management: A Practical Guide to Financial Risk, + Website | Wiley](https://www.wiley.com/en-us/Quantitative+Risk+Management%3A+A+Practical+Guide+to+Financial+Risk%2C+%2B+Website-p-9781118026588)
+
+- [ ] [Federal Reserve Bank of Chicago - Federal Reserve Bank of Chicago](https://www.chicagofed.org/webpages/publications/understanding_derivatives/index.cfm:)
+
+- [ ] [Why the Weibull Distribution Is Always Welcome](https://blog.minitab.com/blog/understanding-statistics/why-the-weibull-distribution-is-always-welcome)
+
+- [ ] [The 2020 Final Payment Notice, Part 2: Risk Adjustment | Health Affairs](https://www.healthaffairs.org/do/10.1377/hblog20190420.666282/full/)
+
+- [ ] [Lexicon：76 | PHARMA JAPAN](https://pj.jiho.jp/lexicon/l-1226563976644)
+
+- [ ] [Speed of share price adjustment to information | Emerald Insight](https://www.emerald.com/insight/content/doi/10.1108/03074350210768004/full/html)
+
+- [ ] [500 Internal Privoxy Error](http://chrome-exwww.math.colostate.edu/~spriggs/m130)
+
+- [ ] [The Simple Math Behind Insurance](https://www.agordon.com/blog/bid/66399/the-simple-math-behind-insurance)
+
+- [ ] [What is loading in insurance & how does it affect your premium - The Economic Times](https://economictimes.indiatimes.com/wealth/personal-finance-news/what-is-loading-in-insurance-how-does-it-affect-your-premium/articleshow/26470877.cms)
+
+- [ ] [Get Started: 3 Ways to Load CSV files into Colab - Towards Data Science](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92)
+
+- [ ] [Quickstart tutorial — NumPy v1.13 Manual](https://docs.scipy.org/doc/numpy-1.13.0/user/quickstart.html)
+
+- [ ] [Matrix Rank](https://stattrek.com/matrix-algebra/matrix-rank.aspx)
+
+- [ ] [Matrix rank — Tutorials on imaging, computing and mathematics](https://matthew-brett.github.io/teaching/matrix_rank.html)
+
+- [ ] [Find The Rank Of A Matrix](https://chrisalbon.com/machine_learning/vectors_matrices_and_arrays/find_the_rank_of_a_matrix/)
+
+- [ ] [numpy.linalg.matrix_rank — NumPy v1.14 Manual](https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.linalg.matrix_rank.html)
+
+- [ ] [Data Science and Linear Algebra Fundamentals with Python, SciPy, & NumPy - Twilio](https://www.twilio.com/blog/2018/06/data-science-linear-algebra-python-scipy-numpy.html)
+
+- [ ] [Linear algebra (numpy.linalg) — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html)
+
+- [ ] [Linear algebra (numpy.linalg) — NumPy v1.13 Manual](https://docs.scipy.org/doc/numpy-1.13.0/reference/routines.linalg.html)
+
+- [ ] [Linear Algebra with SciPy - Mathematical Python](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/linear-algebra-scipy/)
+
+- [ ] [SciPy Cheat Sheet: Linear Algebra in Python (article) - DataCamp](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet)
+
+- [ ] [risk.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/actuar/vignettes/risk.pdf)
+
+- [ ] [Adjustment Coefficient - Kaas - - Major Reference Works - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118445112.stat04314)
+
+- [ ] [Adjustment Coefficient - Kaas - - Major Reference Works - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118445112.stat04314)
+
+- [ ] [Wiley StatsRef: Statistics Reference Online | Major Reference Works](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118445112)
+
+- [ ] [1. Vectors, Matrices, and Arrays - Machine Learning with Python Cookbook [Book]](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/ch01.html)
+
+- [ ] [rank - numpy - Python documentation - Kite](https://kite.com/python/docs/numpy.rank)
+
+- [ ] [Linear Algebra and Linear Systems — Computational Statistics in Python 0.1 documentation](https://people.duke.edu/~ccc14/sta-663/LinearAlgebraReview.html)
+
+- [ ] [numpy.linalg.matrix_rank — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.matrix_rank.html)
+
+- [ ] [Program for Rank of Matrix - GeeksforGeeks](https://www.geeksforgeeks.org/program-for-rank-of-matrix/)
+
+- [ ] [Matrix Rank](https://stattrek.com/matrix-algebra/matrix-rank.aspx)
+
+- [ ] [Case Study: PageRank](https://introcs.cs.princeton.edu/python/16pagerank/)
+
+- [ ] [markov.py](https://introcs.cs.princeton.edu/python/16pagerank/markov.py.html)
+
+- [ ] [TensorLy: Tensor learning in Python](http://tensorly.org/stable/modules/api.html)
+
+- [ ] [MATH 311, section 503 (Fall 2019)](https://www.math.tamu.edu/~yvorobet/MATH311/MATH311-503.html)
+
+- [ ] [MATH 311, section 504 (Fall 2019)](https://www.math.tamu.edu/~yvorobet/MATH311/MATH311-504.html)

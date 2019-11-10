@@ -378,3 +378,108 @@ https://en.wikipedia.org/wiki/Economic_inequality
 - [ ] [Sheaf (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Sheaf_%28mathematics%29)
 
 - [ ] [Topological data analysis - Wikipedia](https://en.wikipedia.org/wiki/Topological_data_analysis#Workflow)
+
+
+
+
+## 11/10/2019
+
+- [ ] [General insurance - Wikipedia](https://en.wikipedia.org/wiki/General_insurance)
+
+- [ ] [Brute-force search - Wikipedia](https://en.wikipedia.org/wiki/Brute-force_search)
+
+- [ ] [Weibull distribution - Wikipedia](https://en.wikipedia.org/wiki/Weibull_distribution)
+
+- [ ] [Survival analysis - Wikipedia](https://en.wikipedia.org/wiki/Survival_analysis)
+
+- [ ] [Reliability engineering - Wikipedia](https://en.wikipedia.org/wiki/Reliability_engineering)
+
+- [ ] [Failure analysis - Wikipedia](https://en.wikipedia.org/wiki/Failure_analysis)
+
+- [ ] [Electrical engineering - Wikipedia](https://en.wikipedia.org/wiki/Electrical_engineering)
+
+- [ ] [Industrial engineering - Wikipedia](https://en.wikipedia.org/wiki/Industrial_engineering)
+
+- [ ] [Extreme value theory - Wikipedia](https://en.wikipedia.org/wiki/Extreme_value_theory)
+
+- [ ] [Weather forecasting - Wikipedia](https://en.wikipedia.org/wiki/Weather_forecasting)
+
+- [ ] [Wind power - Wikipedia](https://en.wikipedia.org/wiki/Wind_power#Wind_energy)
+
+- [ ] [Information retrieval - Wikipedia](https://en.wikipedia.org/wiki/Information_retrieval)
+
+- [ ] [Reinsurance - Wikipedia](https://en.wikipedia.org/wiki/Reinsurance)
+
+- [ ] [Asbestosis - Wikipedia](https://en.wikipedia.org/wiki/Asbestosis)
+
+- [ ] [Ruin theory - Wikipedia](https://en.wikipedia.org/wiki/Ruin_theory)
+
+- [ ] [Financial risk - Wikipedia](https://en.wikipedia.org/wiki/Financial_risk)
+
+
+
+## 11/10/2019
+
+- [ ] [Category:Actuarial science - Wikipedia](https://en.wikipedia.org/wiki/Category:Actuarial_science)
+
+- [ ] [Category:Mathematical finance - Wikipedia](https://en.wikipedia.org/wiki/Category:Mathematical_finance)
+
+- [ ] [Compound Poisson process - Wikipedia](https://en.wikipedia.org/wiki/Compound_Poisson_process)
+
+- [ ] [Filip Lundberg - Wikipedia](https://en.wikipedia.org/wiki/Filip_Lundberg)
+
+- [ ] [Harald Cramér - Wikipedia](https://en.wikipedia.org/wiki/Harald_Cram%C3%A9r)
+
+- [ ] [Independent and identically distributed random variables - Wikipedia](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
+
+- [ ] [Log-normal distribution - Wikipedia](https://en.wikipedia.org/wiki/Log-normal_distribution#Maximum_likelihood_estimation_of_parameters)
+
+- [ ] [M/G/1 queue - Wikipedia](https://en.wikipedia.org/wiki/M/G/1_queue)
+
+- [ ] [Markov chain - Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
+
+- [ ] [Mathematical optimization - Wikipedia](https://en.wikipedia.org/wiki/Mathematical_optimization)
+
+- [ ] [Maximum likelihood estimation - Wikipedia](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation#Continuous_distribution.2C_continuous_parameter_space)
+
+- [ ] [Maximum likelihood estimation - Wikipedia](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+
+- [ ] [Michael R. Powers - Wikipedia](https://en.wikipedia.org/wiki/Michael_R._Powers)
+
+- [ ] [Poisson point process - Wikipedia](https://en.wikipedia.org/wiki/Poisson_point_process)
+
+- [ ] [Pollaczek–Khinchine formula - Wikipedia](https://en.wikipedia.org/wiki/Pollaczek%E2%80%93Khinchine_formula)
+
+- [ ] [Renewal theory - Wikipedia](https://en.wikipedia.org/wiki/Renewal_theory)
+
+- [ ] [Ruin theory - Wikipedia](https://en.wikipedia.org/wiki/Ruin_theory)
+
+- [ ] [Ruin theory - Wikipedia](https://en.wikipedia.org/wiki/Ruin_theory)
+
+
+
+
+
+## 11/10/2019
+
+- [ ] [Accounting research - Wikipedia](https://en.wikipedia.org/wiki/Accounting_research)
+
+- [ ] [Barometric formula - Wikipedia](https://en.wikipedia.org/wiki/Barometric_formula#Derivation)
+
+- [ ] [Center for Research in Security Prices - Wikipedia](https://en.wikipedia.org/wiki/Center_for_Research_in_Security_Prices)
+
+- [ ] [Earnings response coefficient - Wikipedia](https://en.wikipedia.org/wiki/Earnings_response_coefficient)
+
+- [ ] [Earnings surprise - Wikipedia](https://en.wikipedia.org/wiki/Earnings_surprise)
+
+- [ ] [Efficient-market hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+
+- [ ] [Event study - Wikipedia](https://en.wikipedia.org/wiki/Event_study)
+
+- [ ] [Financial economics - Wikipedia](https://en.wikipedia.org/wiki/Financial_economics)
+
+- [ ] [Monte Carlo method - Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+
+- [ ] [Post-earnings-announcement drift - Wikipedia](https://en.wikipedia.org/wiki/Post-earnings-announcement_drift)
+
+- [ ] [Ray J. Ball - Wikipedia](https://en.wikipedia.org/wiki/Ray_J._Ball)

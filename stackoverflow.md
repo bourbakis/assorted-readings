@@ -318,3 +318,49 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [Use the cumulative distribution function of Weibull in R - Stack Overflow](https://stackoverflow.com/questions/17768765/use-the-cumulative-distribution-function-of-weibull-in-r)
 
 - [ ] [Weibull MLE in R - Stack Overflow](https://stackoverflow.com/questions/47264485/weibull-mle-in-r)
+
+
+
+
+
+
+
+## 11/10/2019
+
+- [ ] [curve fitting - How to fit a Weibull distribution to input data containing zeroes? - Cross Validated](https://stats.stackexchange.com/questions/19866/how-to-fit-a-weibull-distribution-to-input-data-containing-zeroes)
+
+- [ ] [estimation - Fit a censored log-normal distribution to data using MLE - Cross Validated](https://stats.stackexchange.com/questions/176834/fit-a-censored-log-normal-distribution-to-data-using-mle)
+
+- [ ] [How do I fit a set of data to a Pareto distribution in R? - Cross Validated](https://stats.stackexchange.com/questions/27426/how-do-i-fit-a-set-of-data-to-a-pareto-distribution-in-r)
+
+- [ ] [logistic - Determine Maximum Likelihood Estimate (MLE) of loglogistic distribution - Cross Validated](https://stats.stackexchange.com/questions/134132/determine-maximum-likelihood-estimate-mle-of-loglogistic-distribution)
+
+- [ ] [mathematical statistics - Attempting to find mean of Weibull function in R - Cross Validated](https://stats.stackexchange.com/questions/361191/attempting-to-find-mean-of-weibull-function-in-r)
+
+- [ ] [maximum likelihood - How to estimate parameters of a log-normal distribution? - Cross Validated](https://stats.stackexchange.com/questions/141834/how-to-estimate-parameters-of-a-log-normal-distribution)
+
+- [ ] [maximum likelihood - How to find initial values for Weibull MLE in R? - Cross Validated](https://stats.stackexchange.com/questions/230937/how-to-find-initial-values-for-weibull-mle-in-r)
+
+- [ ] [maximum likelihood - MLE estimation: Inverse gamma duration model with exogenous variables - Cross Validated](https://stats.stackexchange.com/questions/363185/mle-estimation-inverse-gamma-duration-model-with-exogenous-variables)
+
+- [ ] [maximum likelihood - Parameter estimation of Gamma Distribution using R - Cross Validated](https://stats.stackexchange.com/questions/262871/parameter-estimation-of-gamma-distribution-using-r)
+
+- [ ] [optimization - Nonstable estimates for GARCH(1,1) for different initials using MLE in R - Cross Validated](https://stats.stackexchange.com/questions/281278/nonstable-estimates-for-garch1-1-for-different-initials-using-mle-in-r)
+
+- [ ] [probability - Fitting Weibull distribution in R - Cross Validated](https://stats.stackexchange.com/questions/346249/fitting-weibull-distribution-in-r)
+
+- [ ] [probability - R - Weibull Distribution Parameters (Shape and Scale) - Confidence Intervals - Cross Validated](https://stats.stackexchange.com/questions/173082/r-weibull-distribution-parameters-shape-and-scale-confidence-intervals)
+
+- [ ] [probability - Weibull distribution in R - Cross Validated](https://stats.stackexchange.com/questions/181816/weibull-distribution-in-r)
+
+- [ ] [r - MLE/Likelihood of lognormally distributed interval - Cross Validated](https://stats.stackexchange.com/questions/56015/mle-likelihood-of-lognormally-distributed-interval)
+
+- [ ] [R - nlm and Weibull Maximum Likelihood - Cross Validated](https://stats.stackexchange.com/questions/392527/r-nlm-and-weibull-maximum-likelihood)
+
+- [ ] [r - Weibull distribution parameters $k$ and $c$ for wind speed data - Cross Validated](https://stats.stackexchange.com/questions/60511/weibull-distribution-parameters-k-and-c-for-wind-speed-data)
+
+- [ ] [r - Why isn't Weibull Maximum Likelihood Estimation possible with x=0? - Cross Validated](https://stats.stackexchange.com/questions/348839/why-isnt-weibull-maximum-likelihood-estimation-possible-with-x-0)
+
+- [ ] [Robust parameter estimation for shifted log normal distribution - Cross Validated](https://stats.stackexchange.com/questions/49495/robust-parameter-estimation-for-shifted-log-normal-distribution)
+
+- [ ] [weibull mle with optim in R - Cross Validated](https://stats.stackexchange.com/questions/120662/weibull-mle-with-optim-in-r)

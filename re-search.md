@@ -2115,3 +2115,146 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 - [ ] [scipy stats cheat sheet pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=scipy%20stats%20cheat%20sheet%20pdf&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAF6BAgBEAI)
 
 - [ ] [statsmodels cheat sheet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=statsmodels%20cheat%20sheet&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAJ6BAgBEAM)
+
+
+
+
+## 11/10/2019
+
+- [ ] [brown and warner 1980 1985 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=brown%20and%20warner%201980%201985&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAJ6BAgAEAM)
+
+- [ ] [china cpi - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREGhZI3pr2H2hGWqNfUEErlHP1DQ:1573365194364&q=china+cpi&sa=X&ved=2ahUKEwjq9YuM-t7lAhWkBKYKHa8MB-wQ1QIoAHoECGUQAQ)
+
+- [ ] [china cpi basket - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREGhZI3pr2H2hGWqNfUEErlHP1DQ:1573365194364&q=china+cpi+basket&sa=X&ved=2ahUKEwjq9YuM-t7lAhWkBKYKHa8MB-wQ1QIoAnoECGUQAw)
+
+- [ ] [China inflation - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQ6guTmLaOE_EKkbnJsLXcRCFm2hA:1573365268509&q=China+inflation&stick=H4sIAAAAAAAAAHWNOwrCQABEjY4av4lR_DQiNoLNBsXCVIK3sFuSFVfMKiaQeJshx7QylhbCFANveGOvvJnIQyFi4e-v-Sb4lsjfZduDMsv_aD2PVSoDkT-kUbdydjeheqRBoiOVyVdycsKLNnKhzfkmU303heV-ZU911kbFyqTCf1sVokyTGBM9okvUiSnRJ1xiQthEhwBRJSyiTTjEgPCIITEiWkSDqBV15_j79wFxpNNG2QAAAA&ved=2ahUKEwjZvbmv-t7lAhWiBKYKHXcSC84QzTooADB4egQIZRAC)
+
+- [ ] [china inflation - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQ6guTmLaOE_EKkbnJsLXcRCFm2hA:1573365268509&q=china+inflation&tbm=isch&source=univ&ved=2ahUKEwjZvbmv-t7lAhWiBKYKHXcSC84QsAR6BAgIEAE)
+
+- [ ] [china inflation rate 2019 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREGhZI3pr2H2hGWqNfUEErlHP1DQ:1573365194364&q=china+inflation+rate+2019&sa=X&ved=2ahUKEwjq9YuM-t7lAhWkBKYKHa8MB-wQ1QIoBnoECGUQBw)
+
+- [ ] [china ppi - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREGhZI3pr2H2hGWqNfUEErlHP1DQ:1573365194364&q=china+ppi&sa=X&ved=2ahUKEwjq9YuM-t7lAhWkBKYKHa8MB-wQ1QIoA3oECGUQBA)
+
+- [ ] [cluster robust standard errors in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=cluster+robust+standard+errors+in+r&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoAXoECGUQAg)
+
+- [ ] [cluster standard errors r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=cluster%20standard%20errors%20r&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAF6BAgCEAI)
+
+- [ ] [correct standard errors for heteroskedasticity in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=correct+standard+errors+for+heteroskedasticity+in+r&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoBnoECGUQBw)
+
+- [ ] [cox regression analysis interpretation - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg%3A1573366353408&lei=UarHXZXBGPSSr7wP76uYoAE&q=cox%20regression%20analysis%20interpretation&ved=2ahUKEwjKxrq2_t7lAhVBHKYKHQnJBUMQsKwBKAF6BAgCEAI)
+
+- [ ] [cox regression pdf - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg%3A1573366353408&lei=UarHXZXBGPSSr7wP76uYoAE&q=cox%20regression%20pdf&ved=2ahUKEwjKxrq2_t7lAhVBHKYKHQnJBUMQsKwBKAB6BAgCEAE)
+
+- [ ] [dolley 1933 - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNT87j_qpNdy2GgW4YYjU1ay2wU5JA%3A1573373895727&lei=x8fHXd-CLLremAXZzaZ4&q=dolley%201933&ved=2ahUKEwjt68TDmt_lAhW0y4sBHU7SDVkQsKwBKAF6BAgBEAI)
+
+- [ ] [driscoll kraay standard errors in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=driscoll+kraay+standard+errors+in+r&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoBHoECGUQBQ)
+
+- [ ] [econometrics of event studies pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=econometrics%20of%20event%20studies%20pdf&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAB6BAgAEAE)
+
+- [ ] [estimation window” and the “event window - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA:1573373956912&q=estimation+window%E2%80%9D+and+the+%E2%80%9Cevent+window&tbm=isch&source=univ&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQsAR6BAgAEAE)
+
+- [ ] [event studies econometrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA:1573373956912&q=event+studies+econometrics&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQ1QIoBnoECGQQBw)
+
+- [ ] [event studies in economics and finance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA:1573373956912&q=event+studies+in+economics+and+finance&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQ1QIoBXoECGQQBg)
+
+- [ ] [event studies in economics and finance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=event%20studies%20in%20economics%20and%20finance&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAN6BAgAEAQ)
+
+- [ ] [event study example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=event%20study%20example&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAF6BAgAEAI)
+
+- [ ] [event study example - Google Search](https://www.google.com/search?q=event+study+example&newwindow=1&sxsrf=ACYBGNS_ZugRe3IILryd8EyTkt4ORmsSTw:1573373856644&tbm=isch&source=iu&ictx=1&fir=za5RjD0KDUKtaM%253A%252C8JfxcQMY-2T4mM%252C_&vet=1&usg=AI4_-kRr_-nDT2CrvIH7grX9mbdDcIPhDA&sa=X&ved=2ahUKEwiEzcuumt_lAhWXy4sBHXsVDrUQ9QEwAHoECAQQAw#imgrc=za5RjD0KDUKtaM:)
+
+- [ ] [event study finance topics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA%3A1573373956912&lei=BMjHXZCZN4uImAW6kYbABg&q=event%20study%20finance%20topics&ved=2ahUKEwiTxNbfmt_lAhXhwosBHRGKA_AQsKwBKAF6BAgAEAI)
+
+- [ ] [event study graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA:1573373956912&q=event+study+graph&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQ1QIoAXoECGQQAg)
+
+- [ ] [event study in economics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+in+economics&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoBXoECGQQBg)
+
+- [ ] [event study literature review - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+literature+review&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoBnoECGQQBw)
+
+- [ ] [event study matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=event%20study%20matrix&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAR6BAgAEAU)
+
+- [ ] [event study methodology excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+methodology+excel&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoAXoECGQQAg)
+
+- [ ] [event study metrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA%3A1573373956912&lei=BMjHXZCZN4uImAW6kYbABg&q=event%20study%20metrics&ved=2ahUKEwiTxNbfmt_lAhXhwosBHRGKA_AQsKwBKAJ6BAgAEAM)
+
+- [ ] [event study multiple events - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNT87j_qpNdy2GgW4YYjU1ay2wU5JA%3A1573373895727&lei=x8fHXd-CLLremAXZzaZ4&q=event%20study%20multiple%20events&ved=2ahUKEwjt68TDmt_lAhW0y4sBHU7SDVkQsKwBKAN6BAgBEAQ)
+
+- [ ] [event study ppt - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA%3A1573373956912&lei=BMjHXZCZN4uImAW6kYbABg&q=event%20study%20ppt&ved=2ahUKEwiTxNbfmt_lAhXhwosBHRGKA_AQsKwBKAB6BAgAEAE)
+
+- [ ] [event study ppt - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSregHjLVbGiNSv4s0yxG7XyYmxng%3A1573374506622&lei=KsrHXbDGJY2ymAXcvbiIBg&q=event%20study%20ppt&ved=2ahUKEwjk5f_mnN_lAhVlxIsBHU_HDy4QsKwBKAJ6BAgCEAM)
+
+- [ ] [event study regression economics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+regression+economics&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoB3oECGQQCA)
+
+- [ ] [event study s&p 500 - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNT87j_qpNdy2GgW4YYjU1ay2wU5JA%3A1573373895727&lei=x8fHXd-CLLremAXZzaZ4&q=event%20study%20s%26p%20500&ved=2ahUKEwjt68TDmt_lAhW0y4sBHU7SDVkQsKwBKAB6BAgBEAE)
+
+- [ ] [event study stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+stata&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoA3oECGQQBA)
+
+- [ ] [event study stock price - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+stock+price&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoBHoECGQQBQ)
+
+- [ ] [event study t test - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA%3A1573373956912&lei=BMjHXZCZN4uImAW6kYbABg&q=event%20study%20t%20test&ved=2ahUKEwiTxNbfmt_lAhXhwosBHRGKA_AQsKwBKAN6BAgAEAQ)
+
+- [ ] [export_summs r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=export_summs%20r&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAF6BAgBEAI)
+
+- [ ] [factors contribut to china's cpi - Google Search](https://www.google.com/search?q=factors+contribut+to+china%27s+cpi&oq=factors+contribut+to+china%27s+cpi&aqs=chrome..69i57.9079j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [fully parametric survival analysis regression model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=fully+parametric+survival+analysis+regression+model&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoBXoECGEQBg)
+
+- [ ] [german rodriguez demographic methods - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTD1HE1twxXoQf-nVRtCZtdzlAraQ:1573366095546&q=german+rodriguez+demographic+methods&sa=X&ved=2ahUKEwj_3Oe5_d7lAhWayYsBHSIPCacQ1QIoBHoECGQQBQ)
+
+- [ ] [german rodriguez demographic methods - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=german+rodriguez+demographic+methods&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoAXoECGEQAg)
+
+- [ ] [get regression table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=get%20regression%20table&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAB6BAgBEAE)
+
+- [ ] [how to interpret cumulative abnormal return - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=how%20to%20interpret%20cumulative%20abnormal%20return&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAV6BAgAEAY)
+
+- [ ] [how to show regression results in a table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=how%20to%20show%20regression%20results%20in%20a%20table&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAV6BAgBEAY)
+
+- [ ] [Linear Regression Models with Logarithmic Transformations - Google Search](https://www.google.com/search?q=Linear+Regression+Models+with+Logarithmic+Transformations&oq=Linear+Regression+Models+with+Logarithmic+Transformations&aqs=chrome..69i57j69i65j69i60l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [MacKinlay 1997 - Google Search](https://www.google.com/search?q=MacKinlay+1997&oq=MacKinlay+1997&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [multivariate survival analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=multivariate+survival+analysis&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoAnoECGEQAw)
+
+- [ ] [non parametric survival model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=non+parametric+survival+model&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoB3oECGEQCA)
+
+- [ ] [poisson regression for survival analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=poisson+regression+for+survival+analysis&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoAHoECGEQAQ)
+
+- [ ] [poisson robust standard errors r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=poisson+robust+standard+errors+r&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoB3oECGUQCA&biw=958&bih=919)
+
+- [ ] [produce nice regression sumary table - Google Search](https://www.google.com/search?q=produce%20nice%20regression%20sumary%20table)
+
+- [ ] [pymc3 gaussian random walk example - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg%3A1573366353408&lei=UarHXZXBGPSSr7wP76uYoAE&q=pymc3%20gaussian%20random%20walk%20example&ved=2ahUKEwjKxrq2_t7lAhVBHKYKHQnJBUMQsKwBKAB6BAgDEAE)
+
+- [ ] [pymc3 gaussianrandomwalk - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg%3A1573366353408&lei=UarHXZXBGPSSr7wP76uYoAE&q=pymc3%20gaussianrandomwalk&ved=2ahUKEwjKxrq2_t7lAhVBHKYKHQnJBUMQsKwBKAF6BAgDEAI)
+
+- [ ] [r coeftest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=r%20coeftest&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAR6BAgCEAU)
+
+- [ ] [r export regression results to excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=r%20export%20regression%20results%20to%20excel&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAR6BAgBEAU)
+
+- [ ] [r finalfit - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=r%20finalfit&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAJ6BAgBEAM)
+
+- [ ] [r sandwich package - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=r%20sandwich%20package&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAN6BAgCEAQ)
+
+- [ ] [rmarkdown regression tables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=rmarkdown%20regression%20tables&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAN6BAgBEAQ)
+
+- [ ] [robust standard errors are smaller than the model-based errors, and the effect of setting is now significant - Google Search](https://www.google.com/search?q=robust+standard+errors+are+smaller+than+the+model-based+errors%2C+and+the+effect+of+setting+is+now+significant&oq=robust+standard+errors+are+smaller+than+the+model-based+errors%2C+and+the+effect+of+setting+is+now+significant&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [robust standard errors in r code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=robust+standard+errors+in+r+code&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoAHoECGUQAQ)
+
+- [ ] [robust standard errors stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=robust+standard+errors+stata&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoBXoECGUQBg)
+
+- [ ] [stargazer robust standard errors - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=stargazer+robust+standard+errors&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoAnoECGUQAw)
+
+- [ ] [stargazer robust standard errors - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=stargazer%20robust%20standard%20errors&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAB6BAgCEAE)
+
+- [ ] [survival analysis stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=survival+analysis+stata&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoA3oECGEQBA)
+
+- [ ] [the likelihood for competing risk survival analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=the+likelihood+for+competing+risk+survival+analysis&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoBHoECGEQBQ)
+
+- [ ] [There is often a gap between the estimation and event periods - Google Search](https://www.google.com/search?q=There+is+often+a+gap+between+the+estimation+and+event+periods&oq=There+is+often+a+gap+between+the+estimation+and+event+periods&aqs=chrome..69i57.630j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [weibull distribution survival analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=weibull+distribution+survival+analysis&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoBnoECGEQBw)
+
+- [ ] [white correction in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=white%20correction%20in%20r&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAV6BAgCEAY)
+
+- [ ] [wiki event study - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNT87j_qpNdy2GgW4YYjU1ay2wU5JA%3A1573373895727&lei=x8fHXd-CLLremAXZzaZ4&q=wiki%20event%20study&ved=2ahUKEwjt68TDmt_lAhW0y4sBHU7SDVkQsKwBKAJ6BAgBEAM)

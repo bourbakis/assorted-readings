@@ -568,3 +568,36 @@ http://libgen.is/book/index.php?md5=64880F122155CDA9112D444EC720BEE2
 Library Genesis: William Preinitz, Matthew Niedermaier - Intermediate Structured Finance Modeling, with Website: Leveraging Excel, VBA, Access, and Powerpoint
 http://libgen.is/book/index.php?md5=6A3709B10A970F433E138F2E07ABD717
 
+
+
+## 11/10/2019
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Chapman+%26+Hall%2FCRC+The+R+Series&phrase=0&view=simple&column=series&sort=year&sortmode=DESC&page=2)
+
+- [ ] [Library Genesis: Arthur Charpentier - Computational Actuarial Science with R](http://libgen.is/book/index.php?md5=AE64712E6AB880E2A333A736C7B7136B)
+
+- [ ] [Library Genesis: Christopher Gandrud - Reproducible Research with R and R Studio, Second Edition](http://libgen.is/book/index.php?md5=89E3848976A5DFAC000A892AA29FFE8D)
+
+- [ ] [Library Genesis: Daniel Mirman - Growth Curve Analysis and Visualization Using R](http://libgen.is/book/index.php?md5=03D142CC974151EEFE53CFB1A1A704C8)
+
+- [ ] [Library Genesis: David R Bellhouse - Leases for Lives: Life Contingent Contracts and the Emergence of Actuarial Science in Eighteenth-Century England](http://libgen.is/book/index.php?md5=BCC3E39335D1A9059A7FEAB53B13F055)
+
+- [ ] [Library Genesis: Deborah Nolan, Duncan Temple Lang - Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving](http://libgen.is/book/index.php?md5=650345364DA6BBE1360580445F3C5A19)
+
+- [ ] [Library Genesis: Everett, Monaé - Graphical data analysis with R](http://libgen.is/book/index.php?md5=8242669E46A2FC034173B1EA0C1C482D)
+
+- [ ] [Library Genesis: Fox, John D - Using the R commander: a point-and-click interface for R](http://libgen.is/book/index.php?md5=91614170D7259DA3CFE66A04945FB7F1)
+
+- [ ] [Library Genesis: John Kloke, Joseph W. McKean - Nonparametric Statistical Methods Using R](http://libgen.is/book/index.php?md5=2241683402A7BF272B38DE8B58C9AE50)
+
+- [ ] [Library Genesis: John M. Chambers - Extending R](http://libgen.is/book/index.php?md5=8A1AC520454F7D3D0535A0FF723F09B1)
+
+- [ ] [Library Genesis: Jones, Owen D.; Maillardet, Robert; Robinson, Andrew - Introduction to Scientific Programming and Simulation Using R](http://libgen.is/book/index.php?md5=65646077B846171557BE949A9A23DE91)
+
+- [ ] [Library Genesis: Kumar S. - Using R for Actuarial Science](http://libgen.is/book/index.php?md5=392C5FF6EED7BEB08FE751399F2877A0)
+
+- [ ] [Library Genesis: Lang, Duncan Temple; Nolan, Deborah - Data science in R : a case studies approach to computational reasoning and problem solving](http://libgen.is/book/index.php?md5=38975CD621E997E5FF3FA790AF7FC4AA)
+
+- [ ] [Library Genesis: Max Marchi, Jim Albert - Analyzing Baseball Data with R](http://libgen.is/book/index.php?md5=762BA5F4E087AFA6FA019DDB75C65ADB)
+
+- [ ] [Library Genesis: Oscar Perpinan Lamigueiro - Displaying Time Series, Spatial, and Space-Time Data with R](http://libgen.is/book/index.php?md5=5C12248EC9644BBE44E96B97C9C00226)
