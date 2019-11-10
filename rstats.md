@@ -219,3 +219,30 @@ https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html#maximum-likelihood-with-
 - [ ] [15 Common Logical Fallacies and How to Spot Them](https://blog.hubspot.com/marketing/common-logical-fallacies)
 
 - [ ] [R: Kernel Density Estimation](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/density.html)
+
+
+
+
+
+
+
+
+
+
+## 11/10/2019
+
+- [ ] [Art « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/art/)
+
+- [ ] [Bayesian Statistics « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/bayesian-statistics/)
+
+- [ ] [Causal Inference « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/causal-inference/)
+
+- [ ] [Decision Theory « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/decision-theory/)
+
+- [ ] [Economics « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/economics/)
+
+- [ ] [Literature « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/literature/)
+
+- [ ] [Political Science « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/political-science/)
+
+- [ ] [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)

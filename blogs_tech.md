@@ -144,3 +144,24 @@ http://ml-india.org/ml-india-interview-priya-radhakrishnan/#proj
 
 
 [Cloudera Fast Forward Labs Blog](https://blog.fastforwardlabs.com/)
+
+
+## 11/10/2019
+
+- [ ] [GR's Website](https://data.princeton.edu/R/)
+
+- [ ] [GR's Website](https://data.princeton.edu/wws509/r/robust)
+
+- [ ] [GR's Website](https://data.princeton.edu/wws509/notes/)
+
+- [ ] [GR's Website](https://data.princeton.edu/pop509)
+
+- [ ] [GR's Website](https://data.princeton.edu/eco572)
+
+- [ ] [GR's Website](https://data.princeton.edu/stata/)
+
+- [ ] [GR's Website](https://data.princeton.edu/pop510)
+
+- [ ] [GR's Website](https://data.princeton.edu/)
+
+- [ ] [GR's Website](https://data.princeton.edu/wws509/datasets)

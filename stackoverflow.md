@@ -364,3 +364,60 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [Robust parameter estimation for shifted log normal distribution - Cross Validated](https://stats.stackexchange.com/questions/49495/robust-parameter-estimation-for-shifted-log-normal-distribution)
 
 - [ ] [weibull mle with optim in R - Cross Validated](https://stats.stackexchange.com/questions/120662/weibull-mle-with-optim-in-r)
+
+
+
+## 11/10/2019
+
+- [ ] [Exporting R regression summary for publishable paper - Stack Overflow](https://stackoverflow.com/questions/30147756/exporting-r-regression-summary-for-publishable-paper)
+
+- [ ] [knitr - Regression tables in Markdown format (for flexible use in R Markdown v2) - Stack Overflow](https://stackoverflow.com/questions/24342162/regression-tables-in-markdown-format-for-flexible-use-in-r-markdown-v2)
+
+- [ ] [r - How to export coefficients of the regression analysis fto a spreadsheet or csv file? - Stack Overflow](https://stackoverflow.com/questions/26866839/how-to-export-coefficients-of-the-regression-analysis-fto-a-spreadsheet-or-csv-f)
+
+- [ ] [Regression Tables in R Markdown / rmarkdown (html/pdf) - Stack Overflow](https://stackoverflow.com/questions/44457243/regression-tables-in-r-markdown-rmarkdown-html-pdf)
+
+
+
+## 11/10/2019
+
+- [ ] [hazard - What are the differences between survival analysis and Poisson regression? - Cross Validated](https://stats.stackexchange.com/questions/44046/what-are-the-differences-between-survival-analysis-and-poisson-regression)
+
+- [ ] [How to calculate the robust standard error of predicted y from a linear regression model in R? - Cross Validated](https://stats.stackexchange.com/questions/110091/how-to-calculate-the-robust-standard-error-of-predicted-y-from-a-linear-regressi)
+
+- [ ] [r - Robust regression inference and Sandwich estimators - Cross Validated](https://stats.stackexchange.com/questions/76904/robust-regression-inference-and-sandwich-estimators)
+
+- [ ] [regression - R: Confused about robust standard errors using “felm” and “huxreg” - Cross Validated](https://stats.stackexchange.com/questions/389393/r-confused-about-robust-standard-errors-using-felm-and-huxreg)
+
+- [ ] [regression - Replicating White's standard errors in R with the NeweyWest function - Cross Validated](https://stats.stackexchange.com/questions/312297/replicating-whites-standard-errors-in-r-with-the-neweywest-function)
+
+- [ ] [Replicating Stata's "robust" option in R - Cross Validated](https://stats.stackexchange.com/questions/117052/replicating-statas-robust-option-in-r)
+
+- [ ] [Replicating Stata's "robust" option in R - Cross Validated](https://stats.stackexchange.com/questions/117052/replicating-statas-robust-option-in-r)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## test
+
+[hazard - What are the differences between survival analysis and Poisson regression? - Cross Validated](https://stats.stackexchange.com/questions/44046/what-are-the-differences-between-survival-analysis-and-poisson-regression)
+[How to calculate the robust standard error of predicted y from a linear regression model in R? - Cross Validated](https://stats.stackexchange.com/questions/110091/how-to-calculate-the-robust-standard-error-of-predicted-y-from-a-linear-regressi)
+[r - Robust regression inference and Sandwich estimators - Cross Validated](https://stats.stackexchange.com/questions/76904/robust-regression-inference-and-sandwich-estimators)
+[regression - R: Confused about robust standard errors using “felm” and “huxreg” - Cross Validated](https://stats.stackexchange.com/questions/389393/r-confused-about-robust-standard-errors-using-felm-and-huxreg)
+[regression - Replicating White's standard errors in R with the NeweyWest function - Cross Validated](https://stats.stackexchange.com/questions/312297/replicating-whites-standard-errors-in-r-with-the-neweywest-function)
+[Replicating Stata's "robust" option in R - Cross Validated](https://stats.stackexchange.com/questions/117052/replicating-statas-robust-option-in-r)
+[Replicating Stata's "robust" option in R - Cross Validated](https://stats.stackexchange.com/questions/117052/replicating-statas-robust-option-in-r)

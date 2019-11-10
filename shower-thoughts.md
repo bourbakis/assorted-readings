@@ -108,3 +108,9 @@ Since words = world, utterance makes world, so i must polsih words just as clean
 
 Also, to present my ideas in a linearly organized mode.
 
+
+
+"marginal revolution". people improve there learning by "linear steps" as newton use lieanr approximation to non-linear problems in non-linear worlds.
+
+
+the tool *Prezi* as a dynamical presentation. And linear oganzied PPT is more primitive and more concise.

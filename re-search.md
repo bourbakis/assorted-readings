@@ -2258,3 +2258,127 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 - [ ] [white correction in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=white%20correction%20in%20r&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAV6BAgCEAY)
 
 - [ ] [wiki event study - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNT87j_qpNdy2GgW4YYjU1ay2wU5JA%3A1573373895727&lei=x8fHXd-CLLremAXZzaZ4&q=wiki%20event%20study&ved=2ahUKEwjt68TDmt_lAhW0y4sBHU7SDVkQsKwBKAJ6BAgBEAM)
+
+
+
+## 11/10/2019
+
+- [ ] [## model fit and HC3 covariance - Google Search](https://www.google.com/search?q=%23%23+model+fit+and+HC3+covariance&oq=%23%23+model+fit+and+HC3+covariance&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [A New Heteroskedasticity-Consistent Covariance Matrix Estimator for the Linear Regression Model - Google Search](https://www.google.com/search?q=A+New+Heteroskedasticity-Consistent+Covariance+Matrix+Estimator+for+the+Linear+Regression+Model&oq=A+New+Heteroskedasticity-Consistent+Covariance+Matrix+Estimator+for+the+Linear+Regression+Model&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [advanced trading algorithms coursera - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQMmFJbPmoaz1KOvpcxewNOh1ZNTQ%3A1573378945156&lei=gdvHXbyNCbyNr7wP6oyLgAk&q=advanced%20trading%20algorithms%20coursera&ved=2ahUKEwiYyrWurd_lAhVBBKYKHUo4D64QsKwBKAN6BAgCEAQ)
+
+- [ ] [Asymptotic Inference under Heteroskedasticity of Unknown For - Google Search](https://www.google.com/search?q=Asymptotic+Inference+under+Heteroskedasticity+of+Unknown+For&oq=Asymptotic+Inference+under+Heteroskedasticity+of+Unknown+For&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [avellaneda stoikov python - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQMmFJbPmoaz1KOvpcxewNOh1ZNTQ%3A1573378945156&lei=gdvHXbyNCbyNr7wP6oyLgAk&q=avellaneda%20stoikov%20python&ved=2ahUKEwiYyrWurd_lAhVBBKYKHUo4D64QsKwBKAF6BAgDEAI)
+
+- [ ] [contemporary issues in accounting. Post earnings announcement drift - Google Search](https://www.google.com/search?q=contemporary+issues+in+accounting.+Post+earnings+announcement+drift&oq=contemporary+issues+in+accounting.+Post+earnings+announcement+drift&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Default S3 method - Google Search](https://www.google.com/search?q=Default+S3+method&oq=Default+S3+method&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Dutch books - Google Search](https://www.google.com/search?q=Dutch+books&oq=Dutch+books&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [earnings announcement puzzle - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=earnings+announcement+puzzle&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoBHoECGUQBQ)
+
+- [ ] [earnings announcements effect on stock price - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ:1573378721550&q=earnings+announcements+effect+on+stock+price&sa=X&ved=2ahUKEwjp362-rN_lAhWWwosBHWJ0AvwQ1QIoAnoECGQQAw)
+
+- [ ] [Evidence that stock prices do not fully reflect the implications of current earnings for future earnings. - Google Search](https://www.google.com/search?q=Evidence+that+stock+prices+do+not+fully+reflect+the+implications+of+current+earnings+for+future+earnings.&oq=Evidence+that+stock+prices+do+not+fully+reflect+the+implications+of+current+earnings+for+future+earnings.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [fair betting rates - Google Search](https://www.google.com/search?q=fair+betting+rates&oq=fair+betting+rates&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [foundations of probability theory - Google Search](https://www.google.com/search?q=foundations+of+probability+theory&oq=foundations+of+probability+theory&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Heteroskedasticity-Consistent Covariance Matrix Estimation - Google Search](https://www.google.com/search?q=Heteroskedasticity-Consistent+Covariance+Matrix+Estimation&oq=Heteroskedasticity-Consistent+Covariance+Matrix+Estimation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Heteroskedasticity-consistent estimation of the covariance matrix of the coefficient estimates in regression models. - Google Search](https://www.google.com/search?q=Heteroskedasticity-consistent+estimation+of+the+covariance+matrix+of+the+coefficient+estimates+in+regression+models.&oq=Heteroskedasticity-consistent+estimation+of+the+covariance+matrix+of+the+coefficient+estimates+in+regression+models.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [hft momentum strategy - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQMmFJbPmoaz1KOvpcxewNOh1ZNTQ%3A1573378945156&lei=gdvHXbyNCbyNr7wP6oyLgAk&q=hft%20momentum%20strategy&ved=2ahUKEwiYyrWurd_lAhVBBKYKHUo4D64QsKwBKAB6BAgDEAE)
+
+- [ ] [how to seasonally adjust data in eviews - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQlJETfewqPkF8Ulzsq9YqYtZKOkg%3A1573377823456&lei=H9fHXce3G4SKr7wPzpa1qA4&q=how%20to%20seasonally%20adjust%20data%20in%20eviews&ved=2ahUKEwjrw4eTqd_lAhUPrpQKHYedCU0QsKwBKAR6BAgCEAU)
+
+- [ ] [how to seasonally adjust data in excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQlJETfewqPkF8Ulzsq9YqYtZKOkg%3A1573377823456&lei=H9fHXce3G4SKr7wPzpa1qA4&q=how%20to%20seasonally%20adjust%20data%20in%20excel&ved=2ahUKEwjrw4eTqd_lAhUPrpQKHYedCU0QsKwBKAJ6BAgCEAM)
+
+- [ ] [how to seasonally adjust data in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQlJETfewqPkF8Ulzsq9YqYtZKOkg%3A1573377823456&lei=H9fHXce3G4SKr7wPzpa1qA4&q=how%20to%20seasonally%20adjust%20data%20in%20r&ved=2ahUKEwjrw4eTqd_lAhUPrpQKHYedCU0QsKwBKAF6BAgCEAI)
+
+- [ ] [how to seasonally adjust data in stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQlJETfewqPkF8Ulzsq9YqYtZKOkg%3A1573377823456&lei=H9fHXce3G4SKr7wPzpa1qA4&q=how%20to%20seasonally%20adjust%20data%20in%20stata&ved=2ahUKEwjrw4eTqd_lAhUPrpQKHYedCU0QsKwBKAB6BAgCEAE)
+
+- [ ] [indian stock market prediction github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSonwbUGYIz93IeTmV_gUk5G9XQnw%3A1573378891239&lei=S9vHXbKNDqSzmAXBlra4Ag&q=indian%20stock%20market%20prediction%20github&ved=2ahUKEwjRnd2Wrd_lAhWDzIsBHaz0B64QsKwBKAR6BAgAEAU)
+
+- [ ] [Introducing Monte Carlo Methods with R - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Introducing+Monte+Carlo+Methods+with+R&stick=H4sIAAAAAAAAAOOQUeLSz9U3SEqKL0zJMpJLys_PVsjPU8jNzytJVUhOLMrJVyjOzC3NSSzJzM-LEvYFizuDxXNTSzLyU4pPMYJNMMstyDK1PMXIq5-ub2iYbJRTZFSVlgaVhBgP5SQbZ5dVGpxi5AGpNErKNU6rMChBcJPjy7PSfzHKOUGdgmwlwimLWNU880qK8lNKkzPz0lEU-ULcpVCeWZKhEAQAJzQ7J-IAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQCA)
+
+- [ ] [introducing monte carlo methods with r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=introducing+monte+carlo+methods+with+r&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoBHoECGgQBQ)
+
+- [ ] [jaffray woodriff strategy - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQMmFJbPmoaz1KOvpcxewNOh1ZNTQ%3A1573378945156&lei=gdvHXbyNCbyNr7wP6oyLgAk&q=jaffray%20woodriff%20strategy&ved=2ahUKEwiYyrWurd_lAhVBBKYKHUo4D64QsKwBKAJ6BAgDEAM)
+
+- [ ] [liquidity and the post earnings announcement drift - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=liquidity+and+the+post+earnings+announcement+drift&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoA3oECGUQBA)
+
+- [ ] [Markov chains - Google Search](https://www.google.com/search?q=Markov+chains&oq=Markov+chains&aqs=chrome..69i57j69i61l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [momentum and post-earnings-announcement drift anomalies the role of liquidity risk - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=momentum+and+post-earnings-announcement+drift+anomalies+the+role+of+liquidity+risk&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoBXoECGUQBg)
+
+- [ ] [Monte Carlo methods - Google Search](https://www.google.com/search?q=Monte+Carlo+methods&oq=Monte+Carlo+methods&aqs=chrome..69i57j69i61j69i60l2&sourceid=chrome&ie=UTF-8#iqh=error)
+
+- [ ] [Monte Carlo methods in finance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Monte+Carlo+methods+in+finance&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDbOLqs0MJJLys_PVsjPU8jNzytJVUhOLMrJVyjOzC3NSSzJzM-LEvYFizuDxXNTSzLyU4pPMYJNMMstyDK1PMXIq5-ub2iYbJRTZFSVlgaVTEqKL0zJgnIgdp1i5AGpNErKNU6rMChBcJPjy7PSfzHKOUGdgmwlwimLWOWwuEUhM08hLTMvMS85FQBOO3Qh2gAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQCg)
+
+- [ ] [Monte Carlo Methods in Financial Engineering - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Monte+Carlo+Methods+in+Financial+Engineering&stick=H4sIAAAAAAAAAOOQUeLRT9c3NErKTY4vz0o3kkvKz89WyM9TyM3PK0lVSE4syslXKM7MLc1JLMnMz4sS9gWLO4PFc1NLMvJTik8xcunn6huY5RZkmVqeYuQFGWiYbJRTZFSVlgaVTEqKL0zJgnKSjbPLKg1OMcKsNk6rMChBcMEu-cUo5wR1CrKVCKcsYtVBlvCFuEUhM0_BLTMvMS85MzFHwTUvPTMvNbUoMy8dAA5ThTHqAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQDg)
+
+- [ ] [Monte Carlo simulation basics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Monte+Carlo+simulation+basics&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ3rMBKAJ6BAhmEEg)
+
+- [ ] [monte carlo simulation example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+example&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoAXoECGgQAg)
+
+- [ ] [monte carlo simulation excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+excel&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoBXoECGgQBg)
+
+- [ ] [monte carlo simulation explained - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+explained&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoAHoECGgQAQ)
+
+- [ ] [monte carlo simulation finance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+finance&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoBnoECGgQBw)
+
+- [ ] [Monte Carlo Simulation in Statistical Physics: An Introduction - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Monte+Carlo+Simulation+in+Statistical+Physics:+An+Introduction&stick=H4sIAAAAAAAAAOOQUeLRT9c3NErKNU6rMCgxkkvKz89WyM9TyM3PK0lVSE4syslXKM7MLc1JLMnMz4sS9gWLO4PFc1NLMvJTik8xcunn6huY5RZkmVqeYuQFGWiYbJRTZFSVlgaVTEqKL0zJgnKSjbPLKg1OMaJYjeAmx5dnpf9ilHOCOgXZSoRTFrHaIUsEwyUUMvMUgkuAzOKSzOTEHIWAjMrizORiKwXHPAXPvJKi_JTSZJA6AJjUDfr8AAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQDA)
+
+- [ ] [monte carlo simulation matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+matlab&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoB3oECGgQCA)
+
+- [ ] [monte carlo simulation steps - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+steps&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoA3oECGgQBA)
+
+- [ ] [Monte Carlo Statistical Methods - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Monte+Carlo+Statistical+Methods&stick=H4sIAAAAAAAAAOOQUeLSz9U3MMstyDK1NJJLys_PVsjPU8jNzytJVUhOLMrJVyjOzC3NSSzJzM-LEvYFizuDxXNTSzLyU4pPMSKZcIqRVz9d39Aw2SinyKgqLQ0qmZQUX5iSBeUkG2eXVRqcYuQBqTRKyjVOqzAoQXCT48uz0n8xyjlBnYJsJcIpi1jlkSWCS4CixSWZyYk5Cr4QdwEAflYmQNsAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQBA)
+
+- [ ] [post earnings announcement drift example - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQMmFJbPmoaz1KOvpcxewNOh1ZNTQ%3A1573378945156&lei=gdvHXbyNCbyNr7wP6oyLgAk&q=post%20earnings%20announcement%20drift%20example&ved=2ahUKEwiYyrWurd_lAhVBBKYKHUo4D64QsKwBKAF6BAgCEAI)
+
+- [ ] [post earnings announcement drift investopedia - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=post+earnings+announcement+drift+investopedia&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoAHoECGUQAQ)
+
+- [ ] [post earnings drift backtest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=post+earnings+drift+backtest&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoAXoECGUQAg)
+
+- [ ] [post earnings drift backtest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ:1573378721550&q=post+earnings+drift+backtest&sa=X&ved=2ahUKEwjp362-rN_lAhWWwosBHWJ0AvwQ1QIoAHoECGQQAQ)
+
+- [ ] [post earnings strategy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=post+earnings+strategy&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoBnoECGUQBw)
+
+- [ ] [post holdings earnings - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=post+holdings+earnings&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoB3oECGUQCA)
+
+- [ ] [Post-Earnings-Announcement Drift r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=Post-Earnings-Announcement+Drift+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQsAR6BAgIEAE)
+
+- [ ] [Post-Earnings-Announcement Drift r code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA%3A1573378725688&ei=pdrHXbnbKcWUr7wPk5uQMA&q=Post-Earnings-Announcement+Drift+r+code&oq=Post-Earnings-Announcement+Drift+r+code&gs_l=psy-ab.3..33i22i29i30.122807.127450..127804...2.3..0.608.2630.0j1j2j2j0j2......0....1..gws-wiz.......0i71j35i302i39j33i299j33i160.uZO-QZsPLfk&ved=0ahUKEwj5warArN_lAhVFyosBHZMNBAYQ4dUDCAs&uact=5)
+
+- [ ] [Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium - Google Search](https://www.google.com/search?q=Post-Earnings-Announcement+Drift%3A+Delayed+Price+Response+or+Risk+Premium&oq=Post-Earnings-Announcement+Drift%3A+Delayed+Price+Response+or+Risk+Premium&aqs=chrome..69i57j69i59l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium? - Google Search](https://www.google.com/search?q=Post-Earnings-Announcement+Drift%3A+Delayed+Price+Response+or+Risk+Premium%3F&oq=Post-Earnings-Announcement+Drift%3A+Delayed+Price+Response+or+Risk+Premium%3F&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [pre earnings announcement drift - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=pre+earnings+announcement+drift&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoAnoECGUQAw)
+
+- [ ] [python stock github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSonwbUGYIz93IeTmV_gUk5G9XQnw%3A1573378891239&lei=S9vHXbKNDqSzmAXBlra4Ag&q=python%20stock%20github&ved=2ahUKEwjRnd2Wrd_lAhWDzIsBHaz0B64QsKwBKAB6BAgAEAE)
+
+- [ ] [quantopian earnings date - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ%3A1573378721550&lei=odrHXamLIZaFr7wP4uiJ4A8&q=quantopian%20earnings%20date&ved=2ahUKEwji3ovBrN_lAhUyBKYKHTmFDzAQsKwBKAF6BAgAEAI)
+
+- [ ] [quantopian earnings strategy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ:1573378721550&q=quantopian+earnings+strategy&sa=X&ved=2ahUKEwjp362-rN_lAhWWwosBHWJ0AvwQ1QIoA3oECGQQBA)
+
+- [ ] [quantopian earnings strategy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ%3A1573378721550&lei=odrHXamLIZaFr7wP4uiJ4A8&q=quantopian%20earnings%20strategy&ved=2ahUKEwji3ovBrN_lAhUyBKYKHTmFDzAQsKwBKAB6BAgAEAE)
+
+- [ ] [quantopian earnings surprise - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ:1573378721550&q=quantopian+earnings+surprise&sa=X&ved=2ahUKEwjp362-rN_lAhWWwosBHWJ0AvwQ1QIoB3oECGQQCA)
+
+- [ ] [quantopian example strategies - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ:1573378721550&q=quantopian+example+strategies&sa=X&ved=2ahUKEwjp362-rN_lAhWWwosBHWJ0AvwQ1QIoBnoECGQQBw)
+
+- [ ] [quantopian short term reversal - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ%3A1573378721550&lei=odrHXamLIZaFr7wP4uiJ4A8&q=quantopian%20short%20term%20reversal&ved=2ahUKEwji3ovBrN_lAhUyBKYKHTmFDzAQsKwBKAV6BAgAEAY)
+
+- [ ] [seasonal adjustment python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQlJETfewqPkF8Ulzsq9YqYtZKOkg%3A1573377823456&lei=H9fHXce3G4SKr7wPzpa1qA4&q=seasonal%20adjustment%20python&ved=2ahUKEwjrw4eTqd_lAhUPrpQKHYedCU0QsKwBKAV6BAgCEAY)
+
+- [ ] [Seasonality Analysis of the Sales - Google Search](https://www.google.com/search?q=Seasonality%20Analysis%20of%20the%20Sales)
+
+- [ ] [Simulation and the Monte Carlo Method Dirk Kroese - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Simulation+and+the+Monte+Carlo+Method+Dirk+Kroese&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2yikyqkpLM5JLys_PVsjPU8jNzytJVUhOLMrJVyjOzC3NSSzJzM-LEvYFizuDxXNTSzLyU4pPMXLp5-obmOUWZJlanmJENREqmZQUX5iSBeUkG2eXVRqcYuQBqTRKyjVOqzAoQXCT48uz0n8xyjlBnYJsJcIpi1gNg-EchcS8FIWSjFQUtb5g5ym4ZBZlK3gX5acWpwIAidRRHvAAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQBg)

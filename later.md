@@ -956,3 +956,348 @@ https://www.nbcnews.com/news/world/police-investigating-bts-member-over-traffic-
 - [ ] [MATH 311, section 503 (Fall 2019)](https://www.math.tamu.edu/~yvorobet/MATH311/MATH311-503.html)
 
 - [ ] [MATH 311, section 504 (Fall 2019)](https://www.math.tamu.edu/~yvorobet/MATH311/MATH311-504.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/10/2019
+
+- [ ] [Reasonable Deviations · a rational approach to complexity](https://reasonabledeviations.com/)
+
+- [ ] [bit.ly](https://bit.ly/36GjWzD)
+
+- [ ] [PDF Search Engine, free search, PDF download](http://printfu.org/)
+
+- [ ] [500 Internal Privoxy Error](http://www.sopdf.com/zh-hans)
+
+- [ ] [DocJax | Find Any Document on the Web](https://docjax.com/)
+
+- [ ] [中国图书进出口(集团)总公司](http://cnplinker.cnpeak.com/)
+
+- [ ] [BASE (Bielefeld Academic Search Engine): Basic Search](https://www.base-search.net/)
+
+- [ ] [German Rodriguez | RAND](https://www.rand.org/pubs/authors/r/rodriguez_german.html)
+
+- [ ] [R developer's guide to Azure - R programming | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/r-developers-guide?WT.mc_id=RevolutionsSidebar-blog-davidsmi)
+
+- [ ] [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/)
+
+- [ ] [R-Project and Other Free Software Tools - AnalyticBridge](https://www.analyticbridge.datasciencecentral.com/group/rprojectandotherfreesoftwaretools)
+
+- [ ] [should stata just give up and die? | orgtheory.net](https://orgtheory.wordpress.com/2017/09/08/should-stata-just-give-up-and-die/)
+
+- [ ] [The Causes and Consequences of Chinese Inflation](https://www.worldpoliticsreview.com/articles/7373/the-causes-and-consequences-of-chinese-inflation)
+
+- [ ] [American Economic Association](https://www.aeaweb.org/research/do-chinese-govt-inflation-data-hold-up-scrutiny)
+
+- [ ] [Chinese Inflation and the Renminbi](https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-trends/economic-trends-archives/2008-economic-trends/et-20080207-chinese-inflation-and-the-renminbi.aspx)
+
+- [ ] [China's Inflation and Political Cycles by Zhuoqun Wang :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2677299)
+
+- [ ] [China Inflation Rate 1986 - 2019](https://www.fxempire.com/macro/china/inflation-rate)
+
+- [ ] [How Google’s featured snippets work - Google Search Help](https://support.google.com/websearch/answer/9351707?p=featured_snippets&hl=en&visit_id=637089623962725810-575593120&rd=1)
+
+- [ ] [Impact of Inflation on China’s Economy](https://www.ukessays.com/essays/economics/inflation-and-its-impact-on-the-chinese-economy-economics-essay.php)
+
+- [ ] [【经济指标解读专栏】CPI指数分析手册 - 知乎](https://zhuanlan.zhihu.com/p/55891290)
+
+- [ ] [天风策略：A股正进行三层面变革 穿越周期的投资逻辑- 趋势策略_赢家财富网](http://www.yjcf360.com/qushi/18018808.htm)
+
+- [ ] [焦点：中国3月CPI重返“2时代” 新一轮猪周期已经启动 - Reuters](https://www.reuters.com/article/china-march-inflation-cpi-0411-idCNKCS1RN09Z)
+
+- [ ] [Google Translate](https://translate.google.com/?source=osdd#auto|auto|%E6%B1%A1%E6%9F%93)
+
+- [ ] [How To Identify Patterns in Time Series Data: Time Series Analysis](http://www.statsoft.com/textbook/time-series-analysis)
+
+- [ ] [How To Adjust Your Business Data For Seasonality](https://www.forbes.com/sites/billconerly/2014/12/17/how-to-adjust-your-business-data-for-seasonality/#1c30b495421c)
+
+- [ ] [How to Create a Rolling Forecast of Seasonal Sales in Excel](http://www.exceluser.com/excel_dashboards/seasonality-sales.htm)
+
+- [ ] [805 - Google Docs](https://docs.google.com/document/d/1gmP-xhSg2L1pZo7RivoRkPoaVE8GoBoOA28nKzEqAbI/edit)
+
+- [ ] [Federal funds rate - Wikipedia](https://en.wikipedia.org/wiki/Federal_funds_rate)
+
+- [ ] [What Explains the Stock Market's Reaction to Federal Reserve Policy? - BERNANKE - 2005 - The Journal of Finance - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2005.00760.x)
+
+- [ ] [untitled - 200416pap.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.federalreserve.gov/pubs/feds/2004/200416/200416pap.pdf)
+
+- [ ] [What Explains the Stock Market's Reaction to Federal Reserve Policy? by Ben S. Bernanke, Kenneth N. Kuttner :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=890610)
+
+- [ ] [What explains the stock market's reaction to Federal Reserve policy?](https://ideas.repec.org/p/fip/fedgfe/2004-16.html)
+
+- [ ] [What Explains the Stock Market's Reaction to Federal Reserve Policy?](https://www.nber.org/papers/w10402)
+
+- [ ] [Bayesian Survival Analysis — PyMC3 3.6 documentation](https://docs.pymc.io/notebooks/survival_analysis.html?highlight=random%20walk)
+
+- [ ] [Event History Analysis - Rodriguez - - Major Reference Works - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/0471667196.ess0637.pub3)
+
+- [ ] [Some of my favorite <strong>R</strong> resources for current and future User<strong>R</strong>s, along with other resources for statistics educators and everyone interested in <strong>reproducible research</strong>.](http://rstudio-pubs-static.s3.amazonaws.com/6279_6cc216b37c6c4424959ce07c8f15b27e.html)
+
+- [ ] [The robust sandwich variance estimator for linear regression (using R) – The Stats Geek](https://thestatsgeek.com/2014/02/14/the-robust-sandwich-variance-estimator-for-linear-regression-using-r/)
+
+- [ ] [5.4 Heteroskedasticity and Homoskedasticity | Introduction to Econometrics with R](https://www.econometrics-with-r.org/5-4-hah.html)
+
+- [ ] [Heteroskedasticity Robust Standard Errors in R · r-econometrics](https://www.r-econometrics.com/methods/hcrobusterrors/)
+
+- [ ] [R robust se - ECLR](http://eclr.humanities.manchester.ac.uk/index.php/R_robust_se)
+
+- [ ] [Summary of Linear Regression Models as HTML Table • sjPlot](http://www.strengejacke.de/sjPlot/articles/sjtlm.html)
+
+- [ ] [Elegant regression results tables and plots in R: the finalfit package | R-bloggers](https://www.r-bloggers.com/elegant-regression-results-tables-and-plots-in-r-the-finalfit-package/)
+
+- [ ] [Summary of Regression Models as HTML Table](https://cran.r-project.org/web/packages/sjPlot/vignettes/tab_model_estimates.html)
+
+- [ ] [Linear Regression Models with Logarithmic Transformations - PDF](https://docplayer.net/20964978-Linear-regression-models-with-logarithmic-transformations.html)
+
+- [ ] [Linear Regression Models with Logarithmic Transformations](https://studylib.net/doc/8388341/linear-regression-models-with-logarithmic-transformations)
+
+- [ ] [Logmodels 2 - Lecture notes 2 - Financial Economics MS135 - StuDocu](https://www.studocu.com/en/document/lahore-school-of-economics/financial-economics/lecture-notes/logmodels-2-lecture-notes-2/2966433/view)
+
+- [ ] [How robust is the renewable energy industry to political shocks? Evidence from the 2016 U.S. elections | Business and Politics | Cambridge Core](https://www.cambridge.org/core/journals/business-and-politics/article/how-robust-is-the-renewable-energy-industry-to-political-shocks-evidence-from-the-2016-us-elections/CAE5D8F7A7FF21D86DC003B08ADB0FAE)
+
+- [ ] [ResearchGate](https://www.researchgate.net/figure/Estimation-window-and-event-window-in-a-generic-event-study_fig1_259576601)
+
+- [ ] [R Weekly 2019-27 R artefacts, reordering, ggchicklet - RWeekly.org - Blogs to Learn R from the Community](https://rweekly.org/2019-27)
+
+- [ ] [Home - RWeekly.org - Blogs to Learn R from the Community](https://rweekly.org/)
+
+- [ ] [Sean Kross](http://seankross.com/)
+
+- [ ] [www.math.wm.edu/~leemis/BiVarAPPL.txt](http://www.math.wm.edu/~leemis/BiVarAPPL.txt)
+
+- [ ] [www.math.wm.edu/~leemis/QueueAPPL.txt](http://www.math.wm.edu/~leemis/QueueAPPL.txt)
+
+- [ ] [Larry Leemis - Videos](http://www.math.wm.edu/~leemis/videos/probability/)
+
+- [ ] [www.math.wm.edu/~leemis/reltext2.ex](http://www.math.wm.edu/~leemis/reltext2.ex)
+
+- [ ] [Sean Kross](https://leanpub.com/u/seankross)
+
+- [ ] [The Unix Workbench by Sean Kross [Leanpub PDF/iPad/Kindle]](https://leanpub.com/unix)
+
+- [ ] [The Unix Workbench](https://seankross.com/the-unix-workbench/)
+
+- [ ] [R as a First Programming Language](http://seankross.com/2019/10/27/R-as-a-First-Programming-Language.html)
+
+- [ ] [Skaket - A Jekyll Blog Theme](http://seankross.com/2014/02/03/Skaket.html)
+
+- [ ] [Making This Site](http://seankross.com/2014/01/25/Making-This-Site.html)
+
+- [ ] [mtcars as a Service](http://seankross.com/2014/08/01/mtcars-as-a-Service.html)
+
+- [ ] [A Q-Q Plot Dissection Kit](http://seankross.com/2016/02/29/A-Q-Q-Plot-Dissection-Kit.html)
+
+- [ ] [Drone Visualization Challenge](http://seankross.com/2016/04/05/Drone-Visualization-Challenge.html)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/project/634440)
+
+- [ ] [Econometric Computing with HC and HAC Covariance Matrix Estimators | Zeileis | Journal of Statistical Software](https://www.jstatsoft.org/article/view/v011i10)
+
+- [ ] [Object-oriented Computation of Sandwich Estimators | Zeileis | Journal of Statistical Software](https://www.jstatsoft.org/article/view/v016i09)
+
+- [ ] [R Code | Joshua Gubler](https://joshuagubler.com/r-code/)
+
+- [ ] [https://rstudio-pubs-static.s3.amazonaws.com/108778_2b9f991a58644b30875106abe99a0f28.html](https://rstudio-pubs-static.s3.amazonaws.com/108778_2b9f991a58644b30875106abe99a0f28.html)
+
+- [ ] [EconPapers: Event Studies in Economics and Finance](https://econpapers.repec.org/article/aeajeclit/v_3a35_3ay_3a1997_3ai_3a1_3ap_3a13-39.htm)
+
+- [ ] [Conducting Event Studies With Stata | Event Study Tools](https://www.eventstudytools.com/stata)
+
+- [ ] [ResearchGate](https://www.researchgate.net/post/How_do_you_set_up_an_event_window_for_multiple_events_that_took_place_in_a_short_period_of_time)
+
+- [ ] [Time-To-Event Data Analysis | Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/research/population-health-methods/time-event-data-analysis)
+
+- [ ] [DSS - Stata](https://dss.princeton.edu/online_help/stats_packages/stata/eventstudy.html)
+
+- [ ] [Actuarial Analysis](https://www.investopedia.com/terms/a/actuarialanalysis.asp)
+
+- [ ] [Event Study](https://www.investopedia.com/terms/e/eventstudy.asp)
+
+- [ ] [Seasonality Definition](https://www.investopedia.com/terms/s/seasonality.asp)
+
+- [ ] [Arbitrage anyone? « Probability and statistics blog](https://statisticsblog.com/2015/09/28/arbitrage-anyone/)
+
+- [ ] [epistomology « Probability and statistics blog](https://statisticsblog.com/category/epistomology/)
+
+- [ ] [JavaScript « Probability and statistics blog](https://statisticsblog.com/category/javascript/)
+
+- [ ] [probability « Probability and statistics blog](https://statisticsblog.com/category/probability/)
+
+- [ ] [Probability and statistics blog](https://statisticsblog.com/)
+
+- [ ] [Probability Podcast Ep2: Imprecise probabilities with Gert de Cooman « Probability and statistics blog](https://statisticsblog.com/2016/03/15/probability-podcast-ep2-imprecise-probabilities-with-gert-de-cooman/)
+
+- [ ] [Probability Podcast Ep2: Imprecise probabilities with Gert de Cooman « Probability and statistics blog](https://statisticsblog.com/2016/03/15/probability-podcast-ep2-imprecise-probabilities-with-gert-de-cooman/)
+
+- [ ] [r « Probability and statistics blog](https://statisticsblog.com/category/r/)
+
+- [ ] [Random samples in JS using R functions « Probability and statistics blog](https://statisticsblog.com/2015/10/15/random-samples-in-js-using-r-functions/)
+
+- [ ] [Set theory « Probability and statistics blog](https://statisticsblog.com/category/set-theory/)
+
+- [ ] [simulations « Probability and statistics blog](https://statisticsblog.com/category/simulations/)
+
+- [ ] [Statistical computation in JavaScript — am I nuts? « Probability and statistics blog](https://statisticsblog.com/2013/02/28/statistical-computation-in-javascript-am-i-nuts/#comment-597)
+
+- [ ] [The epistemology crisis « Probability and statistics blog](https://statisticsblog.com/2018/11/26/the-epistemology-crisis/)
+
+- [ ] [The epistemology crisis « Probability and statistics blog](https://statisticsblog.com/2018/11/26/the-epistemology-crisis/)
+
+- [ ] [The surprisingly weak case for global warming « Probability and statistics blog](https://statisticsblog.com/2012/12/03/the-surprisingly-weak-case-for-global-warming/#comment-502)
+
+- [ ] [Visualising random variables, Terence Tao style « Probability and statistics blog](https://statisticsblog.com/2016/05/24/visualising-random-variables-terence-tao-style/)
+
+- [ ] [Visualising random variables, Terence Tao style « Probability and statistics blog](https://statisticsblog.com/2016/05/24/visualising-random-variables-terence-tao-style/)
+
+- [ ] [02 Ep2 Imprecise Probabilities With Gert De Cooman by MattAsher | Matt Asher | Free Listening on SoundCloud](https://soundcloud.com/mattasher/02-ep2-imprecise-probabilities-with-gert-de-cooman)
+
+- [ ] [Monte Carlo error analysis](https://web.northeastern.edu/afeiguin/phys5870/phys5870/node71.html)
+
+- [ ] [An Overview of Monte Carlo Methods - Towards Data Science](https://towardsdatascience.com/an-overview-of-monte-carlo-methods-675384eb1694)
+
+- [ ] [Tracks and playlists tagged probability | Free Listening on SoundCloud](https://soundcloud.com/tags/probability)
+
+- [ ] [Getting started with R, for Stata users (Revolutions)](https://blog.revolutionanalytics.com/2013/11/getting-started-with-r-for-stata-users.html)
+
+- [ ] [Putting the R in Hallowe'en (Revolutions)](https://blog.revolutionanalytics.com/2011/10/putting-the-r-in-halloween.html)
+
+- [ ] [Revolutions: finance](https://blog.revolutionanalytics.com/finance/)
+
+- [ ] [Guofu   Zhou](http://apps.olin.wustl.edu/faculty/zhou/)
+
+- [ ] [Big data in finance: Evidence and challenges - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2214845019302650)
+
+- [ ] [Evidence that Prices Do Not Fully Reflect the Implications of Current Earnings for Future Earnings: An Experimental Markets Approach* - CALEGARI - 1997 - Contemporary Accounting Research - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1911-3846.1997.tb00534.x)
+
+- [ ] [给你的动量选股策略加点“料” - 知乎](https://zhuanlan.zhihu.com/p/40468929)
+
+- [ ] [Post-Earnings Announcement Effect - QuantPedia](https://quantpedia.com/strategies/post-earnings-announcement-effect/)
+
+- [ ] [Hacking 8 Algos - By](https://hackernoon.com/hacking-8-algos-161d1f28dcf3)
+
+- [ ] [Quantitative Trading: Pre-earnings Annoucement Strategies](http://epchan.blogspot.com/2016/11/pre-earnings-annoucement-strategies.html)
+
+- [ ] ["Trend Analysis of the Post-Earnings Announcement Drift Post-Earnings Gap Chart Pattern: A Quantitative Investigation" by Jones, William M.; Lacewell, Stephen K. - Academy of Accounting and Financial Studies Journal, Vol. 18, Issue 1, January 2014 | Online Research Library: Questia](https://www.questia.com/library/journal/1G1-370031061/trend-analysis-of-the-post-earnings-announcement-drift)
+
+- [ ] [Arbitrage Risk and Post-Earnings-Announcement Drift by Richard R. Mendenhall :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=315243)
+
+- [ ] [Financial modelling | jonah kadoko](http://www.jonahkadoko.com/2017/07/20/financial-modelling/)
+
+- [ ] [Welcome to Python.org](https://www.python.org/)
+
+- [ ] [Entry on long straddles to anticipate earnings surprises by Jarett Dunn - QuantConnect.com](https://www.quantconnect.com/forum/discussion/2042/entry-on-long-straddles-to-anticipate-earnings-surprises)
+
+- [ ] [<4D6963726F736F667420506F776572506F696E74202D208D9193798CF092CA90AD8DF48CA48B868F8A8CA48B8694AD955C89EF814093A1FAB1312E707074205B8CDD8AB78382815B83685D> - siryou5.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.mlit.go.jp/pri/kouenkai/syousai/pdf/kenkyuuhapyou11.03.15/siryou5.pdf)
+
+- [ ] [1553118X.2017.1378220](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.tandfonline.com/doi/pdf/10.1080/1553118X.2017.1378220)
+
+- [ ] [becker-rf-lit-review-2018.ashx](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cfainstitute.org/-/media/documents/book/rf-lit-review/2018/becker-rf-lit-review-2018.ashx)
+
+- [ ] [Campbell_Lo_Mackinlay_The_Econometrics_of_Financial_Market.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://epge.fgv.br/we/MD/EconometriaAplicadaFinancas/2009?action=AttachFile&do=get&target=Campbell_Lo_Mackinlay_The_Econometrics_of_Financial_Market.pdf)
+
+- [ ] [clustering1.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.ne.su.se/polopoly_fs/1.216115.1426234213!/menu/standard/file/clustering1.pdf)
+
+- [ ] [Do individual investors drive post-earnings announcement drift - Do-Individual-Investors-Drive-Post-Earnings-Announcement-Drift_-Direct-Evidence-from-Personal-Trades.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://sites.uci.edu/steoh/files/2012/08/Do-Individual-Investors-Drive-Post-Earnings-Announcement-Drift_-Direct-Evidence-from-Personal-Trades.pdf)
+
+- [ ] [download](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.4043&rep=rep1&type=pdf)
+
+- [ ] [FAJ.JA09.book - PEAD_FAJ.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.hec.unil.ch/agoyal/docs/PEAD_FAJ.pdf)
+
+- [ ] [FrickeE_Web14_2_.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.m.www.na-businesspress.com/JAF/FrickeE_Web14_2_.pdf)
+
+- [ ] [HMMT_pead_rev20.PDF - cf754d46450a95c5881768f9501f4b0fd4d9.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://pdfs.semanticscholar.org/f18c/cf754d46450a95c5881768f9501f4b0fd4d9.pdf)
+
+- [ ] [liquidity050305.dvi - sadka_liquidity_momentum.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://faculty.chicagobooth.edu/john.cochrane/teaching/Advanced_Asset_Pricing_GSB_35911_Econ_39502/sadka_liquidity_momentum.pdf)
+
+- [ ] [martineauJMP.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://faculty.comm.virginia.edu/sdb7e/files/mcintireSeminars/martineauJMP.pdf)
+
+- [ ] [Microsoft PowerPoint - Lecture 6.ppt [Compatibility Mode] - lecture 6.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.bauer.uh.edu/rsusmel/phd/lecture%206.pdf)
+
+- [ ] [Microsoft Word - Revised_Li_Zhang_2010_01_02_TAR.doc - Jobmarketpaper_LiZhang.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://raw.rutgers.edu/docs/seminars/Jobmarketpaper_LiZhang.pdf)
+
+- [ ] [PowerPoint Presentation - NiceOutputR.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.princeton.edu/~otorres/NiceOutputR.pdf)
+
+- [ ] [PreEA_15Feb2010.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www3.nd.edu/~pgao/papers/PreEA_15Feb2010.pdf)
+
+- [ ] [Quantitative Trading: How to Build Your Own Algorithmic Trading Business (Wiley Trading) - 4c7037365a4bf1623734c1c899baed7855061ace.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.myquant.cn/uploads/default/original/1X/4c7037365a4bf1623734c1c899baed7855061ace.pdf)
+
+- [ ] [Sloan_1996_TAR.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://econ.au.dk/fileadmin/Economics_Business/Education/Summer_University_2012/6308_Advanced_Financial_Accounting/Advanced_Financial_Accounting/2/Sloan_1996_TAR.pdf)
+
+- [ ] [MS&E 448](http://stanford.edu/class/msande448/)
+
+- [ ] [Benny-/Yahoo-ticker-symbol-downloader: A web scraper for ticker symbols from yahoo finance](https://github.com/Benny-/Yahoo-ticker-symbol-downloader)
+
+- [ ] [Estimize/estimize-research-py](https://github.com/Estimize/estimize-research-py)
+
+- [ ] [mbhutton/chrome-duplicate-tab-detector: An extension for Google Chrome which navigates to an existing tab when opening a duplicate new tab](https://github.com/mbhutton/chrome-duplicate-tab-detector)
+
+- [ ] [MetaMask/metamask-extension: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites.](https://github.com/MetaMask/metamask-extension)
+
+- [ ] [MichaelDz6/Yahoo_Finance_ETFs_Web_Scraper](https://github.com/MichaelDz6/Yahoo_Finance_ETFs_Web_Scraper)
+
+- [ ] [pdsteele/DES-Python: C code from Discrete Event Simulation: A First Course translated into Python](https://github.com/pdsteele/DES-Python)
+
+- [ ] [robertmartin8/MachineLearningStocks: Using python and scikit-learn to make stock predictions](https://github.com/robertmartin8/MachineLearningStocks)
+
+- [ ] [robust standard errors: will tidy.coeftest(., conf.int=TRUE) ever be possible? · Issue #663 · tidymodels/broom](https://github.com/tidymodels/broom/issues/663)
+
+- [ ] [robust standard errors: will tidy.coeftest(., conf.int=TRUE) ever be possible? · Issue #663 · tidymodels/broom](https://github.com/tidymodels/broom/issues/663)
+
+- [ ] [(39) Dates Magic - Analyzing Trends & Seasonality in Tableau - YouTube](https://www.youtube.com/watch?v=I3ied_WmZNE)
+
+- [ ] [(39) Forecasting Methods made simple - Seasonal Indices - YouTube](https://www.youtube.com/watch?v=nXweMiI7Q8Q)
+
+- [ ] [(39) Forecasting with Seasonality - YouTube](https://www.youtube.com/watch?v=uWvSnJ6rbsc)
+
+- [ ] [(39) Maths Tutorial: Seasonal Indices (Seasonal Index) - YouTube](https://www.youtube.com/watch?v=7Ug2zA0M-1Y)
+
+- [ ] [(39) R for Economists Bonus 2: estimatr for cluster or robust standard errors, and instrumental variables - YouTube](https://www.youtube.com/watch?v=9TDCuN1Mzzo)
+
+- [ ] [(39) R12. Robust/White Standard Errors. (Econometrics in R) - YouTube](https://www.youtube.com/watch?v=hFoDDwTF4KY)
+
+- [ ] [(39) Algorithmic Trading with Python and Quantopian p. 1 - YouTube](https://www.youtube.com/watch?v=GlV_QO5B2eU)
+
+- [ ] [Basic Excel Business Analytics #56: Forecasting with Linear Regression: Trend & Seasonal Pattern - YouTube](https://www.youtube.com/watch?v=w9LXjZfcgOo)
+
+- [ ] [Basic Excel Business Analytics #56: Forecasting with Linear Regression: Trend & Seasonal Pattern - YouTube](https://www.youtube.com/watch?v=w9LXjZfcgOo)
+
+- [ ] [Excel Forecasting Seasonal Data - YouTube](https://www.youtube.com/watch?v=XzlgKBkJJr0)
+
+- [ ] [Robust or Clustered Errors and Post-Regression Statistics - R for Economists Moderate 2 - YouTube](https://www.youtube.com/watch?v=d9B-ySRR2GA)
+
+- [ ] [Seasonal Adjusted Trend Forecast - YouTube](https://www.youtube.com/watch?v=RNtgFcJcIkk)
+
+- [ ] [Seasonality Predictions in Excel - YouTube](https://www.youtube.com/watch?v=bT40YnizaOQ)
+
+- [ ] [Do Individual Investors Cause Post-Earnings Announcement Drift? Direct Evidence from Personal Trades on JSTOR](https://www.jstor.org/stable/30243805?seq=1#page_scan_tab_contents)
+
+- [ ] [Do Stock Prices Fully Reflect the Implications of Current Earnings for Future Earnings for AR1 Firms? on JSTOR](https://www.jstor.org/stable/2672926?seq=1#page_scan_tab_contents)
+
+- [ ] [Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium? on JSTOR](https://www.jstor.org/stable/2491062?seq=1#page_scan_tab_contents)
+
+- [ ] [The Conflicting Vernacular: Germán Rodríguez Arias and Pablo Neruda's Three Houses in Chile on JSTOR](https://www.jstor.org/stable/20778851?seq=1#page_scan_tab_contents)
+
+- [ ] [Post-Earnings Drift Trading Strategy with Estimize (PEAD)](https://www.quantopian.com/posts/post-earnings-drift-trading-strategy-with-estimize-pead)
+
+- [ ] [Post-Earnings Drift Trading Strategy with Estimize (PEAD)](https://www.quantopian.com/posts/post-earnings-drift-trading-strategy-with-estimize-pead)
+
+- [ ] [Financial Econometrics: Models and Methods - Oliver Linton - Google Books](https://books.google.com/books?id=eJiHDwAAQBAJ&pg=PA206&lpg=PA206&dq=estimation+window%E2%80%9D+and+the+%E2%80%9Cevent+window&source=bl&ots=YyyQHimQ4s&sig=ACfU3U3tBk5RYmku-SaSoH0qH1tLT62wWw&hl=en&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQ6AEwDnoECGMQAQ#v=onepage&q=estimation%20window%E2%80%9D%20and%20the%20%E2%80%9Cevent%20window&f=false)
+
+- [ ] [Information Systems Outsourcing: Enduring Themes, Global Challenges, and ... - Google Books](https://books.google.com/books?id=_M91NYmLe6gC&pg=PA203&lpg=PA203&dq=estimation+window%E2%80%9D+and+the+%E2%80%9Cevent+window&source=bl&ots=ms_5wleqqz&sig=ACfU3U0NkDwDJzkR_JAU4wuLvYYCaI7urA&hl=en&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQ6AEwDXoECGIQAQ#v=onepage&q=estimation%20window%E2%80%9D%20and%20the%20%E2%80%9Cevent%20window&f=false)
+
+- [ ] [Multinationality: Earnings, Efficiency, and Market Considerations - Ahmed Riahi-Belkaoui - Google Books](https://books.google.com/books?id=7X33ZjAH66EC&pg=PA34&lpg=PA34&dq=Post-Earnings-Announcement+Drift+r&source=bl&ots=ZFhf3-CPWu&sig=ACfU3U3AfWfjG9wvN5g1Jtn8_qI65rYLug&hl=en&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ6AEwUnoECGMQAQ#v=onepage&q=Post-Earnings-Announcement%20Drift%20r&f=false)
+
+- [ ] [Statistical Techniques for Forensic Accounting: Understanding the Theory and ... - Saurav K. Dutta - Google Books](https://books.google.com/books?id=xX5V83o2kHgC&pg=PA243&lpg=PA243&dq=logy%3D%CE%B1%2B%CE%B2logx%2B%CE%B5+how+to+interpret+beta&source=bl&ots=8Zcb9-5hAj&sig=ACfU3U1z3DqFHIErd3YD-JIcb6lN3RasPA&hl=en&sa=X&ved=2ahUKEwj83aesl9_lAhWhy4sBHWjbBPcQ6AEwAHoECCwQAQ#v=onepage&q=logy%3D%CE%B1%2B%CE%B2logx%2B%CE%B5%20how%20to%20interpret%20beta&f=false)
