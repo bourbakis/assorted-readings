@@ -560,3 +560,47 @@ https://www.nbcnews.com/news/world/police-investigating-bts-member-over-traffic-
 - [ ] [Modern portfolio theory - Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 
 - [ ] []()
+
+
+
+
+
+
+
+
+
+## 11/9/2019
+
+- [ ] [sample covariance matrix excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT37AWjQdrRzna83I8eTRj-f68XtQ%3A1573168720598&ei=UKbEXZL-I4G8mAXt-auYBQ&q=sample+covariance+matrix+excel&oq=sample+covariance+matrix+exc&gs_l=psy-ab.1.0.0j0i22i30j0i333l3.2864.3809..4829...0.4..0.181.537.0j4......0....1..gws-wiz.......0i71j0i67j0i20i263.dMzA01w4l2E)
+
+- [ ] [sharp ratio excel - Google Search](https://www.google.com/search?q=sharp+ratio+excel&oq=sharp+ratio+excel&aqs=chrome..69i57j0l6.6958j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [sharpe ratio excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTojl-xYABCwgbfm3roUO7iPtj8yA:1573169083998&q=sharpe+ratio+excel&tbm=isch&source=univ&sa=X&ved=2ahUKEwiDkrHDn9nlAhXLKqYKHZWrA5EQsAR6BAgIEAE)
+
+- [ ] [Using the estimated means and the sample covariance matrix, compute the global minimum variance portfolio - Google Search](https://www.google.com/search?q=Using+the+estimated+means+and+the+sample+covariance+matrix%2C+compute+the+global+minimum+variance+portfolio&oq=Using+the+estimated+means+and+the+sample+covariance+matrix%2C+compute+the+global+minimum+variance+portfolio&aqs=chrome..69i57.1181j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [bettersolutions.com](https://bettersolutions.com/excel/functions/matrix-category.htm)
+
+- [ ] [Matrix Operations | Real Statistics Using Excel](http://www.real-statistics.com/matrices-and-iterative-procedures/matrix-operations/)
+
+- [ ] [www.engineerexcel.com](https://www.engineerexcel.com/matrix-multiplication-in-excel/)
+
+- [ ] [What Is a Good Sharpe Ratio?](https://www.investopedia.com/ask/answers/010815/what-good-sharpe-ratio.asp)
+
+- [ ] [www.investopedia.com](https://www.investopedia.com/ask/answers/010815/how-do-you-calculate-sharpe-ratio-excel.asp)
+
+- [ ] [Sharpe Ratio Formula | Calculator (Excel template)](https://www.educba.com/sharpe-ratio-formula/)
+
+- [ ] [Use the Analysis ToolPak to perform complex data analysis - Office Support](https://support.office.com/en-us/article/use-the-analysis-toolpak-to-perform-complex-data-analysis-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6?NS=EXCEL&Version=19&SysLcid=1033&UiLcid=1033&AppVer=ZXL190&HelpId=xladdin.chm1802&ui=en-US&rs=en-US&ad=US)
+
+- [ ] [Rolling Sharpe Ratio - Breaking Down Finance](https://breakingdownfinance.com/finance-topics/performance-measurement/rolling-sharpe-ratio/)
+
+- [ ] [Modified Sharpe Ratio - Invest Solver](https://investsolver.com/modified-sharpe-ratio/)
+
+- [ ] [Sharpe Ratio | Comprehensive Guide with Excel Examples](https://www.wallstreetmojo.com/sharpe-ratio/)
+
+- [ ] [Breaking Into Wall Street (BIWS) – Review + Sample Videos + Free $397 Bonus](https://www.financewalk.com/biws-review/)
+
+- [ ] [Sharpe Ratio Formula | Calculator (Excel template)](https://www.educba.com/sharpe-ratio-formula/)
+
+- [ ] [client.login.rstudio.cloud](https://client.login.rstudio.cloud/oauth/login?show_auth=0&show_login=0&show_setup=1)
