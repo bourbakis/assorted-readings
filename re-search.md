@@ -1913,3 +1913,622 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 - [ ] [google sheets efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSQQdaa_rHTv2ZQ9DXVORTyZUTGTg:1573171083222&q=google+sheets+efficient+frontier&tbm=isch&source=univ&ved=2ahUKEwiWhdj8ptnlAhUGBKYKHYAHBMYQsAR6BAgDEAE)
 
 - [ ] [Portfolio Theory Calculation sheet - Google Search](https://www.google.com/search?q=Portfolio+Theory+Calculation+sheet&oq=Portfolio+Theory+Calculation+sheet&aqs=chrome..69i57j0l7.3047j0j1&sourceid=chrome&ie=UTF-8)
+
+
+
+
+
+
+## 11/9/2019
+
+- [ ] [Adjustment coefficient - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTQRuuyJjKcjCQ7MZZgLqOeUxRh0g%3A1573276824076&ei=mEzGXdmrBIaFr7wPyeW7qAg&q=Adjustment+coefficient&oq=Adjustment+coefficient&gs_l=psy-ab.3..35i39l2j0i67j0j0i22i30l6.15315.15315..15491...0.0..0.100.100.0j1......0....1..gws-wiz.kZegDJLYkiM&ved=0ahUKEwjZ1-3xsNzlAhWGwosBHcnyDoUQ4dUDCAs&uact=5)
+
+- [ ] [An Introduction to Mathematical Risk Theory - Google Search](https://www.google.com/search?q=An+Introduction+to+Mathematical+Risk+Theory&oq=An+Introduction+to+Mathematical+Risk+Theory&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [asymptotic distribution of mle in r - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQ6DhHabjkg37q1bCXLQSS7c_35RQ:1573270008034&q=asymptotic+distribution+of+mle+in+r&sa=X&ved=2ahUKEwjuttu_l9zlAhUJvZQKHYydBggQ1QIoBnoECGQQBw)
+
+- [ ] [Continuous univariate distribution - Google Search](https://www.google.com/search?q=Continuous+univariate+distribution&oq=Continuous+univariate+distribution&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Error in optim(theta.old, fun, gradient, control = control, method = method, : function cannot be evaluated at initial parameters - Google Search](https://www.google.com/search?q=Error%20in%20optim%28theta.old%2C%20fun%2C%20gradient%2C%20control%20%3D%20control%2C%20method%20%3D%20method%2C%20%3A%20function%20cannot%20be%20evaluated%20at%20initial%20parameters)
+
+- [ ] [exponential mle in r - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQ6DhHabjkg37q1bCXLQSS7c_35RQ:1573270008034&q=exponential+mle+in+r&sa=X&ved=2ahUKEwjuttu_l9zlAhUJvZQKHYydBggQ1QIoBHoECGQQBQ)
+
+- [ ] [find the maximum likelihood estimator of θ - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSNod67YO9oZdW7UtM9D3k8EstMJw%3A1573263852159&lei=7BnGXfSQCdaVr7wPjcei4Ag&q=find%20the%20maximum%20likelihood%20estimator%20of%20%CE%B8&ved=2ahUKEwiQv-XQgNzlAhXzyosBHQOQAKcQsKwBKAR6BAgGEAU)
+
+- [ ] [finding fisher information in r - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRI0PI7ShmHBoE-2btPrxiep3NglQ%3A1573269880452&lei=eDHGXYSXG5Lc0gSxla3IDQ&q=finding%20fisher%20information%20in%20r&ved=2ahUKEwjf-O6Hl9zlAhU9L6YKHXHKD9gQsKwBKAF6BAgCEAI)
+
+- [ ] [fit weibull distribution r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRWzQ6rfJbBi6-6aLQkKjUnRK0odQ%3A1573271776217&ei=4DjGXd_0DISwmAWL6ZegAw&q=fit+weibull+distribution+r&oq=fit+weibull+distribution&gs_l=psy-ab.1.0.0i71l8.0.0..3863...0.2..0.0.0.......0......gws-wiz.Oz4bqyy3cvM)
+
+- [ ] [gamma in r - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNQ6DhHabjkg37q1bCXLQSS7c_35RQ%3A1573270008034&lei=-DHGXe7aAYn60gSMu5pA&q=gamma%20in%20r&ved=2ahUKEwjgwKfBl9zlAhWQv5QKHTpMCPkQsKwBKAJ6BAgBEAM)
+
+- [ ] [How Important is Financial Risk - Google Search](https://www.google.com/search?q=How+Important+is+Financial+Risk&oq=How+Important+is+Financial+Risk&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [initial value in 'vmmin' is not finite - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS0-XVrWsvuVTOUEfwaKX6hilxaaw%3A1573272286676&lei=3jrGXZHMKJOFr7wPz-ex0Ac&q=initial%20value%20in%20%27vmmin%27%20is%20not%20finite&ved=2ahUKEwiGhe__n9zlAhW0yIsBHe3mC7gQsKwBKAR6BAgAEAU)
+
+- [ ] [introduction to ruin theory - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSE-0a4Vp8lmvkPk2irVhxEPeiRXA%3A1573275509990&lei=dUfGXeCIPLGRr7wPr8qAyAI&q=introduction%20to%20ruin%20theory&ved=2ahUKEwjeqJCArNzlAhXqxYsBHaUACYEQsKwBKAJ6BAgAEAM)
+
+- [ ] [maximum likelihood estimation fit log-normal r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQVrAnLV-i4IZDYqRZ0MQAPOYp9Jg%3A1573263770077&ei=mhnGXb-rBMyXr7wPwJOQwAI&q=maximum+likelihood+estimation+fit+log-normal+r&oq=maximum+likelihood+estimation+fit+log-normal+r&gs_l=psy-ab.3..33i22i29i30.84566.84915..86028...0.2..0.205.343.0j1j1......0....1..gws-wiz.......0i71j0i13j0i333.8WUaqShgXog&ved=0ahUKEwi_4JyhgNzlAhXMy4sBHcAJBCgQ4dUDCAs&uact=5)
+
+- [ ] [maximum likelihood estimation in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQVrAnLV-i4IZDYqRZ0MQAPOYp9Jg:1573263770077&q=maximum+likelihood+estimation+in+r&sa=X&ved=2ahUKEwi_4JyhgNzlAhXMy4sBHcAJBCgQ1QIoBXoECGQQBg)
+
+- [ ] [maximum likelihood estimation lecture notes - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSNod67YO9oZdW7UtM9D3k8EstMJw%3A1573263852159&lei=7BnGXfSQCdaVr7wPjcei4Ag&q=maximum%20likelihood%20estimation%20lecture%20notes&ved=2ahUKEwiQv-XQgNzlAhXzyosBHQOQAKcQsKwBKAV6BAgGEAY)
+
+- [ ] [maximum likelihood estimation lognormal distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQVrAnLV-i4IZDYqRZ0MQAPOYp9Jg:1573263770077&q=maximum+likelihood+estimation+lognormal+distribution&sa=X&ved=2ahUKEwi_4JyhgNzlAhXMy4sBHcAJBCgQ1QIoAHoECGQQAQ)
+
+- [ ] [maximum likelihood estimation normal distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQVrAnLV-i4IZDYqRZ0MQAPOYp9Jg:1573263770077&q=maximum+likelihood+estimation+normal+distribution&sa=X&ved=2ahUKEwi_4JyhgNzlAhXMy4sBHcAJBCgQ1QIoAnoECGQQAw)
+
+- [ ] [maximum likelihood estimation ppt - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSNod67YO9oZdW7UtM9D3k8EstMJw%3A1573263852159&lei=7BnGXfSQCdaVr7wPjcei4Ag&q=maximum%20likelihood%20estimation%20ppt&ved=2ahUKEwiQv-XQgNzlAhXzyosBHQOQAKcQsKwBKAB6BAgGEAE)
+
+- [ ] [mean of weibull distribution in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREm7XKRzLuNd2l5Nfs7cr4IihyPg:1573269802725&q=mean+of+weibull+distribution+in+r&sa=X&ved=2ahUKEwiFt-jdltzlAhU6y4sBHfa-A3MQ1QIoAnoECGcQAw)
+
+- [ ] [mle by hand - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNQ6DhHabjkg37q1bCXLQSS7c_35RQ%3A1573270008034&lei=-DHGXe7aAYn60gSMu5pA&q=mle%20by%20hand&ved=2ahUKEwjgwKfBl9zlAhWQv5QKHTpMCPkQsKwBKAB6BAgBEAE)
+
+- [ ] [mle calculator online - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRI0PI7ShmHBoE-2btPrxiep3NglQ%3A1573269880452&lei=eDHGXYSXG5Lc0gSxla3IDQ&q=mle%20calculator%20online&ved=2ahUKEwjf-O6Hl9zlAhU9L6YKHXHKD9gQsKwBKAR6BAgCEAU)
+
+- [ ] [mle for gamma distribution in r - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNR_OEdrpPUtQFsxR0J51Sr_TAlsWQ%3A1573269880544&lei=eDHGXezlIPuJr7wP8ae2uAE&q=mle%20for%20gamma%20distribution%20in%20r&ved=2ahUKEwjvnomvl9zlAhUxGKYKHVP1DAQQsKwBKAJ6BAgCEAM)
+
+- [ ] [mle in r code - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRI0PI7ShmHBoE-2btPrxiep3NglQ%3A1573269880452&lei=eDHGXYSXG5Lc0gSxla3IDQ&q=mle%20in%20r%20code&ved=2ahUKEwjf-O6Hl9zlAhU9L6YKHXHKD9gQsKwBKAB6BAgCEAE)
+
+- [ ] [mle lognormal r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQVrAnLV-i4IZDYqRZ0MQAPOYp9Jg:1573263770077&q=mle+lognormal+r&sa=X&ved=2ahUKEwi_4JyhgNzlAhXMy4sBHcAJBCgQ1QIoAXoECGQQAg)
+
+- [ ] [mle of gamma distribution in r - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNQ6DhHabjkg37q1bCXLQSS7c_35RQ%3A1573270008034&lei=-DHGXe7aAYn60gSMu5pA&q=mle%20of%20gamma%20distribution%20in%20r&ved=2ahUKEwjgwKfBl9zlAhWQv5QKHTpMCPkQsKwBKAB6BAgAEAE)
+
+- [ ] [mle of uniform(-theta theta) - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSNod67YO9oZdW7UtM9D3k8EstMJw%3A1573263852159&lei=7BnGXfSQCdaVr7wPjcei4Ag&q=mle%20of%20uniform(-theta%20theta)&ved=2ahUKEwiQv-XQgNzlAhXzyosBHQOQAKcQsKwBKAN6BAgGEAQ)
+
+- [ ] [mle of weibull distribution in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREm7XKRzLuNd2l5Nfs7cr4IihyPg:1573269802725&q=mle+of+weibull+distribution+in+r&sa=X&ved=2ahUKEwiFt-jdltzlAhU6y4sBHfa-A3MQ1QIoAXoECGcQAg)
+
+- [ ] [mle standard error in r - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNQ6DhHabjkg37q1bCXLQSS7c_35RQ%3A1573270008034&lei=-DHGXe7aAYn60gSMu5pA&q=mle%20standard%20error%20in%20r&ved=2ahUKEwjgwKfBl9zlAhWQv5QKHTpMCPkQsKwBKAF6BAgAEAI)
+
+- [ ] [modern actuarial risk theory - Google Search](https://www.google.com/search?q=modern+actuarial+risk+theory&oq=Modern+Actuarial+Risk+Theory&aqs=chrome.0.0j46j69i64j69i61l5.655j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [na inf replaced by maximum positive value - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNQ6DhHabjkg37q1bCXLQSS7c_35RQ%3A1573270008034&lei=-DHGXe7aAYn60gSMu5pA&q=na%20inf%20replaced%20by%20maximum%20positive%20value&ved=2ahUKEwjgwKfBl9zlAhWQv5QKHTpMCPkQsKwBKAN6BAgBEAQ)
+
+- [ ] [nlm in r examples - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNQ6DhHabjkg37q1bCXLQSS7c_35RQ%3A1573270008034&lei=-DHGXe7aAYn60gSMu5pA&q=nlm%20in%20r%20examples&ved=2ahUKEwjgwKfBl9zlAhWQv5QKHTpMCPkQsKwBKAN6BAgAEAQ)
+
+- [ ] [normal mle in r - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRI0PI7ShmHBoE-2btPrxiep3NglQ%3A1573269880452&lei=eDHGXYSXG5Lc0gSxla3IDQ&q=normal%20mle%20in%20r&ved=2ahUKEwjf-O6Hl9zlAhU9L6YKHXHKD9gQsKwBKAN6BAgCEAQ)
+
+- [ ] [one dimensional optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS0-XVrWsvuVTOUEfwaKX6hilxaaw%3A1573272286676&lei=3jrGXZHMKJOFr7wPz-ex0Ac&q=one%20dimensional%20optimization%20in%20r&ved=2ahUKEwiGhe__n9zlAhW0yIsBHe3mC7gQsKwBKAN6BAgAEAQ)
+
+- [ ] [pareto distribution mle - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSNod67YO9oZdW7UtM9D3k8EstMJw%3A1573263852159&lei=7BnGXfSQCdaVr7wPjcei4Ag&q=pareto%20distribution%20mle&ved=2ahUKEwiQv-XQgNzlAhXzyosBHQOQAKcQsKwBKAJ6BAgGEAM)
+
+- [ ] [plotting weibull distribution in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREm7XKRzLuNd2l5Nfs7cr4IihyPg:1573269802725&q=plotting+weibull+distribution+in+r&sa=X&ved=2ahUKEwiFt-jdltzlAhU6y4sBHfa-A3MQ1QIoAHoECGcQAQ)
+
+- [ ] [Practical Mathematical Optimizatio - Google Search](https://www.google.com/search?q=Practical+Mathematical+Optimizatio&oq=Practical+Mathematical+Optimizatio&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [probability of ruin formula - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSE-0a4Vp8lmvkPk2irVhxEPeiRXA%3A1573275509990&lei=dUfGXeCIPLGRr7wPr8qAyAI&q=probability%20of%20ruin%20formula&ved=2ahUKEwjeqJCArNzlAhXqxYsBHaUACYEQsKwBKAF6BAgAEAI)
+
+- [ ] [probability of ruin in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSE-0a4Vp8lmvkPk2irVhxEPeiRXA%3A1573275509990&lei=dUfGXeCIPLGRr7wPr8qAyAI&q=probability%20of%20ruin%20in%20r&ved=2ahUKEwjeqJCArNzlAhXqxYsBHaUACYEQsKwBKAR6BAgAEAU)
+
+- [ ] [r example of optim - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS0-XVrWsvuVTOUEfwaKX6hilxaaw%3A1573272286676&lei=3jrGXZHMKJOFr7wPz-ex0Ac&q=r%20example%20of%20optim&ved=2ahUKEwiGhe__n9zlAhW0yIsBHe3mC7gQsKwBKAF6BAgAEAI)
+
+- [ ] [r optim maximize - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS0-XVrWsvuVTOUEfwaKX6hilxaaw%3A1573272286676&lei=3jrGXZHMKJOFr7wPz-ex0Ac&q=r%20optim%20maximize&ved=2ahUKEwiGhe__n9zlAhW0yIsBHe3mC7gQsKwBKAB6BAgAEAE)
+
+- [ ] [r optimize function multiple parameters - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS0-XVrWsvuVTOUEfwaKX6hilxaaw%3A1573272286676&lei=3jrGXZHMKJOFr7wPz-ex0Ac&q=r%20optimize%20function%20multiple%20parameters&ved=2ahUKEwiGhe__n9zlAhW0yIsBHe3mC7gQsKwBKAJ6BAgAEAM)
+
+- [ ] [renewal theory wikipedia - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSE-0a4Vp8lmvkPk2irVhxEPeiRXA%3A1573275509990&lei=dUfGXeCIPLGRr7wPr8qAyAI&q=renewal%20theory%20wikipedia&ved=2ahUKEwjeqJCArNzlAhXqxYsBHaUACYEQsKwBKAV6BAgAEAY)
+
+- [ ] [reverse weibull distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREm7XKRzLuNd2l5Nfs7cr4IihyPg:1573269802725&q=reverse+weibull+distribution&sa=X&ved=2ahUKEwiFt-jdltzlAhU6y4sBHfa-A3MQ1QIoBXoECGcQBg)
+
+- [ ] [risk theory pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSE-0a4Vp8lmvkPk2irVhxEPeiRXA:1573275509990&q=risk+theory+pdf&sa=X&ved=2ahUKEwigl6D_q9zlAhWxyIsBHS8lACkQ1QIoAXoECEkQAg)
+
+- [ ] [Ruin Probabilitie - Google Search](https://www.google.com/search?q=Ruin+Probabilitie&oq=Ruin+Probabilitie&aqs=chrome..69i57j69i59l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [ruin probabilities cfa - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSE-0a4Vp8lmvkPk2irVhxEPeiRXA%3A1573275509990&lei=dUfGXeCIPLGRr7wPr8qAyAI&q=ruin%20probabilities%20cfa&ved=2ahUKEwjeqJCArNzlAhXqxYsBHaUACYEQsKwBKAN6BAgAEAQ)
+
+- [ ] [ruin probabilities cfa - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSE-0a4Vp8lmvkPk2irVhxEPeiRXA:1573275509990&q=ruin+probabilities+cfa&sa=X&ved=2ahUKEwigl6D_q9zlAhWxyIsBHS8lACkQ1QIoAnoECEkQAw)
+
+- [ ] [Ruin Probabilities Søren Asmussen - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTL5NSl4pRq_OAABnNK2SOh0KBOcQ:1573276611873&q=Ruin+Probabilities+S%C3%B8ren+Asmussen&stick=H4sIAAAAAAAAAONgecSYwy3w8sc9YankSWtOXmOM5eIKzsgvd80rySypFNLjYoOyVLgEpXj10_UNDZONsisMzbKKNBik-LlQhZTkjYR3XZp2jo1XMFC8KUQ4JcBBi4mDoWnfikNsLByMAgw8i1iVgkoz8xQCivKTEpMyczJLMlOLFYIP7yhKzVNwLM4tLS5OzQMARoxm8pYAAAA&sa=X&ved=2ahUKEwj56tWMsNzlAhWlIqYKHWI8BzEQ6RMwdHoECGUQBA)
+
+- [ ] [Ruin Probabilities: Smoothness, Bounds, Supermartingale Approach I︠U︡lii︠a︡ S. Mishura - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTL5NSl4pRq_OAABnNK2SOh0KBOcQ:1573276611873&q=Ruin+Probabilities:+Smoothness,+Bounds,+Supermartingale+Approach+I%EF%B8%A0U%EF%B8%A1lii%EF%B8%A0a%EF%B8%A1+S.+Mishura&stick=H4sIAAAAAAAAAONgecSYwy3w8sc9YankSWtOXmOM5eIKzsgvd80rySypFNLjYoOyVLgEpXj10_UNDZNNk4qMqyxMNBik-LlQhZTkjYR3XZp2jo1XMNfTQD1VJcBBi4mDoWnfikNsLByMAgw8i1jjgkoz8xQCivKTEpMyczJLMlOLrRSCc_PzSzLyUouLdRSc8kvzUoB0cGlBalFuYlFJZl56Yk6qgmNBQVF-YnKGguf7HQtC3-9YmJOZCWQlAlkKwXoKvpnFGaVFiQCZbkpX0gAAAA&sa=X&ved=2ahUKEwj56tWMsNzlAhWlIqYKHWI8BzEQ6RMwdnoECGUQDA)
+
+- [ ] [ruin theory lecture notes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSE-0a4Vp8lmvkPk2irVhxEPeiRXA:1573275509990&q=ruin+theory+lecture+notes&sa=X&ved=2ahUKEwigl6D_q9zlAhWxyIsBHS8lACkQ1QIoAHoECEkQAQ)
+
+- [ ] [rweibull r example - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNR_OEdrpPUtQFsxR0J51Sr_TAlsWQ:1573269880544&q=rweibull+r+example&sa=X&ved=2ahUKEwjsgfaCl9zlAhX7xIsBHfGTDRcQ1QIoBnoECGQQBw&cshid=1573269889924753)
+
+- [ ] [rweibull r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREm7XKRzLuNd2l5Nfs7cr4IihyPg:1573269802725&q=rweibull+r+example&sa=X&ved=2ahUKEwiFt-jdltzlAhU6y4sBHfa-A3MQ1QIoBHoECGcQBQ)
+
+- [ ] [Sharif-Islam model - Google Search](https://www.google.com/search?q=Sharif-Islam+model&oq=Sharif-Islam+model&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Sur la loi de probabilité de l'écart maximum - Google Search](https://www.google.com/search?q=Sur+la+loi+de+probabilit%C3%A9+de+l%27%C3%A9cart+maximum&oq=Sur+la+loi+de+probabilit%C3%A9+de+l%27%C3%A9cart+maximum&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [weibull distribution in r package - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREm7XKRzLuNd2l5Nfs7cr4IihyPg:1573269802725&q=weibull+distribution+in+r+package&sa=X&ved=2ahUKEwiFt-jdltzlAhU6y4sBHfa-A3MQ1QIoA3oECGcQBA)
+
+- [ ] [weibull distribution r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ6W-jQnimGPaQ3OIPXl2096Jjo3A%3A1573269790174&ei=HjHGXaKZCq3KmAWFgLaQBg&q=weibull+distribution+r&oq=weibull+distribution+r&gs_l=psy-ab.3..0l10.4190.4381..5498...0.5..0.391.537.0j1j0j1......0....1..gws-wiz.......0i71j0i67.AQC2Iq4FfB0&ved=0ahUKEwiioOrXltzlAhUtJaYKHQWADWIQ4dUDCAs&uact=5)
+
+- [ ] [weibull plotting position in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREm7XKRzLuNd2l5Nfs7cr4IihyPg:1573269802725&q=weibull+plotting+position+in+r&sa=X&ved=2ahUKEwiFt-jdltzlAhU6y4sBHfa-A3MQ1QIoB3oECGcQCA)
+
+- [ ] [when to use weibull distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREm7XKRzLuNd2l5Nfs7cr4IihyPg:1573269802725&q=when+to+use+weibull+distribution&sa=X&ved=2ahUKEwiFt-jdltzlAhU6y4sBHfa-A3MQ1QIoBnoECGcQBw)
+
+
+
+
+
+
+## 11/10/2019
+
+- [ ] [best linear algebra library python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=best%20linear%20algebra%20library%20python&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAJ6BAgAEAM)
+
+- [ ] [cayley hamilton theorem in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=cayley%20hamilton%20theorem%20in%20python&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAR6BAgAEAU)
+
+- [ ] [datacamp sklearn cheatsheet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=datacamp%20sklearn%20cheatsheet&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAR6BAgBEAU)
+
+- [ ] [economics of insurance pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR7yVDl5BiBWCPRx4KEY-dvZjn8Mw%3A1573278428063&lei=3FLGXb-8A5aTr7wPlvab8Ac&q=economics%20of%20insurance%20pdf&ved=2ahUKEwjhzc_vttzlAhVBHKYKHQnJBUMQsKwBKAB6BAgAEAE)
+
+- [ ] [essential numpy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=essential%20numpy&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAN6BAgBEAQ)
+
+- [ ] [full insurance economics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR7yVDl5BiBWCPRx4KEY-dvZjn8Mw%3A1573278428063&lei=3FLGXb-8A5aTr7wPlvab8Ac&q=full%20insurance%20economics&ved=2ahUKEwjhzc_vttzlAhVBHKYKHQnJBUMQsKwBKAF6BAgAEAI)
+
+- [ ] [how to find rank of 2 * 2 matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=how+to+find+rank+of+2+*+2+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoBHoECGUQBQ)
+
+- [ ] [how to find row rank and column rank of a matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=how+to+find+row+rank+and+column+rank+of+a+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoA3oECGUQBA)
+
+- [ ] [how to find the matrix rank in r - Google Search](https://www.google.com/search?q=how%20to%20find%20the%20matrix%20rank%20in%20r)
+
+- [ ] [how to get hte rank of a matrix in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ4KaJW6bT9UQW36aN-S4CgORqvdw%3A1573360669960&ei=HZTHXfalOqaIr7wPqOOwgAU&q=how+to+get+hte+rank+of+a+matrix+in+python&oq=how+to+get+hte+rank+of+a+matrix+in+python&gs_l=psy-ab.3..33i22i10i29i30.4961.13549..13772...4.4..2.558.7554.1j33j7j1j1j1......0....1..gws-wiz.......0i71j35i39j0i67j0j0i131j35i305i39j0i10j0i20i263j0i13j0i22i30j0i13i30j0i22i10i30.M7u1kI2eNfA&ved=0ahUKEwi2qNie6d7lAhUmxIsBHagxDFAQ4dUDCAs&uact=5)
+
+- [ ] [insurance and calculating risks math ia - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS3bRF4SrX0zjgX2uI1WwZg8PAjEQ%3A1573278328914&lei=eFLGXfCgN7KSr7wP1tCB0Ac&q=insurance%20and%20calculating%20risks%20math%20ia&ved=2ahUKEwiIw67AttzlAhUXyYsBHUQFA0cQsKwBKAF6BAgBEAI)
+
+- [ ] [insurance premium - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS3bRF4SrX0zjgX2uI1WwZg8PAjEQ%3A1573278328914&lei=eFLGXfCgN7KSr7wP1tCB0Ac&q=insurance%20premium&ved=2ahUKEwiIw67AttzlAhUXyYsBHUQFA0cQsKwBKAR6BAgBEAU)
+
+- [ ] [linear algebra using python book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=linear%20algebra%20using%20python%20book&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAB6BAgAEAE)
+
+- [ ] [linear algebra with python course - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=linear%20algebra%20with%20python%20course&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAF6BAgAEAI)
+
+- [ ] [load insurance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS3bRF4SrX0zjgX2uI1WwZg8PAjEQ%3A1573278328914&lei=eFLGXfCgN7KSr7wP1tCB0Ac&q=load%20insurance&ved=2ahUKEwiIw67AttzlAhUXyYsBHUQFA0cQsKwBKAN6BAgBEAQ)
+
+- [ ] [matlab to numpy cheat sheet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=matlab%20to%20numpy%20cheat%20sheet&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAV6BAgBEAY)
+
+- [ ] [matrix exponential python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=matrix%20exponential%20python&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAV6BAgCEAY)
+
+- [ ] [numpy linalg pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=numpy%20linalg%20pdf&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAB6BAgBEAE)
+
+- [ ] [numpy orthogonal vector - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=numpy%20orthogonal%20vector&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAN6BAgCEAQ)
+
+- [ ] [numpy project - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=numpy%20project&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAJ6BAgCEAM)
+
+- [ ] [numpy random full rank matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=numpy+random+full+rank+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoAnoECGUQAw)
+
+- [ ] [numpy vector projection - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=numpy%20vector%20projection&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAB6BAgCEAE)
+
+- [ ] [premium loading calculation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS3bRF4SrX0zjgX2uI1WwZg8PAjEQ%3A1573278328914&lei=eFLGXfCgN7KSr7wP1tCB0Ac&q=premium%20loading%20calculation&ved=2ahUKEwiIw67AttzlAhUXyYsBHUQFA0cQsKwBKAB6BAgBEAE)
+
+- [ ] [program to calculate rank of a matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=program+to+calculate+rank+of+a+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoB3oECGUQCA)
+
+- [ ] [python code for eigenvalues - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=python%20code%20for%20eigenvalues&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAF6BAgCEAI)
+
+- [ ] [python find linearly dependent columns - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=python+find+linearly+dependent+columns&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoBXoECGUQBg)
+
+- [ ] [python linear algebra solver - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=python%20linear%20algebra%20solver&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAN6BAgAEAQ)
+
+- [ ] [python program to find rank of a matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=python+program+to+find+rank+of+a+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoAHoECGUQAQ)
+
+- [ ] [python square root of matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=python%20square%20root%20of%20matrix&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAR6BAgCEAU)
+
+- [ ] [python square root of matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=python%20square%20root%20of%20matrix&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAV6BAgAEAY)
+
+- [ ] [rank approximation numpy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=rank+approximation+numpy&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoBnoECGUQBw)
+
+- [ ] [rank of matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1dqCdhv4fPlqcm3OCjaT_Sog5Jw:1573361294609&q=rank+of+matrix&sa=X&ved=2ahUKEwjW78XI697lAhXLLqYKHSIuAwMQ1QIoAXoECGUQAg)
+
+- [ ] [risk premium insurance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS3bRF4SrX0zjgX2uI1WwZg8PAjEQ%3A1573278328914&lei=eFLGXfCgN7KSr7wP1tCB0Ac&q=risk%20premium%20insurance&ved=2ahUKEwiIw67AttzlAhUXyYsBHUQFA0cQsKwBKAJ6BAgBEAM)
+
+- [ ] [scipy stats cheat sheet pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=scipy%20stats%20cheat%20sheet%20pdf&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAF6BAgBEAI)
+
+- [ ] [statsmodels cheat sheet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQdf6MCHZegQhzo5rglzTOEysXnpA%3A1573360656360&lei=EJTHXbTSFZC0mAXYlauIDg&q=statsmodels%20cheat%20sheet&ved=2ahUKEwiQhbCZ6d7lAhXfwosBHd30D2oQsKwBKAJ6BAgBEAM)
+
+
+
+
+## 11/10/2019
+
+- [ ] [brown and warner 1980 1985 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=brown%20and%20warner%201980%201985&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAJ6BAgAEAM)
+
+- [ ] [china cpi - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREGhZI3pr2H2hGWqNfUEErlHP1DQ:1573365194364&q=china+cpi&sa=X&ved=2ahUKEwjq9YuM-t7lAhWkBKYKHa8MB-wQ1QIoAHoECGUQAQ)
+
+- [ ] [china cpi basket - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREGhZI3pr2H2hGWqNfUEErlHP1DQ:1573365194364&q=china+cpi+basket&sa=X&ved=2ahUKEwjq9YuM-t7lAhWkBKYKHa8MB-wQ1QIoAnoECGUQAw)
+
+- [ ] [China inflation - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQ6guTmLaOE_EKkbnJsLXcRCFm2hA:1573365268509&q=China+inflation&stick=H4sIAAAAAAAAAHWNOwrCQABEjY4av4lR_DQiNoLNBsXCVIK3sFuSFVfMKiaQeJshx7QylhbCFANveGOvvJnIQyFi4e-v-Sb4lsjfZduDMsv_aD2PVSoDkT-kUbdydjeheqRBoiOVyVdycsKLNnKhzfkmU303heV-ZU911kbFyqTCf1sVokyTGBM9okvUiSnRJ1xiQthEhwBRJSyiTTjEgPCIITEiWkSDqBV15_j79wFxpNNG2QAAAA&ved=2ahUKEwjZvbmv-t7lAhWiBKYKHXcSC84QzTooADB4egQIZRAC)
+
+- [ ] [china inflation - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQ6guTmLaOE_EKkbnJsLXcRCFm2hA:1573365268509&q=china+inflation&tbm=isch&source=univ&ved=2ahUKEwjZvbmv-t7lAhWiBKYKHXcSC84QsAR6BAgIEAE)
+
+- [ ] [china inflation rate 2019 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREGhZI3pr2H2hGWqNfUEErlHP1DQ:1573365194364&q=china+inflation+rate+2019&sa=X&ved=2ahUKEwjq9YuM-t7lAhWkBKYKHa8MB-wQ1QIoBnoECGUQBw)
+
+- [ ] [china ppi - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNREGhZI3pr2H2hGWqNfUEErlHP1DQ:1573365194364&q=china+ppi&sa=X&ved=2ahUKEwjq9YuM-t7lAhWkBKYKHa8MB-wQ1QIoA3oECGUQBA)
+
+- [ ] [cluster robust standard errors in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=cluster+robust+standard+errors+in+r&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoAXoECGUQAg)
+
+- [ ] [cluster standard errors r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=cluster%20standard%20errors%20r&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAF6BAgCEAI)
+
+- [ ] [correct standard errors for heteroskedasticity in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=correct+standard+errors+for+heteroskedasticity+in+r&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoBnoECGUQBw)
+
+- [ ] [cox regression analysis interpretation - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg%3A1573366353408&lei=UarHXZXBGPSSr7wP76uYoAE&q=cox%20regression%20analysis%20interpretation&ved=2ahUKEwjKxrq2_t7lAhVBHKYKHQnJBUMQsKwBKAF6BAgCEAI)
+
+- [ ] [cox regression pdf - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg%3A1573366353408&lei=UarHXZXBGPSSr7wP76uYoAE&q=cox%20regression%20pdf&ved=2ahUKEwjKxrq2_t7lAhVBHKYKHQnJBUMQsKwBKAB6BAgCEAE)
+
+- [ ] [dolley 1933 - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNT87j_qpNdy2GgW4YYjU1ay2wU5JA%3A1573373895727&lei=x8fHXd-CLLremAXZzaZ4&q=dolley%201933&ved=2ahUKEwjt68TDmt_lAhW0y4sBHU7SDVkQsKwBKAF6BAgBEAI)
+
+- [ ] [driscoll kraay standard errors in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=driscoll+kraay+standard+errors+in+r&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoBHoECGUQBQ)
+
+- [ ] [econometrics of event studies pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=econometrics%20of%20event%20studies%20pdf&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAB6BAgAEAE)
+
+- [ ] [estimation window” and the “event window - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA:1573373956912&q=estimation+window%E2%80%9D+and+the+%E2%80%9Cevent+window&tbm=isch&source=univ&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQsAR6BAgAEAE)
+
+- [ ] [event studies econometrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA:1573373956912&q=event+studies+econometrics&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQ1QIoBnoECGQQBw)
+
+- [ ] [event studies in economics and finance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA:1573373956912&q=event+studies+in+economics+and+finance&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQ1QIoBXoECGQQBg)
+
+- [ ] [event studies in economics and finance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=event%20studies%20in%20economics%20and%20finance&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAN6BAgAEAQ)
+
+- [ ] [event study example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=event%20study%20example&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAF6BAgAEAI)
+
+- [ ] [event study example - Google Search](https://www.google.com/search?q=event+study+example&newwindow=1&sxsrf=ACYBGNS_ZugRe3IILryd8EyTkt4ORmsSTw:1573373856644&tbm=isch&source=iu&ictx=1&fir=za5RjD0KDUKtaM%253A%252C8JfxcQMY-2T4mM%252C_&vet=1&usg=AI4_-kRr_-nDT2CrvIH7grX9mbdDcIPhDA&sa=X&ved=2ahUKEwiEzcuumt_lAhWXy4sBHXsVDrUQ9QEwAHoECAQQAw#imgrc=za5RjD0KDUKtaM:)
+
+- [ ] [event study finance topics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA%3A1573373956912&lei=BMjHXZCZN4uImAW6kYbABg&q=event%20study%20finance%20topics&ved=2ahUKEwiTxNbfmt_lAhXhwosBHRGKA_AQsKwBKAF6BAgAEAI)
+
+- [ ] [event study graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA:1573373956912&q=event+study+graph&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQ1QIoAXoECGQQAg)
+
+- [ ] [event study in economics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+in+economics&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoBXoECGQQBg)
+
+- [ ] [event study literature review - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+literature+review&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoBnoECGQQBw)
+
+- [ ] [event study matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=event%20study%20matrix&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAR6BAgAEAU)
+
+- [ ] [event study methodology excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+methodology+excel&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoAXoECGQQAg)
+
+- [ ] [event study metrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA%3A1573373956912&lei=BMjHXZCZN4uImAW6kYbABg&q=event%20study%20metrics&ved=2ahUKEwiTxNbfmt_lAhXhwosBHRGKA_AQsKwBKAJ6BAgAEAM)
+
+- [ ] [event study multiple events - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNT87j_qpNdy2GgW4YYjU1ay2wU5JA%3A1573373895727&lei=x8fHXd-CLLremAXZzaZ4&q=event%20study%20multiple%20events&ved=2ahUKEwjt68TDmt_lAhW0y4sBHU7SDVkQsKwBKAN6BAgBEAQ)
+
+- [ ] [event study ppt - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA%3A1573373956912&lei=BMjHXZCZN4uImAW6kYbABg&q=event%20study%20ppt&ved=2ahUKEwiTxNbfmt_lAhXhwosBHRGKA_AQsKwBKAB6BAgAEAE)
+
+- [ ] [event study ppt - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSregHjLVbGiNSv4s0yxG7XyYmxng%3A1573374506622&lei=KsrHXbDGJY2ymAXcvbiIBg&q=event%20study%20ppt&ved=2ahUKEwjk5f_mnN_lAhVlxIsBHU_HDy4QsKwBKAJ6BAgCEAM)
+
+- [ ] [event study regression economics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+regression+economics&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoB3oECGQQCA)
+
+- [ ] [event study s&p 500 - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNT87j_qpNdy2GgW4YYjU1ay2wU5JA%3A1573373895727&lei=x8fHXd-CLLremAXZzaZ4&q=event%20study%20s%26p%20500&ved=2ahUKEwjt68TDmt_lAhW0y4sBHU7SDVkQsKwBKAB6BAgBEAE)
+
+- [ ] [event study stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+stata&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoA3oECGQQBA)
+
+- [ ] [event study stock price - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ:1573373843168&q=event+study+stock+price&sa=X&ved=2ahUKEwi4gZWomt_lAhXSGKYKHVt7DZ0Q1QIoBHoECGQQBQ)
+
+- [ ] [event study t test - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSp1QapiEoDnWCBNlgmq6j3uOO9DA%3A1573373956912&lei=BMjHXZCZN4uImAW6kYbABg&q=event%20study%20t%20test&ved=2ahUKEwiTxNbfmt_lAhXhwosBHRGKA_AQsKwBKAN6BAgAEAQ)
+
+- [ ] [export_summs r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=export_summs%20r&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAF6BAgBEAI)
+
+- [ ] [factors contribut to china's cpi - Google Search](https://www.google.com/search?q=factors+contribut+to+china%27s+cpi&oq=factors+contribut+to+china%27s+cpi&aqs=chrome..69i57.9079j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [fully parametric survival analysis regression model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=fully+parametric+survival+analysis+regression+model&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoBXoECGEQBg)
+
+- [ ] [german rodriguez demographic methods - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTD1HE1twxXoQf-nVRtCZtdzlAraQ:1573366095546&q=german+rodriguez+demographic+methods&sa=X&ved=2ahUKEwj_3Oe5_d7lAhWayYsBHSIPCacQ1QIoBHoECGQQBQ)
+
+- [ ] [german rodriguez demographic methods - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=german+rodriguez+demographic+methods&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoAXoECGEQAg)
+
+- [ ] [get regression table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=get%20regression%20table&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAB6BAgBEAE)
+
+- [ ] [how to interpret cumulative abnormal return - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQqjOynTeJCy3NCCoUqYg3o6VwiQ%3A1573373843168&lei=k8fHXfjrCdKxmAXb9rXoCQ&q=how%20to%20interpret%20cumulative%20abnormal%20return&ved=2ahUKEwjvgNepmt_lAhVRy4sBHV2VBuAQsKwBKAV6BAgAEAY)
+
+- [ ] [how to show regression results in a table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=how%20to%20show%20regression%20results%20in%20a%20table&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAV6BAgBEAY)
+
+- [ ] [Linear Regression Models with Logarithmic Transformations - Google Search](https://www.google.com/search?q=Linear+Regression+Models+with+Logarithmic+Transformations&oq=Linear+Regression+Models+with+Logarithmic+Transformations&aqs=chrome..69i57j69i65j69i60l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [MacKinlay 1997 - Google Search](https://www.google.com/search?q=MacKinlay+1997&oq=MacKinlay+1997&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [multivariate survival analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=multivariate+survival+analysis&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoAnoECGEQAw)
+
+- [ ] [non parametric survival model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=non+parametric+survival+model&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoB3oECGEQCA)
+
+- [ ] [poisson regression for survival analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=poisson+regression+for+survival+analysis&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoAHoECGEQAQ)
+
+- [ ] [poisson robust standard errors r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=poisson+robust+standard+errors+r&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoB3oECGUQCA&biw=958&bih=919)
+
+- [ ] [produce nice regression sumary table - Google Search](https://www.google.com/search?q=produce%20nice%20regression%20sumary%20table)
+
+- [ ] [pymc3 gaussian random walk example - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg%3A1573366353408&lei=UarHXZXBGPSSr7wP76uYoAE&q=pymc3%20gaussian%20random%20walk%20example&ved=2ahUKEwjKxrq2_t7lAhVBHKYKHQnJBUMQsKwBKAB6BAgDEAE)
+
+- [ ] [pymc3 gaussianrandomwalk - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg%3A1573366353408&lei=UarHXZXBGPSSr7wP76uYoAE&q=pymc3%20gaussianrandomwalk&ved=2ahUKEwjKxrq2_t7lAhVBHKYKHQnJBUMQsKwBKAF6BAgDEAI)
+
+- [ ] [r coeftest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=r%20coeftest&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAR6BAgCEAU)
+
+- [ ] [r export regression results to excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=r%20export%20regression%20results%20to%20excel&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAR6BAgBEAU)
+
+- [ ] [r finalfit - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=r%20finalfit&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAJ6BAgBEAM)
+
+- [ ] [r sandwich package - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=r%20sandwich%20package&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAN6BAgCEAQ)
+
+- [ ] [rmarkdown regression tables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnjbzOcf1wUykttokhZwzIzwObag%3A1573370827123&lei=y7vHXbqTB8yYr7wPuseXkA4&q=rmarkdown%20regression%20tables&ved=2ahUKEwjd24aLj9_lAhUdxYsBHSg3DRsQsKwBKAN6BAgBEAQ)
+
+- [ ] [robust standard errors are smaller than the model-based errors, and the effect of setting is now significant - Google Search](https://www.google.com/search?q=robust+standard+errors+are+smaller+than+the+model-based+errors%2C+and+the+effect+of+setting+is+now+significant&oq=robust+standard+errors+are+smaller+than+the+model-based+errors%2C+and+the+effect+of+setting+is+now+significant&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [robust standard errors in r code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=robust+standard+errors+in+r+code&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoAHoECGUQAQ)
+
+- [ ] [robust standard errors stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=robust+standard+errors+stata&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoBXoECGUQBg)
+
+- [ ] [stargazer robust standard errors - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg:1573369930593&q=stargazer+robust+standard+errors&sa=X&ved=2ahUKEwiFu8Dei9_lAhWDy4sBHTFrCL8Q1QIoAnoECGUQAw)
+
+- [ ] [stargazer robust standard errors - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=stargazer%20robust%20standard%20errors&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAB6BAgCEAE)
+
+- [ ] [survival analysis stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=survival+analysis+stata&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoA3oECGEQBA)
+
+- [ ] [the likelihood for competing risk survival analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=the+likelihood+for+competing+risk+survival+analysis&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoBHoECGEQBQ)
+
+- [ ] [There is often a gap between the estimation and event periods - Google Search](https://www.google.com/search?q=There+is+often+a+gap+between+the+estimation+and+event+periods&oq=There+is+often+a+gap+between+the+estimation+and+event+periods&aqs=chrome..69i57.630j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [weibull distribution survival analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSxz-H47jI_TUb2Zxg12H-AGlUMIg:1573366353408&q=weibull+distribution+survival+analysis&sa=X&ved=2ahUKEwjVreK0_t7lAhV0yYsBHe8VBhQQ1QIoBnoECGEQBw)
+
+- [ ] [white correction in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSNsHmtTxGZJEAfwhKWIUcxVd6Jkg%3A1573369930593&lei=SrjHXYXuI4OXr7wPsdah-As&q=white%20correction%20in%20r&ved=2ahUKEwiR4YPgi9_lAhUXxYsBHfgsC4kQsKwBKAV6BAgCEAY)
+
+- [ ] [wiki event study - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNT87j_qpNdy2GgW4YYjU1ay2wU5JA%3A1573373895727&lei=x8fHXd-CLLremAXZzaZ4&q=wiki%20event%20study&ved=2ahUKEwjt68TDmt_lAhW0y4sBHU7SDVkQsKwBKAJ6BAgBEAM)
+
+
+
+## 11/10/2019
+
+- [ ] [## model fit and HC3 covariance - Google Search](https://www.google.com/search?q=%23%23+model+fit+and+HC3+covariance&oq=%23%23+model+fit+and+HC3+covariance&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [A New Heteroskedasticity-Consistent Covariance Matrix Estimator for the Linear Regression Model - Google Search](https://www.google.com/search?q=A+New+Heteroskedasticity-Consistent+Covariance+Matrix+Estimator+for+the+Linear+Regression+Model&oq=A+New+Heteroskedasticity-Consistent+Covariance+Matrix+Estimator+for+the+Linear+Regression+Model&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [advanced trading algorithms coursera - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQMmFJbPmoaz1KOvpcxewNOh1ZNTQ%3A1573378945156&lei=gdvHXbyNCbyNr7wP6oyLgAk&q=advanced%20trading%20algorithms%20coursera&ved=2ahUKEwiYyrWurd_lAhVBBKYKHUo4D64QsKwBKAN6BAgCEAQ)
+
+- [ ] [Asymptotic Inference under Heteroskedasticity of Unknown For - Google Search](https://www.google.com/search?q=Asymptotic+Inference+under+Heteroskedasticity+of+Unknown+For&oq=Asymptotic+Inference+under+Heteroskedasticity+of+Unknown+For&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [avellaneda stoikov python - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQMmFJbPmoaz1KOvpcxewNOh1ZNTQ%3A1573378945156&lei=gdvHXbyNCbyNr7wP6oyLgAk&q=avellaneda%20stoikov%20python&ved=2ahUKEwiYyrWurd_lAhVBBKYKHUo4D64QsKwBKAF6BAgDEAI)
+
+- [ ] [contemporary issues in accounting. Post earnings announcement drift - Google Search](https://www.google.com/search?q=contemporary+issues+in+accounting.+Post+earnings+announcement+drift&oq=contemporary+issues+in+accounting.+Post+earnings+announcement+drift&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Default S3 method - Google Search](https://www.google.com/search?q=Default+S3+method&oq=Default+S3+method&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Dutch books - Google Search](https://www.google.com/search?q=Dutch+books&oq=Dutch+books&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [earnings announcement puzzle - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=earnings+announcement+puzzle&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoBHoECGUQBQ)
+
+- [ ] [earnings announcements effect on stock price - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ:1573378721550&q=earnings+announcements+effect+on+stock+price&sa=X&ved=2ahUKEwjp362-rN_lAhWWwosBHWJ0AvwQ1QIoAnoECGQQAw)
+
+- [ ] [Evidence that stock prices do not fully reflect the implications of current earnings for future earnings. - Google Search](https://www.google.com/search?q=Evidence+that+stock+prices+do+not+fully+reflect+the+implications+of+current+earnings+for+future+earnings.&oq=Evidence+that+stock+prices+do+not+fully+reflect+the+implications+of+current+earnings+for+future+earnings.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [fair betting rates - Google Search](https://www.google.com/search?q=fair+betting+rates&oq=fair+betting+rates&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [foundations of probability theory - Google Search](https://www.google.com/search?q=foundations+of+probability+theory&oq=foundations+of+probability+theory&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Heteroskedasticity-Consistent Covariance Matrix Estimation - Google Search](https://www.google.com/search?q=Heteroskedasticity-Consistent+Covariance+Matrix+Estimation&oq=Heteroskedasticity-Consistent+Covariance+Matrix+Estimation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Heteroskedasticity-consistent estimation of the covariance matrix of the coefficient estimates in regression models. - Google Search](https://www.google.com/search?q=Heteroskedasticity-consistent+estimation+of+the+covariance+matrix+of+the+coefficient+estimates+in+regression+models.&oq=Heteroskedasticity-consistent+estimation+of+the+covariance+matrix+of+the+coefficient+estimates+in+regression+models.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [hft momentum strategy - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQMmFJbPmoaz1KOvpcxewNOh1ZNTQ%3A1573378945156&lei=gdvHXbyNCbyNr7wP6oyLgAk&q=hft%20momentum%20strategy&ved=2ahUKEwiYyrWurd_lAhVBBKYKHUo4D64QsKwBKAB6BAgDEAE)
+
+- [ ] [how to seasonally adjust data in eviews - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQlJETfewqPkF8Ulzsq9YqYtZKOkg%3A1573377823456&lei=H9fHXce3G4SKr7wPzpa1qA4&q=how%20to%20seasonally%20adjust%20data%20in%20eviews&ved=2ahUKEwjrw4eTqd_lAhUPrpQKHYedCU0QsKwBKAR6BAgCEAU)
+
+- [ ] [how to seasonally adjust data in excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQlJETfewqPkF8Ulzsq9YqYtZKOkg%3A1573377823456&lei=H9fHXce3G4SKr7wPzpa1qA4&q=how%20to%20seasonally%20adjust%20data%20in%20excel&ved=2ahUKEwjrw4eTqd_lAhUPrpQKHYedCU0QsKwBKAJ6BAgCEAM)
+
+- [ ] [how to seasonally adjust data in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQlJETfewqPkF8Ulzsq9YqYtZKOkg%3A1573377823456&lei=H9fHXce3G4SKr7wPzpa1qA4&q=how%20to%20seasonally%20adjust%20data%20in%20r&ved=2ahUKEwjrw4eTqd_lAhUPrpQKHYedCU0QsKwBKAF6BAgCEAI)
+
+- [ ] [how to seasonally adjust data in stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQlJETfewqPkF8Ulzsq9YqYtZKOkg%3A1573377823456&lei=H9fHXce3G4SKr7wPzpa1qA4&q=how%20to%20seasonally%20adjust%20data%20in%20stata&ved=2ahUKEwjrw4eTqd_lAhUPrpQKHYedCU0QsKwBKAB6BAgCEAE)
+
+- [ ] [indian stock market prediction github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSonwbUGYIz93IeTmV_gUk5G9XQnw%3A1573378891239&lei=S9vHXbKNDqSzmAXBlra4Ag&q=indian%20stock%20market%20prediction%20github&ved=2ahUKEwjRnd2Wrd_lAhWDzIsBHaz0B64QsKwBKAR6BAgAEAU)
+
+- [ ] [Introducing Monte Carlo Methods with R - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Introducing+Monte+Carlo+Methods+with+R&stick=H4sIAAAAAAAAAOOQUeLSz9U3SEqKL0zJMpJLys_PVsjPU8jNzytJVUhOLMrJVyjOzC3NSSzJzM-LEvYFizuDxXNTSzLyU4pPMYJNMMstyDK1PMXIq5-ub2iYbJRTZFSVlgaVhBgP5SQbZ5dVGpxi5AGpNErKNU6rMChBcJPjy7PSfzHKOUGdgmwlwimLWNU880qK8lNKkzPz0lEU-ULcpVCeWZKhEAQAJzQ7J-IAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQCA)
+
+- [ ] [introducing monte carlo methods with r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=introducing+monte+carlo+methods+with+r&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoBHoECGgQBQ)
+
+- [ ] [jaffray woodriff strategy - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQMmFJbPmoaz1KOvpcxewNOh1ZNTQ%3A1573378945156&lei=gdvHXbyNCbyNr7wP6oyLgAk&q=jaffray%20woodriff%20strategy&ved=2ahUKEwiYyrWurd_lAhVBBKYKHUo4D64QsKwBKAJ6BAgDEAM)
+
+- [ ] [liquidity and the post earnings announcement drift - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=liquidity+and+the+post+earnings+announcement+drift&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoA3oECGUQBA)
+
+- [ ] [Markov chains - Google Search](https://www.google.com/search?q=Markov+chains&oq=Markov+chains&aqs=chrome..69i57j69i61l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [momentum and post-earnings-announcement drift anomalies the role of liquidity risk - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=momentum+and+post-earnings-announcement+drift+anomalies+the+role+of+liquidity+risk&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoBXoECGUQBg)
+
+- [ ] [Monte Carlo methods - Google Search](https://www.google.com/search?q=Monte+Carlo+methods&oq=Monte+Carlo+methods&aqs=chrome..69i57j69i61j69i60l2&sourceid=chrome&ie=UTF-8#iqh=error)
+
+- [ ] [Monte Carlo methods in finance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Monte+Carlo+methods+in+finance&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDbOLqs0MJJLys_PVsjPU8jNzytJVUhOLMrJVyjOzC3NSSzJzM-LEvYFizuDxXNTSzLyU4pPMYJNMMstyDK1PMXIq5-ub2iYbJRTZFSVlgaVTEqKL0zJgnIgdp1i5AGpNErKNU6rMChBcJPjy7PSfzHKOUGdgmwlwimLWOWwuEUhM08hLTMvMS85FQBOO3Qh2gAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQCg)
+
+- [ ] [Monte Carlo Methods in Financial Engineering - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Monte+Carlo+Methods+in+Financial+Engineering&stick=H4sIAAAAAAAAAOOQUeLRT9c3NErKTY4vz0o3kkvKz89WyM9TyM3PK0lVSE4syslXKM7MLc1JLMnMz4sS9gWLO4PFc1NLMvJTik8xcunn6huY5RZkmVqeYuQFGWiYbJRTZFSVlgaVTEqKL0zJgnKSjbPLKg1OMcKsNk6rMChBcMEu-cUo5wR1CrKVCKcsYtVBlvCFuEUhM0_BLTMvMS85MzFHwTUvPTMvNbUoMy8dAA5ThTHqAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQDg)
+
+- [ ] [Monte Carlo simulation basics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Monte+Carlo+simulation+basics&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ3rMBKAJ6BAhmEEg)
+
+- [ ] [monte carlo simulation example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+example&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoAXoECGgQAg)
+
+- [ ] [monte carlo simulation excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+excel&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoBXoECGgQBg)
+
+- [ ] [monte carlo simulation explained - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+explained&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoAHoECGgQAQ)
+
+- [ ] [monte carlo simulation finance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+finance&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoBnoECGgQBw)
+
+- [ ] [Monte Carlo Simulation in Statistical Physics: An Introduction - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Monte+Carlo+Simulation+in+Statistical+Physics:+An+Introduction&stick=H4sIAAAAAAAAAOOQUeLRT9c3NErKNU6rMCgxkkvKz89WyM9TyM3PK0lVSE4syslXKM7MLc1JLMnMz4sS9gWLO4PFc1NLMvJTik8xcunn6huY5RZkmVqeYuQFGWiYbJRTZFSVlgaVTEqKL0zJgnKSjbPLKg1OMaJYjeAmx5dnpf9ilHOCOgXZSoRTFrHaIUsEwyUUMvMUgkuAzOKSzOTEHIWAjMrizORiKwXHPAXPvJKi_JTSZJA6AJjUDfr8AAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQDA)
+
+- [ ] [monte carlo simulation matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+matlab&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoB3oECGgQCA)
+
+- [ ] [monte carlo simulation steps - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=monte+carlo+simulation+steps&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQ1QIoA3oECGgQBA)
+
+- [ ] [Monte Carlo Statistical Methods - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Monte+Carlo+Statistical+Methods&stick=H4sIAAAAAAAAAOOQUeLSz9U3MMstyDK1NJJLys_PVsjPU8jNzytJVUhOLMrJVyjOzC3NSSzJzM-LEvYFizuDxXNTSzLyU4pPMSKZcIqRVz9d39Aw2SinyKgqLQ0qmZQUX5iSBeUkG2eXVRqcYuQBqTRKyjVOqzAoQXCT48uz0n8xyjlBnYJsJcIpi1jlkSWCS4CixSWZyYk5Cr4QdwEAflYmQNsAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQBA)
+
+- [ ] [post earnings announcement drift example - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNQMmFJbPmoaz1KOvpcxewNOh1ZNTQ%3A1573378945156&lei=gdvHXbyNCbyNr7wP6oyLgAk&q=post%20earnings%20announcement%20drift%20example&ved=2ahUKEwiYyrWurd_lAhVBBKYKHUo4D64QsKwBKAF6BAgCEAI)
+
+- [ ] [post earnings announcement drift investopedia - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=post+earnings+announcement+drift+investopedia&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoAHoECGUQAQ)
+
+- [ ] [post earnings drift backtest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=post+earnings+drift+backtest&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoAXoECGUQAg)
+
+- [ ] [post earnings drift backtest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ:1573378721550&q=post+earnings+drift+backtest&sa=X&ved=2ahUKEwjp362-rN_lAhWWwosBHWJ0AvwQ1QIoAHoECGQQAQ)
+
+- [ ] [post earnings strategy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=post+earnings+strategy&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoBnoECGUQBw)
+
+- [ ] [post holdings earnings - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=post+holdings+earnings&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoB3oECGUQCA)
+
+- [ ] [Post-Earnings-Announcement Drift r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=Post-Earnings-Announcement+Drift+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQsAR6BAgIEAE)
+
+- [ ] [Post-Earnings-Announcement Drift r code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA%3A1573378725688&ei=pdrHXbnbKcWUr7wPk5uQMA&q=Post-Earnings-Announcement+Drift+r+code&oq=Post-Earnings-Announcement+Drift+r+code&gs_l=psy-ab.3..33i22i29i30.122807.127450..127804...2.3..0.608.2630.0j1j2j2j0j2......0....1..gws-wiz.......0i71j35i302i39j33i299j33i160.uZO-QZsPLfk&ved=0ahUKEwj5warArN_lAhVFyosBHZMNBAYQ4dUDCAs&uact=5)
+
+- [ ] [Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium - Google Search](https://www.google.com/search?q=Post-Earnings-Announcement+Drift%3A+Delayed+Price+Response+or+Risk+Premium&oq=Post-Earnings-Announcement+Drift%3A+Delayed+Price+Response+or+Risk+Premium&aqs=chrome..69i57j69i59l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium? - Google Search](https://www.google.com/search?q=Post-Earnings-Announcement+Drift%3A+Delayed+Price+Response+or+Risk+Premium%3F&oq=Post-Earnings-Announcement+Drift%3A+Delayed+Price+Response+or+Risk+Premium%3F&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [pre earnings announcement drift - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZkM5Qfr3OBBkkmfWzCNmr1PLpA:1573378725688&q=pre+earnings+announcement+drift&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ1QIoAnoECGUQAw)
+
+- [ ] [python stock github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSonwbUGYIz93IeTmV_gUk5G9XQnw%3A1573378891239&lei=S9vHXbKNDqSzmAXBlra4Ag&q=python%20stock%20github&ved=2ahUKEwjRnd2Wrd_lAhWDzIsBHaz0B64QsKwBKAB6BAgAEAE)
+
+- [ ] [quantopian earnings date - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ%3A1573378721550&lei=odrHXamLIZaFr7wP4uiJ4A8&q=quantopian%20earnings%20date&ved=2ahUKEwji3ovBrN_lAhUyBKYKHTmFDzAQsKwBKAF6BAgAEAI)
+
+- [ ] [quantopian earnings strategy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ:1573378721550&q=quantopian+earnings+strategy&sa=X&ved=2ahUKEwjp362-rN_lAhWWwosBHWJ0AvwQ1QIoA3oECGQQBA)
+
+- [ ] [quantopian earnings strategy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ%3A1573378721550&lei=odrHXamLIZaFr7wP4uiJ4A8&q=quantopian%20earnings%20strategy&ved=2ahUKEwji3ovBrN_lAhUyBKYKHTmFDzAQsKwBKAB6BAgAEAE)
+
+- [ ] [quantopian earnings surprise - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ:1573378721550&q=quantopian+earnings+surprise&sa=X&ved=2ahUKEwjp362-rN_lAhWWwosBHWJ0AvwQ1QIoB3oECGQQCA)
+
+- [ ] [quantopian example strategies - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ:1573378721550&q=quantopian+example+strategies&sa=X&ved=2ahUKEwjp362-rN_lAhWWwosBHWJ0AvwQ1QIoBnoECGQQBw)
+
+- [ ] [quantopian short term reversal - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSbyTqvwKTFwPJdFuVEDahHPSSxFQ%3A1573378721550&lei=odrHXamLIZaFr7wP4uiJ4A8&q=quantopian%20short%20term%20reversal&ved=2ahUKEwji3ovBrN_lAhUyBKYKHTmFDzAQsKwBKAV6BAgAEAY)
+
+- [ ] [seasonal adjustment python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQlJETfewqPkF8Ulzsq9YqYtZKOkg%3A1573377823456&lei=H9fHXce3G4SKr7wPzpa1qA4&q=seasonal%20adjustment%20python&ved=2ahUKEwjrw4eTqd_lAhUPrpQKHYedCU0QsKwBKAV6BAgCEAY)
+
+- [ ] [Seasonality Analysis of the Sales - Google Search](https://www.google.com/search?q=Seasonality%20Analysis%20of%20the%20Sales)
+
+- [ ] [Simulation and the Monte Carlo Method Dirk Kroese - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Simulation+and+the+Monte+Carlo+Method+Dirk+Kroese&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2yikyqkpLM5JLys_PVsjPU8jNzytJVUhOLMrJVyjOzC3NSSzJzM-LEvYFizuDxXNTSzLyU4pPMXLp5-obmOUWZJlanmJENREqmZQUX5iSBeUkG2eXVRqcYuQBqTRKyjVOqzAoQXCT48uz0n8xyjlBnYJsJcIpi1gNg-EchcS8FIWSjFQUtb5g5ym4ZBZlK3gX5acWpwIAidRRHvAAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQBg)
+
+
+
+## 11/11/2019
+
+- [ ] [cvar portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=cvar+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoA3oECGUQBA)
+
+- [ ] [efficient portfolio r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=efficient%20portfolio%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAV6BAgEEAY)
+
+- [ ] [genetic algorithm example code in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=genetic%20algorithm%20example%20code%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAB6BAgEEAE)
+
+- [ ] [genetic algorithm portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=genetic%20algorithm%20portfolio%20optimization&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAB6BAgGEAE)
+
+- [ ] [kable display as percent in r - Google Search](https://www.google.com/search?q=kable+display+as+percent+in+r&oq=kable+display+as+percent+in+r&aqs=chrome..69i57j33l7.6331j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [maximum return portfolio r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=maximum+return+portfolio+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBnoECGUQBw)
+
+- [ ] [minimum variance portfolio in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=minimum%20variance%20portfolio%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgGEAU)
+
+- [ ] [portfolio allocation in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+allocation+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoB3oECGUQCA)
+
+- [ ] [portfolio analysis in r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+analysis+in+r+pdf&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBXoECGUQBg)
+
+- [ ] [portfolio optimization in r - Google Search](https://www.google.com/search?q=portfolio+optimization+in+r&oq=portfolio+optimization+in+r&aqs=chrome..69i57j0l6j69i60.11308j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+in+r&stick=H4sIAAAAAAAAAOOQMZIuyC8qScvPycxXyC8oyczNrEosyczPU0jKz8-OwiWZmadQdIqRVz9d39Aw3dDE1DIpw-wUIw-Ib5SUa5ScEm8K5xYWluRU5SFkK_LM09Lg3Erz5GzDLISsSYFpthGCa5ZtWlmF4CZbGJgj9OZamJqXALlc-rn6BmZZBUYFWb8YpQNw-2cRKz4PAQAEUM1lDQEAAA&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQzTooADB2egQIYhAC)
+
+- [ ] [portfolio optimization markowitz - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio%20optimization%20markowitz&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgEEAU)
+
+- [ ] [portfolio optimization problem in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+problem+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBHoECGUQBQ)
+
+- [ ] [portfolio optimization using deep learning - Google Search](https://www.google.com/search?q=portfolio+optimization+using+deep+learning&oq=portfolio+optimization+using+&aqs=chrome.1.69i57j0l4j69i60l2j69i64.9579j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization using quantprog in r - Google Search](https://www.google.com/search?q=portfolio+optimization+using+quantprog+in+r&oq=portfolio+optimization+using+quantprog+in+r&aqs=chrome..69i57.6990j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization with r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+with+r+pdf&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAHoECGUQAQ)
+
+- [ ] [portfolio optimization with r rmetrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio%20optimization%20with%20r%20rmetrics&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAF6BAgEEAI)
+
+- [ ] [portfolio.optim r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio.optim%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAN6BAgGEAQ)
+
+- [ ] [portfolioanalytics r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolioanalytics%20r%20example&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAN6BAgEEAQ)
+
+- [ ] [quadprog python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20python&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAR6BAgAEAU)
+
+- [ ] [quadprog python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20python&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAV6BAgBEAY)
+
+- [ ] [quadprog r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw:1573382773754&q=quadprog+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwiN28zKu9_lAhXEGaYKHW_zAi0QsAR6BAgQEAE)
+
+- [ ] [quadprog r github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20r%20github&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAB6BAgBEAE)
+
+- [ ] [quadratic programming - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadratic%20programming&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAV6BAgAEAY)
+
+- [ ] [quantmod package in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quantmod%20package%20in%20r&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAN6BAgAEAQ)
+
+- [ ] [quantopian portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=quantopian%20portfolio%20optimization&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAJ6BAgEEAM)
+
+- [ ] [r finance portfolio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=r%20finance%20portfolio&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgDEAU&biw=1920&bih=948)
+
+- [ ] [robust portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=robust+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAXoECGUQAg)
+
+- [ ] [rolling portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=rolling+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAnoECGUQAw)
+
+- [ ] [rolling portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=rolling%20portfolio%20optimization%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAF6BAgGEAI)
+
+- [ ] [solve.qp portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=solve.qp%20portfolio%20optimization&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAF6BAgBEAI)
+
+- [ ] [run r code in rstudio - Google Search](https://www.google.com/search?q=run+r+code+in+rstudio&oq=run+r+code+in+rstudio&aqs=chrome..69i57j0l4j69i65l3.5204j1j1&sourceid=chrome&ie=UTF-8)
+
+
+
+## 11/11/2019
+
+- [ ] [cvar portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=cvar%20portfolio%20optimization%20in%20r&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAN6BAgAEAQ)
+
+- [ ] [cvar portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=cvar+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoA3oECGUQBA)
+
+- [ ] [efficient frontier r - Google Search](https://www.google.com/search?q=efficient+frontier+r&oq=efficient+frontier+r&aqs=chrome..69i57j0l4j69i65j69i64l2.7531j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [efficient portfolio r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=efficient%20portfolio%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAV6BAgEEAY)
+
+- [ ] [genetic algorithm example code in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=genetic%20algorithm%20example%20code%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAB6BAgEEAE)
+
+- [ ] [genetic algorithm portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=genetic%20algorithm%20portfolio%20optimization&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAB6BAgGEAE)
+
+- [ ] [how to calculate the efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=how%20to%20calculate%20the%20efficient%20frontier&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAF6BAgAEAI)
+
+- [ ] [introcompfinr - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=introcompfinr&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAR6BAgAEAU)
+
+- [ ] [kable display as percent in r - Google Search](https://www.google.com/search?q=kable+display+as+percent+in+r&oq=kable+display+as+percent+in+r&aqs=chrome..69i57j33l7.6331j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [maximum return portfolio r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=maximum%20return%20portfolio%20r&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAB6BAgAEAE)
+
+- [ ] [maximum return portfolio r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=maximum+return+portfolio+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBnoECGUQBw)
+
+- [ ] [minimum variance portfolio in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=minimum%20variance%20portfolio%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgGEAU)
+
+- [ ] [portfolio allocation in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+allocation+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoB3oECGUQCA)
+
+- [ ] [portfolio analysis in r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+analysis+in+r+pdf&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBXoECGUQBg)
+
+- [ ] [portfolio in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=portfolio%20in%20r&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAJ6BAgAEAM)
+
+- [ ] [portfolio optimization in r - Google Search](https://www.google.com/search?q=portfolio+optimization+in+r&oq=portfolio+optimization+in+r&aqs=chrome..69i57j0l6j69i60.11308j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+in+r&stick=H4sIAAAAAAAAAOOQMZIuyC8qScvPycxXyC8oyczNrEosyczPU0jKz8-OwiWZmadQdIqRVz9d39Aw3dDE1DIpw-wUIw-Ib5SUa5ScEm8K5xYWluRU5SFkK_LM09Lg3Erz5GzDLISsSYFpthGCa5ZtWlmF4CZbGJgj9OZamJqXALlc-rn6BmZZBUYFWb8YpQNw-2cRKz4PAQAEUM1lDQEAAA&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQzTooADB2egQIYhAC)
+
+- [ ] [portfolio optimization markowitz - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio%20optimization%20markowitz&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgEEAU)
+
+- [ ] [portfolio optimization problem in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+problem+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBHoECGUQBQ)
+
+- [ ] [portfolio optimization using deep learning - Google Search](https://www.google.com/search?q=portfolio+optimization+using+deep+learning&oq=portfolio+optimization+using+&aqs=chrome.1.69i57j0l4j69i60l2j69i64.9579j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization using quantprog in r - Google Search](https://www.google.com/search?q=portfolio+optimization+using+quantprog+in+r&oq=portfolio+optimization+using+quantprog+in+r&aqs=chrome..69i57.6990j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization with r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+with+r+pdf&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAHoECGUQAQ)
+
+- [ ] [portfolio optimization with r rmetrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio%20optimization%20with%20r%20rmetrics&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAF6BAgEEAI)
+
+- [ ] [portfolio.optim r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio.optim%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAN6BAgGEAQ)
+
+- [ ] [portfolioanalytics r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=portfolioanalytics%20r%20example&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAV6BAgAEAY)
+
+- [ ] [portfolioanalytics r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolioanalytics%20r%20example&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAN6BAgEEAQ)
+
+- [ ] [quadprog python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20python&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAR6BAgAEAU)
+
+- [ ] [quadprog python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20python&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAV6BAgBEAY)
+
+- [ ] [quadprog r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw:1573382773754&q=quadprog+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwiN28zKu9_lAhXEGaYKHW_zAi0QsAR6BAgQEAE)
+
+- [ ] [quadprog r github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20r%20github&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAB6BAgBEAE)
+
+- [ ] [quadratic programming - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadratic%20programming&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAV6BAgAEAY)
+
+- [ ] [quantmod package in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quantmod%20package%20in%20r&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAN6BAgAEAQ)
+
+- [ ] [quantopian portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=quantopian%20portfolio%20optimization&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAJ6BAgEEAM)
+
+- [ ] [r finance portfolio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=r%20finance%20portfolio&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgDEAU&biw=1920&bih=948)
+
+- [ ] [robust portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=robust+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAXoECGUQAg)
+
+- [ ] [rolling portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=rolling+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAnoECGUQAw)
+
+- [ ] [rolling portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=rolling%20portfolio%20optimization%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAF6BAgGEAI)
+
+- [ ] [run r code in rstudio - Google Search](https://www.google.com/search?q=run+r+code+in+rstudio&oq=run+r+code+in+rstudio&aqs=chrome..69i57j0l4j69i65l3.5204j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [solve.qp portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=solve.qp%20portfolio%20optimization&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAF6BAgBEAI)

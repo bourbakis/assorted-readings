@@ -560,3 +560,744 @@ https://www.nbcnews.com/news/world/police-investigating-bts-member-over-traffic-
 - [ ] [Modern portfolio theory - Wikipedia](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 
 - [ ] []()
+
+
+
+
+
+
+
+
+
+## 11/9/2019
+
+- [ ] [sample covariance matrix excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT37AWjQdrRzna83I8eTRj-f68XtQ%3A1573168720598&ei=UKbEXZL-I4G8mAXt-auYBQ&q=sample+covariance+matrix+excel&oq=sample+covariance+matrix+exc&gs_l=psy-ab.1.0.0j0i22i30j0i333l3.2864.3809..4829...0.4..0.181.537.0j4......0....1..gws-wiz.......0i71j0i67j0i20i263.dMzA01w4l2E)
+
+- [ ] [sharp ratio excel - Google Search](https://www.google.com/search?q=sharp+ratio+excel&oq=sharp+ratio+excel&aqs=chrome..69i57j0l6.6958j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [sharpe ratio excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTojl-xYABCwgbfm3roUO7iPtj8yA:1573169083998&q=sharpe+ratio+excel&tbm=isch&source=univ&sa=X&ved=2ahUKEwiDkrHDn9nlAhXLKqYKHZWrA5EQsAR6BAgIEAE)
+
+- [ ] [Using the estimated means and the sample covariance matrix, compute the global minimum variance portfolio - Google Search](https://www.google.com/search?q=Using+the+estimated+means+and+the+sample+covariance+matrix%2C+compute+the+global+minimum+variance+portfolio&oq=Using+the+estimated+means+and+the+sample+covariance+matrix%2C+compute+the+global+minimum+variance+portfolio&aqs=chrome..69i57.1181j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [bettersolutions.com](https://bettersolutions.com/excel/functions/matrix-category.htm)
+
+- [ ] [Matrix Operations | Real Statistics Using Excel](http://www.real-statistics.com/matrices-and-iterative-procedures/matrix-operations/)
+
+- [ ] [www.engineerexcel.com](https://www.engineerexcel.com/matrix-multiplication-in-excel/)
+
+- [ ] [What Is a Good Sharpe Ratio?](https://www.investopedia.com/ask/answers/010815/what-good-sharpe-ratio.asp)
+
+- [ ] [www.investopedia.com](https://www.investopedia.com/ask/answers/010815/how-do-you-calculate-sharpe-ratio-excel.asp)
+
+- [ ] [Sharpe Ratio Formula | Calculator (Excel template)](https://www.educba.com/sharpe-ratio-formula/)
+
+- [ ] [Use the Analysis ToolPak to perform complex data analysis - Office Support](https://support.office.com/en-us/article/use-the-analysis-toolpak-to-perform-complex-data-analysis-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6?NS=EXCEL&Version=19&SysLcid=1033&UiLcid=1033&AppVer=ZXL190&HelpId=xladdin.chm1802&ui=en-US&rs=en-US&ad=US)
+
+- [ ] [Rolling Sharpe Ratio - Breaking Down Finance](https://breakingdownfinance.com/finance-topics/performance-measurement/rolling-sharpe-ratio/)
+
+- [ ] [Modified Sharpe Ratio - Invest Solver](https://investsolver.com/modified-sharpe-ratio/)
+
+- [ ] [Sharpe Ratio | Comprehensive Guide with Excel Examples](https://www.wallstreetmojo.com/sharpe-ratio/)
+
+- [ ] [Breaking Into Wall Street (BIWS) – Review + Sample Videos + Free $397 Bonus](https://www.financewalk.com/biws-review/)
+
+- [ ] [Sharpe Ratio Formula | Calculator (Excel template)](https://www.educba.com/sharpe-ratio-formula/)
+
+- [ ] [client.login.rstudio.cloud](https://client.login.rstudio.cloud/oauth/login?show_auth=0&show_login=0&show_setup=1)
+
+
+
+
+## 11/10/2019
+
+- [ ] [efficient frontier and cal template - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuKFsqCP_GkPROIIuGbI0L2dMo8g%3A1573151014646&lei=JmHEXdWFJ8OGr7wP7pe4wAs&q=efficient%20frontier%20and%20cal%20template&ved=2ahUKEwj4n-id3NjlAhXPw4sBHbFtCFYQsKwBKAF6BAgAEAI)
+
+- [ ] [google sheets efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3lv_hNnHfkUe5oCrh5P9JVabE8g:1573170962201&q=google+sheets+efficient+frontier&sa=X&ved=2ahUKEwi9u_3CptnlAhWJyIsBHT2TB9IQ1QIoA3oECGUQBA)
+
+- [ ] [minimum variance portfolio excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3lv_hNnHfkUe5oCrh5P9JVabE8g:1573170962201&q=minimum+variance+portfolio+excel&sa=X&ved=2ahUKEwi9u_3CptnlAhWJyIsBHT2TB9IQ1QIoAnoECGUQAw)
+
+- [ ] [google sheets efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSQQdaa_rHTv2ZQ9DXVORTyZUTGTg:1573171083222&q=google+sheets+efficient+frontier&tbm=isch&source=univ&ved=2ahUKEwiWhdj8ptnlAhUGBKYKHYAHBMYQsAR6BAgDEAE)
+
+- [ ] [Portfolio Theory Calculation sheet - Google Search](https://www.google.com/search?q=Portfolio+Theory+Calculation+sheet&oq=Portfolio+Theory+Calculation+sheet&aqs=chrome..69i57j0l7.3047j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [My Drive - Google Drive](https://drive.google.com/drive/u/1/my-drive)
+
+- [ ] [Are Aspects of Twitter Use Associated with Reduced Depressive Symptoms? The Moderating Role of In-Person Social Support | Cyberpsychology, Behavior, and Social Networking](https://www.liebertpub.com/doi/10.1089/cyber.2019.0035)
+
+- [ ] [Philip Glass Is Too Busy to Care About Legacy - The New York Times](https://www.nytimes.com/2019/11/07/arts/music/philip-glass-akhnaten-met-opera.html?action=click&module=Editors%20Picks&pgtype=Homepage)
+
+- [ ] [Nestle launches luxury KitKat bars — but they're not cheap - CNN](https://www.cnn.com/2019/09/23/business/kit-kat-luxury-bars-scli-gbr-intl)
+
+- [ ] [Moi, j’aime McDonald’s | L’actualité](https://lactualite.com/lactualite-affaires/moi-jaime-mcdonalds/)
+
+- [ ] [All the international brands that have apologized to China - SupChina](https://signal.supchina.com/all-the-international-brands-that-have-apologized-to-china/)
+
+- [ ] [Can the Catholic Church Help Explain Western Psychology? | Harvard Magazine](https://www.harvardmagazine.com/2019/11/can-the-catholic-church-help-explain-western-psychology)
+
+- [ ] [The early Catholic Church may have helped spark Western individualism | Science News](https://www.sciencenews.org/article/medieval-catholic-church-may-have-helped-spark-western-individualism/amp?__twitter_impression=true)
+
+- [ ] [Can the Catholic Church Help Explain Western Psychology? | Harvard Magazine](https://www.harvardmagazine.com/2019/11/can-the-catholic-church-help-explain-western-psychology)
+
+- [ ] [(1) Tage RaiさんはTwitterを使っています: 「Some thoughts on "The Church, intensive kinship, and global psychological variation" in @sciencemagazine today. Its the most theoretically ambitious paper I've encountered, maybe ever. 1/ @JF_Schulz @JoHenrich @DumanBRad jonathan beauchamp https://t.co/uLiYmBnwcq」 / Twitter](https://mobile.twitter.com/tage_rai/status/1192537590353629185)
+
+- [ ] [Are the Tech Bros Who ‘Dopamine Fast’ Full of Shit? | MEL Magazine](https://melmagazine.com/en-us/story/are-the-tech-bros-who-dopamine-fast-full-of-shit)
+
+- [ ] [What if "dopamine fasting" isn't Silicon Valley B.S.? The science is there | Inverse](https://www.inverse.com/article/59978-dopamine-fasting-trend-neuroscience)
+
+- [ ] [How to Feel Nothing Now, in Order to Feel More Later - The New York Times](https://www.nytimes.com/2019/11/07/style/dopamine-fasting.html?action=click&module=Top%20Stories&pgtype=Homepage)
+
+- [ ] [Here’s the weird thing about a post-Christian Christendom - The Washington Post](https://www.washingtonpost.com/opinions/2019/11/07/heres-weird-thing-about-post-christian-christendom/)
+
+- [ ] [Benjamin Schreiber says life sentence served after he briefly died and was resuscitated - The Washington Post](https://www.washingtonpost.com/nation/2019/11/08/benjamin-schreiber-denied-life-sentence-appeal-iowa/)
+
+- [ ] [Powerful Coalition Pushes Back on Anti-Tech Fervor - The New York Times](https://www.nytimes.com/2019/11/07/technology/powerful-coalition-pushes-back-on-anti-tech-fervor.html)
+
+- [ ] [Courses given by John Hassler](http://hassler-j.iies.su.se/COURSES/)
+
+- [ ] [Exploring Wealth Inequality | Cato Institute](https://www.cato.org/publications/policy-analysis/exploring-wealth-inequality)
+
+- [ ] [Craig MacTavish: Inside my three-month whirlwind stint in the KHL - TSN.ca](https://www.tsn.ca/craig-mactavish-inside-my-three-month-whirlwind-stint-in-the-khl-1.1393997)
+
+- [ ] [Shachihata - Google Search](https://www.google.com/search?q=Shachihata&oq=Shachihata&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Japanese commuters try new ways to deter gropers - Pervert alert](https://www.economist.com/asia/2019/10/31/japanese-commuters-try-new-ways-to-deter-gropers)
+
+- [ ] [My Drive - Google Drive](https://drive.google.com/drive/u/1/my-drive)
+
+- [ ] [Can an Artificial Intelligence Write A Good Blog Post? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/can-an-artificial-intelligence-write-a-good-blog-post.html)
+
+- [ ] [Did the medieval church make us WEIRD? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/did-the-medieval-church-make-us-weird.html)
+
+- [ ] [Model this dopamine fast - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/model-this-dopamine-fast.html)
+
+- [ ] [(51) Joe Rogan Experience #1379 - Ben Westhoff - YouTube](https://www.youtube.com/watch?v=gxwgwaLS7KI&feature=youtu.be)
+
+- [ ] [The Church, intensive kinship, and global psychological variation | Science](https://science.sciencemag.org/content/366/6466/eaau5141)
+
+- [ ] [The Church, intensive kinship, and global psychological variation | Science](https://science.sciencemag.org/content/366/6466/eaau5141/tab-pdf)
+
+- [ ] [Maximum Likelihood Estimation (MLE) to fit an appropriate accident severity distribution for individual claims - Google Search](https://www.google.com/search?q=Maximum+Likelihood+Estimation+(MLE)+to+fit+an+appropriate+accident+severity+distribution+for+individual+claims&oq=Maximum+Likelihood+Estimation+(MLE)+to+fit+an+appropriate+accident+severity+distribution+for+individual+claims&aqs=chrome..69i57.861j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Weibull distribution - Wikipedia](https://en.wikipedia.org/wiki/Weibull_distribution)
+
+- [ ] [Risk Analysis and Portfolio Modelling - Google Books](https://books.google.com/books?id=ct-2DwAAQBAJ&pg=PA99&lpg=PA99&dq=fit+the+Log-normal,+Gamma,+Weibull+and+Burr+XII+distributions+to+the+claims+data+and+use+appropriate+goodness-of-fit+tests&source=bl&ots=XmUgFlp8Rp&sig=ACfU3U2JqoQPsEySmfzD1m0IkJdFGaBAkQ&hl=en&sa=X&ved=2ahUKEwiy_JC--9vlAhUHq5QKHWYECiQQ6AEwAnoECCgQAQ#v=onepage&q=fit%20the%20Log-normal%2C%20Gamma%2C%20Weibull%20and%20Burr%20XII%20distributions%20to%20the%20claims%20data%20and%20use%20appropriate%20goodness-of-fit%20tests&f=false)
+
+- [ ] [RPubs - DEM 7283 - Example 2- Logit and Probit Models](https://rpubs.com/corey_sparks/353626)
+
+- [ ] [RPubs - Example 6 Multiple Imputation &amp; Missing Data](https://rpubs.com/corey_sparks/63681)
+
+- [ ] [RPubs - Example 7 Principal components analysis](https://rpubs.com/corey_sparks/65532)
+
+- [ ] [RPubs - Extracting pdf tables](https://rpubs.com/jflowers/359392)
+
+- [ ] [RPubs - Portfolio using RMarkdown](https://rpubs.com/trishul/portfolio)
+
+- [ ] [RPubs - Predicting Medical Expenses](https://rpubs.com/hoakevinquach/Predicting-Medical-Expenses)
+
+- [ ] [RPubs - Predictive Modeling Process](https://rpubs.com/arifulmondal/predmod)
+
+- [ ] [RPubs - U.S. Household Expense Analysis](https://rpubs.com/ragunandan/375426)
+
+- [ ] [The beta Burr type X distribution properties with application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4899377/)
+
+
+
+
+## 11/10/2019
+
+- [ ] [Ruin Theory](https://www.slideshare.net/DavidRechavel/ruin-theory-64003521)
+
+- [ ] [(43) How can I find the rank of a matrix? - Quora](https://www.quora.com/How-can-I-find-the-rank-of-a-matrix-2)
+
+- [ ] [Engineering Software and Solutions for Reliability, Durability and Performance - HBM Prenscia](https://www.hbmprenscia.com/)
+
+- [ ] [Knitr with R Markdown](https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
+
+- [ ] [1.3.6.6.9. Lognormal Distribution](https://www.itl.nist.gov/div898/handbook/eda/section3/eda3669.htm)
+
+- [ ] [Life Data Analysis Reference Book - ReliaWiki](http://reliawiki.org/index.php/Life_Data_Analysis_Reference_Book)
+
+- [ ] [The Lognormal Distribution - ReliaWiki](http://reliawiki.org/index.php/The_Lognormal_Distribution)
+
+- [ ] [Weibull++ Examples - ReliaWiki](http://reliawiki.org/index.php/Weibull%2B%2B_Examples)
+
+- [ ] [Code Chunks](https://rmarkdown.rstudio.com/lesson-3.html)
+
+- [ ] [r - Suppress library comments from output with knitr - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/152488/suppress-library-comments-from-output-with-knitr)
+
+- [ ] [Reliability Engineering, Reliability Theory and Reliability Data Analysis and Modeling Resources for Reliability Engineers](https://www.weibull.com/)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/projects)
+
+- [ ] [LogNormalLMMEstimator (ELKI: Environment for DeveLoping KDD-Applications Supported by Index-Structures)](http://elki.dbs.ifi.lmu.de/releases/release0.7.1/doc/de/lmu/ifi/dbs/elki/math/statistics/distribution/estimator/LogNormalLMMEstimator.html)
+
+- [ ] [Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more](https://www.amazon.com/###)
+
+- [ ] [不走弯路:14G最适合入门的Python+数据分析学习教程资料，先到先得~](https://mp.weixin.qq.com/s?__biz=MzI0OTc0MzAwNA==&mid=2247485755&idx=1&sn=5578d4c80ed3ccbd678d2b04f0dd6f56&chksm=e98d9ac8defa13de1a934a3106ee465c1dfd19e635a2f3b270cc84e8aa8354287c0ceb51a8bc&scene=0&xtrack=1&key=b360eb3d5d26029dd53f4af8134504af53c88f5b2f8e7b729e399056fa05be039025d79b3d7d91e32ac452ab248b9d8123d0e5ae43b7cd30d22c026292763d9cffa13c8463785c8a54df0347a8be04fe&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [使用python假装装黑客，批量破解朋友的网站密码](https://mp.weixin.qq.com/s?__biz=MzI0OTc0MzAwNA==&mid=2247485757&idx=1&sn=d6b716115687374112b65ea35bbcb7f7&chksm=e98d9acedefa13d8b5c82789aee0bffa64e548c479125865c6487b5d39afd741d79a44278cee&scene=0&xtrack=1&key=f9f399b73a44587a38c6eb0305b64d89edf9ec41fea83522c3867216a9ac62c5f9ff9969636e5dd44e15cf938622a60b015ba1b6f4c19aa1312d0a7ea9279c0588d2725e51aee4847dc2bf9e462d8c42&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [漫画 | 面试的我 VS 真实的我](https://mp.weixin.qq.com/s?__biz=MzI0OTc0MzAwNA==&mid=2247485755&idx=2&sn=7d8b82fb47a3dddd069698647cb45708&chksm=e98d9ac8defa13de3a033fc735712b44a59a96afed639474b5f02f6b81672a2d43b6dd886ece&scene=0&xtrack=1&key=e15c8f28f870437090d51c02e08326e56f4a1810d16f7be64d93c01a812d4df65d45f321d28de62a5b64a498d1b3d8ea79206b3c8ea59470b51dad7d52f52c441b3a86f9366c579789016164407bef5a&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [阿里、腾讯、美团、头条大厂的员工等级及薪资说明，你对标阿里P几？](https://mp.weixin.qq.com/s?__biz=MzI0OTc0MzAwNA==&mid=2247485752&idx=1&sn=89aa5ae26cf40e644a4f88b486e5445a&chksm=e98d9acbdefa13dd9b8cd7845bef08af006eb9863c61fc4e0f5ed48b625643951919cfc0da2b&scene=0&xtrack=1&key=f9ce3cccd4c4920c98034d27a8a1592745e95610a91a73d818483bb7e1ef775b5fbe7c87ee98a65d4e82814ced5b37f8e7c7bf2cd59eeac2039b3946e34f58bcb4aaf5a2cbc39f0aaff58ca37bea4506&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [使用VSCode进行远程炼丹](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247492926&idx=2&sn=71b8f296d5be99904afb4c16700c9894&chksm=f9a197b1ced61ea79c9822f286f6d6040a0986cc3376690ac99d599b6a1d3944a04da6370b25&mpshare=1&scene=1&srcid=&sharer_sharetime=1573268684711&sharer_shareid=42a896371dfe6ebe8cc4cd474d9b747c&key=e15c8f28f8704370582cf3d4cf20cb4e1ddf12e4331f28b4669f00bee4b6f823d8a8f201058d5a990e123d0166258ca2e99418a36953e9211bcba5983ea3c523d9355c2bf9f7abe1571a00ab18d286a0&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [网易微专业 交互设计师教程分享](https://mp.weixin.qq.com/s?__biz=MzUyOTE1NDA3MA==&mid=2247484321&idx=1&sn=b1adb9daf22ba991f4cd7fa31d0c2192&chksm=fa642ad8cd13a3ce83155793716e70cd4ed5d9ee7343fce333daa77b445f75c82b568d4b972b&scene=0&xtrack=1&key=f9f399b73a44587a7a344a7833ca9d9f6f180f08107e63ba0b56901288ebba96b81ee78728c9632377cb2e0d0f4a51301e61b76aaf0667de2dcff622d1cabda5a818e507d3bbb22d52ab30c4c0f082cb&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [94页论文综述卷积神经网络：从基础技术到研究前景](https://mp.weixin.qq.com/s?__biz=MzU3ODkwNDM3Mw==&mid=2247484862&idx=2&sn=736aae555a9357aa580b76d303d70d35&chksm=fd6f0de4ca1884f250736b64ed78c9661d6df1d6cc2ac87c45d89103ed099d8da869b0516854&scene=0&xtrack=1&key=4457fd9057cefb6c035b58af13c02b975c346ceea850ea0ce7964e0f1594fe1e38a0a1d60375c26979e86212d9c600a2c334c931b6c7cb6843832538216b8c298dd0a751d9407edcd04800643a861086&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [[1803.08834] What Do We Understand About Convolutional Networks?](https://arxiv.org/abs/1803.08834)
+
+- [ ] [深度分析！如何把支付宝存储服务器给炸了？炸了会发生什么？](https://mp.weixin.qq.com/s?__biz=MzU3ODkwNDM3Mw==&mid=2247484862&idx=1&sn=022bbd70044d5b285af8935859ad5625&chksm=fd6f0de4ca1884f2c1f52309e5b7b40ebc7cc7877a2f03df90945d54d1ce240f58e8e458ba25&scene=0&xtrack=1&key=af7bb4aaf3b59cd818485180b08a753a1be49fe5cd2dbe99d20f484ceedbff4bb9fe3fbcfb0f81136214f34fcb7394c4af418dd21773703de4ca22b0ed25c35fe2dc8bfb9398bd36d58c7d4eba75bdf6&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [资源&讲解|一篇全面的深度学习综述分享](https://mp.weixin.qq.com/s?__biz=MzU3ODkwNDM3Mw==&mid=2247484870&idx=1&sn=10882ee60d667f7f4cf5117c4c2c2ec4&chksm=fd6f0d9cca18848a6f7d3cde3491e4e77170c37b9051f776ca5adec19fc3ff109bda1eae3d6f&scene=0&xtrack=1&key=f9ce3cccd4c4920cfa1be2ad9066b49e7adce39e5bfd27cf73f872c4feab73189037fcd41dfb8eb9dfe8bf01b790f5cd596196c3f95c5b1ed75bdfd34caf25b4500aefb9ad059f8ff054d60a1440ee57&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [arxiv.org](https://arxiv.org/pdf/1807.08169v1.pdf)
+
+- [ ] [medium.com](https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a)
+
+- [ ] [HuggingFace – Medium](https://medium.com/huggingface)
+
+- [ ] [Hugging Face – On a mission to solve NLP, one commit at a time.](https://huggingface.co/)
+
+- [ ] [R: The Reverse Weibull Distribution](http://finzi.psych.upenn.edu/library/evd/html/rweibull.html)
+
+- [ ] [www.reddit.com](https://www.reddit.com/r/statistics/comments/91o8to/weibull_distribution/)
+
+- [ ] [weibullanalysis.dvi](http://faculty.washington.edu/fscholz/Reports/weibullanalysis.pdf)
+
+- [ ] [Parametric regression model for survival data: Weibull regression model as an example](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233524/)
+
+- [ ] [A Note on Characterisations of the Weibull Distribution on JSTOR](https://www.jstor.org/stable/25050594?seq=1#page_scan_tab_contents)
+
+- [ ] [The Exponentiated Weibull distribution](https://rstudio-pubs-static.s3.amazonaws.com/291883_38e5b7f177a64d7aa538ddb1874bbed6.html)
+
+- [ ] [The Weibull Distribution - ReliaWiki](http://reliawiki.org/index.php/The_Weibull_Distribution)
+
+- [ ] [On Some Further Properties and Application of Weibull- R Family of Distributions | SpringerLink](https://link.springer.com/article/10.1007%2Fs40745-018-0142-7)
+
+- [ ] [Quick-R: Probability Plots](https://www.statmethods.net/advgraphs/probability.html)
+
+- [ ] [R code to implement the Weibull Distribution | S-Logix](https://slogix.in/how-to-implement-the-weibull-distribution-in-r)
+
+- [ ] [R: The Weibull Distribution](http://ceadserv1.nku.edu/longa//Rweb/library/base/html/Weibull.html)
+
+- [ ] [RPubs - Weibull Distribution Basics](https://rpubs.com/JanpuHou/307645)
+
+- [ ] [R: The Weibull Distribution](https://astrostatistics.psu.edu/su07/R/html/stats/html/Weibull.html)
+
+- [ ] [Weibull Distribution: Characteristics of the Weibull Distribution](https://www.weibull.com/hotwire/issue14/relbasics14.htm)
+
+- [ ] [Weibull Distribution and Weibull Analysis - Statistics How To](https://www.statisticshowto.datasciencecentral.com/weibull-distribution/)
+
+- [ ] [beta.mle: MLE of distributions defined in the (0, 1) interval in Rfast: A Collection of Efficient and Extremely Fast R Functions](https://rdrr.io/cran/Rfast/man/beta.mle.html)
+
+- [ ] [An Introductory Guide to Maximum Likelihood Estimation (with a case study in R)](https://www.analyticsvidhya.com/blog/2018/07/introductory-guide-maximum-likelihood-estimation-case-study-r/)
+
+- [ ] [Maximum Likelihood -- from Wolfram MathWorld](http://mathworld.wolfram.com/MaximumLikelihood.html)
+
+- [ ] [Doing Maximum Likelihood Estimation by Hand in R](http://www.johnmyleswhite.com/notebook/2010/04/21/doing-maximum-likelihood-estimation-by-hand-in-r/)
+
+- [ ] [people.reed.edu/~jones/Courses/GammaMLE.R](http://people.reed.edu/~jones/Courses/GammaMLE.R)
+
+- [ ] [people.reed.edu/~jones/Courses/GammaMLE.R](http://people.reed.edu/~jones/Courses/GammaMLE.R)
+
+- [ ] [weibull.mle function | R Documentation](https://www.rdocumentation.org/packages/weibullness/versions/1.19.8/topics/weibull.mle)
+
+- [ ] [eweibull function | R Documentation](https://www.rdocumentation.org/packages/EnvStats/versions/2.3.1/topics/eweibull)
+
+- [ ] [weibullMLE: Maximum Likelihood Parameter Estimation of a Weibull Model... in STAR: Spike Train Analysis with R](https://rdrr.io/cran/STAR/man/weibullMLE.html)
+
+- [ ] [GitHub年度报告：Python首次击败Java，中国成第二大开源贡献国](https://mp.weixin.qq.com/s/zTz_cXmsmxe9K2Y2eB_qqA)
+
+- [ ] [会看源码，将比90%人更容易拿到顶级offer！跟着这几个公众号我学习了很多](https://mp.weixin.qq.com/s/0qqJgmS1mxpd7GWPu6kNhg)
+
+- [ ] [等不及了！从零开始学爬虫专栏完结撒花汇总来啦！](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486646&idx=1&sn=5559ad12a770340f15f50790fdc40eee&chksm=fbfe5620cc89df36419ffc68f9cc818482e86f1ac52830cc61631f6b8e7e8771319c65f280df&mpshare=1&scene=1&srcid=&sharer_sharetime=1573211875670&sharer_shareid=332a30fee424f11c143e21db63101f26&key=4457fd9057cefb6c6ad3c169b86cd4fb97dd43cce60a7137b4cc27caa1f2112555454f0ac810a2029b390db57106ab6082522148ff26c37f1fd41d2c313ab6db0ec35c0d8141a6b565592e8a7833e56b&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=gKFp9gtfKeRsOxiqSxI74yCm65%2FXNPr6dwWpcZvf1aM%3D)
+
+- [ ] [Appendix: Maximum Likelihood Estimation Example - ReliaWiki](http://reliawiki.org/index.php/Appendix:_Maximum_Likelihood_Estimation_Example)
+
+- [ ] [RPubs - Maximum Likelihood Estimation for a Normal Distribution](https://rpubs.com/Koba/MLE-Normal)
+
+- [ ] [Maximum Likelihood Estimation Explained - Normal Distribution](https://towardsdatascience.com/maximum-likelihood-estimation-explained-normal-distribution-6207b322e47f)
+
+- [ ] [ECON 407: Companion to Maximum Likelihood | Rob Hicks](https://rlhick.people.wm.edu/stories/econ_407_notes_mle_companion.html)
+
+- [ ] [如何用R计算极大似然估计（入门） - 知乎](https://zhuanlan.zhihu.com/p/69858457)
+
+- [ ] [RPubs - MLE using the maxLik package](https://rpubs.com/ssong/mle_demo1)
+
+- [ ] [Page not found | Taylor & Francis Group](https://www.taylorfrancis.com/books/10.1201/9781420087444.ch12)
+
+- [ ] [(38) Probability of Ruin Adjustment Coefficient - YouTube](https://www.youtube.com/watch?v=Ctvk7xZC4GA)
+
+- [ ] [(PDF) Lecture notes on Risk Theory | Nizar Ben Fatma - Academia.edu](https://www.academia.edu/30727070/Lecture_notes_on_Risk_Theory)
+
+- [ ] [Course Home Page: Ruinteori](http://web.math.ku.dk/~collamore/Ruin/)
+
+- [ ] [Ruin theory | SpringerLink](https://link.springer.com/chapter/10.1007%2F0-306-47603-7_4)
+
+- [ ] [Risk Theory - ANU](https://programsandcourses.anu.edu.au/2020/course/STAT3035)
+
+- [ ] [Ruin Probability in Compound Poisson Process with Investment](https://www.hindawi.com/journals/jam/2012/286792/)
+
+- [ ] [2020年数据分析必知必会（二）：NumPy数组----文章末尾附Python之父访谈视频](https://mp.weixin.qq.com/s/5hv02drGhLEjzYKYXzq5_g)
+
+- [ ] [Python实现​旋转描记器：几何绘图不再是梦](https://mp.weixin.qq.com/s/BlaAelhj3Fpg_TtyAru9Dw)
+
+- [ ] [Python实现​旋转描记器：几何绘图不再是梦](https://mp.weixin.qq.com/s/BlaAelhj3Fpg_TtyAru9Dw)
+
+- [ ] [很有意思的Python实现分形可视化：生成漂亮的分形图案](https://mp.weixin.qq.com/s/ubKo53_xL8ALoUuW-EfZNg)
+
+- [ ] [人工智能领域的5种最佳编程语言](https://mp.weixin.qq.com/s/St0yBNZGOwcFxn-3NeCCmA)
+
+- [ ] [An Introduction to Mathematical Risk Theory - Google Search](https://www.google.com/search?q=An+Introduction+to+Mathematical+Risk+Theory&oq=An+Introduction+to+Mathematical+Risk+Theory&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Loss Models, From Data to Decisions - Google Search](https://www.google.com/search?q=Loss+Models%2C+From+Data+to+Decisions&oq=Loss+Models%2C+From+Data+to+Decisions&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/projects)
+
+- [ ] [Insurance Risk and Ruin - David C. M. Dickson - Google Books](https://books.google.com/books?id=9zP0MMqJXcUC&pg=PA130&lpg=PA130&dq=adjust+coefficients+for+the+surplus+process&source=bl&ots=meDRlUSLn9&sig=ACfU3U0iVbsCcpHeJwNsl-gd9TBvaJHT0g&hl=en&sa=X&ved=2ahUKEwjyvs6erNzlAhWDy4sBHTFrCL8Q6AEwA3oECGEQAQ#v=onepage&q=adjust%20coefficients%20for%20the%20surplus%20process&f=false)
+
+- [ ] [Modern Actuarial Risk Theory: Using R - Rob Kaas, Marc Goovaerts, Jan Dhaene, Michel Denuit - Google Books](https://books.google.com/books?id=PgEz6nDHWHEC&pg=PA116&lpg=PA116&dq=calculate++adjustment+coefficient+in+r&source=bl&ots=Ttz_Le6aae&sig=ACfU3U3Uhh72LlW-rHLzgiiuTdIUoG_sbQ&hl=en&sa=X&ved=2ahUKEwizpq3XrNzlAhVJ05QKHTj9Aho4ZBDoATAFegQIYxAB#v=onepage&q=calculate%20%20adjustment%20coefficient%20in%20r&f=false)
+
+- [ ] [Statistical and Probabilistic Methods in Actuarial Science - Philip J. Boland - Google Books](https://books.google.com/books?id=MTc2wj12QnwC&pg=PA153&lpg=PA153&dq=adjust+coefficients+for+the+surplus+process&source=bl&ots=7PQ_rudt6v&sig=ACfU3U3oD5gN2aJE5puVcRDLKgNER1KtzQ&hl=en&sa=X&ved=2ahUKEwjyvs6erNzlAhWDy4sBHTFrCL8Q6AEwBHoECGMQAQ#v=onepage&q=adjust%20coefficients%20for%20the%20surplus%20process&f=false)
+
+- [ ] [A note on the adjustment coefficient in ruin theory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/0167668786900399)
+
+- [ ] [Classical Risk Model - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/mathematics/classical-risk-model)
+
+- [ ] [Methods for statistical analysis of reliability and life data : Mann, Nancy R : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/methodsforstatis00mann)
+
+- [ ] [https://www.mathpages.com/home/kmath122/kmath122.htm](https://www.mathpages.com/home/kmath122/kmath122.htm)
+
+- [ ] [Reliafy](http://www.reliafy.com/)
+
+- [ ] [Weibull distribution - Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Weibull_distribution)
+
+- [ ] [Methods for statistical analysis of reliability and life data : Mann, Nancy R : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/methodsforstatis00mann)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20110930040053/http://www.eurojournals.com/irjfe_35_14.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://www.eurojournals.com/irjfe_35_14.pdf)
+
+- [ ] [Risk.net - Financial Risk Management News Analysis](https://www.risk.net/)
+
+- [ ] [MacroRisk Analytics – Investment Tools for a Changing Economy®](http://www.macrorisk.com/)
+
+- [ ] [Elements of Financial Risk Management - 2nd Edition](https://www.elsevier.com/books/elements-of-financial-risk-management/christoffersen/978-0-12-374448-7)
+
+- [ ] [Quantitative Risk Management: A Practical Guide to Financial Risk, + Website | Wiley](https://www.wiley.com/en-us/Quantitative+Risk+Management%3A+A+Practical+Guide+to+Financial+Risk%2C+%2B+Website-p-9781118026588)
+
+- [ ] [Federal Reserve Bank of Chicago - Federal Reserve Bank of Chicago](https://www.chicagofed.org/webpages/publications/understanding_derivatives/index.cfm:)
+
+- [ ] [Why the Weibull Distribution Is Always Welcome](https://blog.minitab.com/blog/understanding-statistics/why-the-weibull-distribution-is-always-welcome)
+
+- [ ] [The 2020 Final Payment Notice, Part 2: Risk Adjustment | Health Affairs](https://www.healthaffairs.org/do/10.1377/hblog20190420.666282/full/)
+
+- [ ] [Lexicon：76 | PHARMA JAPAN](https://pj.jiho.jp/lexicon/l-1226563976644)
+
+- [ ] [Speed of share price adjustment to information | Emerald Insight](https://www.emerald.com/insight/content/doi/10.1108/03074350210768004/full/html)
+
+- [ ] [500 Internal Privoxy Error](http://chrome-exwww.math.colostate.edu/~spriggs/m130)
+
+- [ ] [The Simple Math Behind Insurance](https://www.agordon.com/blog/bid/66399/the-simple-math-behind-insurance)
+
+- [ ] [What is loading in insurance & how does it affect your premium - The Economic Times](https://economictimes.indiatimes.com/wealth/personal-finance-news/what-is-loading-in-insurance-how-does-it-affect-your-premium/articleshow/26470877.cms)
+
+- [ ] [Get Started: 3 Ways to Load CSV files into Colab - Towards Data Science](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92)
+
+- [ ] [Quickstart tutorial — NumPy v1.13 Manual](https://docs.scipy.org/doc/numpy-1.13.0/user/quickstart.html)
+
+- [ ] [Matrix Rank](https://stattrek.com/matrix-algebra/matrix-rank.aspx)
+
+- [ ] [Matrix rank — Tutorials on imaging, computing and mathematics](https://matthew-brett.github.io/teaching/matrix_rank.html)
+
+- [ ] [Find The Rank Of A Matrix](https://chrisalbon.com/machine_learning/vectors_matrices_and_arrays/find_the_rank_of_a_matrix/)
+
+- [ ] [numpy.linalg.matrix_rank — NumPy v1.14 Manual](https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.linalg.matrix_rank.html)
+
+- [ ] [Data Science and Linear Algebra Fundamentals with Python, SciPy, & NumPy - Twilio](https://www.twilio.com/blog/2018/06/data-science-linear-algebra-python-scipy-numpy.html)
+
+- [ ] [Linear algebra (numpy.linalg) — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html)
+
+- [ ] [Linear algebra (numpy.linalg) — NumPy v1.13 Manual](https://docs.scipy.org/doc/numpy-1.13.0/reference/routines.linalg.html)
+
+- [ ] [Linear Algebra with SciPy - Mathematical Python](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/linear-algebra-scipy/)
+
+- [ ] [SciPy Cheat Sheet: Linear Algebra in Python (article) - DataCamp](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet)
+
+- [ ] [risk.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/actuar/vignettes/risk.pdf)
+
+- [ ] [Adjustment Coefficient - Kaas - - Major Reference Works - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118445112.stat04314)
+
+- [ ] [Adjustment Coefficient - Kaas - - Major Reference Works - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118445112.stat04314)
+
+- [ ] [Wiley StatsRef: Statistics Reference Online | Major Reference Works](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118445112)
+
+- [ ] [1. Vectors, Matrices, and Arrays - Machine Learning with Python Cookbook [Book]](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/ch01.html)
+
+- [ ] [rank - numpy - Python documentation - Kite](https://kite.com/python/docs/numpy.rank)
+
+- [ ] [Linear Algebra and Linear Systems — Computational Statistics in Python 0.1 documentation](https://people.duke.edu/~ccc14/sta-663/LinearAlgebraReview.html)
+
+- [ ] [numpy.linalg.matrix_rank — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.matrix_rank.html)
+
+- [ ] [Program for Rank of Matrix - GeeksforGeeks](https://www.geeksforgeeks.org/program-for-rank-of-matrix/)
+
+- [ ] [Matrix Rank](https://stattrek.com/matrix-algebra/matrix-rank.aspx)
+
+- [ ] [Case Study: PageRank](https://introcs.cs.princeton.edu/python/16pagerank/)
+
+- [ ] [markov.py](https://introcs.cs.princeton.edu/python/16pagerank/markov.py.html)
+
+- [ ] [TensorLy: Tensor learning in Python](http://tensorly.org/stable/modules/api.html)
+
+- [ ] [MATH 311, section 503 (Fall 2019)](https://www.math.tamu.edu/~yvorobet/MATH311/MATH311-503.html)
+
+- [ ] [MATH 311, section 504 (Fall 2019)](https://www.math.tamu.edu/~yvorobet/MATH311/MATH311-504.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/10/2019
+
+- [ ] [Reasonable Deviations · a rational approach to complexity](https://reasonabledeviations.com/)
+
+- [ ] [bit.ly](https://bit.ly/36GjWzD)
+
+- [ ] [PDF Search Engine, free search, PDF download](http://printfu.org/)
+
+- [ ] [500 Internal Privoxy Error](http://www.sopdf.com/zh-hans)
+
+- [ ] [DocJax | Find Any Document on the Web](https://docjax.com/)
+
+- [ ] [中国图书进出口(集团)总公司](http://cnplinker.cnpeak.com/)
+
+- [ ] [BASE (Bielefeld Academic Search Engine): Basic Search](https://www.base-search.net/)
+
+- [ ] [German Rodriguez | RAND](https://www.rand.org/pubs/authors/r/rodriguez_german.html)
+
+- [ ] [R developer's guide to Azure - R programming | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/r-developers-guide?WT.mc_id=RevolutionsSidebar-blog-davidsmi)
+
+- [ ] [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/)
+
+- [ ] [R-Project and Other Free Software Tools - AnalyticBridge](https://www.analyticbridge.datasciencecentral.com/group/rprojectandotherfreesoftwaretools)
+
+- [ ] [should stata just give up and die? | orgtheory.net](https://orgtheory.wordpress.com/2017/09/08/should-stata-just-give-up-and-die/)
+
+- [ ] [The Causes and Consequences of Chinese Inflation](https://www.worldpoliticsreview.com/articles/7373/the-causes-and-consequences-of-chinese-inflation)
+
+- [ ] [American Economic Association](https://www.aeaweb.org/research/do-chinese-govt-inflation-data-hold-up-scrutiny)
+
+- [ ] [Chinese Inflation and the Renminbi](https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-trends/economic-trends-archives/2008-economic-trends/et-20080207-chinese-inflation-and-the-renminbi.aspx)
+
+- [ ] [China's Inflation and Political Cycles by Zhuoqun Wang :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2677299)
+
+- [ ] [China Inflation Rate 1986 - 2019](https://www.fxempire.com/macro/china/inflation-rate)
+
+- [ ] [How Google’s featured snippets work - Google Search Help](https://support.google.com/websearch/answer/9351707?p=featured_snippets&hl=en&visit_id=637089623962725810-575593120&rd=1)
+
+- [ ] [Impact of Inflation on China’s Economy](https://www.ukessays.com/essays/economics/inflation-and-its-impact-on-the-chinese-economy-economics-essay.php)
+
+- [ ] [【经济指标解读专栏】CPI指数分析手册 - 知乎](https://zhuanlan.zhihu.com/p/55891290)
+
+- [ ] [天风策略：A股正进行三层面变革 穿越周期的投资逻辑- 趋势策略_赢家财富网](http://www.yjcf360.com/qushi/18018808.htm)
+
+- [ ] [焦点：中国3月CPI重返“2时代” 新一轮猪周期已经启动 - Reuters](https://www.reuters.com/article/china-march-inflation-cpi-0411-idCNKCS1RN09Z)
+
+- [ ] [Google Translate](https://translate.google.com/?source=osdd#auto|auto|%E6%B1%A1%E6%9F%93)
+
+- [ ] [How To Identify Patterns in Time Series Data: Time Series Analysis](http://www.statsoft.com/textbook/time-series-analysis)
+
+- [ ] [How To Adjust Your Business Data For Seasonality](https://www.forbes.com/sites/billconerly/2014/12/17/how-to-adjust-your-business-data-for-seasonality/#1c30b495421c)
+
+- [ ] [How to Create a Rolling Forecast of Seasonal Sales in Excel](http://www.exceluser.com/excel_dashboards/seasonality-sales.htm)
+
+- [ ] [805 - Google Docs](https://docs.google.com/document/d/1gmP-xhSg2L1pZo7RivoRkPoaVE8GoBoOA28nKzEqAbI/edit)
+
+- [ ] [Federal funds rate - Wikipedia](https://en.wikipedia.org/wiki/Federal_funds_rate)
+
+- [ ] [What Explains the Stock Market's Reaction to Federal Reserve Policy? - BERNANKE - 2005 - The Journal of Finance - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2005.00760.x)
+
+- [ ] [untitled - 200416pap.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.federalreserve.gov/pubs/feds/2004/200416/200416pap.pdf)
+
+- [ ] [What Explains the Stock Market's Reaction to Federal Reserve Policy? by Ben S. Bernanke, Kenneth N. Kuttner :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=890610)
+
+- [ ] [What explains the stock market's reaction to Federal Reserve policy?](https://ideas.repec.org/p/fip/fedgfe/2004-16.html)
+
+- [ ] [What Explains the Stock Market's Reaction to Federal Reserve Policy?](https://www.nber.org/papers/w10402)
+
+- [ ] [Bayesian Survival Analysis — PyMC3 3.6 documentation](https://docs.pymc.io/notebooks/survival_analysis.html?highlight=random%20walk)
+
+- [ ] [Event History Analysis - Rodriguez - - Major Reference Works - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/0471667196.ess0637.pub3)
+
+- [ ] [Some of my favorite <strong>R</strong> resources for current and future User<strong>R</strong>s, along with other resources for statistics educators and everyone interested in <strong>reproducible research</strong>.](http://rstudio-pubs-static.s3.amazonaws.com/6279_6cc216b37c6c4424959ce07c8f15b27e.html)
+
+- [ ] [The robust sandwich variance estimator for linear regression (using R) – The Stats Geek](https://thestatsgeek.com/2014/02/14/the-robust-sandwich-variance-estimator-for-linear-regression-using-r/)
+
+- [ ] [5.4 Heteroskedasticity and Homoskedasticity | Introduction to Econometrics with R](https://www.econometrics-with-r.org/5-4-hah.html)
+
+- [ ] [Heteroskedasticity Robust Standard Errors in R · r-econometrics](https://www.r-econometrics.com/methods/hcrobusterrors/)
+
+- [ ] [R robust se - ECLR](http://eclr.humanities.manchester.ac.uk/index.php/R_robust_se)
+
+- [ ] [Summary of Linear Regression Models as HTML Table • sjPlot](http://www.strengejacke.de/sjPlot/articles/sjtlm.html)
+
+- [ ] [Elegant regression results tables and plots in R: the finalfit package | R-bloggers](https://www.r-bloggers.com/elegant-regression-results-tables-and-plots-in-r-the-finalfit-package/)
+
+- [ ] [Summary of Regression Models as HTML Table](https://cran.r-project.org/web/packages/sjPlot/vignettes/tab_model_estimates.html)
+
+- [ ] [Linear Regression Models with Logarithmic Transformations - PDF](https://docplayer.net/20964978-Linear-regression-models-with-logarithmic-transformations.html)
+
+- [ ] [Linear Regression Models with Logarithmic Transformations](https://studylib.net/doc/8388341/linear-regression-models-with-logarithmic-transformations)
+
+- [ ] [Logmodels 2 - Lecture notes 2 - Financial Economics MS135 - StuDocu](https://www.studocu.com/en/document/lahore-school-of-economics/financial-economics/lecture-notes/logmodels-2-lecture-notes-2/2966433/view)
+
+- [ ] [How robust is the renewable energy industry to political shocks? Evidence from the 2016 U.S. elections | Business and Politics | Cambridge Core](https://www.cambridge.org/core/journals/business-and-politics/article/how-robust-is-the-renewable-energy-industry-to-political-shocks-evidence-from-the-2016-us-elections/CAE5D8F7A7FF21D86DC003B08ADB0FAE)
+
+- [ ] [ResearchGate](https://www.researchgate.net/figure/Estimation-window-and-event-window-in-a-generic-event-study_fig1_259576601)
+
+- [ ] [R Weekly 2019-27 R artefacts, reordering, ggchicklet - RWeekly.org - Blogs to Learn R from the Community](https://rweekly.org/2019-27)
+
+- [ ] [Home - RWeekly.org - Blogs to Learn R from the Community](https://rweekly.org/)
+
+- [ ] [Sean Kross](http://seankross.com/)
+
+- [ ] [www.math.wm.edu/~leemis/BiVarAPPL.txt](http://www.math.wm.edu/~leemis/BiVarAPPL.txt)
+
+- [ ] [www.math.wm.edu/~leemis/QueueAPPL.txt](http://www.math.wm.edu/~leemis/QueueAPPL.txt)
+
+- [ ] [Larry Leemis - Videos](http://www.math.wm.edu/~leemis/videos/probability/)
+
+- [ ] [www.math.wm.edu/~leemis/reltext2.ex](http://www.math.wm.edu/~leemis/reltext2.ex)
+
+- [ ] [Sean Kross](https://leanpub.com/u/seankross)
+
+- [ ] [The Unix Workbench by Sean Kross [Leanpub PDF/iPad/Kindle]](https://leanpub.com/unix)
+
+- [ ] [The Unix Workbench](https://seankross.com/the-unix-workbench/)
+
+- [ ] [R as a First Programming Language](http://seankross.com/2019/10/27/R-as-a-First-Programming-Language.html)
+
+- [ ] [Skaket - A Jekyll Blog Theme](http://seankross.com/2014/02/03/Skaket.html)
+
+- [ ] [Making This Site](http://seankross.com/2014/01/25/Making-This-Site.html)
+
+- [ ] [mtcars as a Service](http://seankross.com/2014/08/01/mtcars-as-a-Service.html)
+
+- [ ] [A Q-Q Plot Dissection Kit](http://seankross.com/2016/02/29/A-Q-Q-Plot-Dissection-Kit.html)
+
+- [ ] [Drone Visualization Challenge](http://seankross.com/2016/04/05/Drone-Visualization-Challenge.html)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/project/634440)
+
+- [ ] [Econometric Computing with HC and HAC Covariance Matrix Estimators | Zeileis | Journal of Statistical Software](https://www.jstatsoft.org/article/view/v011i10)
+
+- [ ] [Object-oriented Computation of Sandwich Estimators | Zeileis | Journal of Statistical Software](https://www.jstatsoft.org/article/view/v016i09)
+
+- [ ] [R Code | Joshua Gubler](https://joshuagubler.com/r-code/)
+
+- [ ] [https://rstudio-pubs-static.s3.amazonaws.com/108778_2b9f991a58644b30875106abe99a0f28.html](https://rstudio-pubs-static.s3.amazonaws.com/108778_2b9f991a58644b30875106abe99a0f28.html)
+
+- [ ] [EconPapers: Event Studies in Economics and Finance](https://econpapers.repec.org/article/aeajeclit/v_3a35_3ay_3a1997_3ai_3a1_3ap_3a13-39.htm)
+
+- [ ] [Conducting Event Studies With Stata | Event Study Tools](https://www.eventstudytools.com/stata)
+
+- [ ] [ResearchGate](https://www.researchgate.net/post/How_do_you_set_up_an_event_window_for_multiple_events_that_took_place_in_a_short_period_of_time)
+
+- [ ] [Time-To-Event Data Analysis | Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/research/population-health-methods/time-event-data-analysis)
+
+- [ ] [DSS - Stata](https://dss.princeton.edu/online_help/stats_packages/stata/eventstudy.html)
+
+- [ ] [Actuarial Analysis](https://www.investopedia.com/terms/a/actuarialanalysis.asp)
+
+- [ ] [Event Study](https://www.investopedia.com/terms/e/eventstudy.asp)
+
+- [ ] [Seasonality Definition](https://www.investopedia.com/terms/s/seasonality.asp)
+
+- [ ] [Arbitrage anyone? « Probability and statistics blog](https://statisticsblog.com/2015/09/28/arbitrage-anyone/)
+
+- [ ] [epistomology « Probability and statistics blog](https://statisticsblog.com/category/epistomology/)
+
+- [ ] [JavaScript « Probability and statistics blog](https://statisticsblog.com/category/javascript/)
+
+- [ ] [probability « Probability and statistics blog](https://statisticsblog.com/category/probability/)
+
+- [ ] [Probability and statistics blog](https://statisticsblog.com/)
+
+- [ ] [Probability Podcast Ep2: Imprecise probabilities with Gert de Cooman « Probability and statistics blog](https://statisticsblog.com/2016/03/15/probability-podcast-ep2-imprecise-probabilities-with-gert-de-cooman/)
+
+- [ ] [Probability Podcast Ep2: Imprecise probabilities with Gert de Cooman « Probability and statistics blog](https://statisticsblog.com/2016/03/15/probability-podcast-ep2-imprecise-probabilities-with-gert-de-cooman/)
+
+- [ ] [r « Probability and statistics blog](https://statisticsblog.com/category/r/)
+
+- [ ] [Random samples in JS using R functions « Probability and statistics blog](https://statisticsblog.com/2015/10/15/random-samples-in-js-using-r-functions/)
+
+- [ ] [Set theory « Probability and statistics blog](https://statisticsblog.com/category/set-theory/)
+
+- [ ] [simulations « Probability and statistics blog](https://statisticsblog.com/category/simulations/)
+
+- [ ] [Statistical computation in JavaScript — am I nuts? « Probability and statistics blog](https://statisticsblog.com/2013/02/28/statistical-computation-in-javascript-am-i-nuts/#comment-597)
+
+- [ ] [The epistemology crisis « Probability and statistics blog](https://statisticsblog.com/2018/11/26/the-epistemology-crisis/)
+
+- [ ] [The epistemology crisis « Probability and statistics blog](https://statisticsblog.com/2018/11/26/the-epistemology-crisis/)
+
+- [ ] [The surprisingly weak case for global warming « Probability and statistics blog](https://statisticsblog.com/2012/12/03/the-surprisingly-weak-case-for-global-warming/#comment-502)
+
+- [ ] [Visualising random variables, Terence Tao style « Probability and statistics blog](https://statisticsblog.com/2016/05/24/visualising-random-variables-terence-tao-style/)
+
+- [ ] [Visualising random variables, Terence Tao style « Probability and statistics blog](https://statisticsblog.com/2016/05/24/visualising-random-variables-terence-tao-style/)
+
+- [ ] [02 Ep2 Imprecise Probabilities With Gert De Cooman by MattAsher | Matt Asher | Free Listening on SoundCloud](https://soundcloud.com/mattasher/02-ep2-imprecise-probabilities-with-gert-de-cooman)
+
+- [ ] [Monte Carlo error analysis](https://web.northeastern.edu/afeiguin/phys5870/phys5870/node71.html)
+
+- [ ] [An Overview of Monte Carlo Methods - Towards Data Science](https://towardsdatascience.com/an-overview-of-monte-carlo-methods-675384eb1694)
+
+- [ ] [Tracks and playlists tagged probability | Free Listening on SoundCloud](https://soundcloud.com/tags/probability)
+
+- [ ] [Getting started with R, for Stata users (Revolutions)](https://blog.revolutionanalytics.com/2013/11/getting-started-with-r-for-stata-users.html)
+
+- [ ] [Putting the R in Hallowe'en (Revolutions)](https://blog.revolutionanalytics.com/2011/10/putting-the-r-in-halloween.html)
+
+- [ ] [Revolutions: finance](https://blog.revolutionanalytics.com/finance/)
+
+- [ ] [Guofu   Zhou](http://apps.olin.wustl.edu/faculty/zhou/)
+
+- [ ] [Big data in finance: Evidence and challenges - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2214845019302650)
+
+- [ ] [Evidence that Prices Do Not Fully Reflect the Implications of Current Earnings for Future Earnings: An Experimental Markets Approach* - CALEGARI - 1997 - Contemporary Accounting Research - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1911-3846.1997.tb00534.x)
+
+- [ ] [给你的动量选股策略加点“料” - 知乎](https://zhuanlan.zhihu.com/p/40468929)
+
+- [ ] [Post-Earnings Announcement Effect - QuantPedia](https://quantpedia.com/strategies/post-earnings-announcement-effect/)
+
+- [ ] [Hacking 8 Algos - By](https://hackernoon.com/hacking-8-algos-161d1f28dcf3)
+
+- [ ] [Quantitative Trading: Pre-earnings Annoucement Strategies](http://epchan.blogspot.com/2016/11/pre-earnings-annoucement-strategies.html)
+
+- [ ] ["Trend Analysis of the Post-Earnings Announcement Drift Post-Earnings Gap Chart Pattern: A Quantitative Investigation" by Jones, William M.; Lacewell, Stephen K. - Academy of Accounting and Financial Studies Journal, Vol. 18, Issue 1, January 2014 | Online Research Library: Questia](https://www.questia.com/library/journal/1G1-370031061/trend-analysis-of-the-post-earnings-announcement-drift)
+
+- [ ] [Arbitrage Risk and Post-Earnings-Announcement Drift by Richard R. Mendenhall :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=315243)
+
+- [ ] [Financial modelling | jonah kadoko](http://www.jonahkadoko.com/2017/07/20/financial-modelling/)
+
+- [ ] [Welcome to Python.org](https://www.python.org/)
+
+- [ ] [Entry on long straddles to anticipate earnings surprises by Jarett Dunn - QuantConnect.com](https://www.quantconnect.com/forum/discussion/2042/entry-on-long-straddles-to-anticipate-earnings-surprises)
+
+- [ ] [<4D6963726F736F667420506F776572506F696E74202D208D9193798CF092CA90AD8DF48CA48B868F8A8CA48B8694AD955C89EF814093A1FAB1312E707074205B8CDD8AB78382815B83685D> - siryou5.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.mlit.go.jp/pri/kouenkai/syousai/pdf/kenkyuuhapyou11.03.15/siryou5.pdf)
+
+- [ ] [1553118X.2017.1378220](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.tandfonline.com/doi/pdf/10.1080/1553118X.2017.1378220)
+
+- [ ] [becker-rf-lit-review-2018.ashx](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cfainstitute.org/-/media/documents/book/rf-lit-review/2018/becker-rf-lit-review-2018.ashx)
+
+- [ ] [Campbell_Lo_Mackinlay_The_Econometrics_of_Financial_Market.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://epge.fgv.br/we/MD/EconometriaAplicadaFinancas/2009?action=AttachFile&do=get&target=Campbell_Lo_Mackinlay_The_Econometrics_of_Financial_Market.pdf)
+
+- [ ] [clustering1.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.ne.su.se/polopoly_fs/1.216115.1426234213!/menu/standard/file/clustering1.pdf)
+
+- [ ] [Do individual investors drive post-earnings announcement drift - Do-Individual-Investors-Drive-Post-Earnings-Announcement-Drift_-Direct-Evidence-from-Personal-Trades.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://sites.uci.edu/steoh/files/2012/08/Do-Individual-Investors-Drive-Post-Earnings-Announcement-Drift_-Direct-Evidence-from-Personal-Trades.pdf)
+
+- [ ] [download](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.4043&rep=rep1&type=pdf)
+
+- [ ] [FAJ.JA09.book - PEAD_FAJ.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.hec.unil.ch/agoyal/docs/PEAD_FAJ.pdf)
+
+- [ ] [FrickeE_Web14_2_.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.m.www.na-businesspress.com/JAF/FrickeE_Web14_2_.pdf)
+
+- [ ] [HMMT_pead_rev20.PDF - cf754d46450a95c5881768f9501f4b0fd4d9.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://pdfs.semanticscholar.org/f18c/cf754d46450a95c5881768f9501f4b0fd4d9.pdf)
+
+- [ ] [liquidity050305.dvi - sadka_liquidity_momentum.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://faculty.chicagobooth.edu/john.cochrane/teaching/Advanced_Asset_Pricing_GSB_35911_Econ_39502/sadka_liquidity_momentum.pdf)
+
+- [ ] [martineauJMP.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://faculty.comm.virginia.edu/sdb7e/files/mcintireSeminars/martineauJMP.pdf)
+
+- [ ] [Microsoft PowerPoint - Lecture 6.ppt [Compatibility Mode] - lecture 6.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.bauer.uh.edu/rsusmel/phd/lecture%206.pdf)
+
+- [ ] [Microsoft Word - Revised_Li_Zhang_2010_01_02_TAR.doc - Jobmarketpaper_LiZhang.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://raw.rutgers.edu/docs/seminars/Jobmarketpaper_LiZhang.pdf)
+
+- [ ] [PowerPoint Presentation - NiceOutputR.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.princeton.edu/~otorres/NiceOutputR.pdf)
+
+- [ ] [PreEA_15Feb2010.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www3.nd.edu/~pgao/papers/PreEA_15Feb2010.pdf)
+
+- [ ] [Quantitative Trading: How to Build Your Own Algorithmic Trading Business (Wiley Trading) - 4c7037365a4bf1623734c1c899baed7855061ace.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.myquant.cn/uploads/default/original/1X/4c7037365a4bf1623734c1c899baed7855061ace.pdf)
+
+- [ ] [Sloan_1996_TAR.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://econ.au.dk/fileadmin/Economics_Business/Education/Summer_University_2012/6308_Advanced_Financial_Accounting/Advanced_Financial_Accounting/2/Sloan_1996_TAR.pdf)
+
+- [ ] [MS&E 448](http://stanford.edu/class/msande448/)
+
+- [ ] [Benny-/Yahoo-ticker-symbol-downloader: A web scraper for ticker symbols from yahoo finance](https://github.com/Benny-/Yahoo-ticker-symbol-downloader)
+
+- [ ] [Estimize/estimize-research-py](https://github.com/Estimize/estimize-research-py)
+
+- [ ] [mbhutton/chrome-duplicate-tab-detector: An extension for Google Chrome which navigates to an existing tab when opening a duplicate new tab](https://github.com/mbhutton/chrome-duplicate-tab-detector)
+
+- [ ] [MetaMask/metamask-extension: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites.](https://github.com/MetaMask/metamask-extension)
+
+- [ ] [MichaelDz6/Yahoo_Finance_ETFs_Web_Scraper](https://github.com/MichaelDz6/Yahoo_Finance_ETFs_Web_Scraper)
+
+- [ ] [pdsteele/DES-Python: C code from Discrete Event Simulation: A First Course translated into Python](https://github.com/pdsteele/DES-Python)
+
+- [ ] [robertmartin8/MachineLearningStocks: Using python and scikit-learn to make stock predictions](https://github.com/robertmartin8/MachineLearningStocks)
+
+- [ ] [robust standard errors: will tidy.coeftest(., conf.int=TRUE) ever be possible? · Issue #663 · tidymodels/broom](https://github.com/tidymodels/broom/issues/663)
+
+- [ ] [robust standard errors: will tidy.coeftest(., conf.int=TRUE) ever be possible? · Issue #663 · tidymodels/broom](https://github.com/tidymodels/broom/issues/663)
+
+- [ ] [(39) Dates Magic - Analyzing Trends & Seasonality in Tableau - YouTube](https://www.youtube.com/watch?v=I3ied_WmZNE)
+
+- [ ] [(39) Forecasting Methods made simple - Seasonal Indices - YouTube](https://www.youtube.com/watch?v=nXweMiI7Q8Q)
+
+- [ ] [(39) Forecasting with Seasonality - YouTube](https://www.youtube.com/watch?v=uWvSnJ6rbsc)
+
+- [ ] [(39) Maths Tutorial: Seasonal Indices (Seasonal Index) - YouTube](https://www.youtube.com/watch?v=7Ug2zA0M-1Y)
+
+- [ ] [(39) R for Economists Bonus 2: estimatr for cluster or robust standard errors, and instrumental variables - YouTube](https://www.youtube.com/watch?v=9TDCuN1Mzzo)
+
+- [ ] [(39) R12. Robust/White Standard Errors. (Econometrics in R) - YouTube](https://www.youtube.com/watch?v=hFoDDwTF4KY)
+
+- [ ] [(39) Algorithmic Trading with Python and Quantopian p. 1 - YouTube](https://www.youtube.com/watch?v=GlV_QO5B2eU)
+
+- [ ] [Basic Excel Business Analytics #56: Forecasting with Linear Regression: Trend & Seasonal Pattern - YouTube](https://www.youtube.com/watch?v=w9LXjZfcgOo)
+
+- [ ] [Basic Excel Business Analytics #56: Forecasting with Linear Regression: Trend & Seasonal Pattern - YouTube](https://www.youtube.com/watch?v=w9LXjZfcgOo)
+
+- [ ] [Excel Forecasting Seasonal Data - YouTube](https://www.youtube.com/watch?v=XzlgKBkJJr0)
+
+- [ ] [Robust or Clustered Errors and Post-Regression Statistics - R for Economists Moderate 2 - YouTube](https://www.youtube.com/watch?v=d9B-ySRR2GA)
+
+- [ ] [Seasonal Adjusted Trend Forecast - YouTube](https://www.youtube.com/watch?v=RNtgFcJcIkk)
+
+- [ ] [Seasonality Predictions in Excel - YouTube](https://www.youtube.com/watch?v=bT40YnizaOQ)
+
+- [ ] [Do Individual Investors Cause Post-Earnings Announcement Drift? Direct Evidence from Personal Trades on JSTOR](https://www.jstor.org/stable/30243805?seq=1#page_scan_tab_contents)
+
+- [ ] [Do Stock Prices Fully Reflect the Implications of Current Earnings for Future Earnings for AR1 Firms? on JSTOR](https://www.jstor.org/stable/2672926?seq=1#page_scan_tab_contents)
+
+- [ ] [Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium? on JSTOR](https://www.jstor.org/stable/2491062?seq=1#page_scan_tab_contents)
+
+- [ ] [The Conflicting Vernacular: Germán Rodríguez Arias and Pablo Neruda's Three Houses in Chile on JSTOR](https://www.jstor.org/stable/20778851?seq=1#page_scan_tab_contents)
+
+- [ ] [Post-Earnings Drift Trading Strategy with Estimize (PEAD)](https://www.quantopian.com/posts/post-earnings-drift-trading-strategy-with-estimize-pead)
+
+- [ ] [Post-Earnings Drift Trading Strategy with Estimize (PEAD)](https://www.quantopian.com/posts/post-earnings-drift-trading-strategy-with-estimize-pead)
+
+- [ ] [Financial Econometrics: Models and Methods - Oliver Linton - Google Books](https://books.google.com/books?id=eJiHDwAAQBAJ&pg=PA206&lpg=PA206&dq=estimation+window%E2%80%9D+and+the+%E2%80%9Cevent+window&source=bl&ots=YyyQHimQ4s&sig=ACfU3U3tBk5RYmku-SaSoH0qH1tLT62wWw&hl=en&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQ6AEwDnoECGMQAQ#v=onepage&q=estimation%20window%E2%80%9D%20and%20the%20%E2%80%9Cevent%20window&f=false)
+
+- [ ] [Information Systems Outsourcing: Enduring Themes, Global Challenges, and ... - Google Books](https://books.google.com/books?id=_M91NYmLe6gC&pg=PA203&lpg=PA203&dq=estimation+window%E2%80%9D+and+the+%E2%80%9Cevent+window&source=bl&ots=ms_5wleqqz&sig=ACfU3U0NkDwDJzkR_JAU4wuLvYYCaI7urA&hl=en&sa=X&ved=2ahUKEwiQq7Pemt_lAhULBKYKHbqIAWgQ6AEwDXoECGIQAQ#v=onepage&q=estimation%20window%E2%80%9D%20and%20the%20%E2%80%9Cevent%20window&f=false)
+
+- [ ] [Multinationality: Earnings, Efficiency, and Market Considerations - Ahmed Riahi-Belkaoui - Google Books](https://books.google.com/books?id=7X33ZjAH66EC&pg=PA34&lpg=PA34&dq=Post-Earnings-Announcement+Drift+r&source=bl&ots=ZFhf3-CPWu&sig=ACfU3U3AfWfjG9wvN5g1Jtn8_qI65rYLug&hl=en&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ6AEwUnoECGMQAQ#v=onepage&q=Post-Earnings-Announcement%20Drift%20r&f=false)
+
+- [ ] [Statistical Techniques for Forensic Accounting: Understanding the Theory and ... - Saurav K. Dutta - Google Books](https://books.google.com/books?id=xX5V83o2kHgC&pg=PA243&lpg=PA243&dq=logy%3D%CE%B1%2B%CE%B2logx%2B%CE%B5+how+to+interpret+beta&source=bl&ots=8Zcb9-5hAj&sig=ACfU3U1z3DqFHIErd3YD-JIcb6lN3RasPA&hl=en&sa=X&ved=2ahUKEwj83aesl9_lAhWhy4sBHWjbBPcQ6AEwAHoECCwQAQ#v=onepage&q=logy%3D%CE%B1%2B%CE%B2logx%2B%CE%B5%20how%20to%20interpret%20beta&f=false)

@@ -245,3 +245,179 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [r - curve() does not add curve to my plot when "add = TRUE" - Stack Overflow](https://stackoverflow.com/questions/37198445/curve-does-not-add-curve-to-my-plot-when-add-true)
 
 - [ ] [r - Draw more than one function curves in the same plot - Stack Overflow](https://stackoverflow.com/questions/4049674/draw-more-than-one-function-curves-in-the-same-plot)
+
+
+## 11/10/2019
+
+- [ ] [linear algebra - Is the U factor in LU decomposition for rectangular matrices always in row echelon form? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/891334/is-the-u-factor-in-lu-decomposition-for-rectangular-matrices-always-in-row-echel)
+
+- [ ] [optimization - Python - CVXOPT: What exactly should I check for G when "Rank(A) < p or Rank([G; A]) < n” exception is thrown? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1778635/python-cvxopt-what-exactly-should-i-check-for-g-when-ranka-p-or-rankg)
+
+
+
+## 11/10/2019
+
+- [ ] [Generate 100 values with Weibull distribution in R - Stack Overflow](https://stackoverflow.com/questions/17771962/generate-100-values-with-weibull-distribution-in-r)
+
+- [ ] [How to find row-echelon matrix form (not reduced) in Python? - Stack Overflow](https://stackoverflow.com/questions/53875432/how-to-find-row-echelon-matrix-form-not-reduced-in-python)
+
+- [ ] [Maximum Likelihood Estimation for three-parameter Weibull distribution in r - Stack Overflow](https://stackoverflow.com/questions/38676425/maximum-likelihood-estimation-for-three-parameter-weibull-distribution-in-r)
+
+- [ ] [numpy - Python PCA - projection into lower dimensional space - Stack Overflow](https://stackoverflow.com/questions/36771525/python-pca-projection-into-lower-dimensional-space)
+
+- [ ] [numpy - solving Ax =b for a non-square matrix A using python - Stack Overflow](https://stackoverflow.com/questions/46377331/solving-ax-b-for-a-non-square-matrix-a-using-python)
+
+- [ ] [numpy - using python to calculate Vector Projection - Stack Overflow](https://stackoverflow.com/questions/55226011/using-python-to-calculate-vector-projection)
+
+- [ ] [parameters - Error in maximum likelihood estimation using R - Stack Overflow](https://stackoverflow.com/questions/34950924/error-in-maximum-likelihood-estimation-using-r)
+
+- [ ] [python - 2D Orthogonal projection of vector onto line with numpy yields wrong result - Stack Overflow](https://stackoverflow.com/questions/39895330/2d-orthogonal-projection-of-vector-onto-line-with-numpy-yields-wrong-result/39895669)
+
+- [ ] [python - 2D Orthogonal projection of vector onto line with numpy yields wrong result - Stack Overflow](https://stackoverflow.com/questions/39895330/2d-orthogonal-projection-of-vector-onto-line-with-numpy-yields-wrong-result)
+
+- [ ] [python - Calculate Matrix Rank using scipy - Stack Overflow](https://stackoverflow.com/questions/2473983/calculate-matrix-rank-using-scipy)
+
+- [ ] [python - How to find linearly independent rows from a matrix - Stack Overflow](https://stackoverflow.com/questions/28816627/how-to-find-linearly-independent-rows-from-a-matrix)
+
+- [ ] [python - Is there a good way to find the rank of a matrix in a field of characteristic p>0? - Stack Overflow](https://stackoverflow.com/questions/39683153/is-there-a-good-way-to-find-the-rank-of-a-matrix-in-a-field-of-characteristic-p)
+
+- [ ] [python - numpy matrix rank incorrect result - Stack Overflow](https://stackoverflow.com/questions/36843515/numpy-matrix-rank-incorrect-result)
+
+- [ ] [python - orthogonal projection with numpy - Stack Overflow](https://stackoverflow.com/questions/17836880/orthogonal-projection-with-numpy)
+
+- [ ] [r - Error in optim: function cannot be evaluated at initial parameters - Stack Overflow](https://stackoverflow.com/questions/15068213/error-in-optim-function-cannot-be-evaluated-at-initial-parameters)
+
+- [ ] [r - Error in optim/constrOptim "initial value in 'vmmin' is not finite" - Stack Overflow](https://stackoverflow.com/questions/10382842/error-in-optim-constroptim-initial-value-in-vmmin-is-not-finite)
+
+- [ ] [r - Fitting a 3 parameter Weibull distribution - Stack Overflow](https://stackoverflow.com/questions/11817883/fitting-a-3-parameter-weibull-distribution)
+
+- [ ] [r - Issue with constrOptim - Stack Overflow](https://stackoverflow.com/questions/30741117/issue-with-constroptim)
+
+- [ ] [R - Markdown avoiding package loading messages - Stack Overflow](https://stackoverflow.com/questions/13090838/r-markdown-avoiding-package-loading-messages)
+
+- [ ] [r - Optim error: function cannot be evaluated at initial parameters - Stack Overflow](https://stackoverflow.com/questions/46391977/optim-error-function-cannot-be-evaluated-at-initial-parameters)
+
+- [ ] [r - Retrieving warnings generated in a knitr session - Stack Overflow](https://stackoverflow.com/questions/55984323/retrieving-warnings-generated-in-a-knitr-session)
+
+- [ ] [r - Suppressing messages in Knitr / Rmarkdown - Stack Overflow](https://stackoverflow.com/questions/15406028/suppressing-messages-in-knitr-rmarkdown)
+
+- [ ] [r markdown - How to suppress all messages in knitr/ Rmarkdown? - Stack Overflow](https://stackoverflow.com/questions/26456924/how-to-suppress-all-messages-in-knitr-rmarkdown)
+
+- [ ] [R markdown global option warning=FALSE not working as expected - Stack Overflow](https://stackoverflow.com/questions/50300278/r-markdown-global-option-warning-false-not-working-as-expected)
+
+- [ ] [R: Trying to create a Q-Q plot for the Weibull Distribution, getting error "NAs Introduced by Coersion" - Stack Overflow](https://stackoverflow.com/questions/34167012/r-trying-to-create-a-q-q-plot-for-the-weibull-distribution-getting-error-nas)
+
+- [ ] [Rank items in an array using Python/NumPy, without sorting array twice - Stack Overflow](https://stackoverflow.com/questions/5284646/rank-items-in-an-array-using-python-numpy-without-sorting-array-twice/)
+
+- [ ] [simulation - How to code a multiparameter log-likelihood function in R - Stack Overflow](https://stackoverflow.com/questions/20786249/how-to-code-a-multiparameter-log-likelihood-function-in-r)
+
+- [ ] [simulation - How to code a multiparameter log-likelihood function in R - Stack Overflow](https://stackoverflow.com/questions/20786249/how-to-code-a-multiparameter-log-likelihood-function-in-r)
+
+- [ ] [The Weibull distribution in R (ExtDist) - Stack Overflow](https://stackoverflow.com/questions/45208176/the-weibull-distribution-in-r-extdist)
+
+- [ ] [Use the cumulative distribution function of Weibull in R - Stack Overflow](https://stackoverflow.com/questions/17768765/use-the-cumulative-distribution-function-of-weibull-in-r)
+
+- [ ] [Weibull MLE in R - Stack Overflow](https://stackoverflow.com/questions/47264485/weibull-mle-in-r)
+
+
+
+
+
+
+
+## 11/10/2019
+
+- [ ] [curve fitting - How to fit a Weibull distribution to input data containing zeroes? - Cross Validated](https://stats.stackexchange.com/questions/19866/how-to-fit-a-weibull-distribution-to-input-data-containing-zeroes)
+
+- [ ] [estimation - Fit a censored log-normal distribution to data using MLE - Cross Validated](https://stats.stackexchange.com/questions/176834/fit-a-censored-log-normal-distribution-to-data-using-mle)
+
+- [ ] [How do I fit a set of data to a Pareto distribution in R? - Cross Validated](https://stats.stackexchange.com/questions/27426/how-do-i-fit-a-set-of-data-to-a-pareto-distribution-in-r)
+
+- [ ] [logistic - Determine Maximum Likelihood Estimate (MLE) of loglogistic distribution - Cross Validated](https://stats.stackexchange.com/questions/134132/determine-maximum-likelihood-estimate-mle-of-loglogistic-distribution)
+
+- [ ] [mathematical statistics - Attempting to find mean of Weibull function in R - Cross Validated](https://stats.stackexchange.com/questions/361191/attempting-to-find-mean-of-weibull-function-in-r)
+
+- [ ] [maximum likelihood - How to estimate parameters of a log-normal distribution? - Cross Validated](https://stats.stackexchange.com/questions/141834/how-to-estimate-parameters-of-a-log-normal-distribution)
+
+- [ ] [maximum likelihood - How to find initial values for Weibull MLE in R? - Cross Validated](https://stats.stackexchange.com/questions/230937/how-to-find-initial-values-for-weibull-mle-in-r)
+
+- [ ] [maximum likelihood - MLE estimation: Inverse gamma duration model with exogenous variables - Cross Validated](https://stats.stackexchange.com/questions/363185/mle-estimation-inverse-gamma-duration-model-with-exogenous-variables)
+
+- [ ] [maximum likelihood - Parameter estimation of Gamma Distribution using R - Cross Validated](https://stats.stackexchange.com/questions/262871/parameter-estimation-of-gamma-distribution-using-r)
+
+- [ ] [optimization - Nonstable estimates for GARCH(1,1) for different initials using MLE in R - Cross Validated](https://stats.stackexchange.com/questions/281278/nonstable-estimates-for-garch1-1-for-different-initials-using-mle-in-r)
+
+- [ ] [probability - Fitting Weibull distribution in R - Cross Validated](https://stats.stackexchange.com/questions/346249/fitting-weibull-distribution-in-r)
+
+- [ ] [probability - R - Weibull Distribution Parameters (Shape and Scale) - Confidence Intervals - Cross Validated](https://stats.stackexchange.com/questions/173082/r-weibull-distribution-parameters-shape-and-scale-confidence-intervals)
+
+- [ ] [probability - Weibull distribution in R - Cross Validated](https://stats.stackexchange.com/questions/181816/weibull-distribution-in-r)
+
+- [ ] [r - MLE/Likelihood of lognormally distributed interval - Cross Validated](https://stats.stackexchange.com/questions/56015/mle-likelihood-of-lognormally-distributed-interval)
+
+- [ ] [R - nlm and Weibull Maximum Likelihood - Cross Validated](https://stats.stackexchange.com/questions/392527/r-nlm-and-weibull-maximum-likelihood)
+
+- [ ] [r - Weibull distribution parameters $k$ and $c$ for wind speed data - Cross Validated](https://stats.stackexchange.com/questions/60511/weibull-distribution-parameters-k-and-c-for-wind-speed-data)
+
+- [ ] [r - Why isn't Weibull Maximum Likelihood Estimation possible with x=0? - Cross Validated](https://stats.stackexchange.com/questions/348839/why-isnt-weibull-maximum-likelihood-estimation-possible-with-x-0)
+
+- [ ] [Robust parameter estimation for shifted log normal distribution - Cross Validated](https://stats.stackexchange.com/questions/49495/robust-parameter-estimation-for-shifted-log-normal-distribution)
+
+- [ ] [weibull mle with optim in R - Cross Validated](https://stats.stackexchange.com/questions/120662/weibull-mle-with-optim-in-r)
+
+
+
+## 11/10/2019
+
+- [ ] [Exporting R regression summary for publishable paper - Stack Overflow](https://stackoverflow.com/questions/30147756/exporting-r-regression-summary-for-publishable-paper)
+
+- [ ] [knitr - Regression tables in Markdown format (for flexible use in R Markdown v2) - Stack Overflow](https://stackoverflow.com/questions/24342162/regression-tables-in-markdown-format-for-flexible-use-in-r-markdown-v2)
+
+- [ ] [r - How to export coefficients of the regression analysis fto a spreadsheet or csv file? - Stack Overflow](https://stackoverflow.com/questions/26866839/how-to-export-coefficients-of-the-regression-analysis-fto-a-spreadsheet-or-csv-f)
+
+- [ ] [Regression Tables in R Markdown / rmarkdown (html/pdf) - Stack Overflow](https://stackoverflow.com/questions/44457243/regression-tables-in-r-markdown-rmarkdown-html-pdf)
+
+
+
+## 11/10/2019
+
+- [ ] [hazard - What are the differences between survival analysis and Poisson regression? - Cross Validated](https://stats.stackexchange.com/questions/44046/what-are-the-differences-between-survival-analysis-and-poisson-regression)
+
+- [ ] [How to calculate the robust standard error of predicted y from a linear regression model in R? - Cross Validated](https://stats.stackexchange.com/questions/110091/how-to-calculate-the-robust-standard-error-of-predicted-y-from-a-linear-regressi)
+
+- [ ] [r - Robust regression inference and Sandwich estimators - Cross Validated](https://stats.stackexchange.com/questions/76904/robust-regression-inference-and-sandwich-estimators)
+
+- [ ] [regression - R: Confused about robust standard errors using “felm” and “huxreg” - Cross Validated](https://stats.stackexchange.com/questions/389393/r-confused-about-robust-standard-errors-using-felm-and-huxreg)
+
+- [ ] [regression - Replicating White's standard errors in R with the NeweyWest function - Cross Validated](https://stats.stackexchange.com/questions/312297/replicating-whites-standard-errors-in-r-with-the-neweywest-function)
+
+- [ ] [Replicating Stata's "robust" option in R - Cross Validated](https://stats.stackexchange.com/questions/117052/replicating-statas-robust-option-in-r)
+
+- [ ] [Replicating Stata's "robust" option in R - Cross Validated](https://stats.stackexchange.com/questions/117052/replicating-statas-robust-option-in-r)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## test
+
+[hazard - What are the differences between survival analysis and Poisson regression? - Cross Validated](https://stats.stackexchange.com/questions/44046/what-are-the-differences-between-survival-analysis-and-poisson-regression)
+[How to calculate the robust standard error of predicted y from a linear regression model in R? - Cross Validated](https://stats.stackexchange.com/questions/110091/how-to-calculate-the-robust-standard-error-of-predicted-y-from-a-linear-regressi)
+[r - Robust regression inference and Sandwich estimators - Cross Validated](https://stats.stackexchange.com/questions/76904/robust-regression-inference-and-sandwich-estimators)
+[regression - R: Confused about robust standard errors using “felm” and “huxreg” - Cross Validated](https://stats.stackexchange.com/questions/389393/r-confused-about-robust-standard-errors-using-felm-and-huxreg)
+[regression - Replicating White's standard errors in R with the NeweyWest function - Cross Validated](https://stats.stackexchange.com/questions/312297/replicating-whites-standard-errors-in-r-with-the-neweywest-function)
+[Replicating Stata's "robust" option in R - Cross Validated](https://stats.stackexchange.com/questions/117052/replicating-statas-robust-option-in-r)
+[Replicating Stata's "robust" option in R - Cross Validated](https://stats.stackexchange.com/questions/117052/replicating-statas-robust-option-in-r)
