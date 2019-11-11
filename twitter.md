@@ -783,3 +783,51 @@ https://github.com/tensorflow/probability/tree/master/tensorflow_probability/exa
 - [ ] [Matt Ridley（@mattwridley）さん / Twitter](https://twitter.com/mattwridley)
 
 - [ ] [Richard Tol（@RichardTol）さん / Twitter](https://twitter.com/RichardTol)
+
+
+
+## 11/11/2019
+
+
+(2) David McKenzieさんはTwitterを使っています: 「I'm about halfway through Banerjee and Duflo's Good Economics for Hard Times, and thought I'd reflect on the quite stark difference in the way they think about migration versus trade 1/21 https://t.co/LGHK058IxF」 / Twitter
+https://twitter.com/dmckenzie001/status/1193643205675364352
+
+(2) Alex Kontorovich（@AlexKontorovich）さん / Twitter
+https://twitter.com/AlexKontorovich
+
+(2) Andrew M. Webb（@AndrewM_Webb）さん / Twitter
+https://twitter.com/AndrewM_Webb
+
+(2) Jason Antic（@citnaj）さん / Twitter
+https://twitter.com/citnaj
+
+🔎Julia Evans🔍（@b0rk）さん / Twitter
+https://twitter.com/b0rk
+
+(2) from:AndrewM_Webb min_retweets:35 -sirajraval - Twitter検索 / Twitter
+https://twitter.com/search?q=from%3AAndrewM_Webb%20min_retweets%3A35%20-sirajraval
+
+(2) @CryptGold/.⏳🧲📡🪐🛰さんはTwitterを利用しています / Twitter
+https://twitter.com/CryptGold/lists/list2
+
+(2) Alexander Bogomolny（@CutTheKnotMath）さん / Twitter
+https://twitter.com/CutTheKnotMath
+
+(2) Sung Lee（@geomphys）さん / Twitter
+https://twitter.com/geomphys
+
+(2) Joshua Silva（@silvascientist）さん / Twitter
+https://twitter.com/silvascientist
+
+(2) Ben Steffan（@BiCapitalize）さん / Twitter
+https://twitter.com/BiCapitalize
+
+(2) ∞-Homo(A,B)（@Category_Fury）さん / Twitter
+https://twitter.com/Category_Fury
+
+Joe Moeller（@CreeepyJoe）さん / Twitter
+https://twitter.com/CreeepyJoe
+
+∆-module（@koszuldude）さん / Twitter
+https://twitter.com/koszuldude
+
