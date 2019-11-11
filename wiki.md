@@ -378,3 +378,26 @@ https://en.wikipedia.org/wiki/Economic_inequality
 - [ ] [Sheaf (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Sheaf_%28mathematics%29)
 
 - [ ] [Topological data analysis - Wikipedia](https://en.wikipedia.org/wiki/Topological_data_analysis#Workflow)
+
+
+
+## 11/8/2019
+
+Portfolio optimization - Wikipedia
+https://en.wikipedia.org/wiki/Portfolio_optimization
+
+Category:Financial economics - Wikipedia
+https://en.wikipedia.org/wiki/Category:Financial_economics
+
+Category:Portfolio theories - Wikipedia
+https://en.wikipedia.org/wiki/Category:Portfolio_theories
+
+Copula (probability theory) - Wikipedia
+https://en.wikipedia.org/wiki/Copula_(probability_theory)#Quantitative_finance
+
+Genetic algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Genetic_algorithm
+
+A Gentle Introduction to Finance using R: Efficient Frontier and CAPM – Part 1 – Data Shenanigans
+https://datashenanigan.wordpress.com/2016/05/24/a-gentle-introduction-to-finance-using-r-efficient-frontier-and-capm-part-1/
+

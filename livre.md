@@ -568,3 +568,59 @@ http://libgen.is/book/index.php?md5=64880F122155CDA9112D444EC720BEE2
 Library Genesis: William Preinitz, Matthew Niedermaier - Intermediate Structured Finance Modeling, with Website: Leveraging Excel, VBA, Access, and Powerpoint
 http://libgen.is/book/index.php?md5=6A3709B10A970F433E138F2E07ABD717
 
+
+
+
+
+
+
+# Financial and Stochasitic math
+
+Library Genesis
+http://libgen.is/search.php?&req=Modern+Portfolio+Theory&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?&req=asset+pricing&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?&req=option+pricing&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?req=Mathematical+Finance+Group&column=series
+
+Library Genesis
+http://libgen.is/search.php?req=Bocconi+%26+Springer+Series&column=series
+
+Library Genesis
+http://libgen.is/search.php?&res=100&req=Chapman+%26+Hall%2FCRC+financial+mathematics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?&req=Alexander+Melnikov&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?req=Series+in+Quantitative+Finance&column=series
+
+Library Genesis
+http://libgen.is/search.php?&req=Lecture+Notes+in+Economics+and+Mathematical+Systems&phrase=0&view=simple&column=series&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?&req=Academic+Press+advanced+finance&phrase=0&view=simple&column=series&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?req=Decentralized+Economy&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+
+Library Genesis
+http://libgen.is/search.php?req=Alexander%20P.%20Abramov&column[]=author
+
+Library Genesis
+http://libgen.is/search.php?&req=optimization+theory&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+Library Genesis: J. Michael Steele - Probability theory and combinatorial optimization
+http://libgen.is/book/index.php?md5=714B93A356C65F7D812D3D44A45CB5E9
+
+Library Genesis: John E. Roemer - How We Cooperate: A Theory of Kantian Optimization
+http://libgen.is/book/index.php?md5=9703F46F7C71FF4B3EAD732733EA43C7
+
+Library Genesis
+http://libgen.is/search.php?req=John+E.+Roemer&column=author
+

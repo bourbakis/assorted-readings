@@ -85,3 +85,6 @@
 rpt from "Xi Jinping: The Backlash" by Richard McGregor](https://sinocism.com/p/excerpt-from-xi-jinping-the-backlash?utm_source=substack&utm_content=topposts)
 
 > Richard is a senior fellow at the Lowy Institute in Sydney and before that he was a journalist with the Financial Times. His 2010 book [The Party: The Secret World of China's Communist Rulers](https://amzn.to/2SnOXBn) is still required reading for understanding the Communist Party and his 2017 book [Asia's Reckoning: China, Japan, and the Fate of U.S. Power in the Pacific Century](https://amzn.to/2O2UI9g) is also excellent.
+
+
+
