@@ -2382,3 +2382,153 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 - [ ] [Seasonality Analysis of the Sales - Google Search](https://www.google.com/search?q=Seasonality%20Analysis%20of%20the%20Sales)
 
 - [ ] [Simulation and the Monte Carlo Method Dirk Kroese - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTmJJsS9G_et1hA-4dyTBovzpd_KA:1573378417095&q=Simulation+and+the+Monte+Carlo+Method+Dirk+Kroese&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2yikyqkpLM5JLys_PVsjPU8jNzytJVUhOLMrJVyjOzC3NSSzJzM-LEvYFizuDxXNTSzLyU4pPMXLp5-obmOUWZJlanmJENREqmZQUX5iSBeUkG2eXVRqcYuQBqTRKyjVOqzAoQXCT48uz0n8xyjlBnYJsJcIpi1gNg-EchcS8FIWSjFQUtb5g5ym4ZBZlK3gX5acWpwIAidRRHvAAAAA&sa=X&ved=2ahUKEwiWrZetq9_lAhWNBKYKHbrNC0oQxA0wfXoECGQQBg)
+
+
+
+## 11/11/2019
+
+- [ ] [cvar portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=cvar+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoA3oECGUQBA)
+
+- [ ] [efficient portfolio r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=efficient%20portfolio%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAV6BAgEEAY)
+
+- [ ] [genetic algorithm example code in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=genetic%20algorithm%20example%20code%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAB6BAgEEAE)
+
+- [ ] [genetic algorithm portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=genetic%20algorithm%20portfolio%20optimization&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAB6BAgGEAE)
+
+- [ ] [kable display as percent in r - Google Search](https://www.google.com/search?q=kable+display+as+percent+in+r&oq=kable+display+as+percent+in+r&aqs=chrome..69i57j33l7.6331j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [maximum return portfolio r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=maximum+return+portfolio+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBnoECGUQBw)
+
+- [ ] [minimum variance portfolio in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=minimum%20variance%20portfolio%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgGEAU)
+
+- [ ] [portfolio allocation in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+allocation+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoB3oECGUQCA)
+
+- [ ] [portfolio analysis in r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+analysis+in+r+pdf&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBXoECGUQBg)
+
+- [ ] [portfolio optimization in r - Google Search](https://www.google.com/search?q=portfolio+optimization+in+r&oq=portfolio+optimization+in+r&aqs=chrome..69i57j0l6j69i60.11308j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+in+r&stick=H4sIAAAAAAAAAOOQMZIuyC8qScvPycxXyC8oyczNrEosyczPU0jKz8-OwiWZmadQdIqRVz9d39Aw3dDE1DIpw-wUIw-Ib5SUa5ScEm8K5xYWluRU5SFkK_LM09Lg3Erz5GzDLISsSYFpthGCa5ZtWlmF4CZbGJgj9OZamJqXALlc-rn6BmZZBUYFWb8YpQNw-2cRKz4PAQAEUM1lDQEAAA&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQzTooADB2egQIYhAC)
+
+- [ ] [portfolio optimization markowitz - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio%20optimization%20markowitz&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgEEAU)
+
+- [ ] [portfolio optimization problem in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+problem+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBHoECGUQBQ)
+
+- [ ] [portfolio optimization using deep learning - Google Search](https://www.google.com/search?q=portfolio+optimization+using+deep+learning&oq=portfolio+optimization+using+&aqs=chrome.1.69i57j0l4j69i60l2j69i64.9579j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization using quantprog in r - Google Search](https://www.google.com/search?q=portfolio+optimization+using+quantprog+in+r&oq=portfolio+optimization+using+quantprog+in+r&aqs=chrome..69i57.6990j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization with r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+with+r+pdf&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAHoECGUQAQ)
+
+- [ ] [portfolio optimization with r rmetrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio%20optimization%20with%20r%20rmetrics&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAF6BAgEEAI)
+
+- [ ] [portfolio.optim r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio.optim%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAN6BAgGEAQ)
+
+- [ ] [portfolioanalytics r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolioanalytics%20r%20example&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAN6BAgEEAQ)
+
+- [ ] [quadprog python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20python&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAR6BAgAEAU)
+
+- [ ] [quadprog python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20python&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAV6BAgBEAY)
+
+- [ ] [quadprog r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw:1573382773754&q=quadprog+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwiN28zKu9_lAhXEGaYKHW_zAi0QsAR6BAgQEAE)
+
+- [ ] [quadprog r github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20r%20github&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAB6BAgBEAE)
+
+- [ ] [quadratic programming - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadratic%20programming&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAV6BAgAEAY)
+
+- [ ] [quantmod package in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quantmod%20package%20in%20r&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAN6BAgAEAQ)
+
+- [ ] [quantopian portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=quantopian%20portfolio%20optimization&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAJ6BAgEEAM)
+
+- [ ] [r finance portfolio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=r%20finance%20portfolio&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgDEAU&biw=1920&bih=948)
+
+- [ ] [robust portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=robust+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAXoECGUQAg)
+
+- [ ] [rolling portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=rolling+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAnoECGUQAw)
+
+- [ ] [rolling portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=rolling%20portfolio%20optimization%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAF6BAgGEAI)
+
+- [ ] [solve.qp portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=solve.qp%20portfolio%20optimization&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAF6BAgBEAI)
+
+- [ ] [run r code in rstudio - Google Search](https://www.google.com/search?q=run+r+code+in+rstudio&oq=run+r+code+in+rstudio&aqs=chrome..69i57j0l4j69i65l3.5204j1j1&sourceid=chrome&ie=UTF-8)
+
+
+
+## 11/11/2019
+
+- [ ] [cvar portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=cvar%20portfolio%20optimization%20in%20r&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAN6BAgAEAQ)
+
+- [ ] [cvar portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=cvar+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoA3oECGUQBA)
+
+- [ ] [efficient frontier r - Google Search](https://www.google.com/search?q=efficient+frontier+r&oq=efficient+frontier+r&aqs=chrome..69i57j0l4j69i65j69i64l2.7531j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [efficient portfolio r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=efficient%20portfolio%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAV6BAgEEAY)
+
+- [ ] [genetic algorithm example code in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=genetic%20algorithm%20example%20code%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAB6BAgEEAE)
+
+- [ ] [genetic algorithm portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=genetic%20algorithm%20portfolio%20optimization&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAB6BAgGEAE)
+
+- [ ] [how to calculate the efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=how%20to%20calculate%20the%20efficient%20frontier&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAF6BAgAEAI)
+
+- [ ] [introcompfinr - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=introcompfinr&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAR6BAgAEAU)
+
+- [ ] [kable display as percent in r - Google Search](https://www.google.com/search?q=kable+display+as+percent+in+r&oq=kable+display+as+percent+in+r&aqs=chrome..69i57j33l7.6331j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [maximum return portfolio r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=maximum%20return%20portfolio%20r&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAB6BAgAEAE)
+
+- [ ] [maximum return portfolio r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=maximum+return+portfolio+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBnoECGUQBw)
+
+- [ ] [minimum variance portfolio in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=minimum%20variance%20portfolio%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgGEAU)
+
+- [ ] [portfolio allocation in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+allocation+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoB3oECGUQCA)
+
+- [ ] [portfolio analysis in r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+analysis+in+r+pdf&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBXoECGUQBg)
+
+- [ ] [portfolio in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=portfolio%20in%20r&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAJ6BAgAEAM)
+
+- [ ] [portfolio optimization in r - Google Search](https://www.google.com/search?q=portfolio+optimization+in+r&oq=portfolio+optimization+in+r&aqs=chrome..69i57j0l6j69i60.11308j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+in+r&stick=H4sIAAAAAAAAAOOQMZIuyC8qScvPycxXyC8oyczNrEosyczPU0jKz8-OwiWZmadQdIqRVz9d39Aw3dDE1DIpw-wUIw-Ib5SUa5ScEm8K5xYWluRU5SFkK_LM09Lg3Erz5GzDLISsSYFpthGCa5ZtWlmF4CZbGJgj9OZamJqXALlc-rn6BmZZBUYFWb8YpQNw-2cRKz4PAQAEUM1lDQEAAA&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQzTooADB2egQIYhAC)
+
+- [ ] [portfolio optimization markowitz - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio%20optimization%20markowitz&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgEEAU)
+
+- [ ] [portfolio optimization problem in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+problem+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoBHoECGUQBQ)
+
+- [ ] [portfolio optimization using deep learning - Google Search](https://www.google.com/search?q=portfolio+optimization+using+deep+learning&oq=portfolio+optimization+using+&aqs=chrome.1.69i57j0l4j69i60l2j69i64.9579j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization using quantprog in r - Google Search](https://www.google.com/search?q=portfolio+optimization+using+quantprog+in+r&oq=portfolio+optimization+using+quantprog+in+r&aqs=chrome..69i57.6990j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio optimization with r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=portfolio+optimization+with+r+pdf&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAHoECGUQAQ)
+
+- [ ] [portfolio optimization with r rmetrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio%20optimization%20with%20r%20rmetrics&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAF6BAgEEAI)
+
+- [ ] [portfolio.optim r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolio.optim%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAN6BAgGEAQ)
+
+- [ ] [portfolioanalytics r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRyG2Rpq2IV_6BP1M6lNtmfvzU-3w%3A1573387324432&lei=PPzHXYbpGdqPr7wP8IaT6AE&q=portfolioanalytics%20r%20example&ved=2ahUKEwjM-bjFzN_lAhUTw4sBHalsD5kQsKwBKAV6BAgAEAY)
+
+- [ ] [portfolioanalytics r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=portfolioanalytics%20r%20example&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAN6BAgEEAQ)
+
+- [ ] [quadprog python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20python&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAR6BAgAEAU)
+
+- [ ] [quadprog python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20python&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAV6BAgBEAY)
+
+- [ ] [quadprog r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw:1573382773754&q=quadprog+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwiN28zKu9_lAhXEGaYKHW_zAi0QsAR6BAgQEAE)
+
+- [ ] [quadprog r github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadprog%20r%20github&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAB6BAgBEAE)
+
+- [ ] [quadratic programming - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quadratic%20programming&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAV6BAgAEAY)
+
+- [ ] [quantmod package in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=quantmod%20package%20in%20r&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAN6BAgAEAQ)
+
+- [ ] [quantopian portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=quantopian%20portfolio%20optimization&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAJ6BAgEEAM)
+
+- [ ] [r finance portfolio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=r%20finance%20portfolio&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAR6BAgDEAU&biw=1920&bih=948)
+
+- [ ] [robust portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=robust+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAXoECGUQAg)
+
+- [ ] [rolling portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ:1573382592208&q=rolling+portfolio+optimization+in+r&sa=X&ved=2ahUKEwinjYT0ut_lAhXjDaYKHUteA-kQ1QIoAnoECGUQAw)
+
+- [ ] [rolling portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLToqEoiGIKMgrkFj6PCTknpm9EQ%3A1573382592208&lei=wOnHXaetDOObmAXLvI3IDg&q=rolling%20portfolio%20optimization%20in%20r&ved=2ahUKEwiQuJz1ut_lAhXQyIsBHc1GDGAQsKwBKAF6BAgGEAI)
+
+- [ ] [run r code in rstudio - Google Search](https://www.google.com/search?q=run+r+code+in+rstudio&oq=run+r+code+in+rstudio&aqs=chrome..69i57j0l4j69i65l3.5204j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [solve.qp portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=solve.qp%20portfolio%20optimization&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAF6BAgBEAI)
