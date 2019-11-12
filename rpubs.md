@@ -260,3 +260,179 @@ https://rpubs.com/shawnspei/final_v2
 ## 10/27/2019
 
 - [ ] [RPubs - Experimental design and Bayesian techniques](https://api.rpubs.com/jakubecp/330544)
+
+
+
+
+
+# Quant
+
+
+## 11/11/2019
+
+- [ ] [RPubs - Class_1](http://www.rpubs.com/Srivatsa/Class_1)
+
+- [ ] [RPubs - Cypto-Currency Price Trends](http://www.rpubs.com/Anubis/cryptocurrency)
+
+- [ ] [RPubs - Optimization Frontier of Portfolios](http://www.rpubs.com/bdross97/426728)
+
+- [ ] [RPubs - Portfolio optimization](http://www.rpubs.com/mr148/334725)
+
+
+
+## 11/11/2019
+
+- [ ] [RPubs - Portfolio Optimization](https://api.rpubs.com/superjohn/portfolio_optimization)
+
+- [ ] [RPubs - Titanic R Notebook Test](https://api.rpubs.com/superjohn/titanic-nb-test)
+
+- [ ] [Portfolio Optimization](https://rstudio-pubs-static.s3.amazonaws.com/333431_8a130f2ff7f84e4faee2a4ac01d6c30e.html)
+
+- [ ] [RPubs - Portfolio optimization](https://rpubs.com/mr148/333431)
+
+- [ ] [RPubs - 30 Shortest Countries, 2019](https://api.rpubs.com/chidungkt/532529)
+
+- [ ] [RPubs - China is Redrawing the Map of World Science](https://api.rpubs.com/chidungkt/501144)
+
+- [ ] [RPubs - Mini Course: Collect Data for 78704 Homes for Sale in Hanoi](https://api.rpubs.com/chidungkt/508790)
+
+- [ ] [RPubs - Population Pyramid Graph for Vietnam in 2018](https://api.rpubs.com/chidungkt/505486)
+
+- [ ] [RPubs - Population Structure of Vietnam: 1995 - 2018](https://api.rpubs.com/chidungkt/512203)
+
+- [ ] [RPubs - Portfolio Theory: Estimate Beta for All Companies Listed on Ho Chi Minh Stock Exchange (HOSE)](https://api.rpubs.com/chidungkt/515870)
+
+- [ ] [RPubs - Replicate a The Economist Style Graph (Area Chart)](https://api.rpubs.com/chidungkt/514208)
+
+- [ ] [RPubs - Sales Report with Highcharter (Version 2)](http://api.rpubs.com/chidungkt/275261)
+
+- [ ] [RPubs - Share of Government Spending on Health Care: Vietnam and United States](https://api.rpubs.com/chidungkt/516064)
+
+- [ ] [RPubs - Top Seven Trade Partners of Vietnam by Export Volume](https://api.rpubs.com/chidungkt/503802)
+
+- [ ] [RPubs - wbstats - R Package for Collecting Data From World Bank](https://api.rpubs.com/chidungkt/515343)
+
+
+## 11/11/2019
+
+- [ ] [RPubs - China&#x27;s Rise to Become the Largest Economy](http://rpubs.com/Scrabbler/541124)
+
+- [ ] [RPubs - Baseball Story Analysis](http://rpubs.com/rickynewbz/541135)
+
+- [ ] [RPubs - NWSL Draft Preliminary Analysis](http://rpubs.com/mblackman/NWSLDraft2)
+
+- [ ] [RPubs - Data 607 Project 3](http://rpubs.com/jpsimone/541125)
+
+- [ ] [RPubs - R-Markdown HW Stats](http://rpubs.com/Jeremy_McArthur/R-Markdown-HW)
+
+- [ ] [RPubs - Tips: rollapply](https://rpubs.com/simaan84/rollapply)
+
+- [ ] [RPubs - Tips: Reduce](https://rpubs.com/simaan84/Reduce)
+
+- [ ] [RPubs - Tips: Correlation over Time](https://rpubs.com/simaan84/correlation_xts)
+
+- [ ] [RPubs - FE535_Call_Surface](https://rpubs.com/simaan84/fe535_surface_call)
+
+- [ ] [RPubs - All Seasons Portfolio Part 1](http://rpubs.com/the5ac/all_seasons_portfolio_part1)
+
+- [ ] [RPubs - AMZN Stocks 2017](https://rpubs.com/mxiu47/amzn_stocks_2017)
+
+- [ ] [RPubs - An Efficient Market Believers Dream Tool](https://rpubs.com/Hisam/84732)
+
+- [ ] [RPubs - Bayesian Optimization](https://rpubs.com/esppk/bop)
+
+- [ ] [RPubs - Benchmark Matcher](http://rpubs.com/dwixom/BenchmarkMatcher)
+
+- [ ] [RPubs - Big Mart Data Analysis](https://rpubs.com/mxiu47/bigmart_sales_data)
+
+- [ ] [RPubs - DATA 607](http://rpubs.com/SieSiongWong/541129)
+
+- [ ] [RPubs - DATA 607 Project 3](http://rpubs.com/greeneyefirefly/data607-Project3)
+
+- [ ] [RPubs - data607 Project3 Test](https://rpubs.com/ritesh_lohiya/373955)
+
+- [ ] [RPubs - DATA607_Project3](https://rpubs.com/YunMai/DATA607_Project3)
+
+- [ ] [RPubs - Data609 project presentation](https://rpubs.com/fung10_91/data609present)
+
+- [ ] [RPubs - DmwR In Class - Stock Market Prediction](https://rpubs.com/enghanwenalvin/299141)
+
+- [ ] [RPubs - Document](https://rpubs.com/ivanblanco/ClassExample_7)
+
+- [ ] [RPubs - DVA_PF Preliminary Analysis and Visualization](https://rpubs.com/mxiu47/pf_prelim_analysis)
+
+- [ ] [RPubs - Dynamic Regression Time Series Models](https://rpubs.com/mr148/379009)
+
+- [ ] [RPubs - Efficient Frontier for Mean-CVaR Portfolio](https://rpubs.com/AzamYahya0/ef_mean_cvar)
+
+- [ ] [RPubs - Efficient Frontier for Mean-CVaR Portfolio](https://rpubs.com/AzamYahya0/ef_mean_cvar)
+
+- [ ] [RPubs - Efficient Frontier Plot](https://rpubs.com/JanpuHou/258620)
+
+- [ ] [RPubs - Efficient Portfolio](https://rpubs.com/mr148/333559)
+
+- [ ] [RPubs - Eigenfaces for Face Detection](https://rpubs.com/JanpuHou/469414)
+
+- [ ] [RPubs - Equity Portfolio Hedging](https://rpubs.com/OmarMa/Equity_Portfolio_Hedging)
+
+- [ ] [RPubs - Image Classification with SVM on PCA coefficients](https://rpubs.com/JanpuHou/469844)
+
+- [ ] [RPubs - Image Classification with SVM on PCA coefficients](https://rpubs.com/JanpuHou/469844)
+
+- [ ] [RPubs - Introduction to Portfolio Analysis in R](https://rpubs.com/DanielSLee/IntroPortfolioAnalysis)
+
+- [ ] [RPubs - Investment Portfolio Analysis And Allocation To Get Optimum Profit Using Sharpe Ratio](https://rpubs.com/abhijitjantre/Investment_Portfolio_Analysis_And_Allocation_To_Get_Optimum_Profit_Using_Sharpe_Ratio)
+
+- [ ] [RPubs - Iris Dataset Tidying &amp; Visualization](https://rpubs.com/mxiu47/iris_data)
+
+- [ ] [RPubs - learn PageRank Algorithm in R](https://rpubs.com/Cher_Lin/algorithm)
+
+- [ ] [RPubs - Load the MNIST Dataset](https://rpubs.com/JanpuHou/465274)
+
+- [ ] [RPubs - Mean-Variance Portfolio Optimization for Shariah Fund](https://rpubs.com/AzamYahya0/shariah_markowitz)
+
+- [ ] [RPubs - Multiresponse Gaussian Regression](https://rpubs.com/JanpuHou/482594)
+
+- [ ] [RPubs - Notes on Portfolio Optimization](https://rpubs.com/simaan84/port_opt)
+
+- [ ] [RPubs - Portfolio Optimiser in Shiny](https://rpubs.com/jpet01/POrtOpt)
+
+- [ ] [RPubs - Portfolio Optimization](https://rpubs.com/Hasha/portfolio)
+
+- [ ] [RPubs - Portfolio Optimization](http://rpubs.com/superjohn/portfolio_optimization)
+
+- [ ] [RPubs - Portfolio Optimization - TXG](https://rpubs.com/mxiu47/pf_opt_txg)
+
+- [ ] [RPubs - Portfolio Optimization - TXG](https://rpubs.com/mxiu47/pf_opt_txg)
+
+- [ ] [RPubs - Portfolio Optimization (Markowitz and Black Litterman Models)](https://rpubs.com/RajeshVegi/Portfolio_optimization)
+
+- [ ] [RPubs - Portfolio Optimization (Markowitz and Black Litterman Models)](https://rpubs.com/RajeshVegi/Portfolio_optimization)
+
+- [ ] [RPubs - Publish Document](http://rpubs.com/pavangali/BLmodel)
+
+- [ ] [RPubs - Regression Analysis 1](https://rpubs.com/RajeshVegi/196323)
+
+- [ ] [RPubs - Risk Parity Solution](https://rpubs.com/alexsoto22/RiskParityAlgo)
+
+- [ ] [RPubs - RMfirstMarkDownFile](https://rpubs.com/rmorley/PortfolioAnalyticsTestRmd)
+
+- [ ] [RPubs - Robust portfolio optimization](https://rpubs.com/AzamYahya0/robust_portfolio_optimization)
+
+- [ ] [RPubs - SatRday Chicago 2019 Optimization Presentation](http://rpubs.com/BillSeliger/SatRdayOptimization)
+
+- [ ] [RPubs - Shariah Complaint Frontier for Robust Estimator](https://rpubs.com/AzamYahya0/shariah_robust)
+
+- [ ] [RPubs - Simple Linear Regression in TensorFlow](https://rpubs.com/JanpuHou/464595)
+
+- [ ] [RPubs - Single-Asset Analysis and Forecasting: NDX](https://rpubs.com/mxiu47/ndx_analysis)
+
+- [ ] [RPubs - TalkingData AdTracking Fraud Detection Challenge](https://rpubs.com/el16/410747)
+
+- [ ] [RPubs - TensorFlow Linear Classifier on MNIST dataset](https://rpubs.com/JanpuHou/465535)
+
+- [ ] [RPubs - Text Mining-Capstone Exploratory Data](https://rpubs.com/cpapanic/294186)
+
+- [ ] [RPubs - The Analytics Edge: Table of Contents](https://rpubs.com/SulmanKhan/436174)
+
+- [ ] [RPubs - The True Significance of the Top Ten Economic Indicators to the Major U.S. Indices | New Model: Optimal Regression | New Model: Regressive Pricing Factor Model](http://rpubs.com/MathewTheOne/136813)

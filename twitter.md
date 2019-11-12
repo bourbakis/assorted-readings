@@ -831,3 +831,50 @@ https://twitter.com/CreeepyJoe
 ∆-module（@koszuldude）さん / Twitter
 https://twitter.com/koszuldude
 
+
+
+## 11/11/2019
+
+- [ ] [(1) Brian Caffo (@bcaffo) / Twitter](https://twitter.com/bcaffo)
+
+- [ ] [(1) swirl (@swirlstats) / Twitter](https://twitter.com/swirlstats)
+
+- [ ] [(1) 即位パレード「祝賀御列の儀」を控えたコース周辺の様子 / Twitter](https://twitter.com/i/events/1193381686299357185)
+
+- [ ] [(2) AllenNLP (@ai2_allennlp) / Twitter](https://twitter.com/ai2_allennlp)
+
+- [ ] [(2) Brooke Anderson (@gbwanderson) / Twitter](https://twitter.com/gbwanderson)
+
+- [ ] [(2) Hugging Face (@huggingface) / Twitter](https://twitter.com/huggingface?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+- [ ] [(2) Jennifer Thompson (@jent103) / Twitter](https://twitter.com/jent103)
+
+- [ ] [(2) lynda.com (@lynda) / Twitter](https://twitter.com/lynda)
+
+- [ ] [(2) Mara Averick on Twitter: "💥 this… "Univariate Distribution Relationships" by Lawrence Leemis &amp; Jacquelyn McQuestion https://t.co/ORspVW1IbZ #statistics #probability #SoDS18 https://t.co/V91QxOgXIz" / Twitter](https://twitter.com/dataandme/status/994925601365557248)
+
+- [ ] [(2) Mara Averick on Twitter: "💥 this… "Univariate Distribution Relationships" by Lawrence Leemis &amp; Jacquelyn McQuestion https://t.co/ORspVW1IbZ #statistics #probability #SoDS18 https://t.co/V91QxOgXIz" / Twitter](https://twitter.com/dataandme/status/994925601365557248)
+
+- [ ] [(2) Matt Gardner (@nlpmattg) / Twitter](https://twitter.com/nlpmattg)
+
+- [ ] [(2) New York Times Opinion on Twitter: "Nicaragua's relative security is no reason to tolerate repression and authoritarianism. https://t.co/6c3MwY3QQr https://t.co/SaDr5YoSDQ" / Twitter](https://twitter.com/nytopinion/status/761352410153582592)
+
+- [ ] [(1) R Weekly (@rweekly_org) / Twitter](https://twitter.com/rweekly_org)
+
+- [ ] [(1) Ramnath Vaidyanathan (@ramnath_vaidya) / Twitter](https://twitter.com/ramnath_vaidya)
+
+- [ ] [Sean Kross (@seankross) / Twitter](https://twitter.com/seankross)
+
+- [ ] [(2) Sean Kross on Twitter: "I'm happy to announce that The Unix Workbench, my open source introduction to Unix book, is finished! 📖💥🚀🎉🖥⛅💃🕺 https://t.co/ECt60jykaP https://t.co/rIlegGKLdV" / Twitter](https://twitter.com/seankross/status/880467425292144640)
+
+- [ ] [(2) The R-Podcast (Eric) (@theRcast) / Twitter](https://twitter.com/theRcast)
+
+- [ ] [Chester Ismay (@old_man_chester) / Twitter](https://twitter.com/old_man_chester)
+
+- [ ] [David Robinson on Twitter: ""Ah, a Q-Q plot. I'll go ahead and interpret it correctly on my first try," I said, my brow sweating profusely https://t.co/WZfjsXoeBw" / Twitter](https://twitter.com/drob/status/719551926350716928?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E719551926350716928&ref_url=http%3A%2F%2Fseankross.com%2F2016%2F02%2F29%2FA-Q-Q-Plot-Dissection-Kit.html)
+
+- [ ] [Jennifer Thompson (@jent103) / Twitter](https://twitter.com/jent103)
+
+- [ ] [(1) R4DS online learning community (@R4DScommunity) / Twitter](https://twitter.com/R4DScommunity)
+
+- [ ] [(1) Sean Kross on Twitter: "Familiar with RStudio but new to the terminal? My free and open source book The Unix Workbench was made for you! https://t.co/uatIhTb1Pa https://t.co/USOs1xYBDX" / Twitter](https://twitter.com/seankross/status/896157309046464513)
