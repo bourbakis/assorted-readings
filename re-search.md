@@ -2532,3 +2532,121 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 - [ ] [run r code in rstudio - Google Search](https://www.google.com/search?q=run+r+code+in+rstudio&oq=run+r+code+in+rstudio&aqs=chrome..69i57j0l4j69i65l3.5204j1j1&sourceid=chrome&ie=UTF-8)
 
 - [ ] [solve.qp portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT--EKY89_UsFRCemv9R-r2TlVfUw%3A1573382773754&lei=derHXc3MLcSzmAXv5ovoAg&q=solve.qp%20portfolio%20optimization&ved=2ahUKEwjz7NDLu9_lAhWcy4sBHSTeC1cQsKwBKAF6BAgBEAI)
+
+
+
+## 11/12/2019
+
+- [ ] [black litterman efficient frontier - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ:1573483226343&q=black+litterman+efficient+frontier&sa=X&ved=2ahUKEwj_npDmseLlAhWHF6YKHZLcDGcQ1QIoBXoECGYQBg)
+
+- [ ] [black litterman model disadvantages - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ:1573483226343&q=black+litterman+model+disadvantages&sa=X&ved=2ahUKEwj_npDmseLlAhWHF6YKHZLcDGcQ1QIoB3oECGYQCA)
+
+- [ ] [black litterman model example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0A8WiT21ejOOE_tyRQVviRSaEUQ%3A1573483207202&lei=x3LJXePyC5GmmAWB6KlI&q=black%20litterman%20model%20example&ved=2ahUKEwi9od7dseLlAhUmGKYKHafSAa8QsKwBKAF6BAgCEAI)
+
+- [ ] [black litterman model example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=black%20litterman%20model%20example&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAN6BAgAEAQ)
+
+- [ ] [black litterman model excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=black%20litterman%20model%20excel&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAF6BAgDEAI)
+
+- [ ] [black litterman model explained - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=black%20litterman%20model%20explained&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAB6BAgDEAE)
+
+- [ ] [black litterman model in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=black%20litterman%20model%20in%20r&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAN6BAgDEAQ)
+
+- [ ] [black litterman python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=black%20litterman%20python&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAJ6BAgDEAM)
+
+- [ ] [genetic algorithm portfolio optimization - Google Search](https://www.google.com/search?q=genetic+algorithm+portfolio+optimization&newwindow=1&sa=X&sxsrf=ACYBGNT9Ys4W_-5-YSKPbap7XcfHL0a2pg:1573564184983&tbm=isch&source=iu&ictx=1&fir=iYOWMLWqD8ik0M%253A%252CIOL4n-CFow6a9M%252C_&vet=1&usg=AI4_-kQJ6TF8mCNIMGEwmR_DZNJu9IRo-g&ved=2ahUKEwi9p5uy3-TlAhUUw4sBHVs6BUEQ9QEwAHoECAIQAw#imgrc=iYOWMLWqD8ik0M:)
+
+- [ ] [genetic algorithm portfolio optimization - Google Search](https://www.google.com/search?q=genetic+algorithm+portfolio+optimization&newwindow=1&sa=X&sxsrf=ACYBGNT9Ys4W_-5-YSKPbap7XcfHL0a2pg:1573564184983&tbm=isch&source=iu&ictx=1&fir=iYOWMLWqD8ik0M%253A%252CIOL4n-CFow6a9M%252C_&vet=1&usg=AI4_-kQJ6TF8mCNIMGEwmR_DZNJu9IRo-g&ved=2ahUKEwi9p5uy3-TlAhUUw4sBHVs6BUEQ9QEwAHoECAIQAw#imgrc=iYOWMLWqD8ik0M:)
+
+- [ ] [Good Economics for Hard Times - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ1uL8yTig9ZOy6m3VOgE2E5O5Beg:1573558590783&q=Good+Economics+for+Hard+Times&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwrMMzNsawwVULlaollJ1vpJ-XnZ4MJq-LMlNTyxMriRayy7vn5KQquyfl5-bmZycUKaflFCh6JRSkKIZm5qcU7WBkBMa_YNVsAAAA&sa=X&ved=2ahUKEwiqv9jGyuTlAhWNHKYKHXw6CjAQzTooATB4egQIbxAC)
+
+- [ ] [good economics for hard times - Google Search](https://www.google.com/search?q=good+economics+for+hard+times&oq=good+economics+for&aqs=chrome.0.0j46j0j69i57j69i64l2j69i65l2.5127j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Handbook of Field Experiments - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ1uL8yTig9ZOy6m3VOgE2E5O5Beg:1573558590783&q=Handbook+of+Field+Experiments&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwrMMzNsawwVYJwUyosU_IM0rK0eJzy87ODM1NSyxMrixexynok5qUkAYUU8tMU3DJTc1IUXCsKUosyc1PzSop3sDICANAAAlRRAAAA&sa=X&ved=2ahUKEwiqv9jGyuTlAhWNHKYKHXw6CjAQxA0weHoECG8QBQ)
+
+- [ ] [hkust portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTO80rFG7ZMGuzhIiIhdknja8e3JA:1573483281782&q=hkust+portfolio+optimization&sa=X&ved=2ahUKEwiY_8eAsuLlAhXtyosBHW2gAHwQ1QIoBnoECGQQBw)
+
+- [ ] [idzorek black litterman - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=idzorek%20black%20litterman&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAJ6BAgAEAM)
+
+- [ ] [implied alpha reverse optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ:1573483226343&q=implied+alpha+reverse+optimization&sa=X&ved=2ahUKEwj_npDmseLlAhWHF6YKHZLcDGcQ1QIoAnoECGYQAw)
+
+- [ ] [inverse optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ:1573483226343&q=inverse+optimization&sa=X&ved=2ahUKEwj_npDmseLlAhWHF6YKHZLcDGcQ1QIoBnoECGYQBw)
+
+- [ ] [inverse optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=inverse%20optimization&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAF6BAgAEAI)
+
+- [ ] [markowitz portfolio optimization r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTO80rFG7ZMGuzhIiIhdknja8e3JA:1573483281782&q=markowitz+portfolio+optimization+r&sa=X&ved=2ahUKEwiY_8eAsuLlAhXtyosBHW2gAHwQ1QIoAnoECGQQAw)
+
+- [ ] [mean variance optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ:1573483226343&q=mean+variance+optimization&sa=X&ved=2ahUKEwj_npDmseLlAhWHF6YKHZLcDGcQ1QIoBHoECGYQBQ)
+
+- [ ] [mean variance optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=mean%20variance%20optimization&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAR6BAgAEAU)
+
+- [ ] [plot zero inflated model in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=plot+zero+inflated+model+in+r&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoAnoECGUQAw)
+
+- [ ] [plumbers - Google Search](https://www.google.com/search?q=plumbers&oq=plumbers&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [portfolio analytics r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0A8WiT21ejOOE_tyRQVviRSaEUQ%3A1573483207202&lei=x3LJXePyC5GmmAWB6KlI&q=portfolio%20analytics%20r&ved=2ahUKEwi9od7dseLlAhUmGKYKHafSAa8QsKwBKAB6BAgBEAE)
+
+- [ ] [portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTO80rFG7ZMGuzhIiIhdknja8e3JA:1573483281782&q=portfolio+optimization+in+r&sa=X&ved=2ahUKEwiY_8eAsuLlAhXtyosBHW2gAHwQ1QIoAHoECGQQAQ)
+
+- [ ] [portfolio optimization with r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTO80rFG7ZMGuzhIiIhdknja8e3JA:1573483281782&q=portfolio+optimization+with+r+pdf&sa=X&ved=2ahUKEwiY_8eAsuLlAhXtyosBHW2gAHwQ1QIoAXoECGQQAg)
+
+- [ ] [portfolio optimization with r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0A8WiT21ejOOE_tyRQVviRSaEUQ%3A1573483207202&lei=x3LJXePyC5GmmAWB6KlI&q=portfolio%20optimization%20with%20r%20pdf&ved=2ahUKEwi9od7dseLlAhUmGKYKHafSAa8QsKwBKAF6BAgBEAI)
+
+- [ ] [Principles of Marketing: Scandinavian Edition - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ1uL8yTig9ZOy6m3VOgE2E5O5Beg:1573558590783&q=Principles+of+Marketing:+Scandinavian+Edition&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwrMMzNsawwVYJyqyqLiouKy7V4nPLzs4MzU1LLEyuLF7HqBhRl5iVnFuSkFivkpyn4JhZlp5Zk5qVbKQQnJ-alZOYllmUm5im4pmSWZObn7WBlBADOuUN1YQAAAA&sa=X&ved=2ahUKEwiqv9jGyuTlAhWNHKYKHXw6CjAQxA0weHoECG8QCQ)
+
+- [ ] [r language black litterman - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0A8WiT21ejOOE_tyRQVviRSaEUQ%3A1573483207202&lei=x3LJXePyC5GmmAWB6KlI&q=r%20language%20black%20litterman&ved=2ahUKEwi9od7dseLlAhUmGKYKHafSAa8QsKwBKAB6BAgCEAE)
+
+- [ ] [resampled mean variance optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=resampled%20mean%20variance%20optimization&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAV6BAgDEAY)
+
+- [ ] [reverse optimization cfa level 3 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ:1573483226343&q=reverse+optimization+cfa+level+3&sa=X&ved=2ahUKEwj_npDmseLlAhWHF6YKHZLcDGcQ1QIoA3oECGYQBA)
+
+- [ ] [reverse optimization vs black litterman - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ:1573483226343&q=reverse+optimization+vs+black+litterman&sa=X&ved=2ahUKEwj_npDmseLlAhWHF6YKHZLcDGcQ1QIoAXoECGYQAg)
+
+- [ ] [reverse optimization vs black litterman - Google Search](https://www.google.com/search?q=reverse+optimization+vs+black+litterman&newwindow=1&sa=X&sxsrf=ACYBGNTtn9CMpvogAo9ol6Ck_de4VZBJMw:1573564306300&tbm=isch&source=iu&ictx=1&fir=n9F3qxn2sxhDlM%253A%252CcQpxqow6IcCsWM%252C_&vet=1&usg=AI4_-kS7DdG6R_y0VRUdUa8Ul6-pWJj6Yw&ved=2ahUKEwiWkIjs3-TlAhWlHqYKHY7QBLQQ9QEwAHoECAYQAw#imgrc=n9F3qxn2sxhDlM:)
+
+- [ ] [reverse portfolio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=reverse%20portfolio&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAB6BAgAEAE)
+
+- [ ] [robert litterman - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSlKBYzyO0TbHt9Fud7Bs5shy42nQ%3A1573483226343&lei=2nLJXf_JFIevmAWSubO4Bg&q=robert%20litterman&ved=2ahUKEwifm6PoseLlAhU-yIsBHWZMDH4QsKwBKAR6BAgDEAU)
+
+- [ ] [robust portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTO80rFG7ZMGuzhIiIhdknja8e3JA:1573483281782&q=robust+portfolio+optimization+in+r&sa=X&ved=2ahUKEwiY_8eAsuLlAhXtyosBHW2gAHwQ1QIoBHoECGQQBQ)
+
+- [ ] [rolling portfolio optimization in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTO80rFG7ZMGuzhIiIhdknja8e3JA:1573483281782&q=rolling+portfolio+optimization+in+r&sa=X&ved=2ahUKEwiY_8eAsuLlAhXtyosBHW2gAHwQ1QIoA3oECGQQBA)
+
+- [ ] [simulate zero inflated poisson in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=simulate+zero+inflated+poisson+in+r&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoA3oECGUQBA)
+
+- [ ] [Slavoj Žižek - Google Search](https://www.google.com/search?q=Slavoj+%C5%BDi%C5%BEek&oq=Slavoj+%C5%BDi%C5%BEek&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [solve qp portfolio optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTO80rFG7ZMGuzhIiIhdknja8e3JA:1573483281782&q=solve+qp+portfolio+optimization&sa=X&ved=2ahUKEwiY_8eAsuLlAhXtyosBHW2gAHwQ1QIoB3oECGQQCA)
+
+- [ ] [The IMF now requires its country teams to include inequality in factors to take into consideration when providing policy guidance to countries and outlining conditions under which they can receive IMF assistanc - Google Search](https://www.google.com/search?q=The+IMF+now+requires+its+country+teams+to+include+inequality+in+factors+to+take+into+consideration+when+providing+policy+guidance+to+countries+and+outlining+conditions+under+which+they+can+receive+IMF+assistanc&oq=The+IMF+now+requires+its+country+teams+to+include+inequality+in+factors+to+take+into+consideration+when+providing+policy+guidance+to+countries+and+outlining+conditions+under+which+they+can+receive+IMF+assistanc&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The Infinite Game - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ1uL8yTig9ZOy6m3VOgE2E5O5Beg:1573558590783&q=The+Infinite+Game&stick=H4sIAAAAAAAAAONgFuLVT9c3NEwrMMzNsawwVYJyjSvSs6vMk7R4nPLzs4MzU1LLEyuLF7EKhmSkKnjmpWXmZZakKrgn5qbuYGUEANyYEz5FAAAA&sa=X&ved=2ahUKEwiqv9jGyuTlAhWNHKYKHXw6CjAQxA0weHoECG8QCw)
+
+- [ ] [vuong test r - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQColWYwHmS4s7JcqCB3vfqwR69Wg%3A1573487238518&lei=hoLJXdD4Ho6Wr7wPj6yP-Aw&q=vuong%20test%20r&ved=2ahUKEwjO8obwwOLlAhW0y4sBHU7SDVkQsKwBKAF6BAgAEAI)
+
+- [ ] [zemblanity - Google Search](https://www.google.com/search?q=zemblanity&oq=zemblanity&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [zero inflated generalized poisson regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=zero+inflated+generalized+poisson+regression+in+r&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoBXoECGUQBg)
+
+- [ ] [zero inflated linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=zero+inflated+linear+regression&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoBHoECGUQBQ)
+
+- [ ] [zero inflated poisson mixed model r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=zero+inflated+poisson+mixed+model+r&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoBnoECGUQBw)
+
+- [ ] [zero inflated poisson offset - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=zero+inflated+poisson+offset&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoAXoECGUQAg&biw=1920&bih=948)
+
+- [ ] [zero inflated poisson regression python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=zero+inflated+poisson+regression+python&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoAHoECGUQAQ&biw=1920&bih=948)
+
+- [ ] [zero inflated weibull - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQColWYwHmS4s7JcqCB3vfqwR69Wg%3A1573487238518&lei=hoLJXdD4Ho6Wr7wPj6yP-Aw&q=zero%20inflated%20weibull&ved=2ahUKEwjO8obwwOLlAhW0y4sBHU7SDVkQsKwBKAB6BAgAEAE)
+
+- [ ] [zero inflation test - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=zero+inflation+test&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoB3oECGUQCA&biw=1920&bih=948)
+
+- [ ] [セレンディピティ - Google Search](https://www.google.com/search?q=%E3%82%BB%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%94%E3%83%86%E3%82%A3&newwindow=1&sxsrf=ACYBGNR_KNrFQWwosMqdPzGzVlW5H3oO5Q:1573562938337&tbm=isch&source=iu&ictx=1&fir=QZQz2Bo2VYk88M%253A%252CuAqXgOGDIanuoM%252C_&vet=1&usg=AI4_-kQErLGFn7yeCViHc1d9ZnMMnpFR6g&sa=X&ved=2ahUKEwi6lOLf2uTlAhUHxYsBHTn2CMoQ9QEwAHoECAgQAw#imgrc=QZQz2Bo2VYk88M:)
+
+- [ ] [セレンディピティ 例 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR_KNrFQWwosMqdPzGzVlW5H3oO5Q:1573562938337&q=%E3%82%BB%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%94%E3%83%86%E3%82%A3+%E4%BE%8B&sa=X&ved=2ahUKEwi6lOLf2uTlAhUHxYsBHTn2CMoQ1QIoAnoECGsQAw)
+
+- [ ] [セレンディピティ 恋愛 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR_KNrFQWwosMqdPzGzVlW5H3oO5Q:1573562938337&q=%E3%82%BB%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%94%E3%83%86%E3%82%A3+%E6%81%8B%E6%84%9B&sa=X&ved=2ahUKEwi6lOLf2uTlAhUHxYsBHTn2CMoQ1QIoCHoECGsQCQ)
+
+- [ ] [セレンディピティ 科学 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR_KNrFQWwosMqdPzGzVlW5H3oO5Q:1573562938337&q=%E3%82%BB%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%94%E3%83%86%E3%82%A3+%E7%A7%91%E5%AD%A6&sa=X&ved=2ahUKEwi6lOLf2uTlAhUHxYsBHTn2CMoQ1QIoA3oECGsQBA)
+
+- [ ] [セレンディピティ 身近な例 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR_KNrFQWwosMqdPzGzVlW5H3oO5Q:1573562938337&q=%E3%82%BB%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%94%E3%83%86%E3%82%A3+%E8%BA%AB%E8%BF%91%E3%81%AA%E4%BE%8B&sa=X&ved=2ahUKEwi6lOLf2uTlAhUHxYsBHTn2CMoQ1QIoCXoECGsQCg)
+
+- [ ] [セレンディピティ 類語 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR_KNrFQWwosMqdPzGzVlW5H3oO5Q:1573562938337&q=%E3%82%BB%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%94%E3%83%86%E3%82%A3+%E9%A1%9E%E8%AA%9E&sa=X&ved=2ahUKEwi6lOLf2uTlAhUHxYsBHTn2CMoQ1QIoB3oECGsQCA)

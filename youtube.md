@@ -681,3 +681,21 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [Writing academic papers on the command line with pandoc - YouTube](https://www.youtube.com/watch?v=nO4T8JDNYG0)
 
 - [ ] [10.14: Neural Networks: Backpropagation Part 1 - The Nature of Code - YouTube](https://www.youtube.com/watch?v=QJoa0JYaX1I)
+
+
+
+
+
+## 11/12/2019
+
+- [ ] [(ML 18.7) Metropolis algorithm for MCMC - YouTube](https://www.youtube.com/watch?v=gxHe9wAWuGQ)
+
+- [ ] [(43) AI and Societal Good: A Perspective from MSR India - YouTube](https://www.youtube.com/watch?v=QuChEBzuU1I&list=PLD7HFcN7LXRcZ-h_sqybd2eXmgm_Vm3Ve)
+
+- [ ] [(43) Fireside Chat with Jon Kleinberg - YouTube](https://www.youtube.com/watch?v=jaQxWTkxWsU&list=PLD7HFcN7LXRdF6EcEFmrXGo4pngaR4Z_p)
+
+- [ ] [(43) AI Institute "Geometry of Deep Learning" 2019 [Workshop] Day 1 | Session 1 - YouTube](https://www.youtube.com/watch?v=d9YJJH86ERw&list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d)
+
+- [ ] [(43) Policy Gradient Methods: Tutorial and New Frontiers - YouTube](https://www.youtube.com/watch?v=y4ci8whvS1E&list=PLD7HFcN7LXRdU7IgERubwLwJdORqNXZ8y)
+
+- [ ] [(43) Seeing AI app – Overview - YouTube](https://www.youtube.com/watch?v=Yzu9cfPYOzY&list=PLD7HFcN7LXRdXafTJ1MnbFtdeDFl_AvMv)
