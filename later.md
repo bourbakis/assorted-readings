@@ -1301,3 +1301,130 @@ https://www.nbcnews.com/news/world/police-investigating-bts-member-over-traffic-
 - [ ] [Multinationality: Earnings, Efficiency, and Market Considerations - Ahmed Riahi-Belkaoui - Google Books](https://books.google.com/books?id=7X33ZjAH66EC&pg=PA34&lpg=PA34&dq=Post-Earnings-Announcement+Drift+r&source=bl&ots=ZFhf3-CPWu&sig=ACfU3U3AfWfjG9wvN5g1Jtn8_qI65rYLug&hl=en&sa=X&ved=2ahUKEwj5warArN_lAhVFyosBHZMNBAYQ6AEwUnoECGMQAQ#v=onepage&q=Post-Earnings-Announcement%20Drift%20r&f=false)
 
 - [ ] [Statistical Techniques for Forensic Accounting: Understanding the Theory and ... - Saurav K. Dutta - Google Books](https://books.google.com/books?id=xX5V83o2kHgC&pg=PA243&lpg=PA243&dq=logy%3D%CE%B1%2B%CE%B2logx%2B%CE%B5+how+to+interpret+beta&source=bl&ots=8Zcb9-5hAj&sig=ACfU3U1z3DqFHIErd3YD-JIcb6lN3RasPA&hl=en&sa=X&ved=2ahUKEwj83aesl9_lAhWhy4sBHWjbBPcQ6AEwAHoECCwQAQ#v=onepage&q=logy%3D%CE%B1%2B%CE%B2logx%2B%CE%B5%20how%20to%20interpret%20beta&f=false)
+
+
+
+
+
+
+## 11/12/2019
+
+- [ ] [Economics Nobel prize won by academics for tackling poverty | World news | The Guardian](https://www.theguardian.com/world/2019/oct/14/economics-nobel-prize-abhijit-banerjee-esther-duflo-michael-kremer)
+
+- [ ] [Good Economics for Hard Times by Abhijit V Banerjee and Esther Duflo review – methodical deconstruction of fake facts | Books | The Guardian](https://www.theguardian.com/books/2019/nov/11/good-economics-for-hard-times-abhijit-banerjee-esther-duflo-review)
+
+- [ ] [Labour members launch Green New Deal inspired by US activists | Politics | The Guardian](https://www.theguardian.com/politics/2019/mar/22/labour-members-launch-green-new-deal-inspired-by-us-activists)
+
+- [ ] [Would Alexandria Ocasio-Cortez’s 70% tax proposal work in UK? | Money | The Guardian](https://www.theguardian.com/money/2019/jan/07/would-alexandria-ocasio-cortez-70-per-cent-tax-proposal-work-in-uk)
+
+- [ ] [Jorge Cimentada](https://cimentadaj.github.io/blog/2016-09-19-obtaining-robust-standard-errors-and-odds-ratios/obtaining-robust-standard-errors-and-odds-ratios-for-logistic-regression-in-r/)
+
+- [ ] [Mean-Variance Portfolio Optimization with R and Quadratic Programming - wdiamwdiam](http://www.wdiam.com/2012/06/10/mean-variance-portfolio-optimization-with-r-and-quadratic-programming/)
+
+- [ ] [The global minimum variance portfolio - Part Two | R](https://campus.datacamp.com/courses/computational-finance-and-financial-econometrics-with-r/lab-8-computing-efficient-portfolios-using-matrix-algebra?ex=6)
+
+- [ ] [Optimal Portfolio #2](http://freakonometrics.free.fr/portfolio2.html)
+
+- [ ] [Mean-Variance Portfolio Optimization with R and Quadratic Programming - wdiamwdiam](http://www.wdiam.com/2012/06/10/mean-variance-portfolio-optimization-with-r-and-quadratic-programming/)
+
+- [ ] [Portfolio Optimization and Efficient Frontiers in R - StreetEYE](http://blog.streeteye.com/blog/2012/01/portfolio-optimization-and-efficient-frontiers-in-r/)
+
+- [ ] [www.r-programming.org](https://www.r-programming.org/files/RFinance2009.pdf)
+
+- [ ] [Leaflet for R - Introduction](https://rstudio.github.io/leaflet/)
+
+- [ ] [10 influential data scientists and why you should follow them](https://techbeacon.com/enterprise-it/10-influential-data-scientists-why-you-should-follow-them-twitter)
+
+- [ ] [Business Transformation: How Big Data Analytics Helps - Home Page – BRIDGEi2i: AI for the Digital Enterprise | Analytics and AI solutions for Enterprises](https://bridgei2i.com/business-transformation-analytics-data-science-help/)
+
+- [ ] [12 Situations Data Scientists Will Totally Relate To - Home Page – BRIDGEi2i: AI for the Digital Enterprise | Analytics and AI solutions for Enterprises](https://bridgei2i.com/12-situations-data-scientists-will-totally-relate-to/)
+
+- [ ] [big-data - Hacker Noon](https://hackernoon.com/tagged/big-data)
+
+- [ ] [From Buyer Personas to Career Personas in Data Science - Home Page – BRIDGEi2i: AI for the Digital Enterprise | Analytics and AI solutions for Enterprises](https://bridgei2i.com/from-buyer-personas-to-career-personas-in-data-science/)
+
+- [ ] [Computer and Information Research Scientists : Occupational Outlook Handbook: : U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm)
+
+- [ ] [24 Ultimate Data Scientists To Follow in the World Today](https://www.analyticsvidhya.com/blog/2015/09/ultimate-data-scientists-world-today/)
+
+- [ ] [Top 20 Global Thought Leaders on Analytics – July 2018 | Thinkers360](https://www.thinkers360.com/top-20-global-thought-leaders-on-analytics-july-2018/)
+
+- [ ] [Efficient Algorithms for Computing Risk Parity Portfolio Weights by Denis B. Chaves, Jason C. Hsu, Feifei Li, Omid Shakernia :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2117303)
+
+- [ ] [Backtesting 4 Portfolio Optimization Strategies In R | Seeking Alpha](https://seekingalpha.com/article/4166115-backtesting-4-portfolio-optimization-strategies-r)
+
+- [ ] [Why are narcissistic people cold? A cognitive account emphasizing the perceived momentousness of successes and failures - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0191886919305288)
+
+- [ ] [Getting the vote | National Affairs](https://www.nationalaffairs.com/blog/detail/findings-a-daily-roundup/getting-the-vote)
+
+- [ ] [Dangerous Confidence? Chinese Views on Nuclear Escalation | International Security | MIT Press Journals](https://www.mitpressjournals.org/doi/abs/10.1162/isec_a_00359)
+
+- [ ] [AMC Games' first title is the intentionally boring 'Airplane Mode' | Engadget](https://www.engadget.com/2019/11/10/amc-games-airplane-mode/?guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvL1hORHZYRHJ5eEs_YW1wPTE&guce_referrer_sig=AQAAAA8DsY1uGoGuxcMd3o-LDGl1r3L-RsqBQW6B-iu_NkIUZ6Oa4ulEk7aCKCvYK7ZlHvRpLJWP5WO9e9aXxXbZT5DAQcCjoRXWEyKqzciIs1lfvRkvS3VS8bfp4wbCBWreM13m2WHhyztituTLvmSeV91xSlF5DXGJSr9dE-6oawJe)
+
+- [ ] [Gianluca Russo - Research](https://sites.google.com/a/bu.edu/gianlucarusso/research)
+
+- [ ] [Can a Woman Who Is an Artist Ever Just Be an Artist? - The New York Times](https://www.nytimes.com/2019/11/07/magazine/women-art-celia-paul-cecily-brown.html?action=click&module=Top%20Stories&pgtype=Homepage)
+
+- [ ] [Patricia Lockwood reviews ‘Novels, 1959-65’ by John Updike · LRB 10 October 2019](https://www.lrb.co.uk/v41/n19/patricia-lockwood/malfunctioning-sex-robot)
+
+- [ ] [Hanchen Jiang | Economics | Johns Hopkins University](https://econ.jhu.edu/directory/hanchen-jiang/)
+
+- [ ] [Performance Analysis with tidyquant](https://cran.r-project.org/web/packages/tidyquant/vignettes/TQ05-performance-analysis-with-tidyquant.html)
+
+- [ ] [Zero-Inflated Poisson Models for Count Outcomes - The Analysis Factor](https://www.theanalysisfactor.com/zero-inflated-poisson-models-for-count-outcomes/)
+
+- [ ] [Zero-Inflated Poisson Regression, With an Application to Defects in Manufacturing: Technometrics: Vol 34, No 1](https://amstat.tandfonline.com/doi/abs/10.1080/00401706.1992.10485228#.XcmCeVVzRhE)
+
+- [ ] [99%的人都需要：最牛数据分析+Python入门教程资料，不花一分钱，免费领！](https://mp.weixin.qq.com/s?__biz=MzU5MjI3NzIxMw==&mid=2247486958&idx=1&sn=cbb7625629a5e9d7cb0d72a32852fe46&chksm=fe23765cc954ff4aacd03de93c1b5a21d73cff1f6fdf41820620c519ee72562ef09ce22b9267&scene=0&xtrack=1&key=e15c8f28f870437053758bfeb66a16bcaca0c62f5300f2933d63fec6e33ef4ef1f0e822aaa2a9ab790936b16229dde4fcdc0dfc02303d78bef0b8391f361d7317e7f6cec802ee8dd945a014357d01561&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=fF8391B5H9l8d%2F0Od3wcYtUv8j6D5uxb2Gg2WU23Ulc%3D)
+
+- [ ] [如何用人工智能预测双 11 的交易额？](https://mp.weixin.qq.com/s?__biz=MzU5MjI3NzIxMw==&mid=2247486958&idx=2&sn=d72ea3f3a18619ec68a4f2657f578273&chksm=fe23765cc954ff4aa7f12b83db7a518ccd7757170a99325d4c3dc2be3d3d37f7fb107f367486&scene=0&xtrack=1&key=4457fd9057cefb6cec5e3563cf954ca889280e75c8e08e8ab03fe03e6e9592fc7e29772d560ec6ed6f4bb3f66ac57b22a4856780f5360530808add5493ca1f82aafcd49fe5b2d03a51fb18ced81e52a7&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=fF8391B5H9l8d%2F0Od3wcYtUv8j6D5uxb2Gg2WU23Ulc%3D)
+
+- [ ] [从Q3财报看百度被低估的内容生态](https://mp.weixin.qq.com/s?__biz=MzU5MjI3NzIxMw==&mid=2247486956&idx=2&sn=794864b518d3cf9953692669fead0b4f&chksm=fe23765ec954ff4806a202c1cf44aa572aa434fea6b581755e2e7f1523c7b3b416862b0fa658&scene=0&xtrack=1&key=f9f399b73a44587a0f40570cd9b2614b2517dd34e73bab3d44a79e20d77fd62dc75cffcd335f69c1f41e7be4a3761cbdb30a02fb5ac2ee5755c81ffebd1654609bfea3dfdfc3aaaacb801da67b203979&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=fF8391B5H9l8d%2F0Od3wcYtUv8j6D5uxb2Gg2WU23Ulc%3D)
+
+- [ ] [最新学习资源机器学习数学全书分享！附PDF 下载](https://mp.weixin.qq.com/s?__biz=MzU3ODkwNDM3Mw==&mid=2247484919&idx=1&sn=836e04ab4d5f09b45d2066cfb6e445b6&chksm=fd6f0dadca1884bb21bf96d7568be6500966fe099ebbf4957343a47a1a922bd8f9076f60f139&scene=0&xtrack=1&key=9fa8d31375b523a250a6f844357a1f7495d5d965204d485b91156728518f675d46ec42645864dcedbd32594b13524103dc64be9455f0b1c3e68f897ffb2494a439a2aba9ec09b043ab18c0d578859d8f&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=HkhkvsNFxHzWwUPLIap6zjMCNpO78K6DOY6P860FhCk%3D)
+
+- [ ] [Keras作者推荐开源项目transformers，包含BERT等多种NLP架构及预训练模型，Github获1.6万+星](https://mp.weixin.qq.com/s?__biz=MzU3ODkwNDM3Mw==&mid=2247484870&idx=2&sn=4e0a56fd753ed4d3107fbc667a008a62&chksm=fd6f0d9cca18848a93a799afbf76201788f5456cfac405c0fd7d710cabe727ccbbe1f326f0fe&scene=0&xtrack=1&key=4e26ae8e3d65d21bf8d6fedaf34a80f98f8fd93958456c50ae13a37c2be429e4ef9e62c7140cc252cc4cfaa7c00c5fab725e21497f126eade2d8ad6d5165502188aa0c606a343bdecd4767bade4b49d6&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=HkhkvsNFxHzWwUPLIap6zjMCNpO78K6DOY6P860FhCk%3D)
+
+- [ ] [资源&讲解|一篇全面的深度学习综述分享](https://mp.weixin.qq.com/s?__biz=MzU3ODkwNDM3Mw==&mid=2247484870&idx=1&sn=10882ee60d667f7f4cf5117c4c2c2ec4&chksm=fd6f0d9cca18848a6f7d3cde3491e4e77170c37b9051f776ca5adec19fc3ff109bda1eae3d6f&scene=0&xtrack=1&key=4457fd9057cefb6c5f380fa3492e6d436eb3c4d98176d31e4cfb62ba1d2c826befd4a43b2af7bff80ef96ae1371f7ec50097eecaff18a4ac539608631546784a208015cee72359b98a0e1374cdb3e9d8&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=HkhkvsNFxHzWwUPLIap6zjMCNpO78K6DOY6P860FhCk%3D)
+
+- [ ] [Condé Nast’s Future Under Anna Wintour and Roger Lynch](http://nymag.com/intelligencer/2019/10/conde-nast-anna-wintour-roger-lynch.html)
+
+- [ ] [Accessing Cloud SQL from AppsScript to plot data from IoT Core - AppsScriptPulse](https://pulse.appsscript.info/p/2019/11/accessing-cloud-sql-from-appsscript-to-plot-data-from-iot-core/)
+
+- [ ] [Hard Numbers: Is this the least fair impeachment? - GZERO Media](https://www.gzeromedia.com/hard-numbers-is-this-the-least-fair-impeachment)
+
+- [ ] [CamCal 011 Fundamental Matrix | Master Data Science](http://datahacker.rs/camera-calibration-fundamental-matrix/)
+
+- [ ] [The post-exponential era of AI and Moore’s Law | TechCrunch](https://techcrunch.com/2019/11/10/the-post-exponential-era-of-ai-and-moores-law/)
+
+- [ ] [James Martens: Main Info](http://www.cs.toronto.edu/~jmartens/)
+
+- [ ] [Why Momentum Really Works](https://distill.pub/2017/momentum/)
+
+- [ ] [Intro to optimization in deep learning: Momentum, RMSProp and Adam](https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/)
+
+- [ ] [Google’s ‘Project Nightingale’ Gathers Personal Health Data on Millions of Americans - WSJ](https://www.wsj.com/articles/google-s-secret-project-nightingale-gathers-personal-health-data-on-millions-of-americans-11573496790)
+
+- [ ] [Serendipity dictionary definition | serendipity defined](https://www.yourdictionary.com/serendipity)
+
+- [ ] [Serendipity | Definition of Serendipity by Merriam-Webster](https://www.merriam-webster.com/dictionary/serendipity)
+
+- [ ] [BBC NEWS | Technology | Serendipity casts a very wide net](http://news.bbc.co.uk/2/hi/technology/5018998.stm)
+
+- [ ] [Serendipity - A reliable, secure and extensible PHP blog | Serendipity Blog System](https://docs.s9y.org/)
+
+- [ ] [Serendip Studio's One World |](https://serendipstudio.org/oneworld/)
+
+- [ ] [The Three Princes of Serendip: Part I](http://livingheritage.org/three_princes.htm)
+
+- [ ] [404 Not Found](http://reality.media.mit.edu/serendipity.php)
+
+- [ ] [500 Internal Privoxy Error](http://max.ipv.pt/)
+
+- [ ] [「セレンディピティ」の意味と語源は？シンクロニシティとの違いも | TRANS.Biz](https://biz.trans-suite.jp/14530)
+
+- [ ] [A Gentle Introduction to Finance using R: Efficient Frontier and CAPM – Part 1 | R-bloggers](https://www.r-bloggers.com/a-gentle-introduction-to-finance-using-r-efficient-frontier-and-capm-part-1/)
+
+- [ ] [Solving Quadratic Progams with R's quadprog package | R-bloggers](https://www.r-bloggers.com/solving-quadratic-progams-with-rs-quadprog-package/)
+
+- [ ] [Portfolio Optimization with R/Rmetrics](https://www.rmetrics.org/ebooks-portfolio)
