@@ -1,4 +1,4 @@
-## 9/8/2019
+## 9/8/2019E
 
 - [ ] [Library Genesis](http://gen.lib.rus.ec/search.php?&req=Graham+Harman&phrase=0&view=simple&column=def&sort=year&sortmode=DESC)
 
@@ -65,3 +65,37 @@ https://git.io/JeqDQ
 Library Genesis: Steven Roman - The Umbral Calculus (Pure and Applied Mathematics 111)
 http://libgen.is/book/index.php?md5=2E408DA22DA834A91D8267A467479304
 
+
+
+
+
+
+# What Tyler Cowen is reading/Browsing
+
+## 11/12/2019
+
+- [ ] [Discrete-Event Simulation: A First Course: Lawrence M. Leemis, Stephen K. Park: 9780131429178: Amazon.com: Books](https://www.amazon.com/Discrete-Event-Simulation-Lawrence-M-Leemis/dp/0131429175/ref=sr_1_3?s=books&Industrial%20%20%20%20%20%20Engineering=UTF8&qid=1535224958&sr=1-3&keywords=leemis)
+
+- [ ] [Amazon.com: Computational Probability: Algorithms and Applications in the Mathematical Sciences (International Series in Operations Research & Management Science) (9783319827902): John H. Drew, Diane L. Evans, Andrew G. Glen, Lawrence M. Leemis: Books](https://www.amazon.com/Computational-Probability-Applications-Mathematical-International/dp/3319827901/ref=sr_1_9?s=books&IndustrialEngineering=UTF8&qid=1535225201&sr=1-9&keywords=leemis)
+
+- [ ] [Amazon.com: Probability (9780982917473): Lawrence M Leemis: Books](https://www.amazon.com/Probability-Lawrence-M-Leemis/dp/0982917473)
+
+- [ ] [Amazon.com: Reliability: Probabilistic Models and Statistical Methods (9780692000274): Lawrence Mark Leemis: Books](https://www.amazon.com/Reliability-Probabilistic-Models-Statistical-Methods/dp/0692000275)
+
+- [ ] [Deaths of Despair and the Future of Capitalism: Anne Case, Angus Deaton: 9780691190785: Amazon.com: Books](https://www.amazon.com/Deaths-Despair-Future-Capitalism-Anne/dp/069119078X/ref=sr_1_1?keywords=anne+case&qid=1573335107&sr=8-1/marginalrevol-20)
+
+- [ ] [Edison: Edmund Morris: 9780812993110: Amazon.com: Books](https://www.amazon.com/Edison-Edmund-Morris/dp/081299311X/ref=sr_1_1?keywords=edison&qid=1573340731&sr=8-1/marginalrevol-20)
+
+- [ ] [Edison: Edmund Morris: 9780812993110: Amazon.com: Books](https://www.amazon.com/Edison-Edmund-Morris/dp/081299311X/ref=sr_1_1?keywords=edison&qid=1573340731&sr=8-1/marginalrevol-20)
+
+- [ ] [Edison: Edmund Morris: 9780812993110: Amazon.com: Books](https://www.amazon.com/Edison-Edmund-Morris/dp/081299311X/ref=sr_1_1?keywords=edison&qid=1573340731&sr=8-1/marginalrevol-20)
+
+- [ ] [Fifth Sun: A New History of the Aztecs: Camilla Townsend: 9780190673062: Amazon.com: Books](https://www.amazon.com/Fifth-Sun-New-History-Aztecs/dp/0190673060/ref=sr_1_1?keywords=camille+townsend+aztecs&qid=1573334961&sr=8-1-spell/marginalrevol-20)
+
+- [ ] [Genius & Anxiety: How Jews Changed the World, 1847-1947: Norman Lebrecht: 9781982134228: Amazon.com: Books](https://www.amazon.com/Genius-Anxiety-Changed-World-1847-1947/dp/1982134224/ref=sr_1_1?crid=2B2CUT40O2UXJ&keywords=lebrecht+genius+and+anxiety&qid=1573335962&sprefix=lebrecht+%2Caps%2C141&sr=8-1/marginalrevol-20)
+
+- [ ] [Good Economics for Hard Times: Abhijit Banerjee, Esther Duflo: 9781610399500: Amazon.com: Books](https://www.amazon.com/Good-Economics-Times-Abhijit-Banerjee/dp/1610399501/ref=sr_1_2?keywords=good+economics&qid=1573485553&sr=8-2)
+
+- [ ] [Learning Base R: Lawrence Mark Leemis: 9780982917480: Amazon.com: Books](https://www.amazon.com/Learning-Base-Lawrence-Mark-Leemis/dp/0982917481)
+
+- [ ] [Pollution, Politics, and Power: The Struggle for Sustainable Electricity: Thomas O. McGarity: 9780674545434: Amazon.com: Books](https://www.amazon.com/Pollution-Politics-Power-Sustainable-Electricity/dp/0674545435/ref=sr_1_2?crid=2RA17HCWKE711&keywords=pollution+politics+and+power&qid=1573335070&sprefix=pollution+politics%2Caps%2C135&sr=8-2/marginalrevol-20)
