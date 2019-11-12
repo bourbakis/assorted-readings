@@ -878,3 +878,39 @@ https://twitter.com/koszuldude
 - [ ] [(1) R4DS online learning community (@R4DScommunity) / Twitter](https://twitter.com/R4DScommunity)
 
 - [ ] [(1) Sean Kross on Twitter: "Familiar with RStudio but new to the terminal? My free and open source book The Unix Workbench was made for you! https://t.co/uatIhTb1Pa https://t.co/USOs1xYBDX" / Twitter](https://twitter.com/seankross/status/896157309046464513)
+
+
+# Big Data
+
+
+## 11/12/2019
+
+- [ ] [(2) Craig Brown, PhD (@craigbrownphd) / Twitter](https://twitter.com/craigbrownphd)
+
+- [ ] [(2) KDnuggets (@kdnuggets) / Twitter](https://twitter.com/kdnuggets)
+
+- [ ] [(2) Kirk Borne (@KirkDBorne) / Twitter](https://twitter.com/KirkDBorne)
+
+- [ ] [(2) List subscriptions for @data_nerd / Twitter](https://twitter.com/data_nerd/lists/subscriptions)
+
+- [ ] [(2) Naval (@naval) / Twitter](https://twitter.com/naval)
+
+- [ ] [Andrew Ng (@AndrewYNg) / Twitter](https://twitter.com/AndrewYNg)
+
+- [ ] [Bernard Marr (@BernardMarr) / Twitter](https://twitter.com/BernardMarr)
+
+- [ ] [bigdatagal (@bigdatagal) / Twitter](https://twitter.com/BigDataGal)
+
+- [ ] [Bob E. Hayes (@bobehayes) / Twitter](https://twitter.com/bobehayes)
+
+- [ ] [Data Science Central (@analyticbridge) / Twitter](https://twitter.com/analyticbridge)
+
+- [ ] [Evan Sinar, PhD (@EvanSinar) / Twitter](https://twitter.com/EvanSinar)
+
+- [ ] [Hilary Mason (@hmason) / Twitter](https://twitter.com/hmason)
+
+- [ ] [Monica Rogati (@mrogati) / Twitter](https://twitter.com/mrogati)
+
+- [ ] [Ronald van Loon @IPQC #CDOFS @Exasol booth (@Ronald_vanLoon) / Twitter](https://twitter.com/Ronald_vanLoon)
+
+- [ ] [Tamara Dull (@tamaradull) / Twitter](https://twitter.com/tamaradull)
