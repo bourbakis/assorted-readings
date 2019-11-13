@@ -699,3 +699,42 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [(43) Policy Gradient Methods: Tutorial and New Frontiers - YouTube](https://www.youtube.com/watch?v=y4ci8whvS1E&list=PLD7HFcN7LXRdU7IgERubwLwJdORqNXZ8y)
 
 - [ ] [(43) Seeing AI app – Overview - YouTube](https://www.youtube.com/watch?v=Yzu9cfPYOzY&list=PLD7HFcN7LXRdXafTJ1MnbFtdeDFl_AvMv)
+
+
+## 11/13/2019
+
+- [ ] [(44) 2 Zero Inflated Poisson Process - YouTube](https://www.youtube.com/watch?v=olT5-DeJUsQ)
+
+- [ ] [(44) Count Data Models in R - YouTube](https://www.youtube.com/watch?v=yLF45x70A3o)
+
+- [ ] [(44) GLM in R - Negative binomial regression v Poisson regression - YouTube](https://www.youtube.com/watch?v=asPyByh72N0)
+
+- [ ] [(44) My Brain Made Me Buy It: The Neuroethics of Advertising - Exploring Ethics - YouTube](https://www.youtube.com/watch?v=8lQph84492c)
+
+- [ ] [(44) Neuroethics: Addressing the Good, Bad and the Ugly - Application of Neuroscience - YouTube](https://www.youtube.com/watch?v=rOek4flIf3s)
+
+- [ ] [(44) What is NeuroEthics? - YouTube](https://www.youtube.com/watch?v=Q9Tf0cxPc-U)
+
+- [ ] [(46) Ethics Defined: Neuroethics - YouTube](https://www.youtube.com/watch?v=JbE7vLUkorA)
+
+- [ ] [(46) Introduction to Neuroethics (Martha J. Farah, Ph.D) - YouTube](https://www.youtube.com/watch?v=ifGBvMDaCHU)
+
+- [ ] [(46) Probability: Hypergeometric Distribution - YouTube](https://www.youtube.com/watch?v=Ww-2g0z8VV8)
+
+- [ ] [13- Simulate Random numbers from Geometric Distribution using R - YouTube](https://www.youtube.com/watch?v=YtS_ijkDjFQ)
+
+- [ ] [AP Statistics | RStudio Binomial/Geometric Probability & Sampling Distributions - YouTube](https://www.youtube.com/watch?v=giegfPEUijE)
+
+- [ ] [GEOMETRIC DISTRIBUTION TABLE - YouTube](https://www.youtube.com/watch?v=uPlB-hvkRuY)
+
+- [ ] [Geometric Distribution with R - YouTube](https://www.youtube.com/watch?v=EPVNBQteZyg)
+
+- [ ] [Introduction to the Negative Binomial Distribution - YouTube](https://www.youtube.com/watch?v=BPlmjp2ymxw)
+
+- [ ] [R Programming : The Geometric Probability Distributions - YouTube](https://www.youtube.com/watch?v=fZKPnfdC7bE)
+
+- [ ] [Statistics with R Programming Part 2 | Random Variables in R Studio | Data Science Tutorial - YouTube](https://www.youtube.com/watch?v=cwJ-B_4zP0I)
+
+- [ ] [The Geometric Probability Distribution Example - YouTube](https://www.youtube.com/watch?v=IMztnt93h3Y)
+
+- [ ] [YouTube](https://www.youtube.com/?feature=youtu.be)

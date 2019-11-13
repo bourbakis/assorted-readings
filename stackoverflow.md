@@ -421,3 +421,76 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 [regression - Replicating White's standard errors in R with the NeweyWest function - Cross Validated](https://stats.stackexchange.com/questions/312297/replicating-whites-standard-errors-in-r-with-the-neweywest-function)
 [Replicating Stata's "robust" option in R - Cross Validated](https://stats.stackexchange.com/questions/117052/replicating-statas-robust-option-in-r)
 [Replicating Stata's "robust" option in R - Cross Validated](https://stats.stackexchange.com/questions/117052/replicating-statas-robust-option-in-r)
+
+
+
+
+
+## 11/13/2019
+
+- [ ] [generation of zero-inflated Poisson data in R - Cross Validated](https://stats.stackexchange.com/questions/303423/generation-of-zero-inflated-poisson-data-in-r)
+
+- [ ] [How to generate numbers based on an arbitrary discrete distribution? - Cross Validated](https://stats.stackexchange.com/questions/26858/how-to-generate-numbers-based-on-an-arbitrary-discrete-distribution)
+
+- [ ] [Mean and variance of a zero-inflated Poisson distribution - Cross Validated](https://stats.stackexchange.com/questions/18661/mean-and-variance-of-a-zero-inflated-poisson-distribution)
+
+- [ ] [poisson distribution - Zero-inflated count models in R: what is the real advantage? - Cross Validated](https://stats.stackexchange.com/questions/45262/zero-inflated-count-models-in-r-what-is-the-real-advantage)
+
+- [ ] [probability - How to sample from a discrete distribution? - Cross Validated](https://stats.stackexchange.com/questions/67911/how-to-sample-from-a-discrete-distribution)
+
+- [ ] [r - Generate zero-inflated random vector - Cross Validated](https://stats.stackexchange.com/questions/340092/generate-zero-inflated-random-vector)
+
+- [ ] [r - Simulate from a zero-inflated poisson distribution - Cross Validated](https://stats.stackexchange.com/questions/189005/simulate-from-a-zero-inflated-poisson-distribution/189052)
+
+- [ ] [r - Using gamm4 on zero-inflated count data with Tweedie or zero-inflated Poisson distributions - Cross Validated](https://stats.stackexchange.com/questions/400444/using-gamm4-on-zero-inflated-count-data-with-tweedie-or-zero-inflated-poisson-di)
+
+- [ ] [r - Zero inflated Poisson model - Cross Validated](https://stats.stackexchange.com/questions/62427/zero-inflated-poisson-model)
+
+- [ ] [variance - Need for zero-inflated poisson even though model fits data? - Cross Validated](https://stats.stackexchange.com/questions/292295/need-for-zero-inflated-poisson-even-though-model-fits-data)
+
+- [ ] [Zero inflated distributions, what are they really? - Cross Validated](https://stats.stackexchange.com/questions/279273/zero-inflated-distributions-what-are-they-really)
+
+- [ ] [Zero-inflated count data simulation in R - Cross Validated](https://stats.stackexchange.com/questions/368913/zero-inflated-count-data-simulation-in-r)
+
+
+
+
+## 11/13/2019
+
+- [ ] [Constraints on weight in portfolio optimization using quadprog package in R - Stack Overflow](https://stackoverflow.com/questions/16562379/constraints-on-weight-in-portfolio-optimization-using-quadprog-package-in-r)
+
+- [ ] [Constraints on weight in portfolio optimization using quadprog package in R - Stack Overflow](https://stackoverflow.com/questions/16562379/constraints-on-weight-in-portfolio-optimization-using-quadprog-package-in-r?rq=1)
+
+- [ ] [formatting - How to format a number as percentage in R? - Stack Overflow](https://stackoverflow.com/questions/7145826/how-to-format-a-number-as-percentage-in-r)
+
+- [ ] [How do you use solve.QP in R using quadprog for investment portfolio optimization with no short sales - Stack Overflow](https://stackoverflow.com/questions/15711776/how-do-you-use-solve-qp-in-r-using-quadprog-for-investment-portfolio-optimizatio)
+
+- [ ] [mathematical optimization - R portfolio analytics chart.EfficientFrontier function - Stack Overflow](https://stackoverflow.com/questions/30614457/r-portfolio-analytics-chart-efficientfrontier-function/30650972#30650972)
+
+- [ ] [numpy - Sample a truncated integer power law in Python? - Stack Overflow](https://stackoverflow.com/questions/24579269/sample-a-truncated-integer-power-law-in-python)
+
+- [ ] [Portfolio optimization with quadprog for specific returns results in "constraints are inconsistent, no solution" - Stack Overflow](https://stackoverflow.com/questions/43721343/portfolio-optimization-with-quadprog-for-specific-returns-results-in-constraint)
+
+- [ ] [Pretty tables with cumulative count / percentage and group totals using R "tables" package - Stack Overflow](https://stackoverflow.com/questions/46964962/pretty-tables-with-cumulative-count-percentage-and-group-totals-using-r-table)
+
+- [ ] [python - How to properly sample truncated distributions? - Stack Overflow](https://stackoverflow.com/questions/47933019/how-to-properly-sample-truncated-distributions)
+
+- [ ] [python - Sample integers from truncated geometric distribution - Stack Overflow](https://stackoverflow.com/questions/16317420/sample-integers-from-truncated-geometric-distribution)
+
+- [ ] [Python Scipy truncated exponential distribution - Stack Overflow](https://stackoverflow.com/questions/40143718/python-scipy-truncated-exponential-distribution)
+
+- [ ] [r - Portfolio Optimization - solve.QP - Constraints are Inconsistent - Stack Overflow](https://stackoverflow.com/questions/24090037/r-portfolio-optimization-solve-qp-constraints-are-inconsistent)
+
+- [ ] [r - Portfolio Optimization - solve.QP - Constraints are Inconsistent - Stack Overflow](https://stackoverflow.com/questions/24090037/r-portfolio-optimization-solve-qp-constraints-are-inconsistent)
+
+- [ ] [r - Portfolio Optimization constraints Matrix/bvec explanation - Stack Overflow](https://stackoverflow.com/questions/34143734/portfolio-optimization-constraints-matrix-bvec-explanation/34158676#34158676)
+
+- [ ] [r - Portfolio Optimization constraints Matrix/bvec explanation - Stack Overflow](https://stackoverflow.com/questions/34143734/portfolio-optimization-constraints-matrix-bvec-explanation)
+
+- [ ] [r - Portfolio Optimization SOLVE.QP inequality constraints - Stack Overflow](https://stackoverflow.com/questions/36327206/portfolio-optimization-solve-qp-inequality-constraints)
+
+- [ ] [r - rmarkdown & kable/kableextra: Printing % symbol in Table when using escape = F - Stack Overflow](https://stackoverflow.com/questions/52037040/rmarkdown-kable-kableextra-printing-symbol-in-table-when-using-escape-f)
+
+- [ ] [R: Displaying numbers as currency in knitr::kable - Stack Overflow](https://stackoverflow.com/questions/47664055/r-displaying-numbers-as-currency-in-knitrkable)
+
+- [ ] [rstudio - Format table of percentages in R - Stack Overflow](https://stackoverflow.com/questions/32382874/format-table-of-percentages-in-r)

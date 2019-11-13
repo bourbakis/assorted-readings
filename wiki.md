@@ -93,3 +93,18 @@ https://en.wikipedia.org/wiki/Category:Theorems_in_Fourier_analysis
 - [ ] [Zero-inflated model - Wikipedia](https://en.wikipedia.org/wiki/Zero-inflated_model)
 
 - [ ] [Zero-truncated Poisson distribution - Wikipedia](https://en.wikipedia.org/wiki/Zero-truncated_Poisson_distribution)
+
+
+
+
+## 11/13/2019
+
+- [ ] [Boltzmann distribution - Wikipedia](https://en.wikipedia.org/wiki/Boltzmann_distribution)
+
+- [ ] [Borel–Cantelli lemma - Wikipedia](https://en.wikipedia.org/wiki/Borel%E2%80%93Cantelli_lemma)
+
+- [ ] [Hopfield network - Wikipedia](https://en.wikipedia.org/wiki/Hopfield_network)
+
+- [ ] [Neuroethics - Wikipedia](https://en.wikipedia.org/wiki/Neuroethics)
+
+- [ ] [Neuroethics - Wikipedia](https://en.wikipedia.org/wiki/Neuroethics#Key_issues)

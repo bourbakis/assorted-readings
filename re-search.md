@@ -2650,3 +2650,171 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 - [ ] [セレンディピティ 身近な例 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR_KNrFQWwosMqdPzGzVlW5H3oO5Q:1573562938337&q=%E3%82%BB%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%94%E3%83%86%E3%82%A3+%E8%BA%AB%E8%BF%91%E3%81%AA%E4%BE%8B&sa=X&ved=2ahUKEwi6lOLf2uTlAhUHxYsBHTn2CMoQ1QIoCXoECGsQCg)
 
 - [ ] [セレンディピティ 類語 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR_KNrFQWwosMqdPzGzVlW5H3oO5Q:1573562938337&q=%E3%82%BB%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%94%E3%83%86%E3%82%A3+%E9%A1%9E%E8%AA%9E&sa=X&ved=2ahUKEwi6lOLf2uTlAhUHxYsBHTn2CMoQ1QIoB3oECGsQCA)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/13/2019
+
+- [ ] [adaptive rejection sampling - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=adaptive%20rejection%20sampling&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAV6BAgBEAY)
+
+- [ ] [Adina Roskies - Google Search](https://www.google.com/search?q=Adina+Roskies&oq=Adina+Roskies&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [an "envelope" to the log series distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTirw0jWWOQCT7YWyFpthw0UyVhxQ:1573567131678&q=an+%22envelope%22+to+the+log+series+distribution&sa=X&ved=2ahUKEwipuqev6uTlAhVOE6YKHX56Bl8Q5t4CMAl6BAgCEAg&biw=1920&bih=948)
+
+- [ ] [bayesian a b testing in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=bayesian%20a%20b%20testing%20in%20r&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAN6BAgBEAQ)
+
+- [ ] [bayesian alpha beta - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=bayesian%20alpha%20beta&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAB6BAgBEAE)
+
+- [ ] [bayesian exam - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=bayesian%20exam&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAF6BAgAEAI)
+
+- [ ] [Behavioral neuroscience - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQweGRYJafJ3Ac6_vdKludeN5NWhg:1573567263986&q=Behavioral+neuroscience&stick=H4sIAAAAAAAAAONgFuLUz9U3MDYxSi5QAjONyoozcrWEs5Ot9JPzc3Pz86yKM1NSyxMrixexijulZiSWZeYXJeYo5KWWFuUXJ2em5iWn7mBlBAB01BexSgAAAA&ved=0ahUKEwiT6LLu6uTlAhVSCqYKHfh1AYQQ-BYIRDCJAQ)
+
+- [ ] [beta distribution monte carlo simulation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=beta%20distribution%20monte%20carlo%20simulation&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAJ6BAgBEAM)
+
+- [ ] [Bioethics and the Brain - Google Search](https://www.google.com/search?q=Bioethics+and+the+Brain&oq=Bioethics+and+the+Brain&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Cognitive neuroscience - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQweGRYJafJ3Ac6_vdKludeN5NWhg:1573567263986&q=Cognitive+neuroscience&stick=H4sIAAAAAAAAAONgFuLUz9U3MDYxSi5Q4gAxUywL07WEs5Ot9JPzc3Pz86yKM1NSyxMrixexijnnp-dllmSWpSrkpZYW5RcnZ6bmJafuYGUEAFGKwZFIAAAA&ved=0ahUKEwiT6LLu6uTlAhVSCqYKHfh1AYQQ-BYISjCLAQ)
+
+- [ ] [cost proportionate rejection sampling - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA:1573572723851&q=cost+proportionate+rejection+sampling&sa=X&ved=2ahUKEwj7wO6Z_-TlAhUGBKYKHYanDT4Q1QIoBHoECGQQBQ)
+
+- [ ] [geometric binomial distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMkVP0SCuwxK_ymkKeiGbwbHNn-g:1573570869054&q=geometric+binomial+distribution&sa=X&ved=2ahUKEwjL3Lal-OTlAhWcxYsBHYcFCX0Q1QIoB3oECGYQCA&biw=958&bih=919)
+
+- [ ] [geometric cdf python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSXJqcxYLvneILtrWEVsonj-206qQ:1573568315964&q=geometric+cdf+python&sa=X&ved=2ahUKEwiXy4Lk7uTlAhXCKqYKHRh4A1QQ1QIoA3oECGQQBA&cshid=1573568323438133)
+
+- [ ] [geometric distribution excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTeey9EKgei7xFEGVf30gkK7Rtg_A%3A1573568262593&ei=Br_KXYDxI8yXr7wPwJOQwAI&q=geometric+distribution+excel&oq=truncated+geometric+distribution+&gs_l=psy-ab.1.6.0i71l8.34814.34814..36071...0.2..0.0.0.......0....1..gws-wiz.ivLYew4yTnI)
+
+- [ ] [geometric distribution excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMkVP0SCuwxK_ymkKeiGbwbHNn-g:1573570869054&q=geometric+distribution+excel&sa=X&ved=2ahUKEwjL3Lal-OTlAhWcxYsBHYcFCX0Q1QIoAXoECGYQAg)
+
+- [ ] [geometric distribution formula - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMkVP0SCuwxK_ymkKeiGbwbHNn-g:1573570869054&q=geometric+distribution+formula&sa=X&ved=2ahUKEwjL3Lal-OTlAhWcxYsBHYcFCX0Q1QIoA3oECGYQBA)
+
+- [ ] [geometric distribution notation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMkVP0SCuwxK_ymkKeiGbwbHNn-g:1573570869054&q=geometric+distribution+notation&sa=X&ved=2ahUKEwjL3Lal-OTlAhWcxYsBHYcFCX0Q1QIoAHoECGYQAQ)
+
+- [ ] [geometric distribution python scipy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSXJqcxYLvneILtrWEVsonj-206qQ:1573568315964&q=geometric+distribution+python+scipy&sa=X&ved=2ahUKEwiXy4Lk7uTlAhXCKqYKHRh4A1QQ1QIoAXoECGQQAg&cshid=1573568323438133&biw=1920&bih=899)
+
+- [ ] [geometric pmf python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSXJqcxYLvneILtrWEVsonj-206qQ:1573568315964&q=geometric+pmf+python&sa=X&ved=2ahUKEwiXy4Lk7uTlAhXCKqYKHRh4A1QQ1QIoB3oECGQQCA&cshid=1573568323438133)
+
+- [ ] [gibbs algorithm in machine learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmvxFyI2kbRG5d1eEx8f6AM3BbCw%3A1573572697480&lei=WdDKXZrkHKa0mAXbqI_wCA&q=gibbs%20algorithm%20in%20machine%20learning&ved=2ahUKEwjh37qO_-TlAhUiNKYKHeEMC8UQsKwBKAR6BAgIEAU)
+
+- [ ] [gibbs sampler example in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=gibbs%20sampler%20example%20in%20r&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAJ6BAgAEAM)
+
+- [ ] [gibbs sampling pytorch - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmvxFyI2kbRG5d1eEx8f6AM3BbCw%3A1573572697480&lei=WdDKXZrkHKa0mAXbqI_wCA&q=gibbs%20sampling%20pytorch&ved=2ahUKEwjh37qO_-TlAhUiNKYKHeEMC8UQsKwBKAN6BAgIEAQ)
+
+- [ ] [grid approximation in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=grid%20approximation%20in%20r&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAB6BAgAEAE)
+
+- [ ] [how to interpret zero inflated poisson model in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS-2p7i8ot0VJqQ6dIWiOWXhD29vw:1573565204618&q=how+to+interpret+zero+inflated+poisson+model+in+r&sa=X&ved=2ahUKEwj_i7WY4-TlAhVXxIsBHYJGDUoQ1QIoAXoECGQQAg)
+
+- [ ] [how to interpret zero inflated poisson model in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTNl-93AY3RhwlUHfoENlTWg6h0Lg:1573565093718&q=how+to+interpret+zero+inflated+poisson+model+in+r&sa=X&ved=2ahUKEwjumsTj4uTlAhVDCqYKHRaNAMEQ1QIoAXoECGUQAg&cshid=1573565208578334)
+
+- [ ] [left truncated exponential distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTeey9EKgei7xFEGVf30gkK7Rtg_A:1573568262593&q=left+truncated+exponential+distribution&sa=X&ved=2ahUKEwiAjMnK7uTlAhXMy4sBHcAJBCgQ1QIoAnoECGkQAw)
+
+- [ ] [mle of geometric distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMkVP0SCuwxK_ymkKeiGbwbHNn-g:1573570869054&q=mle+of+geometric+distribution&sa=X&ved=2ahUKEwjL3Lal-OTlAhWcxYsBHYcFCX0Q1QIoAnoECGYQAw)
+
+- [ ] [moment generating function of geometric distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMkVP0SCuwxK_ymkKeiGbwbHNn-g:1573570869054&q=moment+generating+function+of+geometric+distribution&sa=X&ved=2ahUKEwjL3Lal-OTlAhWcxYsBHYcFCX0Q1QIoBHoECGYQBQ)
+
+- [ ] [neuroethics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSvXwdaju6MM723tPVWvCbcLHhkqQ:1573567211323&q=neuroethics&tbm=isch&source=univ&sa=X&ved=2ahUKEwjyzaTV6uTlAhU8w4sBHa07BacQiR56BAheEBQ)
+
+- [ ] [Neurophysiology - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQweGRYJafJ3Ac6_vdKludeN5NWhg:1573567263986&q=Neurophysiology&stick=H4sIAAAAAAAAAONgFuLUz9U3MDYxSi5QAjONDMpMirWEs5Ot9JPzc3Pz86yKM1NSyxMrixex8vullhblF2RUFmfm5-SnV-5gZQQAU6dGZkIAAAA&ved=0ahUKEwiT6LLu6uTlAhVSCqYKHfh1AYQQ-BYIUDCNAQ)
+
+- [ ] [pandas geometric distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSXJqcxYLvneILtrWEVsonj-206qQ:1573568315964&q=pandas+geometric+distribution&sa=X&ved=2ahUKEwiXy4Lk7uTlAhXCKqYKHRh4A1QQ1QIoBXoECGQQBg&cshid=1573568323438133)
+
+- [ ] [practical bayesian statistics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=practical%20bayesian%20statistics&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAF6BAgBEAI)
+
+- [ ] [python geometric distribution cdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSXJqcxYLvneILtrWEVsonj-206qQ:1573568315964&q=python+geometric+distribution+cdf&sa=X&ved=2ahUKEwiXy4Lk7uTlAhXCKqYKHRh4A1QQ1QIoAnoECGQQAw&cshid=1573568323438133)
+
+- [ ] [python plot geometric distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSXJqcxYLvneILtrWEVsonj-206qQ:1573568315964&q=python+plot+geometric+distribution&sa=X&ved=2ahUKEwiXy4Lk7uTlAhXCKqYKHRh4A1QQ1QIoAHoECGQQAQ&cshid=1573568323438133)
+
+- [ ] [quantile function of beta distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=quantile%20function%20of%20beta%20distribution&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAR6BAgBEAU)
+
+- [ ] [rejection sampling algorithm in r - Google Search](https://www.google.com/search?q=rejection+sampling+algorithm+in+r&oq=rejection+sampling+algorithm+&aqs=chrome.1.69i57j0l5.1681j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [rejection sampling bayesian network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA:1573572723851&q=rejection+sampling+bayesian+network&sa=X&ved=2ahUKEwj7wO6Z_-TlAhUGBKYKHYanDT4Q1QIoB3oECGQQCA)
+
+- [ ] [rejection sampling bayesian network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=rejection%20sampling%20bayesian%20network&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAN6BAgAEAQ)
+
+- [ ] [rejection sampling example by hand - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA:1573572723851&q=rejection+sampling+example+by+hand&sa=X&ved=2ahUKEwj7wO6Z_-TlAhUGBKYKHYanDT4Q1QIoAnoECGQQAw)
+
+- [ ] [rejection sampling exercises - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA:1573572723851&q=rejection+sampling+exercises&sa=X&ved=2ahUKEwj7wO6Z_-TlAhUGBKYKHYanDT4Q1QIoBXoECGQQBg)
+
+- [ ] [rejection sampling matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmvxFyI2kbRG5d1eEx8f6AM3BbCw%3A1573572697480&lei=WdDKXZrkHKa0mAXbqI_wCA&q=rejection%20sampling%20matlab&ved=2ahUKEwjh37qO_-TlAhUiNKYKHeEMC8UQsKwBKAF6BAgIEAI&biw=1920&bih=948)
+
+- [ ] [rejection sampling procedure - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA:1573572723851&q=rejection+sampling+procedure&sa=X&ved=2ahUKEwj7wO6Z_-TlAhUGBKYKHYanDT4Q1QIoBnoECGQQBw)
+
+- [ ] [rejection sampling python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmvxFyI2kbRG5d1eEx8f6AM3BbCw%3A1573572697480&lei=WdDKXZrkHKa0mAXbqI_wCA&q=rejection%20sampling%20python&ved=2ahUKEwjh37qO_-TlAhUiNKYKHeEMC8UQsKwBKAB6BAgIEAE)
+
+- [ ] [rejection sampling python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA:1573572723851&q=rejection+sampling+python&sa=X&ved=2ahUKEwj7wO6Z_-TlAhUGBKYKHYanDT4Q1QIoAHoECGQQAQ)
+
+- [ ] [rejection sampling theory - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA:1573572723851&q=rejection+sampling+theory&sa=X&ved=2ahUKEwj7wO6Z_-TlAhUGBKYKHYanDT4Q1QIoAXoECGQQAg)
+
+- [ ] [rejection sampling von neumann - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA:1573572723851&q=rejection+sampling+von+neumann&sa=X&ved=2ahUKEwj7wO6Z_-TlAhUGBKYKHYanDT4Q1QIoA3oECGQQBA&biw=1920&bih=948)
+
+- [ ] [Robert Blank - Google Search](https://www.google.com/search?q=Robert+Blank&oq=Robert+Blank&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [simulate zero inflated poisson in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=simulate+zero+inflated+poisson+in+r&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoA3oECGUQBA)
+
+- [ ] [slice sampling vs mcmc - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmvxFyI2kbRG5d1eEx8f6AM3BbCw%3A1573572697480&lei=WdDKXZrkHKa0mAXbqI_wCA&q=slice%20sampling%20vs%20mcmc&ved=2ahUKEwjh37qO_-TlAhUiNKYKHeEMC8UQsKwBKAJ6BAgIEAM)
+
+- [ ] [Sujayam Saha - Google Search](https://www.google.com/search?q=Sujayam+Saha&oq=Sujayam+Saha&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [sum of geometric random variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMkVP0SCuwxK_ymkKeiGbwbHNn-g:1573570869054&q=sum+of+geometric+random+variables&sa=X&ved=2ahUKEwjL3Lal-OTlAhWcxYsBHYcFCX0Q1QIoBXoECGYQBg)
+
+- [ ] [truncated beta distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTeey9EKgei7xFEGVf30gkK7Rtg_A:1573568262593&q=truncated+beta+distribution&sa=X&ved=2ahUKEwiAjMnK7uTlAhXMy4sBHcAJBCgQ1QIoAHoECGkQAQ)
+
+- [ ] [truncated distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMkVP0SCuwxK_ymkKeiGbwbHNn-g:1573570869054&q=truncated+distribution&sa=X&ved=2ahUKEwjL3Lal-OTlAhWcxYsBHYcFCX0Q1QIoBnoECGYQBw)
+
+- [ ] [truncated distribution examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTeey9EKgei7xFEGVf30gkK7Rtg_A:1573568262593&q=truncated+distribution+examples&sa=X&ved=2ahUKEwiAjMnK7uTlAhXMy4sBHcAJBCgQ1QIoAXoECGkQAg)
+
+- [ ] [truncated distribution in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTeey9EKgei7xFEGVf30gkK7Rtg_A:1573568262593&q=truncated+distribution+in+r&sa=X&ved=2ahUKEwiAjMnK7uTlAhXMy4sBHcAJBCgQ1QIoBHoECGkQBQ)
+
+- [ ] [truncated geometric distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTeey9EKgei7xFEGVf30gkK7Rtg_A:1573568262593&q=truncated+geometric+distribution&stick=H4sIAAAAAAAAAOOQMVLMySwuUchPUyguSSwBMjOTE3MUUoCMosyk0pLM_LziKIWSotK85MSS1BSF9NT83FSgVDKKklOMXPq5-gZGRUUmBdmnGDlAnOS08kIYM90g4xQjJ4hpmJJiUQ4VNk0xyEIImxdC2aYFSfFGUCUFlWZZUGZSSnExlJlSaZT9i1HRh5DDF7ESdDkAvwoUhAEBAAA&sa=X&ved=2ahUKEwiAjMnK7uTlAhXMy4sBHcAJBCgQzTooADB1egQIZBAC)
+
+- [ ] [truncated geometric distribution r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQMkVP0SCuwxK_ymkKeiGbwbHNn-g:1573570869054&q=truncated+geometric+distribution+r&stick=H4sIAAAAAAAAAOOQMVLMySwuUchPUyguSSwBMjOTE3MUUoCMosyk0pLM_LziKKWSotK85MSS1BSF9NT83FSgVDKKEoWiU4wc-rn6BskW8eVQZlJKcTFMNN0gA8ZMKy-EMg0tivJOMXJCmAUV2TB2SooFzAzTFIMsmHCyRVUylG1akBRv9ItR0YeQyxexEuF0AF67LhkEAQAA&sa=X&ved=2ahUKEwjL3Lal-OTlAhWcxYsBHYcFCX0QzTooADB1egQIZBAC)
+
+- [ ] [Walter Glanno - Google Search](https://www.google.com/search?q=Walter+Glanno&oq=Walter+Glanno&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Walter Glannon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSElYKx6aLSX6uZuXh57rQB0642kw:1573567448248&q=Walter+Glannon&stick=H4sIAAAAAAAAAONgFuLSz9U3MK00LcsyVUJiawlnJ1vpJ-fn5ubnWRVnpqSWJ1YWL2LlC0_MKUktUnDPSczLy8_bwcoIAB_e11lDAAAA&sa=X&ved=2ahUKEwiPqqHG6-TlAhWRwpQKHYGRCQ8QzTooATBzegQIaBAC)
+
+- [ ] [walter glannon books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSElYKx6aLSX6uZuXh57rQB0642kw:1573567448248&q=walter+glannon+books&stick=H4sIAAAAAAAAAONgFuLSz9U3MK00LcsyVUJia0llJ1vpJ-XnZ-snlpZk5BdZgdjFCvl5OZWLWEXKE3NKUosU0nMS8_Ly8xTAcjtYGQGUQ1gQUAAAAA&sa=X&ved=2ahUKEwiPqqHG6-TlAhWRwpQKHYGRCQ8QzTooATByegQIZRAC)
+
+- [ ] [why does gibbs sampling work - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQTMCGldDEY2MP7EmQqwJ-AoHJ8EA%3A1573572723851&lei=c9DKXbu7M4aImAWGz7bwAw&q=why%20does%20gibbs%20sampling%20work&ved=2ahUKEwjdwpuc_-TlAhVSNKYKHVmSDvQQsKwBKAR6BAgAEAU)
+
+- [ ] [zero inflated continuous data - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS-2p7i8ot0VJqQ6dIWiOWXhD29vw:1573565204618&q=zero+inflated+continuous+data&sa=X&ved=2ahUKEwj_i7WY4-TlAhVXxIsBHYJGDUoQ1QIoB3oECGQQCA)
+
+- [ ] [zero inflated generalized poisson regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=zero+inflated+generalized+poisson+regression+in+r&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoBXoECGUQBg)
+
+- [ ] [zero inflated linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTNl-93AY3RhwlUHfoENlTWg6h0Lg:1573565093718&q=zero+inflated+linear+regression&sa=X&ved=2ahUKEwjumsTj4uTlAhVDCqYKHRaNAMEQ1QIoAnoECGUQAw&cshid=1573565208578334)
+
+- [ ] [zero inflated linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS-2p7i8ot0VJqQ6dIWiOWXhD29vw:1573565204618&q=zero+inflated+linear+regression&sa=X&ved=2ahUKEwj_i7WY4-TlAhVXxIsBHYJGDUoQ1QIoAnoECGQQAw)
+
+- [ ] [zero inflated linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=zero+inflated+linear+regression&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoBHoECGUQBQ)
+
+- [ ] [zero inflated negative binomial mixed model r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS-2p7i8ot0VJqQ6dIWiOWXhD29vw:1573565204618&q=zero+inflated+negative+binomial+mixed+model+r&sa=X&ved=2ahUKEwj_i7WY4-TlAhVXxIsBHYJGDUoQ1QIoA3oECGQQBA)
+
+- [ ] [zero inflated poisson distribution in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTNl-93AY3RhwlUHfoENlTWg6h0Lg:1573565093718&q=zero+inflated+poisson+distribution+in+r&sa=X&ved=2ahUKEwjumsTj4uTlAhVDCqYKHRaNAMEQ1QIoBHoECGUQBQ&cshid=1573565208578334)
+
+- [ ] [zero inflated poisson distribution in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS-2p7i8ot0VJqQ6dIWiOWXhD29vw:1573565204618&q=zero+inflated+poisson+distribution+in+r&sa=X&ved=2ahUKEwj_i7WY4-TlAhVXxIsBHYJGDUoQ1QIoBXoECGQQBg&biw=1920&bih=948)
+
+- [ ] [zero inflated poisson distribution in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS-2p7i8ot0VJqQ6dIWiOWXhD29vw:1573565204618&q=zero+inflated+poisson+distribution+in+r&sa=X&ved=2ahUKEwj_i7WY4-TlAhVXxIsBHYJGDUoQ1QIoBXoECGQQBg&biw=1920&bih=948)
+
+- [ ] [zero inflated poisson interpretation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTNl-93AY3RhwlUHfoENlTWg6h0Lg:1573565093718&q=zero+inflated+poisson+interpretation&sa=X&ved=2ahUKEwjumsTj4uTlAhVDCqYKHRaNAMEQ1QIoBnoECGUQBw&cshid=1573565208578334)
+
+- [ ] [zero inflated poisson interpretation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS-2p7i8ot0VJqQ6dIWiOWXhD29vw:1573565204618&q=zero+inflated+poisson+interpretation&sa=X&ved=2ahUKEwj_i7WY4-TlAhVXxIsBHYJGDUoQ1QIoBHoECGQQBQ)
+
+- [ ] [zero inflated poisson mixed model r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTNl-93AY3RhwlUHfoENlTWg6h0Lg:1573565093718&q=zero+inflated+poisson+mixed+model+r&sa=X&ved=2ahUKEwjumsTj4uTlAhVDCqYKHRaNAMEQ1QIoBXoECGUQBg&cshid=1573565208578334)
+
+- [ ] [zero inflated poisson mixed model r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=zero+inflated+poisson+mixed+model+r&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoBnoECGUQBw)
+
+- [ ] [zero inflated poisson offset - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxTd6gqPWALLkbllQoXd5crnPADw:1573487160384&q=zero+inflated+poisson+offset&sa=X&ved=2ahUKEwigiIO6wOLlAhUwGKYKHdR2BoAQ1QIoAXoECGUQAg&biw=1920&bih=948)
+
+- [ ] [zero inflated poisson r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTNl-93AY3RhwlUHfoENlTWg6h0Lg:1573565093718&q=zero+inflated+poisson+r&sa=X&ved=2ahUKEwjumsTj4uTlAhVDCqYKHRaNAMEQ1QIoAHoECGUQAQ&cshid=1573565208578334)
+
+- [ ] [zero-inflated poisson regression sas - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS-2p7i8ot0VJqQ6dIWiOWXhD29vw:1573565204618&q=zero-inflated+poisson+regression+sas&sa=X&ved=2ahUKEwj_i7WY4-TlAhVXxIsBHYJGDUoQ1QIoBnoECGQQBw&biw=1920&bih=948)

@@ -489,3 +489,50 @@
 - [ ] [The Poisson Process: Everything you need to know - Towards Data Science](https://towardsdatascience.com/the-poisson-process-everything-you-need-to-know-322aa0ab9e9a)
 
 - [ ] [www.mat.ufrgs.br/~giacomo/Softwares/R/Dobrow - Stochastic with R/ch6.pdf](http://www.mat.ufrgs.br/~giacomo/Softwares/R/Dobrow%20-%20Stochastic%20with%20R/ch6.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/13/2019
+
+- [ ] [A Gentle Introduction to Artificial Neural Networks | The Clever Machine](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
+
+- [ ] [About the Author | The Clever Machine](https://theclevermachine.wordpress.com/about-me/)
+
+- [ ] [Algorithms | The Clever Machine](https://theclevermachine.wordpress.com/category/algorithms/)
+
+- [ ] [Covariance Matrices and Data Distributions | The Clever Machine](https://theclevermachine.wordpress.com/2013/03/29/covariance-matrices-and-data-distributions/)
+
+- [ ] [Derivation: Derivatives for Common Neural Network Activation Functions | The Clever Machine](https://theclevermachine.wordpress.com/2014/09/08/derivation-derivatives-for-common-neural-network-activation-functions/)
+
+- [ ] [Derivation: Derivatives for Common Neural Network Activation Functions | The Clever Machine](https://theclevermachine.wordpress.com/2014/09/08/derivation-derivatives-for-common-neural-network-activation-functions/)
+
+- [ ] [Derivation: Error Backpropagation & Gradient Descent for Neural Networks | The Clever Machine](https://theclevermachine.wordpress.com/2014/09/06/derivation-error-backpropagation-gradient-descent-for-neural-networks/)
+
+- [ ] [Derivation: Maximum Likelihood for Boltzmann Machines | The Clever Machine](https://theclevermachine.wordpress.com/2014/09/23/derivation-maximum-likelihood-for-boltzmann-machines/)
+
+- [ ] [Derivation: The Covariance Matrix of an OLS Estimator (and applications to GLS) | The Clever Machine](https://theclevermachine.wordpress.com/2013/01/14/derivation-the-covariance-matrix-of-an-ols-estimator-and-applications-to-gls/)
+
+- [ ] [Envelope Distribution | The Clever Machine](https://theclevermachine.wordpress.com/tag/envelope-distribution/)
+
+- [ ] [fMRI In Neuroscience: Efficiency of Event-related Experiment Designs | The Clever Machine](https://theclevermachine.wordpress.com/2013/01/14/fmri-in-neuroscience-efficiency-of-event-related-experiment-designs/)
+
+- [ ] [Model Selection: Underfitting, Overfitting, and the Bias-Variance Tradeoff | The Clever Machine](https://theclevermachine.wordpress.com/2013/04/21/model-selection-underfitting-overfitting-and-the-bias-variance-tradeoff/)
+
+- [ ] [Regression | The Clever Machine](https://theclevermachine.wordpress.com/category/algorithms/regression/)
+
+- [ ] [Sampling Methods | The Clever Machine](https://theclevermachine.wordpress.com/category/sampling-methods/)
+
+- [ ] [Simulations | The Clever Machine](https://theclevermachine.wordpress.com/category/simulations/)
+
+- [ ] [Supplemental Proof 1 | The Clever Machine](https://theclevermachine.wordpress.com/2013/04/21/supplemental-proof-1/)
+
+- [ ] [The Statistical Whitening Transform | The Clever Machine](https://theclevermachine.wordpress.com/2013/03/30/the-statistical-whitening-transform/)

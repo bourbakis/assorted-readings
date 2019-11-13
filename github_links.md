@@ -1069,3 +1069,18 @@ https://drive.google.com/drive/u/0/my-drive
 - [ ] [huggingface/transformers: 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.](https://github.com/huggingface/transformers)
 
 - [ ] [maxLik/examples.R at master · cran/maxLik](https://github.com/cran/maxLik/blob/master/tests/examples.R)
+
+
+## 11/13/2019
+
+- [ ] [dustinstansbury (Dustin Stansbury) / Repositories](https://github.com/dustinstansbury?tab=repositories)
+
+- [ ] [asardaes/dtwclust: R Package for Time Series Clustering Along with Optimizations for DTW](https://github.com/asardaes/dtwclust)
+
+- [ ] [pnojai/dskill: CUNY DATA607 Project - Data Science Skills - Fall 2019](https://github.com/pnojai/dskill)
+
+- [ ] [github.com](https://github.com/deepmind/torch-randomkit)
+
+- [ ] [JuliaLang/julia: The Julia Language: A fresh approach to technical computing.](https://github.com/JuliaLang/julia)
+
+- [ ] [quant3materials/lab12_accept_reject_sampler.R at master · pablobarbera/quant3materials](https://github.com/pablobarbera/quant3materials/blob/master/bayesian/lab12_accept_reject_sampler.R)`
