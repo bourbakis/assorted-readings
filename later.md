@@ -1621,3 +1621,174 @@ https://www.nbcnews.com/news/world/police-investigating-bts-member-over-traffic-
 - [ ] [Elements of Simulation - Byron J.T. Morgan - Google Books](https://books.google.com/books?id=Jnx_DwAAQBAJ&pg=PA241&lpg=PA241&dq=an+%22envelope%22+to+the+log+series+distribution&source=bl&ots=UxVOum_KIO&sig=ACfU3U0hLGNfEwb_BjkkJjVdaZEArdJ_xw&hl=en&sa=X&ved=2ahUKEwjKzu616uTlAhViw4sBHb4dC4EQ6AEwBHoECF8QAQ#v=onepage&q=an%20%22envelope%22%20to%20the%20log%20series%20distribution&f=false)
 
 - [ ] [Forecasting Expected Returns in the Financial Markets - Stephen Satchell - Google Books](https://books.google.com/books?id=646771_DyeMC&pg=PA19&lpg=PA19&dq=reverse+optimization&source=bl&ots=OjYmhGtRRA&sig=ACfU3U0hrboYRRMM2GLYPo-XqhYiG-CGLQ&hl=en&sa=X&ved=2ahUKEwj_npDmseLlAhWHF6YKHZLcDGcQ6AEwI3oECF4QAQ#v=onepage&q=reverse%20optimization&f=false)
+
+
+
+
+## 11/13/2019
+
+RStudio Cloud
+https://rstudio.cloud/project/634440
+
+Classifying next-generation sequencing data using a zero-inflated Poisson model | Bioinformatics | Oxford Academic
+https://academic.oup.com/bioinformatics/article/34/8/1329/4665421
+
+Aeon | a world of ideas
+https://aeon.co/
+
+Zero-Inflated Poisson Regression, With an Application to Defects in Manufacturing: Technometrics: Vol 34, No 1
+https://amstat.tandfonline.com/doi/abs/10.1080/00401706.1992.10485228
+
+业务流程优化_百度百科
+https://baike.baidu.com/item/%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E4%BC%98%E5%8C%96
+
+R code for multivariate random-walk Metropolis sampling | One Life
+https://blog.abhranil.net/2014/02/08/r-code-for-multivariate-random-walk-metropolis-hastings-sampling/
+
+The Stata Blog » Introduction to Bayesian statistics, part 2: MCMC and the Metropolis–Hastings algorithm
+https://blog.stata.com/2016/11/15/introduction-to-bayesian-statistics-part-2-mcmc-and-the-metropolis-hastings-algorithm/
+
+Advanced Statistical Computing
+https://bookdown.org/rdpeng/advstatcomp/metropolis-hastings.html
+
+Metropolis-Hastings MCMC algorithms – Darren Wilkinson's research blog
+https://darrenjw.wordpress.com/2010/08/15/metropolis-hastings-mcmc-algorithms/
+
+Metropolis Hastings MCMC when the proposal and target have differing support – Darren Wilkinson's research blog
+https://darrenjw.wordpress.com/2012/06/04/metropolis-hastings-mcmc-when-the-proposal-and-target-have-differing-support/
+
+业务运营专员_岗位说明书 - Google Sheets
+https://docs.google.com/spreadsheets/d/1laaisGYg5-QfOFxZl8wphKSg2xNCHlDhpoRbmOnTZys/edit#gid=1397714603
+
+Earth on Nautilus
+http://earth.nautil.us/
+
+How to Get a Better GAN (Almost) for Free: Introducing the Metropolis-Hastings GAN | Uber Engineering Blog
+https://eng.uber.com/mh-gan/
+
+A Coasean solution for New Delhi? - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2019/11/a-coasean-solution-for-new-delhi.html
+
+Opinion | Ronald Coase has a solution for Delhi’s air pollution
+https://www.livemint.com/opinion/columns/ronald-coase-has-a-solution-for-delhi-s-air-pollution-11573491626858.html
+
+The Psychology of Greta Thunberg’s Climate Activism - Issue 78: Atmospheres - Nautilus
+http://nautil.us/issue/78/atmospheres/the-psychology-of-greta-thunbergs-climate-activism
+
+General Zero-Inflated Models and Their Applications
+https://repository.lib.ncsu.edu/handle/1840.16/4866
+
+Algorithmic Trading with R
+https://rstudio-pubs-static.s3.amazonaws.com/363773_2382648d32f748b2a7549816de5ea377.html
+
+Zero inflated distributions, what are they really? - Cross Validated
+https://stats.stackexchange.com/questions/279273/zero-inflated-distributions-what-are-they-really
+
+mcmc - Metropolis Hastings - Acceptance ratio, proposal and lkelihood - Cross Validated
+https://stats.stackexchange.com/questions/378060/metropolis-hastings-acceptance-ratio-proposal-and-lkelihood
+
+mcmc - Acceptance ratio in Metropolis–Hastings algorithm - Cross Validated
+https://stats.stackexchange.com/questions/27913/acceptance-ratio-in-metropolis-hastings-algorithm
+
+The Metropolis Hastings Algorithm
+https://stephens999.github.io/fiveMinuteStats/MH_intro.html
+
+Name a range of cells - Computer - Docs Editors Help
+https://support.google.com/docs/answer/63175
+
+From Scratch: Bayesian Inference, Markov Chain Monte Carlo and Metropolis Hastings, in python
+https://towardsdatascience.com/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a
+
+百度推广
+http://cas.baidu.com/?tpl=www2&fromu=https%3A%2F%2Ftuiguang.baidu.com%2Fhome.html%3Fuserid%3D24283231
+
+外壁の改修工法選定フロー図│
+http://www.asahibond.co.jp/method/flow.html
+
+調査・診断・設計 | 株式会社コンステック
+https://www.constec.co.jp/diagnosis/diagnosis/
+
+調査診断手順 | 株式会社コンステック
+https://www.constec.co.jp/construction/7/
+
+劣化現象の分類 | 株式会社コンステック
+https://www.constec.co.jp/construction/10/
+
+特殊建築物定期調査 | 株式会社コンステック
+https://www.constec.co.jp/construction/324/
+
+設備調査 | 株式会社コンステック
+https://www.constec.co.jp/construction/603/
+
+各種非破壊検査手法の紹介 | 株式会社コンステック
+https://www.constec.co.jp/construction/89/
+
+Algorithmic Trading in R Tutorial (article) - DataCamp
+https://www.datacamp.com/community/tutorials/r-trading-tutorial
+
+zero inflated negative binomial r - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQoEFAWlRyadfz7uyc0oJToW9wiJg%3A1573522934834&lei=9g3KXcanMrKu0PEPmceJ-As&q=zero%20inflated%20negative%20binomial%20r&ved=2ahUKEwiOv8jgxePlAhUMJTQIHQ8eCl0QsKwBKAJ6BAgAEAM
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwiMvt3kxePlAhUxNX0KHdylBrIQFjACegQIMBAC&url=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2Fpscl%2Fvignettes%2Fcountreg.pdf&usg=AOvVaw1cLj0rkQ1X5NDg_TKefmG_
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwiMvt3kxePlAhUxNX0KHdylBrIQFjACegQIMBAC&url=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2Fpscl%2Fvignettes%2Fcountreg.pdf&usg=AOvVaw1cLj0rkQ1X5NDg_TKefmG_
+
+zero inflated poisson regression python - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQoEFAWlRyadfz7uyc0oJToW9wiJg%3A1573522934834&lei=9g3KXcanMrKu0PEPmceJ-As&q=zero%20inflated%20poisson%20regression%20python&ved=2ahUKEwiOv8jgxePlAhUMJTQIHQ8eCl0QsKwBKAB6BAgAEAE
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=2ahUKEwjG-s3cxePlAhUyFzQIHZljAr8QFjAGegQICBAC&url=https%3A%2F%2Fwww.otago.ac.nz%2Fripe%2Fotago301201.pdf&usg=AOvVaw3i9tIMrOnucUb6TjzvHBk3
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=2ahUKEwjG-s3cxePlAhUyFzQIHZljAr8QFjAGegQICBAC&url=https%3A%2F%2Fwww.otago.ac.nz%2Fripe%2Fotago301201.pdf&usg=AOvVaw3i9tIMrOnucUb6TjzvHBk3
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=2ahUKEwjG-s3cxePlAhUyFzQIHZljAr8QFjAEegQIERAC&url=https%3A%2F%2Fncss-wpengine.netdna-ssl.com%2Fwp-content%2Fthemes%2Fncss%2Fpdf%2FProcedures%2FNCSS%2FZero-Inflated_Poisson_Regression.pdf&usg=AOvVaw31yQZX8_nHMc9ZG4foinO8
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=2ahUKEwjG-s3cxePlAhUyFzQIHZljAr8QFjAEegQIERAC&url=https%3A%2F%2Fncss-wpengine.netdna-ssl.com%2Fwp-content%2Fthemes%2Fncss%2Fpdf%2FProcedures%2FNCSS%2FZero-Inflated_Poisson_Regression.pdf&usg=AOvVaw31yQZX8_nHMc9ZG4foinO8
+
+Filter charts and tables with Slicers - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Filter+charts+and+tables+with+Slicers
+
+业务流程改进工作 - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNT61Q8OOsGUbz8W0EgqJVNTWuaGrw%3A1573540889554&ei=GVTKXbC1IYO9-gSj4o7oCA&q=%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E6%94%B9%E8%BF%9B%E5%B7%A5%E4%BD%9C&oq=%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E6%94%B9%E8%BF%9B%E5%B7%A5%E4%BD%9C&gs_l=psy-ab.3...282.1102..3233...0.0..0.1921.4732.7-1j2......0....1..gws-wiz.ShApM7Db-AI&ved=0ahUKEwjwpYvOiOTlAhWDnp4KHSOxA40Q4dUDCAo&uact=5
+
+Metropolis-Hastings MH ratio - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
+
+运营专员是干什么的？运营专员需要干什么？ - 简书
+https://www.jianshu.com/p/f60e0fa15532
+
+Martin Ridout software
+https://www.kent.ac.uk/smsas/personal/msr/webfiles/software.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/estimateN.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/perturb.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/overlap.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/TemperedStable.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/rlaptrans.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/complexstep.html
+
+Disease Modelers Seek Statistical Clues to the Timing of Symptoms | Quanta Magazine
+https://www.quantamagazine.org/disease-modelers-seek-statistical-clues-to-the-timing-of-symptoms-20180301/
+
+RPubs - Lecture 3
+http://www.rpubs.com/tleitch/484806
+
+运营专员每天都做些什么？ - 知乎
+https://www.zhihu.com/question/22155136
+
+The Sense of Style Quotes by Steven Pinker | Goodreads
+https://www.goodreads.com/work/quotes/40167209-the-sense-of-style-the-thinking-person-s-guide-to-writing-in-the-21st-c
+
+The Sense of Style Quotes by Steven Pinker | Goodreads
+https://www.goodreads.com/work/quotes/40167209-the-sense-of-style-the-thinking-person-s-guide-to-writing-in-the-21st-c
+
+Quote by Steven Pinker: “Style still matters, for at least three reasons...” | Goodreads
+https://www.goodreads.com/quotes/7640000-style-still-matters-for-at-least-three-reasons-first-it
+

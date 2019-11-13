@@ -246,3 +246,107 @@ https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html#maximum-likelihood-with-
 - [ ] [Political Science « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/political-science/)
 
 - [ ] [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+## 11/13/2019
+
+Expose the acceptance ratio in Metropolis-Hastings · Issue #115 · probcomp/Gen
+https://github.com/probcomp/Gen/issues/115
+
+运营专员是干什么的？运营专员需要干什么？ - 简书
+https://www.jianshu.com/p/f60e0fa15532
+
+Martin Ridout software
+https://www.kent.ac.uk/smsas/personal/msr/webfiles/software.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/estimateN.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/perturb.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/overlap.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/TemperedStable.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/rlaptrans.html
+
+Martin Ridout workplace
+https://www.kent.ac.uk/smsas/personal/msr/complexstep.html
+
+Disease Modelers Seek Statistical Clues to the Timing of Symptoms | Quanta Magazine
+https://www.quantamagazine.org/disease-modelers-seek-statistical-clues-to-the-timing-of-symptoms-20180301/
+
+RPubs - Lecture 3
+http://www.rpubs.com/tleitch/484806
+
+基于 Prettydoc 包的模板改造 | 统计之都
+https://cosx.org/2019/10/prettydoc-internals-ljj/
+
+统计之都
+https://cosx.org/
+
+统计月读（2019 年 10 月） | 统计之都
+https://cosx.org/2019/11/monthly/
+
+基于 R Markdown 的演示文稿和报告模板使用经验 | 统计之都
+https://cosx.org/2019/06/r-markdown-slides-ljj/
+
+CRAN - Package tinytex
+https://cran.r-project.org/web/packages/tinytex/index.html
+
+CRAN - Package revealjs
+https://cran.r-project.org/web/packages/revealjs/index.html
+
+particle template
+https://llijiajun.github.io/github-io/images/R04-1.html
+
+particle template
+https://llijiajun.github.io/github-io/images/R04-1.html
+
+Home
+https://llijiajun.github.io/github-io/
+
+Chapter 7 Monte Carlo Integration | STAT 5361: Statistical Computing, Fall 2019
+https://jun-yan.github.io/stat-5361/mcinteg.html#option-pricing
+
+pmax() r - Google Search
+https://www.google.com/search?client=firefox-b-d&q=pmax%28%29+r
+
+pmax and pmin R Function | 3 Example Codes (Warning & Handling NA)
+https://statisticsglobe.com/pmax-pmin-r-function-example/
+
+pmin and pmax | R-bloggers
+https://www.r-bloggers.com/pmin-and-pmax/
+
+R: Maxima and Minima
+https://www.math.ucla.edu/~anderson/rw1001/library/base/html/Extremes.html
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=22&ved=2ahUKEwjZ0Z3V4ublAhWSJTQIHQxCCvQQFjAVegQIRhAB&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F32978458%2Fdplyr-mutate-rowwise-max-of-range-of-columns&usg=AOvVaw3SpSXaZnooCCvtBUEh6Fwp
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=22&ved=2ahUKEwjZ0Z3V4ublAhWSJTQIHQxCCvQQFjAVegQIRhAB&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F32978458%2Fdplyr-mutate-rowwise-max-of-range-of-columns&usg=AOvVaw3SpSXaZnooCCvtBUEh6Fwp
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=24&ved=2ahUKEwjZ0Z3V4ublAhWSJTQIHQxCCvQQFjAXegQISBAB&url=https%3A%2F%2Fpurrr.tidyverse.org%2Freference%2Fmap2.html&usg=AOvVaw0AazsBmGXbG8i1qLfHmJgT
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=24&ved=2ahUKEwjZ0Z3V4ublAhWSJTQIHQxCCvQQFjAXegQISBAB&url=https%3A%2F%2Fpurrr.tidyverse.org%2Freference%2Fmap2.html&usg=AOvVaw0AazsBmGXbG8i1qLfHmJgT
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=23&ved=2ahUKEwjZ0Z3V4ublAhWSJTQIHQxCCvQQFjAWegQISRAB&url=https%3A%2F%2Fgithub.com%2Fr-dbi%2Fbigrquery%2Fissues%2F179&usg=AOvVaw1wImUlzXp6GeoJfSz2cABq
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=23&ved=2ahUKEwjZ0Z3V4ublAhWSJTQIHQxCCvQQFjAWegQISRAB&url=https%3A%2F%2Fgithub.com%2Fr-dbi%2Fbigrquery%2Fissues%2F179&usg=AOvVaw1wImUlzXp6GeoJfSz2cABq
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwjZ0Z3V4ublAhWSJTQIHQxCCvQQFjAYegQIQhAB&url=https%3A%2F%2Fadv-r.hadley.nz%2Frcpp.html&usg=AOvVaw29QH6if1n0YAzEP4Y97_yH
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwjZ0Z3V4ublAhWSJTQIHQxCCvQQFjAYegQIQhAB&url=https%3A%2F%2Fadv-r.hadley.nz%2Frcpp.html&usg=AOvVaw29QH6if1n0YAzEP4Y97_yH
+
