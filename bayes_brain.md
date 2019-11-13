@@ -25,3 +25,26 @@
 - [ ] [normal mxiture posterier r - Google Search](https://www.google.com/search?q=normal+mxiture+posterier+r&oq=normal+mxiture+posterier+r&aqs=chrome..69i57j69i64.13740j0j1&sourceid=chrome&ie=UTF-8)
 
 - [ ] [poster density of normal mixture - Google Search](https://www.google.com/search?q=poster+density+of+normal+mixture&oq=poster+density+of+normal+mixture&aqs=chrome..69i57j33.11773j1j1&sourceid=chrome&ie=UTF-8)
+
+
+# Python implement
+
+
+
+## 11/12/2019
+
+- [ ] [Metropolis Hastings MCMC when the proposal and target have differing support – Darren Wilkinson's research blog](https://darrenjw.wordpress.com/2012/06/04/metropolis-hastings-mcmc-when-the-proposal-and-target-have-differing-support/)
+
+- [ ] [Geometric distribution | Vose Software](https://www.vosesoftware.com/riskwiki/Geometricdistribution.php)
+
+- [ ] [Truncated distribution - Wikipedia](https://en.wikipedia.org/wiki/Truncated_distribution)
+
+- [ ] [Fitting truncated geometric distributions in large scale real world networks - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0304397514003521)
+
+- [ ] [PyMC: Bayesian Stochastic Modelling in Python](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3097064/)
+
+- [ ] [numpy.random.randn() in Python - GeeksforGeeks](https://www.geeksforgeeks.org/numpy-random-randn-python/)
+
+- [ ] [Compounding of distributions: a survey and new generalized classes | SpringerLink](https://link.springer.com/article/10.1186/s40488-016-0052-1)
+
+- [ ] [Random Number Distributions — GSL 2.6 documentation](https://www.gnu.org/software/gsl/doc/html/randist.html)
