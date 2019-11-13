@@ -1428,3 +1428,196 @@ https://www.nbcnews.com/news/world/police-investigating-bts-member-over-traffic-
 - [ ] [Solving Quadratic Progams with R's quadprog package | R-bloggers](https://www.r-bloggers.com/solving-quadratic-progams-with-rs-quadprog-package/)
 
 - [ ] [Portfolio Optimization with R/Rmetrics](https://www.rmetrics.org/ebooks-portfolio)
+
+
+
+
+
+
+
+
+## 11/13/2019
+
+- [ ] [Zero-Inflated Poisson Regression | R Data Analysis Examples](https://stats.idre.ucla.edu/r/dae/zip/)
+
+- [ ] [numpy.random.geometric — NumPy v1.10 Manual](https://docs.scipy.org/doc/numpy-1.10.1/reference/generated/numpy.random.geometric.html)
+
+- [ ] [Mapping out Crypto Custody - The Block](https://www.theblockcrypto.com/genesis/46696/mapping-out-crypto-custody)
+
+- [ ] [Investing News: Rich Prepare for Major Stock Sell-Off, UBS Says - Bloomberg](https://www.bloomberg.com/news/articles/2019-11-12/world-s-rich-readying-for-major-stock-sell-off-ubs-wealth-says)
+
+- [ ] [Tesla Model 3 Survey: Buyers Trade in BMWs and Toyotas For Musk’s Hit Car](https://www.bloomberg.com/graphics/2019-tesla-model-3-survey/market-evolution.html?utm_source=twitter&utm_content=graphics&utm_medium=social&cmpid%3D=socialflow-twitter-graphics&utm_campaign=socialflow-organic#intro)
+
+- [ ] [Mexico's Trauwitz, Lozoya Pemex trial a test of Lopez Obrador's anti-corruption campaign - The Washington Post](https://www.washingtonpost.com/)
+
+- [ ] [*Walter Raleigh: Architect of Empire* - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/walter-raleigh-architect-of-empire.html)
+
+- [ ] [Narcissism and coldness - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/narcissism-and-coldness.html)
+
+- [ ] [Rent control is also not great for labor market outcomes - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/rent-control-is-also-not-great-for-labor-market-outcomes.html)
+
+- [ ] [The racial integration of the Korean War - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/the-racial-integration-of-the-korean-war.html)
+
+- [ ] [What I've been reading and browsing - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/what-ive-been-reading-and-browsing-2.html)
+
+- [ ] [Paw Clap Button](https://codepen.io/aaroniker/pen/VwwxopM)
+
+- [ ] [portfolio management - Dmat argument in solve.QP R function: Cov or 2*Cov? - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/31743/dmat-argument-in-solve-qp-r-function-cov-or-2cov)
+
+- [ ] [programming - Why optimize.portfolio in R package PortfolioAnalytics is not working? - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/33642/why-optimize-portfolio-in-r-package-portfolioanalytics-is-not-working)
+
+- [ ] [500 Internal Privoxy Error](http://dukeresearchadvantage.com/author/charvey/)
+
+- [ ] [What is the Black-Litterman Model Defined](https://www.investopedia.com/terms/b/black-litterman_model.asp)
+
+- [ ] [https://atlas.dotdash.com/insights/understanding-small-and-big-cap-stocks/](https://atlas.dotdash.com/insights/understanding-small-and-big-cap-stocks/)
+
+- [ ] [The Black-Litterman Model and Views from a Reverse Optimization Procedure: An Out-of-Sample Performance Evaluation by Erindi Allaj :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2999335)
+
+- [ ] [Dynamic Ideas](https://www.dynamic-ideas.com/)
+
+- [ ] [For Instructors — Dynamic Ideas](https://www.dynamic-ideas.com/for-instructors)
+
+- [ ] [Authors — Dynamic Ideas](https://www.dynamic-ideas.com/authors)
+
+- [ ] [‎Data Made to Matter by MIT Sloan School of Management: Bonus: Education in the Age of Analytics on Apple Podcasts](https://podcasts.apple.com/us/podcast/bonus-education-in-the-age-of-analytics/id1239532181?i=1000389129843&mt=2)
+
+- [ ] [‎Data Made to Matter by MIT Sloan School of Management: On a Mission in Medicine: Using Data for Personalized Treatment on Apple Podcasts](https://podcasts.apple.com/us/podcast/on-mission-in-medicine-using-data-for-personalized/id1239532181?i=1000385815421&mt=6)
+
+- [ ] [Intro to optimization in deep learning: Momentum, RMSProp and Adam](https://medium.com/paperspace/intro-to-optimization-in-deep-learning-momentum-rmsprop-and-adam-8335f15fdee2)
+
+- [ ] [Portfolio optimization in R using a Genetic Algorithm](https://medium.com/the-trading-scientist/portfolio-optimization-in-r-using-a-genetic-algorithm-8726ec985b6f)
+
+- [ ] [Google’s AutoML will change how businesses use Machine Learning](https://towardsdatascience.com/googles-automl-will-change-how-businesses-use-machine-learning-c7d72257aba9)
+
+- [ ] [The Most in Demand Skills for Data Scientists - Towards Data Science](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db)
+
+- [ ] [開発やデバッグが捗るPythonライブラリ6選 - Qiita](https://qiita.com/k4ssyi/items/606429ada3b017d34f12#)
+
+- [ ] [Bob Hayes:A terrific blogger, fitness freak, Data Science expert – Humans of Analytics](http://humansofanalytics.com/stories/bob-hayes/)
+
+- [ ] [Craig Brown:Technology Maven, Analytics Influencer, and Avid Rider – Humans of Analytics](http://humansofanalytics.com/stories/craig-brown-phd-technology-analytics-influencer/)
+
+- [ ] [Binary Code and Large-Scale Projections Transform this Parking Garage - VICE](https://www.vice.com/en_us/article/pgqvpk/binary-code-and-large-scale-projections-transform-this-parking-garage)
+
+- [ ] [How To Make Meta-learning More Effective - Analytics India Magazine](https://analyticsindiamag.com/how-to-make-meta-learning-more-effective/)
+
+- [ ] [Praxis Business School](https://praxis.ac.in/data-science-program/?utm_source=Analytics%20India%20Magazine&utm_medium=Banner&utm_campaign=DS-Sept2019)
+
+- [ ] [Stack Overflow Developer Survey 2019](https://insights.stackoverflow.com/survey/2019#most-loved-dreaded-and-wanted)
+
+- [ ] [The Transformation of Condé Nast | The New Republic](https://newrepublic.com/article/155286/conde-nast-biography-book-review)
+
+- [ ] [A Genetic Algorithm for Solving Portfolio Optimization Problems with Transaction Costs and Minimum Transaction Lots | SpringerLink](https://link.springer.com/chapter/10.1007/11539902_99)
+
+- [ ] [Chapter 5 Random Number Generation | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/random-number-generation.html#univariate-random-number-generation)
+
+- [ ] [Bayesian Statistics](https://frnsys.com/ai_notes/foundations/bayesian_statistics.html)
+
+- [ ] [Rejection Sampling and Tricky Priors — Count Bayesie](https://www.countbayesie.com/blog/2015/6/20/tricky-priors-and-rejection-sampling)
+
+- [ ] [Statistical Computation and Simulation](http://www.di.fc.ul.pt/~jpn/r/ECS/index.html)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] ["Reverse" portfolio optimization in Matlab - MATLAB Answers - MATLAB Central](https://www.mathworks.com/matlabcentral/answers/426727-reverse-portfolio-optimization-in-matlab)
+
+- [ ] [S.O.S. Math](http://www.sosmath.com/)
+
+- [ ] [Econometric Theory/Matrix Differentiation - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Econometric_Theory/Matrix_Differentiation)
+
+- [ ] [Jake Soloff](http://jake-soloff.github.io/)
+
+- [ ] [David Pollard home](http://www.stat.yale.edu/~pollard/)
+
+- [ ] [Dustin Stansbury Personal Website](http://www.dustinstansbury.net/publications.html)
+
+- [ ] [gallantlab.org](https://gallantlab.org/)
+
+- [ ] [Neuroethics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/neuroethics/)
+
+- [ ] [500 Internal Privoxy Error](http://www.ifi.unizh.ch/~andel/neurowiki/nw.cgi?NeuroPolitics)
+
+- [ ] [Center for Neuroscience & Society – University of Pennsylvania](https://neuroethics.upenn.edu/)
+
+- [ ] [BRAINETHICS | Consequences of Brain Science](https://brainethics.wordpress.com/)
+
+- [ ] [Neuroethics & Law Blog](https://kolber.typepad.com/)
+
+- [ ] [Neuroethics | Brain Initiative](https://braininitiative.nih.gov/brain-programs/neuroethics)
+
+- [ ] [Neuroethics: A Guide for the Perplexed | Dana Foundation](https://dana.org/article/neuroethics-a-guide-for-the-perplexed/)
+
+- [ ] [Neuroethics Research News - Neuroscience News](https://neurosciencenews.com/neuroscience-topics/neuroethics/)
+
+- [ ] [What is Neuroethics?](https://www.brainfacts.org/archives/2012/what-is-neuroethics)
+
+- [ ] [(43) How is reverse optimization different from calculating expected returns? - Quora](https://www.quora.com/How-is-reverse-optimization-different-from-calculating-expected-returns)
+
+- [ ] [Books — Dynamic Ideas](https://www.dynamic-ideas.com/books)
+
+- [ ] [Black-Litterman Model | R-bloggers](https://www.r-bloggers.com/black-litterman-model/)
+
+- [ ] [Rootograms](https://www.fromthebottomoftheheap.net/2016/06/07/rootograms/)
+
+- [ ] [Truncated Distribution / Truncated Normal Distribution - Statistics How To](https://www.statisticshowto.datasciencecentral.com/truncated-normal-distribution/)
+
+- [ ] [Geometric Distribution: Definition](https://stattrek.com/statistics/dictionary.aspx?definition=geometric_distribution)
+
+- [ ] [4.4 Geometric Distribution (Optional) | Texas Gateway](https://www.texasgateway.org/resource/44-geometric-distribution-optional)
+
+- [ ] [4.4 Geometric Distribution (Optional) | Texas Gateway](https://www.texasgateway.org/resource/44-geometric-distribution-optional)
+
+- [ ] [The Geometric Distribution - Mathematics A-Level Revision](https://revisionmaths.com/advanced-level-maths-revision/statistics/geometric-distribution)
+
+- [ ] [MLE Examples: Exponential and Geometric Distributions Old Kiwi - Rhea](https://www.projectrhea.org/rhea/index.php/MLE_Examples:_Exponential_and_Geometric_Distributions_Old_Kiwi)
+
+- [ ] [Geometric Distribution | Introduction to Statistics](https://courses.lumenlearning.com/introstats1/chapter/geometric-distribution/)
+
+- [ ] [Assignment: Probability Distributions in R](http://rstudio-pubs-static.s3.amazonaws.com/54606_dd6eec6586964cf0b8696e1307e5e1e3.html)
+
+- [ ] [avrilomics: Using the geometric distribution in R for bioinformatics](http://avrilomics.blogspot.com/2012/11/using-geometric-distribution-in-r.html)
+
+- [ ] [The Geometric Distribution](https://docs.tibco.com/pub/enterprise-runtime-for-R/4.4.0/doc/html/Language_Reference/stats/Geometric.html)
+
+- [ ] [The Geometric Distribution · OutSpoken Data](https://altons.github.io/rstats/2013/01/28/the-geometric-distribution/)
+
+- [ ] [Using R for Introductory Statistics, The Geometric distribution | R-bloggers](https://www.r-bloggers.com/using-r-for-introductory-statistics-the-geometric-distribution/)
+
+- [ ] [Index of /~charvey](https://faculty.fuqua.duke.edu/~charvey/)
+
+- [ ] [500 Internal Privoxy Error](http://wordpress.skimresources.com/?sref=https%3A%2F%2Ftheclevermachine.wordpress.com%2F2013%2F03%2F30%2Fthe-statistical-whitening-transform%2F&xs=1&xcust=8982&checksum=fc5d6ea7126bb8e6a7af56a7049975e787946c4e625ac9ceef083a8513bb04da&xuuid=5ecd1028ac79743e51dfb101a0894e1a&isjs=1&id=725X1342&url=https%3A%2F%2Ftheclevermachine.files.wordpress.com%2F2013%2F03%2Fwhitening-whiteningtransform1.png&xtz=-480&xguid=85UTUFk2RzAa&jv=13.25.1-stackpath)
+
+- [ ] [9. Probability distributions — PyMC 2.3.7rc1 documentation](https://pymc-devs.github.io/pymc/distributions.html)
+
+- [ ] [The Trolls Are Everywhere. Now What Are We Supposed to Do? - The New York Times](https://www.nytimes.com/2019/10/10/books/review/antisocial-andrew-marantz.html?smid=nytcore-ios-share)
+
+- [ ] [The Trolls Are Everywhere. Now What Are We Supposed to Do? - The New York Times](https://www.nytimes.com/2019/10/10/books/review/antisocial-andrew-marantz.html?smid=nytcore-ios-share)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [Darts, Dice, and Coins](http://www.keithschwarz.com/darts-dice-coins/)
+
+- [ ] [My Map Free](chrome-extension://pklnbjkiadglpemlgdaheegaehhlehlp/ex/ex.html)
+
+- [ ] [matrices - Add non-negativity constraint to a reverse optimization function - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2855597/add-non-negativity-constraint-to-a-reverse-optimization-function)
+
+- [ ] [statistics - R - generate sample that follows a geometric distribution - Mathematics Stack Exchange](https://math.stackexchange.com/questions/580901/r-generate-sample-that-follows-a-geometric-distribution)
+
+- [ ] [RPubs - Geometric Distribution in R](https://rpubs.com/mpfoley73/458721)
+
+- [ ] [RPubs - Zero inflation](https://rpubs.com/INBOstats/zeroinflation)
+
+- [ ] [An example of rejection sampling](http://www.mas.ncl.ac.uk/~ndjw1/teaching/sim/reject/circ.html)
+
+- [ ] [Statistical inference for stochastic simulation models – theory and application - Hartig - 2011 - Ecology Letters - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2011.01640.x)
+
+- [ ] [https://raw.githubusercontent.com/florianhartig/Cookbook/master/SpecialTopics/Bayesian/ABC/ABC-Rejection.R](https://raw.githubusercontent.com/florianhartig/Cookbook/master/SpecialTopics/Bayesian/ABC/ABC-Rejection.R)
+
+- [ ] [Rejection Sampling | R-bloggers](https://www.r-bloggers.com/rejection-sampling/)
+
+- [ ] [CFA Program Curriculum 2020 Level III - CFA Institute - Google Books](https://books.google.com/books?id=FimpDwAAQBAJ&pg=RA2-PA84&lpg=RA2-PA84&dq=reverse+optimization&source=bl&ots=6ZINAuu-2p&sig=ACfU3U1zBIiEYtFktcYYGHjht7eiE7EgyA&hl=en&sa=X&ved=2ahUKEwj_npDmseLlAhWHF6YKHZLcDGcQ6AEwIXoECGEQAQ#v=onepage&q=reverse%20optimization&f=false)
+
+- [ ] [Elements of Simulation - Byron J.T. Morgan - Google Books](https://books.google.com/books?id=Jnx_DwAAQBAJ&pg=PA241&lpg=PA241&dq=an+%22envelope%22+to+the+log+series+distribution&source=bl&ots=UxVOum_KIO&sig=ACfU3U0hLGNfEwb_BjkkJjVdaZEArdJ_xw&hl=en&sa=X&ved=2ahUKEwjKzu616uTlAhViw4sBHb4dC4EQ6AEwBHoECF8QAQ#v=onepage&q=an%20%22envelope%22%20to%20the%20log%20series%20distribution&f=false)
+
+- [ ] [Forecasting Expected Returns in the Financial Markets - Stephen Satchell - Google Books](https://books.google.com/books?id=646771_DyeMC&pg=PA19&lpg=PA19&dq=reverse+optimization&source=bl&ots=OjYmhGtRRA&sig=ACfU3U0hrboYRRMM2GLYPo-XqhYiG-CGLQ&hl=en&sa=X&ved=2ahUKEwj_npDmseLlAhWHF6YKHZLcDGcQ6AEwI3oECF4QAQ#v=onepage&q=reverse%20optimization&f=false)
