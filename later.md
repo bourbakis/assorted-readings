@@ -1792,3 +1792,122 @@ https://www.goodreads.com/work/quotes/40167209-the-sense-of-style-the-thinking-p
 Quote by Steven Pinker: “Style still matters, for at least three reasons...” | Goodreads
 https://www.goodreads.com/quotes/7640000-style-still-matters-for-at-least-three-reasons-first-it
 
+
+
+## 11/13/2019
+
+
+业务运营专员_岗位说明书 - Google Sheets
+https://docs.google.com/spreadsheets/d/1laaisGYg5-QfOFxZl8wphKSg2xNCHlDhpoRbmOnTZys/edit#gid=1397714603
+
+Earth on Nautilus
+http://earth.nautil.us/
+
+RStudio Cloud
+https://rstudio.cloud/project/634440
+
+Aeon | a world of ideas
+https://aeon.co/
+
+业务流程优化_百度百科
+https://baike.baidu.com/item/%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E4%BC%98%E5%8C%96
+
+业务流程优化图片_百度百科
+https://baike.baidu.com/pic/%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E4%BC%98%E5%8C%96/743826/0/4610b912c8fcc3ce6893e4299545d688d43f205c?fr=lemma&ct=single#aid=0&pic=4610b912c8fcc3ce6893e4299545d688d43f205c
+
+R code for multivariate random-walk Metropolis sampling | One Life
+https://blog.abhranil.net/2014/02/08/r-code-for-multivariate-random-walk-metropolis-hastings-sampling/
+
+Advanced Statistical Computing
+https://bookdown.org/rdpeng/advstatcomp/metropolis-hastings.html
+
+Black-Scholes-Merton | Brilliant Math & Science Wiki
+https://brilliant.org/wiki/black-scholes-merton/
+
+百度推广
+http://cas.baidu.com/?tpl=www2&fromu=https%3A%2F%2Ftuiguang.baidu.com%2Fhome.html%3Fuserid%3D24283231
+
+【IZONE】投票操作で解散？それとも本当の順位で再編成？SNSの声は
+https://chuumoku.net/izeone-kaisan/
+
+Chapter 7 Monte Carlo Integration | STAT 5361: Statistical Computing, Fall 2019
+https://jun-yan.github.io/stat-5361/mcinteg.html#option-pricing
+
+The Psychology of Greta Thunberg’s Climate Activism - Issue 78: Atmospheres - Nautilus
+http://nautil.us/issue/78/atmospheres/the-psychology-of-greta-thunbergs-climate-activism
+
+Algorithmic Trading with R
+https://rstudio-pubs-static.s3.amazonaws.com/363773_2382648d32f748b2a7549816de5ea377.html
+
+Zero inflated distributions, what are they really? - Cross Validated
+https://stats.stackexchange.com/questions/279273/zero-inflated-distributions-what-are-they-really
+
+mcmc - Metropolis Hastings - Acceptance ratio, proposal and lkelihood - Cross Validated
+https://stats.stackexchange.com/questions/378060/metropolis-hastings-acceptance-ratio-proposal-and-lkelihood
+
+mcmc - Acceptance ratio in Metropolis–Hastings algorithm - Cross Validated
+https://stats.stackexchange.com/questions/27913/acceptance-ratio-in-metropolis-hastings-algorithm
+
+The Metropolis Hastings Algorithm
+https://stephens999.github.io/fiveMinuteStats/MH_intro.html
+
+From Scratch: Bayesian Inference, Markov Chain Monte Carlo and Metropolis Hastings, in python
+https://towardsdatascience.com/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a
+
+外壁の改修工法選定フロー図│
+http://www.asahibond.co.jp/method/flow.html
+
+調査・診断・設計 | 株式会社コンステック
+https://www.constec.co.jp/diagnosis/diagnosis/
+
+調査診断手順 | 株式会社コンステック
+https://www.constec.co.jp/construction/7/
+
+調査診断手順 | 株式会社コンステック
+https://www.constec.co.jp/construction/7/
+
+特殊建築物定期調査 | 株式会社コンステック
+https://www.constec.co.jp/construction/324/
+
+設備調査 | 株式会社コンステック
+https://www.constec.co.jp/construction/603/
+
+各種非破壊検査手法の紹介 | 株式会社コンステック
+https://www.constec.co.jp/construction/89/
+
+Algorithmic Trading in R Tutorial (article) - DataCamp
+https://www.datacamp.com/community/tutorials/r-trading-tutorial
+
+Approximate the option pricing by the crude method r - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNT3LrAVBiF7iLHugBOfM5V3pdWanQ%3A1573635321448&ei=-cTLXaH1Gti-0PEPia6y-As&q=Approximate+the+option+pricing++by+the+crude+method+r&oq=Approximate+the+option+pricing++by+the+crude+method+r&gs_l=psy-ab.3...6551.8529..9168...0.2..0.628.2323.5-4......0....1..gws-wiz.......0i71.7uenhnUL0Z0&ved=0ahUKEwjh1dyy6OblAhVYHzQIHQmXDL8Q4dUDCAo&uact=5
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=91&ved=2ahUKEwir69y46OblAhUgGDQIHREKCsYQFjBaegQIJxAC&url=http%3A%2F%2Fwww.realoptions.org%2Fpapers2008%2FDias%2520Jos_%2520Carlos%2520-%2520DiasNunes%2520perpetualCEV.pdf&usg=AOvVaw0RG58YFRjmZvbNTMvu7NHF
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=91&ved=2ahUKEwir69y46OblAhUgGDQIHREKCsYQFjBaegQIJxAC&url=http%3A%2F%2Fwww.realoptions.org%2Fpapers2008%2FDias%2520Jos_%2520Carlos%2520-%2520DiasNunes%2520perpetualCEV.pdf&usg=AOvVaw0RG58YFRjmZvbNTMvu7NHF
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=100&ved=2ahUKEwir69y46OblAhUgGDQIHREKCsYQFjBjegQIBhAC&url=http%3A%2F%2Fwww.unige.ch%2Fses%2Fdsec%2Fstatic%2Fgilli%2FTeaching%2FNMF-slides.pdf&usg=AOvVaw3eT5ExjST1FBf5QQDRTpRn
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=100&ved=2ahUKEwir69y46OblAhUgGDQIHREKCsYQFjBjegQIBhAC&url=http%3A%2F%2Fwww.unige.ch%2Fses%2Fdsec%2Fstatic%2Fgilli%2FTeaching%2FNMF-slides.pdf&usg=AOvVaw3eT5ExjST1FBf5QQDRTpRn
+
+An Algorithm for Simulating Bermudan Option Prices on Simulated Asset Prices | The Journal of Derivatives
+https://jod.pm-research.com/content/14/4/64
+
+Recovering an Asset's Implied PDF from Option Prices: An Application to Crude Oil during the Gulf Crisis on JSTOR
+https://www.jstor.org/stable/2331318
+
+Recovering an Asset's Implied PDF from Option Prices: An Application to Crude Oil during the Gulf Crisis on JSTOR
+https://www.jstor.org/stable/2331318
+
+Opinion | Ronald Coase has a solution for Delhi’s air pollution
+https://www.livemint.com/opinion/columns/ronald-coase-has-a-solution-for-delhi-s-air-pollution-11573491626858.html
+
+Problem loading page
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4098890/
+
+Problem loading page
+https://www.rbnz.govt.nz/-/media/ReserveBank/Files/Publications/Discussion%20papers/2002/dp02-04.pdf
+
+A Recursive Integration Method for Options Pricing
+https://www.wolframcloud.com/objects/demonstrations/ARecursiveIntegrationMethodForOptionsPricing-source.nb
+
+IZONE解散后成员们的发展会怎么样？ - 知乎
+https://www.zhihu.com/question/341466774
+

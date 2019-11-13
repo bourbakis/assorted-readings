@@ -2818,3 +2818,31 @@ moz-extension://fb998863-cbf1-d242-9c88-c936f8d84b32/pdf/viewer.html
 - [ ] [zero inflated poisson r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTNl-93AY3RhwlUHfoENlTWg6h0Lg:1573565093718&q=zero+inflated+poisson+r&sa=X&ved=2ahUKEwjumsTj4uTlAhVDCqYKHRaNAMEQ1QIoAHoECGUQAQ&cshid=1573565208578334)
 
 - [ ] [zero-inflated poisson regression sas - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS-2p7i8ot0VJqQ6dIWiOWXhD29vw:1573565204618&q=zero-inflated+poisson+regression+sas&sa=X&ved=2ahUKEwj_i7WY4-TlAhVXxIsBHYJGDUoQ1QIoBnoECGQQBw&biw=1920&bih=948)
+
+
+
+
+zero inflated negative binomial r - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQoEFAWlRyadfz7uyc0oJToW9wiJg%3A1573522934834&lei=9g3KXcanMrKu0PEPmceJ-As&q=zero%20inflated%20negative%20binomial%20r&ved=2ahUKEwiOv8jgxePlAhUMJTQIHQ8eCl0QsKwBKAJ6BAgAEAM
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwiMvt3kxePlAhUxNX0KHdylBrIQFjACegQIMBAC&url=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2Fpscl%2Fvignettes%2Fcountreg.pdf&usg=AOvVaw1cLj0rkQ1X5NDg_TKefmG_
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwiMvt3kxePlAhUxNX0KHdylBrIQFjACegQIMBAC&url=https%3A%2F%2Fcran.r-project.org%2Fweb%2Fpackages%2Fpscl%2Fvignettes%2Fcountreg.pdf&usg=AOvVaw1cLj0rkQ1X5NDg_TKefmG_
+
+zero inflated poisson regression python - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNQoEFAWlRyadfz7uyc0oJToW9wiJg%3A1573522934834&lei=9g3KXcanMrKu0PEPmceJ-As&q=zero%20inflated%20poisson%20regression%20python&ved=2ahUKEwiOv8jgxePlAhUMJTQIHQ8eCl0QsKwBKAB6BAgAEAE
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=2ahUKEwjG-s3cxePlAhUyFzQIHZljAr8QFjAGegQICBAC&url=https%3A%2F%2Fwww.otago.ac.nz%2Fripe%2Fotago301201.pdf&usg=AOvVaw3i9tIMrOnucUb6TjzvHBk3
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=2ahUKEwjG-s3cxePlAhUyFzQIHZljAr8QFjAGegQICBAC&url=https%3A%2F%2Fwww.otago.ac.nz%2Fripe%2Fotago301201.pdf&usg=AOvVaw3i9tIMrOnucUb6TjzvHBk3
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=2ahUKEwjG-s3cxePlAhUyFzQIHZljAr8QFjAEegQIERAC&url=https%3A%2F%2Fncss-wpengine.netdna-ssl.com%2Fwp-content%2Fthemes%2Fncss%2Fpdf%2FProcedures%2FNCSS%2FZero-Inflated_Poisson_Regression.pdf&usg=AOvVaw31yQZX8_nHMc9ZG4foinO8
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&ved=2ahUKEwjG-s3cxePlAhUyFzQIHZljAr8QFjAEegQIERAC&url=https%3A%2F%2Fncss-wpengine.netdna-ssl.com%2Fwp-content%2Fthemes%2Fncss%2Fpdf%2FProcedures%2FNCSS%2FZero-Inflated_Poisson_Regression.pdf&usg=AOvVaw31yQZX8_nHMc9ZG4foinO8
+
+Filter charts and tables with Slicers - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Filter+charts+and+tables+with+Slicers
+
+业务流程改进工作 - Google Search
+https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNT61Q8OOsGUbz8W0EgqJVNTWuaGrw%3A1573540889554&ei=GVTKXbC1IYO9-gSj4o7oCA&q=%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E6%94%B9%E8%BF%9B%E5%B7%A5%E4%BD%9C&oq=%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E6%94%B9%E8%BF%9B%E5%B7%A5%E4%BD%9C&gs_l=psy-ab.3...282.1102..3233...0.0..0.1921.4732.7-1j2......0....1..gws-wiz.ShApM7Db-AI&ved=0ahUKEwjwpYvOiOTlAhWDnp4KHSOxA40Q4dUDCAo&uact=5
+
+Metropolis-Hastings MH ratio - Google Search
+https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
+
