@@ -2846,3 +2846,316 @@ https://www.google.com/search?newwindow=1&client=firefox-b-d&sxsrf=ACYBGNT61Q8OO
 Metropolis-Hastings MH ratio - Google Search
 https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
 
+
+
+
+
+
+## 11/13/2019
+
+- [ ] [american monte carlo - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=939&sxsrf=ACYBGNRcBqh54IvceQCd8BKsds_VSlag2A:1573645747771&q=american+monte+carlo&sa=X&ved=2ahUKEwjQ97Cej-flAhUmGqYKHVvUA44Q1QIoB3oECGQQCA)
+
+- [ ] [american option in r - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNRcBqh54IvceQCd8BKsds_VSlag2A%3A1573645747771&lei=s-3LXZDSLqa0mAXbqI_wCA&q=american%20option%20in%20r&ved=2ahUKEwiW-72kj-flAhWXyIsBHS4gAEkQsKwBKAJ6BAgCEAM)
+
+- [ ] [barrier option monte carlo code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQFxYZJ3wekvQEkaP1-RkXw67bQaA%3A1573645733495&lei=pe3LXYTuHYu1mAXcnbH4Bw&q=barrier%20option%20monte%20carlo%20code&ved=2ahUKEwiRnM2Zj-flAhXayYsBHUnbCCsQsKwBKAF6BAgBEAI)
+
+- [ ] [bermudan option pricing - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNTjp485cfX5mkcuhrmfWlR03fV8xw%3A1573645839614&lei=D-7LXa2ZJeiWr7wP3JWysAo&q=bermudan%20option%20pricing&ved=2ahUKEwiRm7rLj-flAhUCyosBHRYxBcYQsKwBKAV6BAgCEAY)
+
+- [ ] [binomial tree option pricing r code - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNRcBqh54IvceQCd8BKsds_VSlag2A%3A1573645747771&lei=s-3LXZDSLqa0mAXbqI_wCA&q=binomial%20tree%20option%20pricing%20r%20code&ved=2ahUKEwiW-72kj-flAhWXyIsBHS4gAEkQsKwBKAN6BAgCEAQ)
+
+- [ ] [data driven markov chain monte carlo - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=data%20driven%20markov%20chain%20monte%20carlo&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAJ6BAgDEAM)
+
+- [ ] [fexoticoptions r - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNRcBqh54IvceQCd8BKsds_VSlag2A%3A1573645747771&lei=s-3LXZDSLqa0mAXbqI_wCA&q=fexoticoptions%20r&ved=2ahUKEwiW-72kj-flAhWXyIsBHS4gAEkQsKwBKAB6BAgCEAE)
+
+- [ ] [gibbs sampling - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=gibbs%20sampling&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAR6BAgCEAU)
+
+- [ ] [hit and run metropolis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=hit%20and%20run%20metropolis&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAF6BAgBEAI)
+
+- [ ] [importance sampling - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMmw6Uuq2NgoOG8M5TjSLOvNcJVg:1573645636370&q=importance+sampling&sa=X&ved=2ahUKEwjwyqHpjuflAhWDLqYKHeKgDGcQ1QIoAXoECGQQAg)
+
+- [ ] [importance sampling multivariate normal - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMmw6Uuq2NgoOG8M5TjSLOvNcJVg:1573645636370&q=importance+sampling+multivariate+normal&sa=X&ved=2ahUKEwjwyqHpjuflAhWDLqYKHeKgDGcQ1QIoAnoECGQQAw)
+
+- [ ] [importance sampling uniform distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMmw6Uuq2NgoOG8M5TjSLOvNcJVg:1573645636370&q=importance+sampling+uniform+distribution&sa=X&ved=2ahUKEwjwyqHpjuflAhWDLqYKHeKgDGcQ1QIoA3oECGQQBA)
+
+- [ ] [least square monte carlo python - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNQcCzL5nut5x6dBMkdlEpxvepukew%3A1573645801242&lei=6e3LXfGnDoevmAWSubO4Bg&q=least%20square%20monte%20carlo%20python&ved=2ahUKEwjW9sjLj-flAhXCLqYKHXbfDBwQsKwBKAF6BAgAEAI)
+
+- [ ] [least squares monte carlo matlab code - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNTjp485cfX5mkcuhrmfWlR03fV8xw%3A1573645839614&lei=D-7LXa2ZJeiWr7wP3JWysAo&q=least%20squares%20monte%20carlo%20matlab%20code&ved=2ahUKEwiRm7rLj-flAhUCyosBHRYxBcYQsKwBKAJ6BAgCEAM)
+
+- [ ] [longstaff model - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNTjp485cfX5mkcuhrmfWlR03fV8xw%3A1573645839614&lei=D-7LXa2ZJeiWr7wP3JWysAo&q=longstaff%20model&ved=2ahUKEwiRm7rLj-flAhUCyosBHRYxBcYQsKwBKAR6BAgCEAU)
+
+- [ ] [longstaff schwartz method - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNTjp485cfX5mkcuhrmfWlR03fV8xw%3A1573645839614&lei=D-7LXa2ZJeiWr7wP3JWysAo&q=longstaff%20schwartz%20method&ved=2ahUKEwiRm7rLj-flAhUCyosBHRYxBcYQsKwBKAB6BAgCEAE)
+
+- [ ] [longstaff schwartz python - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNTjp485cfX5mkcuhrmfWlR03fV8xw%3A1573645839614&lei=D-7LXa2ZJeiWr7wP3JWysAo&q=longstaff%20schwartz%20python&ved=2ahUKEwiRm7rLj-flAhUCyosBHRYxBcYQsKwBKAF6BAgCEAI)
+
+- [ ] [markov chain monte carlo - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=markov%20chain%20monte%20carlo&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAV6BAgAEAY)
+
+- [ ] [mcmc in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=mcmc%20in%20r&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAR6BAgAEAU)
+
+- [ ] [metropolis algorithm original paper - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20algorithm%20original%20paper&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAB6BAgBEAE)
+
+- [ ] [metropolis algorithm python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20algorithm%20python&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAN6BAgCEAQ)
+
+- [ ] [metropolis algorithm video - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20algorithm%20video&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAR6BAgDEAU)
+
+- [ ] [metropolis et al 1953 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20et%20al%201953&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAF6BAgCEAI)
+
+- [ ] [metropolis hastings algorithm in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20algorithm%20in%20r&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAJ6BAgCEAM)
+
+- [ ] [metropolis hastings beta proposal - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w:1573604673968&q=metropolis+hastings+beta+proposal&sa=X&ved=2ahUKEwiG7-6c9uXlAhWQwZQKHcPLDA8Q1QIoA3oECGQQBA)
+
+- [ ] [metropolis hastings beta proposal - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20beta%20proposal&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAN6BAgBEAQ)
+
+- [ ] [metropolis hastings bivariate normal - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20bivariate%20normal&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAB6BAgAEAE)
+
+- [ ] [metropolis hastings covariance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20covariance&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAR6BAgBEAU)
+
+- [ ] [metropolis hastings linear regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20linear%20regression%20in%20r&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAV6BAgBEAY)
+
+- [ ] [metropolis hastings multivariate normal - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20multivariate%20normal&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAN6BAgDEAQ)
+
+- [ ] [metropolis hastings multivariate normal - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20multivariate%20normal&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAJ6BAgBEAM)
+
+- [ ] [metropolis hastings python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20python&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAB6BAgDEAE)
+
+- [ ] [metropolis hastings python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20python&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAN6BAgAEAQ)
+
+- [ ] [metropolis hastings sampler r code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w:1573604673968&q=metropolis+hastings+sampler+r+code&sa=X&ved=2ahUKEwiG7-6c9uXlAhWQwZQKHcPLDA8Q1QIoB3oECGQQCA)
+
+- [ ] [metropolis hastings sampler r code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20sampler%20r%20code&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAJ6BAgAEAM)
+
+- [ ] [metropolis hastings vs gibbs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=metropolis%20hastings%20vs%20gibbs&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAV6BAgDEAY)
+
+- [ ] [metropolis-hastings python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w:1573604673968&q=metropolis-hastings+python&sa=X&ved=2ahUKEwiG7-6c9uXlAhWQwZQKHcPLDA8Q1QIoBXoECGQQBg&biw=1920&bih=948)
+
+- [ ] [monte carlo american option pricing python - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=939&sxsrf=ACYBGNRcBqh54IvceQCd8BKsds_VSlag2A:1573645747771&q=monte+carlo+american+option+pricing+python&sa=X&ved=2ahUKEwjQ97Cej-flAhUmGqYKHVvUA44Q1QIoBnoECGQQBw)
+
+- [ ] [monte carlo methods in finance pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMmw6Uuq2NgoOG8M5TjSLOvNcJVg%3A1573645636370&lei=RO3LXfCYFoPdmAXiwbK4Bg&q=monte%20carlo%20methods%20in%20finance%20pdf&ved=2ahUKEwjY6JHrjuflAhUoyosBHc60BN4QsKwBKAB6BAgBEAE)
+
+- [ ] [monte carlo option pricing python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQFxYZJ3wekvQEkaP1-RkXw67bQaA%3A1573645733495&lei=pe3LXYTuHYu1mAXcnbH4Bw&q=monte%20carlo%20option%20pricing%20python&ved=2ahUKEwiRnM2Zj-flAhXayYsBHUnbCCsQsKwBKAR6BAgBEAU)
+
+- [ ] [monte carlo option pricing python - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNQcCzL5nut5x6dBMkdlEpxvepukew%3A1573645801242&lei=6e3LXfGnDoevmAWSubO4Bg&q=monte%20carlo%20option%20pricing%20python&ved=2ahUKEwjW9sjLj-flAhXCLqYKHXbfDBwQsKwBKAB6BAgAEAE)
+
+- [ ] [monte carlo option pricing python code - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=939&sxsrf=ACYBGNRcBqh54IvceQCd8BKsds_VSlag2A:1573645747771&q=monte+carlo+option+pricing+python+code&sa=X&ved=2ahUKEwjQ97Cej-flAhUmGqYKHVvUA44Q1QIoBXoECGQQBg)
+
+- [ ] [monte carlo option pricing r - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=939&sxsrf=ACYBGNRcBqh54IvceQCd8BKsds_VSlag2A:1573645747771&q=monte+carlo+option+pricing+r&sa=X&ved=2ahUKEwjQ97Cej-flAhUmGqYKHVvUA44Q1QIoA3oECGQQBA)
+
+- [ ] [monte carlo pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMmw6Uuq2NgoOG8M5TjSLOvNcJVg%3A1573645636370&lei=RO3LXfCYFoPdmAXiwbK4Bg&q=monte%20carlo%20pdf&ved=2ahUKEwjY6JHrjuflAhUoyosBHc60BN4QsKwBKAJ6BAgBEAM)
+
+- [ ] [monte carlo price simulation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQFxYZJ3wekvQEkaP1-RkXw67bQaA%3A1573645733495&lei=pe3LXYTuHYu1mAXcnbH4Bw&q=monte%20carlo%20price%20simulation&ved=2ahUKEwiRnM2Zj-flAhXayYsBHUnbCCsQsKwBKAN6BAgBEAQ)
+
+- [ ] [monte carlo simulation finance example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMmw6Uuq2NgoOG8M5TjSLOvNcJVg%3A1573645636370&lei=RO3LXfCYFoPdmAXiwbK4Bg&q=monte%20carlo%20simulation%20finance%20example&ved=2ahUKEwjY6JHrjuflAhUoyosBHc60BN4QsKwBKAF6BAgBEAI)
+
+- [ ] [monte carlo valuation for performance shares - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNQcCzL5nut5x6dBMkdlEpxvepukew%3A1573645801242&lei=6e3LXfGnDoevmAWSubO4Bg&q=monte%20carlo%20valuation%20for%20performance%20shares&ved=2ahUKEwjW9sjLj-flAhXCLqYKHXbfDBwQsKwBKAV6BAgAEAY)
+
+- [ ] [option pricing in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQFxYZJ3wekvQEkaP1-RkXw67bQaA%3A1573645733495&lei=pe3LXYTuHYu1mAXcnbH4Bw&q=option%20pricing%20in%20r&ved=2ahUKEwiRnM2Zj-flAhXayYsBHUnbCCsQsKwBKAJ6BAgBEAM)
+
+- [ ] [option pricing using monte carlo simulation excel - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=939&sxsrf=ACYBGNRcBqh54IvceQCd8BKsds_VSlag2A:1573645747771&q=option+pricing+using+monte+carlo+simulation+excel&sa=X&ved=2ahUKEwjQ97Cej-flAhUmGqYKHVvUA44Q1QIoAHoECGQQAQ)
+
+- [ ] [option pricing using r - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNRcBqh54IvceQCd8BKsds_VSlag2A%3A1573645747771&lei=s-3LXZDSLqa0mAXbqI_wCA&q=option%20pricing%20using%20r&ved=2ahUKEwiW-72kj-flAhWXyIsBHS4gAEkQsKwBKAF6BAgCEAI)
+
+- [ ] [random walk metropolis hastings algorithm in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w:1573604673968&q=random+walk+metropolis+hastings+algorithm+in+r&sa=X&ved=2ahUKEwiG7-6c9uXlAhWQwZQKHcPLDA8Q1QIoBHoECGQQBQ)
+
+- [ ] [regression later - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNTjp485cfX5mkcuhrmfWlR03fV8xw%3A1573645839614&lei=D-7LXa2ZJeiWr7wP3JWysAo&q=regression%20later&ved=2ahUKEwiRm7rLj-flAhUCyosBHRYxBcYQsKwBKAN6BAgCEAQ)
+
+- [ ] [simulated annealing - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w%3A1573604673968&lei=QU3LXcbKOpCD0wTDl7N4&q=simulated%20annealing&ved=2ahUKEwivovKd9uXlAhVpG6YKHVemBooQsKwBKAV6BAgCEAY)
+
+- [ ] [simulation for option pricing - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQFxYZJ3wekvQEkaP1-RkXw67bQaA%3A1573645733495&lei=pe3LXYTuHYu1mAXcnbH4Bw&q=simulation%20for%20option%20pricing&ved=2ahUKEwiRnM2Zj-flAhXayYsBHUnbCCsQsKwBKAB6BAgBEAE)
+
+- [ ] [stratified sampling monte carlo - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSMmw6Uuq2NgoOG8M5TjSLOvNcJVg:1573645636370&q=stratified+sampling+monte+carlo&sa=X&ved=2ahUKEwjwyqHpjuflAhWDLqYKHeKgDGcQ1QIoAHoECGQQAQ)
+
+- [ ] [suppose that q pi show that the acceptance rate of the metropolis hastings sampler is 1 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w:1573604673968&q=suppose+that+q+pi+show+that+the+acceptance+rate+of+the+metropolis+hastings+sampler+is+1&sa=X&ved=2ahUKEwiG7-6c9uXlAhWQwZQKHcPLDA8Q1QIoBnoECGQQBw)
+
+- [ ] [understanding the metropolis-hastings algorithm - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR9rjfZaa2QnRkDvRTKDf-Hkflc5w:1573604673968&q=understanding+the+metropolis-hastings+algorithm&sa=X&ved=2ahUKEwiG7-6c9uXlAhWQwZQKHcPLDA8Q1QIoAnoECGQQAw&biw=1920&bih=948)
+
+
+
+
+## 11/14/2019
+
+- [ ] [「Dlife」が放送終了へ みなさんの反応 - Google Search](https://www.google.com/search?q=%E3%80%8CDlife%E3%80%8D%E3%81%8C%E6%94%BE%E9%80%81%E7%B5%82%E4%BA%86%E3%81%B8+%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%AE%E5%8F%8D%E5%BF%9C&oq=%E3%80%8CDlife%E3%80%8D%E3%81%8C%E6%94%BE%E9%80%81%E7%B5%82%E4%BA%86%E3%81%B8+%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%E3%81%AE%E5%8F%8D%E5%BF%9C&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [A Probabilistic Theory of Pattern Recognition - Google Search](https://www.google.com/search?q=A+Probabilistic+Theory+of+Pattern+Recognition&oq=A+Probabilistic+Theory+of+Pattern+Recognition&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Alexander Lerner - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=Alexander+Lerner&stick=H4sIAAAAAAAAAOPgE-LUz9U3MEwpTipU4gIxjXNNswtStNQyyq30k_NzclKTSzLz8_QLUvMLclKtUvKTS_KLEnMUElPKMovzixaxCjjmpFYk5qWkFin4pBblpRYBAMZhS0dUAAAA&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4QmxMoATB0egQIaRAS)
+
+- [ ] [Alexey Chervonenkis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=Alexey+Chervonenkis&stick=H4sIAAAAAAAAAONgFuLUz9U3MEwpTipUgjCLM4oqtPgCUouK8_OCM1NSyxMrixexCjvmpFakVio4Z6QWleXnpeZlZxbvYGUEAAGW7SJBAAAA&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4QxA0weXoECGcQBA)
+
+- [ ] [alexey chervonenkis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=alexey+chervonenkis&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4Q1QIoBXoECGoQBg)
+
+- [ ] [Alvin Kibel - Google Search](https://www.google.com/search?q=Alvin+Kibel&oq=Alvin+Kibel&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Amir Dembo - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTkTbiQ7AxeC1pPlkHsbfFiwJuIPA:1573736348630&q=Amir+Dembo&stick=H4sIAAAAAAAAAONgFuLRT9c3NCyzTMrNSk9X4tLP1TdIyshNNsnS4nPOz83NzwvOTEktT6wsXsTK5ZibWaTgkpqblL-DlREAxNaSODwAAAA&sa=X&ved=2ahUKEwjAo57g4OnlAhVGyIsBHaTSA7MQxA0wdnoECGQQBA)
+
+- [ ] [Ana Cannas da Silva - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRY3JjK7AYwYzzk6xWr937YdaByTg:1573729759952&q=Ana+Cannas+da+Silva&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-IBc-Mrc02LTAy1-Jzzc3Pz84IzU1LLEyuLF7EKO-YlKjgn5uUlFiukJCoEZ-aUJe5gZQQAQUA2wEgAAAA&sa=X&ved=2ahUKEwiLxMGayOnlAhVOy4sBHfe0CXoQxA0wa3oECFkQDA)
+
+- [ ] [Analysis and Geometry of Markov Diffusion Operators - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTyxIAUht7CjPbsEJFtrUfdapaScg:1573730379563&q=Analysis+and+Geometry+of+Markov+Diffusion+Operators&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYpsCw3VOLRT9c3zMiItzQ1SSrREstOttJPys_PBhNWxZkpqeWJlcWrGGXSrJKLUhNL8ousQDLFViBtRkaGJnllJdmLWI0d8xJzKoszixUS81IU3FPzc1NLiioV8tMUfBOLsvPLFFwy09JKizPz8xT8C1KLQOYUAwA7q6_PiQAAAA&sa=X&ved=2ahUKEwj9yvvByunlAhWJyIsBHY_aAwEQxA0wZHoECGcQBg)
+
+- [ ] [anderson-darling - Google Search](https://www.google.com/search?q=anderson-darling&oq=Anderson-Darling&aqs=chrome.0.0l8.1070j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Compressible Flow Propulsion and Digital Approaches in Fluid Mechanics Michel Ledoux - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTyxIAUht7CjPbsEJFtrUfdapaScg:1573730379563&q=Compressible+Flow+Propulsion+and+Digital+Approaches+in+Fluid+Mechanics+Michel+Ledoux&stick=H4sIAAAAAAAAAB2LsQrCMBQAERFEcHFwcng4usSULmYTxcmCg7vEJG0fTfNC0tr6O45-pa3LLXc3n64WrGZ7lfpDx7dLVjDOFe9d2uWP3bpSgj2Jqj9ERG06-Y7fySYXKhjZUBCjiWL8koSn7tVUn9n9RLUPJkZ8WgMXSx3cAvnWRiQH0mk4Y4GNtHD0PpBUpYmAbihb1JAZVUqHKkKGg7FwNZra_gffDxT2qwAAAA&sa=X&ved=2ahUKEwj9yvvByunlAhWJyIsBHY_aAwEQxA0wZHoECGcQCA)
+
+- [ ] [Concentration of Measure and Isoperimetric Inequalities in Product Spaces - Google Search](https://www.google.com/search?q=Concentration+of+Measure+and+Isoperimetric+Inequalities+in+Product+Spaces&oq=Concentration+of+Measure+and+Isoperimetric+Inequalities+in+Product+Spaces&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Corinna Cortes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=Corinna+Cortes&stick=H4sIAAAAAAAAAONgFuLUz9U3MEwpTipU4gIxMzLKk5KKtfgCUouK8_OCM1NSyxMrixex8jnnF2Xm5SUqAOmS1OIdrIwA63U8Wz0AAAA&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4QxA0weXoECGcQBg)
+
+- [ ] [cuckoo search - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ29epDVV2_-XuY0nWVevdlttP1Xg:1573736802791&q=cuckoo+search&sa=X&ved=2ahUKEwi5pOa44unlAhWRHqYKHUSoC_8Q1QIoBXoECC4QBg&biw=958&bih=919)
+
+- [ ] [Cuckoo search (CS algorithm - Google Search](https://www.google.com/search?q=Cuckoo+search+(CS+algorithm&oq=Cuckoo+search+(CS+algorithm&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [cuckoo算法 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ29epDVV2_-XuY0nWVevdlttP1Xg:1573736802791&q=cuckoo%E7%AE%97%E6%B3%95&sa=X&ved=2ahUKEwi5pOa44unlAhWRHqYKHUSoC_8Q1QIoB3oECC4QCA&biw=958&bih=919)
+
+- [ ] [Dmitry Panchenko - Google Search](https://www.google.com/search?q=Dmitry+Panchenko&oq=Dmitry+Panchenko&aqs=chrome..69i57l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Dmitry Panchenko - Google Search](https://www.google.com/search?q=Dmitry+Panchenko&oq=Dmitry+Panchenko&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [E.S.W. Shiu - Google Search](https://www.google.com/search?q=E.S.W.+Shiu&oq=E.S.W.+Shiu&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Ekrem İmamoğlu - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRY3JjK7AYwYzzk6xWr937YdaByTg:1573729759952&q=Ekrem+%C4%B0mamo%C4%9Flu&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV4Jwk8pNKtINsqq0-Jzzc3Pz84IzU1LLEyuLF7EKuGYXpeYqHNmQm5ibf2R-TukOVkYA-PQ90kYAAAA&sa=X&ved=2ahUKEwiLxMGayOnlAhVOy4sBHfe0CXoQxA0wa3oECFkQBg)
+
+- [ ] [Estimation of Dependences Based on Empirical Data - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=Estimation+of+Dependences+Based+on+Empirical+Data&stick=H4sIAAAAAAAAAONgFuLUz9U3MEwpTipU4tFP1zc0NAFystPLtAQcS0sy8otC8p3y87P983IqF7EauhaXZOYmlmTm5ynkpym4pBak5qWk5iWnFis4JRanpigAxV1zCzKLMpMTcxRcEksSd7AyAgD-BDAqZAAAAA&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4QxA0wdnoECGgQCA)
+
+- [ ] [Financial Modeling, Actuarial Valuation and Solvency in Insurance Mario V. Wüthrich - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRY3JjK7AYwYzzk6xWr937YdaByTg:1573729759952&q=Financial+Modeling,+Actuarial+Valuation+and+Solvency+in+Insurance+Mario+V.+W%C3%BCthrich&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-IBcY2S8kxLUgottQQcS0sy8otC8p3y87P983IqF7GGuGXmJeYlZybmKPjmp6TmZOal6yg4JpeUJhaBxMISc0oTSzLz8xQS81IUgvNzylLzkisVMvMUPPOKS4uAOlMVfIFK8xXC9BTCD-8pySjKTM7YwcoIAEa5y5OLAAAA&sa=X&ved=2ahUKEwiLxMGayOnlAhVOy4sBHfe0CXoQxA0wanoECFcQBg)
+
+- [ ] [Fluid Mechanics: Analytical Methods Michel Ledoux - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTyxIAUht7CjPbsEJFtrUfdapaScg:1573730379563&q=Fluid+Mechanics:+Analytical+Methods+Michel+Ledoux&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYpsCw3VOLVT9c3NExJqUwpyDM30BLLTrbST8rPzwYTVsWZKanliZXFqxhl0qySi1ITS_KLrEAyxVYgfUZGhiZ5ZSXZi1gN3XJKM1MUfFOTMxLzMpOLrRQc8xJzKksykxNzgKIlGfkpxQq-mckZqTkKPqkp-aUVAOMd8GSIAAAA&sa=X&ved=2ahUKEwj9yvvByunlAhWJyIsBHY_aAwEQxA0wZHoECGcQDA)
+
+- [ ] [Halil Mete Soner - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRY3JjK7AYwYzzk6xWr937YdaByTg:1573729759952&q=Halil+Mete+Soner&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-LUz9U3MDVIssjR4nPOz83NzwvOTEktT6wsXsQq4JGYk5mj4JtakqoQnJ-XWrSDlREA86xXaUIAAAA&sa=X&ved=2ahUKEwiLxMGayOnlAhVOy4sBHfe0CXoQxA0wa3oECFkQCg)
+
+- [ ] [howt to enumierate plots adn figures automatticaly in rmd odf - Google Search](https://www.google.com/search?q=howt+to+enumierate+plots+adn+figures+automatticaly+in+rmd+odf&oq=howt+to+enumierate+plots++adn+figures+automatticaly+in+rmd+odf&aqs=chrome..69i57.21427j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Josef Teichmann - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRY3JjK7AYwYzzk6xWr937YdaByTg:1573729759952&q=Josef+Teichmann&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-LSz9U3SK8sMUtJ0uJzzs_Nzc8LzkxJLU-sLF7Eyu-VX5yaphCSmpmckZuYl7eDlREAMQl_10IAAAA&sa=X&ved=2ahUKEwiLxMGayOnlAhVOy4sBHfe0CXoQxA0wa3oECFkQBA)
+
+- [ ] [Klaus-Robert Müller - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=Klaus-Robert+M%C3%BCller&stick=H4sIAAAAAAAAAONgFuLUz9U3MEwpTipU4tVP1zc0TC6KT0mKL7DQ4gtILSrOzwvOTEktT6wsXsQq4p2TWFqsG5SflFpUouB7eE9OTmrRDlZGALP5HQVGAAAA&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4QxA0weXoECGcQCA)
+
+- [ ] [Kolmogorov Smirnoff tes - Google Search](https://www.google.com/search?q=Kolmogorov+Smirnoff+tes&oq=Kolmogorov+Smirnoff+tes&aqs=chrome..69i57j0l7.793j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Lectures on Probability Theory and Statistics: Ecole D' Ete de Probabilites de St. Flour XXIV - 1994 Michel Ledoux - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTyxIAUht7CjPbsEJFtrUfdapaScg:1573730379563&q=Lectures+on+Probability+Theory+and+Statistics:+Ecole+D%27+Ete+de+Probabilites+de+St.+Flour+XXIV+-+1994+Michel+Ledoux&stick=H4sIAAAAAAAAAE2MuwrCQBBFERFErCysLAYbQdA1GoRsrYKgICiSdrMZzZqYkd2JMb9j6Vf6qGwuHA7nNuudlriKifZvQen12-IsvORyns30vBx2Uy1FRJT-RjoTY6kq96r1TlJbVExWfo2T32w69fz8zumzYTeoubDogHLYWYpUZDLDFRwSJFuBymPYs2Lj2GgnYakpQ1gMYMkIMf4ln4sP73kMq4wKC2G4PsIIvCDwYWt0ghlsMKbi8Qbc18qryAAAAA&sa=X&ved=2ahUKEwj9yvvByunlAhWJyIsBHY_aAwEQxA0wZHoECGcQEA)
+
+- [ ] [levy飞行 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ29epDVV2_-XuY0nWVevdlttP1Xg:1573736802791&q=levy%E9%A3%9E%E8%A1%8C&sa=X&ved=2ahUKEwi5pOa44unlAhWRHqYKHUSoC_8Q1QIoA3oECC4QBA)
+
+- [ ] [Lundberg - Google Search](https://www.google.com/search?q=Lundberg&oq=Lundberg&aqs=chrome..69i57j69i65&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Market-Consistent Actuarial Valuation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRY3JjK7AYwYzzk6xWr937YdaByTg:1573729759952&q=Market-Consistent+Actuarial+Valuation&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-IBcY2S8griTQ0MtQQcS0sy8otC8p3y87P983IqF7Gq-iYWZaeW6Drn5xVnFpek5pUoOCaXlCYWZSbmKIQl5pQmlmTm5-1gZQQA7jSUBFwAAAA&sa=X&ved=2ahUKEwiLxMGayOnlAhVOy4sBHfe0CXoQxA0wanoECFcQBA)
+
+- [ ] [Markov Semigroups at Saint-Flour Michel Ledoux - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTyxIAUht7CjPbsEJFtrUfdapaScg:1573730379563&q=Markov+Semigroups+at+Saint-Flour+Michel+Ledoux&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYpsCw3VOLRT9c3NErKSzauSDPUEstOttJPys_PBhNWxZkpqeWJlcWrGGXSrJKLUhNL8ousQDLFVmBtRoYmeWUl2YtY9XwTi7LzyxSCU3Mz04vySwuKFRJLFIITM_NKdN1y8kuLFHwzkzNScxR8UlPySysA4fg1H4QAAAA&sa=X&ved=2ahUKEwj9yvvByunlAhWJyIsBHY_aAwEQxA0wZHoECGcQCg)
+
+- [ ] [Martin Schweizer - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRY3JjK7AYwYzzk6xWr937YdaByTg:1573729759952&q=Martin+Schweizer&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV4Jwk8yKyypM0k20-Jzzc3Pz84IzU1LLEyuLF7EK-CYWlWTmKQQnZ5SnZlalFu1gZQQAVA06UUYAAAA&sa=X&ved=2ahUKEwiLxMGayOnlAhVOy4sBHfe0CXoQxA0wa3oECFkQCA)
+
+- [ ] [mle for lognormal distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSoGHPMYvMLzpB0rauQbYBLVE2CrA%3A1573689426019&ei=UpjMXcdaxayYBaTQrvAO&q=mle+for+lognormal+distribution&oq=mle+for+lognormal+distribution&gs_l=psy-ab.3..0j0i333l2.2792.3157..3674...0.2..0.111.312.1j2......0....1..gws-wiz.......0i71j0i13.xbKRK9Jsg98&ved=0ahUKEwjHy-X5sejlAhVFFqYKHSSoC-4Q4dUDCAs&uact=5)
+
+- [ ] [Neural Network Learning: Theoretical Foundations - Google Search](https://www.google.com/search?q=Neural+Network+Learning%3A+Theoretical+Foundations&oq=Neural+Network+Learning%3A+Theoretical+Foundations&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Noel Jackson - Google Search](https://www.google.com/search?q=Noel+Jackson&oq=Noel+Jackson&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Non-Life Insurance: Mathematics & Statistics - Google Search](https://www.google.com/search?q=Non-Life+Insurance%3A+Mathematics+%26+Statistics&oq=Non-Life+Insurance%3A+Mathematics+%26+Statistics&aqs=chrome..69i57.1215j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Paris Kanellakis Award - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=Paris+Kanellakis+Award&stick=H4sIAAAAAAAAAOPgE-LUz9U3MEwpTipUAjMtMsyLq7Rks5Ot9BPLE4tSIGR8eWZeXmqRFZhTvIhVLCCxKLNYwTsxLzUnJzEbyHQEyQAAFqSAFlAAAAA&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4QmxMoATB1egQIaRAW)
+
+- [ ] [Peter Kempthorne - Google Search](https://www.google.com/search?q=Peter+Kempthorne&oq=Peter+Kempthorne&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Pollaczek-Khinchin formul - Google Search](https://www.google.com/search?q=Pollaczek-Khinchin+formul&oq=Pollaczek-Khinchin+formul&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Probability in Banach spaces - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTyxIAUht7CjPbsEJFtrUfdapaScg:1573730379563&q=Probability+in+Banach+spaces&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYpsCw3VEJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriRawyAUX5SYlJmTmZJZUKmXkKTol5ickZCsUFicmpxTtYGQEywnRHVAAAAA&sa=X&ved=2ahUKEwj9yvvByunlAhWJyIsBHY_aAwEQzTooATBzegQIbBAC)
+
+- [ ] [Probability in Banach Spaces: Isoperimetry and Processes - Google Search](https://www.google.com/search?q=Probability+in+Banach+Spaces%3A+Isoperimetry+and+Processes&oq=Probability+in+Banach+Spaces%3A+Isoperimetry+and+Processes&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [python的布谷鸟算法会吗 - Google Search](https://www.google.com/search?q=python%E7%9A%84%E5%B8%83%E8%B0%B7%E9%B8%9F%E7%AE%97%E6%B3%95%E4%BC%9A%E5%90%97&oq=python%E7%9A%84%E5%B8%83%E8%B0%B7%E9%B8%9F%E7%AE%97%E6%B3%95%E4%BC%9A%E5%90%97&aqs=chrome..69i57.669j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Random Structures and Algorithms - Google Search](https://www.google.com/search?q=Random+Structures+and+Algorithms&oq=Random+Structures+and+Algorithms&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [rethinking statistical learning theory: learning using statistical invariants - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=rethinking+statistical+learning+theory:+learning+using+statistical+invariants&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4Q1QIoBHoECGoQBQ)
+
+- [ ] [Rick Durrett - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTkTbiQ7AxeC1pPlkHsbfFiwJuIPA:1573736348630&q=Rick+Durrett&stick=H4sIAAAAAAAAAONgFuLRT9c3NCyzTMrNSk9X4tLP1TcwTi8zNy_S4nPOz83NzwvOTEktT6wsXsTKE5SZnK3gUlpUlFpSsoOVEQC46PchPgAAAA&sa=X&ved=2ahUKEwjAo57g4OnlAhVGyIsBHaTSA7MQxA0wdnoECGQQCA)
+
+- [ ] [rmd 如何给图片自动编号 - Google Search](https://www.google.com/search?q=rmd+%E5%A6%82%E4%BD%95%E7%BB%99%E5%9B%BE%E7%89%87%E8%87%AA%E5%8A%A8%E7%BC%96%E5%8F%B7&oq=rmd+%E5%A6%82%E4%BD%95%E7%BB%99%E5%9B%BE%E7%89%87%E8%87%AA%E5%8A%A8%E7%BC%96%E5%8F%B7+&aqs=chrome..69i57.21971j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [S. R. Srinivasa Varadhan - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTkTbiQ7AxeC1pPlkHsbfFiwJuIPA:1573736348630&q=S.+R.+Srinivasa+Varadhan&stick=H4sIAAAAAAAAAONgFuLRT9c3NCyzTMrNSk9X4tLP1TcwKsgtLKrS4nPOz83NzwvOTEktT6wsXsQqEaynEKSnEFyUmZdZllicqBCWWJSYkpGYt4OVEQDH7IpLSgAAAA&sa=X&ved=2ahUKEwjAo57g4OnlAhVGyIsBHaTSA7MQxA0wdnoECGQQBg)
+
+- [ ] [Shun'ichi Amari - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=Shun%27ichi+Amari&stick=H4sIAAAAAAAAAONgFuLUz9U3MEwpTipU4gIxzcqNioritfgCUouK8_OCM1NSyxMrixex8gdnlOapZyZnZCo45iYWZe5gZQQA44GxYz4AAAA&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4QxA0weXoECGcQCg)
+
+- [ ] [Statistical Learning Theory Vladimir Vapnik - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=Statistical+Learning+Theory+Vladimir+Vapnik&stick=H4sIAAAAAAAAAONgFuLUz9U3MEwpTipU4tFP1zc0SsozzjIuz9YScCwtycgvCsl3ys_P9s_LqVzEqh1ckliSWVySmZyYo-CTmliUl5mXrhCSkZpfVKkQlpOYkpmbWaQQlliQl5m9g5URAL4lsWxeAAAA&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4QxA0wdnoECGgQBg)
+
+- [ ] [statistical learning theory vladimir vapnik - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=statistical+learning+theory+vladimir+vapnik&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4Q1QIoAXoECGoQAg&biw=1920&bih=899)
+
+- [ ] [statistical learning theory vladimir vapnik - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=statistical+learning+theory+vladimir+vapnik&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4Q1QIoAXoECGoQAg&biw=1920&bih=899)
+
+- [ ] [Statistics for Applications mit youtube - Google Search](https://www.google.com/search?q=Statistics+for+Applications+mit+youtube&oq=Statistics+for+Applications+mit+youtube&aqs=chrome..69i57j69i64.3427j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Stochastic Claims Reserving Methods in Insurance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRY3JjK7AYwYzzk6xWr937YdaByTg:1573729759952&q=Stochastic+Claims+Reserving+Methods+in+Insurance&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-IBcY2ScjPKTM3StQQcS0sy8otC8p3y87P983IqF7EaBJfkJ2ckFpdkJis45yRm5hYrBKUWpxaVZealK_imApWnFCtk5il45hWXFiXmJafuYGUEAGiv2tRnAAAA&sa=X&ved=2ahUKEwiLxMGayOnlAhVOy4sBHfe0CXoQxA0wanoECFcQCA)
+
+- [ ] [Stochastic process books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTyxIAUht7CjPbsEJFtrUfdapaScg:1573730379563&q=Stochastic+process+books&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYpsCw3VEJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriVYwSaVbFpUlZqcklViCZYiuwprKS8kWsEsEl-ckZicUlmckKBUX5yanFxQpgNQDbSUf9aAAAAA&sa=X&ved=2ahUKEwj9yvvByunlAhWJyIsBHY_aAwEQzTooADBlegQIZhAC)
+
+- [ ] [support-vector clustering algorithm - Google Search](https://www.google.com/search?q=support-vector+clustering+algorithm&oq=support-vector+clustering+algorithm&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [the co-inventor of the support-vector machine method - Google Search](https://www.google.com/search?q=the+co-inventor+of+the+support-vector+machine+method&oq=the+co-inventor+of+the+support-vector+machine+method&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The concentration of measure phenomenon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTyxIAUht7CjPbsEJFtrUfdapaScg:1573730379563&q=The+concentration+of+measure+phenomenon&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYpsCw3VIKzyyq1xLKTrfST8vOzwYRVcWZKanliZfEqRpk0q-Si1MSS_CIrkEyxlX66vqGRkaFJXllJ9iJW9ZCMVIXk_Lzk1LySosSSzPw8hfw0hdzUxOLSolSFgozUvPxcIM4DACGFm3F7AAAA&sa=X&ved=2ahUKEwj9yvvByunlAhWJyIsBHY_aAwEQxA0wZHoECGcQBA)
+
+- [ ] [The Nature of Statistical Learning Theory - Google Search](https://www.google.com/search?q=The+Nature+of+Statistical+Learning+Theory&oq=The+Nature+of+Statistical+Learning+Theory&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The Nature of Statistical Learning Theory - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=The+Nature+of+Statistical+Learning+Theory&stick=H4sIAAAAAAAAAONgFuLUz9U3MEwpTipU4gIx0ysti-IttAQcS0sy8otC8p3y87P983IqF7FqhmSkKvgllpQWpSrkpykElySWZBaXZCYn5ij4pCYW5WXmpSsAleQXVe5gZQQAaZci3VoAAAA&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4QxA0wdnoECGgQBA)
+
+- [ ] [Vagif Guliyev books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTy-ngDPPnDQd9V_4SHNBykxm3EuQ%3A1573733818075&ei=ukXNXdWIBI340gTr8LbgDA&q=Vagif+Guliyev+books&oq=Vagif+Guliyev+books&gs_l=psy-ab.3..33i160.243856.245452..245653...0.0..0.167.753.0j6......0....1..gws-wiz.......0i22i30.1UcO2FpTsWc&ved=0ahUKEwjVzcmp1-nlAhUNvJQKHWu4DcwQ4dUDCAs&uact=5)
+
+- [ ] [vapnik svm - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=vapnik+svm&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4Q1QIoA3oECGoQBA)
+
+- [ ] [Vapnik–Chervonenkis theory of statistical learning - Google Search](https://www.google.com/search?q=Vapnik%E2%80%93Chervonenkis+theory+of+statistical+learning&oq=Vapnik%E2%80%93Chervonenkis+theory+of+statistical+learning&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Vapnik, Vladimir Naumovich - Google Search](https://www.google.com/search?q=Vapnik%2C+Vladimir+Naumovich&oq=Vapnik%2C+Vladimir+Naumovich&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [vladimir vapnik - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=vladimir+vapnik&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4Q1QIoAHoECGoQAQ)
+
+- [ ] [vladimir vapnik google scholar - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=vladimir+vapnik+google+scholar&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4Q1QIoAnoECGoQAw)
+
+- [ ] [vladimir vapnik google scholar - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZVzgF24tezaB6QsCwdKXmoR4_iw:1573730371559&q=vladimir+vapnik+google+scholar&sa=X&ved=2ahUKEwiJjpO-yunlAhXwDaYKHelkDd4Q1QIoAnoECGoQAw)
+
+- [ ] [Weak Convergence and Empirical Processes: With Applications to Statistics - Google Search](https://www.google.com/search?q=Weak+Convergence+and+Empirical+Processes%3A+With+Applications+to+Statistics&oq=Weak+Convergence+and+Empirical+Processes%3A+With+Applications+to+Statistics&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Shankar Raman - Google Search](https://www.google.com/search?q=Shankar+Raman&oq=Shankar+Raman&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_TYVjPQjN1OaxhQEQtLnbdlHFZA%3A1573736475212&lei=G1DNXb_CDIekmAWr2ZTgDg&q=support%20vector%20clustering%20python&ved=2ahUKEwiJl7Oe4enlAhUnGqYKHUalAAsQsKwBKAB6BAgBEAE)
+
+- [ ] [support vector clustering matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_TYVjPQjN1OaxhQEQtLnbdlHFZA%3A1573736475212&lei=G1DNXb_CDIekmAWr2ZTgDg&q=support%20vector%20clustering%20matlab&ved=2ahUKEwiJl7Oe4enlAhUnGqYKHUalAAsQsKwBKAN6BAgBEAQ)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_TYVjPQjN1OaxhQEQtLnbdlHFZA%3A1573736475212&lei=G1DNXb_CDIekmAWr2ZTgDg&q=unsupervised%20svm&ved=2ahUKEwiJl7Oe4enlAhUnGqYKHUalAAsQsKwBKAR6BAgBEAU)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_TYVjPQjN1OaxhQEQtLnbdlHFZA%3A1573736475212&lei=G1DNXb_CDIekmAWr2ZTgDg&q=w%20clf%20coef_%200&ved=2ahUKEwiJl7Oe4enlAhUnGqYKHUalAAsQsKwBKAV6BAgBEAY)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_TYVjPQjN1OaxhQEQtLnbdlHFZA%3A1573736475212&lei=G1DNXb_CDIekmAWr2ZTgDg&q=difference%20between%20svc%20and%20svm&ved=2ahUKEwiJl7Oe4enlAhUnGqYKHUalAAsQsKwBKAF6BAgBEAI)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_TYVjPQjN1OaxhQEQtLnbdlHFZA%3A1573736475212&lei=G1DNXb_CDIekmAWr2ZTgDg&q=nusvc%20vs%20svc&ved=2ahUKEwiJl7Oe4enlAhUnGqYKHUalAAsQsKwBKAJ6BAgBEAM)
+
+- [ ] [www.google.com](https://www.google.com/search?q=sbc+criterion&oq=SBC+criterion&aqs=chrome.0.0l5.720j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [布谷鸟搜索算法 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ29epDVV2_-XuY0nWVevdlttP1Xg:1573736802791&q=%E5%B8%83%E8%B0%B7%E9%B8%9F%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95&sa=X&ved=2ahUKEwi5pOa44unlAhWRHqYKHUSoC_8Q1QIoAHoECC4QAQ&biw=958&bih=919)
+
+- [ ] [布谷鸟过滤器 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ29epDVV2_-XuY0nWVevdlttP1Xg:1573736802791&q=%E5%B8%83%E8%B0%B7%E9%B8%9F%E8%BF%87%E6%BB%A4%E5%99%A8&sa=X&ved=2ahUKEwi5pOa44unlAhWRHqYKHUSoC_8Q1QIoBHoECC4QBQ&biw=958&bih=919)
+
+
+
+
+
+
+
+
+
+## 11/14/2019
+
+- [ ] ["High Quality Document Image Compression with DjVu - Google Search](https://www.google.com/search?q=%22High+Quality+Document+Image+Compression+with+DjVu&oq=%22High+Quality+Document+Image+Compression+with+DjVu&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Diederik P. Kingma - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS6mHiBbfgwGBH3p5ddW2s9G_GlHw:1573738103061&q=Diederik+P.+Kingma&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyqKjEuzKswVYJwUypyzCszDOK1-Jzzc3Pz84IzU1LLEyuLF7EKuWSmpqQWZWYrBOgpeGfmpecm7mBlBADwRTizSAAAAA&sa=X&ved=2ahUKEwjuyuik5-nlAhUcy4sBHQVnBPgQxA0wfnoECGsQCg)
+
+- [ ] [Estimation of Dependences Based on Empirical Data - Google Search](https://www.google.com/search?q=Estimation+of+Dependences+Based+on+Empirical+Data&oq=Estimation+of+Dependences+Based+on+Empirical+Data&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Honglak Lee - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS6mHiBbfgwGBH3p5ddW2s9G_GlHw:1573738103061&q=Honglak+Lee&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyqKjEuzKswVYJwk03jDbIKTS21-Jzzc3Pz84IzU1LLEyuLF7Fye-TnpeckZiv4pKbuYGUEAARUDSdBAAAA&sa=X&ved=2ahUKEwjuyuik5-nlAhUcy4sBHQVnBPgQxA0wfnoECGsQBg)
+
+- [ ] [Jason Weston - Google Search](https://www.google.com/search?q=Jason+Weston&oq=Jason+Weston&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [jason weston co-authors - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS6mHiBbfgwGBH3p5ddW2s9G_GlHw:1573738103061&q=jason+weston+co-authors&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyqKjEuzKswVULlaslmJ1vpF6TmF-Sk6hcnZ-TnJBZZJefHJ5aWZOQXFS9iFc9KLM7PUyhPLS4BUsn5ulCZHayMAJiNOm1cAAAA&sa=X&ved=2ahUKEwjuyuik5-nlAhUcy4sBHQVnBPgQzTooATB7egQIahAC)
+
+- [ ] [Nicolas Usunier - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS6mHiBbfgwGBH3p5ddW2s9G_GlHw:1573738103061&q=Nicolas+Usunier&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyqKjEuzKswVYJw0yqSU8xNzQu1-Jzzc3Pz84IzU1LLEyuLF7Hy-2Um5-ckFiuEFpfmZaYW7WBlBABx9nIkRQAAAA&sa=X&ved=2ahUKEwjuyuik5-nlAhUcy4sBHQVnBPgQxA0wfnoECGsQBA)
+
+- [ ] [On the uniform convergence of relative frequencies of events to their probabilities - Google Search](https://www.google.com/search?q=On+the+uniform+convergence+of+relative+frequencies+of+events+to+their+probabilities&oq=On+the+uniform+convergence+of+relative+frequencies+of+events+to+their+probabilities&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Ronan Collobert - Google Search](https://www.google.com/search?q=Ronan+Collobert&oq=Ronan+Collobert&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Yoshua Bengio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS6mHiBbfgwGBH3p5ddW2s9G_GlHw:1573738103061&q=Yoshua+Bengio&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyqKjEuzKswVeLSz9U3SDZOq6qo1OJzzs_Nzc8LzkxJLU-sLF7EyhuZX5xRmqjglJqXnpm_g5URABOziLlAAAAA&sa=X&ved=2ahUKEwjuyuik5-nlAhUcy4sBHQVnBPgQxA0wfnoECGsQCA)

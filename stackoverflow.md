@@ -494,3 +494,57 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [R: Displaying numbers as currency in knitr::kable - Stack Overflow](https://stackoverflow.com/questions/47664055/r-displaying-numbers-as-currency-in-knitrkable)
 
 - [ ] [rstudio - Format table of percentages in R - Stack Overflow](https://stackoverflow.com/questions/32382874/format-table-of-percentages-in-r)
+
+
+
+## 11/14/2019
+
+- [ ] [luatex - Using LuaLaTeX and knitr together - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/413535/using-lualatex-and-knitr-together)
+
+- [ ] [conversion - Converting Markdown to LaTeX, in LaTeX - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/101717/converting-markdown-to-latex-in-latex)
+
+- [ ] [editors - How change TeXShop default engine depending on file type - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/386874/how-change-texshop-default-engine-depending-on-file-type)
+
+- [ ] [xetex - Creating bilingual (german, devanagari (hindi, sanskrit)) pdf using markdown, pandoc and xelatex - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/394146/creating-bilingual-german-devanagari-hindi-sanskrit-pdf-using-markdown-pa)
+
+
+
+## 11/14/2019
+
+- [ ] [finance - Simple American Option Pricing via Monte Carlo Simulation in R - Results are too high - Stack Overflow](https://stackoverflow.com/questions/50020374/simple-american-option-pricing-via-monte-carlo-simulation-in-r-results-are-too)
+
+- [ ] [Insert picture/table in R Markdown - Stack Overflow](https://stackoverflow.com/questions/25166624/insert-picture-table-in-r-markdown)
+
+- [ ] [knitr - How to make a figure caption in Rmarkdown? - Stack Overflow](https://stackoverflow.com/questions/31064353/how-to-make-a-figure-caption-in-rmarkdown)
+
+- [ ] [r - How to change the figure caption format in bookdown - Stack Overflow](https://stackoverflow.com/questions/51945079/how-to-change-the-figure-caption-format-in-bookdown)
+
+- [ ] [r - knitr/rmarkdown/Latex: How to cross-reference figures and tables? - Stack Overflow](https://stackoverflow.com/questions/38861041/knitr-rmarkdown-latex-how-to-cross-reference-figures-and-tables)
+
+- [ ] [r - Option Pricing with volatility following a Garch process by use of Monte-Carlo Simulations - Stack Overflow](https://stackoverflow.com/questions/14835304/option-pricing-with-volatility-following-a-garch-process-by-use-of-monte-carlo-s)
+
+- [ ] [R Markdown HTML Number Figures - Stack Overflow](https://stackoverflow.com/questions/37116632/r-markdown-html-number-figures)
+
+- [ ] [rstudio - r knit word document plots automatically re-sized - Stack Overflow](https://stackoverflow.com/questions/29333440/r-knit-word-document-plots-automatically-re-sized)
+
+
+
+
+
+## 11/14/2019
+
+- [ ] [Is support vector clustering a method for implementing k-means, or is it a different clustering algorithm? - Cross Validated](https://stats.stackexchange.com/questions/213372/is-support-vector-clustering-a-method-for-implementing-k-means-or-is-it-a-diffe)
+
+- [ ] [mathematical statistics - Maximum Likelihood Estimation (MLE) in layman terms - Cross Validated](https://stats.stackexchange.com/questions/112451/maximum-likelihood-estimation-mle-in-layman-terms)
+
+- [ ] [maximum likelihood - How to estimate parameters of a log-normal distribution? - Cross Validated](https://stats.stackexchange.com/questions/141834/how-to-estimate-parameters-of-a-log-normal-distribution)
+
+- [ ] [maximum likelihood - Lognormal distribution using binned or grouped data - Cross Validated](https://stats.stackexchange.com/questions/12490/lognormal-distribution-using-binned-or-grouped-data)
+
+- [ ] [r - Fitting lognormal distribution with MLE given a set of data - Cross Validated](https://stats.stackexchange.com/questions/305502/fitting-lognormal-distribution-with-mle-given-a-set-of-data)
+
+- [ ] [regression - Difference between variance and standard deviation: Is this popular answer wrong? - Cross Validated](https://stats.stackexchange.com/questions/267534/difference-between-variance-and-standard-deviation-is-this-popular-answer-wrong)
+
+- [ ] [self study - MLE for variance of a lognormal distribution - Cross Validated](https://stats.stackexchange.com/questions/331887/mle-for-variance-of-a-lognormal-distribution)
+
+- [ ] [variance - Asymptotic distribution of MLE (log-normal) - Cross Validated](https://stats.stackexchange.com/questions/52943/asymptotic-distribution-of-mle-log-normal)

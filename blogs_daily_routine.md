@@ -536,3 +536,60 @@
 - [ ] [Supplemental Proof 1 | The Clever Machine](https://theclevermachine.wordpress.com/2013/04/21/supplemental-proof-1/)
 
 - [ ] [The Statistical Whitening Transform | The Clever Machine](https://theclevermachine.wordpress.com/2013/03/30/the-statistical-whitening-transform/)
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/14/2019
+
+- [ ] [mcmc_diagnostics.utf8.md](http://sbfnk.github.io/mfiidd/mcmc_diagnostics.html)
+
+- [ ] [Metropolis – Darren Wilkinson's research blog](https://darrenjw.wordpress.com/tag/metropolis/)
+
+- [ ] [A simple explanation of rejection sampling in R | theoretical ecology](https://theoreticalecology.wordpress.com/2015/04/22/a-simple-explanation-of-rejection-sampling-in-r/)
+
+- [ ] [A simple Metropolis-Hastings MCMC in R | theoretical ecology](https://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/)
+
+- [ ] [DHARMa – an R package for residual diagnostics of GLMMs | theoretical ecology](https://theoreticalecology.wordpress.com/2016/08/28/dharma-an-r-package-for-residual-diagnostics-of-glmms/)
+
+- [ ] [Explaining the ABC-Rejection Algorithm in R | theoretical ecology](https://theoreticalecology.wordpress.com/2014/06/02/explaining-the-abc-rejection-algorithm-in-r/)
+
+- [ ] [JCR 2016 impact factors for the top 40 ecology journals | theoretical ecology](https://theoreticalecology.wordpress.com/2017/07/19/jcr-2016-impact-factors-for-the-top-40-ecology-journals/)
+
+- [ ] [MCMC chain analysis and convergence diagnostics with coda in R | theoretical ecology](https://theoreticalecology.wordpress.com/2011/12/09/mcmc-chain-analysis-and-convergence-diagnostics-with-coda-in-r/)
+
+- [ ] [MCMC chain analysis and convergence diagnostics with coda in R | theoretical ecology](https://theoreticalecology.wordpress.com/2011/12/09/mcmc-chain-analysis-and-convergence-diagnostics-with-coda-in-r/)
+
+- [ ] [theoretical ecology | notes from ecology, evolution and statistics by Florian Hartig](https://theoreticalecology.wordpress.com/)
+
+- [ ] [models.cliffordang.com | Financial Models Using R and Excel VBA](http://models.cliffordang.com/)
+
+- [ ] [Monte Carlo Valuation of American Options through Computation of the Optimal Exercise Frontier on JSTOR](https://www.jstor.org/stable/30031855?seq=1#page_scan_tab_contents)
+
+- [ ] [Contents](https://ermongroup.github.io/cs323-notes/)
+
+- [ ] [Gibbs sampling](https://ermongroup.github.io/cs323-notes/probabilistic/gibbs/)
+
+- [ ] [Count Data Models - Econometrics Academy](https://sites.google.com/site/econometricsacademy/econometrics-models/count-data-models)
+
+- [ ] [Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/)
+
+- [ ] [Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/)
+
+- [ ] [Econometrics Course - Econometrics Academy](https://sites.google.com/site/econometricsacademy/econometrics-course)
+
+- [ ] [Econometrics Models - Econometrics Academy](https://sites.google.com/site/econometricsacademy/econometrics-models)
+
+- [ ] [Econometrics Software - Econometrics Academy](https://sites.google.com/site/econometricsacademy/econometrics-software)
+
+- [ ] [Introduction to R - Econometrics Academy](https://sites.google.com/site/econometricsacademy/econometrics-software/r)
+
+- [ ] [Peter Green](https://petergreenweb.wordpress.com/)

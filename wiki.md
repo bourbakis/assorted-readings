@@ -108,3 +108,58 @@ https://en.wikipedia.org/wiki/Category:Theorems_in_Fourier_analysis
 - [ ] [Neuroethics - Wikipedia](https://en.wikipedia.org/wiki/Neuroethics)
 
 - [ ] [Neuroethics - Wikipedia](https://en.wikipedia.org/wiki/Neuroethics#Key_issues)
+
+
+
+## 11/14/2019
+
+- [ ] [Importance sampling - Wikipedia](https://en.wikipedia.org/wiki/Importance_sampling)
+
+- [ ] [Machine learning - Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+
+- [ ] [Mathematical finance - Wikipedia](https://en.wikipedia.org/wiki/Mathematical_finance)
+
+- [ ] [Metropolis–Hastings algorithm - Wikipedia](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm#History)
+
+- [ ] [Metropolis–Hastings algorithm - Wikipedia](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm#Formal_derivation)
+
+- [ ] [Metropolis–Hastings algorithm - Wikipedia](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm#Use_in_numerical_integration)
+
+- [ ] [Metropolis–Hastings algorithm - Wikipedia](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm#Intuition)
+
+- [ ] [Metropolis–Hastings algorithm - Wikipedia](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm)
+
+- [ ] [Monte Carlo methods for option pricing - Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_methods_for_option_pricing)
+
+- [ ] [Sharpe ratio - Wikipedia](https://en.wikipedia.org/wiki/Sharpe_ratio)
+
+- [ ] [Sortino ratio - Wikipedia](https://en.wikipedia.org/wiki/Sortino_ratio)
+
+
+
+
+
+
+## 11/14/2019
+
+- [ ] [Support vector clustering - Scholarpedia](http://www.scholarpedia.org/article/Support_vector_clustering)
+
+- [ ] [Support vector clustering - Scholarpedia](http://www.scholarpedia.org/article/Support_vector_clustering)
+
+- [ ] [View source for Support vector clustering - Scholarpedia](http://www.scholarpedia.org/w/index.php?title=Support_vector_clustering&action=edit)
+
+- [ ] [Revision history of "Support vector clustering" - Scholarpedia](http://www.scholarpedia.org/w/index.php?title=Support_vector_clustering&action=history)
+
+- [ ] [Asa Ben-Hur — Asa Ben-Hur's webpages 1.0 documentation](https://www.cs.colostate.edu/~asa/)
+
+- [ ] [Complexity - Scholarpedia](http://www.scholarpedia.org/article/Complexity)
+
+- [ ] [Bifurcation - Scholarpedia](http://www.scholarpedia.org/article/Bifurcation)
+
+- [ ] [Stability - Scholarpedia](http://www.scholarpedia.org/article/Stability)
+
+- [ ] [Scholarpedia - Scholarpedia](http://www.scholarpedia.org/article/Scholarpedia)
+
+- [ ] [jmlr.csail.mit.edu/papers/v2/horn01ar1.html](http://jmlr.csail.mit.edu/papers/v2/horn01ar1.html)
+
+- [ ] [Support vector clustering - Scholarpedia](http://www.scholarpedia.org/article/Support_vector_clustering)

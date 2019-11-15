@@ -1911,3 +1911,208 @@ https://www.wolframcloud.com/objects/demonstrations/ARecursiveIntegrationMethodF
 IZONE解散后成员们的发展会怎么样？ - 知乎
 https://www.zhihu.com/question/341466774
 
+
+
+
+
+## 11/14/2019
+
+- [ ] [vapnik - Google Scholar Citations](https://scholar.google.com/citations?user=vtegaJgAAAAJ#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26user%3DvtegaJgAAAAJ%26citation_for_view%3DvtegaJgAAAAJ%3Au5HHmVD_uO8C)
+
+- [ ] [Rmarkdown学习笔记（一） - 知乎](https://zhuanlan.zhihu.com/p/36919769)
+
+- [ ] [Adaptive monte carlo methods for rare event simulation](https://dl.acm.org/citation.cfm?id=1030470)
+
+- [ ] [RPubs - Document](http://rpubs.com/aislinghe/hw2)
+
+- [ ] [How Precise Are Price Distributions Predicted by Implied Binomial Trees? | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-662-05021-7_7)
+
+- [ ] [Non-reversible Metropolis-Hastings | SpringerLink](https://link.springer.com/article/10.1007/s11222-015-9598-x)
+
+- [ ] [Signal Processing and Communications Laboratory](http://www-sigproc.eng.cam.ac.uk/Main/Inference)
+
+- [ ] [A Bootstrap Metropolis–Hastings Algorithm for Bayesian Analysis of Big Data: Technometrics: Vol 58, No 3](https://amstat.tandfonline.com/doi/abs/10.1080/00401706.2016.1142905?src=recsys&journalCode=utch20#.XcyLdVVzRhF)
+
+- [ ] [R_文档输出_rmarkdown | Jimmy那些事儿](https://chf2012.github.io/2017/09/01/%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8_%E7%A8%8B%E5%BA%8F%E7%BC%96%E7%A8%8B/R/R_%E4%B8%93%E9%A2%98%E6%80%BB%E7%BB%93/R_%E6%96%87%E6%A1%A3%E8%BE%93%E5%87%BA_rmarkdown/)
+
+- [ ] [IOPscience::.. Page Not Found](https://iopscience.iop.org//abstract/0143-0807/22/4/315)
+
+- [ ] [Tools for working with row names — rownames • tibble](https://tibble.tidyverse.org/reference/rownames.html)
+
+- [ ] [Customizing LaTeX Options – RStudio Support](https://support.rstudio.com/hc/en-us/articles/200532257-Customizing-LaTeX-Options)
+
+- [ ] [Pandoc - Pandoc User’s Guide](https://pandoc.org/MANUAL.html)
+
+- [ ] [如何在rmd转pdf时插入页眉页脚？ - COS论坛 | 统计之都 | 统计与数据科学论坛](https://d.cosx.org/d/419763-rmd-pdf/10)
+
+- [ ] [(27 封私信 / 39 条消息) Excel 有哪些可能需要熟练掌握而很多人不会的技能？ - 知乎](https://www.zhihu.com/question/21758700)
+
+- [ ] [(27 封私信 / 38 条消息) Excel 有什么好用的技巧，让你相见恨晚？ - 知乎](https://www.zhihu.com/question/27720960)
+
+- [ ] [(27 封私信 / 38 条消息) Markdown中插入图片有什么技巧？ - 知乎](https://www.zhihu.com/question/21065229)
+
+- [ ] [Tips and tricks for working with images and figures in R Markdown documents | Technical Tidbits From Spatial Analysis & Data Science](http://zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/)
+
+- [ ] [Figure Caption in R markdown - R Markdown - RStudio Community](https://community.rstudio.com/t/figure-caption-in-r-markdown/6951)
+
+- [ ] [Journal of Statistics Education, V2N1: McIntyre](http://jse.amstat.org/v2n1/datasets.mcintyre.html)
+
+- [ ] [Journal of Statistics Education, V2N1: Hanley, Shapiro](http://jse.amstat.org/v2n1/datasets.hanley.html)
+
+- [ ] [看! 17年作业解析.pdf](file:///C:/Users/Administrator/Dropbox/%E7%9C%8B!%2017%E5%B9%B4%E4%BD%9C%E4%B8%9A%E8%A7%A3%E6%9E%90.pdf)
+
+- [ ] [Catalog of courses from Stanford relative to start on learning of Deep Learning/ML/Optimization - burlachenkok](https://sites.google.com/site/burlachenkok/catalof-of-course-from-stanford-relative-to-start-on-learning-of-deep-learningmloptimization)
+
+- [ ] [MIT Machine Learning for Big Data and Text Processing Class Notes – Day 2 – R&D](http://blog.adnanmasood.com/2015/06/09/mit-machine-learning-for-big-data-and-text-processing-class-notes-day-2/)
+
+- [ ] [Classical Statistics and Statistical Learning in Imaging Neuroscience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5635056/)
+
+- [ ] [Mario Wüthrich – Department of Mathematics | ETH Zurich](https://math.ethz.ch/research/insurance-mathematics-stochastic-finance/mario-wuethrich.html)
+
+- [ ] [Journal of Statistics Education, V11N2: Heinz](http://jse.amstat.org/v11n2/datasets.heinz.html)
+
+- [ ] [Journal of Statistics Education, V4N2: Shoemaker](http://jse.amstat.org/v4n2/datasets.shoemaker.html)
+
+- [ ] [作业2019R.pdf](file:///C:/Users/Administrator/Dropbox/%E4%BD%9C%E4%B8%9A2019R.pdf)
+
+- [ ] [DUSPviz](http://duspviz.mit.edu/tutorials/r/)
+
+- [ ] [Philippe Rigollet - MIT](http://www-math.mit.edu/~rigollet/)
+
+- [ ] [Mario Wuthrich, RiskLab, ETH Zurich](https://people.math.ethz.ch/~wueth/)
+
+- [ ] [Mario Wuthrich, RiskLab, ETH Zurich](https://people.math.ethz.ch/~wueth/)
+
+- [ ] [课程面板 | edX](https://courses.edx.org/dashboard)
+
+- [ ] [93.174.95.29](http://93.174.95.29/main/1580000/bab1924f9dc844baa3804eb8f5437467/%28Springer%20Texts%20in%20Business%20and%20Economics%29%20Farrokh%20K.%20Langdana%20%28auth.%29%20-%20Macroeconomic%20Policy_%20Demystifying%20Monetary%20and%20Fiscal%20Policy-Springer%20International%20Publishing%20%282016%29.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/main/2408000/451cfede9c43a474a0a1fbf2416fd02d/%28Springer%20Texts%20in%20Business%20and%20Economics%29%20Andreas%20L%C3%B6ffler%2C%20Lutz%20Kruschwitz%20-%20The%20Brownian%20Motion_%20A%20Rigorous%20but%20Gentle%20Introduction%20for%20Economists-Springer%20International%20Publishing%20%282019%29.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/main/1533000/0465e6b66ad75ebd9d810e2acce0dd76/%28Springer%20Texts%20in%20Business%20and%20Economics%29%20Klaus%20Neusser%20%28auth.%29%20-%20Time%20Series%20Econometrics-Springer%20International%20Publishing%20%282016%29.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/main/1534000/5c1c26251faf07d19ea0d261efcce5dc/%28Springer%20Texts%20in%20Business%20and%20Economics%29%20Thorsten%20Hens%2C%20Marc%20Oliver%20Rieger%20%28auth.%29%20-%20Financial%20Economics_%20A%20Concise%20Introduction%20to%20Classical%20and%20Behavioral%20Finance-Springer-Verlag%20Berlin%20Heidelberg.pdf)
+
+- [ ] [SSRN-id2319328.pdf](file:///C:/Users/Administrator/Documents/WeChat%20Files/bourbakis/FileStorage/File/2019-11/SSRN-id2319328.pdf)
+
+- [ ] [The Lognormal Distribution - ReliaWiki](http://reliawiki.org/index.php/The_Lognormal_Distribution#RRY_Example)
+
+- [ ] [The Lognormal Distribution - ReliaWiki](http://reliawiki.org/index.php/The_Lognormal_Distribution#MLE_Example)
+
+- [ ] [Multithreaded Randomness: 2018](http://srandom-r.blogspot.com/2018/)
+
+- [ ] [Multithreaded Randomness: Video series relevant to ML](http://srandom-r.blogspot.com/2018/02/video-series-relevant-to-ml.html)
+
+- [ ] [ACL - Association for Computational Learning](http://www.learningtheory.org/)
+
+- [ ] [ACL - Association for Computational Learning](http://www.learningtheory.org/)
+
+- [ ] [Error 404 Not Found | Association for Computational Learning](http://www.learningtheory.org/resources.html)
+
+- [ ] [Heterogeneity in banker culture and its influence on dishonesty | Nature](https://www.nature.com/articles/s41586-019-1741-y)
+
+- [ ] [Bankers are better than their reputation | Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en/media/2019/11/bankers-are-better-than-their-reputation)
+
+- [ ] [The Composer of ggplots • patchwork](https://patchwork.data-imaginist.com/)
+
+- [ ] [Global Times Deletes Tweet Suggesting Curfew: Hong Kong Update - Bloomberg](https://www.bloomberg.com/news/articles/2019-11-14/two-in-critical-condition-as-city-paralyzed-hong-kong-update)
+
+- [ ] [Thursday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/thursday-assorted-links-231.html)
+
+- [ ] [“OK Boomer” escalated quickly — a reddit+BigQuery report](https://towardsdatascience.com/ok-boomer-escalated-quickly-a-reddit-bigquery-report-34133b286d77)
+
+- [ ] [How quantum teleportation works](https://quantum.country/teleportation)
+
+- [ ] [Twinkies cereal is now in the works](https://www.cnbc.com/2019/11/13/twinkies-cereal-is-now-in-the-works.html)
+
+- [ ] [Twinkies cereal is now in the works](https://www.cnbc.com/2019/11/13/twinkies-cereal-is-now-in-the-works.html)
+
+- [ ] [“OK Boomer” escalated quickly — a reddit+BigQuery report](https://towardsdatascience.com/ok-boomer-escalated-quickly-a-reddit-bigquery-report-34133b286d77)
+
+- [ ] [This Mexican Village’s Embroidery Designs Are Admired (and Appropriated) Globally - The New York Times](https://www.nytimes.com/2019/11/13/world/americas/mexico-tenango-embroidery.html?action=click&module=Editors%20Picks&pgtype=Homepage)
+
+- [ ] [Twinkies cereal is now in the works](https://www.cnbc.com/2019/11/13/twinkies-cereal-is-now-in-the-works.html)
+
+- [ ] [Handel and the Bank of England – Bank Underground](https://bankunderground.co.uk/2019/11/08/handel-and-the-bank-of-england/)
+
+- [ ] [How quantum teleportation works](https://quantum.country/teleportation)
+
+- [ ] [This Mexican Village’s Embroidery Designs Are Admired (and Appropriated) Globally - The New York Times](https://www.nytimes.com/2019/11/13/world/americas/mexico-tenango-embroidery.html?action=click&module=Editors%20Picks&pgtype=Homepage)
+
+- [ ] [Bloomberg.com](https://www.bloomberg.com/)
+
+- [ ] [vagif.netlify.com](https://vagif.netlify.com/Books)
+
+- [ ] [vagif.netlify.com](https://vagif.netlify.com/vagif/index.php?option=com_jombib&Itemid=39)
+
+- [ ] [Phys.org - physics](https://phys.org/tags/physics/)
+
+- [ ] [Mathematician proposes method to simplify the mathematical model of substance transfer through a cell wall](https://phys.org/news/2019-10-mathematician-method-mathematical-substance-cell.html)
+
+- [ ] [Conditions for the Lp, λ-Boundedness of the Riesz Potential Generated by the Gegenbauer Differential Operator | SpringerLink](https://link.springer.com/article/10.1134%2FS0001434619050043)
+
+- [ ] [Mathematician discovers method to simplify polymer growth modelling](https://phys.org/news/2019-11-mathematician-method-polymer-growth.html)
+
+- [ ] [Mathematicians prove a theorem that would help calculate the movement of water in porous rock](https://phys.org/news/2019-10-mathematicians-theorem-movement-porous.html)
+
+- [ ] [Mathematicians report way to facilitate problem solving in queueing theory](https://phys.org/news/2019-10-mathematicians-problem-theory.html)
+
+- [ ] [A balanced filter for making optimal decisions](https://phys.org/news/2019-02-filter-optimal-decisions.html)
+
+- [ ] [Mathematician calculates parameters for optimal crowd and traffic control](https://phys.org/news/2019-02-mathematician-parameters-optimal-crowd-traffic.html)
+
+- [ ] [Mathematicians propose to improve cellular network coverage by using UAVs](https://phys.org/news/2018-09-mathematicians-cellular-network-coverage-uavs.html)
+
+- [ ] [Urbanization may have a positive effect on soil](https://phys.org/news/2017-11-urbanization-positive-effect-soil.html)
+
+- [ ] [Pandoc 2.0 - latex-engine changed to pdf-engine · Issue #665 · shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced/issues/665)
+
+- [ ] [An incomplete guide to Markdown, LaTeX, and more, initially written for Jiawen Li.](https://gist.github.com/zmwangx/9987772)
+
+- [ ] [Vladimir Naumovich Vapnik - Publications](https://neurotree.org/neurotree/publications.php?pid=21337&searchstring=&showfilter=all)
+
+- [ ] [Support vector clustering](https://dl.acm.org/citation.cfm?id=944807)
+
+- [ ] [500 Internal Privoxy Error](http://www.jmlr.org/papers/volume2/horn01a/horn01a.pdf)
+
+- [ ] [vapnik - Google Scholar Citations](https://scholar.google.com/citations?user=vtegaJgAAAAJ#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26user%3DvtegaJgAAAAJ%26citation_for_view%3DvtegaJgAAAAJ%3ATewouNez5YAC)
+
+- [ ] [Support Vector Machines - Wikibooks, open books for an open world](https://en.m.wikibooks.org/wiki/Support_Vector_Machines)
+
+- [ ] [Downloads](chrome://downloads/)
+
+- [ ] [An adaptive Cuckoo search algorithm for optimisation - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2210832717301679)
+
+- [ ] [MIT OpenCourseWare | Mathematics | 18.465 Topics in Statistics: Statistical Learning Theory, Spring 2004 | Lecture Notes](https://dspace.mit.edu/bitstream/handle/1721.1/39660/18-465Spring-2004/OcwWeb/Mathematics/18-465Spring-2004/LectureNotes/index.htm)
+
+- [ ] [RStudio Cloud](https://rstudio.cloud/project/634440)
+
+- [ ] [Vagif Guliyev: Amazon.co.uk: Ronald Cohn Jesse Russell: Books](https://www.amazon.co.uk/Vagif-Guliyev-Ronald-Jesse-Russell/dp/B007LU7JE2)
+
+- [ ] [Vagif Guliyev - Google Books](https://books.google.com/books/about/Vagif_Guliyev.html?id=QzCjMQEACAAJ)
+
+- [ ] [布谷鸟算法详细讲解 - 牟天蔚的博客 - CSDN博客](https://blog.csdn.net/u013631121/article/details/76944879)
+
+- [ ] [布谷鸟算法详细讲解 - 牟天蔚的博客 - CSDN博客](https://blog.csdn.net/u013631121/article/details/76944879)
+
+- [ ] [Phys.org - RUDN University(... continued page 9)](https://phys.org/partners/rudn-university/page9.html)
+
+- [ ] [Tim Ferriss on Instagram: “#Repost @stefansagmeister ・・・ Samuel Eckert writes: The end of our life is for many a great worry, but basically this expectation is only a…”](https://www.instagram.com/p/B4yRLuenSF7/)
+
+- [ ] [73497440_546462089489309_4242534004995555680_n.jpg (640×640)](https://scontent-hkg3-2.cdninstagram.com/vp/03b7616e484a9f9c9b88033ad1086378/5E8B5719/t51.2885-15/sh0.08/e35/s640x640/73497440_546462089489309_4242534004995555680_n.jpg?_nc_ht=scontent-hkg3-2.cdninstagram.com&_nc_cat=105)
+
+- [ ] [Tim Ferriss on Instagram: ““Self-esteem is just the reputation that you have with yourself. You'll always know.” — Naval Ravikant (@naval). Listen to more Naval…”](https://www.instagram.com/p/B4xc9BUnGUu/)
+
+- [ ] [Extensions - Diigo Web Collector - Capture and Annotate](chrome://extensions/?id=pnhplgjpclknigjpccbcnmicgcieojbh)
+
+- [ ] [Start with dl_ml_mathopt - Google Docs](https://docs.google.com/document/d/1VhWWaLb0Caw7a-voAC13kmN9T5QIIw7JwuaSlE05kl8/edit#heading=h.gjdgxs)
+
+- [ ] [Start with dl_ml_mathopt.docx - Google Docs](https://docs.google.com/document/d/1ZNRscS7O7eo6sh-2RYgSLSkmGo4P2KZV/edit#heading=h.gjdgxs)
+
+- [ ] [Start with dl_ml_mathopt.docx - Google Drive](https://drive.google.com/file/d/1ZNRscS7O7eo6sh-2RYgSLSkmGo4P2KZV/view)
+
+- [ ] [Start with dl_ml_mathopt.pdf - Google Drive](https://drive.google.com/file/d/1PnrCAb9HraiNFDArqEqSsvk4HYZHXwf9/view)
+
+- [ ] [Downloads](chrome://downloads/)
+
+- [ ] [R: Edit One or More Files](https://stuff.mit.edu/afs/sipb/project/r-project/lib/R/library/utils/html/file.edit.html)

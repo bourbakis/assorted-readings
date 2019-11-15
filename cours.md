@@ -225,3 +225,185 @@
 - [ ] [How to Make a Histogram with Basic R (article) - DataCamp](https://www.datacamp.com/community/tutorials/make-histogram-basic-r)
 
 - [ ] [ggplot2 package | R Documentation](https://www.rdocumentation.org/packages/ggplot2/versions/3.2.1)
+
+
+
+## 11/13/2019
+
+- [ ] [dept.stat.lsa.umich.edu/~yvesa/](http://dept.stat.lsa.umich.edu/~yvesa/)
+
+- [ ] [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/)
+
+- [ ] [Jesús Fernández-Villaverde | University of Pennsylvania](https://www.sas.upenn.edu/~jesusfv/)
+
+- [ ] [en:start [Thierry Denoeux]](https://www.hds.utc.fr/~tdenoeux/dokuwiki/)
+
+- [ ] [ST740 - Bayesian Inference](https://www4.stat.ncsu.edu/~reich/st740/)
+
+- [ ] [STA4273H Fall 2011 Home Page](http://www.utstat.toronto.edu/~rsalakhu/sta4273/)
+
+- [ ] [STAT:7400 Computer Intensive Statistics](https://homepage.divms.uiowa.edu/~luke/classes/STAT7400/)
+
+- [ ] [Index of /geyer](http://www.stat.umn.edu/geyer/)
+
+
+
+
+
+
+
+## 11/14/2019
+
+- [ ] [Index of /probability/16_17](https://nms.kcl.ac.uk/probability/16_17/)
+
+- [ ] [London Probability at King's](https://nms.kcl.ac.uk/probability/people.php)
+
+- [ ] [London Probability at King's](https://nms.kcl.ac.uk/probability/psak.php)
+
+- [ ] [P@K - Probability at King's](https://nms.kcl.ac.uk/probability/workshops.php)
+
+- [ ] [P@K - Probability at King's](https://nms.kcl.ac.uk/probability/calendar.php)
+
+- [ ] [500 Internal Privoxy Error](http://sabio.arizona.edu/search~S9?/tsimulation+and+the+monte+carlo+method/tsimulation+and+the+monte+carlo+method/1%2C1%2C4%2CE/frameset&FF=tsimulation+and+the+monte+carlo+method&3%2C%2C4)
+
+- [ ] [knitr/table.R at master · yihui/knitr](https://github.com/yihui/knitr/blob/master/R/table.R)
+
+- [ ] [row names · Issue #123 · tidyverse/tibble](https://github.com/tidyverse/tibble/issues/123)
+
+- [ ] [R Markdown学习 | 生信笔记](https://www.bioinfo-scrounger.com/archives/614/)
+
+- [ ] [r: knitr :: kable标题未放置在pdf文档的表格顶部](https://xbuba.com/questions/42012534)
+
+- [ ] [22 R Markdown文件格式 | R语言教程](http://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/rmarkdown.html)
+
+- [ ] [KTH room booking documentation (via exchange)](https://people.kth.se/~kurlberg/room_booking.html)
+
+- [ ] [Pär Kurlberg](https://people.kth.se/~kurlberg/)
+
+- [ ] [popular](https://people.kth.se/~kurlberg/popular/popular.html)
+
+- [ ] [Some KTH computer tips](https://people.kth.se/~kurlberg/kth-comp.html)
+
+- [ ] [Financial Modelling Agency](http://finmod.co.za/)
+
+- [ ] [jrxv.net](http://jrxv.net/)
+
+- [ ] [Paul Johnson - Department of Mathematics](https://personalpages.manchester.ac.uk/staff/paul.johnson-2/)
+
+- [ ] [Ilker Yildirim's homepage](http://www.mit.edu/~ilkery/)
+
+- [ ] [Index of /~jltobias/BayesClass/lecture_notes](https://web.ics.purdue.edu/~jltobias/BayesClass/lecture_notes/)
+
+- [ ] [r-markdown - R Markdown - 并排定位表和情节 - SO中文参考 - www.soinside.com](https://www.soinside.com/question/6ptz8n68KFUvtrMopZRv62)
+
+- [ ] [Rmarkdown安装配置、输出PDF正文中文以及图片中文配置 - 思过留痕 - CSDN博客](https://blog.csdn.net/u012111465/article/details/79945372)
+
+- [ ] [CS 323 - Automated Reasoning](https://cs.stanford.edu/~ermon/cs323/index.html)
+
+- [ ] [CS 323 - Automated Reasoning](https://cs.stanford.edu/~ermon/cs323/index.html)
+
+- [ ] [Stefano Ermon](https://cs.stanford.edu/~ermon/)
+
+- [ ] [Billy Fang](https://www.stat.berkeley.edu/~blfang/)
+
+- [ ] [STAT 134 (Concepts of Probability), Summer 2018 | Billy Fang](https://www.stat.berkeley.edu/~blfang/teaching/2018_stat134/)
+
+- [ ] [STAT 151A (Linear Modeling), Fall 2017 | Billy Fang](https://www.stat.berkeley.edu/~blfang/teaching/2017_stat151a/)
+
+- [ ] [A general construction for parallelizing Metropolis−Hastings algorithms | PNAS](https://www.pnas.org/content/111/49/17408)
+
+- [ ] [Metropolis and Gibbs Sampling — Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663-2016/16A_MCMC.html)
+
+
+
+
+
+
+
+## 11/14/2019
+
+- [ ] [Writing R Extensions](http://web.mit.edu/~r/current/arch/i386_linux26/lib/R/doc/manual/R-exts.html)
+
+- [ ] [R: Demonstrations of R Functionality](http://web.mit.edu/r/current/arch/i386_linux26/lib/R/library/utils/html/demo.html)
+
+- [ ] [R: Difference R Output Files](http://web.mit.edu/~r/current/arch/i386_linux26/lib/R/library/tools/html/Rdiff.html)
+
+- [ ] [R: Scripting Front-End for R](http://web.mit.edu/r/current/lib/R/library/utils/html/Rscript.html)
+
+
+
+
+
+## 11/14/2019
+
+- [ ] [18.05 R Tutorial: 'For Loops'](https://ocw.mit.edu/ans7870/18/18.05/s14/html/r-tut-forloop.html)
+
+- [ ] [Applied Quantum and Statistical Physics | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-728-applied-quantum-and-statistical-physics-fall-2006/)
+
+- [ ] [Assignments | Political Science Laboratory | Political Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/political-science/17-871-political-science-laboratory-spring-2012/assignments/)
+
+- [ ] [Assignments | Political Science Laboratory | Political Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/political-science/17-871-political-science-laboratory-spring-2012/assignments/)
+
+- [ ] [Assignments | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/assignments/)
+
+- [ ] [Assignments | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-spring-2015/assignments/)
+
+- [ ] [Assignments | The Art of the Probable: Literature and Probability | Literature | MIT OpenCourseWare](https://ocw.mit.edu/courses/literature/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/assignments/)
+
+- [ ] [Assignments | The Art of the Probable: Literature and Probability | Literature | MIT OpenCourseWare](https://ocw.mit.edu/courses/literature/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/assignments/)
+
+- [ ] [Exams | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/exams/)
+
+- [ ] [Find Courses by Topic | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/courses/find-by-topic/#cat=mathematics&subcat=discretemathematics)
+
+- [ ] [https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/case-studies/R_Rstudio_Instructions_CaseStudy1.txt](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/case-studies/R_Rstudio_Instructions_CaseStudy1.txt)
+
+- [ ] [https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/case-studies/R_Rstudio_Instructions_CaseStudy2.txt](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/case-studies/R_Rstudio_Instructions_CaseStudy2.txt)
+
+- [ ] [Introduction to Probability | MIT OpenCourseWare](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
+
+- [ ] [Lecture 11: Introduction to Machine Learning | Lecture Videos | Introduction to Computational Thinking and Data Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/)
+
+- [ ] [Lecture Notes | Mathematics of Machine Learning | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/)
+
+- [ ] [Lecture Notes | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/lecture-notes/)
+
+- [ ] [Lecture Notes | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-spring-2015/lecture-notes/)
+
+- [ ] [Lecture Notes | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2003/lecture-notes/)
+
+- [ ] [Lecture Slides | Political Science Laboratory | Political Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/political-science/17-871-political-science-laboratory-spring-2012/lecture-slides/)
+
+- [ ] [Lecture Slides | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
+
+- [ ] [Lecture Videos | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/)
+
+- [ ] [Machine Learning | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+
+- [ ] [Mathematics of Machine Learning | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
+
+- [ ] [MIT Curriculum Guide | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/courses/mit-curriculum-guide/)
+
+- [ ] [Networks for Learning: Regression and Classification | Brain and Cognitive Sciences | MIT OpenCourseWare](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
+
+- [ ] [Networks, Complexity and Its Applications | Media Arts and Sciences | MIT OpenCourseWare](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-961-networks-complexity-and-its-applications-spring-2011/)
+
+- [ ] [Probability And Its Applications To Reliability, Quality Control, And Risk Assessment | Nuclear Science and Engineering | MIT OpenCourseWare](https://ocw.mit.edu/courses/nuclear-engineering/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/)
+
+- [ ] [R Scripts and Projects | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-spring-2015/projects/)
+
+- [ ] [R Scripts and Projects | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-spring-2015/projects/)
+
+- [ ] [Random Matrix Theory and Its Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-996-random-matrix-theory-and-its-applications-spring-2004/)
+
+- [ ] [Readings | Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2006/readings/)
+
+- [ ] [Statistical Learning Theory and Applications | Brain and Cognitive Sciences | MIT OpenCourseWare](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-statistical-learning-theory-and-applications-spring-2003/)
+
+- [ ] [Statistical Learning Theory and Applications | Brain and Cognitive Sciences | MIT OpenCourseWare](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-statistical-learning-theory-and-applications-spring-2006/)
+
+- [ ] [Statistics for Applications | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-443-statistics-for-applications-fall-2003/)
+
+- [ ] [The Art of the Probable: Literature and Probability | Literature | MIT OpenCourseWare](https://ocw.mit.edu/courses/literature/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/)
+
+- [ ] [Tools | Political Science Laboratory | Political Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/political-science/17-871-political-science-laboratory-spring-2012/tools/)

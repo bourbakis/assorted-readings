@@ -738,3 +738,35 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [The Geometric Probability Distribution Example - YouTube](https://www.youtube.com/watch?v=IMztnt93h3Y)
 
 - [ ] [YouTube](https://www.youtube.com/?feature=youtu.be)
+
+
+
+
+
+## 11/14/2019
+
+- [ ] [(25) 10-601 Machine Learning Spring 2015 - Lecture 8 - YouTube](https://www.youtube.com/watch?v=kyhYHMOEIk4)
+
+- [ ] [(25) 9.520/6.860: Statistical Learning Theory and Applications - Class 1 - YouTube](https://www.youtube.com/watch?v=EXhOuehvPAw)
+
+- [ ] [(25) Convex Optimization - Stephen Boyd, Professor, Stanford University - YouTube](https://www.youtube.com/watch?v=uF3htLwUHn0&t=822s)
+
+- [ ] [Lecture 1 | Machine Learning (Stanford) - YouTube](https://www.youtube.com/watch?v=UzxYlbK2c7E)
+
+- [ ] [ROUND TABLE chaired by Oracles - YouTube](https://www.youtube.com/watch?v=GDn7EY9PW6E&feature=youtu.be)
+
+- [ ] [BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU)’ M/V - YouTube](https://www.youtube.com/watch?v=IHNzOHi8sJs)
+
+- [ ] [(26) Cuckoo Search Algorithm - YouTube](https://www.youtube.com/watch?v=kVueJrVPC04)
+
+- [ ] [[MV] MAMAMOO(마마무) _ Starry Night(별이 빛나는 밤) - YouTube](https://www.youtube.com/watch?v=0FB2EoKTK_Q)
+
+- [ ] [1. Introduction to Statistics - YouTube](https://www.youtube.com/watch?v=VPZD_aij8H0)
+
+- [ ] [Mathematics of Machine Learning - YouTube](https://www.youtube.com/watch?v=8onB7rPG4Pk)
+
+- [ ] [Task Scheduling in the Cloud Computing Based on the Cuckoo Search Algorithm - YouTube](https://www.youtube.com/watch?v=oOcpDTXbrbA)
+
+- [ ] [Math Camp for 9.520/6.860S Statistical Learning Theory and Applications - YouTube](https://www.youtube.com/watch?v=AsogCoscZgE)
+
+- [ ] [Course Introduction of 18.065 by Professor Strang - YouTube](https://www.youtube.com/watch?v=Cx5Z-OslNWE)

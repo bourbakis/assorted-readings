@@ -350,3 +350,26 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=23&ved=2ahUKEwjZ0Z
 google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwjZ0Z3V4ublAhWSJTQIHQxCCvQQFjAYegQIQhAB&url=https%3A%2F%2Fadv-r.hadley.nz%2Frcpp.html&usg=AOvVaw29QH6if1n0YAzEP4Y97_yH
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwjZ0Z3V4ublAhWSJTQIHQxCCvQQFjAYegQIQhAB&url=https%3A%2F%2Fadv-r.hadley.nz%2Frcpp.html&usg=AOvVaw29QH6if1n0YAzEP4Y97_yH
 
+
+
+
+
+
+
+## 11/14/2019
+
+- [ ] [Is support vector clustering a method for implementing k-means, or is it a different clustering algorithm? - Cross Validated](https://stats.stackexchange.com/questions/213372/is-support-vector-clustering-a-method-for-implementing-k-means-or-is-it-a-diffe)
+
+- [ ] [mathematical statistics - Maximum Likelihood Estimation (MLE) in layman terms - Cross Validated](https://stats.stackexchange.com/questions/112451/maximum-likelihood-estimation-mle-in-layman-terms)
+
+- [ ] [maximum likelihood - How to estimate parameters of a log-normal distribution? - Cross Validated](https://stats.stackexchange.com/questions/141834/how-to-estimate-parameters-of-a-log-normal-distribution)
+
+- [ ] [maximum likelihood - Lognormal distribution using binned or grouped data - Cross Validated](https://stats.stackexchange.com/questions/12490/lognormal-distribution-using-binned-or-grouped-data)
+
+- [ ] [r - Fitting lognormal distribution with MLE given a set of data - Cross Validated](https://stats.stackexchange.com/questions/305502/fitting-lognormal-distribution-with-mle-given-a-set-of-data)
+
+- [ ] [regression - Difference between variance and standard deviation: Is this popular answer wrong? - Cross Validated](https://stats.stackexchange.com/questions/267534/difference-between-variance-and-standard-deviation-is-this-popular-answer-wrong)
+
+- [ ] [self study - MLE for variance of a lognormal distribution - Cross Validated](https://stats.stackexchange.com/questions/331887/mle-for-variance-of-a-lognormal-distribution)
+
+- [ ] [variance - Asymptotic distribution of MLE (log-normal) - Cross Validated](https://stats.stackexchange.com/questions/52943/asymptotic-distribution-of-mle-log-normal)
