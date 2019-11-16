@@ -3159,3 +3159,282 @@ https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
 - [ ] [Ronan Collobert - Google Search](https://www.google.com/search?q=Ronan+Collobert&oq=Ronan+Collobert&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 
 - [ ] [Yoshua Bengio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS6mHiBbfgwGBH3p5ddW2s9G_GlHw:1573738103061&q=Yoshua+Bengio&stick=H4sIAAAAAAAAAONgFuLVT9c3NEyqKjEuzKswVeLSz9U3SDZOq6qo1OJzzs_Nzc8LzkxJLU-sLF7EyhuZX5xRmqjglJqXnpm_g5URABOziLlAAAAA&sa=X&ved=2ahUKEwjuyuik5-nlAhUcy4sBHQVnBPgQxA0wfnoECGsQCA)
+
+
+## 11/16/2019
+
+- [ ] ['Stochastic Volatility', Encyclopedia of Financial Models - Google Search](https://www.google.com/search?q=%27Stochastic+Volatility%27%2C+Encyclopedia+of+Financial+Models&oq=%27Stochastic+Volatility%27%2C+Encyclopedia+of+Financial+Models&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] ["lundberg" lower and upper bound - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSYDLN4Eh8U5PIszfGuMkEnSBmzHg:1573742211731&q=%22lundberg%22+lower+and+upper+bound&ved=2ahUKEwj95f3L9unlAhVwG6YKHbC9C0YQ5t4CMBV6BAhSEAg&biw=1920&bih=948)
+
+- [ ] [A Course in Credibility Theory and Its Applications - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRzffAHL1MlzYvbr2HKyFA5gcOwog:1573739598874&q=A+Course+in+Credibility+Theory+and+Its+Applications&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzSgzNUtXgvLycnItiw21eJzy87ODM1NSyxMrixexGjsqOOeXFhWnKmTmKTgXpaZkJmXmZJZUKoRkpOYXVSok5qUoeJYUKzgWFORkJieWZObnFe9gZQQAozYTwWUAAAA&ved=2ahUKEwiH4Ynu7OnlAhWDw4sBHVsNAX8QxA0wdnoECGAQNg)
+
+- [ ] [a course in credibility theory and its applications pdf - Google Search](https://www.google.com/search?gs_ssp=eJzj4tFP1zc0SsrLybUsNjRgBAAftQP2&q=a+course+in+credibility+theory+and+its+applications+pdf&oq=A+Course+in+Credibility+Theory+and+its+Applications%2C&aqs=chrome.1.69i57j46j69i59j0j69i64l3.2982j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [A Course in Credibility Theory and its Applications, - Google Search](https://www.google.com/search?q=A+Course+in+Credibility+Theory+and+its+Applications%2C&oq=A+Course+in+Credibility+Theory+and+its+Applications%2C&aqs=chrome..69i57j46j0j69i64l3.677j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Actuarial Mathematics of Social Security Pensions Subramaniam Iyer - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQbnkfYB5mmnyxZVU7o1NVOuqt9tg:1573739597702&q=Actuarial+Mathematics+of+Social+Security+Pensions+Subramaniam+Iyer&stick=H4sIAAAAAAAAAC2JsQrCMBQAEREcnBwEt-DoEis4NJtuDoLQL3hJU31Nk2DeC5rfcfQrpeJycHfz6XIhb7La63Dg9lFv_uZd0HrYrpxRUsfoflCErX1Coc9k3SnKureG1XhISS93Vf3q6T07HQ1nSAiDuADfrQdGQyJ2oolmrI01OSEXcbWBMAYSTdYJPAQEL87Fpi_rEyrTlwAAAA&ved=2ahUKEwiAo8Lt7OnlAhUowosBHfLRDh4QxA0wYnoECGEQEA)
+
+- [ ] [Actuaries' Survival Guide: How to Succeed in One of the Most Desirable Professions - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQbnkfYB5mmnyxZVU7o1NVOuqt9tg:1573739597702&q=Actuaries%27+Survival+Guide:+How+to+Succeed+in+One+of+the+Most+Desirable+Professions&stick=H4sIAAAAAAAAADWLvQrCMBRGEREcnBwEt4uL4BJ_cGg2QdBFFH2CJL3VtDUXc5NWfRxHn9IquHxwzuHrtvs9cRazuXbLkN6S0Z8Wzyokk0FhpNBExW8k2xRr9eB3a5hJjjpHE-S3sBRXMZ0l95xfnePKhKi8RR7DKfrKVqqETWy-ErZUQ6BGG4OYgnWwdwiUQbgg7IgDrJGtV7pEOHjKkNmS4w_tecuopwAAAA&ved=2ahUKEwiAo8Lt7OnlAhUowosBHfLRDh4QxA0wYnoECGEQBg)
+
+- [ ] [aml books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSShQpEml--t-C4MFifAlA5EBtQQA%3A1573860366196&lei=DjTPXY28C7iRr7wP9NWS6AU&q=aml%20books&ved=2ahUKEwjGiqniru3lAhU-xYsBHS6zAJsQsKwBKAF6BAgAEAI)
+
+- [ ] [Ana Cannas da Silva - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSwycJvbzy8f6R6IfsEFP3m1hsIxg:1573739448893&q=Ana+Cannas+da+Silva&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-IBc-Mrc02LTAy1-Jzzc3Pz84IzU1LLEyuLF7EKO-YlKjgn5uUlFiukJCoEZ-aUJe5gZQQAQUA2wEgAAAA&sa=X&ved=2ahUKEwiw0Mem7OnlAhWvyosBHQuzA_cQxA0wc3oECGMQDA)
+
+- [ ] [c(3062, 587, 284, 103, 33, 4, 2)) - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS6wAsHMai5_WUDdDDg0G-5pRShXQ:1573860280928&q=c(3062,+587,+284,+103,+33,+4,+2))&tbm=isch&source=univ&sa=X&ved=2ahUKEwjL7eG3ru3lAhVLy4sBHRnfD54QsAR6BAgLEAE)
+
+- [ ] [Change of Time Methods', Encyclopedia of Financial Models - Google Search](https://www.google.com/search?q=Change+of+Time+Methods%27%2C+Encyclopedia+of+Financial+Models&oq=Change+of+Time+Methods%27%2C+Encyclopedia+of+Financial+Models&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [corporate finance venture capital - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=corporate+finance+venture+capital&stick=H4sIAAAAAAAAAOOQMZIsS80rKS1KVUhOLMgsScxRyMwrSy0uyS8qjlJMzi8qyC9KLElVSMvMS8xLTlVAU3yKkVM_V9_AsMLAogLKNiq3yDU7xcgFYpsXW6bHm0ElTJIL8pKgEkYZhQVVMFVGZoblJnlQVZZ5WeZpUIkii9x4c2OYKnPLjDQjqCrj-AqL5F-MkmG43L6IlbDjAYOSCOr9AAAA&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQzTooADBvegQIZRAC)
+
+- [ ] [corporate venture capital best practices - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=corporate+venture+capital+best+practices&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQ1QIoBHoECGgQBQ)
+
+- [ ] [corporate venture capital database - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=corporate+venture+capital+database&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQ1QIoB3oECGgQCA)
+
+- [ ] [corporate venture capital structure - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=corporate+venture+capital+structure&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQ1QIoA3oECGgQBA)
+
+- [ ] [corporate venture capital trends - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=corporate+venture+capital+trends&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQ1QIoAnoECGgQAw)
+
+- [ ] [countreg r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZJ2bfI-VxUT63j_HsG9eqbjgCg%3A1573874683824&lei=-2vPXY7bMe-Vr7wP98GXoAo&q=countreg%20r&ved=2ahUKEwjb6NCM5O3lAhWNvZQKHW3cBq0QsKwBKAB6BAgBEAE)
+
+- [ ] [Ekrem İmamoğlu - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSwycJvbzy8f6R6IfsEFP3m1hsIxg:1573739448893&q=Ekrem+%C4%B0mamo%C4%9Flu&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV4Jwk8pNKtINsqq0-Jzzc3Pz84IzU1LLEyuLF7EKuGYXpeYqHNmQm5ibf2R-TukOVkYA-PQ90kYAAAA&sa=X&ved=2ahUKEwiw0Mem7OnlAhWvyosBHQuzA_cQxA0wc3oECGMQBg)
+
+- [ ] [em algorithm implementation python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=em%20algorithm%20implementation%20python&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAJ6BAgAEAM)
+
+- [ ] [em algorithm in r missing data - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=em%20algorithm%20in%20r%20missing%20data&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAF6BAgAEAI)
+
+- [ ] [em algorithm in r missing data - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=em%20algorithm%20in%20r%20missing%20data&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAB6BAgBEAE)
+
+- [ ] [em algorithm mixture model r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=em%20algorithm%20mixture%20model%20r&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAB6BAgAEAE)
+
+- [ ] [em algorithm mixture model r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=em%20algorithm%20mixture%20model%20r&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAF6BAgBEAI)
+
+- [ ] [em algorithm r - Google Search](https://www.google.com/search?q=em+algorithm+r&oq=em+algorithm+r&aqs=chrome..69i57j69i59j0j69i65j69i60l4.5086j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [em algorithm zero inflated poisson - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxvmYmGjzCMz0UsiljPMVTh1RhCA:1573869520416&q=em+algorithm+zero+inflated+poisson&sa=X&ved=2ahUKEwjTuL_t0O3lAhVmyosBHVs2DlEQ1QIoBXoECGQQBg)
+
+- [ ] [Evidence on the Channels of Black Market Liquor Distribution in Colombia - Google Search](https://www.google.com/search?q=Evidence+on+the+Channels+of+Black+Market+Liquor+Distribution+in+Colombia&oq=Evidence+on+the+Channels+of+Black+Market+Liquor+Distribution+in+Colombia&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [expectation maximization linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=expectation%20maximization%20linear%20regression&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAV6BAgAEAY)
+
+- [ ] [features of venture capital - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=features+of+venture+capital&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQ1QIoBnoECGgQBw&biw=1920&bih=948)
+
+- [ ] [features of venture capital - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=features+of+venture+capital&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQ1QIoBnoECGgQBw&biw=1920&bih=948)
+
+- [ ] [features of venture capital - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=features+of+venture+capital&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQ1QIoBnoECGgQBw&biw=1920&bih=948)
+
+- [ ] [financial modeling, actuarial valuation and solvency in insurance history of actuarial science - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQbnkfYB5mmnyxZVU7o1NVOuqt9tg:1573739597702&q=financial+modeling,+actuarial+valuation+and+solvency+in+insurance+history+of+actuarial+science&stick=H4sIAAAAAAAAAE2LvQrCMBSFEREcnBwEt-AoQmzVoXkY4TZJ623TG-xNqnkdR5_SVhyEw4Hz8y3n65WsZZaXdAnmXux-qTtT4tN-02olS-_brylGYx-Q-D3bVopj2Vgd1LSwkp08ZsWz4dfiWiEBaQQnOm-sQ6oPAnSI0E_dAC5CQE8CyAj2brCkk0AaxbEfSStuyMH3SfjqD2SN49N-AEG43p6zAAAA&ved=2ahUKEwiAo8Lt7OnlAhUowosBHfLRDh4QxA0wYnoECGEQDA)
+
+- [ ] [Financial Modeling, Actuarial Valuation and Solvency in Insurance Mario V. Wüthrich - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSwycJvbzy8f6R6IfsEFP3m1hsIxg:1573739448893&q=Financial+Modeling,+Actuarial+Valuation+and+Solvency+in+Insurance+Mario+V.+W%C3%BCthrich&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-IBcY2S8kxLUgottQQcS0sy8otC8p3y87P983IqF7GGuGXmJeYlZybmKPjmp6TmZOal6yg4JpeUJhaBxMISc0oTSzLz8xQS81IUgvNzylLzkisVMvMUPPOKS4uAOlMVfIFK8xXC9BTCD-8pySjKTM7YwcoIAEa5y5OLAAAA&sa=X&ved=2ahUKEwiw0Mem7OnlAhWvyosBHQuzA_cQxA0wcnoECGIQBg)
+
+- [ ] [Financial Modeling, Actuarial Valuation and Solvency in Insurance Mario V. Wüthrich - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRzffAHL1MlzYvbr2HKyFA5gcOwog:1573739598874&q=Financial+Modeling,+Actuarial+Valuation+and+Solvency+in+Insurance+Mario+V.+W%C3%BCthrich&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzSgzNUtXgvLyTEtSCi21eJzy87ODM1NSyxMrixexhrhl5iXmJWcm5ij45qek5mTmpesoOCaXlCYWgcTCEnNKE0sy8_MUEvNSFILzc8pS85IrFTLzFDzzikuLgDpTFXyBSvMVwvQUwg_vKckoykzO2MHKCACZydmShgAAAA&ved=2ahUKEwiH4Ynu7OnlAhWDw4sBHVsNAX8QxA0wdnoECGAQPA)
+
+- [ ] [Find closed-form expressions for the E-step and the M-step - Google Search](https://www.google.com/search?q=Find+closed-form+expressions+for+the+E-step+and+the+M-step&oq=Find+closed-form+expressions+for+the+E-step+and+the+M-step&aqs=chrome..69i57.718j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Generalized Linear Models for Insurance Data - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQbnkfYB5mmnyxZVU7o1NVOuqt9tg:1573739597702&q=Generalized+Linear+Models+for+Insurance+Data&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKMy1JKbRUgvEKqgpSKrXEspOt9JPy87PBhFVxZkpqeWJl8SpGyTSr4tKkrNTkEiuQTLGVfq6-gaFlRVbxIlYd99S81KLEnMyq1BQFn8y81MQiBd_8lNScYoW0_CIFz7zi0qLEvORUBZfEkkQAtpsHLoEAAAA&ved=2ahUKEwiAo8Lt7OnlAhUowosBHfLRDh4QxA0wYnoECGEQCA)
+
+- [ ] [Generalized Linear Models for Insurance Data - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRzffAHL1MlzYvbr2HKyFA5gcOwog:1573739598874&q=Generalized+Linear+Models+for+Insurance+Data&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzSgzNUtXgvLyCqoKUiq1eJzy87ODM1NSyxMrixex6rin5qUWJeZkVqWmKPhk5qUmFin45qek5hQrpOUXKXjmFZcWJeYlpyq4JJYk7mBlBAD-icmXXgAAAA&ved=2ahUKEwiH4Ynu7OnlAhWDw4sBHVsNAX8QxA0wdnoECGAQOg)
+
+- [ ] [gmm clustering in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=gmm%20clustering%20in%20r&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAN6BAgBEAQ)
+
+- [ ] [Halil Mete Soner - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTNWfOGRjpHkVjDhGXgQaQf0yKoOQ:1573739600279&q=Halil+Mete+Soner&stick=H4sIAAAAAAAAAONgFuLSz9U3SK8sMUtJUuIEsU0NkixytPic83Nz8_OCM1NSyxMrixexCngk5mTmKPimlqQqBOfnpRbtYGUEACeBzA0_AAAA&ved=2ahUKEwj_sd_u7OnlAhW6wosBHXbKDB8QxA0wfHoECGMQQQ)
+
+- [ ] [Halil Mete Soner - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSwycJvbzy8f6R6IfsEFP3m1hsIxg:1573739448893&q=Halil+Mete+Soner&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-LUz9U3MDVIssjR4nPOz83NzwvOTEktT6wsXsQq4JGYk5mj4JtakqoQnJ-XWrSDlREA86xXaUIAAAA&sa=X&ved=2ahUKEwiw0Mem7OnlAhWvyosBHQuzA_cQxA0wc3oECGMQCg)
+
+- [ ] [how to implement em algorithm in matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=how%20to%20implement%20em%20algorithm%20in%20matlab&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAN6BAgAEAQ)
+
+- [ ] [how to interpret zero inflated poisson model in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSh5g-RojDcmQLxcEc93rwA1JK-DA:1573874859115&q=how+to+interpret+zero+inflated+poisson+model+in+r&sa=X&ved=2ahUKEwiwzZff5O3lAhUFL6YKHbhNA_sQ1QIoAnoECD8QAw&cshid=1573874959826778&biw=1920&bih=948)
+
+- [ ] [https://scholar.google.com/scholar_lookup?journal=Journal+of+the+American+Statistical+Association&title=Variable+selection+in+finite+mixture+of+regression+models&author=A+Khalili&author=J+Chen&volume=102&issue=479&publication_year=2007&pages=1025-1038&](https://www.google.com/sorry/index?continue=https://scholar.google.com/scholar_lookup%3Fjournal%3DJournal%2Bof%2Bthe%2BAmerican%2BStatistical%2BAssociation%26title%3DVariable%2Bselection%2Bin%2Bfinite%2Bmixture%2Bof%2Bregression%2Bmodels%26author%3DA%2BKhalili%26author%3DJ%2BChen%26volume%3D102%26issue%3D479%26publication_year%3D2007%26pages%3D1025-1038%26&q=EgQjwv4HGNTgvO4FIhkA8aeDS53LTNzs4MmNuN0zZ71pFC-s_lYDMgFy)
+
+- [ ] [https://scholar.google.com/scholar_lookup?journal=Journal+of+the+Royal+Statistical+Society,+Series+B&title=Maximum+likelihood+from+incomplete+data+via+the+EM+algorithm&author=AP+Dempster&author=NM+Laird&author=DB+Rubin&volume=39&issue=1&publication_year=1977&pages=1-38&](https://www.google.com/sorry/index?continue=https://scholar.google.com/scholar_lookup%3Fjournal%3DJournal%2Bof%2Bthe%2BRoyal%2BStatistical%2BSociety,%2BSeries%2BB%26title%3DMaximum%2Blikelihood%2Bfrom%2Bincomplete%2Bdata%2Bvia%2Bthe%2BEM%2Balgorithm%26author%3DAP%2BDempster%26author%3DNM%2BLaird%26author%3DDB%2BRubin%26volume%3D39%26issue%3D1%26publication_year%3D1977%26pages%3D1-38%26&q=EgQjwv4HGNLgvO4FIhkA8aeDS5mWgGCBqP4yPTUM9nPLG1_MZP3IMgFy)
+
+- [ ] [https://scholar.google.com/scholar_lookup?journal=Journal+of+the+Royal+Statistical+Society,+Series+B&title=Regression+shrinkage+and+selection+via+the+lasso&author=R+Tibshirani&volume=58&publication_year=1996&pages=267-288&](https://www.google.com/sorry/index?continue=https://scholar.google.com/scholar_lookup%3Fjournal%3DJournal%2Bof%2Bthe%2BRoyal%2BStatistical%2BSociety,%2BSeries%2BB%26title%3DRegression%2Bshrinkage%2Band%2Bselection%2Bvia%2Bthe%2Blasso%26author%3DR%2BTibshirani%26volume%3D58%26publication_year%3D1996%26pages%3D267-288%26&q=EgQjwv4HGOm-ve4FIhkA8aeDSyWk7XM9T--CONSa8hwPHtZyfTmJMgFy)
+
+- [ ] [https://scholar.google.com/scholar_lookup?journal=Test&title=%E2%84%931-penalization+for+mixture+regression+models&author=N+St%C3%A4dler&author=P+B%C3%BChlmann&author=S+Van+De+Geer&volume=19&issue=2&publication_year=2010&pages=209-256&](https://www.google.com/sorry/index?continue=https://scholar.google.com/scholar_lookup%3Fjournal%3DTest%26title%3D%25E2%2584%25931-penalization%2Bfor%2Bmixture%2Bregression%2Bmodels%26author%3DN%2BSt%25C3%25A4dler%26author%3DP%2BB%25C3%25BChlmann%26author%3DS%2BVan%2BDe%2BGeer%26volume%3D19%26issue%3D2%26publication_year%3D2010%26pages%3D209-256%26&q=EgQjwv4HGOe-ve4FIhkA8aeDS6fxnIzBQOTQt6UIoEsusp9yosyoMgFy)
+
+- [ ] [https://scholar.google.com/scholar_lookup?journal=Test&title=%E2%84%931-penalization+for+mixture+regression+models&author=N+St%C3%A4dler&author=P+B%C3%BChlmann&author=S+Van+De+Geer&volume=19&issue=2&publication_year=2010&pages=209-256&](https://www.google.com/sorry/index?continue=https://scholar.google.com/scholar_lookup%3Fjournal%3DTest%26title%3D%25E2%2584%25931-penalization%2Bfor%2Bmixture%2Bregression%2Bmodels%26author%3DN%2BSt%25C3%25A4dler%26author%3DP%2BB%25C3%25BChlmann%26author%3DS%2BVan%2BDe%2BGeer%26volume%3D19%26issue%3D2%26publication_year%3D2010%26pages%3D209-256%26&q=EgQjwv4HGIHAve4FIhkA8aeDS-K94EopojjVWIQoafd1CKv6DTwFMgFy)
+
+- [ ] [https://scholar.google.com/scholar_lookup?journal=Test&title=%E2%84%931-penalization+for+mixture+regression+models&author=N+St%C3%A4dler&author=P+B%C3%BChlmann&author=S+Van+De+Geer&volume=19&issue=2&publication_year=2010&pages=209-256&](https://www.google.com/sorry/index?continue=https://scholar.google.com/scholar_lookup%3Fjournal%3DTest%26title%3D%25E2%2584%25931-penalization%2Bfor%2Bmixture%2Bregression%2Bmodels%26author%3DN%2BSt%25C3%25A4dler%26author%3DP%2BB%25C3%25BChlmann%26author%3DS%2BVan%2BDe%2BGeer%26volume%3D19%26issue%3D2%26publication_year%3D2010%26pages%3D209-256%26&q=EgQjwv4HGNXgvO4FIhkA8aeDS4tygef9MOQArCL_spq-vQRlhLeZMgFy)
+
+- [ ] [https://scholar.google.com/scholar_lookup?journal=The+Annals+of+Applied+Statistics&title=Pathwise+coordinate+optimization&author=J+Friedman&author=T+Hastie&author=H+H%C3%B6fling&author=R+Tibshirani&volume=1&issue=2&publication_year=2007&pages=302-332&](https://www.google.com/sorry/index?continue=https://scholar.google.com/scholar_lookup%3Fjournal%3DThe%2BAnnals%2Bof%2BApplied%2BStatistics%26title%3DPathwise%2Bcoordinate%2Boptimization%26author%3DJ%2BFriedman%26author%3DT%2BHastie%26author%3DH%2BH%25C3%25B6fling%26author%3DR%2BTibshirani%26volume%3D1%26issue%3D2%26publication_year%3D2007%26pages%3D302-332%26&q=EgQjwv4HGOa-ve4FIhkA8aeDS-sIWnfczwHTTmKJiHPe6rlKx86oMgFy)
+
+- [ ] [Investment management - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=Investment+management&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME0yy7Ew4k8tLM0sqVTIzEspLS4pqoxSTM4vKsgvSixJVUjLzEvMS05VKEvNKyktSlVITizILEnMOcUI1m-Ya5RUAmMnmVSYwNgZhsaFUDbYjl-M_K6olixiFfXMK0stLskFmqyQm5iXmJ4KYgIA4kZRcpsAAAA&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQxA0wcHoECGYQCg&biw=1920&bih=948)
+
+- [ ] [Josef Teichmann - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTNWfOGRjpHkVjDhGXgQaQf0yKoOQ:1573739600279&q=Josef+Teichmann&stick=H4sIAAAAAAAAAONgFuLSz9U3SK8sMUtJUkJiawlnJ1vpJ-fn5ubnWRVnpqSWJ1YWL2Ll98ovTk1TCEnNTM7ITczL28HKCAAwAVduRAAAAA&ved=2ahUKEwj_sd_u7OnlAhW6wosBHXbKDB8QzTooATB8egQIYxA4)
+
+- [ ] [Josef Teichmann - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSwycJvbzy8f6R6IfsEFP3m1hsIxg:1573739448893&q=Josef+Teichmann&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-LSz9U3SK8sMUtJ0uJzzs_Nzc8LzkxJLU-sLF7Eyu-VX5yaphCSmpmckZuYl7eDlREAMQl_10IAAAA&sa=X&ved=2ahUKEwiw0Mem7OnlAhWvyosBHQuzA_cQxA0wc3oECGMQBA)
+
+- [ ] [jun yan uconn - Google Search](https://www.google.com/search?q=jun+yan+uconn&oq=jun+yan++uconn&aqs=chrome.0.0l2j69i60j69i65j69i60l3.10415j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [latex case - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSXzqsr29YUNxo_2RKk0EQ3RYmjeg%3A1573863948812&ei=DELPXfKTMYrWmAWinKSoCw&q=latex+case&oq=latex+case&gs_l=psy-ab.3..0l10.11418.15226..15474...4.3..0.102.1198.13j1......0....1..gws-wiz.......0i71j35i39j0i20i263j0i10.04h50AWknM0&ved=0ahUKEwjyyd-MvO3lAhUKK6YKHSIOCbUQ4dUDCAs&uact=5)
+
+- [ ] [latex space between words - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTSg_W2_mv7pbgFZdzKoCHm7PHpPQ%3A1573864563867&lei=c0TPXb29NIe2mAXM74SQBA&q=latex%20space%20between%20words&ved=2ahUKEwiw5_yyvu3lAhUkK6YKHRzTDUAQsKwBKAF6BAgAEAI&biw=1920&bih=988)
+
+- [ ] [log likelihood function - Google Search](https://www.google.com/search?q=log+likelihood+function&oq=log+likelihood+&aqs=chrome.1.69i57j0l4j69i60j69i65j69i60.5118j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [log theta zero inflated - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNTakuXxrKupgNZ5W-8ovRrlIb0skA%3A1573861486841&lei=bjjPXbD4MrCRr7wPsemimAU&q=log%20theta%20zero%20inflated&ved=2ahUKEwiloov6su3lAhViKqYKHdHiBg0QsKwBKAB6BAgDEAE)
+
+- [ ] [Loss Reserving: An Actuarial Perspective G. C. Taylor - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRzffAHL1MlzYvbr2HKyFA5gcOwog:1573739598874&q=Loss+Reserving:+An+Actuarial+Perspective+G.+C.+Taylor&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzSgzNUtXgvLyknPScou1eJzy87ODM1NSyxMrixexmvrkFxcrBKUWpxaVZealWyk45ik4JpeUJhZlJuYoBKQWFRekJpdklqUquOspOOsphCRW5uQX7WBlBAACZh8MZwAAAA&ved=2ahUKEwiH4Ynu7OnlAhWDw4sBHVsNAX8QxA0wdnoECGAQOA)
+
+- [ ] [Malware Warning](https://www.google.com/interstitial?url=http://ghattas.pcsd194.com/amtx6/extract-coefficients-from-glm-in-r.html)
+
+- [ ] [Manfred Einsiedler - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTNWfOGRjpHkVjDhGXgQaQf0yKoOQ:1573739600279&q=Manfred+Einsiedler&stick=H4sIAAAAAAAAAONgFuLSz9U3SK8sMUtJUuLWT9c3NDLIMSrLztHic87Pzc3PC85MSS1PrCxexCrkm5iXVpSaouCamVecmZqSk1q0g5URANKCirlDAAAA&ved=2ahUKEwj_sd_u7OnlAhW6wosBHXbKDB8QxA0wfHoECGMQOw)
+
+- [ ] [Mario V. Wüthrich - Google Search](https://www.google.com/search?q=Mario+V.+W%C3%BCthrich&oq=Mario+V.+W%C3%BCthrich&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Market-Consistent Actuarial Valuation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSwycJvbzy8f6R6IfsEFP3m1hsIxg:1573739448893&q=Market-Consistent+Actuarial+Valuation&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-IBcY2S8griTQ0MtQQcS0sy8otC8p3y87P983IqF7Gq-iYWZaeW6Drn5xVnFpek5pUoOCaXlCYWZSbmKIQl5pQmlmTm5-1gZQQA7jSUBFwAAAA&sa=X&ved=2ahUKEwiw0Mem7OnlAhWvyosBHQuzA_cQxA0wcnoECGIQBA)
+
+- [ ] [Market-Consistent Actuarial Valuation - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQbnkfYB5mmnyxZVU7o1NVOuqt9tg:1573739597702&q=Market-Consistent+Actuarial+Valuation&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKMy1JKbRUgvEK4k0NDLXEspOt9JPy87PBhFVxZkpqeWJl8SpGyTSr4tKkrNTkEiuQTLGVfq6-gaFlRVbxIlZV38Si7NQSXef8vOLM4pLUvBIFx-SS0sSizMQchbDEnNLEksz8PABssquoegAAAA&ved=2ahUKEwiAo8Lt7OnlAhUowosBHfLRDh4QxA0wYnoECGEQBA)
+
+- [ ] [Martin Schweizer - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSwycJvbzy8f6R6IfsEFP3m1hsIxg:1573739448893&q=Martin+Schweizer&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV4Jwk8yKyypM0k20-Jzzc3Pz84IzU1LLEyuLF7EK-CYWlWTmKQQnZ5SnZlalFu1gZQQAVA06UUYAAAA&sa=X&ved=2ahUKEwiw0Mem7OnlAhWvyosBHQuzA_cQxA0wc3oECGMQCA)
+
+- [ ] [Maximum likelihood fromincomplete data via the em algorithm - Google Search](https://www.google.com/search?q=Maximum+likelihood+fromincomplete+data+via+the+em+algorithm&oq=Maximum+likelihood+fromincomplete+data+via+the+em+algorithm&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Mittag-Leffler Function - Google Search](https://www.google.com/search?q=Mittag-Leffler+Function&oq=Mittag-Leffler+Function&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [moment generating function - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvL_0ACzfeYFOq-EKG6053PzZPUA:1573775578430&q=moment+generating+function&tbm=isch&source=univ&sa=X&ved=2ahUKEwjRybvy8urlAhWDGaYKHfGFDuwQiR56BAhaEBQ)
+
+- [ ] [moment generating function pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvL_0ACzfeYFOq-EKG6053PzZPUA%3A1573775578430&lei=2ujNXdH0GYOzmAXxi7rgDg&q=moment%20generating%20function%20pdf&ved=2ahUKEwiVgb_z8urlAhUtCqYKHWGeA9sQsKwBKAJ6BAgBEAM&biw=1920&bih=948)
+
+- [ ] [moment generating function pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvL_0ACzfeYFOq-EKG6053PzZPUA%3A1573775578430&lei=2ujNXdH0GYOzmAXxi7rgDg&q=moment%20generating%20function%20pdf&ved=2ahUKEwiVgb_z8urlAhUtCqYKHWGeA9sQsKwBKAJ6BAgBEAM&biw=1920&bih=948)
+
+- [ ] [Mutual fund - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=Mutual+fund&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMwwNC404k8tLM0sqVTIzEspLS4pqoxSTM4vKsgvSixJVUjLzEvMS05VKEvNKyktSlVITizILEnMOcUI0Z9rlFQCYyeZVJjA2CBzoWzTJLMci1-M_K6olixi5fYtLSlNzFFIK81LAQDOXX6bkQAAAA&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQxA0wcHoECGYQCA)
+
+- [ ] [negative binomial regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRJ1aL-e1IlAnXx823QwQuu9GmHIA%3A1573861448854&lei=SDjPXb3gM6uZr7wPt6SZ-A4&q=negative%20binomial%20regression&ved=2ahUKEwjKw9Dlsu3lAhVFGaYKHRB6AisQsKwBKAV6BAgAEAY)
+
+- [ ] [negative binomial regression r - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNTA3PqETqK_4xeSbDqN20ZqLafhtQ:1573861486621&q=negative+binomial+regression+r&sa=X&ved=2ahUKEwiztNf2su3lAhWbKqYKHaXdBpgQ1QIoB3oECGUQCA)
+
+- [ ] [Neural Networks: Tricks of the Trade - Google Search](https://www.google.com/search?q=Neural+Networks%3A+Tricks+of+the+Trade&oq=Neural+Networks%3A+Tricks+of+the+Trade&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [normalmixem - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=normalmixem&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAR6BAgAEAU)
+
+- [ ] [overdispersed poisson - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZJ2bfI-VxUT63j_HsG9eqbjgCg%3A1573874683824&lei=-2vPXY7bMe-Vr7wP98GXoAo&q=overdispersed%20poisson&ved=2ahUKEwjb6NCM5O3lAhWNvZQKHW3cBq0QsKwBKAR6BAgBEAU)
+
+- [ ] [Peter W. Michor - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTNWfOGRjpHkVjDhGXgQaQf0yKoOQ:1573739600279&q=Peter+W.+Michor&stick=H4sIAAAAAAAAAONgFuLSz9U3SK8sMUtJUuLWT9c3NDIsM8-trNTic87Pzc3PC85MSS1PrCxexMofkFqSWqQQrqfgm5mckV-0g5URALFk_dxAAAAA&ved=2ahUKEwj_sd_u7OnlAhW6wosBHXbKDB8QxA0wfHoECGMQQw)
+
+- [ ] [plot zero inflated model in r - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNTA3PqETqK_4xeSbDqN20ZqLafhtQ:1573861486621&q=plot+zero+inflated+model+in+r&sa=X&ved=2ahUKEwiztNf2su3lAhWbKqYKHaXdBpgQ1QIoBnoECGUQBw)
+
+- [ ] [poisson distribution zero inflation football - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3uDxUzYvdgX0HUcN_tuuvYgYq6Q:1573858922454&q=poisson+distribution+zero+inflation+football&sa=X&ved=2ahUKEwi2i_-vqe3lAhXAyYsBHbMXD0sQ1QIoBXoECGQQBg)
+
+- [ ] [poisson negative binomial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZJ2bfI-VxUT63j_HsG9eqbjgCg%3A1573874683824&lei=-2vPXY7bMe-Vr7wP98GXoAo&q=poisson%20negative%20binomial&ved=2ahUKEwjb6NCM5O3lAhWNvZQKHW3cBq0QsKwBKAN6BAgBEAQ)
+
+- [ ] [poisson regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSh5g-RojDcmQLxcEc93rwA1JK-DA:1573874859115&q=poisson+regression+in+r&sa=X&ved=2ahUKEwiwzZff5O3lAhUFL6YKHbhNA_sQ1QIoBnoECD8QBw&cshid=1573874959826778&biw=1920&bih=948)
+
+- [ ] [poisson regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSh5g-RojDcmQLxcEc93rwA1JK-DA:1573874859115&q=poisson+regression+in+r&sa=X&ved=2ahUKEwiwzZff5O3lAhUFL6YKHbhNA_sQ1QIoBnoECD8QBw&cshid=1573874959826778&biw=1920&bih=948)
+
+- [ ] [Practical Risk Theory for Actuaries - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQbnkfYB5mmnyxZVU7o1NVOuqt9tg:1573739597702&q=Practical+Risk+Theory+for+Actuaries&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKMy1JKbRUgvFKTJKLjLXEspOt9JPy87PBhFVxZkpqeWJl8SpGyTSr4tKkrNTkEiuQTLGVfq6-gaFlRVbxIlblgKLE5JLM5MQchaDM4myFkIzU_KJKhbT8IgXH5JLSxKLM1GIAq9vLXHgAAAA&ved=2ahUKEwiAo8Lt7OnlAhUowosBHfLRDh4QxA0wYnoECGEQDg)
+
+- [ ] [Private equity - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=Private+equity&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEwyqTAx4k8tLM0sqVTIzEspLS4pqoxSTM4vKsgvSixJVUjLzEvMS05VKEvNKyktSlVITizILEnMOcUI0Z9rlFQCY4PMgrEzDI0LoWzTJLMci1-M_K6olixi5QsoyiwD2QGxHgA0geS7lAAAAA&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQxA0wcHoECGYQBg)
+
+- [ ] [probability of ruin in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOvWRh9KUSPKEyM4q_UWuvhBLe8A:1573741269331&q=probability+of+ruin+in+r&sa=X&ved=2ahUKEwiHpc6K8-nlAhXjGaYKHRSHB6YQ1QIoAHoECGQQAQ)
+
+- [ ] [pymc3 zero inflated poisson example - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRyaEEZVvbFwb5aiVaoQgkA0R4g6g%3A1573861486914&lei=bjjPXai6N-KumAXRoZWIBg&q=pymc3%20zero%20inflated%20poisson%20example&ved=2ahUKEwjjiNH6su3lAhWmGqYKHaqnADsQsKwBKAF6BAgAEAI)
+
+- [ ] [python expectation maximization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=python%20expectation%20maximization&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAV6BAgBEAY&biw=1920&bih=988)
+
+- [ ] [quasi poisson distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZJ2bfI-VxUT63j_HsG9eqbjgCg%3A1573874683824&lei=-2vPXY7bMe-Vr7wP98GXoAo&q=quasi%20poisson%20distribution&ved=2ahUKEwjb6NCM5O3lAhWNvZQKHW3cBq0QsKwBKAF6BAgBEAI)
+
+- [ ] [quasipoisson r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSh5g-RojDcmQLxcEc93rwA1JK-DA:1573874859115&q=quasipoisson+r&sa=X&ved=2ahUKEwiwzZff5O3lAhUFL6YKHbhNA_sQ1QIoBXoECD8QBg&cshid=1573874959826778)
+
+- [ ] [r mixtools - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=r%20mixtools&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAJ6BAgBEAM)
+
+- [ ] [Regression Modeling with Actuarial and Financial Applications - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNQbnkfYB5mmnyxZVU7o1NVOuqt9tg:1573739597702&q=Regression+Modeling+with+Actuarial+and+Financial+Applications&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKMy1JKbRUgvJyTY3TC-K1xLKTrfST8vOzwYRVcWZKanliZfEqRsk0q-LSpKzU5BIrkEyxlX6uvoGhZUVW8SJW26DU9KLU4uLM_DwF3_yU1JzMvHSF8sySDAXH5JLSxKLMxByFxLwUBbfMvMS8ZBDPsaAgJzM5sQSooxgACrf_xJIAAAA&ved=2ahUKEwiAo8Lt7OnlAhUowosBHfLRDh4QxA0wYnoECGEQCg)
+
+- [ ] [risk of ruin gambling - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOvWRh9KUSPKEyM4q_UWuvhBLe8A:1573741269331&q=risk+of+ruin+gambling&sa=X&ved=2ahUKEwiHpc6K8-nlAhXjGaYKHRSHB6YQ1QIoA3oECGQQBA)
+
+- [ ] [risk of ruin trading - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOvWRh9KUSPKEyM4q_UWuvhBLe8A:1573741269331&q=risk+of+ruin+trading&sa=X&ved=2ahUKEwiHpc6K8-nlAhXjGaYKHRSHB6YQ1QIoAnoECGQQAw)
+
+- [ ] [risk of ruin trading - Google Search](https://www.google.com/search?q=risk+of+ruin+trading&newwindow=1&sa=X&sxsrf=ACYBGNTtAxOGPhpL6TU7dwHMmSqHQgjf7Q:1573741530296&tbm=isch&source=iu&ictx=1&fir=JwPJ9EiOVQHyeM%253A%252CTBVLnGu1uknXdM%252C_&vet=1&usg=AI4_-kQ23CbrqiDW1c-QwTZ1lxDuZtWyIg&ved=2ahUKEwjXq4aH9OnlAhV9yYsBHci8BgIQ9QEwAHoECAUQAw#imgrc=JwPJ9EiOVQHyeM:)
+
+- [ ] [ruin probability for exponential loss python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQqZnDy3yg6eyMcmItjwITFZzrPrw%3A1573741254138&ei=xmLNXbCLCKq2mAXehoT4BQ&q=ruin+probability+for+exponential+loss+python&oq=ruin+probability+for+exponential+loss+python&gs_l=psy-ab.3..0i71l2.303861.305383..305641...0.4..0.0.0.......0....1..gws-wiz._BRJ_JllEJs&ved=0ahUKEwiwhq-D8-nlAhUqG6YKHV4DAV8Q4dUDCAs&uact=5)
+
+- [ ] [ruin probaliity ofr mixtures of exponential losses monte carlo - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOvWRh9KUSPKEyM4q_UWuvhBLe8A%3A1573741269331&ei=1WLNXcfmE-OzmAWUjp6wCg&q=ruin+probaliity+ofr+mixtures+of+exponential+losses+monte+carlo&oq=ruin+probaliity+ofr+mixtures+of+exponential+losses+monte+carlo&gs_l=psy-ab.3..0i71l4.264178.266847..267122...0.2..0.0.0.......0....1..gws-wiz.mN-pjT1nsF8&ved=0ahUKEwiHpc6K8-nlAhXjGaYKHRSHB6YQ4dUDCAs&uact=5)
+
+- [ ] [ruin theory vamsidhar - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOvWRh9KUSPKEyM4q_UWuvhBLe8A:1573741269331&q=ruin+theory+vamsidhar&sa=X&ved=2ahUKEwiHpc6K8-nlAhXjGaYKHRSHB6YQ1QIoAXoECGQQAg)
+
+- [ ] [STAT 5361: Statistical Computing, Fall 2019 - Google Search](https://www.google.com/search?q=STAT+5361%3A+Statistical+Computing%2C+Fall+2019&oq=STAT+5361%3A+Statistical+Computing%2C+Fall+2019&aqs=chrome..69i57j69i64l2j69i60l4.1385j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [statsmodels api negative binomial logit () - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNRyaEEZVvbFwb5aiVaoQgkA0R4g6g%3A1573861486914&lei=bjjPXai6N-KumAXRoZWIBg&q=statsmodels%20api%20negative%20binomial%20logit%20()&ved=2ahUKEwjjiNH6su3lAhWmGqYKHaqnADsQsKwBKAV6BAgAEAY)
+
+- [ ] [Stochastic Claims Reserving Methods in Insurance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSwycJvbzy8f6R6IfsEFP3m1hsIxg:1573739448893&q=Stochastic+Claims+Reserving+Methods+in+Insurance&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOTU8rMDWPV-IBcY2ScjPKTM3StQQcS0sy8otC8p3y87P983IqF7EaBJfkJ2ckFpdkJis45yRm5hYrBKUWpxaVZealK_imApWnFCtk5il45hWXFiXmJafuYGUEAGiv2tRnAAAA&sa=X&ved=2ahUKEwiw0Mem7OnlAhWvyosBHQuzA_cQxA0wcnoECGIQCA)
+
+- [ ] [The Pricing of Variance, Volatility, Covariance and Correlation Swaps', Encyclopedia of Financial Model - Google Search](https://www.google.com/search?q=The+Pricing+of+Variance%2C+Volatility%2C+Covariance+and+Correlation+Swaps%27%2C+Encyclopedia+of+Financial+Model&oq=The+Pricing+of+Variance%2C+Volatility%2C+Covariance+and+Correlation+Swaps%27%2C+Encyclopedia+of+Financial+Model&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [types of venture capital - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=types+of+venture+capital&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQ1QIoAHoECGgQAQ)
+
+- [ ] [underdispersion binomial glm - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRrOuX2TEEGzjm2AMUtK63m1hDU9A%3A1573874696866&lei=CGzPXaHJNJK2mAXGoYzICQ&q=underdispersion%20binomial%20glm&ved=2ahUKEwjiwveW5O3lAhWUxYsBHRByDzIQsKwBKAN6BAgAEAQ)
+
+- [ ] [underdispersion poisson - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRrOuX2TEEGzjm2AMUtK63m1hDU9A%3A1573874696866&lei=CGzPXaHJNJK2mAXGoYzICQ&q=underdispersion%20poisson&ved=2ahUKEwjiwveW5O3lAhWUxYsBHRByDzIQsKwBKAB6BAgAEAE&biw=1920&bih=899)
+
+- [ ] [Venture capital - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=Venture+capital&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMw1Siox4k8tLM0sqVTIzEspLS4pqoxSTM4vKsgvSixJVUjLzEvMS05VKEvNKyktSlVITizILEnMOcWI0A9jJ5lUmMDYGYbGhVC2aZJZjsUvRn5XVEsWsfKHoZoJAItTnMSVAAAA&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQxA0wcHoECGYQBA)
+
+- [ ] [venture capital example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=venture+capital+example&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQ1QIoBXoECGgQBg)
+
+- [ ] [venture capital financing - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQF5O-yQhbi7wB3Dm6vsVT_fMXwwQ:1573879659393&q=venture+capital+financing&sa=X&ved=2ahUKEwjGr5HQ9u3lAhV8yYsBHXJdCekQ1QIoAXoECGgQAg)
+
+- [ ] [Walter Schachermayer - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTNWfOGRjpHkVjDhGXgQaQf0yKoOQ:1573739600279&q=Walter+Schachermayer&stick=H4sIAAAAAAAAAONgFuLSz9U3SK8sMUtJUuLWT9c3NDI0TbZMT9Lic87Pzc3PC85MSS1PrCxexCoSnphTklqkEJyckZickVqUm1iZWrSDlREAr1jx6UUAAAA&ved=2ahUKEwj_sd_u7OnlAhW6wosBHXbKDB8QxA0wfHoECGMQPQ)
+
+- [ ] [What does a moment generating function do? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvL_0ACzfeYFOq-EKG6053PzZPUA:1573775578430&q=What+does+a+moment+generating+function+do%3F&sa=X&ved=2ahUKEwjRybvy8urlAhWDGaYKHfGFDuwQzmd6BAhhEAs)
+
+- [ ] [what is expectation maximization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTgfH3reQBW6T2b2d76DNr8-YaL4A%3A1573867420823&lei=nE_PXa_pMdCGr7wPkJuSsAM&q=what%20is%20expectation%20maximization&ved=2ahUKEwiZ86KFye3lAhWCHqYKHdrCCmgQsKwBKAR6BAgBEAU)
+
+- [ ] [When do the Innocent Plead Guilty - Google Search](https://www.google.com/search?q=When+do+the+Innocent+Plead+Guilty&oq=When+do+the+Innocent+Plead+Guilty&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Write down the complete-data loglikelihood for zip random variable - Google Search](https://www.google.com/search?q=Write+down+the+complete-data+loglikelihood+for+zip+random+variable&newwindow=1&sxsrf=ACYBGNT3uDxUzYvdgX0HUcN_tuuvYgYq6Q:1573858922454&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi2i_-vqe3lAhXAyYsBHbMXD0sQ_AUIEigB&biw=1920&bih=899)
+
+- [ ] [zero inflated data glm - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3uDxUzYvdgX0HUcN_tuuvYgYq6Q:1573858922454&q=zero+inflated+data+glm&sa=X&ved=2ahUKEwi2i_-vqe3lAhXAyYsBHbMXD0sQ1QIoBnoECGQQBw)
+
+- [ ] [zero inflated linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSh5g-RojDcmQLxcEc93rwA1JK-DA:1573874859115&q=zero+inflated+linear+regression&sa=X&ved=2ahUKEwiwzZff5O3lAhUFL6YKHbhNA_sQ1QIoBHoECD8QBQ&cshid=1573874959826778)
+
+- [ ] [zero inflated model distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3uDxUzYvdgX0HUcN_tuuvYgYq6Q:1573858922454&q=zero+inflated+model+distribution&sa=X&ved=2ahUKEwi2i_-vqe3lAhXAyYsBHbMXD0sQ1QIoA3oECGQQBA&biw=1920&bih=899)
+
+- [ ] [zero inflated model distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3uDxUzYvdgX0HUcN_tuuvYgYq6Q:1573858922454&q=zero+inflated+model+distribution&sa=X&ved=2ahUKEwi2i_-vqe3lAhXAyYsBHbMXD0sQ1QIoA3oECGQQBA)
+
+- [ ] [zero inflated poisson distribution in r - Google Search](https://www.google.com/search?q=zero+inflated+poisson+distribution+in+r&oq=ze&aqs=chrome.0.69i59l3j69i60j69i65l3j69i60.6518j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [zero inflated poisson distribution in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxvmYmGjzCMz0UsiljPMVTh1RhCA:1573869520416&q=zero+inflated+poisson+distribution+in+r&sa=X&ved=2ahUKEwjTuL_t0O3lAhVmyosBHVs2DlEQ1QIoB3oECGQQCA)
+
+- [ ] [zero inflated poisson interpretation - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNTA3PqETqK_4xeSbDqN20ZqLafhtQ:1573861486621&q=zero+inflated+poisson+interpretation&sa=X&ved=2ahUKEwiztNf2su3lAhWbKqYKHaXdBpgQ1QIoBXoECGUQBg)
+
+- [ ] [zero inflated poisson likelihood - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3uDxUzYvdgX0HUcN_tuuvYgYq6Q:1573858922454&q=zero+inflated+poisson+likelihood&sa=X&ved=2ahUKEwi2i_-vqe3lAhXAyYsBHbMXD0sQ1QIoAnoECGQQAw)
+
+- [ ] [zero inflated poisson likelihood - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRJ1aL-e1IlAnXx823QwQuu9GmHIA:1573861448854&q=zero+inflated+poisson+likelihood&sa=X&ved=2ahUKEwi9pNbksu3lAhWrzIsBHTdSBu8Q1QIoAXoECGQQAg)
+
+- [ ] [zero inflated poisson likelihood - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRJ1aL-e1IlAnXx823QwQuu9GmHIA%3A1573861448854&lei=SDjPXb3gM6uZr7wPt6SZ-A4&q=zero%20inflated%20poisson%20likelihood&ved=2ahUKEwjKw9Dlsu3lAhVFGaYKHRB6AisQsKwBKAN6BAgAEAQ)
+
+- [ ] [zero inflated poisson mixed model r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxvmYmGjzCMz0UsiljPMVTh1RhCA:1573869520416&q=zero+inflated+poisson+mixed+model+r&sa=X&ved=2ahUKEwjTuL_t0O3lAhVmyosBHVs2DlEQ1QIoA3oECGQQBA)
+
+- [ ] [zero inflated poisson regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRJ1aL-e1IlAnXx823QwQuu9GmHIA:1573861448854&q=zero+inflated+poisson+regression+in+r&sa=X&ved=2ahUKEwi9pNbksu3lAhWrzIsBHTdSBu8Q1QIoAnoECGQQAw&biw=1920&bih=948)
+
+- [ ] [zero inflated poisson regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRJ1aL-e1IlAnXx823QwQuu9GmHIA%3A1573861448854&lei=SDjPXb3gM6uZr7wPt6SZ-A4&q=zero%20inflated%20poisson%20regression%20in%20r&ved=2ahUKEwjKw9Dlsu3lAhVFGaYKHRB6AisQsKwBKAB6BAgAEAE)
+
+- [ ] [zero inflated poisson regression python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRJ1aL-e1IlAnXx823QwQuu9GmHIA:1573861448854&q=zero+inflated+poisson+regression+python&sa=X&ved=2ahUKEwi9pNbksu3lAhWrzIsBHTdSBu8Q1QIoA3oECGQQBA)
+
+- [ ] [zero inflated poisson regression python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRJ1aL-e1IlAnXx823QwQuu9GmHIA%3A1573861448854&lei=SDjPXb3gM6uZr7wPt6SZ-A4&q=zero%20inflated%20poisson%20regression%20python&ved=2ahUKEwjKw9Dlsu3lAhVFGaYKHRB6AisQsKwBKAJ6BAgAEAM)
+
+- [ ] [zero inflated poisson regression stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRJ1aL-e1IlAnXx823QwQuu9GmHIA%3A1573861448854&lei=SDjPXb3gM6uZr7wPt6SZ-A4&q=zero%20inflated%20poisson%20regression%20stata&ved=2ahUKEwjKw9Dlsu3lAhVFGaYKHRB6AisQsKwBKAF6BAgAEAI)
+
+- [ ] [zero inflated poisson wiki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRJ1aL-e1IlAnXx823QwQuu9GmHIA%3A1573861448854&lei=SDjPXb3gM6uZr7wPt6SZ-A4&q=zero%20inflated%20poisson%20wiki&ved=2ahUKEwjKw9Dlsu3lAhVFGaYKHRB6AisQsKwBKAR6BAgAEAU)
+
+- [ ] [zero inflated proportion data - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNTakuXxrKupgNZ5W-8ovRrlIb0skA%3A1573861486841&lei=bjjPXbD4MrCRr7wPsemimAU&q=zero%20inflated%20proportion%20data&ved=2ahUKEwiloov6su3lAhViKqYKHdHiBg0QsKwBKAN6BAgDEAQ)
+
+- [ ] [zero inflated weibull - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3uDxUzYvdgX0HUcN_tuuvYgYq6Q:1573858922454&q=zero+inflated+weibull&sa=X&ved=2ahUKEwi2i_-vqe3lAhXAyYsBHbMXD0sQ1QIoBHoECGQQBQ)
+
+- [ ] [zero inflation poisson regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3uDxUzYvdgX0HUcN_tuuvYgYq6Q:1573858922454&q=zero+inflation+poisson+regression+in+r&sa=X&ved=2ahUKEwi2i_-vqe3lAhXAyYsBHbMXD0sQ1QIoB3oECGQQCA)
+
+- [ ] [Zero-inflated generalized poisson regression modelwith an application to domestic violence data - Google Search](https://www.google.com/search?q=Zero-inflated+generalized+poisson+regression+modelwith+an+application+to+domestic+violence+data&oq=Zero-inflated+generalized+poisson+regression+modelwith+an+application+to+domestic+violence+data&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [zero-inflated negative binomial regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSGZJ2bfI-VxUT63j_HsG9eqbjgCg%3A1573874683824&lei=-2vPXY7bMe-Vr7wP98GXoAo&q=zero-inflated%20negative%20binomial%20regression&ved=2ahUKEwjb6NCM5O3lAhWNvZQKHW3cBq0QsKwBKAV6BAgBEAY&biw=1920&bih=899)
+
+- [ ] [zero-inflated poisson regression sas - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNTA3PqETqK_4xeSbDqN20ZqLafhtQ:1573861486621&q=zero-inflated+poisson+regression+sas&sa=X&ved=2ahUKEwiztNf2su3lAhWbKqYKHaXdBpgQ1QIoBHoECGUQBQ)
+
+- [ ] [zero-inflated poisson regression, with an application to defects in manufacturing - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3uDxUzYvdgX0HUcN_tuuvYgYq6Q:1573858922454&q=zero-inflated+poisson+regression,+with+an+application+to+defects+in+manufacturing&sa=X&ved=2ahUKEwi2i_-vqe3lAhXAyYsBHbMXD0sQ1QIoAXoECGQQAg)
+
+- [ ] [zero-inflated poisson regression, with an application to defects in manufacturing - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRxvmYmGjzCMz0UsiljPMVTh1RhCA:1573869520416&q=zero-inflated+poisson+regression,+with+an+application+to+defects+in+manufacturing&sa=X&ved=2ahUKEwjTuL_t0O3lAhVmyosBHVs2DlEQ1QIoBnoECGQQBw)
+
+- [ ] [zeroinfl() in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSh5g-RojDcmQLxcEc93rwA1JK-DA:1573874859115&q=zeroinfl()+in+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwiwzZff5O3lAhUFL6YKHbhNA_sQsAR6BAgHEAE&cshid=1573874959826778)
+
+- [ ] [zeroinfl() in r - Google Search](https://www.google.com/search?q=zeroinfl()+in+r&oq=zeroinfl()+in+r&aqs=chrome..69i57j0l4j69i60l3.2858j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [zeroinfl() in r site:stackoverflow.com - Google Search](https://www.google.com/search?q=zeroinfl()+in+r+site:stackoverflow.com&newwindow=1&sxsrf=ACYBGNSh5g-RojDcmQLxcEc93rwA1JK-DA:1573874859115&sa=X&ved=2ahUKEwiwzZff5O3lAhUFL6YKHbhNA_sQrQIoBDAHegQIFRAN&cshid=1573874959826778)

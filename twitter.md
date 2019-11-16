@@ -914,3 +914,49 @@ https://twitter.com/koszuldude
 - [ ] [Ronald van Loon @IPQC #CDOFS @Exasol booth (@Ronald_vanLoon) / Twitter](https://twitter.com/Ronald_vanLoon)
 
 - [ ] [Tamara Dull (@tamaradull) / Twitter](https://twitter.com/tamaradull)
+
+
+
+
+Administrator@WIN10-901122121 ~/assorted-readin
+
+
+## 11/16/2019
+
+- [ ] [(1) dopaminedreamさんはTwitterを使っています: 「Convo between @tferriss &amp; @naval on modern loneliness: Naval: In India there's this concept of the extended family where you basically live with your tribe at all times, so when we were young, at our grandmother's place with my aunts, my uncles, my cousins, my grandparents,」 / Twitter](https://twitter.com/dopaminendreams/status/1186455711988891648)
+
+- [ ] [(1) Edmund Harriss（@Gelada）さん / Twitter](https://twitter.com/Gelada)
+
+- [ ] [(1) Tim Ferriss（@tferriss）さん / Twitter](https://twitter.com/tferriss)
+
+- [ ] [(1) Tim Ferriss（@tferriss）さんがフォローしているアカウント / Twitter](https://twitter.com/tferriss/following)
+
+- [ ] [(1) Volodymyr Kuleshov（@volkuleshov）さん / Twitter](https://twitter.com/volkuleshov)
+
+- [ ] [(1) ホーム / Twitter](https://twitter.com/messages/compose)
+
+- [ ] [(1) 令和初の『NHK紅白歌合戦』出場歌手発表🎊 / Twitter](https://twitter.com/i/events/1194863404059516929)
+
+- [ ] [(2) Arnav Sheth（@arnavsheth）さん / Twitter](https://twitter.com/arnavsheth)
+
+- [ ] [(2) Matthew Fellows（@mattfellowsoxcs）さん / Twitter](https://twitter.com/mattfellowsoxcs)
+
+- [ ] [(2) 話題を検索 / Twitter](https://twitter.com/explore)
+
+- [ ] [Amitabh Bachchan（@SrBachchan）さん / Twitter](https://twitter.com/SrBachchan)
+
+- [ ] [Hilary Parker（@hspter）さん / Twitter](https://twitter.com/hspter)
+
+- [ ] [Peter Rowlett（@peterrowlett）さん / Twitter](https://twitter.com/peterrowlett)
+
+- [ ] [Roberto Calandra（@RCalandra）さん / Twitter](https://twitter.com/RCalandra)
+
+- [ ] [Sachin Tendulkar（@sachin_rt）さん / Twitter](https://twitter.com/sachin_rt)
+
+- [ ] [Stefano Ermon（@ermonste）さん / Twitter](https://twitter.com/ermonste)
+
+- [ ] [Theoretical Ecology Blog（@TheorEcolBlog）さん / Twitter](https://twitter.com/TheorEcolBlog)
+
+- [ ] [Zev Ross（@zevross）さん / Twitter](https://twitter.com/zevross)
+
+- [ ] [ホーム / Twitter](https://twitter.com/SrBachchan/header_photo)

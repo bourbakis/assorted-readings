@@ -1084,3 +1084,70 @@ https://drive.google.com/drive/u/0/my-drive
 - [ ] [JuliaLang/julia: The Julia Language: A fresh approach to technical computing.](https://github.com/JuliaLang/julia)
 
 - [ ] [quant3materials/lab12_accept_reject_sampler.R at master · pablobarbera/quant3materials](https://github.com/pablobarbera/quant3materials/blob/master/bayesian/lab12_accept_reject_sampler.R)`
+
+
+## 11/16/2019
+
+- [ ] [atahk/pscl: Political Science Computational Laboratory](https://github.com/atahk/pscl)
+
+- [ ] [bishesh/statsCompare-RiemannianManifold-Groups: A set of matlab codes to explore the differences in statistics on Riemannian manifold and groups.](https://github.com/bishesh/statsCompare-RiemannianManifold-Groups)
+
+- [ ] [Commits · jun-yan/reda](https://github.com/jun-yan/reda/commits?author=wenjie2wang)
+
+- [ ] [compiling-advanced-r-phuong3314/Homework-1.pdf at master · statcomputing/compiling-advanced-r-phuong3314](https://github.com/statcomputing/compiling-advanced-r-phuong3314/blob/master/Homework-1.pdf)
+
+- [ ] [github.com](https://github.com/statcomputing/rng-homework3_aminanurag_noyesmichael/archive/master.zip)
+
+- [ ] [github.com](https://github.com/statcomputing/rng-homework3_yue_gu_-_chenyi_yu/archive/master.zip)
+
+- [ ] [HW4_MCPath_Zhuang_Zimin_Zhou_Xueying/HW4_Zhuang_Zimin_Zhou_Xueying.pdf at master · statcomputing/HW4_MCPath_Zhuang_Zimin_Zhou_Xueying](https://github.com/statcomputing/HW4_MCPath_Zhuang_Zimin_Zhou_Xueying/blob/master/HW4_Zhuang_Zimin_Zhou_Xueying.pdf)
+
+- [ ] [practising-rmarkdown-ilana-antiles/Homework2.pdf at master · statcomputing/practising-rmarkdown-ilana-antiles](https://github.com/statcomputing/practising-rmarkdown-ilana-antiles/blob/master/Homework2.pdf)
+
+- [ ] [sdeng24/statscomputing](https://github.com/sdeng24/statscomputing)
+
+- [ ] [Search · stat computing](https://github.com/search?q=stat+computing)
+
+- [ ] [Search · statscomp](https://github.com/search?q=statscomp)
+
+- [ ] [stat-5361/stat5361-book at master · wenjie2wang/stat-5361](https://github.com/wenjie2wang/stat-5361/tree/master/stat5361-book)
+
+- [ ] [statcomputing/05-coordinate-descent-with-lasso-Kun73: 05-coordinate-descent-with-lasso-Kun73 created by GitHub Classroom](https://github.com/statcomputing/05-coordinate-descent-with-lasso-Kun73)
+
+- [ ] [statcomputing/05-coordinate-descent-with-lasso-Yelie-Yuan: 05-coordinate-descent-with-lasso-Yelie-Yuan created by GitHub Classroom](https://github.com/statcomputing/05-coordinate-descent-with-lasso-Yelie-Yuan)
+
+- [ ] [statcomputing/06-finite-mixture-regression-Kun73: 06-finite-mixture-regression-Kun73 created by GitHub Classroom](https://github.com/statcomputing/06-finite-mixture-regression-Kun73)
+
+- [ ] [statcomputing/06-finite-mixture-regression-Kun73: 06-finite-mixture-regression-Kun73 created by GitHub Classroom](https://github.com/statcomputing/06-finite-mixture-regression-Kun73)
+
+- [ ] [statcomputing/compiling-advanced-r-caoyufan: compiling-advanced-r-caoyufan created by GitHub Classroom](https://github.com/statcomputing/compiling-advanced-r-caoyufan)
+
+- [ ] [statcomputing/compiling-advanced-r-hwetzler: compiling-advanced-r-hwetzler created by GitHub Classroom](https://github.com/statcomputing/compiling-advanced-r-hwetzler)
+
+- [ ] [statcomputing/compiling-advanced-r-Kun73: compiling-advanced-r-Kun73 created by GitHub Classroom](https://github.com/statcomputing/compiling-advanced-r-Kun73)
+
+- [ ] [statcomputing/compiling-advanced-r-shujunma: compiling-advanced-r-shujunma created by GitHub Classroom](https://github.com/statcomputing/compiling-advanced-r-shujunma)
+
+- [ ] [statcomputing/compiling-advanced-r-shujunma: compiling-advanced-r-shujunma created by GitHub Classroom](https://github.com/statcomputing/compiling-advanced-r-shujunma)
+
+- [ ] [statcomputing/compiling-advanced-r-wyh631121: compiling-advanced-r-wyh631121 created by GitHub Classroom](https://github.com/statcomputing/compiling-advanced-r-wyh631121)
+
+- [ ] [statcomputing/compiling-advanced-r-YimingZ61: compiling-advanced-r-YimingZ61 created by GitHub Classroom](https://github.com/statcomputing/compiling-advanced-r-YimingZ61)
+
+- [ ] [statcomputing/compiling-advanced-r-YimingZ61: compiling-advanced-r-YimingZ61 created by GitHub Classroom](https://github.com/statcomputing/compiling-advanced-r-YimingZ61)
+
+- [ ] [statcomputing/compiling-advanced-r-yoshimidilg: compiling-advanced-r-yoshimidilg created by GitHub Classroom](https://github.com/statcomputing/compiling-advanced-r-yoshimidilg)
+
+- [ ] [statcomputing/maximum-likelihood-estimation-Kun73: maximum-likelihood-estimation-Kun73 created by GitHub Classroom](https://github.com/statcomputing/maximum-likelihood-estimation-Kun73)
+
+- [ ] [statcomputing/maximum-likelihood-estimation-Yelie-Yuan: maximum-likelihood-estimation-Yelie-Yuan created by GitHub Classroom](https://github.com/statcomputing/maximum-likelihood-estimation-Yelie-Yuan)
+
+- [ ] [statcomputing/practising-rmarkdown-self-team-1: practising-rmarkdown-self-team-1 created by GitHub Classroom](https://github.com/statcomputing/practising-rmarkdown-self-team-1)
+
+- [ ] [statcomputing/rng-qi_you-weixing_gu: rng-qi_you-weixing_gu created by GitHub Classroom](https://github.com/statcomputing/rng-qi_you-weixing_gu)
+
+- [ ] [Statistical Computing 5361](https://github.com/statcomputing?page=5)
+
+- [ ] [version 1.4.6 · cran/pscl@af9e9f1](https://github.com/cran/pscl/commit/af9e9f1b6a650262d8d8ae90984abef0307ca6e0)
+
+- [ ] [wenjie2wang (Wenjie Wang) / Repositories](https://github.com/wenjie2wang?tab=repositories)

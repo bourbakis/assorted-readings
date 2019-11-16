@@ -407,3 +407,40 @@
 - [ ] [The Art of the Probable: Literature and Probability | Literature | MIT OpenCourseWare](https://ocw.mit.edu/courses/literature/21l-017-the-art-of-the-probable-literature-and-probability-spring-2008/)
 
 - [ ] [Tools | Political Science Laboratory | Political Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/political-science/17-871-political-science-laboratory-spring-2012/tools/)
+
+
+
+
+## 11/16/2019
+
+- [ ] [Access Forbidden | Dartmouth](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/)
+
+- [ ] [Untitled Document](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html)
+
+- [ ] [pinsky-hypergeometric.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pinsky-hypergeometric.pdf)
+
+- [ ] [hedge.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://math.dartmouth.edu/~doyle/docs/hedge/hedge.pdf)
+
+- [ ] [Stephen P. Boyd](http://web.stanford.edu/~boyd/)
+
+- [ ] [Income and Democracy: A Smooth Varying Coefficient Redux - Lundberg - 2017 - Journal of Applied Econometrics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2536)
+
+- [ ] [Principles of Statistical Analysis](http://www.math.ucsd.edu/~eariasca/principles_of_statistical_analysis.html)
+
+- [ ] [Current Affairs | Culture & Politics](https://www.currentaffairs.org/)
+
+- [ ] [Ecology Action: Home](https://www.growbiointensive.org/)
+
+- [ ] [MathStorm Homepage](http://www.math.ucsd.edu/~mathstorm/)
+
+- [ ] [UCSD Math | Research Area: Statistics](http://math.ucsd.edu/research/statistics/)
+
+
+
+## 11/16/2019
+
+- [ ] [Ilya Zaliapin: MATH/STAT 352 (Probability and Statistics)](https://wolfweb.unr.edu/~zal/STAT453_Fall17.html)
+
+- [ ] [Ilya Zaliapin: MATH/STAT 755 (Multivariate Data Analysis)](https://wolfweb.unr.edu/~zal/STAT755_S18.html)
+
+- [ ] [Index of /~zal/STAT653_Fall15](https://wolfweb.unr.edu/~zal/STAT653_Fall15/)

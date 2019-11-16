@@ -111,3 +111,19 @@ https://arxiv.org/abs/1709.09118
 [1710.11475] A Neural-Symbolic Approach to Design of CAPTCHA
 https://arxiv.org/abs/1710.11475
 
+
+## 11/16/2019
+
+- [ ] [[1104.2583] Particle systems and kinetic equations modeling interacting agents in high dimension](https://arxiv.org/abs/1104.2583)
+
+- [ ] [[1706.04702] Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations](https://arxiv.org/abs/1706.04702)
+
+- [ ] [[1710.05488] A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/abs/1710.05488)
+
+- [ ] [[1801.05894] Deep Learning: An Introduction for Applied Mathematicians](https://arxiv.org/abs/1801.05894)
+
+- [ ] [[1802.03042] Deep Hedging](https://arxiv.org/abs/1802.03042)
+
+- [ ] [arXiv.org e-Print archive](https://arxiv.org/)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/?query=ery+arias-castro&searchtype=author&abstracts=show&order=-announced_date_first&size=200)

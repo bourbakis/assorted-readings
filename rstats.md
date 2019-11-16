@@ -373,3 +373,83 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwjZ0Z
 - [ ] [self study - MLE for variance of a lognormal distribution - Cross Validated](https://stats.stackexchange.com/questions/331887/mle-for-variance-of-a-lognormal-distribution)
 
 - [ ] [variance - Asymptotic distribution of MLE (log-normal) - Cross Validated](https://stats.stackexchange.com/questions/52943/asymptotic-distribution-of-mle-log-normal)
+
+
+
+
+## 11/16/2019
+
+- [ ] [4.1 YAML options | bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/yaml-options.html)
+
+- [ ] [4.3 Templates | bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/templates.html)
+
+- [ ] [4.3 Templates | bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/templates.html)
+
+- [ ] [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+
+- [ ] [Chapter 12 Books | R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/books.html)
+
+- [ ] [第 5 章 R Markdown | R 数据分析指南与速查手册](https://bookdown.org/xiao/RAnalysisBook/r-markdown.html)
+
+
+
+## 11/16/2019
+
+- [ ] [What is an MGF? | STAT 414 / 415](https://newonlinecourses.science.psu.edu/stat414/node/72/)
+
+- [ ] [Moment-Generating Function -- from Wolfram MathWorld](http://mathworld.wolfram.com/Moment-GeneratingFunction.html)
+
+- [ ] [Moment Generating Function Explained - Towards Data Science](https://towardsdatascience.com/moment-generating-function-explained-27821a739035)
+
+- [ ] [Moment Generating Function Explained - Towards Data Science](https://towardsdatascience.com/moment-generating-function-explained-27821a739035)
+
+- [ ] [Chapter 4 EM Algorithm | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/em-algorithm.html#acceleration-of-em-algorithm)
+
+- [ ] [A quantile variant of the expectation–maximization algorithm and its application to parameter estimation with interval data - Chanseok Park, 2018](https://journals.sagepub.com/doi/full/10.1177/1748301818779007)
+
+- [ ] [The Johns Hopkins Data Science Lab](https://jhudatascience.org/)
+
+- [ ] [‎Not So Standard Deviations on Apple Podcasts](https://podcasts.apple.com/us/podcast/not-so-standard-deviations/id1040614570)
+
+- [ ] [Not So Standard Deviations](http://nssdeviations.com/)
+
+- [ ] [The Effort Report](http://effortreport.libsyn.com/)
+
+- [ ] [Advanced Statistical Computing](https://bookdown.org/rdpeng/advstatcomp/)
+
+- [ ] [Biostat 778](http://www.biostat.jhsph.edu/~rpeng/biostat778/)
+
+- [ ] [UCLA Statistics | Website](http://statistics.ucla.edu/)
+
+- [ ] [UCLA Summer Program in Statistics: Air Pollution and Health Lab Materials](http://www.biostat.jhsph.edu/~rpeng/UCLAWorkshop/)
+
+- [ ] [ENAR 2009: Methods for Reproducible Research](http://www.biostat.jhsph.edu/~rpeng/ENAR2009/)
+
+- [ ] [Coding Standards for Biostat 778](http://www.biostat.jhsph.edu/~rpeng/biostat778/coding.html)
+
+- [ ] [Appendix A - The Tanenbaum-Torvalds Debate](https://www.oreilly.com/openbook/opensources/book/appa.html)
+
+
+## 11/16/2019
+
+- [ ] [A Selective Overview of Variable Selection in High Dimensional Feature Space](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092303/)
+
+- [ ] [COORDINATE DESCENT ALGORITHMS FOR NONCONVEX PENALIZED REGRESSION, WITH APPLICATIONS TO BIOLOGICAL FEATURE SELECTION. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/22081779/)
+
+- [ ] [Early postoperative serum cystatin C predicts severe acute kidney injury following pediatric cardiac surgery. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/21525851)
+
+- [ ] [EM for Regularized Zero Inflated Regression Models with Applications to Postoperative Morbidity after Cardiac Surgery in Children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4227915/#R20)
+
+- [ ] [EM for Regularized Zero Inflated Regression Models with Applications to Postoperative Morbidity after Cardiac Surgery in Children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4227915/#SD1)
+
+- [ ] [EM for Regularized Zero Inflated Regression Models with Applications to Postoperative Morbidity after Cardiac Surgery in Children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4227915/#FD3)
+
+- [ ] [EM for Regularized Zero Inflated Regression Models with Applications to Postoperative Morbidity after Cardiac Surgery in Children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4227915/#R24)
+
+- [ ] [Incidence, risk factors, and outcomes of acute kidney injury after pediatric cardiac surgery: a prospective multicenter study. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/21336114)
+
+- [ ] [Marginalized zero-inflated Poisson models with missing covariates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6453121/)
+
+- [ ] [Non-Concave Penalized Likelihood with NP-Dimensionality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266747/)
+
+- [ ] [Regularization Paths for Generalized Linear Models via Coordinate Descent. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/20808728/)

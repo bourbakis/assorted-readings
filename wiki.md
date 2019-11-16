@@ -163,3 +163,42 @@ https://en.wikipedia.org/wiki/Category:Theorems_in_Fourier_analysis
 - [ ] [jmlr.csail.mit.edu/papers/v2/horn01ar1.html](http://jmlr.csail.mit.edu/papers/v2/horn01ar1.html)
 
 - [ ] [Support vector clustering - Scholarpedia](http://www.scholarpedia.org/article/Support_vector_clustering)
+
+
+## 11/16/2019
+
+- [ ] [Alexey Chervonenkis - Wikipedia](https://en.wikipedia.org/wiki/Alexey_Chervonenkis)
+
+- [ ] [Bayes' theorem - Wikipedia](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+
+- [ ] [Blavatnik Awards for Young Scientists - Wikipedia](https://en.wikipedia.org/wiki/Blavatnik_Awards_for_Young_Scientists)
+
+- [ ] [Book sources - Wikipedia](https://en.wikipedia.org/wiki/Special:BookSources/978-0-471-54897-3)
+
+- [ ] [Compound Poisson distribution - Wikipedia](https://en.wikipedia.org/wiki/Compound_Poisson_distribution)
+
+- [ ] [Cuckoo search - Wikipedia](https://en.wikipedia.org/wiki/Cuckoo_search)
+
+- [ ] [Léon Bottou - Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou)
+
+- [ ] [Likelihood function - Wikipedia](https://en.wikipedia.org/wiki/Likelihood_function)
+
+- [ ] [Likelihood function - Wikipedia](https://en.wikipedia.org/wiki/Likelihood_function)
+
+- [ ] [Moment-generating function - Wikipedia](https://en.wikipedia.org/wiki/Moment-generating_function)
+
+- [ ] [Onavo - Wikipedia](https://en.wikipedia.org/wiki/Onavo#Facebook_Research)
+
+- [ ] [Overdispersion - Wikipedia](https://en.wikipedia.org/wiki/Overdispersion)
+
+- [ ] [Poisson distribution - Wikipedia](https://en.wikipedia.org/wiki/Poisson_distribution)
+
+- [ ] [Sparse approximation - Wikipedia](https://en.wikipedia.org/wiki/Sparse_approximation)
+
+- [ ] [Support-vector machine - Wikipedia](https://en.wikipedia.org/wiki/Support-vector_machine)
+
+- [ ] [Vencore Labs - Wikipedia](https://en.wikipedia.org/wiki/Vencore_Labs)
+
+- [ ] [Vladimir Vapnik - Wikipedia](https://en.wikipedia.org/wiki/Vladimir_Vapnik)
+
+

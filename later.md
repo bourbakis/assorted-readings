@@ -2116,3 +2116,193 @@ https://www.zhihu.com/question/341466774
 - [ ] [Downloads](chrome://downloads/)
 
 - [ ] [R: Edit One or More Files](https://stuff.mit.edu/afs/sipb/project/r-project/lib/R/library/utils/html/file.edit.html)
+
+
+
+## 11/16/2019
+
+- [ ] [Downloads](chrome://downloads/)
+
+- [ ] [Regression Models for Count Data in R](file:///C:/Users/Administrator/Downloads/v27i08.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1686000/73c968199f4904dad929c0e0f61425bd/Roger%20D.%20Peng%2C%20Sean%20Kross%2C%20Brooke%20Anderson%20-%20Mastering%20software%20development%20in%20R-Leanpub%20%282017%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/247000/b17c820e66326d87b65cffcbe87a1bca/%28Use%20R%29%20Alain%20F.%20Zuur%2C%20Elena%20N.%20Ieno%2C%20Erik%20Meesters%20%28auth.%29%20-%20A%20Beginner%27s%20Guide%20to%20R-Springer-Verlag%20New%20York%20%282009%29.pdf)
+
+- [ ] [A Beginner's Guide to LaTeX - Text](http://www-users.york.ac.uk/~pjh503/LaTeX/text.html)
+
+- [ ] [Expectation-maximization](https://rstudio-pubs-static.s3.amazonaws.com/154174_78c021bc71ab42f8add0b2966938a3b8.html)
+
+- [ ] [[1509.05244] The zero-inflated cure rate regression model: Applications to fraud detection in bank loan portfolios](https://arxiv.org/abs/1509.05244)
+
+- [ ] [latex中数学符号 约等于 怎么输入？？_百度知道](https://zhidao.baidu.com/question/244662992.html)
+
+- [ ] [Lundberg Approximations for Compound Distributions with Insurance Applications : Gordon E. Willmot : 9780387951355](https://www.bookdepository.com/Lundberg-Approximations-for-Compound-Distributions-with-Insurance-Applications-Gordon-E-Willmot/9780387951355)
+
+- [ ] [Python and Zero-Inflated Models | Bryan S. Weber](https://bryansweber.com/2018/10/26/python-and-zero-inflated-models/)
+
+- [ ] [An Individual Claims Reserving Model | ASTIN Bulletin: The Journal of the IAA | Cambridge Core](https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/an-individual-claims-reserving-model/A218719775893E2DC2EC7AA4772143E7)
+
+- [ ] [CAS Monograph No. 3 - Stochastic Loss Reserving Using Generalized Linear Models, Greg Taylor and Grainne McGuire](https://www.casact.org/pubs/monographs/index.cfm?fa=taylor-monograph03)
+
+- [ ] [Corporate Venturing - How Corporate Venture Capital Works](https://corporatefinanceinstitute.com/resources/knowledge/finance/corporate-venturing-corporate-venture-capital/)
+
+- [ ] [Random Dynamical Systems in Finance - CRC Press Book](https://www.crcpress.com/Random-Dynamical-Systems-in-Finance/Swishchuk-Islam/p/book/9781439867181)
+
+- [ ] [Learn to Use Poisson Regression in R – Dataquest](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/)
+
+- [ ] [Expectation Maximizatio (EM) Algorithm — Computational Statistics in Python 0.1 documentation](https://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html)
+
+- [ ] [Mittag-Leffler Function and Probability Distribution - DZone Big Data](https://dzone.com/articles/mittag-leffler-function-and-probability-distributi)
+
+- [ ] [Mittag-Leffler Function and Probability Distribution - DZone Big Data](https://dzone.com/articles/mittag-leffler-function-and-probability-distributi#)
+
+- [ ] [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+
+- [ ] [https://www.ntu.edu.sg/home/nprivault/MAS328/](https://www.ntu.edu.sg/home/nprivault/MAS328/)
+
+- [ ] [GEOFF MCLACHLAN](https://people.smp.uq.edu.au/GeoffMcLachlan/)
+
+- [ ] [Chapter 4 EM Algorithm | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/em-algorithm.html#em-algorithm-1)
+
+- [ ] [STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/)
+
+- [ ] [Fitting a Mixture Model Using the Expectation-Maximization Algorithm in R](http://tinyheero.github.io/2016/01/03/gmm-em.html)
+
+- [ ] [Expectation Maximization | Zhiya Zuo](https://zhiyzuo.github.io/EM/)
+
+- [ ] [Ore Reserve Estimation and Strategic Mine Planning - Google Search](https://www.google.com/search?q=Ore+Reserve+Estimation+and+Strategic+Mine+Planning&oq=Ore+Reserve+Estimation+and+Strategic+Mine+Planning&aqs=chrome..69i57j69i64j69i60.516j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Narayana Prasad Santhanam's home page](http://www-ee.eng.hawaii.edu/~prasadsn/)
+
+- [ ] [Optimal Dividend and Capital Injection Strategies in the Cramér-Lundberg Risk Model](https://www.hindawi.com/journals/mpe/2015/439537/)
+
+- [ ] [SII vol. 10 (2017) no. 2 article 12](https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0010/0002/a012/index.php?mode=ns)
+
+- [ ] [Venture Capital Definition](https://www.investopedia.com/terms/v/venturecapital.asp)
+
+- [ ] [Regression Models for Count Data in R | Zeileis | Journal of Statistical Software](https://www.jstatsoft.org/article/view/v027i08)
+
+- [ ] [Regression Models for Count Data in R | Zeileis | Journal of Statistical Software](https://www.jstatsoft.org/article/view/v027i08)
+
+- [ ] [Zero-Inflated Poisson Regression, with an Application to Defects in Manufacturing on JSTOR](https://www.jstor.org/stable/1269547?seq=1#page_scan_tab_contents)
+
+- [ ] [Zero-Inflated Poisson Regression, with an Application to Defects in Manufacturing on JSTOR](https://www.jstor.org/stable/1269547?seq=1#page_scan_tab_contents)
+
+- [ ] [Titanic _ Bruyont | Kaggle](https://inclass.kaggle.com/dengshijiao/titanic-bruyont/code)
+
+- [ ] [LaTeX Search: Find LaTeX commands](https://latex.guide/)
+
+- [ ] [Burr Type XII Distribution - MATLAB & Simulink](https://www.mathworks.com/help/stats/burr-type-xii-distribution.html)
+
+- [ ] [Writing R Extensions](http://web.mit.edu/~r/current/arch/i386_linux26/lib/R/doc/manual/R-exts.html)
+
+- [ ] [BaRC: Bioinformatics and Research Computing at Whitehead Institute](http://barc.wi.mit.edu/)
+
+- [ ] [Hot Topics](http://barc.wi.mit.edu/education/hot_topics/)
+
+- [ ] [Multivariate analyses in microbial ecology | FEMS Microbiology Ecology | Oxford Academic](https://academic.oup.com/femsec/article/62/2/142/434668)
+
+- [ ] [Line breaks and blank spaces - Overleaf, Editor de LaTeX online](https://es.overleaf.com/learn/latex/Line_breaks_and_blank_spaces)
+
+- [ ] [Line breaks and blank spaces - Overleaf, Online-LaTeX-editor](https://sv.overleaf.com/learn/latex/Line_breaks_and_blank_spaces)
+
+- [ ] [Lengths in LaTeX - Overleaf, Online LaTeX Editor](https://www.overleaf.com/learn/latex/Lengths_in_LaTeX)
+
+- [ ] [Line breaks and blank spaces - Overleaf, Online LaTeX Editor](https://www.overleaf.com/learn/latex/Line_breaks_and_blank_spaces)
+
+- [ ] [Mathematicians proposed an express method for calculation of the propagation of light](https://phys.org/news/2019-09-mathematicians-method-propagation.html)
+
+- [ ] [Mathematicians prove the Hardy-Littlewood-Sobolev inequalities](https://phys.org/news/2019-11-mathematicians-hardy-littlewood-sobolev-inequalities.html)
+
+- [ ] [How to insert spaces between words in latex | Physics Forums](https://www.physicsforums.com/threads/how-to-insert-spaces-between-words-in-latex.345339/)
+
+- [ ] [Machine Learning with Python: Expectation Maximization and Gaussian Mixture Models in Python](https://www.python-course.eu/expectation_maximization_and_gaussian_mixture_models.php)
+
+- [ ] [quantedu.com/wp-content/uploads/2014/05/Zero_Poisson-Code.txt](http://quantedu.com/wp-content/uploads/2014/05/Zero_Poisson-Code.txt)
+
+- [ ] [count.model function | R Documentation](https://www.rdocumentation.org/packages/bayescount/versions/0.9.99-5/topics/count.model)
+
+- [ ] [zigamma.mle: MLE of the zero inflated Gamma and Weibull distributions in Rfast2: A Collection of Efficient and Extremely Fast R Functions II](https://rdrr.io/cran/Rfast2/man/zigamma.mle.html)
+
+- [ ] [zip.mle: MLE of count data in Rfast: A Collection of Efficient and Extremely Fast R Functions](https://rdrr.io/cran/Rfast/man/zip.mle.html)
+
+- [ ] [Discrete — PyMC3 3.2 documentation](https://pymc3.readthedocs.io/en/latest/api/distributions/discrete.html)
+
+- [ ] [ResearchGate](https://www.researchgate.net/post/Maximum_likelihood_algorithm_for_zero-inflated_Poisson_Negative_binomial_regression_doesnt_converge)
+
+- [ ] [ResearchGate](https://www.researchgate.net/publication/259119099_Zero-inflated_Poisson_regression_mixture_model)
+
+- [ ] [RPubs - Models for excess zeros using pscl package (Hurdle and zero-inflated regression models) and their interpretations](https://rpubs.com/kaz_yos/pscl-2)
+
+- [ ] [RPubs - Models for excess zeros using pscl package (Hurdle and zero-inflated regression models) and their interpretations](https://rpubs.com/kaz_yos/pscl-2)
+
+- [ ] [A Weibull-count approach for handling under- and overdispersed longitudinal/clustered data structures - Martial Luyts, Geert Molenberghs, Geert Verbeke, Koen Matthijs, Eduardo E Ribeiro Jr, Clarice GB Demétrio, John Hinde, 2019](https://journals.sagepub.com/doi/abs/10.1177/1471082X18789992)
+
+- [ ] [SAS/STAT Fitting Zero-Inflated Count Data Models by Using PROC GENMOD](https://support.sas.com/rnd/app/stat/examples/GENMODZIP/roots.htm)
+
+- [ ] [[PDF] A wealth-requirement axiomatization of riskiness | Semantic Scholar](https://www.semanticscholar.org/paper/A-wealth-requirement-axiomatization-of-riskiness-F./4359089314d9d96705ed2e66c510216351e861de)
+
+- [ ] [[PDF] A wealth-requirement axiomatization of riskiness | Semantic Scholar](https://www.semanticscholar.org/paper/A-wealth-requirement-axiomatization-of-riskiness-F./4359089314d9d96705ed2e66c510216351e861de)
+
+- [ ] [[PDF] Comparing Risks by Acceptance and Rejection 1 | Semantic Scholar](https://www.semanticscholar.org/paper/Comparing-Risks-by-Acceptance-and-Rejection-1-Hart/704242da540fbe95ba08a0e807c66c3404da80bf)
+
+- [ ] [Function suggests nano-structure: electrophysiology supports that granule membranes play dice. | Semantic Scholar](https://www.semanticscholar.org/paper/Function-suggests-nano-structure%3A-electrophysiology-Hammel-Meilijson/e3c4f2d9f088ba2342dd95cc0d056e2ee3e0c7c9)
+
+- [ ] [Indexing gamble desirability by extending proportional stochastic dominance | Semantic Scholar](https://www.semanticscholar.org/paper/Indexing-gamble-desirability-by-extending-dominance-Hellman-Schreiber/6c6ecd9d68c38c6bf3f13ec4eb8e4b6922ee501b)
+
+- [ ] [Engineers of the Soul: Ideology in Xi Jinping's China by John Garnaut](https://sinocism.com/p/engineers-of-the-soul-ideology-in)
+
+- [ ] [R Code for EM Algorithm](https://www.slideshare.net/AvjinderSingh/r-code-for-em-algorithm)
+
+- [ ] [Numerical Ecology with R | SpringerLink](https://link.springer.com/book/10.1007/978-1-4419-7976-6)
+
+- [ ] [statistics - Maximum Likelihood Estimation for Zero-inflated Poisson distribution - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2761563/maximum-likelihood-estimation-for-zero-inflated-poisson-distribution)
+
+- [ ] [A beginner's guide to GLM and GLMM with R : a frequentist and Bayesian perspective for ecologists in SearchWorks catalog](https://searchworks.stanford.edu/view/11749213)
+
+- [ ] [Log-likelihood](https://www.statlect.com/glossary/log-likelihood)
+
+- [ ] [Moment generating function](https://www.statlect.com/fundamentals-of-probability/moment-generating-function)
+
+- [ ] [Other Models miscmodels — statsmodels v0.10.1 documentation](https://www.statsmodels.org/stable/miscmodels.html)
+
+- [ ] [Decision tree approaches for zero-inflated count data: Journal of Applied Statistics: Vol 33, No 8](https://www.tandfonline.com/doi/abs/10.1080/02664760600743613?scroll=top&needAccess=true&journalCode=cjas20)
+
+- [ ] [Torch | Scientific computing for LuaJIT.](http://torch.ch/)
+
+- [ ] [Index of /comp/150GA/homeworks/hw3](https://www.cs.tufts.edu/comp/150GA/homeworks/hw3/)
+
+- [ ] [R - Poisson Regression - Tutorialspoint](https://www.tutorialspoint.com/r/r_poisson_regression.htm)
+
+- [ ] [Poisson Regression | R Data Analysis Examples](https://stats.idre.ucla.edu/r/dae/poisson-regression/)
+
+- [ ] [Zero-Inflated Negative Binomial Regression | R Data Analysis Examples](https://stats.idre.ucla.edu/r/dae/zinb/)
+
+- [ ] [www.math.ucsd.edu/~vrotar/](http://www.math.ucsd.edu/~vrotar/)
+
+- [ ] [About GMC Network | GMC Network](http://gmcnet.webs.ull.es/)
+
+- [ ] [www.biostat.umn.edu/~john-c/5421/zeroinflatedpoisson.notes](http://www.biostat.umn.edu/~john-c/5421/zeroinflatedpoisson.notes)
+
+- [ ] [Repeated Measures Analysis of Variance Using R](https://www.uvm.edu/~dhowell/StatPages/Missing_Data/Missing-Part-Two.html)
+
+- [ ] [Treatment of Missing Data](https://www.uvm.edu/~dhowell/StatPages/Missing_Data/MissingDataNorm.html)
+
+- [ ] [Corporate venture capital - Wikipedia](https://en.wikipedia.org/wiki/Corporate_venture_capital)
+
+- [ ] [Eight (and a half) deadly sins of spatial analysis - Hawkins - 2012 - Journal of Biogeography - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2699.2011.02637.x)
+
+- [ ] [Maximum Likelihood Estimation and Inference - Maximum Likelihood Estimation and Inference - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470094846)
+
+- [ ] [Zero‐Inflated Poisson and Binomial Regression with Random Effects: A Case Study - Hall - 2000 - Biometrics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0006-341X.2000.01030.x)
+
+- [ ] [SPATIAL ANALYSIS OF LANDSCAPES: CONCEPTS AND STATISTICS - Wagner - 2005 - Ecology - Wiley Online Library](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/04-0914)
+
+- [ ] [Trader Personality Part II | BisnisFx](https://bisnisfx.wordpress.com/2009/12/05/trader-personality-part-ii/)
+
+- [ ] [Modeling and Pricing of Swaps for Financial and Energy Markets with Stochastic Volatilities](https://www.worldscientific.com/worldscibooks/10.1142/8660)
+
+- [ ] [Statistical Rethinking – Richard McElreath](http://xcelab.net/rm/statistical-rethinking/)
+
+- [ ] [(27 封私信 / 43 条消息) 符号 \simeq 表示什么关系？ - 知乎](https://www.zhihu.com/question/21906803)

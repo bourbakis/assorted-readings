@@ -34,3 +34,10 @@
 - [ ] [Release Bad News on a Friday - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/release-bad-news-on-a-friday.html)
 
 - [ ] [What should I ask Esther Duflo? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/what-should-i-ask-esther-duflo.html)
+
+
+## 11/16/2019
+
+- [ ] [Garett Jones on open borders - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/garett-jones-on-open-borders.html)
+
+- [ ] [Mortality sentences to ponder paging Ross Douthat too - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/mortality-sentences-to-ponder-paging-ross-douthat-too.html)

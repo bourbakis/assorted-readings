@@ -548,3 +548,80 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [self study - MLE for variance of a lognormal distribution - Cross Validated](https://stats.stackexchange.com/questions/331887/mle-for-variance-of-a-lognormal-distribution)
 
 - [ ] [variance - Asymptotic distribution of MLE (log-normal) - Cross Validated](https://stats.stackexchange.com/questions/52943/asymptotic-distribution-of-mle-log-normal)
+
+
+
+
+## 11/16/2019
+
+- [ ] [expectation maximization - EM algorithm for fitting GMM in multivariate case in R - Cross Validated](https://stats.stackexchange.com/questions/47658/em-algorithm-for-fitting-gmm-in-multivariate-case-in-r)
+
+- [ ] [expectation maximization - EM algorithm for fitting GMM in multivariate case in R - Cross Validated](https://stats.stackexchange.com/questions/47658/em-algorithm-for-fitting-gmm-in-multivariate-case-in-r)
+
+- [ ] [expectation maximization - EM algorithm for zero truncated poisson - Cross Validated](https://stats.stackexchange.com/questions/390738/em-algorithm-for-zero-truncated-poisson)
+
+- [ ] [expectation maximization - ZIP Fit Indices Calculated from an EM Algorithm - Cross Validated](https://stats.stackexchange.com/questions/208829/zip-fit-indices-calculated-from-an-em-algorithm)
+
+- [ ] [generalized linear model - Coding a Zero Inflated Poisson with regression on p and lambda in r - Cross Validated](https://stats.stackexchange.com/questions/285368/coding-a-zero-inflated-poisson-with-regression-on-p-and-lambda-in-r)
+
+- [ ] [goodness of fit - Measure of "deviance" for zero-inflated Poisson or zero-inflated negative binomial? - Cross Validated](https://stats.stackexchange.com/questions/203718/measure-of-deviance-for-zero-inflated-poisson-or-zero-inflated-negative-binomi)
+
+- [ ] [How do I fit a set of data to Burr Distribution in R? - Cross Validated](https://stats.stackexchange.com/questions/96977/how-do-i-fit-a-set-of-data-to-burr-distribution-in-r/96981)
+
+- [ ] [maximum likelihood - How do you use the EM algorithm to calculate MLEs for a latent variable formulation of a zero inflated Poisson model? - Cross Validated](https://stats.stackexchange.com/questions/32133/how-do-you-use-the-em-algorithm-to-calculate-mles-for-a-latent-variable-formulat)
+
+- [ ] [modeling - Modelling a Poisson distribution with overdispersion - Cross Validated](https://stats.stackexchange.com/questions/35/modelling-a-poisson-distribution-with-overdispersion)
+
+- [ ] [Newest 'expectation-maximization' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/expectation-maximization)
+
+- [ ] [Newest 'generalized-linear-model' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/generalized-linear-model)
+
+- [ ] [Newest 'latent-variable' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/latent-variable)
+
+- [ ] [Newest 'maximum-likelihood' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/maximum-likelihood)
+
+- [ ] [Newest 'poisson-distribution' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/poisson-distribution)
+
+- [ ] [optimization - Is EM feasible when there is no closed form maximization of the expectation of log likelihood? - Cross Validated](https://stats.stackexchange.com/questions/225406/is-em-feasible-when-there-is-no-closed-form-maximization-of-the-expectation-of-l)
+
+- [ ] [r - EM algorithm for Gaussian mix - Cross Validated](https://stats.stackexchange.com/questions/58690/em-algorithm-for-gaussian-mix)
+
+- [ ] [r - EM algorithm for maximizing the likelihood of Multivariate Hawkes process - Cross Validated](https://stats.stackexchange.com/questions/226117/em-algorithm-for-maximizing-the-likelihood-of-multivariate-hawkes-process)
+
+- [ ] [r - EM algorithm manually implemented - Cross Validated](https://stats.stackexchange.com/questions/55132/em-algorithm-manually-implemented)
+
+- [ ] [r - Simulate from a zero-inflated poisson distribution - Cross Validated](https://stats.stackexchange.com/questions/189005/simulate-from-a-zero-inflated-poisson-distribution/189052)
+
+- [ ] [r squared - deviance for zero-inflated compound poisson model, continuous data (R) - Cross Validated](https://stats.stackexchange.com/questions/313429/deviance-for-zero-inflated-compound-poisson-model-continuous-data-r?rq=1)
+
+- [ ] [regression - Numerical example to understand Expectation-Maximization - Cross Validated](https://stats.stackexchange.com/questions/72774/numerical-example-to-understand-expectation-maximization)
+
+- [ ] [self study - How do you fit a Poisson distribution to table data? - Cross Validated](https://stats.stackexchange.com/questions/202752/how-do-you-fit-a-poisson-distribution-to-table-data)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/16/2019
+
+- [ ] [Class implemenation for Monte Carlo Option Pricing in Python - Stack Overflow](https://stackoverflow.com/questions/40922691/class-implemenation-for-monte-carlo-option-pricing-in-python)
+
+- [ ] [Fitting a zero inflated poisson distribution in R - Stack Overflow](https://stackoverflow.com/questions/7157158/fitting-a-zero-inflated-poisson-distribution-in-r)
+
+- [ ] [glm - R Zeroinfl model - Stack Overflow](https://stackoverflow.com/questions/6682921/r-zeroinfl-model)
+
+- [ ] [logistic regression - No zeros predicted from zeroinfl object in R? - Stack Overflow](https://stackoverflow.com/questions/22314921/no-zeros-predicted-from-zeroinfl-object-in-r)
+
+- [ ] [poisson - examining residuals and visualizing zero-inflated poission r - Stack Overflow](https://stackoverflow.com/questions/43075911/examining-residuals-and-visualizing-zero-inflated-poission-r)
+
+- [ ] [r - zeroinfl "system is computationally singular" whereas no correlation in predictors - Stack Overflow](https://stackoverflow.com/questions/44134711/zeroinfl-system-is-computationally-singular-whereas-no-correlation-in-predicto)
+
+- [ ] [statistics - How do I get a publication quality ouput from zeroinfl() in R? - Stack Overflow](https://stackoverflow.com/questions/35757166/how-do-i-get-a-publication-quality-ouput-from-zeroinfl-in-r)
