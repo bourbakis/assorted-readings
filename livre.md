@@ -67,7 +67,187 @@ http://libgen.is/book/index.php?md5=2E408DA22DA834A91D8267A467479304
 
 
 
+## 11/16/2019
 
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/6000/55cd0e5456ca45d533f58b7204ad71ac/A.%20N.%20Kolmogorov%2C%20S.%20V.%20Fomin%2C%20Richard%20A.%20Silverman%20-%20Introductory%20real%20analysis-Dover%20Publications%20%281975%29.djvu)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1352000/225734f929e77cff11b0abb937304f66/Markushevich%2C%20Alekse%C4%AD%20Ivanovich_%20Silverman%2C%20Richard%20A.%20-%20Theory%20of%20Functions%20of%20a%20Complex%20Variable%20vol%20III-Prentice-Hall%20%281967%29.djvu)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1352000/54b0c7a8c281dd9b99fe4a63227b5b28/Markushevich%2C%20Alekse%C4%AD%20Ivanovich_%20Silverman%2C%20Richard%20A.%20-%20Theory%20of%20Functions%20of%20a%20Complex%20Variable%20vol%20I-Prentice-Hall%20%281965%29.djvu)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7A8AEB0EC33C0DCB9896A7C4FF8BE9F6)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5B61377E481C3FCBDFE2BC4DDF149335)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E2CD2E491B85F238649222D87484EDCA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C128F687376B2B79A7C54EA7B55AC61E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/3B422900FF61B27E16F21458EEC16317)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A7391CAE099907594BB1729C9F393699)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/CBF9A3D5EC13B9523A757E78D21D4F53)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6D685805DDB7E73ADD5C432DA687BEBA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FF9764A768C3F088D850F3DE496C05E2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FF9764A768C3F088D850F3DE496C05E2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FF9764A768C3F088D850F3DE496C05E2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/88724F2678F609401586B00D9389E26B)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/418B6F34064B876D11761DF9E5BC005E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/418B6F34064B876D11761DF9E5BC005E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/31E323C7F16E529A2B0B9355A2FE3E31)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/98CED1B4C06737842268939E5FEC909F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/725485FC8219718ACE0A059FE8E0F90C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/98B61438AD661DE58A7007900F77EB38)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/AA07EFEEAD0147C0C7A6C06B6EB2DFDE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A573C3CB868C91A23C2DC264BCBDF2FA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/43EF46BF2DFA9980543692825FC0FE7A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5DC5CCE1096B55EE38779B52F03A3457)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/274ABAC3EE20F7108F9C2D82CB7F98C2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2862FE06C972BF324C8437CE9BBE1901)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DA3006A18EA3B5ACDB0699A66F8805AE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DA3006A18EA3B5ACDB0699A66F8805AE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/CF8D5546ACBC80FF7C78DB31551AA1F3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4AEBF38E92CCA5ADAAD4367102F3A64C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D4F60753A59CEC40ABCC934D9C70D9A3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D965F0F3D1950EDAF3157D39F41AFF73)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/8F599B59E116BAE3E5B0C6DDCD0FDC43)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5B60740DF5DF9C567876421F9C91C255)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/47C0112C96CCE8AA8E70D2DCF1B62AF5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EA1C2FA08729ACEB22A2470CA9B1D3A4)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/00BC06A890602EDD3EFBCBE8E268A7D0)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4C127F13740408DDE3D445E552BE8C02)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/21405EFBCEE3CF8A71A730B12A54F336)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/29656986F66DDE873C5DD0774351BC5B)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B216DB9BC2E126738930C6635002B98C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C5F34229330BFE3AEE1A2203D40C174A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/28B9E538154C371532012DEDCA88485D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F51DE67463F7F9330FD4AE109E8C7078)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/07ED22E24AD96323A8B5E036C8634013)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FE555E7900A436DBD8AE3369266FAD06)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EE1DBDDAA435EB2CF04F0A8B8349811D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4CB8321C18EE58A243E2DAEEA54FE165)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FC71686FF120A9804E95B3CDF4F60A66)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/274000/72e86bdbe7b09a3905ef9d47cd1defb6/%28Mathematics%20and%20its%20Applications%29%20Vladimir%20M.%20Tikhomirov%20-%20Selected%20Works%20of%20A.N.%20Kolmogorov.%20Volume%20I_%20Mathematics%20and%20Mechanics-Springer%20%281991%29.djvu)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/3A506B337A98982D529E33CC22A4A37C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/3A506B337A98982D529E33CC22A4A37C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7703741C680DFDF81CD10B35DABD2C65)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6B4B8B424DF5762314278B50C6AF7C8A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0513F2E6427252B9BD39D165FDEC115D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B0A78356EA6DAF0ED740FB2DC1B74C49)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0439EA8194698AA7486E0ABEDCF65FB3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/33690C5B377E7234B84823A75862E954)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FEAC7AA377F17D1C215103C8D4DF3FDC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F20C276A3E8C091AFA7069CF98421C57)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/AB42CD7FFF93F93B53F0A9D82858B693)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E870ED58032FAD2963ABFDF3FF928869)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6103E136F3C10BBF1D784E663B68291D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B4E2B555A278BC81CEF747474555E24D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EFD1BAE8350558B2A8CCCD9B17BF7DF9)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F3BDF620122B31746C90600D464E18FD)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/70FC7C7751088179550E35332475A1B8)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D8C3D0BCEDB34355AD84C545B374DE8F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/44FC2A9725DCD67F60C5C3DC7FADBC7C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/AEEE9A115CF9056BE01B917982AB7B95)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/155EDE9E1EC4AF17C8E852257E2642DE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/68297E1D46E6A71777FDBB0EF190AE8A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E88489ABDD25AC31CDD28564E73D3264)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/77C3984942D05A91ED903E9DF473A189)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C660D3C8E17E55505FF23478805F472F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E5F2C8A1A290CDA9309016D950E1D319)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6983C8492A7E998282D2422EA73B1712)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6983C8492A7E998282D2422EA73B1712)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/1D46E4CDBE60F60D27F91C456EB2F281)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4C42C3D0A90B69394E5B5DCF921BF36F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7312800B50C0B4B2FC2C340C6CE91015)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BB8B54C5F7F00962CD4C05A9ADD18ADD)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DFC2B8C6BA89028B67205481BD405AE5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0A7A10D755932C48F902304CE07CD012)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/69A47D96629E2CE88EA8E89D6CB1B636)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F7C24F14833CA62F23FF0895CA701BC2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F4497D82AA6E6935D6FA29FFCA7AEE82)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A1724F25F308394CAC42703BA9AF7A87)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6343D0D509348917A10D3A348DD73344)
 
 
 # What Tyler Cowen is reading/Browsing
@@ -152,3 +332,35 @@ http://libgen.is/book/index.php?md5=2E408DA22DA834A91D8267A467479304
 - [ ] [The EM Algorithm and Extensions - Geoffrey J. McLachlan, Thriyambakam Krishnan - Google Books](https://books.google.com/books?id=NBawzaWoWa8C&pg=PA331&lpg=PA331&dq=All+Likelihood:+Statistical+Modelling+and+Inference+Using+Likelihood+solutions&source=bl&ots=tod5TPUzwO&sig=ACfU3U1YjxdzhWScyvzQELzpwvzQ0KLdEA&hl=en&sa=X&ved=2ahUKEwiN-7Xgru3lAhW4yIsBHfSqBF0Q6AEwGHoECGIQAQ#v=onepage&q=All%20Likelihood%3A%20Statistical%20Modelling%20and%20Inference%20Using%20Likelihood%20solutions&f=false)
 
 - [ ] [The EM Algorithm and Extensions - Geoffrey J. McLachlan, Thriyambakam Krishnan - Google Books](https://books.google.com/books?id=NBawzaWoWa8C&pg=PA336&lpg=PA336&dq=A+Monte+Carlo+Implementation+of+the+EM+Algorithm+and+the+Poor+Man%E2%80%99s+Data+Augmentation+Algorithms+r&source=bl&ots=tod5TQUCwL&sig=ACfU3U3HviNjxxmw3kPuw1X82PZxXtI9JQ&hl=en&sa=X&ved=2ahUKEwjirLiO1e3lAhWFGKYKHbUYBjIQ6AEwCXoECFIQAQ#v=onepage&q=A%20Monte%20Carlo%20Implementation%20of%20the%20EM%20Algorithm%20and%20the%20Poor%20Man%E2%80%99s%20Data%20Augmentation%20Algorithms%20r&f=false)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/16/2019
+
+- [ ] [libgen.is/setlang.php?lang=en](http://libgen.is/setlang.php?lang=en)
+
+- [ ] [libgen.is/setlang.php?lang=en](http://libgen.is/setlang.php?lang=en)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=+Donald+E.+Knuth&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Ming Li; Paul Vitányi - An Introduction to Kolmogorov Complexity and Its Applications (Texts in Computer Science)](http://libgen.is/book/index.php?md5=9264CBDACB1C903D3C32B8071A0BC978)
+
+- [ ] [Library Genesis: Ben Stephenson - The Python Workbook: A Brief Introduction with Exercises and Solutions](http://libgen.is/book/index.php?md5=8BE7863AB21C3A9CC0BDCFCEF6BA5453)
