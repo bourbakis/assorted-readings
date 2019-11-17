@@ -1977,3 +1977,617 @@ http://libgen.is/book/index.php?md5=2E408DA22DA834A91D8267A467479304
 - [ ] [Library Genesis: Eckhard Platen, Nicola Bruti-Liberati (auth.) - Numerical Solution of Stochastic Differential Equations with Jumps in Finance](http://libgen.is/book/index.php?md5=84A47A0E3262BE9CE59B95044EFCFBF6)
 
 - [ ] [Library Genesis: Etienne Pardoux - Markov processes and applications: Algorithms, networks, genome and finance](http://libgen.is/book/index.php?md5=8AF42374980F0A23AEA9AE525265FC1E)
+
+
+
+
+
+
+## 11/17/2019
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/ED1A81CEFF468C721565B3C366EBC1BF)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4DC3D0F1023EB3498281C1AA7872C8BE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/963BCA84C67EAC07806CFA042623D9F8)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/225EE88EAC72D57BD0CD385E61886752)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/66B9F58D62D54F161B75961CD784473B)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/264695F9DC8478EC80CC73563E87EB74)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/120F874627B1FFC8BAD3FED71F7449B5)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/38DEA6F847B44443ADE9D0118D2950C6)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/442296336D5BD0302159067D8B813A0E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BDBB5EB30B5D62DACC34FDDFA0F2EDE5)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/B94E530A40F65B3AE4F0FFAF69D5A8F5)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/4DF4BE47BFE39ECABDD69349B81B7FBA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2892BC143D79DD20EDB383D011007CDC)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/97787F44DDC4FBE8B1BD025EA2CDDD11)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BDAC2D23E42BF784FB46D2BBA7B8B97C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5BB02B73C772C50F75196FFB16688377)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B44CCA0218C43EB98A641E1D0F8BF8D2)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/C280459C3B2932AA31128B18A072020F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D2DBD4618BAD032A803F53B0EA1C82A1)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/81F2C357060D1EAF7EA00EDF26F783F1)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B2DD2F21280FD786A3866ED07EF446D4)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/D347FA43E749B5AFA1F76781F6542525)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7EAA01CC042744C0D3D4480B0EA64873)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/61D4346419D69DBA2E997E11ADAADA02)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/3443D762F2F1CD0EA1D4FA92A91E1242)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0DCF48EAE49ABBDEAA4851824A3E8EFD)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/CE906BEFE7CB70B9BCD9C96C912A8563)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/41ED70359C1D0A6E4BF68E04F1A2E8BB)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E627FFD7DB6055E9857B2438135ABAEE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FB24969B46017C915BE6A6C8D53F17C8)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DAC57F85C0A840354922DADFCB3C1F9F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/459674BB38AC1C82F54011C85DC8B98C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0A472F072ADB300CD68B9D7696EEF7CA)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/4A2D8885FA5F5EEB16B94F65D6B98D71)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/90EBA7CF5BD070F70FA51A00824ABE48)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/AE034A8C2249AD0F8C619912E7103223)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/776279ADB1802FC4E3D1304B26CE7202)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E52ADBFD0D0FDB6E98FE3CDDD90ABC81)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/33DC9BEAEFF8D1088773185967365A39)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/CDB3C3CA5202303B64364865EC1CAD9A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EB35F04BFE0A60785A8E5C6F983EFE23)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/458FEF7D3D40F746424A1768C46102D2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/1BD75FC2CB7CC33A78AB3F506A1497E0)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0E93B23909C9B6279FB8910A8EC669D7)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/268EBDFFD4076FA84C5EF545BA76958C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4001BC134E5B32EB9A171FE7F20815CB)
+
+- [ ] [Library Genesis: Frank J. Fabozzi CFA, Sergio M. Focardi, Caroline Jonas - Challenges in Quantitative Equity Management](http://libgen.is/book/index.php?md5=65013D34270AF19FA88DBE52BB12C2FD)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/2226000/5a377524ca8a94fed30b5f7490cb86ff/%28Statistics%20in%20practice%29%20Dias%2C%20Sofia%20-%20Network%20meta-analysis%20for%20decision%20making-John%20Wiley%20%26%20Sons%20%282018%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/9D0398889EE156307104C5E14A3F261B)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/2BF9AB6A69DF713FC1C673F357CE98C8)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/6A5B071C985D47D32CF06EE88FA9B96D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0F464739828AE4104A37EDD3B1916CC7)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E7F78973105B520C75C26178C0FDE853)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/A1FEA6DE32504F8F63A335FB54F81402)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/28F118FB6B2130998494AA1CAEEA6D08)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0E8DC5BB1CAEB874A96D02B94BF16991)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/3AB3912BB2C7E81DB94F489C8E041F73)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/24679AF53BB3B8E1C2D34EABAA079F70)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/97A43200C4DF0E248E7AFCB2A689BD6E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/82AD02ED95872457A1B845595E9A4C75)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FA3B8ABE84094EBB00371E15CBFF65AF)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1146000/5dc5b00774308f9bb3ad3d665e61f885/Victor%20Guillemin%2C%20Shlomo%20Sternberg%20-%20Semi-Classical%20Analysis%20%28draft%20version%2C%20April%2025%202012%29-International%20Press%20of%20Boston%20%282013%29.pdf)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4ECC98AA9D03DEA83AC1F3844F112F77)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7AA38E1061C89C2FE38DDA4B90827634)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/25BD5FBC0C285120B20AA0BD93DAA78E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/CB0F27B9071F776A84262C2667248D2D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5F10001814A6809660043A151199CCA2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/10241F6FF82ABF4051B331690A1EDFCC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F79FDE111A8957F40F8CFAF08B5E9850)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/72053893943EECBC413C12575722CA6B)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/B4BCDD79A4E854255CA602172AF01068)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/FC75CBFCC9E11714329E1A2DB02CBCB4)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A51CF5C48928E60FB24E103F53E37CB7)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/4715C922673A27B67AA32543B8E96DA0)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/ECCFA3A564D618C99B34168C5403A0B3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/85184AA80C21F24C70C69AB776F0015C)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/9BA57B9B7A4D1F48BADDEFAE453B6F3D)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/A352C923FF8A3EEB6D9B5D9C43C635BE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BB373C5EACFAD9382C89B62C8B9E092B)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/671422D233B6056FB937DAAC62F7CA38)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/4FC7BAF859BB5CF76CF0F2256855529C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C0082A76223F790A88F4987FF9DECFDD)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/C5B9C1BAC76D248AE148F97D45D9A6CF)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/71F4FFBA8DFA1D40D89EB564B5385575)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/1147F7E842967419878CA54D3E3282D9)
+
+
+
+## 11/17/2019
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5A377524CA8A94FED30B5F7490CB86FF)
+
+- [ ] [Library Genesis: Ngai Hang Chan; Hoi Ying Wong; Ebooks Corporation - Handbook of simulation and financial risk management with practical case studies](http://libgen.is/book/index.php?md5=9D0398889EE156307104C5E14A3F261B)
+
+- [ ] [Library Genesis: Ngai Hang Chan - Time series: applications to finance](http://libgen.is/book/index.php?md5=2BF9AB6A69DF713FC1C673F357CE98C8)
+
+- [ ] [Library Genesis: Bernard Lapeyre, Etienne Pardoux, Rémi Sentis - Methodes de Monte-Carlo pour les equations de transport et de diffusion](http://libgen.is/book/index.php?md5=6A5B071C985D47D32CF06EE88FA9B96D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/28F118FB6B2130998494AA1CAEEA6D08)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0E8DC5BB1CAEB874A96D02B94BF16991)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/3AB3912BB2C7E81DB94F489C8E041F73)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/82AD02ED95872457A1B845595E9A4C75)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/10241F6FF82ABF4051B331690A1EDFCC)
+
+- [ ] [Library Genesis: I. Ya. Novikov, V. Yu. Protasov, M. A. Skopina - Wavelet Theory](http://libgen.is/book/index.php?md5=B4BCDD79A4E854255CA602172AF01068)
+
+- [ ] [Library Genesis: I. Ya. Novikov, V. Yu. Protasov, M. A. Skopina - Wavelet Theory](http://libgen.is/book/index.php?md5=FC75CBFCC9E11714329E1A2DB02CBCB4)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A51CF5C48928E60FB24E103F53E37CB7)
+
+- [ ] [Library Genesis: Kiyosi Itô, Henry P. McKean Jr. (auth.) - Diffusion Processes and their Sample Paths: Reprint of the 1974 Edition](http://libgen.is/book/index.php?md5=4FC7BAF859BB5CF76CF0F2256855529C)
+
+- [ ] [Library Genesis: Felix Klein - Lectures on the icosahedron and the solution of equations of the fifth degree](http://libgen.is/book/index.php?md5=1147F7E842967419878CA54D3E3282D9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+????
+
+
+## 9/8/2019
+
+- [ ] [Library Genesis](http://gen.lib.rus.ec/search.php?&req=Graham+Harman&phrase=0&view=simple&column=def&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Graham Harman - Object Oriented Ontology: A New Theory of Everything](http://gen.lib.rus.ec/book/index.php?md5=FEA84861B16ED65E52207269B0AD172C)
+
+- [ ] [Library Genesis: Jason Brownlee - Basics for Linear Algebra for Machine Learning - Discover the Mathematical Language of Data in Python](http://gen.lib.rus.ec/book/index.php?md5=AA6336B23F772F63E5BEDC91BDF02FE6)
+
+- [ ] [Library Genesis: Carsten Schneider,Eugene Zima (eds.) - Advances in Computer Algebra: In Honour of Sergei Abramov's' 70th Birthday, WWCA 2016, Waterloo, Ontario, Canada](http://gen.lib.rus.ec/book/index.php?md5=ACC73A776E65F80F80AF81692734BD95)
+
+- [ ] [Library Genesis: bernhard Schipp, Walter Kramer - Statistical Inference, Econometric Analysis and Matrix Algebra](http://gen.lib.rus.ec/book/index.php?md5=DC859F5C00FA251C0D7FDA2E16AA1F5D)
+
+- [ ] [Library Genesis: Basilevsky, Alexander - Applied Matrix Algebra in the Statistical Sciences](http://gen.lib.rus.ec/book/index.php?md5=80D8213C455E5658690058E318866B28)
+
+
+- [ ] )[Judea Pearl's books](https://libgen.is/search.php?&req=Judea+Pearl&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
+
+
+- [x] [Library Genesis](https://libgen.is/search.php?&req=learn+you+haskell+for+great+good&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+
+- [ ] [Library Genesis](https://libgen.is/search.php?&req=python+web&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+https://git.io/JeqDQ
+
+
+- [x] [](https://is.gd/honSRq)
+- [ ] [Best Writing in Mathematics](https://is.gd/FLJnfU)
+- [x] [Pattern Theory](https://is.gd/Y252V7)
+- [x] [Library Genesis](https://libgen.is/search.php?req=Peter%20T.%20Leeson&column[]=author)
+
+
+## 9/12/2019
+
+- [ ] [Al Sweigart Library Genesis](https://libgen.is/search.php?req=Sweigart%20Al&column[]=author)
+
+## 9/13/2019
+
+- [ ] [Library Genesis](https://libgen.is/search.php?req=A+New+Republic+book&column=series)
+
+- [ ] [Library Genesis](https://libgen.is/search.php?req=Derek+Chollet&column=author)
+
+- [ ] [Library Genesis: Derek Chollet, Samantha Power - The Unquiet American: Richard Holbrooke in the World](https://libgen.is/book/index.php?md5=7FACADD3C1BE0EDBDE443AF6CA65BAA2)
+
+- [ ] [Library Genesis: Harriet Beecher Stowe - A key to Uncle Tom's cabin; presenting the original facts and documents upon which the story is foun](https://libgen.is/book/index.php?md5=12BE90557E386837F63AB02D9E8E72D0)
+
+- [ ] [Library Genesis: Harriet Beecher Stowe - Harriet Beecher Stowe : Three Novels : Uncle Tom's Cabin Or, Life Among the Lowly; The Minister's Wooing; Oldtown Folks (Library of America)](https://libgen.is/book/index.php?md5=F1D4391C40071E613D3AAC52635128CE)
+
+- [ ] [Library Genesis: Harriet Beecher Stowe - Uncle Tom's Cabin: Or, Life Among the Lowly (The John Harvard Library)](https://libgen.is/book/index.php?md5=1D70DB46ADABCF3A30832624AD89E15E)
+
+- [ ] [Library Genesis: Harriet Beecher Stowe - Uncle Tom's Cabin: Young Folks' Edition (Volume 1)](https://libgen.is/book/index.php?md5=1F3A6D9AF795E16CB593AB69551B29DA)
+
+- [ ] [Library Genesis: Harriet Beecher Stowe, Christopher G. Diller - Uncle Tom's Cabin](https://libgen.is/book/index.php?md5=F81B6F6C75F4C67F164E8F9C1B41F1AC)
+
+- [ ] [Library Genesis: Roméo Dallaire, Samantha Power - Shake Hands with the Devil: The Failure of Humanity in Rwanda](https://libgen.is/book/index.php?md5=A873E1ADE3FF7718FBF81CD6526E20CF)
+
+- [ ] [Library Genesis: Samantha Power - A Problem From Hell: America and the Age of Genocide](https://libgen.is/book/index.php?md5=FBB0DBD68DA0D69934DF9570E8353576)
+
+
+
+
+# Math
+
+
+Library Genesis: Steven Roman - The Umbral Calculus (Pure and Applied Mathematics 111)
+http://libgen.is/book/index.php?md5=2E408DA22DA834A91D8267A467479304
+
+
+
+## 11/16/2019
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/6000/55cd0e5456ca45d533f58b7204ad71ac/A.%20N.%20Kolmogorov%2C%20S.%20V.%20Fomin%2C%20Richard%20A.%20Silverman%20-%20Introductory%20real%20analysis-Dover%20Publications%20%281975%29.djvu)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1352000/225734f929e77cff11b0abb937304f66/Markushevich%2C%20Alekse%C4%AD%20Ivanovich_%20Silverman%2C%20Richard%20A.%20-%20Theory%20of%20Functions%20of%20a%20Complex%20Variable%20vol%20III-Prentice-Hall%20%281967%29.djvu)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1352000/54b0c7a8c281dd9b99fe4a63227b5b28/Markushevich%2C%20Alekse%C4%AD%20Ivanovich_%20Silverman%2C%20Richard%20A.%20-%20Theory%20of%20Functions%20of%20a%20Complex%20Variable%20vol%20I-Prentice-Hall%20%281965%29.djvu)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7A8AEB0EC33C0DCB9896A7C4FF8BE9F6)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5B61377E481C3FCBDFE2BC4DDF149335)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E2CD2E491B85F238649222D87484EDCA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C128F687376B2B79A7C54EA7B55AC61E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/3B422900FF61B27E16F21458EEC16317)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A7391CAE099907594BB1729C9F393699)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/CBF9A3D5EC13B9523A757E78D21D4F53)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6D685805DDB7E73ADD5C432DA687BEBA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FF9764A768C3F088D850F3DE496C05E2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FF9764A768C3F088D850F3DE496C05E2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FF9764A768C3F088D850F3DE496C05E2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/88724F2678F609401586B00D9389E26B)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/418B6F34064B876D11761DF9E5BC005E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/418B6F34064B876D11761DF9E5BC005E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/31E323C7F16E529A2B0B9355A2FE3E31)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/98CED1B4C06737842268939E5FEC909F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/725485FC8219718ACE0A059FE8E0F90C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/98B61438AD661DE58A7007900F77EB38)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/AA07EFEEAD0147C0C7A6C06B6EB2DFDE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A573C3CB868C91A23C2DC264BCBDF2FA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/43EF46BF2DFA9980543692825FC0FE7A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5DC5CCE1096B55EE38779B52F03A3457)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/274ABAC3EE20F7108F9C2D82CB7F98C2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2862FE06C972BF324C8437CE9BBE1901)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DA3006A18EA3B5ACDB0699A66F8805AE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DA3006A18EA3B5ACDB0699A66F8805AE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/CF8D5546ACBC80FF7C78DB31551AA1F3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4AEBF38E92CCA5ADAAD4367102F3A64C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D4F60753A59CEC40ABCC934D9C70D9A3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D965F0F3D1950EDAF3157D39F41AFF73)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/8F599B59E116BAE3E5B0C6DDCD0FDC43)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5B60740DF5DF9C567876421F9C91C255)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/47C0112C96CCE8AA8E70D2DCF1B62AF5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EA1C2FA08729ACEB22A2470CA9B1D3A4)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/00BC06A890602EDD3EFBCBE8E268A7D0)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4C127F13740408DDE3D445E552BE8C02)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/21405EFBCEE3CF8A71A730B12A54F336)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/29656986F66DDE873C5DD0774351BC5B)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B216DB9BC2E126738930C6635002B98C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C5F34229330BFE3AEE1A2203D40C174A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/28B9E538154C371532012DEDCA88485D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F51DE67463F7F9330FD4AE109E8C7078)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/07ED22E24AD96323A8B5E036C8634013)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FE555E7900A436DBD8AE3369266FAD06)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EE1DBDDAA435EB2CF04F0A8B8349811D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4CB8321C18EE58A243E2DAEEA54FE165)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FC71686FF120A9804E95B3CDF4F60A66)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/274000/72e86bdbe7b09a3905ef9d47cd1defb6/%28Mathematics%20and%20its%20Applications%29%20Vladimir%20M.%20Tikhomirov%20-%20Selected%20Works%20of%20A.N.%20Kolmogorov.%20Volume%20I_%20Mathematics%20and%20Mechanics-Springer%20%281991%29.djvu)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/3A506B337A98982D529E33CC22A4A37C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/3A506B337A98982D529E33CC22A4A37C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7703741C680DFDF81CD10B35DABD2C65)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6B4B8B424DF5762314278B50C6AF7C8A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0513F2E6427252B9BD39D165FDEC115D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B0A78356EA6DAF0ED740FB2DC1B74C49)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0439EA8194698AA7486E0ABEDCF65FB3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/33690C5B377E7234B84823A75862E954)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FEAC7AA377F17D1C215103C8D4DF3FDC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F20C276A3E8C091AFA7069CF98421C57)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/AB42CD7FFF93F93B53F0A9D82858B693)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E870ED58032FAD2963ABFDF3FF928869)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6103E136F3C10BBF1D784E663B68291D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B4E2B555A278BC81CEF747474555E24D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EFD1BAE8350558B2A8CCCD9B17BF7DF9)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F3BDF620122B31746C90600D464E18FD)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/70FC7C7751088179550E35332475A1B8)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D8C3D0BCEDB34355AD84C545B374DE8F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/44FC2A9725DCD67F60C5C3DC7FADBC7C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/AEEE9A115CF9056BE01B917982AB7B95)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/155EDE9E1EC4AF17C8E852257E2642DE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/68297E1D46E6A71777FDBB0EF190AE8A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E88489ABDD25AC31CDD28564E73D3264)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/77C3984942D05A91ED903E9DF473A189)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C660D3C8E17E55505FF23478805F472F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E5F2C8A1A290CDA9309016D950E1D319)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6983C8492A7E998282D2422EA73B1712)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6983C8492A7E998282D2422EA73B1712)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/1D46E4CDBE60F60D27F91C456EB2F281)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4C42C3D0A90B69394E5B5DCF921BF36F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7312800B50C0B4B2FC2C340C6CE91015)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BB8B54C5F7F00962CD4C05A9ADD18ADD)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DFC2B8C6BA89028B67205481BD405AE5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0A7A10D755932C48F902304CE07CD012)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/69A47D96629E2CE88EA8E89D6CB1B636)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F7C24F14833CA62F23FF0895CA701BC2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F4497D82AA6E6935D6FA29FFCA7AEE82)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A1724F25F308394CAC42703BA9AF7A87)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6343D0D509348917A10D3A348DD73344)
+
+
+
+
+
+
+
+
+
+## 11/17/2019
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/354B2FC0DA6A3BBF402906E4D53DCDE7)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F7E65345D9BF014BE684CB3629AFA4DC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D0E55959F7277E8D12BBEC72B9924342)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D0E55959F7277E8D12BBEC72B9924342)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/86B53A8F48867CB50989FE3924BDABD7)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A4C3B379ACF9EE2F38462AA7B35F8D83)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/77C9F74ACADA78DD91A3E1DDA33F36CD)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A3C1453FEED9ECD7232F2F487D3BC247)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/15000/637fb862f250d3652e53661a357ead68/%28Classic%20Reprint%29%20Albert%20Einstein%20-%20Relativity_%20the%20special%20and%20general%20theory-Forgotten%20Books%20%282010%29.pdf)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/63E7123A03DCF6B3DF57ED0B3F2452B1)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Arthur+Cayley&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A6CFFCF921F7026DBE455973D4A6E7C8)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6773526589175CB916CADF7F90B080F1)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E0B9EBB34ABD910A48630ADF65DDD691)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/9FAB984C64B8B56E0EA1F2C339770879)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E7D8FFB15C63E10AC82F3AC3511C8D58)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/672A58425AA78AE8F13BC87DD8576F79)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4E95F1CFAA37F8F7289DD6261664E45B)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FACC0E728E1D4745ED38D878CE94631F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DF614937967CA33763D6E1F3833EF497)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/57C83519DACEEF7D12D3913CFD5B417A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/890D8D2A84D49857A9013015C92902C4)
+
+- [ ] [Library Genesis: Ole Ravn, Ole Skovsmose - Connecting Humans to Equations: A Reinterpretation of the Philosophy of Mathematics](http://libgen.is/book/index.php?md5=C3EABFBB079E2387C556099803541BA4)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4FC75C20EAA80CEAD956D69975CAAAFB)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C3758CEFC09354D25C31793200103273)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/159469D10E21EA66C12D03DCED4175DE)
+
+- [ ] [Library Genesis: Robert E. Bradley, C. Edward Sandifer (auth.) - Cauchy’s Cours d’analyse: An Annotated Translation](http://libgen.is/book/index.php?md5=70CE7F8B5D1654D9FEAB1D9B3AC54890)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/53613BEC4D3D789344AADE22D2724160)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7A0584689CBB1D6B30356BEBDAFC0927)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0C940FEB14ACA6ACD785724B6E5FA825)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7F505CF31EDEFD5556BC8A5EA641BD73)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BF3873170A3741E041D74DED1E7BE934)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/80E0B9BEB2C731466EFB7EAC1687BFFC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4E49CFFA9EFCD8B5A626722DC6D9AA52)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E26982479B2ACC66EFDC2DDFD8D29402)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C3C5F51B465BB18969C60B92A25D238E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6CC785CEB91006B1DD72B398E8B65D96)
+http://libgen.is/book/index.php?md5=CDA90A212FEB51717DA89CFA120786DE
+
+Library Genesis: Dominique Fourdrinier, William E. Strawderman, Martin T. Wells - Shrinkage Estimation
+http://libgen.is/book/index.php?md5=CD352819FEAEE7B2903DA0787C8487F2
+
+Library Genesis: Peter Filzmoser, Karel Hron, Matthias Templ - Applied Compositional Data Analysis: With Worked Examples in R
+http://libgen.is/book/index.php?md5=01BC3187F88C69D39296EFE58AE02866
+
+Library Genesis: Jan G. De Gooijer (auth.) - Elements of Nonlinear Time Series Analysis and Forecasting
+http://libgen.is/book/index.php?md5=1757FC2FADAAD515775C17E84D2574C0
+
+Library Genesis: Akahira, Masafumi - Statistical estimation for truncated exponential families
+http://libgen.is/book/index.php?md5=666D494ADF029E9F3872601CB8FF7B3B
+
+Library Genesis: Toshio Sakata, Toshio Sumi, Mitsuhiro Miyazaki - Algebraic and Computational Aspects of Real Tensor Ranks
+http://libgen.is/book/index.php?md5=5C0DC10715B2FD2F660EF0CEF45BFDD3
+
+Library Genesis: Thomas W. Yee (auth.) - Vector Generalized Linear and Additive Models: With an Implementation in R
+http://libgen.is/book/index.php?md5=2E22F349FABDB8BE9012BC6ED9637AC7
+
+Library Genesis
+http://libgen.is/search.php?req=Gerardo+Rubino&column=author
+
+Library Genesis
+http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=author&sort=year&sortmode=DESC
+
+
+[Library Genesis](http://libgen.is/search.php?&req=Stochastic+Simulation&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+
+## Differntial Programming
+
+- [Library Genesis](http://libgen.is/search.php?&res=100&req=Adaptive+Computation+and+Machine+Learning&phrase=1&view=simple&column=series&sort=year&sortmode=DESC)
+
+- 
