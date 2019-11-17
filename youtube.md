@@ -770,3 +770,70 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [Math Camp for 9.520/6.860S Statistical Learning Theory and Applications - YouTube](https://www.youtube.com/watch?v=AsogCoscZgE)
 
 - [ ] [Course Introduction of 18.065 by Professor Strang - YouTube](https://www.youtube.com/watch?v=Cx5Z-OslNWE)
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/16/2019
+
+- [ ] [(30) #75 Probability mass function from moment generating function example - YouTube](https://www.youtube.com/watch?v=j440i66lMmg)
+
+- [ ] [(30) Lecture 17: Moment Generating Functions | Statistics 110 - YouTube](https://www.youtube.com/watch?v=N8O6zd6vTZ8)
+
+- [ ] [(30) Moment generating functions -- Example 1 - YouTube](https://www.youtube.com/watch?v=rIdqnwEj7w0)
+
+- [ ] [(38) 2 Zero Inflated Poisson Process - YouTube](https://www.youtube.com/watch?v=olT5-DeJUsQ)
+
+- [ ] [(38) Count Data Models in R - YouTube](https://www.youtube.com/watch?v=yLF45x70A3o)
+
+- [ ] [(38) Peter Thiel on “The Straussian Moment” - YouTube](https://www.youtube.com/watch?v=iRleB034EC8&list=TLPQMTYxMTIwMTkoFC8WWrcHsA&index=3)
+
+- [ ] [(38) Poisson Regression with R - Insect Sprays - YouTube](https://www.youtube.com/watch?v=i05dKATW2nA)
+
+- [ ] [(38) There Will Be Zeros, UCLA - YouTube](https://www.youtube.com/watch?v=w48YD-YGm7I)
+
+- [ ] [(38) Using Hurdle Models to Analyze Zero-Inflated Count Data - YouTube](https://www.youtube.com/watch?v=CvM6j8hE8lE)
+
+- [ ] [(38) Using Hurdle Models to Analyze Zero-Inflated Count Data - YouTube](https://www.youtube.com/watch?v=CvM6j8hE8lE)
+
+- [ ] [(38) Zero Inflated Poisson ( ZIP) models - YouTube](https://www.youtube.com/watch?v=aVdxv21kMF8)
+
+- [ ] [(38) 寰宇全視界【周三完整版】20191113｜雙十一兩樣情兩岸爆買香港暴力?李顯龍說港道台憂新加坡複製香港經驗?傳武統時間表提前2020成台大選最終章? - YouTube](https://www.youtube.com/watch?v=Ngc1pdaroLE)
+
+- [ ] [Introduction to Moment Generating Functions - YouTube](https://www.youtube.com/watch?v=OKdjid9FeKk)
+
+- [ ] [Lesson 15: Moment Generating Functions - YouTube](https://www.youtube.com/watch?v=cbmfYoepHPk)
+
+- [ ] [Moment generating function definition - YouTube](https://www.youtube.com/watch?v=_pCVlYctBpQ)
+
+- [ ] [Moment generating functions -- Example 2 - YouTube](https://www.youtube.com/watch?v=l2sx5_e7mIo)
+
+- [ ] [Moment Generating Functions Part 1 - YouTube](https://www.youtube.com/watch?v=gcpSImAQjlk)
+
+- [ ] [Moment-generating function - YouTube](https://www.youtube.com/watch?v=Uj93v01VH9E)
+
+- [ ] [Probability Theory: The Logic of Science Chapter 1, "Plausible reasoning" - YouTube](https://www.youtube.com/watch?v=P6P1rjJuD_M)
+
+- [ ] [(38) Probability Theory: The Logic of Science Chapter 16, "Orthodox methods: historical background" - YouTube](https://www.youtube.com/watch?v=Et0Uk93Wpcc)
+
+- [ ] [(38) Probability Theory: The Logic of Science Chapter 2, "The quantitative rules" - YouTube](https://www.youtube.com/watch?v=xAbU0lHSxcg)
+
+- [ ] [Probability Theory: The Logic of Science Chapter 3, "Elementary sampling theory" - YouTube](https://www.youtube.com/watch?v=J6sKXCyF2_I)
+
+- [ ] [(38) Probability Theory: The Logic of Science Chapter 4, "Elementary hypothesis testing" (Part 1) - YouTube](https://www.youtube.com/watch?v=-yiH7qeNO7I)
+
+- [ ] [Probability Theory: The Logic of Science Chapter 5, "Queer uses for probability theory" - YouTube](https://www.youtube.com/watch?v=eUABtMhxJXI)
+
+- [ ] [Probability Theory: The Logic of Science Chapter 9, "Repetitive experiments: prob. & frequency" - YouTube](https://www.youtube.com/watch?v=B-IOIiH3Y_o)
+
+- [ ] [Probability Theory: The Logic of Science Reading Course Introduction - YouTube](https://www.youtube.com/watch?v=rfKS69cIwHc)
+
+- [ ] [The Moment Generating Function of the Exponential Distribution - YouTube](https://www.youtube.com/watch?v=ty2vjLxMZkc)
