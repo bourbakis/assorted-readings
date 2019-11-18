@@ -3670,3 +3670,248 @@ https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/19/2019
+
+- [ ] ['styler' object has no attribute 'style' - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A%3A1573958413860&lei=DbPQXZCQNIG8mAW4gLfwDQ&q=%27styler%27%20object%20has%20no%20attribute%20%27style%27&ved=2ahUKEwid4b-DnPDlAhXKG6YKHdGZAyMQsKwBKAJ6BAgCEAM)
+
+- [ ] ['styler' object has no attribute 'to_html' - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=%27styler%27%20object%20has%20no%20attribute%20%27to_html%27&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAV6BAgCEAY)
+
+- [ ] [add title to plot matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR14L9xXG2Q4yeM1RWDjMnzKKSP4A%3A1574089337318&lei=ebLSXeqBE8XemAX_ioTYBg&q=add%20title%20to%20plot%20matlab&ved=2ahUKEwj6jKjfg_TlAhV3xYsBHcklB30QsKwBKAV6BAgAEAY&biw=1920&bih=948)
+
+- [ ] [An Introduction to Machine Learning in Finance, With Mathematical Background, Data Visualization, and R - Google Search](https://www.google.com/search?q=An+Introduction+to+Machine+Learning+in+Finance,+With+Mathematical+Background,+Data+Visualization,+and+R&oq=An+Introduction+to+Machine+Learning+in+Finance,+With+Mathematical+Background,+Data+Visualization,+and+R&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8&sxsrf=ACYBGNQQPFJG2M0u9oj5nm9K02gsBbRkPQ:1574035520865&sec_act=sr)
+
+- [ ] [an introduction to probabilistic graphical models jordan - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR5-reB-2AUxGaqk68XWyBQ7AT4HQ:1574001474467&q=an+introduction+to+probabilistic+graphical+models+jordan&sa=X&ved=2ahUKEwjWwIu2vPHlAhUCCqYKHZjDDCQQ1QIoAHoECGQQAQ)
+
+- [ ] [Ann Raimes books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ-ZBZkGqhR-_P5XbFMlD0eVPUQFQ:1573883490807&q=Ann+Raimes+books&stick=H4sIAAAAAAAAAONgFuLSz9U3MEs2NUouVkJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriVYxSaVbJRamJJflFViCZYiuQJtPywjSLnEWsAo55eQpBiZm5qcUKYFkAtvwdIGIAAAA&sa=X&ved=2ahUKEwj5qYzzhO7lAhU7L6YKHcX9DkEQzTooADBZegQIVRAC)
+
+- [ ] [application of probability theory pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR-yvb3MVsOC4Zi6R3urvC_jkVCPg:1573884457373&q=application+of+probability+theory+pdf&sa=X&ved=2ahUKEwib6v6_iO7lAhWEGqYKHXnWCrAQ1QIoB3oECGwQCA)
+
+- [ ] [applications of topological groups - Google Search](https://www.google.com/search?newwindow=1&hl=en&sxsrf=ACYBGNQL9O3RtWQgHqMInyawU7yfqncVyw:1574083661199&q=applications+of+topological+groups&sa=X&ved=2ahUKEwiotOPL7vPlAhXYyYsBHbiADBEQ1QIoBHoECGQQBQ&cshid=1574083665562735)
+
+- [ ] [Applied Multivariate Statistical Analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTTNqvNITjtaPYyoJwqdOCPS75ySA:1574001469678&q=Applied+Multivariate+Statistical+Analysis&stick=H4sIAAAAAAAAAONgFuLRT9c3NCqLz85OzjZXQuFpiWUnW-kn5edngwmr4syU1PLEyuJFrJqOBQU5makpCr6lOSWZZYlFmYklqQrBJYklmcUlmcmJOQqOeYk5lcWZxTtYGQHI8vrgZQAAAA&sa=X&ved=2ahUKEwj1luezvPHlAhX_yYsBHTUnCXQQzTooATCCAXoECHIQAg)
+
+- [ ] [applied multivariate statistical analysis 6th edition solutions pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTTNqvNITjtaPYyoJwqdOCPS75ySA:1574001469678&q=applied+multivariate+statistical+analysis+6th+edition+solutions+pdf&sa=X&ved=2ahUKEwj1luezvPHlAhX_yYsBHTUnCXQQ1QIoAHoECGwQAQ)
+
+- [ ] [applied multivariate statistical analysis chapter 4 answers - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTTNqvNITjtaPYyoJwqdOCPS75ySA:1574001469678&q=applied+multivariate+statistical+analysis+chapter+4+answers&sa=X&ved=2ahUKEwj1luezvPHlAhX_yYsBHTUnCXQQ1QIoB3oECGwQCA&biw=1920&bih=899)
+
+- [ ] [applied multivariate statistical analysis data sets - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTTNqvNITjtaPYyoJwqdOCPS75ySA:1574001469678&q=applied+multivariate+statistical+analysis+data+sets&sa=X&ved=2ahUKEwj1luezvPHlAhX_yYsBHTUnCXQQ1QIoBHoECGwQBQ)
+
+- [ ] [applied multivariate statistical analysis homework solutions - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTTNqvNITjtaPYyoJwqdOCPS75ySA:1574001469678&q=applied+multivariate+statistical+analysis+homework+solutions&sa=X&ved=2ahUKEwj1luezvPHlAhX_yYsBHTUnCXQQ1QIoA3oECGwQBA)
+
+- [ ] [applied multivariate statistical analysis lecture notes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTTNqvNITjtaPYyoJwqdOCPS75ySA:1574001469678&q=applied+multivariate+statistical+analysis+lecture+notes&sa=X&ved=2ahUKEwj1luezvPHlAhX_yYsBHTUnCXQQ1QIoBXoECGwQBg)
+
+- [ ] [bayesian hypothesis testing mcmc - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A%3A1574086764355&lei=bKjSXdymFa-2mAXwl4HABQ&q=bayesian%20hypothesis%20testing%20mcmc&ved=2ahUKEwi9yNOe-vPlAhVww4sBHWW9B5IQsKwBKAR6BAgAEAU)
+
+- [ ] [Bill Cook and Ron Herzman - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnNJ3e-mqIryCh-POmMmQC8xW2yw:1573999891944&q=Bill+Cook+and+Ron+Herzman&stick=H4sIAAAAAAAAAONgFuLSz9U3MMnKTbdMVuIEsdMtLLLMtfic83Nz8_OCM1NSyxMrixexSjpl5uQoOOfnZysk5qUoBOXnKXikFlXlJubtYGUEABoNdtBIAAAA&sa=X&ved=2ahUKEwjC5b3DtvHlAhW2y4sBHTw_BwIQxA0wdXoECGYQCg)
+
+- [ ] [bootstrap internal validity - Google Search](https://www.google.com/search?q=bootstrap%20internal%20validity)
+
+- [ ] [Category Theory in Context - Google Search](https://www.google.com/search?newwindow=1&hl=en&sxsrf=ACYBGNQL9O3RtWQgHqMInyawU7yfqncVyw:1574083661199&q=Category+Theory+in+Context&stick=H4sIAAAAAAAAAI1UPW_UQBCNowSFzSEFRxHoJIQVgYQQ0p2_1k4aioiOCAnSW_H6Y8-33rXXi9e-Cjrq_ARqGoTET0AiJQUNEgUFEv-AklxyXhvRUL55M2_ejMe7tbl_Y5JOTBOZeVC6lrDuk1klDJYYKWcvC0PgmPHWEKxghKUzdEqMkLH5uTZallkhhcRri3PtSiWUBS-xLxWdQ4RIvoIY0dx2JD3XwCSfTJFNJEz61AQdYG_FwajJzEUHwpQTxfjRget3VXXAbVnKjqtoUJFO3uFeHQ6cFSho3N64mWUSdoXFoiTRijMdiFKX-x3noWnIV1wbySmuGlPJurktohKpXIglVj2Kue_AVMFSlEkkB6vzqHAH8weuQ3poN3yuVuXMs6AepBbFdFAJF1SgHi5CDose0iRto84gDosgXwGHetTvO1Kr9RynmyxxnfxgnsJeJ3cdnnY0ghVpI16pRcAopGUQ9LPbKJCeUgsyK0s9Z-C59gebyluvSGCXja0M-SjBg48nUISJar461r4c143ZdjPWdeGKDlDfdLtDQqa0F-pYEmtu2YoRssE_tLP17Z1fv7_vjt-sn737_FV7vQ52njJWxaR9HpNTEUcnTL8Hrj2hYiZafQxG463LVTbEebA2BkAh_ZMGtl_E4oQds2iWtPpHTf-g_Z-ahzK7V1sivf1bLNMxuH4c52HMq2eJfgjAESMkRmLGqP4I7I1vTpAKTJZ_bHUhuAv-De_fte58-fnt_eYtsLEMPNy4rRmau7b26vHhZWD0dnN8dOE1Xb4DJ1fPwYwaR4yKuBF_ALqWY19BBAAA&sa=X&ved=0ahUKEwiotOPL7vPlAhXYyYsBHbiADBEQ-BYIsQEwkAE&cshid=1574083665562735)
+
+- [ ] [cdf of difference of random variables - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSZOVcAsR4gM2MKLDY7rTkctFT88g%3A1573995389297&lei=fUPRXcbeEayWr7wPhraa8Ac&q=cdf%20of%20difference%20of%20random%20variables&ved=2ahUKEwjK1NjrpfHlAhVXxIsBHXguD7kQsKwBKAB6BAgFEAE)
+
+- [ ] [cdf of sum of iid - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSZOVcAsR4gM2MKLDY7rTkctFT88g%3A1573995389297&lei=fUPRXcbeEayWr7wPhraa8Ac&q=cdf%20of%20sum%20of%20iid&ved=2ahUKEwjK1NjrpfHlAhVXxIsBHXguD7kQsKwBKAF6BAgFEAI)
+
+- [ ] [color row in pandas - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A%3A1573958413860&lei=DbPQXZCQNIG8mAW4gLfwDQ&q=color%20row%20in%20pandas&ved=2ahUKEwid4b-DnPDlAhXKG6YKHdGZAyMQsKwBKAR6BAgCEAU)
+
+- [ ] [create pivot table in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=create%20pivot%20table%20in%20python&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAV6BAgCEAY)
+
+- [ ] [dataframe style to html - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=dataframe+style+to+html&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoAnoECGQQAw)
+
+- [ ] [describe data frame summarize by group python - Google Search](https://www.google.com/search?q=describe+data+frame+summarize+by+group+python&oq=describe+data+frame+summarize+by+group+python&aqs=chrome..69i57.71498j1j1&sourceid=chrome&ie=UTF-8&sec_act=d)
+
+- [ ] [development of mathematics in the 19th century klein pdf - Google Search](https://www.google.com/search?q=development+of+mathematics+in+the+19th+century+klein+pdf&oq=Development+of+mathematics+in+the+19th+century+klein&aqs=chrome.0.0j69i57j0j69i60l2.3124j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [distribution of product of normal random variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=distribution+of+product+of+normal+random+variables&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoBXoECGQQBg)
+
+- [ ] [Elizabeth Vandiver - Google Search](https://www.google.com/search?q=Elizabeth+Vandiver&oq=Elizabeth+Vandiver&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [elizabeth vandiver books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnNJ3e-mqIryCh-POmMmQC8xW2yw:1573999891944&q=elizabeth+vandiver+books&stick=H4sIAAAAAAAAAONgFuLSz9U3MMnKTbdMVkJia0llJ1vpJ-XnZ-snlpZk5BdZgdjFCvl5OZWLWCVSczKrEpNSSzIUyhLzUjLLUosUwPI7WBkBukPvqVQAAAA&sa=X&ved=2ahUKEwjC5b3DtvHlAhW2y4sBHTw_BwIQzTooATB0egQIZxAC)
+
+- [ ] [epidemiology/hanley/bios601 - Google Search](https://www.google.com/search?q=epidemiology%2Fhanley%2Fbios601&oq=epidemiology%2Fhanley%2Fbios601&aqs=chrome..69i57j69i58j69i60.639j0j9&sourceid=chrome&ie=UTF-8)
+
+- [ ] [expectation of product of dependent random variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=expectation+of+product+of+dependent+random+variables&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoBnoECGQQBw)
+
+- [ ] [expectation of product of random variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=expectation+of+product+of+random+variables&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoAXoECGQQAg)
+
+- [ ] [expected value of multiple random variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=expected+value+of+multiple+random+variables&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoB3oECGQQCA)
+
+- [ ] [Foundations of Algebraic Topology - Google Search](https://www.google.com/search?newwindow=1&hl=en&sxsrf=ACYBGNQL9O3RtWQgHqMInyawU7yfqncVyw:1574083661199&q=Foundations+of+Algebraic+Topology&stick=H4sIAAAAAAAAAI1UPYvUQBi-HLdy5k44c4iyIMZDQUTYTTKZ5K4REa08BN0-bCYfs9nJTDKZy8dW2lnfT7C2EcGfIHilhY1gYSH4Dyw152YSsbF83ud9nnnfJ5PZHh3sTuKJYfoUOlTY5m2yKITOIj3m7CTTBQ4Zb3TBMkZYvEBzovuMLc8UqSJOk50pl1po-FXGc-xWkk4hQiRdQ4xoaoGKninqJJ1MkUUqGPWtETrEzpqDQZ0Yqw74MSeScYND2-1UpcetKq86rqBeQTp7wJ3SH0yWIa-2-8GNJKlgJ8xWOQnWnAEgim3udpyDpj5fc01QTXFRG9LWTi0R5Ej2QlxheUa2dAGMJcxFHgXVILo28MH-ng1ID62aL2VUYJl45aA1y6YDJVxRgXq48jnMekijuAm6AbGfeekaAOpQtz-Rmo0DQLdZZIP0cBnD3ie1AY87GsGCNAEvZBAw8Gnuef3uFvIqR7p5iZnEDhjMXLqDpNLGySLYdWMzQS6K8ODjCRRgIg83Ui-3TdHLcVkbTbdjWWa26AB1Dbu7SMiorJW8LJG5NC3JiKrG35TTzZ29Hz-_7o9fbZ6--fhZebmp7j1hrAhJ8ywkcxEGM6bdUi88omIhGm2s7o63z6OsCbizMVZVibQPirrzPBQzdsyCRdRo7xXtnfJ_bg5KrN6tRVrzt1miYfXicZj6IS-eRtqRqj5khIRILBjV7qlXxpcnSBYm7R9b_DbcV_8tH9wwr3_6_uXt6Kq61Rbubl1TdMXe2Hhx_-i8sPt6dPMxO6HBvBUV7dPwgMShz-cLpM_-vAvNLy3qDQZHBAAA&sa=X&ved=0ahUKEwiotOPL7vPlAhXYyYsBHbiADBEQ-BYIcjB7&cshid=1574083665562735)
+
+- [ ] [Fundamentals of Artificial Intelligence book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnbZK3OMeFCuUD_PF5vXooCMm2WA%3A1574001045881&ei=lVnRXaOmNa3FmAXJ446gDg&q=Fundamentals+of+Artificial+Intelligence+book&oq=Fundamentals+of+Artificial+Intelligence+book&gs_l=psy-ab.3..0.2534354.2536305..2536594...0.2..0.120.651.1j5......0....1..gws-wiz.......0i71j35i39j0i20i263j0i22i30.3SGwmw0u_-k&ved=0ahUKEwjjxNzpuvHlAhWtIqYKHcmxA-QQ4dUDCAs&uact=5)
+
+- [ ] [ggplot caption wrap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR14L9xXG2Q4yeM1RWDjMnzKKSP4A%3A1574089337318&lei=ebLSXeqBE8XemAX_ioTYBg&q=ggplot%20caption%20wrap&ved=2ahUKEwj6jKjfg_TlAhV3xYsBHcklB30QsKwBKAJ6BAgDEAM)
+
+- [ ] [ggplot two captions - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR14L9xXG2Q4yeM1RWDjMnzKKSP4A%3A1574089337318&lei=ebLSXeqBE8XemAX_ioTYBg&q=ggplot%20two%20captions&ved=2ahUKEwj6jKjfg_TlAhV3xYsBHcklB30QsKwBKAF6BAgDEAI&biw=1920&bih=948)
+
+- [ ] [ggtitle italic - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR14L9xXG2Q4yeM1RWDjMnzKKSP4A%3A1574089337318&lei=ebLSXeqBE8XemAX_ioTYBg&q=ggtitle%20italic&ved=2ahUKEwj6jKjfg_TlAhV3xYsBHcklB30QsKwBKAV6BAgDEAY)
+
+- [ ] [gibbs sampling in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A:1574086764355&q=gibbs+sampling+in+r&sa=X&ved=2ahUKEwjcjL2T-vPlAhUvG6YKHfBLAFgQ1QIoA3oECGQQBA)
+
+- [ ] [Gokutsuma Ninkyo Gakuen 2014 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQgXGoeWXLb35TfZsvOYW1y_eQOew:1574092593606&q=Gokutsuma+Ninkyo+Gakuen+2014&stick=H4sIAAAAAAAAAONgFuLWz9U3MDQ0ySquLFLi1U_XNzRMNispTjIxydHiDUgtKs7PC8n3zS_LTF3EKuOen11aUlyam6jgl5mXXZmv4J6YXZqap2BkYGiyg5URALbv2HdPAAAA&sa=X&ved=2ahUKEwjrporvj_TlAhWjyIsBHTQ7DfQQxA0wbXoECGkQBA)
+
+- [ ] [Groups, Graphs and Trees an introduction to the geometry of infinite groups by John Meier - Google Search](https://www.google.com/search?q=Groups%2C+Graphs+and+Trees+an+introduction+to+the+geometry+of+infinite+groups+by+John+Meier&oq=Groups%2C+Graphs+and+Trees+an+introduction+to+the+geometry+of+infinite+groups+by+John+Meier&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [haar measure pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5kraowxKEOKJk1yxtw7sJny-sRw%3A1574083591202&lei=B5zSXbntC_rUmAXe0p6ADw&q=haar%20measure%20pdf&ved=2ahUKEwjG3O2r7vPlAhWBF6YKHXGGCuAQsKwBKAF6BAgBEAI)
+
+- [ ] [Hilbert's Fifth Problem and Related Topics - Google Search](https://www.google.com/search?newwindow=1&hl=en&sxsrf=ACYBGNQL9O3RtWQgHqMInyawU7yfqncVyw:1574083661199&q=Hilbert%27s+Fifth+Problem+and+Related+Topics&stick=H4sIAAAAAAAAAI1TTWvVQBRtSis1rVBTivJADEVRivBeviZpNy5EcWFRtPvQTD4meZOZyWTMx1vpznV_gms3IvgTBLt04UZw4ULwH7i0rySTiBuX5557z73nZLKxvndlmkwNI3ByS4QFNG_jtBQ6jfWE05dMFyiivNUFZRTTJIUnWA8onZ8pW8sxMyAAuy07UzqVmvECebWkcwAhzjuIIMktuyZnijrNpzNo4RrEQ2sMD5DbcSBsMmPRgyDhWDJeeOB4_VTlc6su6p4riV_iXt7mbhWMLmPQb5zhcCPLatAPskWBw44zbAATh3s958JZwDuuDesZKhtDynaxyV6AaiR3sLlng0TCQhRxWI-ic4lwRv59x8YDtBo-l1HZ88yvRq2MzUaTYEEEHOAi4IANkMRJG_YHooD5eQds4hJv2EjM1rXt3lns2PnBPAGDTu7YPOlpCErchryUQYAwIIXvD94t6NeuVPMzM0tce3Rz5Y2SyluXxaDvRmYGPRij0ccTMERYLjdyv3BMMYyjqjHa3mNVMUf0gHiG0z8kaNTWQj6W2JyblmRE3aAfyunq5vav3993Jm9WT999_qq8XlW3n1BaRrh9HuETEYXHVLulXnpIRCpabaJuTTYuomywfXdloqoSaZ8UdfNFJI7pEQ3TuNU-KtoH5f_UXJhZg9oSae3fYpmG1MtHUR5EvHwaa4eq-oBiHEGRUqLdU3cnV6dQFqbLP7Y8F9xR_y3v3TRvfPn57f36NXVtWdhfu67oirOy8ur-4UVh6-36_uMUn28Sd0r9URoLpD_jNMBRrp-QUO-c6MeUpbD8A_UTQT9RBAAA&sa=X&ved=0ahUKEwiotOPL7vPlAhXYyYsBHbiADBEQ-BYIZjB3&cshid=1574083665562735)
+
+- [ ] [how to summarize a column in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=how%20to%20summarize%20a%20column%20in%20python&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAN6BAgBEAQ)
+
+- [ ] [Iori Kogawa - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQgXGoeWXLb35TfZsvOYW1y_eQOew:1574092593606&q=Iori+Kogawa&stick=H4sIAAAAAAAAAONgFuLWz9U3MDQ0ySquLFJC5mhJZidb6eeWFmcm6ycWlWQWl1gVZ6aklidWFi9i5fbML8pU8M5PTyxP3MHKCAAk_SZkSAAAAA&sa=X&ved=2ahUKEwjrporvj_TlAhWjyIsBHTQ7DfQQzTooATBvegQIaBAC)
+
+- [ ] [James Munkres - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSUX5mgTn95G_EOIXs-MkxyIwshtg:1574001473521&q=James+Munkres&stick=H4sIAAAAAAAAAONgFuLSz9U3MDIzK0vKU0JiawlnJ1vpJ-fn5ubnWRVnpqSWJ1YWL2Ll9UrMTS1W8C3Nyy5KLd7ByggA9pbBDUIAAAA&sa=X&ved=2ahUKEwiZ2tG1vPHlAhUoBKYKHeY1A64QzTooATB2egQIZRAC)
+
+- [ ] [Jigoku Mahjong Koshoku Battle Royale 168 Jikan! 2015 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQgXGoeWXLb35TfZsvOYW1y_eQOew:1574092593606&q=Jigoku+Mahjong+Koshoku+Battle+Royale+168+Jikan!+2015&stick=H4sIAAAAAAAAAONgFuLWz9U3MDQ0ySquLFLi1U_XNzRMNivJqqgwrtLiDUgtKs7PC8n3zS_LTF3EauKVmZ6fXargm5iRlZ-XruCdX5wB4jsllpTkpCoE5VcmAilDMwsFr8zsxDxFBSMDQ9MdrIwAsnEEsWcAAAA&sa=X&ved=2ahUKEwjrporvj_TlAhWjyIsBHTQ7DfQQxA0wbXoECGkQCA)
+
+- [ ] [lines caption r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR14L9xXG2Q4yeM1RWDjMnzKKSP4A:1574089337318&q=lines+caption+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwiqoq7eg_TlAhVFL6YKHX8FAWsQsAR6BAgBEAE)
+
+- [ ] [lines legends r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR14L9xXG2Q4yeM1RWDjMnzKKSP4A%3A1574089337318&ei=ebLSXeqBE8XemAX_ioTYBg&q=lines+legends++r&oq=lines+legends++r&gs_l=psy-ab.3..0i7i30j0i8i30l8.13538.15710..16001...0.3..0.192.1002.5j4......0....1..gws-wiz.......0i71j0i67j0j0i8i7i30j0i13j0i5i30j0i7i5i30.B6cntDJkRNA&ved=0ahUKEwiqoq7eg_TlAhVFL6YKHX8FAWsQ4dUDCAs&uact=5)
+
+- [ ] [lines legends r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTOu2NcI0STbPCLtoX0e9Lc8PsZMA:1574089381952&q=lines+legends++r&tbm=isch&source=univ&sa=X&ved=2ahUKEwjHvdLzg_TlAhUkzIsBHb6OBYwQsAR6BAgHEAE)
+
+- [ ] [lty in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTOu2NcI0STbPCLtoX0e9Lc8PsZMA%3A1574089381952&lei=pbLSXYfXOaSYr7wPvp2W4Ag&q=lty%20in%20r&ved=2ahUKEwiwwdL0g_TlAhWJwJQKHWK-CBkQsKwBKAJ6BAgAEAM&biw=1920&bih=948)
+
+- [ ] [markov chain monte carlo penn state - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A%3A1574086764355&lei=bKjSXdymFa-2mAXwl4HABQ&q=markov%20chain%20monte%20carlo%20penn%20state&ved=2ahUKEwi9yNOe-vPlAhVww4sBHWW9B5IQsKwBKAJ6BAgAEAM)
+
+- [ ] [mcmc bayesian - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A:1574086764355&q=mcmc+bayesian&sa=X&ved=2ahUKEwjcjL2T-vPlAhUvG6YKHfBLAFgQ1QIoBnoECGQQBw)
+
+- [ ] [mcmc in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR1z1f1osLvgCBNlgkEslpv7ZTFPQ%3A1574090046123&lei=PrXSXaKPB-vEmAW6lpiQDw&q=mcmc%20in%20r&ved=2ahUKEwi0icGxhvTlAhWHGqYKHTBhB14QsKwBKAJ6BAgAEAM)
+
+- [ ] [mcmc in r tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A:1574086764355&q=mcmc+in+r+tutorial&sa=X&ved=2ahUKEwjcjL2T-vPlAhUvG6YKHfBLAFgQ1QIoAHoECGQQAQ)
+
+- [ ] [mcmc integration - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQDARgkTXZJ8nLHP6LDzgWLcJyOcA:1574090052046&q=mcmc+integration&sa=X&ved=2ahUKEwi045WzhvTlAhX-xosBHc5NB1EQ1QIoB3oECGQQCA)
+
+- [ ] [mcmc metropolis hastings example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A:1574086764355&q=mcmc+metropolis+hastings+example&sa=X&ved=2ahUKEwjcjL2T-vPlAhUvG6YKHfBLAFgQ1QIoBXoECGQQBg)
+
+- [ ] [mcmc mixing - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQDARgkTXZJ8nLHP6LDzgWLcJyOcA:1574090052046&q=mcmc+mixing&sa=X&ved=2ahUKEwi045WzhvTlAhX-xosBHc5NB1EQ1QIoAnoECGQQAw)
+
+- [ ] [mcmc mixing - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQDARgkTXZJ8nLHP6LDzgWLcJyOcA:1574090052046&q=mcmc+mixing&sa=X&ved=2ahUKEwi045WzhvTlAhX-xosBHc5NB1EQ1QIoAnoECGQQAw)
+
+- [ ] [mcmc normal distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR1z1f1osLvgCBNlgkEslpv7ZTFPQ%3A1574090046123&lei=PrXSXaKPB-vEmAW6lpiQDw&q=mcmc%20normal%20distribution&ved=2ahUKEwi0icGxhvTlAhWHGqYKHTBhB14QsKwBKAB6BAgAEAE)
+
+- [ ] [mcmcpack in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A%3A1574086764355&lei=bKjSXdymFa-2mAXwl4HABQ&q=mcmcpack%20in%20r&ved=2ahUKEwi9yNOe-vPlAhVww4sBHWW9B5IQsKwBKAN6BAgAEAQ)
+
+- [ ] [metropolis algorithm pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR1z1f1osLvgCBNlgkEslpv7ZTFPQ%3A1574090046123&lei=PrXSXaKPB-vEmAW6lpiQDw&q=metropolis%20algorithm%20pdf&ved=2ahUKEwi0icGxhvTlAhWHGqYKHTBhB14QsKwBKAF6BAgAEAI)
+
+- [ ] [metropolis hastings log likelihood - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A:1574086764355&q=metropolis+hastings+log+likelihood&sa=X&ved=2ahUKEwjcjL2T-vPlAhUvG6YKHfBLAFgQ1QIoB3oECGQQCA)
+
+- [ ] [metropolis hastings multiple parameters - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A%3A1574086764355&lei=bKjSXdymFa-2mAXwl4HABQ&q=metropolis%20hastings%20multiple%20parameters&ved=2ahUKEwi9yNOe-vPlAhVww4sBHWW9B5IQsKwBKAV6BAgAEAY)
+
+- [ ] [metropolis hastings multivariate normal distribution r code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSIaLykAfTFdcxbaTsOAb5mz8wlew%3A1574090034613&ei=MrXSXaX3JNeXr7wPp4Ss4AY&q=metropolis+hastings+multivariate+normal+distribution+r+code&oq=metropolis+hastings+multivariate+normal+distribution+r+c&gs_l=psy-ab.1.0.33i299.5627.7139..8069...0.2..0.288.749.0j2j2......0....1..gws-wiz.......0i71j33i160.m5JIh0p_mq8)
+
+- [ ] [metropolis-hastings sampler r code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A:1574086764355&q=metropolis-hastings+sampler+r+code&sa=X&ved=2ahUKEwjcjL2T-vPlAhUvG6YKHfBLAFgQ1QIoAXoECGQQAg)
+
+- [ ] [mh sampling in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A:1574086764355&q=mh+sampling+in+r&sa=X&ved=2ahUKEwjcjL2T-vPlAhUvG6YKHfBLAFgQ1QIoAnoECGQQAw)
+
+- [ ] [normal density funciton - Google Search](https://www.google.com/search?q=normal+density+funciton&oq=normal+density+funciton&aqs=chrome..69i57j0l5j69i64j69i65.4115j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [pandas dataframe describe specific columns - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=pandas%20dataframe%20describe%20specific%20columns&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAV6BAgBEAY)
+
+- [ ] [pandas dataframe info - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=pandas%20dataframe%20info&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAF6BAgBEAI)
+
+- [ ] [pandas describe by group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=pandas%20describe%20by%20group&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAB6BAgBEAE)
+
+- [ ] [pandas describe mean nan - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=pandas%20describe%20mean%20nan&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAJ6BAgBEAM)
+
+- [ ] [pandas groupby aggregate custom function - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=pandas%20groupby%20aggregate%20custom%20function&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAF6BAgCEAI)
+
+- [ ] [pandas groupby aggregate to list - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=pandas%20groupby%20aggregate%20to%20list&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAB6BAgCEAE)
+
+- [ ] [product topology - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5kraowxKEOKJk1yxtw7sJny-sRw%3A1574083591202&lei=B5zSXbntC_rUmAXe0p6ADw&q=product%20topology&ved=2ahUKEwjG3O2r7vPlAhWBF6YKHXGGCuAQsKwBKAR6BAgBEAU)
+
+- [ ] [program a Metropolis–Hastings scheme to sample normal distribution - Google Search](https://www.google.com/search?q=program+a+Metropolis%E2%80%93Hastings+scheme+to+sample+normal+distribution&oq=program+a+Metropolis%E2%80%93Hastings+scheme+to+sample+normal+distribution&aqs=chrome..69i57.6689j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [python itertools groupby example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=python%20itertools%20groupby%20example&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAN6BAgCEAQ)
+
+- [ ] [python list group by - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=python%20list%20group%20by&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAJ6BAgCEAM)
+
+- [ ] [python re sub group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCBx-VJhlFvkx86VYEtL-mGrqcwQ%3A1574074045176&lei=vXbSXa-zCqGGr7wPt7G20Ao&q=python%20re%20sub%20group&ved=2ahUKEwiW64TlyvPlAhW7IqYKHUPABx4QsKwBKAR6BAgAEAU)
+
+- [ ] [python re.sub example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRYZc_JUxDwpxHfX7oJ4n6VQgkkXQ:1574074084019&q=python+re.sub+example&sa=X&ved=2ahUKEwjk6IL1yvPlAhVdIqYKHVKiBu8Q1QIoBnoECGUQBw&biw=1920&bih=948)
+
+- [ ] [python regex match - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCBx-VJhlFvkx86VYEtL-mGrqcwQ%3A1574074045176&lei=vXbSXa-zCqGGr7wPt7G20Ao&q=python%20regex%20match&ved=2ahUKEwiW64TlyvPlAhW7IqYKHUPABx4QsKwBKAF6BAgCEAI)
+
+- [ ] [python regex replace all in file - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNRYZc_JUxDwpxHfX7oJ4n6VQgkkXQ:1574074084019&q=python+regex+replace+all+in+file&sa=X&ved=2ahUKEwjk6IL1yvPlAhVdIqYKHVKiBu8Q1QIoAHoECGUQAQ)
+
+- [ ] [python regex replace all multiline - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNRYZc_JUxDwpxHfX7oJ4n6VQgkkXQ:1574074084019&q=python+regex+replace+all+multiline&sa=X&ved=2ahUKEwjk6IL1yvPlAhVdIqYKHVKiBu8Q1QIoAXoECGUQAg)
+
+- [ ] [python regex sub - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNRYZc_JUxDwpxHfX7oJ4n6VQgkkXQ:1574074084019&q=python+regex+sub&sa=X&ved=2ahUKEwjk6IL1yvPlAhVdIqYKHVKiBu8Q1QIoAnoECGUQAw)
+
+- [ ] [python regex tester - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCBx-VJhlFvkx86VYEtL-mGrqcwQ%3A1574074045176&lei=vXbSXa-zCqGGr7wPt7G20Ao&q=python%20regex%20tester&ved=2ahUKEwiW64TlyvPlAhW7IqYKHUPABx4QsKwBKAB6BAgAEAE)
+
+- [ ] [python string replace - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNRYZc_JUxDwpxHfX7oJ4n6VQgkkXQ:1574074084019&q=python+string+replace&sa=X&ved=2ahUKEwjk6IL1yvPlAhVdIqYKHVKiBu8Q1QIoB3oECGUQCA)
+
+- [ ] [quotient topology - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5kraowxKEOKJk1yxtw7sJny-sRw%3A1574083591202&lei=B5zSXbntC_rUmAXe0p6ADw&q=quotient%20topology&ved=2ahUKEwjG3O2r7vPlAhWBF6YKHXGGCuAQsKwBKAN6BAgBEAQ)
+
+- [ ] [r cran mcmc - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A%3A1574086764355&lei=bKjSXdymFa-2mAXwl4HABQ&q=r%20cran%20mcmc&ved=2ahUKEwi9yNOe-vPlAhVww4sBHWW9B5IQsKwBKAF6BAgAEAI)
+
+- [ ] [r legend box too big - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTOu2NcI0STbPCLtoX0e9Lc8PsZMA%3A1574089381952&lei=pbLSXYfXOaSYr7wPvp2W4Ag&q=r%20legend%20box%20too%20big&ved=2ahUKEwiwwdL0g_TlAhWJwJQKHWK-CBkQsKwBKAV6BAgBEAY)
+
+- [ ] [r legend font size - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTOu2NcI0STbPCLtoX0e9Lc8PsZMA%3A1574089381952&lei=pbLSXYfXOaSYr7wPvp2W4Ag&q=r%20legend%20font%20size&ved=2ahUKEwiwwdL0g_TlAhWJwJQKHWK-CBkQsKwBKAN6BAgBEAQ)
+
+- [ ] [r plot legend for loop - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTOu2NcI0STbPCLtoX0e9Lc8PsZMA%3A1574089381952&lei=pbLSXYfXOaSYr7wPvp2W4Ag&q=r%20plot%20legend%20for%20loop&ved=2ahUKEwiwwdL0g_TlAhWJwJQKHWK-CBkQsKwBKAR6BAgBEAU)
+
+- [ ] [random walk metropolis hastings algorithm in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A:1574086764355&q=random+walk+metropolis+hastings+algorithm+in+r&sa=X&ved=2ahUKEwjcjL2T-vPlAhUvG6YKHfBLAFgQ1QIoBHoECGQQBQ)
+
+- [ ] [regex to find a word in string python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCBx-VJhlFvkx86VYEtL-mGrqcwQ%3A1574074045176&lei=vXbSXa-zCqGGr7wPt7G20Ao&q=regex%20to%20find%20a%20word%20in%20string%20python&ved=2ahUKEwiW64TlyvPlAhW7IqYKHUPABx4QsKwBKAN6BAgAEAQ)
+
+- [ ] [regular expression cheat sheet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCBx-VJhlFvkx86VYEtL-mGrqcwQ%3A1574074045176&lei=vXbSXa-zCqGGr7wPt7G20Ao&q=regular%20expression%20cheat%20sheet&ved=2ahUKEwiW64TlyvPlAhW7IqYKHUPABx4QsKwBKAR6BAgCEAU)
+
+- [ ] [regular expression in python for beginners - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNRYZc_JUxDwpxHfX7oJ4n6VQgkkXQ:1574074084019&q=regular+expression+in+python+for+beginners&sa=X&ved=2ahUKEwjk6IL1yvPlAhVdIqYKHVKiBu8Q1QIoA3oECGUQBA)
+
+- [ ] [regular expression in python for beginners - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCBx-VJhlFvkx86VYEtL-mGrqcwQ%3A1574074045176&lei=vXbSXa-zCqGGr7wPt7G20Ao&q=regular%20expression%20in%20python%20for%20beginners&ved=2ahUKEwiW64TlyvPlAhW7IqYKHUPABx4QsKwBKAV6BAgCEAY)
+
+- [ ] [sample from posterior distribution in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A%3A1574086764355&lei=bKjSXdymFa-2mAXwl4HABQ&q=sample%20from%20posterior%20distribution%20in%20r&ved=2ahUKEwi9yNOe-vPlAhVww4sBHWW9B5IQsKwBKAB6BAgAEAE)
+
+- [ ] [statistical rethinking lecture - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNS_ixfr1TBrZGkgeEqU-Ummd-F8uA%3A1573883991141&lei=V5DPXcaTCIaB0wTU3JPgAw&q=statistical%20rethinking%20lecture&ved=2ahUKEwiyvo_lhu7lAhWPv5QKHRmxA6QQsKwBKAB6BAgBEAE&biw=958&bih=919)
+
+- [ ] [statistical rethinking pdf github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSul24ODamVZBKBdrd6MrX2BirGOA:1574035517068&q=statistical+rethinking+pdf+github&sa=X&ved=2ahUKEwip0o_Whu7lAhWNGKYKHZzNDq8Q1QIoBHoECGQQBQ&sec_act=sr)
+
+- [ ] [statistical rethinking: a bayesian course with examples in r and stan pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRWBQ2Vt5iLZksyQHZpB5GSc2bqVg:1573883966916&q=statistical+rethinking:+a+bayesian+course+with+examples+in+r+and+stan+pdf&sa=X&ved=2ahUKEwip0o_Whu7lAhWNGKYKHZzNDq8Q1QIoAXoECGQQAg)
+
+- [ ] [sum of two dependent random variables - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSZOVcAsR4gM2MKLDY7rTkctFT88g%3A1573995389297&lei=fUPRXcbeEayWr7wPhraa8Ac&q=sum%20of%20two%20dependent%20random%20variables&ved=2ahUKEwjK1NjrpfHlAhVXxIsBHXguD7kQsKwBKAJ6BAgFEAM)
+
+- [ ] [sum of two random variables convolution proof - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNSZOVcAsR4gM2MKLDY7rTkctFT88g:1573995389297&q=sum+of+two+random+variables+convolution+proof&tbm=isch&source=univ&ved=2ahUKEwiGkbrgpfHlAhUsy4sBHQabBn4QsAR6BAgFEAE)
+
+- [ ] [sum of two random variables convolution proof - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=sum+of+two+random+variables+convolution+proof&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoAnoECGQQAw)
+
+- [ ] [Summer with Mica - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQgXGoeWXLb35TfZsvOYW1y_eQOew:1574092593606&q=Summer+with+Mica&stick=H4sIAAAAAAAAAONgFuLWz9U3MDQ0ySquLFLi1U_XNzRMqUxKLzQvydLiDUgtKs7PC8n3zS_LTF3EKhBcmpubWqRQnlmSoeCbmZy4g5URAN2cZt1DAAAA&sa=X&ved=2ahUKEwjrporvj_TlAhWjyIsBHTQ7DfQQxA0wbXoECGkQBg)
+
+- [ ] [Tensor Analysis on Manifolds - Google Search](https://www.google.com/search?newwindow=1&hl=en&sxsrf=ACYBGNQL9O3RtWQgHqMInyawU7yfqncVyw:1574083661199&q=Tensor+Analysis+on+Manifolds&stick=H4sIAAAAAAAAAI2TTWvVQBSGm9KKphVqiigXxVAURIR78zVJuxERdxZBuw83M0kmuZOZyWTMx13pznV_gms3IvgTBLt04UZw4ULwH7jUW24mETcun_Oe8845JycXtw92p-nUsiPuwLDx7Tskq6TJEjMV7AU3JY6Z6EzJOCMszeCcmBFjizNtXUUB8Tt-pl1eoRU1XJQ4aJRcAAhJsUYMaeG4DT3T9GkxnUGHNCAZUhN4iP21BlCbW8seolQQpQTo0Av6qjoUTlM2vVbRsCK9vSv8Ohp1xmHYekPjVp43oC_ky5KgtWa5AKaeCHrNh7NIrLUONTNctZay9QpHohKqXIAbrN7gi8AFqcJSlglqRqvzqfRG84eeSwZ0WrFQq3IXeViPUjmfjSrBkko44DISgA9Ik7RDfYM44mGxBpf6NBhepHbnu24_WeK5xeEiBYNP4bki7WUIKtIhUalFABTRMgyH2c_PSbmFuZ2nvjvquQ5Gmyo6nyegz8Z2DgOY4NHHkxBhoh63irD0bDmU47q1un7Guuae7IEGltcfErQaZ6mOJbEXtqMU2bT4u3a6ubP389e3_cnrzdO3n75orzb1vSeMVTHpnsVkLmN0wozb-oXHVGayMyb67uTi-Spb4t7dmOi6IuOjpu88j-UJO2YoSzrjg2a81_7PzYe5M7ityOj-NssNrF86josoFtXTxDjS9UeMkBjKjFHjvn51cmUKVWC6-mOrP4b7-r_hg1v2zc8_vr7bvqZvrQL3tq5rpuZtbLx8cHQe2H2zfeMkphUT5kM6J12VVSaj5vGcZgkjqPoNKMRLd0IEAAA&sa=X&ved=0ahUKEwiotOPL7vPlAhXYyYsBHbiADBEQ-BYInwEwigE&cshid=1574083665562735)
+
+- [ ] [The Structure of Lie Groups Gerhard Hochschild - Google Search](https://www.google.com/search?newwindow=1&hl=en&sxsrf=ACYBGNQL9O3RtWQgHqMInyawU7yfqncVyw:1574083661199&q=The+Structure+of+Lie+Groups+Gerhard+Hochschild&stick=H4sIAAAAAAAAAI1UTWvVQBRtSiuaVqgpojwQQ1EQEd_L1yTtxoVIXbQItvvQzCSZlzeZSSbTfLyV7lz3J7h2I4I_QbBLF24EFy4E_4FLffXNJOLG5bnnnnM_cjOX13eujtOxZWE7gwFMsH2XTCthssRMOTstTIFjxjtTsIIRlk7hCTEjxmbn2uZCZkcUEL8rzrU_LlFT8BIHjaJzACHJlxBDmjtuQ881fZyPJ9AhDUj61ATuYn_JAdRm1lyCKOVEMQHa9QKpqkPuNGUjuYqGFZH2LvfraNBZAcPW6xu3sqwBUljMS4KWnOUCmHo8kJwPJxFfch1qJrhqLWXr5Y5AJVS5ADdY1ShmgQtSBUtRJqgZrM6nwhvMH3ou6aHT8plalTvLwnqQWhSTgRLMqYA9nEccFD2kSdoh2SCOijBfApf6NOgrUrvzXVdOlnhuvjtLQe-Tey5PJQ1BRTrEK7UIgCJahmE_uwPDxlduYWZnqe8Oeq6Dwabyzi8SILPlMQ4-noAIE1XcysPSs0Uvx3VrdXLGui48IQENLE8eErQaZ66OJbFntqMY0bT4m3a2urH14-fX7dGr1bM3Hz9rL1f1rQPGqph0z2NyImJ0zIw7-qUnVExFZ4z0zdHli1W2xL23MtJ1hYwPmr5xFItjdsjQNOmM95rxTvs_Nx9mTu-2QEb3t1lmYP3KYZxHMa-eJcaerj9mhMRQTBk1HujXR9fGUAXGiz-2-m24rf8b3rlt3_r0_cvb9Rv62iJwf-2mZmreysqLR3sXgc3X6w-PcWweCX4KxSmPF4_DwTQ29xcPRGXuxxyfcGQ-ZRBXEE8J-gWajTPhVQQAAA&sa=X&ved=0ahUKEwiotOPL7vPlAhXYyYsBHbiADBEQ-BYIqwEwjgE&cshid=1574083665562735)
+
+- [ ] [to sampling N(0,1) usign MH mcmc by r codes - Google Search](https://www.google.com/search?q=to+sampling+N(0,1)+usign+MH+mcmc+by+r+codes&newwindow=1&sxsrf=ACYBGNT3Nex1tMqQ9HSfL3mC6b0pqu239A:1574086764355&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjcjL2T-vPlAhUvG6YKHfBLAFgQ_AUIFCgD&biw=1920&bih=948)
+
+- [ ] [to sampling N(0,1) using metric hosting by r codes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSwf9bAQr77rS3t7rzS3eaUnHq12g:1574086739109&q=to+sampling+N(0,1)+using+metric+hosting+by+r+codes&spell=1&sa=X&ved=0ahUKEwjx07eH-vPlAhVIyIsBHR__CIEQkeECCC4oAA)
+
+- [ ] [topological group action - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5kraowxKEOKJk1yxtw7sJny-sRw:1574083591202&q=topological+group+action&sa=X&ved=2ahUKEwj5jLOq7vPlAhV6KqYKHV6pB_AQ1QIoBnoECAYQBw&biw=1920&bih=899)
+
+- [ ] [topological group action - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5kraowxKEOKJk1yxtw7sJny-sRw:1574083591202&q=topological+group+action&sa=X&ved=2ahUKEwj5jLOq7vPlAhV6KqYKHV6pB_AQ1QIoBnoECAYQBw)
+
+- [ ] [topological groups and related structures pdf - Google Search](https://www.google.com/search?newwindow=1&hl=en&sxsrf=ACYBGNQL9O3RtWQgHqMInyawU7yfqncVyw:1574083661199&q=topological+groups+and+related+structures+pdf&sa=X&ved=2ahUKEwiotOPL7vPlAhXYyYsBHbiADBEQ1QIoB3oECGQQCA&cshid=1574083665562735)
+
+- [ ] [topological groups books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5kraowxKEOKJk1yxtw7sJny-sRw%3A1574083591202&lei=B5zSXbntC_rUmAXe0p6ADw&q=topological%20groups%20books&ved=2ahUKEwjG3O2r7vPlAhWBF6YKHXGGCuAQsKwBKAB6BAgBEAE)
+
+- [ ] [topological groups lecture notes - Google Search](https://www.google.com/search?newwindow=1&hl=en&sxsrf=ACYBGNQL9O3RtWQgHqMInyawU7yfqncVyw:1574083661199&q=topological+groups+lecture+notes&sa=X&ved=2ahUKEwiotOPL7vPlAhXYyYsBHbiADBEQ1QIoA3oECGQQBA&cshid=1574083665562735)
+
+- [ ] [topological vector space - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5kraowxKEOKJk1yxtw7sJny-sRw%3A1574083591202&lei=B5zSXbntC_rUmAXe0p6ADw&q=topological%20vector%20space&ved=2ahUKEwjG3O2r7vPlAhWBF6YKHXGGCuAQsKwBKAJ6BAgBEAM)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=percentiles%20pandas&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAR6BAgBEAU)
+
+- [ ] [古川伊织 - Google Search](https://www.google.com/search?q=%E5%8F%A4%E5%B7%9D%E4%BC%8A%E7%BB%87&oq=%E5%8F%A4%E5%B7%9D%E4%BC%8A%E7%BB%87&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)

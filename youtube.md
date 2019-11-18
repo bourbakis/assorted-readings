@@ -837,3 +837,50 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [Probability Theory: The Logic of Science Reading Course Introduction - YouTube](https://www.youtube.com/watch?v=rfKS69cIwHc)
 
 - [ ] [The Moment Generating Function of the Exponential Distribution - YouTube](https://www.youtube.com/watch?v=ty2vjLxMZkc)
+
+
+## 11/19/2019
+
+- [ ] [(38) Count Data Models in R - YouTube](https://www.youtube.com/watch?v=yLF45x70A3o)
+
+- [ ] [(38) Poisson Regression with R - Insect Sprays - YouTube](https://www.youtube.com/watch?v=i05dKATW2nA)
+
+- [ ] [(38) Probability Theory: The Logic of Science Chapter 2, "The quantitative rules" - YouTube](https://www.youtube.com/watch?v=xAbU0lHSxcg)
+
+- [ ] [(38) Probability Theory: The Logic of Science Chapter 4, "Elementary hypothesis testing" (Part 1) - YouTube](https://www.youtube.com/watch?v=-yiH7qeNO7I)
+
+- [ ] [(38) Zero Inflated Poisson ( ZIP) models - YouTube](https://www.youtube.com/watch?v=aVdxv21kMF8)
+
+- [ ] [(41) How do I change display options in pandas? - YouTube](https://www.youtube.com/watch?v=yiO43TQ4xvc)
+
+- [ ] [(41) Styling Pandas Dataframe Tables - YouTube](https://www.youtube.com/watch?v=Eiz4bwggQDY)
+
+- [ ] [Convolution Theorem for Probability. - YouTube](https://www.youtube.com/watch?v=f63e7uJeCOw)
+
+- [ ] [HOW TO APPLY STYLES TO PANDAS DATAFRAME - YouTube](https://www.youtube.com/watch?v=SOXF5r8H1nc)
+
+- [ ] [L12.3 The Sum of Independent Continuous Random Variables - YouTube](https://www.youtube.com/watch?v=d2M4LNSeIn4)
+
+- [ ] [Lecture 17: Moment Generating Functions | Statistics 110 - YouTube](https://www.youtube.com/watch?v=N8O6zd6vTZ8)
+
+- [ ] [Lecture 22: Transformations and Convolutions | Statistics 110 - YouTube](https://www.youtube.com/watch?v=yXwPUAIvFyg)
+
+- [ ] [PDF for Sums of Random Variables - YouTube](https://www.youtube.com/watch?v=CUqIyShvPxI)
+
+- [ ] [(50) pdf of sum of two independent random variables - YouTube](https://www.youtube.com/watch?v=9VW0cqdK28k)
+
+- [ ] [Peter Thiel on “The Straussian Moment” - YouTube](https://www.youtube.com/watch?v=iRleB034EC8&list=TLPQMTYxMTIwMTkoFC8WWrcHsA&index=3)
+
+- [ ] [(50) Prob 6 9 Convolution of Uniform Random Variables - YouTube](https://www.youtube.com/watch?v=NMjL5F2qfvc)
+
+- [ ] [Python Regular expressions -part #6 -Introduction To Groups - YouTube](https://www.youtube.com/watch?v=CmGLLCDfq6k)
+
+- [ ] [(50) Python Regular expressions -part #6 -Introduction To Groups - YouTube](https://www.youtube.com/watch?v=CmGLLCDfq6k)
+
+- [ ] [The Difference of Two Independent Exponential Random Variables - YouTube](https://www.youtube.com/watch?v=f8Nli1AfygM)
+
+- [ ] [The Moment Generating Function of the Exponential Distribution - YouTube](https://www.youtube.com/watch?v=ty2vjLxMZkc)
+
+- [ ] [The Sum of Discrete and Continuous Random Variables - YouTube](https://www.youtube.com/watch?v=8ueUXUTRlSQ)
+
+- [ ] [(50) Pillai " Z=X+Y, Sum of Two Random Variables" (Part 1 of 5) - YouTube](https://www.youtube.com/watch?v=d_9KT2abCAY)
