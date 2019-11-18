@@ -3438,3 +3438,235 @@ https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
 - [ ] [zeroinfl() in r - Google Search](https://www.google.com/search?q=zeroinfl()+in+r&oq=zeroinfl()+in+r&aqs=chrome..69i57j0l4j69i60l3.2858j0j1&sourceid=chrome&ie=UTF-8)
 
 - [ ] [zeroinfl() in r site:stackoverflow.com - Google Search](https://www.google.com/search?q=zeroinfl()+in+r+site:stackoverflow.com&newwindow=1&sxsrf=ACYBGNSh5g-RojDcmQLxcEc93rwA1JK-DA:1573874859115&sa=X&ved=2ahUKEwiwzZff5O3lAhUFL6YKHbhNA_sQrQIoBDAHegQIFRAN&cshid=1573874959826778)
+
+
+
+
+
+## 11/17/2019
+
+- [ ] [game-theoretic probability - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNTBAYr4LRQHGbNASm9w6H2MoSyehQ%3A1573968357846&ei=5dnQXZ2VM6uxmAWmnrAI&q=game-theoretic+probability&oq=game-theoretic+probability&gs_l=psy-ab.3..0i71l8.11751.20552..20785...0.8..0.0.0.......0....1..gws-wiz.i-PtENb47BA&ved=0ahUKEwjdm-2GwfDlAhWrGKYKHSYPDAEQ4dUDCAs&uact=5)
+
+- [ ] [great history of math book - Google Search](https://www.google.com/search?q=great+history+of+math+book&oq=great+history+of+math+book&aqs=chrome..69i57j33.21247j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [great optimization books - Google Search](https://www.google.com/search?q=great+optimization+books&oq=great+optimization+books&aqs=chrome..69i57j0l5.4753j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [how to color dataframe cells - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A%3A1573958413860&lei=DbPQXZCQNIG8mAW4gLfwDQ&q=how%20to%20color%20dataframe%20cells&ved=2ahUKEwid4b-DnPDlAhXKG6YKHdGZAyMQsKwBKAV6BAgCEAY)
+
+- [ ] [how to color dataframe cells site:stackoverflow.com - Google Search](https://www.google.com/search?q=how+to+color+dataframe+cells+site:stackoverflow.com&newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQrQIoBDAAegQIBRAN)
+
+- [ ] [independent random variables pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=independent+random+variables+pdf&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoBHoECGQQBQ)
+
+- [ ] [independent uniform random variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=independent+uniform+random+variables&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoA3oECGQQBA)
+
+- [ ] [Keys for Writers - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ-ZBZkGqhR-_P5XbFMlD0eVPUQFQ:1573883490807&q=Keys+for+Writers&stick=H4sIAAAAAAAAAONgFuLSz9U3MEs2NUouVkJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriRawC3qmVxQpp-UUK4UWZJalFxTtYGQEfrOoGSAAAAA&sa=X&ved=2ahUKEwj5qYzzhO7lAhU7L6YKHcX9DkEQzTooATBnegQIWhAC)
+
+- [ ] [Keys for Writers: A Brief Handbook by Ann Raimes - Google Search](https://www.google.com/search?q=Keys+for+Writers%3A+A+Brief+Handbook+by+Ann+Raimes&oq=Keys+for+Writers%3A+A+Brief+Handbook+by+Ann+Raimes&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Lie Groups, Lie Algebras, and Representations: An Elementary Introduction. by Brian C. Hall - Google Search](https://www.google.com/search?q=Lie+Groups%2C+Lie+Algebras%2C+and+Representations%3A+An+Elementary+Introduction.+by+Brian+C.+Hall&oq=Lie+Groups%2C+Lie+Algebras%2C+and+Representations%3A+An+Elementary+Introduction.+%C2%A0by+Brian+C.+Hall&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Mark Ronan - Google Search](https://www.google.com/search?q=Mark+Ronan&oq=Mark+Ronan&aqs=chrome..69i57j69i61l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [moothing of Multivariate Data: Density Estimation - Google Search](https://www.google.com/search?q=moothing+of+Multivariate+Data%3A+Density+Estimation&oq=moothing+of+Multivariate+Data%3A+Density+Estimation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [pandas background color - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+background+color&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoAHoECGQQAQ)
+
+- [ ] [pandas background color - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+background+color&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoBHoECGQQBQ)
+
+- [ ] [pandas background_gradient - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A%3A1573958413860&lei=DbPQXZCQNIG8mAW4gLfwDQ&q=pandas%20background_gradient&ved=2ahUKEwid4b-DnPDlAhXKG6YKHdGZAyMQsKwBKAN6BAgCEAQ)
+
+- [ ] [pandas background_gradient - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=pandas%20background_gradient&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAR6BAgCEAU)
+
+- [ ] [pandas dataframe align text left - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+dataframe+align+text+left&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoBnoECGQQBw)
+
+- [ ] [pandas dataframe color cells - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+dataframe+color+cells&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoBXoECGQQBg)
+
+- [ ] [pandas dataframe style examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+dataframe+style+examples&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoA3oECGQQBA)
+
+- [ ] [pandas dataframe style index - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+dataframe+style+index&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoB3oECGQQCA)
+
+- [ ] [pandas dataframe style not working - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+dataframe+style+not+working&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoBHoECGQQBQ)
+
+- [ ] [pandas dataframe style not working - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=pandas%20dataframe%20style%20not%20working&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAN6BAgCEAQ)
+
+- [ ] [pandas dataframe to html table example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+dataframe+to+html+table+example&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoBXoECGQQBg)
+
+- [ ] [pandas dataframe to html table example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=pandas%20dataframe%20to%20html%20table%20example&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAJ6BAgCEAM)
+
+- [ ] [pandas display - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTPU3ynE0xRrIfHcOBX-iOs8h8Ovw:1573958753596&q=pandas+display&sa=X&ved=2ahUKEwi7ppijnfDlAhXSGaYKHVLGApwQ1QIoB3oECGQQCA)
+
+- [ ] [pandas highlight row - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+highlight+row&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoAnoECGQQAw)
+
+- [ ] [pandas highlight row - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTPU3ynE0xRrIfHcOBX-iOs8h8Ovw:1573958753596&q=pandas+highlight+row&sa=X&ved=2ahUKEwi7ppijnfDlAhXSGaYKHVLGApwQ1QIoBnoECGQQBw)
+
+- [ ] [pandas highlight row - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A%3A1573958413860&lei=DbPQXZCQNIG8mAW4gLfwDQ&q=pandas%20highlight%20row&ved=2ahUKEwid4b-DnPDlAhXKG6YKHdGZAyMQsKwBKAB6BAgCEAE)
+
+- [ ] [pandas set_table_styles - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+set_table_styles&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoAXoECGQQAg)
+
+- [ ] [pandas set_table_styles - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A%3A1573958413860&lei=DbPQXZCQNIG8mAW4gLfwDQ&q=pandas%20set_table_styles&ved=2ahUKEwid4b-DnPDlAhXKG6YKHdGZAyMQsKwBKAF6BAgCEAI)
+
+- [ ] [pandas set_table_styles - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=pandas%20set_table_styles&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAB6BAgCEAE)
+
+- [ ] [pandas set_table_styles - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+set_table_styles&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoBnoECGQQBw)
+
+- [ ] [pandas style - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=pandas%20style&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAF6BAgCEAI)
+
+- [ ] [pandas style border - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+style+border&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoA3oECGQQBA)
+
+- [ ] [pandas style border - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+style+border&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoAXoECGQQAg)
+
+- [ ] [pandas.io.formats.style.styler example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas.io.formats.style.styler+example&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoB3oECGQQCA)
+
+- [ ] [paradoxes in probability theory pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR-yvb3MVsOC4Zi6R3urvC_jkVCPg:1573884457373&q=paradoxes+in+probability+theory+pdf&sa=X&ved=2ahUKEwib6v6_iO7lAhWEGqYKHXnWCrAQ1QIoBnoECGwQBw)
+
+- [ ] [Peter M Lee - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSfJhMM0OE93LiFq41hmUEvUqhFXQ%3A1573883820354&ei=rI_PXcSoFcexmAXAqLmoAw&q=Peter+M+Lee&oq=Peter+M+Lee&gs_l=psy-ab.3..0j0i322j0i22i30l3.22237.24258..25660...0.0..0.118.211.1j1....1..0....1..gws-wiz.gKr_xN34BvI&ved=0ahUKEwjErp6Qhu7lAhXHGKYKHUBUDjUQ4dUDCAs&uact=5)
+
+- [ ] [probabilistic graphical models solutions - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR5-reB-2AUxGaqk68XWyBQ7AT4HQ:1574001474467&q=probabilistic+graphical+models+solutions&sa=X&ved=2ahUKEwjWwIu2vPHlAhUCCqYKHZjDDCQQ1QIoB3oECGQQCA&biw=1920&bih=948)
+
+- [ ] [probabilistic graphical models: principles and techniques - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR5-reB-2AUxGaqk68XWyBQ7AT4HQ:1574001474467&q=probabilistic+graphical+models:+principles+and+techniques&sa=X&ved=2ahUKEwjWwIu2vPHlAhUCCqYKHZjDDCQQ1QIoAXoECGQQAg&biw=1920&bih=948)
+
+- [ ] [Probability and Finance: It's Only a Game! - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTI8T1ucxEQGITGgfGP_UIHDx-zDA:1573968272870&q=Probability+and+Finance:+It%27s+Only+a+Game!&stick=H4sIAAAAAAAAAG2UPW_TQBjH46pF7TWg4gqBIhVMhURVIcVnO7aThQEBQqIqgu5WfPbZse_8evJLJhY2JgY-ADMLExLfgI4MLEgMDEh8A0ackLNTwfh7Xv763_Pc3fbWYX_oDaFiR3OdOVg5ILOcSTGWkiy2p_aMzFgteVPqSnYch-fChepz4fICoWOZKEnSOWdMKyvw84izrcukqLKoa8cZs4NzAQzpUG6USjXnkOuyYvFGr4pMqshl1yjnpl60umWSF6rf2NpZ9MIRzpxW1PQcr-2jFEGGeC5JdUPlQBQSWbxQgbpBAp5DsCZpewrPygjD424IWWjP1XGLiVMaMscA4byYa9nKmpLVhdpVlnISdkiZNjaqDkNoOGaHQVqO5ZUjrUS-3jmgkaIG9So3gp6t07XZMFotdP4y0q0SyagbZZJWBabt2AlT_LWTITVpt4Dn9dxQw3ErBUtMw9BelddlQiwIuQ3d8Yqa7xZpo-bkXLewAhOmKS_0Mrn0ulw40pDc2h9RqClGd2Woj0LFWL8Inre2Xx2pKumyCsGEr9uR8yAP-QB1jcBu1pGJVVS16y7MLPwhvN3Y3fv1-_v-4PXGm_efvwqvNsDe0zjOXVI_d8mUuc5ZLN4Blx5GrHkd4gD0B9vLBaQ-OuoNAGhJbJR3X7jsLD6JnRmuxU-C-FH4j9pRq3YTXBks3ag2g57f6PXBGov1RcFA9MHOiUttN8tPsTgB4EFMiIvYLI7Ee-Da4OoQtYHh4g3njeQ--Dd8eEs5-PLz24et62BzETje3BNuCKNe7-X9yTLQf7d1_GztV5hGjvRoFk0j5E6kJ-xuLp1GpAlLj5vv4vYfBnQm91oEAAA&sa=X&ved=0ahUKEwiz26rewPDlAhUtGaYKHWG7Cb8Q-BYIMDB2)
+
+- [ ] [probability reflection rethink book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRWBQ2Vt5iLZksyQHZpB5GSc2bqVg:1573883966916&q=probability+reflection+rethink+book&tbm=isch&source=univ&sa=X&ved=2ahUKEwip0o_Whu7lAhWNGKYKHZzNDq8QsAR6BAgLEAE#imgrc=4s2PLUuP7ADLbM)
+
+- [ ] [probability theory the logic of science reddit - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR-yvb3MVsOC4Zi6R3urvC_jkVCPg:1573884457373&q=probability+theory+the+logic+of+science+reddit&sa=X&ved=2ahUKEwib6v6_iO7lAhWEGqYKHXnWCrAQ1QIoA3oECGwQBA)
+
+- [ ] [probability theory the logic of science review - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR-yvb3MVsOC4Zi6R3urvC_jkVCPg:1573884457373&q=probability+theory+the+logic+of+science+review&sa=X&ved=2ahUKEwib6v6_iO7lAhWEGqYKHXnWCrAQ1QIoAHoECGwQAQ)
+
+- [ ] [probability theory: the logic of science epub - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR-yvb3MVsOC4Zi6R3urvC_jkVCPg:1573884457373&q=probability+theory:+the+logic+of+science+epub&sa=X&ved=2ahUKEwib6v6_iO7lAhWEGqYKHXnWCrAQ1QIoAnoECGwQAw)
+
+- [ ] [product of two uniform random variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=product+of+two+uniform+random+variables&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoAHoECGQQAQ)
+
+- [ ] [Python describe table with caption - Google Search](https://www.google.com/search?q=Python+describe+table+with+caption&oq=Python+describe+table+with+caption&aqs=chrome..69i57j0l3j69i60l2j69i64l2.12412j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [python read csv into array - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS0iSQkbEdJuUYugPjypTZpELuEfQ%3A1573908772912&lei=JPHPXaWdN9eTr7wPit-FyAY&q=python%20read%20csv%20into%20array&ved=2ahUKEwinhP-L4-7lAhVVJaYKHQbVAvwQsKwBKAB6BAgBEAE&biw=1920&bih=948)
+
+- [ ] [read masters not pupils able - Google Search](https://www.google.com/search?q=read+masters+not+pupils+able&oq=read+masters+not+pupils+able&aqs=chrome..69i57j33.4830j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [reddit statistics - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNS_ixfr1TBrZGkgeEqU-Ummd-F8uA%3A1573883991141&lei=V5DPXcaTCIaB0wTU3JPgAw&q=reddit%20statistics&ved=2ahUKEwiyvo_lhu7lAhWPv5QKHRmxA6QQsKwBKAR6BAgBEAU)
+
+- [ ] [rethinking 2019 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRWBQ2Vt5iLZksyQHZpB5GSc2bqVg:1573883966916&q=rethinking+2019&sa=X&ved=2ahUKEwip0o_Whu7lAhWNGKYKHZzNDq8Q1QIoB3oECGQQCA)
+
+- [ ] [Robert Keohane - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnNJ3e-mqIryCh-POmMmQC8xW2yw:1573999891944&q=Robert+Keohane&stick=H4sIAAAAAAAAAONgFuLSz9U3MMnKTbdMVuIEsc3Ty9Kztfic83Nz8_OCM1NSyxMrixex8gXlJ6UWlSh4p-ZnJOal7mBlBACiNV-QPQAAAA&sa=X&ved=2ahUKEwjC5b3DtvHlAhW2y4sBHTw_BwIQxA0wdXoECGYQBA)
+
+- [ ] [Sasakian Geometry - Google Search](https://www.google.com/search?q=Sasakian+Geometry&oq=Sasakian+Geometry&aqs=chrome..69i57j69i61l4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [screw things up - Google Search](https://www.google.com/search?q=screw+things+up&oq=screw+things+up&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Self-adaptive AI Model，SAAIM flu prediction - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQj_IVGC5g7opQzxTgx6_WRtzDTDA%3A1573996485517&ei=xUfRXcCXH4-xmAWVkZuIDQ&q=Self-adaptive+AI+Model%EF%BC%8CSAAIM+flu+prediction&oq=Self-adaptive+AI+Model%EF%BC%8CSAAIM+flu+prediction&gs_l=psy-ab.3..33i299l3.302476.310359..310777...0.0..0.555.2483.0j14j5-1......0....1..gws-wiz.......35i39j33i160.T8IS7_5Y_BU&ved=0ahUKEwiAjpbrqfHlAhWPGKYKHZXIBtEQ4dUDCAs&uact=5)
+
+
+## 11/17/2019
+
+- [ ] [game-theoretic probability - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNTBAYr4LRQHGbNASm9w6H2MoSyehQ%3A1573968357846&ei=5dnQXZ2VM6uxmAWmnrAI&q=game-theoretic+probability&oq=game-theoretic+probability&gs_l=psy-ab.3..0i71l8.11751.20552..20785...0.8..0.0.0.......0....1..gws-wiz.i-PtENb47BA&ved=0ahUKEwjdm-2GwfDlAhWrGKYKHSYPDAEQ4dUDCAs&uact=5)
+
+- [ ] [great history of math book - Google Search](https://www.google.com/search?q=great+history+of+math+book&oq=great+history+of+math+book&aqs=chrome..69i57j33.21247j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [great optimization books - Google Search](https://www.google.com/search?q=great+optimization+books&oq=great+optimization+books&aqs=chrome..69i57j0l5.4753j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [how to color dataframe cells - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A%3A1573958413860&lei=DbPQXZCQNIG8mAW4gLfwDQ&q=how%20to%20color%20dataframe%20cells&ved=2ahUKEwid4b-DnPDlAhXKG6YKHdGZAyMQsKwBKAV6BAgCEAY)
+
+- [ ] [how to color dataframe cells site:stackoverflow.com - Google Search](https://www.google.com/search?q=how+to+color+dataframe+cells+site:stackoverflow.com&newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQrQIoBDAAegQIBRAN)
+
+- [ ] [independent random variables pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=independent+random+variables+pdf&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoBHoECGQQBQ)
+
+- [ ] [independent uniform random variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=independent+uniform+random+variables&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoA3oECGQQBA)
+
+- [ ] [Keys for Writers - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ-ZBZkGqhR-_P5XbFMlD0eVPUQFQ:1573883490807&q=Keys+for+Writers&stick=H4sIAAAAAAAAAONgFuLSz9U3MEs2NUouVkJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriRawC3qmVxQpp-UUK4UWZJalFxTtYGQEfrOoGSAAAAA&sa=X&ved=2ahUKEwj5qYzzhO7lAhU7L6YKHcX9DkEQzTooATBnegQIWhAC)
+
+- [ ] [Keys for Writers: A Brief Handbook by Ann Raimes - Google Search](https://www.google.com/search?q=Keys+for+Writers%3A+A+Brief+Handbook+by+Ann+Raimes&oq=Keys+for+Writers%3A+A+Brief+Handbook+by+Ann+Raimes&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Lie Groups, Lie Algebras, and Representations: An Elementary Introduction. by Brian C. Hall - Google Search](https://www.google.com/search?q=Lie+Groups%2C+Lie+Algebras%2C+and+Representations%3A+An+Elementary+Introduction.+by+Brian+C.+Hall&oq=Lie+Groups%2C+Lie+Algebras%2C+and+Representations%3A+An+Elementary+Introduction.+%C2%A0by+Brian+C.+Hall&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Mark Ronan - Google Search](https://www.google.com/search?q=Mark+Ronan&oq=Mark+Ronan&aqs=chrome..69i57j69i61l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [moothing of Multivariate Data: Density Estimation - Google Search](https://www.google.com/search?q=moothing+of+Multivariate+Data%3A+Density+Estimation&oq=moothing+of+Multivariate+Data%3A+Density+Estimation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [pandas background color - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+background+color&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoAHoECGQQAQ)
+
+- [ ] [pandas background color - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+background+color&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoBHoECGQQBQ)
+
+- [ ] [pandas background_gradient - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A%3A1573958413860&lei=DbPQXZCQNIG8mAW4gLfwDQ&q=pandas%20background_gradient&ved=2ahUKEwid4b-DnPDlAhXKG6YKHdGZAyMQsKwBKAN6BAgCEAQ)
+
+- [ ] [pandas background_gradient - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=pandas%20background_gradient&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAR6BAgCEAU)
+
+- [ ] [pandas dataframe align text left - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+dataframe+align+text+left&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoBnoECGQQBw)
+
+- [ ] [pandas dataframe color cells - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+dataframe+color+cells&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoBXoECGQQBg)
+
+- [ ] [pandas dataframe style examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+dataframe+style+examples&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoA3oECGQQBA)
+
+- [ ] [pandas dataframe style index - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+dataframe+style+index&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoB3oECGQQCA)
+
+- [ ] [pandas dataframe style not working - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+dataframe+style+not+working&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoBHoECGQQBQ)
+
+- [ ] [pandas dataframe style not working - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=pandas%20dataframe%20style%20not%20working&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAN6BAgCEAQ)
+
+- [ ] [pandas dataframe to html table example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+dataframe+to+html+table+example&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoBXoECGQQBg)
+
+- [ ] [pandas dataframe to html table example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=pandas%20dataframe%20to%20html%20table%20example&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAJ6BAgCEAM)
+
+- [ ] [pandas display - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTPU3ynE0xRrIfHcOBX-iOs8h8Ovw:1573958753596&q=pandas+display&sa=X&ved=2ahUKEwi7ppijnfDlAhXSGaYKHVLGApwQ1QIoB3oECGQQCA)
+
+- [ ] [pandas highlight row - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+highlight+row&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoAnoECGQQAw)
+
+- [ ] [pandas highlight row - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTPU3ynE0xRrIfHcOBX-iOs8h8Ovw:1573958753596&q=pandas+highlight+row&sa=X&ved=2ahUKEwi7ppijnfDlAhXSGaYKHVLGApwQ1QIoBnoECGQQBw)
+
+- [ ] [pandas highlight row - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A%3A1573958413860&lei=DbPQXZCQNIG8mAW4gLfwDQ&q=pandas%20highlight%20row&ved=2ahUKEwid4b-DnPDlAhXKG6YKHdGZAyMQsKwBKAB6BAgCEAE)
+
+- [ ] [pandas set_table_styles - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+set_table_styles&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoAXoECGQQAg)
+
+- [ ] [pandas set_table_styles - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A%3A1573958413860&lei=DbPQXZCQNIG8mAW4gLfwDQ&q=pandas%20set_table_styles&ved=2ahUKEwid4b-DnPDlAhXKG6YKHdGZAyMQsKwBKAF6BAgCEAI)
+
+- [ ] [pandas set_table_styles - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=pandas%20set_table_styles&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAB6BAgCEAE)
+
+- [ ] [pandas set_table_styles - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+set_table_styles&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoBnoECGQQBw)
+
+- [ ] [pandas style - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR4HK8PBuwwU08kmJPb2ImcEZLoqg%3A1573958231233&lei=V7LQXcHsDdaGr7wPnq2QmAM&q=pandas%20style&ved=2ahUKEwi9mMurm_DlAhXMLqYKHVO7CRUQsKwBKAF6BAgCEAI)
+
+- [ ] [pandas style border - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas+style+border&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoA3oECGQQBA)
+
+- [ ] [pandas style border - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCAkEJXxYh3Y1Lr8HN-QUBlY_l8A:1573958413860&q=pandas+style+border&sa=X&ved=2ahUKEwjQypiBnPDlAhUBHqYKHTjADd4Q1QIoAXoECGQQAg)
+
+- [ ] [pandas.io.formats.style.styler example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfbd5gdCISveBuVm1VuY7mFdBVaQ:1573958662435&q=pandas.io.formats.style.styler+example&sa=X&ved=2ahUKEwjFr9z3nPDlAhXNxIsBHUDqDnsQ1QIoB3oECGQQCA)
+
+- [ ] [paradoxes in probability theory pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR-yvb3MVsOC4Zi6R3urvC_jkVCPg:1573884457373&q=paradoxes+in+probability+theory+pdf&sa=X&ved=2ahUKEwib6v6_iO7lAhWEGqYKHXnWCrAQ1QIoBnoECGwQBw)
+
+- [ ] [Peter M Lee - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSfJhMM0OE93LiFq41hmUEvUqhFXQ%3A1573883820354&ei=rI_PXcSoFcexmAXAqLmoAw&q=Peter+M+Lee&oq=Peter+M+Lee&gs_l=psy-ab.3..0j0i322j0i22i30l3.22237.24258..25660...0.0..0.118.211.1j1....1..0....1..gws-wiz.gKr_xN34BvI&ved=0ahUKEwjErp6Qhu7lAhXHGKYKHUBUDjUQ4dUDCAs&uact=5)
+
+- [ ] [probabilistic graphical models solutions - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR5-reB-2AUxGaqk68XWyBQ7AT4HQ:1574001474467&q=probabilistic+graphical+models+solutions&sa=X&ved=2ahUKEwjWwIu2vPHlAhUCCqYKHZjDDCQQ1QIoB3oECGQQCA&biw=1920&bih=948)
+
+- [ ] [probabilistic graphical models: principles and techniques - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR5-reB-2AUxGaqk68XWyBQ7AT4HQ:1574001474467&q=probabilistic+graphical+models:+principles+and+techniques&sa=X&ved=2ahUKEwjWwIu2vPHlAhUCCqYKHZjDDCQQ1QIoAXoECGQQAg&biw=1920&bih=948)
+
+- [ ] [Probability and Finance: It's Only a Game! - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTI8T1ucxEQGITGgfGP_UIHDx-zDA:1573968272870&q=Probability+and+Finance:+It%27s+Only+a+Game!&stick=H4sIAAAAAAAAAG2UPW_TQBjH46pF7TWg4gqBIhVMhURVIcVnO7aThQEBQqIqgu5WfPbZse_8evJLJhY2JgY-ADMLExLfgI4MLEgMDEh8A0ackLNTwfh7Xv763_Pc3fbWYX_oDaFiR3OdOVg5ILOcSTGWkiy2p_aMzFgteVPqSnYch-fChepz4fICoWOZKEnSOWdMKyvw84izrcukqLKoa8cZs4NzAQzpUG6USjXnkOuyYvFGr4pMqshl1yjnpl60umWSF6rf2NpZ9MIRzpxW1PQcr-2jFEGGeC5JdUPlQBQSWbxQgbpBAp5DsCZpewrPygjD424IWWjP1XGLiVMaMscA4byYa9nKmpLVhdpVlnISdkiZNjaqDkNoOGaHQVqO5ZUjrUS-3jmgkaIG9So3gp6t07XZMFotdP4y0q0SyagbZZJWBabt2AlT_LWTITVpt4Dn9dxQw3ErBUtMw9BelddlQiwIuQ3d8Yqa7xZpo-bkXLewAhOmKS_0Mrn0ulw40pDc2h9RqClGd2Woj0LFWL8Inre2Xx2pKumyCsGEr9uR8yAP-QB1jcBu1pGJVVS16y7MLPwhvN3Y3fv1-_v-4PXGm_efvwqvNsDe0zjOXVI_d8mUuc5ZLN4Blx5GrHkd4gD0B9vLBaQ-OuoNAGhJbJR3X7jsLD6JnRmuxU-C-FH4j9pRq3YTXBks3ag2g57f6PXBGov1RcFA9MHOiUttN8tPsTgB4EFMiIvYLI7Ee-Da4OoQtYHh4g3njeQ--Dd8eEs5-PLz24et62BzETje3BNuCKNe7-X9yTLQf7d1_GztV5hGjvRoFk0j5E6kJ-xuLp1GpAlLj5vv4vYfBnQm91oEAAA&sa=X&ved=0ahUKEwiz26rewPDlAhUtGaYKHWG7Cb8Q-BYIMDB2)
+
+- [ ] [probability reflection rethink book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRWBQ2Vt5iLZksyQHZpB5GSc2bqVg:1573883966916&q=probability+reflection+rethink+book&tbm=isch&source=univ&sa=X&ved=2ahUKEwip0o_Whu7lAhWNGKYKHZzNDq8QsAR6BAgLEAE#imgrc=4s2PLUuP7ADLbM)
+
+- [ ] [probability theory the logic of science reddit - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR-yvb3MVsOC4Zi6R3urvC_jkVCPg:1573884457373&q=probability+theory+the+logic+of+science+reddit&sa=X&ved=2ahUKEwib6v6_iO7lAhWEGqYKHXnWCrAQ1QIoA3oECGwQBA)
+
+- [ ] [probability theory the logic of science review - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR-yvb3MVsOC4Zi6R3urvC_jkVCPg:1573884457373&q=probability+theory+the+logic+of+science+review&sa=X&ved=2ahUKEwib6v6_iO7lAhWEGqYKHXnWCrAQ1QIoAHoECGwQAQ)
+
+- [ ] [probability theory: the logic of science epub - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR-yvb3MVsOC4Zi6R3urvC_jkVCPg:1573884457373&q=probability+theory:+the+logic+of+science+epub&sa=X&ved=2ahUKEwib6v6_iO7lAhWEGqYKHXnWCrAQ1QIoAnoECGwQAw)
+
+- [ ] [product of two uniform random variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTz6MKgpWMN2efK5oW_5VBvEfHkRA:1573995358595&q=product+of+two+uniform+random+variables&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ1QIoAHoECGQQAQ)
+
+- [ ] [Python describe table with caption - Google Search](https://www.google.com/search?q=Python+describe+table+with+caption&oq=Python+describe+table+with+caption&aqs=chrome..69i57j0l3j69i60l2j69i64l2.12412j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [python read csv into array - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS0iSQkbEdJuUYugPjypTZpELuEfQ%3A1573908772912&lei=JPHPXaWdN9eTr7wPit-FyAY&q=python%20read%20csv%20into%20array&ved=2ahUKEwinhP-L4-7lAhVVJaYKHQbVAvwQsKwBKAB6BAgBEAE&biw=1920&bih=948)
+
+- [ ] [read masters not pupils able - Google Search](https://www.google.com/search?q=read+masters+not+pupils+able&oq=read+masters+not+pupils+able&aqs=chrome..69i57j33.4830j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [reddit statistics - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNS_ixfr1TBrZGkgeEqU-Ummd-F8uA%3A1573883991141&lei=V5DPXcaTCIaB0wTU3JPgAw&q=reddit%20statistics&ved=2ahUKEwiyvo_lhu7lAhWPv5QKHRmxA6QQsKwBKAR6BAgBEAU)
+
+- [ ] [rethinking 2019 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRWBQ2Vt5iLZksyQHZpB5GSc2bqVg:1573883966916&q=rethinking+2019&sa=X&ved=2ahUKEwip0o_Whu7lAhWNGKYKHZzNDq8Q1QIoB3oECGQQCA)
+
+- [ ] [Robert Keohane - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSnNJ3e-mqIryCh-POmMmQC8xW2yw:1573999891944&q=Robert+Keohane&stick=H4sIAAAAAAAAAONgFuLSz9U3MMnKTbdMVuIEsc3Ty9Kztfic83Nz8_OCM1NSyxMrixex8gXlJ6UWlSh4p-ZnJOal7mBlBACiNV-QPQAAAA&sa=X&ved=2ahUKEwjC5b3DtvHlAhW2y4sBHTw_BwIQxA0wdXoECGYQBA)
+
+- [ ] [Sasakian Geometry - Google Search](https://www.google.com/search?q=Sasakian+Geometry&oq=Sasakian+Geometry&aqs=chrome..69i57j69i61l4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [screw things up - Google Search](https://www.google.com/search?q=screw+things+up&oq=screw+things+up&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Self-adaptive AI Model，SAAIM flu prediction - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQj_IVGC5g7opQzxTgx6_WRtzDTDA%3A1573996485517&ei=xUfRXcCXH4-xmAWVkZuIDQ&q=Self-adaptive+AI+Model%EF%BC%8CSAAIM+flu+prediction&oq=Self-adaptive+AI+Model%EF%BC%8CSAAIM+flu+prediction&gs_l=psy-ab.3..33i299l3.302476.310359..310777...0.0..0.555.2483.0j14j5-1......0....1..gws-wiz.......35i39j33i160.T8IS7_5Y_BU&ved=0ahUKEwiAjpbrqfHlAhWPGKYKHZXIBtEQ4dUDCAs&uact=5)
+
+
+

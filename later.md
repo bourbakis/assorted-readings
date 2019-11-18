@@ -2306,3 +2306,446 @@ https://www.zhihu.com/question/341466774
 - [ ] [Statistical Rethinking – Richard McElreath](http://xcelab.net/rm/statistical-rethinking/)
 
 - [ ] [(27 封私信 / 43 条消息) 符号 \simeq 表示什么关系？ - 知乎](https://www.zhihu.com/question/21906803)
+
+
+
+
+
+
+
+## 11/17/2019
+
+- [ ] [Sums of Continuous Random Variables](http://statweb.stanford.edu/~susan/courses/s116/node114.html)
+
+- [ ] [Mean of sum and difference of random variables (video) | Khan Academy](https://www.khanacademy.org/math/ap-statistics/random-variables-ap/combining-random-variables/v/mean-of-sum-and-difference-of-random-variables)
+
+- [ ] [7.2: Sums of Continuous Random Variables - Statistics LibreTexts](https://stats.libretexts.org/Bookshelves/Probability_Theory/Book%3A_Introductory_Probability_(Grinstead_and_Snell)/7%3A_Sums_of_Random_Variables/7.2%3A_Sums_of_Continuous_Random_Variables)
+
+- [ ] [Statistical Rethinking 2019 Lectures Beginning Anew! : statistics](https://www.reddit.com/r/statistics/comments/a2q183/statistical_rethinking_2019_lectures_beginning/)
+
+- [ ] [（分享）SCI文献一键全文免费翻译神器，《Nature》作者亲自推荐！](https://mp.weixin.qq.com/s?__biz=MzU4MzQyNzcwNQ==&mid=2247496025&idx=1&sn=efbc458c258f94ab4d69ff632d72d72d&chksm=fdab824fcadc0b59502e22d3d14fd41b5f8cbede333a5ff19503fbf053dae03e8ae4b51d7fa4&mpshare=1&scene=1&srcid=1116HQykaCeaFGMOKq4C1Ytb&sharer_sharetime=1573873631667&sharer_shareid=f775fdbdb5a5a26abf42f8f9d59db2e6&key=a083dfb7d52bc11e74dd74c8ba0be412d5093829806c4951a2082543b3b99edc65f42c7af279d3fac5166b92a3a2051f68b735420cfbdb05ce96b714b89733e265a3d8eac184bc9f1ae69041678b22b5&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=Nor%2BjvcnNYQHVegdrF%2Bur%2BNLmIKfoCddqsotoR6qa0I%3D)
+
+- [ ] [Forecasting influenza activity using self-adaptive AI model and multi-source data in Chongqing, China - EBioMedicine](https://www.ebiomedicine.com/article/S2352-3964(19)30546-8/fulltext)
+
+- [ ] [Forecasting influenza activity using self-adaptive AI model and multi-source data in Chongqing, China - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352396419305468)
+
+- [ ] [Index of /etj](https://bayes.wustl.edu/etj/)
+
+- [ ] [Computational Statistics](http://mason.gmu.edu/~jgentle/books/cmstbk.htm)
+
+- [ ] [Computational Statistics](http://mason.gmu.edu/~jgentle/books/cmstatbk.htm)
+
+- [ ] [James E. Gentle Courses](http://mason.gmu.edu/~jgentle/courses.htm)
+
+- [ ] [James Gentle](http://mason.gmu.edu/~jgentle/)
+
+- [ ] [mason.gmu.edu/~jgentle/books/hndbkcmfin.htm](http://mason.gmu.edu/~jgentle/books/hndbkcmfin.htm)
+
+- [ ] [mason.gmu.edu/~jgentle/books/hndbkcmst.htm](http://mason.gmu.edu/~jgentle/books/hndbkcmst.htm)
+
+- [ ] [Matrix Algebra](http://mason.gmu.edu/~jgentle/books/matbk.htm)
+
+- [ ] [Optimization Methods for Applications in Statistics](http://mason.gmu.edu/~jgentle/books/OptBk.htm)
+
+- [ ] [Statistical Analysis of Financial Data](http://mason.gmu.edu/~jgentle/books/StatFinBk/)
+
+- [ ] [Statistical Computing](http://mason.gmu.edu/~jgentle/books/stcompbk.htm)
+
+- [ ] [Statistical Computing and Computational Statistics](http://mason.gmu.edu/~jgentle/books/rngbk.htm)
+
+- [ ] [Statistical Computing and Computational Statistics](http://mason.gmu.edu/~jgentle/books/nlabk.htm)
+
+- [ ] [Bayesian Data Analysis in Ecology Using Linear Models with R, BUGS, and Stan | ScienceDirect](https://www.sciencedirect.com/book/9780128013700/bayesian-data-analysis-in-ecology-using-linear-models-with-r-bugs-and-stan)
+
+- [ ] [Non-monotonic network effects and market entry - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165176515004541)
+
+- [ ] [Notes on discrete compound Poisson model with applications to risk theory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0167668714001279?via%3Dihub)
+
+- [ ] [Semiparametric analysis of longitudinal zero-inflated count data - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0047259X10001600)
+
+- [ ] [Sentencing discretion and burdens of proof - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0144818816000090)
+
+- [ ] [E. T. Jaynes’ book “Probability Theory: The Logic of Science” explains the reasoning process behind…](https://medium.com/@muhia/e-t-jaynes-book-probability-theory-the-logic-of-science-explains-the-reasoning-process-behind-c8c4985ac71c)
+
+- [ ] [Modelling reassurances of clinicians with Hidden Markov models - University of St Andrews](https://risweb.st-andrews.ac.uk/portal/en/researchoutput/modelling-reassurances-of-clinicians-with-hidden-markov-models(315aa5be-dd84-41cc-ab1c-0af00ed077dd).html)
+
+- [ ] [An analysis of pilot whale vocalization activity using hidden Markov models - University of St Andrews](https://risweb.st-andrews.ac.uk/portal/en/researchoutput/an-analysis-of-pilot-whale-vocalization-activity-using-hidden-markov-models(33319143-75fc-4fb8-be55-5b2c0951aaf5).html)
+
+- [ ] [Correlation estimation using components of Japanese candlesticks - University of St Andrews](https://risweb.st-andrews.ac.uk/portal/en/researchoutput/correlation-estimation-using-components-of-japanese-candlesticks(bfeae549-0820-4c19-93d5-5157ebb1552b).html)
+
+- [ ] [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
+
+- [ ] [Get the Data - Inside Airbnb. Adding data to the debate.](http://insideairbnb.com/get-the-data.html)
+
+- [ ] [Get Started: 3 Ways to Load CSV files into Colab - Towards Data Science](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92)
+
+- [ ] [Reading CSV files in Python - Python Tutorial](https://pythonspot.com/reading-csv-files-in-python/)
+
+- [ ] [Reading and Writing CSV Files in Python – Real Python](https://realpython.com/python-csv/)
+
+- [ ] [Python | Pandas dataframe.groupby() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-groupby/)
+
+- [ ] [Python | Pandas Dataframe.describe() method - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-describe-method/)
+
+- [ ] [Summarising, Aggregating, and Grouping data in Python Pandas | Shane Lynn](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
+
+- [ ] [Niels Henrik Abel - Wikiquote](https://en.wikiquote.org/wiki/Niels_Henrik_Abel)
+
+- [ ] [ho.history overview - Do you read the masters? - MathOverflow](https://mathoverflow.net/questions/28268/do-you-read-the-masters)
+
+- [ ] [(2) Rajeev RamachandranさんはTwitterを使っています: 「@CompSciFact saw this y'day. Wanted to ask your opinion. Seemed needlessly puritanical to me. Work of Exegesis isn't all Chinese Whispers?」 / Twitter](https://twitter.com/waltzingmonkey/status/224368415844999168)
+
+- [ ] [Mathematics Tomorrow | SpringerLink](https://link.springer.com/book/10.1007/978-1-4613-8127-3)
+
+- [ ] [Python Programming Tutorials](https://pythonprogramming.net/reading-csv-files-python-3/)
+
+- [ ] [Working with MultiIndex and Pivot Tables in Pandas and Python - Parametric Thoughts](https://janakiev.com/blog/pandas-multiindex-pivot/)
+
+- [ ] [Minimally Sufficient Pandas - Dunder Data - Medium](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
+
+- [ ] [Style Pandas Dataframe Like a Master - Towards Data Science](https://towardsdatascience.com/style-pandas-dataframe-like-a-master-6b02bf6468b0)
+
+- [ ] [Master Python's pandas library with these 80+ tricks](https://www.dataschool.io/python-pandas-tips-and-tricks/)
+
+- [ ] [Python Pandas: Tricks & Features You May Not Know – Real Python](https://realpython.com/python-pandas-tricks/)
+
+- [ ] [Python | Working with Pandas and XlsxWriter | Set – 2 - GeeksforGeeks](https://www.geeksforgeeks.org/python-working-with-pandas-and-xlsxwriter-set-2/)
+
+- [ ] [Stylin’ with Pandas - Practical Business Python](https://pbpython.com/styling-pandas.html)
+
+- [ ] [Color Columns, Rows & Cells of Pandas Dataframe – Kanoki](https://kanoki.org/2019/01/02/pandas-trick-for-the-day-color-code-columns-rows-cells-of-dataframe/)
+
+- [ ] [Styling — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html)
+
+- [ ] [pandas.io.formats.style.Styler — pandas 0.25.0.dev0+752.g49f33f0d documentation](https://pandas-docs.github.io/pandas-docs-travis/reference/api/pandas.io.formats.style.Styler.html)
+
+- [ ] [pandas.DataFrame.unstack — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.unstack.html)
+
+- [ ] [(2) New Messages!](https://mode.com/)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#data-wrangling)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#data-preparation)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#dataframe-styling)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#dataframe-styling)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#data-preparation)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/)
+
+- [ ] [Reports](https://mode.com/help/articles/reports/#schema-browser)
+
+- [ ] [Reports](https://mode.com/help/articles/reports/#query-editor)
+
+- [ ] [scienceofrisk.com](http://www.scienceofrisk.com/)
+
+- [ ] [Can't control position of tables and figures in knitted pdf document - R Markdown - RStudio Community](https://community.rstudio.com/t/cant-control-position-of-tables-and-figures-in-knitted-pdf-document/37364/6)
+
+- [ ] [From Scratch: Bayesian Inference, Markov Chain Monte Carlo and Metropolis Hastings, in python](https://towardsdatascience.com/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a)
+
+- [ ] [ResearchGate](https://www.researchgate.net/publication/23690686_Moral_Hazard_in_Reinsurance_Markets)
+
+- [ ] [BBC - Will & Testament: The Theology of Sarah Palin](https://www.bbc.co.uk/blogs/ni/2008/09/the_theology_of_sarah_palin.html)
+
+- [ ] [Using R Markdown for Class Reports](https://www.stat.cmu.edu/~cshalizi/rmarkdown/)
+
+- [ ] [Acts of God and Man | Columbia University Press](http://cup.columbia.edu/book/acts-of-god-and-man/9780231153669)
+
+- [ ] [Bulmer (1967) Principles of Statistics | LingPipe Blog](https://lingpipe-blog.com/2009/05/22/bulmer-1966-principles-of-statistics/)
+
+- [ ] [Craic Propagation: Where Have All The Data Modelers Gone?](http://craicpropagation.blogspot.com/2009/02/where-have-all-data-modelers-gone.html)
+
+- [ ] [Richard Arenstorf - Wikipedia](https://en.wikipedia.org/wiki/Richard_Arenstorf)
+
+- [ ] [The Real Genius of Steve Jobs | The New Yorker](https://www.newyorker.com/magazine/2011/11/14/the-tweaker)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/The%20architects%20wanted%20the%20windows%20to%20open.%20Jobs%20said%20no.%20He%20%E2%80%9Chad%20never%20liked%20the%20idea%20of%20people%20being%20able%20to%20open%20things.%20%E2%80%98That%20would%20just%20allow%20people%20to%20screw%20things%20up.%E2%80%99%20%E2%80%9D)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/The%20same%20theme%20appears%20in%20software%20development.%20Sometimes%20you%20can%20dive%20to%20the%20bottom%20of%20an%20abstraction%20hierarchy%20and%20find%20that%20things%20are%20simpler%20there%20than%20you%20would%20have%20supposed.%20The%20intervening%20layers%20obscure%20the%20substance%20of%20the%20program%2C%20making%20its%20core%20seem%20unduly%20mysterious.%20Like%20a%20mediocre%20mind%20commenting%20on%20the%20work%20of%20a%20great%20mind%2C%20developers%20who%20build%20layers%20of%20software%20around%20core%20functionality%20intend%20to%20make%20things%20easier%20but%20may%20do%20the%20opposite.)
+
+- [ ] [Great Minds](https://greatminds.org/)
+
+- [ ] [ハーバート・ジョージ・ウェルズ - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%BA)
+
+- [ ] [一些改进模型速度/精度的工程方法](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247493230&idx=3&sn=492fbad5bc6351ecd67f34d5fc92c16e&chksm=f9a194e1ced61df7ed83f671dcab1c8834c3fdf824758bf69d730a62f55d7c511463de28ece4&mpshare=1&scene=1&srcid=&sharer_sharetime=1573960612592&sharer_shareid=42a896371dfe6ebe8cc4cd474d9b747c&key=a083dfb7d52bc11ebb3b629f85726f232790de59f53b9a6f4ce9d47a40533f09d9b9c3be68835e9e9129518b0c926fc309b83ae5bad23c960b9095f2a3ff619edd491496780baf16af47c8f14270e89f&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=fhxixm9Rjs76PyVF2CgvyaZIiDLJ9VvznP6Tg1LogDU%3D)
+
+- [ ] [Downloads](chrome://downloads/)
+
+- [ ] [Game Theoretic Probability | ILLC 2016 | Wouter M. Koolen](http://wouterkoolen.info/GTP_ILLC_2016/)
+
+- [ ] [The Game-Theoretic Probability and Finance Project](http://probabilityandfinance.com/)
+
+- [ ] [on-line prediction wiki - Game-theoretic Probability](http://onlineprediction.net/?n=Main.Game-theoreticProbability)
+
+- [ ] [GTP 2012: Fourth Workshop on Game-Theoretic Probability and Related Topics](http://kenshi.miyabe.name/gtp2012/)
+
+- [ ] [GTP 2010](http://www.clrc.rhul.ac.uk/GTP2010/)
+
+- [ ] [Dr Wouter M. Koolen | Home](http://wouterkoolen.info/)
+
+- [ ] [Game Theoretic Probability | ILLC 2016 | Wouter M. Koolen](http://wouterkoolen.info/GTP_ILLC_2016/)
+
+- [ ] [Random Walk probability game - Mathematics Stack Exchange](https://math.stackexchange.com/questions/327476/random-walk-probability-game)
+
+- [ ] [Book Review - Probability and Finance: It's Only a Game! - LessWrong 2.0](https://www.lesswrong.com/posts/CkYDKE99WZSrTttAF/book-review-probability-and-finance-it-s-only-a-game)
+
+- [ ] [Game-Theoretic Foundations for Probability and Finance | Wiley](https://www.wiley.com/en-us/Game+Theoretic+Foundations+for+Probability+and+Finance+-p-9780470903056)
+
+- [ ] [Probability, Decisions and Games: A Gentle Introduction using R | Wiley](https://www.wiley.com/en-us/Probability%2C+Decisions+and+Games%3A+A+Gentle+Introduction+using+R-p-9781119302629)
+
+- [ ] [The Book on Games of Chance: The 16th-Century Treatise on Probability | Mathematical Association of America](https://www.maa.org/press/maa-reviews/the-book-on-games-of-chance-the-16th-century-treatise-on-probability)
+
+- [ ] [Probability and Game Theory in The Hunger Games | WIRED](https://www.wired.com/2012/04/probability-and-game-theory-in-the-hunger-games/)
+
+- [ ] [Edwin Thompson Jaynes - Wikipedia](https://en.wikipedia.org/wiki/Edwin_Thompson_Jaynes)
+
+- [ ] [Probability - Wikipedia](https://en.wikipedia.org/wiki/Probability)
+
+- [ ] [The Best Game Theory Books (I’ve Read So Far) – Mind Your Decisions](https://mindyourdecisions.com/blog/2014/09/02/guide-to-game-theory-books/)
+
+- [ ] [The Mathematics of the Movie "21"](https://sites.me.ucsb.edu/~moehlis/21.html)
+
+- [ ] [Online games and resources for probability](https://www.homeschoolmath.net/online/probability.php)
+
+- [ ] [semiclassical analysis | What's new](https://terrytao.wordpress.com/tag/semiclassical-analysis/)
+
+- [ ] [Hope College | Department of Mathematics](http://www.math.hope.edu/tanis/eschermaterial.html)
+
+- [ ] [Stat Labs Home Page](https://www.stat.berkeley.edu/users/statlabs/)
+
+- [ ] [History of Statistics](https://www.york.ac.uk/depts/maths/histstat/welcome.htm)
+
+- [ ] [MathematicsHQ | Tips For Your Homework Assignments](http://mathematicshq.com/)
+
+- [ ] [Peter Doyle](https://math.dartmouth.edu/~doyle/)
+
+- [ ] [No page here | Educational Psychology | University of Minnesota](https://education.umn.edu/EdPsych/faculty/Garfield.html)
+
+- [ ] [500 Internal Privoxy Error](http://www.cs.grin.edu/~mooret/vita/Tom-Moore-vita.html)
+
+- [ ] [Bill Peterson's Home Page](http://community.middlebury.edu/~wpeterso/)
+
+- [ ] [ChanceWiki](https://www.causeweb.org/wiki/chance/index.php/Main_Page)
+
+- [ ] [The Geometer's Sketchpad](http://sketchpad.keycurriculum.com/)
+
+- [ ] [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+
+- [ ] [500 Internal Privoxy Error](http://noppa5.pc.helsinki.fi/links.html)
+
+- [ ] [WWW SAMPLER - Discussion Lists](http://it.stlawu.edu/~rlock/maa51/elists.html)
+
+- [ ] [WWW SAMPLER - Data, Data, and More Data](http://it.stlawu.edu/~rlock/maa51/data.html)
+
+- [ ] [WWW SAMPLER - Miscellaneous Links](http://it.stlawu.edu/~rlock/maa51/misc.html)
+
+- [ ] [WWW SAMPLER - On-line Course Materials](http://it.stlawu.edu/~rlock/maa51/courses.html)
+
+- [ ] [Robin Lock's Page](http://it.stlawu.edu/~rlock/)
+
+- [ ] [Gifts - CafePress](https://www.cafepress.com/+gifts)
+
+- [ ] [500 Internal Privoxy Error](http://probweb.berkeley.edu/probweb.html)
+
+- [ ] [Bob Dobrow's Home Page](https://people.carleton.edu/~rdobrow/)
+
+- [ ] [Error 404 - University of Tasmania, Australia](http://www.educ.utas.edu.au/users/watsonjm/tdg/mercindx.htm)
+
+- [ ] [abcnews.go.com](https://abcnews.go.com/Technology/)
+
+- [ ] [abcnews.go.com](https://abcnews.go.com/Technology/)
+
+- [ ] [The Learning Network - The New York Times](https://www.nytimes.com/section/learning)
+
+- [ ] [The New York Times - Breaking News, World News & Multimedia](https://www.nytimes.com/)
+
+- [ ] [Life’s a Risk!](http://webpages.ursinus.edu/lthiel/ids151fall98.htm)
+
+- [ ] [500 Internal Privoxy Error](http://vms.csd.mu.edu/~Griffinr/Comm203.html)
+
+- [ ] [SticiGui: Statistics Tools for Internet and Classroom Instruction with a Graphical User Interface](https://www.stat.berkeley.edu/users/stark/SticiGui/index.htm)
+
+- [ ] [404 Not Found](https://www.stat.berkeley.edu/~stark/addr.htm)
+
+- [ ] [Page not found - Tippie College of Business](https://www.biz.uiowa.edu/iem/)
+
+- [ ] [404 Not Found](https://www.stat.berkeley.edu/~stark/addr.htm)
+
+- [ ] [OKC Media Verification](https://www.nssl.noaa.gov/users/brooks/public_html/waf15/OKCmedia.html)
+
+- [ ] [Harold Brooks](https://www.nssl.noaa.gov/users/brooks/public_html/)
+
+- [ ] [500 Internal Privoxy Error](http://www.gen.umn.edu/research/stat_tools/)
+
+- [ ] [500 Internal Privoxy Error](http://www.gen.umn.edu/artist/)
+
+- [ ] [Susan Holmes- Stanford University](http://statweb.stanford.edu/~susan/surprise/)
+
+- [ ] [404 Not Found](http://www.ugr.es/~batanero/sergroup.htm)
+
+- [ ] [404 Not Found](http://www.math.hope.edu/~tanis/)
+
+- [ ] [Supplements for "Chance Encounters" (GENERAL)](https://www.stat.auckland.ac.nz/~wild/ChanceEnc/)
+
+- [ ] [Chance Course](http://www.dartmouth.edu/~chance/course/course.html)
+
+- [ ] [Chance Videos and Audios](http://www.dartmouth.edu/~chance/ChanceLecture/AudioVideo.html)
+
+- [ ] [J Laurie Snell](http://www.dartmouth.edu/~chance/Lauriev.html)
+
+- [ ] [Related sites](http://www.dartmouth.edu/~chance/RelatedSources/sources.html)
+
+- [ ] [Teaching Aids--Chance Teachers Guide](http://www.dartmouth.edu/~chance/teaching_aids/teaching_aids.html)
+
+- [ ] [Untitled Document](http://www.dartmouth.edu/~chance/RelatedSources/probcourse.html)
+
+- [ ] [Downloads](chrome://downloads/)
+
+- [ ] [(1) 話題を検索 / Twitter](https://twitter.com/explore)
+
+- [ ] [Sketchviz - Create and publish Graphviz graphs on the web for free](https://sketchviz.com/new)
+
+- [ ] [Home](http://technation.com/)
+
+- [ ] [Interview with Donald Knuth | Interview with Donald Knuth | InformIT](http://www.informit.com/articles/article.aspx?p=1193856)
+
+- [ ] [Classical Mythology Prof. Vandiver-Literature](https://www.thegreatcourses.com/courses/classical-mythology.html)
+
+- [ ] [关于数学学习，推荐一篇好文zz Lin Dahuas MSN space - 百度文库](https://wenku.baidu.com/view/f99aa96925c52cc58bd6bee2.html)
+
+- [ ] [China's AI Awakening - MIT Technology Review](https://events.technologyreview.com/video/watch/dahua-lin-china-ai-awakening/)
+
+- [ ] [笑对人生，傲立寰宇 | Just another WordPress.com site](https://dahuasky.wordpress.com/page/1/)
+
+- [ ] [ResearchGate](https://www.researchgate.net/profile/Ching_Yun_Ko)
+
+- [ ] [漫话距离(By Dahua Lin@MIT) - 程序园](http://www.voidcn.com/article/p-nkhgxcwr-ou.html)
+
+- [ ] [500 Internal Privoxy Error](http://www.voidcn.com/article/p-nkhgxcwr-ou.html)
+
+- [ ] [500 Internal Privoxy Error](http://www.voidcn.com/article/p-tvdybphg-ou.html)
+
+- [ ] [[Dahua Lin] 对Research的新思考 - 程序园](http://www.voidcn.com/article/p-gmwsulzn-oy.html)
+
+- [ ] [[Dahua Lin] Book List Updated - 程序园](http://www.voidcn.com/article/p-mldfnfke-oy.html)
+
+- [ ] [[Dahua Lin] Book List Updated - 程序园](http://www.voidcn.com/article/p-mldfnfke-oy.html)
+
+- [ ] [[Dahua Lin] Research and Application - 程序园](http://www.voidcn.com/article/p-mltndyfz-oy.html)
+
+- [ ] [[Dahua Lin] Computer Vision的尴尬 - 程序园](http://www.voidcn.com/article/p-evefhwrh-oy.html)
+
+- [ ] [回到写paper的日子 | 笑对人生，傲立寰宇](https://dahuasky.wordpress.com/2008/11/21/%E5%9B%9E%E5%88%B0%E5%86%99paper%E7%9A%84%E6%97%A5%E5%AD%90/)
+
+- [ ] [[Dahua Lin] 对Research的新思考 - 程序园](http://www.voidcn.com/article/p-gmwsulzn-oy.html)
+
+- [ ] [[Dahua Lin] 对数学的新思考 - 程序园](http://www.voidcn.com/article/p-egpveqdb-oy.html)
+
+- [ ] [[Dahua Lin] 和导师的interaction - 程序园](http://www.voidcn.com/article/p-pdnoqfoc-oy.html)
+
+- [ ] [Assignments | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/)
+
+- [ ] [Download Course Materials | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/download-course-materials/)
+
+- [ ] [Exams | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/exams/)
+
+- [ ] [Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
+
+- [ ] [Unit 1: Proofs | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/)
+
+- [ ] [Video Lectures | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+
+- [ ] [Machine Learning: Texts and References](http://web.cs.iastate.edu/~cs573x/texts.html)
+
+- [ ] [Index of /~jordan/prelims](https://people.eecs.berkeley.edu/~jordan/prelims/)
+
+- [ ] [Index of /~aarti/Class](http://www.cs.cmu.edu/~aarti/Class/)
+
+- [ ] [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/)
+
+- [ ] [Uncertainty in Deep Learning (PhD Thesis) | Yarin Gal - Blog | Cambridge Machine Learning Group](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
+
+- [ ] [DaHuaLin总是站在高处：概率模型与计算机视觉 - 计算机视觉、机器学习朝拜者 - CSDN博客](https://blog.csdn.net/marvin521/article/details/8921321)
+
+- [ ] [DaHuaLin总是站在高处：概率模型与计算机视觉 - 计算机视觉、机器学习朝拜者 - CSDN博客](https://blog.csdn.net/marvin521/article/details/8921321)
+
+- [ ] [DaHuaLin总是站在高处：概率模型与计算机视觉 - 计算机视觉、机器学习朝拜者 - CSDN博客](https://blog.csdn.net/marvin521/article/details/8921321)
+
+- [ ] [blog.csdn.net](https://blog.csdn.net/nulidezhu/article/details/39029167)
+
+- [ ] [blog.csdn.net](https://blog.csdn.net/yuanmengxinglong/article/details/88066317)
+
+- [ ] [blog.csdn.net](https://blog.csdn.net/slx965/article/details/17074829)
+
+- [ ] [Internet Archive Search: http://www.ai.mit.edu/courses/6.867-f02/Book](https://archive.org/search.php?query=http%3A%2F%2Fwww.ai.mit.edu%2Fcourses%2F6.867-f02%2FBook)
+
+- [ ] [Index of /courses/6.867](http://www.ai.mit.edu/courses/6.867/)
+
+- [ ] [An Introduction to Probabilistic Graphical Models (2003) [pdf] | Hacker News](https://news.ycombinator.com/item?id=13982860)
+
+- [ ] [Bayesian Deep Learning](https://twiecki.io/blog/2016/06/01/bayesian-deep-learning/)
+
+- [ ] [Bayesian Deep Learning Part II: Bridging PyMC3 and Lasagne to build a Hierarchical Neural Network](https://twiecki.io/blog/2016/07/05/bayesian-deep-learning/)
+
+- [ ] [Random-Walk Bayesian Deep Networks: Dealing with Non-Stationary Data](https://twiecki.io/blog/2017/03/14/random-walk-deep-net/)
+
+- [ ] [(51) Where can I get the book written by M. I. Jordan: Introduction to Graphical Models, and An Introduction to Probabilistic Graphical Models? - Quora](https://www.quora.com/Where-can-I-get-the-book-written-by-M-I-Jordan-Introduction-to-Graphical-Models-and-An-Introduction-to-Probabilistic-Graphical-Models)
+
+- [ ] [mcmc - Metropolis Hastings - Acceptance ratio, proposal and lkelihood - Cross Validated](https://stats.stackexchange.com/questions/378060/metropolis-hastings-acceptance-ratio-proposal-and-lkelihood)
+
+- [ ] [pdf - Why is the sum of two random variables a convolution? - Cross Validated](https://stats.stackexchange.com/questions/331973/why-is-the-sum-of-two-random-variables-a-convolution)
+
+- [ ] [A Course of Modern Analysis: E. T. Whittaker, G. N. Watson: 9781603861212: Amazon.com: Books](https://www.amazon.com/gp/product/1603861211?ie=UTF8&tag=theende-20&linkCode=xm2&camp=1789&creativeASIN=1603861211)
+
+- [ ] [A panorama of pure mathematics, as seen by N. Bourbaki, Volume 97 (Pure and Applied Mathematics): Author Unknown: 9780122155604: Amazon.com: Books](https://www.amazon.com/panorama-mathematics-Bourbaki-Applied-Mathematics/dp/0122155602/ref=as_li_ss_tl?ie=UTF8&qid=1489032621&sr=8-1&keywords=panorama+of+pure+mathematics&linkCode=sl1&tag=theende-20&linkId=262ad8fa15e8adefc4e793ef11f821c5)
+
+- [ ] [Amazon.com: An Introduction to Probability Theory and Its Applications, Vol. 1, 3rd Edition (8581000031741): William Feller: Books](https://www.amazon.com/gp/product/0471257087?ie=UTF8&tag=theende-20&linkCode=xm2&camp=1789&creativeASIN=0471257087)
+
+- [ ] [Amazon.com: ARTIFICIAL INTELLIGENCE: The Fundamentals of Artificial Intelligence and Machine Learning eBook: Tim D. Washington: Kindle Store](https://www.amazon.com/ARTIFICIAL-INTELLIGENCE-Fundamentals-Artificial-Intelligence-ebook/dp/B07P5TGY3H)
+
+- [ ] [Amazon.com: Metamorphoses (Penguin Classics) (9780140447897): Ovid, David Raeburn, Denis Feeney: Books](https://www.amazon.com/gp/product/014044789X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=theende-20&linkId=2369a0053a32c7038a7d1fb74fdc57f9&language=en_US)
+
+- [ ] [Amazon.com: Probability, Decisions and Games: A Gentle Introduction using R (9781119302605): Abel Rodríguez, Bruno Mendes: Books](https://www.amazon.com/Probability-Decisions-Games-Gentle-Introduction/dp/1119302609)
+
+- [ ] [Coders at Work: Reflections on the Craft of Programming: Peter Seibel: 9781430219484: Amazon.com: Books](https://www.amazon.com/gp/product/1430219483/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=theende-20&linkId=20537c39b19480d0de9d88d78c72c370&language=en_US)
+
+- [ ] [Conceptual Mathematics: A First Introduction to Categories: F. William Lawvere: 9780521719162: Amazon.com: Books](https://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/ref=pd_sbs_14_1/143-1633704-9732608?_encoding=UTF8&pd_rd_i=052171916X&pd_rd_r=5f1126aa-83c3-4c6d-936a-ed7bf7947bb6&pd_rd_w=4Ovee&pd_rd_wg=C3jcy&pf_rd_p=52b7592c-2dc9-4ac6-84d4-4bda6360045e&pf_rd_r=T62945SRG2MB10QRVQC1&psc=1&refRID=T62945SRG2MB10QRVQC1)
+
+- [ ] [God in the Dock: Essays on Theology and Ethics: C. S. Lewis: 9780802808684: Amazon.com: Books](https://www.amazon.com/gp/product/0802808689/ref=as_li_ss_tl?ie=UTF8&tag=theende-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0802808689)
+
+- [ ] [Inequalities (Cambridge Mathematical Library): G. Hardy: 9780521358804: Amazon.com: Books](https://www.amazon.com/gp/product/0521358809?ie=UTF8&tag=theende-20&linkCode=xm2&camp=1789&creativeASIN=0521358809)
+
+- [ ] [Probability Theory: A Concise Course: Y. A. Rozanov: 0800759635443: Books - Amazon.ca](https://www.amazon.ca/Probability-Theory-Concise-Y-Rozanov/dp/0486635449/ref=pd_sbs_14_img_0/131-7658109-4144451?_encoding=UTF8&pd_rd_i=0486635449&pd_rd_r=7825cb64-c4a3-4fd7-bb1c-3b05d15b6921&pd_rd_w=7q4La&pd_rd_wg=3IU79&pf_rd_p=9926bb69-42b9-46e4-b788-f665992e326d&pf_rd_r=H4HNMP6YVT0GR7CQW1A9&psc=1&refRID=H4HNMP6YVT0GR7CQW1A9)
+
+- [ ] [Probability Theory: The Logic of Science: E. T. Jaynes, G. Larry Bretthorst: 9780521592710: Statistics: Amazon Canada](https://www.amazon.ca/Probability-Theory-Science-T-Jaynes/dp/0521592712)
+
+- [ ] [Steve Jobs: Walter Isaacson: 9781451648539: Amazon.com: Books](https://www.amazon.com/gp/product/1451648537/ref=as_li_ss_tl?ie=UTF8&tag=theende-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=1451648537)
+
+- [ ] [Symmetry and the Monster: The Story of One of the Greatest Quests of Mathematics: Mark Ronan: 9780192807236: Amazon.com: Books](https://www.amazon.com/gp/product/0192807234/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=theende-20&linkId=e14cd80a351d6b6f17bdab11e7f6898e&language=en_US)
+
+- [ ] [Theoretical Concepts in Physics, Second Edition: An Alternative View of Theoretical Reasoning in Physics: Malcolm Longair: 9780521528788: Amazon.com: Books](https://www.amazon.com/Theoretical-Concepts-Physics-Second-Alternative/dp/052152878X/ref=pd_sbs_14_3/143-1633704-9732608?_encoding=UTF8&pd_rd_i=052152878X&pd_rd_r=5f1126aa-83c3-4c6d-936a-ed7bf7947bb6&pd_rd_w=4Ovee&pd_rd_wg=C3jcy&pf_rd_p=52b7592c-2dc9-4ac6-84d4-4bda6360045e&pf_rd_r=T62945SRG2MB10QRVQC1&psc=1&refRID=T62945SRG2MB10QRVQC1)
+
+- [ ] [Trade-Off: Why Some Things Catch On, and Others Don't, Kevin Maney, Jim Collins, eBook - Amazon.com](https://www.amazon.com/Trade-Off-Some-Things-Catch-Others-ebook/dp/B002NXOR6K/ref=as_li_ss_il?s=books&ie=UTF8&qid=1530412483&sr=1-1&keywords=trade+off&linkCode=li3&tag=theende-20&linkId=2c2a14645cd228ba54a0744ffbc186ae)
+
+- [ ] [Trade-Off: Why Some Things Catch On, and Others Don't: Kevin Maney, Jim Collins: 9780385525947: Amazon.com: Books](https://www.amazon.com/gp/product/038552594X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=theende-20&linkId=6df8d779f0f61227e887c2020433afa1&language=en_US)
+
+- [ ] [What Is The Best Book On Artificial Intelligence (AI)?](https://www.forbes.com/sites/bernardmarr/2019/03/04/what-is-the-best-book-on-artificial-intelligence-ai/#342d3a0d1674)
+
+- [ ] [Top 10 Books on Artificial Intelligence for Beginners - Great Learning](https://www.greatlearning.in/blog/top-10-books-on-artificial-intelligence-for-beginners/)
+
+
+## 11/17/2019
+
+- [ ] [Vovk, Gammerman and Shafer "Algorithmic learning in a random world"](http://www.alrw.net/)
+
+- [ ] [500 Internal Privoxy Error](http://www.conformalpredictionbook.com/)
+
+- [ ] [Vovk, Gammerman and Shafer "Algorithmic learning in a random world"](http://www.alrw.net/)
+
+- [ ] [Relational Measures and Integration | SpringerLink](https://link.springer.com/chapter/10.1007%2F11828563_23)
+
+- [ ] [ResearchGate](https://www.researchgate.net/profile/Florentin_Smarandache/publication/273062785_Advances_and_Applications_of_DSmT_for_Information_Fusion_Collected_Works_Volume_4/links/54f9b7940cf29a9fbd7c508f.pdf#page=196)
+
+- [ ] [The Game-Theoretic Probability and Finance Project](http://www.probabilityandfinance.com/)
