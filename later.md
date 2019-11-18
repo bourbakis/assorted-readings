@@ -2749,3 +2749,16 @@ https://www.zhihu.com/question/341466774
 - [ ] [ResearchGate](https://www.researchgate.net/profile/Florentin_Smarandache/publication/273062785_Advances_and_Applications_of_DSmT_for_Information_Fusion_Collected_Works_Volume_4/links/54f9b7940cf29a9fbd7c508f.pdf#page=196)
 
 - [ ] [The Game-Theoretic Probability and Finance Project](http://www.probabilityandfinance.com/)
+
+
+## 11/19/2019
+
+- [ ] [Formes modulaires](http://www.les-mathematiques.net/phorum/read.php?11,869969,870308)
+
+- [ ] [livres d'arithmétique](http://www.les-mathematiques.net/phorum/read.php?11,753643,753722)
+
+- [ ] [Maple et Jean-Pierre Serre](http://www.les-mathematiques.net/phorum/read.php?11,299550,299626)
+
+- [ ] [Problème cours arithmétique J.P. Serre](http://www.les-mathematiques.net/phorum/read.php?5,516982,516982)
+
+- [ ] [Réédition livre d'arithmétique/Théorie des nombres](http://www.les-mathematiques.net/phorum/read.php?11,423815,425070)
