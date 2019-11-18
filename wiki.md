@@ -202,3 +202,45 @@ https://en.wikipedia.org/wiki/Category:Theorems_in_Fourier_analysis
 - [ ] [Vladimir Vapnik - Wikipedia](https://en.wikipedia.org/wiki/Vladimir_Vapnik)
 
 
+
+
+
+
+
+## 11/19/2019
+
+- [ ] [Bayesian network - Wikipedia](https://en.wikipedia.org/wiki/Bayesian_network)
+
+- [ ] [Centro de Investigación en Matemáticas - Wikipedia](https://en.wikipedia.org/wiki/Centro_de_Investigaci%C3%B3n_en_Matem%C3%A1ticas)
+
+- [ ] [Dempster–Shafer theory - Wikipedia](https://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer_theory)
+
+- [ ] [Dempster–Shafer theory - Wikipedia](https://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer_theory)
+
+- [ ] [Doxastic logic - Wikipedia](https://en.wikipedia.org/wiki/Doxastic_logic)
+
+- [ ] [File:SimpleBayesNetNodes.svg - Wikipedia](https://en.wikipedia.org/wiki/File:SimpleBayesNetNodes.svg)
+
+- [ ] [G. L. S. Shackle - Wikipedia](https://en.wikipedia.org/wiki/G._L._S._Shackle)
+
+- [ ] [Imprecise probability - Wikipedia](https://en.wikipedia.org/wiki/Imprecise_probability)
+
+- [ ] [Info-gap decision theory - Wikipedia](https://en.wikipedia.org/wiki/Info-gap_decision_theory)
+
+- [ ] [Linear belief function - Wikipedia](https://en.wikipedia.org/wiki/Linear_belief_function)
+
+- [ ] [Normal distribution - Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
+
+- [ ] [Possibility theory - Wikipedia](https://en.wikipedia.org/wiki/Possibility_theory)
+
+- [ ] [Probabilistic logic - Wikipedia](https://en.wikipedia.org/wiki/Probabilistic_logic)
+
+- [ ] [Subjective logic - Wikipedia](https://en.wikipedia.org/wiki/Subjective_logic)
+
+- [ ] [Subjective logic - Wikipedia](https://en.wikipedia.org/wiki/Subjective_logic)
+
+- [ ] [Transferable belief model - Wikipedia](https://en.wikipedia.org/wiki/Transferable_belief_model)
+
+- [ ] [Upper and lower probabilities - Wikipedia](https://en.wikipedia.org/wiki/Upper_and_lower_probabilities)
+
+- [ ] [New Tab](chrome://newtab/)
