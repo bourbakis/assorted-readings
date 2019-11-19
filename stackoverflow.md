@@ -681,3 +681,176 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [regex - The groups() method in regular expressions in Python - Stack Overflow](https://stackoverflow.com/questions/20202365/the-groups-method-in-regular-expressions-in-python)
 
 - [ ] [Using Pandas DataFrame style to color a column (Python 3) - Stack Overflow](https://stackoverflow.com/questions/42239657/using-pandas-dataframe-style-to-color-a-column-python-3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/20/2019
+
+- [ ] [bayesian - Generating samples from Gibbs sampling - Cross Validated](https://stats.stackexchange.com/questions/45946/generating-samples-from-gibbs-sampling)
+
+- [ ] [Calculating AIC “by hand” in R - Cross Validated](https://stats.stackexchange.com/questions/87345/calculating-aic-by-hand-in-r)
+
+- [ ] [generalized linear model - Adding a square root link function to an overdispersed negative binomial GLM - Cross Validated](https://stats.stackexchange.com/questions/140104/adding-a-square-root-link-function-to-an-overdispersed-negative-binomial-glm)
+
+- [ ] [generalized linear model - Can Weights and Offset lead to similar results in poisson regression? - Cross Validated](https://stats.stackexchange.com/questions/297859/can-weights-and-offset-lead-to-similar-results-in-poisson-regression/299538#299538)
+
+- [ ] [generalized linear model - Can Weights and Offset lead to similar results in poisson regression? - Cross Validated](https://stats.stackexchange.com/questions/297859/can-weights-and-offset-lead-to-similar-results-in-poisson-regression)
+
+- [ ] [Goodness of fit and which model to choose linear regression or Poisson - Cross Validated](https://stats.stackexchange.com/questions/142338/goodness-of-fit-and-which-model-to-choose-linear-regression-or-poisson)
+
+- [ ] [Highest Voted 'bayesian' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/bayesian?tab=Votes)
+
+- [ ] [Highest Voted 'gibbs' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/gibbs?tab=Votes)
+
+- [ ] [How to compare models on the basis of AIC? - Cross Validated](https://stats.stackexchange.com/questions/232465/how-to-compare-models-on-the-basis-of-aic)
+
+- [ ] [How to use Pearson correlation correctly with time series - Cross Validated](https://stats.stackexchange.com/questions/133155/how-to-use-pearson-correlation-correctly-with-time-series/133171#133171)
+
+- [ ] [Is AIC a measure of goodness of fit? - Cross Validated](https://stats.stackexchange.com/questions/271244/is-aic-a-measure-of-goodness-of-fit)
+
+- [ ] [Linear regresson lm or stepwise regression here using R? - Cross Validated](https://stats.stackexchange.com/questions/120549/linear-regresson-lm-or-stepwise-regression-here-using-r)
+
+- [ ] [logistic - GVIF output in R - Cross Validated](https://stats.stackexchange.com/questions/394360/gvif-output-in-r)
+
+- [ ] [modeling - Can someone explain Gibbs sampling in very simple words? - Cross Validated](https://stats.stackexchange.com/questions/10213/can-someone-explain-gibbs-sampling-in-very-simple-words)
+
+- [ ] [multicollinearity - How do I know what my VIF limits should be for collinearity should be when doing binary logistic regression? - Cross Validated](https://stats.stackexchange.com/questions/342161/how-do-i-know-what-my-vif-limits-should-be-for-collinearity-should-be-when-doing)
+
+- [ ] [multicollinearity - How to interpret R VIF function in CAR package? - Cross Validated](https://stats.stackexchange.com/questions/139213/how-to-interpret-r-vif-function-in-car-package)
+
+- [ ] [Negative values for AIC in General Mixed Model - Cross Validated](https://stats.stackexchange.com/questions/84076/negative-values-for-aic-in-general-mixed-model)
+
+- [ ] [Newest 'conditional-probability' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/conditional-probability)
+
+- [ ] [Newest 'modeling' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/modeling)
+
+- [ ] [Newest 'sampling' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/sampling)
+
+- [ ] [Newest 'simulation' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/simulation)
+
+- [ ] [poisson distribution - Model approach for count data with a large range of y values - Cross Validated](https://stats.stackexchange.com/questions/167190/model-approach-for-count-data-with-a-large-range-of-y-values)
+
+- [ ] [r - AIC guidelines in model selection - Cross Validated](https://stats.stackexchange.com/questions/81427/aic-guidelines-in-model-selection)
+
+- [ ] [r - Difference between logit and probit models - Cross Validated](https://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models/30909#30909)
+
+- [ ] [r - Difference between logit and probit models - Cross Validated](https://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models/30909#30909)
+
+- [ ] [r - Difference between logit and probit models - Cross Validated](https://stats.stackexchange.com/questions/20523/difference-between-logit-and-probit-models#comment37049_20529)
+
+- [ ] [r - Forward-backward model selection: What is the starting model? - Cross Validated](https://stats.stackexchange.com/questions/277132/forward-backward-model-selection-what-is-the-starting-model)
+
+- [ ] [r - Help interpreting count data GLMM using lme4 glmer and glmer.nb - Negative binomial versus Poisson - Cross Validated](https://stats.stackexchange.com/questions/311556/help-interpreting-count-data-glmm-using-lme4-glmer-and-glmer-nb-negative-binom)
+
+- [ ] [r - Is high AIC a bad feature of the model? - Cross Validated](https://stats.stackexchange.com/questions/129604/is-high-aic-a-bad-feature-of-the-model)
+
+- [ ] [r - Should I use an offset for my Poisson GLM? - Cross Validated](https://stats.stackexchange.com/questions/232666/should-i-use-an-offset-for-my-poisson-glm)
+
+- [ ] [r - What's a power link used for in generalized linear models (GLMs)? - Cross Validated](https://stats.stackexchange.com/questions/313793/whats-a-power-link-used-for-in-generalized-linear-models-glms)
+
+- [ ] [r - Which variance inflation factor should I be using: $\text{GVIF}$ or $\text{GVIF}^{1/(2\cdot\text{df})}$? - Cross Validated](https://stats.stackexchange.com/questions/70679/which-variance-inflation-factor-should-i-be-using-textgvif-or-textgvif)
+
+- [ ] [r - Which variance inflation factor should I be using: $\text{GVIF}$ or $\text{GVIF}^{1/(2\cdot\text{df})}$? - Cross Validated](https://stats.stackexchange.com/questions/70679/which-variance-inflation-factor-should-i-be-using-textgvif-or-textgvif/96584)
+
+- [ ] [references - Algorithms for automatic model selection - Cross Validated](https://stats.stackexchange.com/questions/20836/algorithms-for-automatic-model-selection)
+
+- [ ] [references - Algorithms for automatic model selection - Cross Validated](https://stats.stackexchange.com/questions/20836/algorithms-for-automatic-model-selection)
+
+- [ ] [regression - Default stepAIC in R - Cross Validated](https://stats.stackexchange.com/questions/347652/default-stepaic-in-r)
+
+- [ ] [regression - Default stepAIC in R - Cross Validated](https://stats.stackexchange.com/questions/347652/default-stepaic-in-r)
+
+- [ ] [regression - How to diagnose multicollinearity using the output of vif function in R? - Cross Validated](https://stats.stackexchange.com/questions/40603/how-to-diagnose-multicollinearity-using-the-output-of-vif-function-in-r)
+
+- [ ] [regression - Interpretation of AIC value - Cross Validated](https://stats.stackexchange.com/questions/187373/interpretation-of-aic-value)
+
+- [ ] [self study - Implementing Gibbs sampler in R from posterior distribution - Cross Validated](https://stats.stackexchange.com/questions/143468/implementing-gibbs-sampler-in-r-from-posterior-distribution)
+
+- [ ] [simulation - Explanation regarding Gibbs Sampling - Cross Validated](https://stats.stackexchange.com/questions/325696/explanation-regarding-gibbs-sampling)
+
+- [ ] [simulation - Explanation regarding Gibbs Sampling - Cross Validated](https://stats.stackexchange.com/questions/325696/explanation-regarding-gibbs-sampling)
+
+- [ ] [Stepwise regression in R - How does it work? - Cross Validated](https://stats.stackexchange.com/questions/214682/stepwise-regression-in-r-how-does-it-work)
+
+- [ ] [Stepwise regression in R with both direction - Cross Validated](https://stats.stackexchange.com/questions/97250/stepwise-regression-in-r-with-both-direction)
+
+- [ ] [Using offset in binomial model to account for increased numbers of patients - Cross Validated](https://stats.stackexchange.com/questions/25415/using-offset-in-binomial-model-to-account-for-increased-numbers-of-patients)
+
+
+
+
+
+
+
+
+
+## 11/20/2019
+
+- [ ] [backward elimination in R - Stack Overflow](https://stackoverflow.com/questions/11767602/backward-elimination-in-r)
+
+- [ ] [r - Choose model by BIC in a stepwise algorithm after choosing model from glmnet - Stack Overflow](https://stackoverflow.com/questions/33310535/choose-model-by-bic-in-a-stepwise-algorithm-after-choosing-model-from-glmnet)
+
+- [ ] [r - Choose model by BIC in a stepwise algorithm after choosing model from glmnet - Stack Overflow](https://stackoverflow.com/questions/33310535/choose-model-by-bic-in-a-stepwise-algorithm-after-choosing-model-from-glmnet)
+
+- [ ] [r - Forward procedure with BIC - Stack Overflow](https://stackoverflow.com/questions/20163545/forward-procedure-with-bic)
+
+- [ ] [r - Forward procedure with BIC - Stack Overflow](https://stackoverflow.com/questions/20163545/forward-procedure-with-bic)
+
+- [ ] [r - forward stepwise regression - Stack Overflow](https://stackoverflow.com/questions/22913774/forward-stepwise-regression)
+
+- [ ] [r - How to extract aic from glm? - Stack Overflow](https://stackoverflow.com/questions/41200881/how-to-extract-aic-from-glm)
+
+- [ ] [r - How to show code but hide output in RMarkdown? - Stack Overflow](https://stackoverflow.com/questions/47710427/how-to-show-code-but-hide-output-in-rmarkdown?rq=1)
+
+- [ ] [r - Need Vif value and not gvif - Stack Overflow](https://stackoverflow.com/questions/50083668/need-vif-value-and-not-gvif)
+
+- [ ] [r - Running a stepwise linear model with BIC criterion - Stack Overflow](https://stackoverflow.com/questions/19400494/running-a-stepwise-linear-model-with-bic-criterion)
+
+- [ ] [r - Stepwise regression using p-values to drop variables with nonsignificant p-values - Stack Overflow](https://stackoverflow.com/questions/3701170/stepwise-regression-using-p-values-to-drop-variables-with-nonsignificant-p-value)
+
+- [ ] [r - Testing for multicollinearity when there are factors - Stack Overflow](https://stackoverflow.com/questions/6162662/testing-for-multicollinearity-when-there-are-factors)
+
+- [ ] [regression - How to extract the correct model using step() in R for BIC criteria? - Stack Overflow](https://stackoverflow.com/questions/49366319/how-to-extract-the-correct-model-using-step-in-r-for-bic-criteria)
+
+- [ ] [regression - How to extract the correct model using step() in R for BIC criteria? - Stack Overflow](https://stackoverflow.com/questions/49366319/how-to-extract-the-correct-model-using-step-in-r-for-bic-criteria)
+
+- [ ] [Stepwise regression in R with model constraints - Stack Overflow](https://stackoverflow.com/questions/56006925/stepwise-regression-in-r-with-model-constraints)
+
+- [ ] [stepwise regression using caret in R - Stack Overflow](https://stackoverflow.com/questions/47855807/stepwise-regression-using-caret-in-r)
+
+- [ ] [Suppress one command's output in R - Stack Overflow](https://stackoverflow.com/questions/2723034/suppress-one-commands-output-in-r)
+
+
+
+
+
+
+
+
+## 11/20/2019
+
+- [ ] [r - ANOVA to compare models - Cross Validated](https://stats.stackexchange.com/questions/274151/anova-to-compare-models)
+
+- [ ] [r - How to interpret anova output for mixed model likelihood ratio test - Cross Validated](https://stats.stackexchange.com/questions/261875/how-to-interpret-anova-output-for-mixed-model-likelihood-ratio-test)
+
+- [ ] [r - How to interpret ANOVA output when comparing two nested mixed-effect models? - Cross Validated](https://stats.stackexchange.com/questions/121661/how-to-interpret-anova-output-when-comparing-two-nested-mixed-effect-models)
+
+- [ ] [r - How to interpret F- and p-value in ANOVA? - Cross Validated](https://stats.stackexchange.com/questions/12398/how-to-interpret-f-and-p-value-in-anova)
+
+- [ ] [r - Reporting from a likelihood ratio test - Cross Validated](https://stats.stackexchange.com/questions/86495/reporting-from-a-likelihood-ratio-test)
+
+- [ ] [R - Why does lrtest() not match anova(test="LRT") - Cross Validated](https://stats.stackexchange.com/questions/155474/r-why-does-lrtest-not-match-anovatest-lrt)

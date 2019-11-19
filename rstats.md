@@ -453,3 +453,15 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwjZ0Z
 - [ ] [Non-Concave Penalized Likelihood with NP-Dimensionality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266747/)
 
 - [ ] [Regularization Paths for Generalized Linear Models via Coordinate Descent. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/20808728/)
+
+
+
+## 11/20/2019
+
+- [ ] [Bayesian Simple Linear Regression with Gibbs Sampling in R | R-bloggers](https://www.r-bloggers.com/bayesian-simple-linear-regression-with-gibbs-sampling-in-r/)
+
+- [ ] [How do I interpret the AIC | R-bloggers](https://www.r-bloggers.com/how-do-i-interpret-the-aic/)
+
+- [ ] [Subtitles and captions with ggplot2 v.2.2.0 | R-bloggers](https://www.r-bloggers.com/subtitles-and-captions-with-ggplot2-v-2-2-0/)
+
+- [ ] [Variable selection using Gibbs sampling | R-bloggers](https://www.r-bloggers.com/variable-selection-using-gibbs-sampling/)

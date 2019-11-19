@@ -2927,3 +2927,50 @@ https://www.zhihu.com/question/341466774
 - [ ] [A Method for Efficiently Sampling From Distributions With Correlated Dimensions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4140408/)
 
 - [ ] [Language Accessory Pack for Office - Office Support](https://support.office.com/en-us/article/language-accessory-pack-for-office-82ee1236-0f9a-45ee-9c72-05b026ee809f?ui=en-US&rs=en-US&ad=US)
+
+
+
+
+
+
+
+
+## 11/20/2019
+
+- [ ] [Explainer: What is post-quantum cryptography? - MIT Technology Review](https://www.technologyreview.com/s/613946/explainer-what-is-post-quantum-cryptography/?utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement&utm_source=Twitter#Echobox=1574091391)
+
+- [ ] [Interpreting Generalized Linear Models](https://www.datascienceblog.net/post/machine-learning/interpreting_generalized_linear_models/)
+
+- [ ] [GR's Website](https://data.princeton.edu/R/GLMs)
+
+- [ ] [Deviance goodness of fit test for Poisson regression – The Stats Geek](https://thestatsgeek.com/2014/04/26/deviance-goodness-of-fit-test-for-poisson-regression/)
+
+- [ ] [Lesson 7: GLM and Poisson Regression](https://personal.psu.edu/abs12/stat504/online/07_poisson/07_poisson_print.htm)
+
+- [ ] [Generalized linear model - Wikipedia](https://en.m.wikipedia.org/wiki/Generalized_linear_model)
+
+- [ ] [GR's Website](https://data.princeton.edu/wws509/notes/a2s1)
+
+- [ ] [Bayesian version of Does model averaging make sense?](https://avehtari.github.io/modelselection/collinear.html)
+
+- [ ] [Enough Is Enough! Handling Multicollinearity in Regression Analysis](https://blog.minitab.com/blog/understanding-statistics/handling-multicollinearity-in-regression-analysis)
+
+- [ ] [Multicollinearity in Regression](https://stattrek.com/multiple-regression/multicollinearity.aspx)
+
+- [ ] [Strategies for addressing collinearity in multivariate linguistic data - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0095447017302292)
+
+- [ ] [FAQ/Collinearity - CBU statistics Wiki](http://imaging.mrc-cbu.cam.ac.uk/statswiki/FAQ/Collinearity)
+
+- [ ] [stepVIF function | R Documentation](https://www.rdocumentation.org/packages/pedometrics/versions/0.6-6/topics/stepVIF)
+
+- [ ] [R: Variance Inflation Factors](http://math.furman.edu/~dcs/courses/math47/R/library/car/html/vif.html)
+
+- [ ] [FAQ/Collinearity - CBU statistics Wiki](http://imaging.mrc-cbu.cam.ac.uk/statswiki/FAQ/Collinearity)
+
+- [ ] [What are Variance Inflation Factors (VIFs)? | Displayr.com](https://www.displayr.com/variance-inflation-factors-vifs/?utm_referrer=https%3A%2F%2Fwww.google.com%2F)
+
+- [ ] [Generalized Collinearity Diagnostics: Journal of the American Statistical Association: Vol 87, No 417](https://www.tandfonline.com/doi/pdf/10.1080/01621459.1992.10475190?needAccess=true)
+
+- [ ] [The Application of Statistical Analysis in the Biomedical Sciences | Drug Information: A Guide for Pharmacists, 5e | AccessPharmacy | McGraw-Hill Medical](https://accesspharmacy.mhmedical.com/content.aspx?bookid=981&sectionid=54480671)
+
+- [ ] [Facts and fallacies of the AIC | Rob J Hyndman](https://robjhyndman.com/hyndsight/aic/)

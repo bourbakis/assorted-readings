@@ -3915,3 +3915,232 @@ https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
 - [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRsBj7PODkezlPkP_XrfnuF5po2dQ%3A1574035522693&lei=QuDRXfvqKYzdmAW7yauwCQ&q=percentiles%20pandas&ved=2ahUKEwiK5bHCu_LlAhW6xosBHVX7AFMQsKwBKAR6BAgBEAU)
 
 - [ ] [古川伊织 - Google Search](https://www.google.com/search?q=%E5%8F%A4%E5%B7%9D%E4%BC%8A%E7%BB%87&oq=%E5%8F%A4%E5%B7%9D%E4%BC%8A%E7%BB%87&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/20/2019
+
+- [ ] [《STATISTICS FOR BUSINESS AND ECONOMICS》12e David R. Anderson etc - Google Search](https://www.google.com/search?q=%E3%80%8ASTATISTICS+FOR+BUSINESS+AND+ECONOMICS%E3%80%8B12e+David+R.+Anderson+etc&oq=%E3%80%8ASTATISTICS+FOR+BUSINESS+AND+ECONOMICS%E3%80%8B12e+David+R.+Anderson+etc&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [@yasoob Intermediate Python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSWGNvPF8_AQ-lVg0DzYeevz7pzNA%3A1574158789125&ei=xcHTXeuWB7TDmAWZrJOoAw&q=%40yasoob+Intermediate+Python&oq=%40yasoob+Intermediate+Python&gs_l=psy-ab.3..35i39j0i8i30.4353899.4358001..4358227...0.2..0.157.594.1j4......0....1..gws-wiz.......0i71j0i22i30j0i8i7i30.-4TMRaxomlY&ved=0ahUKEwirjci7hvblAhW0IaYKHRnWBDUQ4dUDCAs&uact=5)
+
+- [ ] [aic example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQN47sdChIQkOIWMVHksKmYRRSRkA:1574180167248&q=aic+example&sa=X&ved=2ahUKEwiUormN1vblAhUHE6YKHbb-DDcQ1QIoAnoECGYQAw)
+
+- [ ] [aic improvement - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQN47sdChIQkOIWMVHksKmYRRSRkA:1574180167248&q=aic+improvement&sa=X&ved=2ahUKEwiUormN1vblAhUHE6YKHbb-DDcQ1QIoA3oECGYQBA)
+
+- [ ] [aic in logistic regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQN47sdChIQkOIWMVHksKmYRRSRkA:1574180167248&q=aic+in+logistic+regression+in+r&sa=X&ved=2ahUKEwiUormN1vblAhUHE6YKHbb-DDcQ1QIoB3oECGYQCA)
+
+- [ ] [AIC r - Google Search](https://www.google.com/search?q=AIC%20r)
+
+- [ ] [aic table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQN47sdChIQkOIWMVHksKmYRRSRkA:1574180167248&q=aic+table&sa=X&ved=2ahUKEwiUormN1vblAhUHE6YKHbb-DDcQ1QIoBHoECGYQBQ)
+
+- [ ] [aic weights - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQN47sdChIQkOIWMVHksKmYRRSRkA:1574180167248&q=aic+weights&sa=X&ved=2ahUKEwiUormN1vblAhUHE6YKHbb-DDcQ1QIoBXoECGYQBg)
+
+- [ ] [Backward stepwise regression in R - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNStetL8hp_IcH6GanZT1UwHAaEqcw:1574159150023&q=Backward+stepwise+regression+in+R&sa=X&ved=2ahUKEwjaz9Pnh_blAhWBIqYKHUyFCR0Q3rMBKAJ6BAhlEBY)
+
+- [ ] [Bayesian Data Analysis - Google Search](https://www.google.com/search?q=Bayesian+Data+Analysis&oq=Bayesian+Data+Analysis&aqs=chrome..69i57j69i61l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Bayesian Data Analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=Bayesian+Data+Analysis&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2Ny2rNCyIV0LlaollJ1vpJ-XnZ4MJq-LMlNTyxMriRaxiTomVqcWZiXkKLokliQqOeYk5lcWZxTtYGQFlxwE7VAAAAA&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQzTooATCEAXoECGcQAg)
+
+- [ ] [bayesian data analysis course - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=bayesian+data+analysis+course&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQ1QIoBHoECHEQBQ)
+
+- [ ] [bayesian data analysis lecture notes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=bayesian+data+analysis+lecture+notes&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQ1QIoAXoECHEQAg&biw=1920&bih=948)
+
+- [ ] [bayesian data analysis python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=bayesian+data+analysis+python&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQ1QIoAnoECHEQAw)
+
+- [ ] [bayesian data analysis solutions - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=bayesian+data+analysis+solutions&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQ1QIoBXoECHEQBg)
+
+- [ ] [bayesian data analysis solutions third edition - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=bayesian+data+analysis+solutions+third+edition&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQ1QIoBnoECHEQBw)
+
+- [ ] [Bayesian Data Analysis, Second Edition - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=Bayesian+Data+Analysis,+Second+Edition&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2Ny2rNCyIV4JwkyrzcoqMSpK1xLKTrfST8vOzwYRVcWZKanliZfEqRqk0q-Si1MSS_CIrkEyxlX6uvoGRWYpxVdIiVjWnxMrU4szEPAWXxJJEBce8xJzK4sxiHYXg1OT8vBQF15TMksz8PADyVNxjfgAAAA&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQxA0wdnoECG8QDg)
+
+- [ ] [caret stepwise regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ:1574163197880&q=caret+stepwise+regression&sa=X&ved=2ahUKEwidnenxlvblAhXsyIsBHbBrAZ8Q1QIoAXoECGQQAg)
+
+- [ ] [Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=Causal+Inference+for+Statistics,+Social,+and+Biomedical+Sciences:+An+Introduction&stick=H4sIAAAAAAAAACWLsQrCMBRFERFcXBwcnIKjFGJbqpBNnRylHyDpSyqPNnmSlyr1cxz9SqsuBy7nnul4PpNXmaawK-59erus_rMqXF5ljteLBpSsiJofFKOxD93ze7SsFQSrIwX1Naykk5tsa_Jn9Zqcj7pj3YqTr22wHqyoKYgy6ogcETgRJQHqNhHaG3FActYgDEEJ-L2zEns_1DGQ6SAi-Q-ufdoBqQAAAA&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQxA0wdnoECG8QCA)
+
+- [ ] [collinearity poisson regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS6D0ZEIYwonM9KVr1HnRsr0HE3iw%3A1574178807711&lei=9w_UXdP_KvHEmAW8prGIDg&q=collinearity%20poisson%20regression&ved=2ahUKEwjFnPeH0fblAhXtFqYKHQyrD-QQsKwBKAB6BAgBEAE)
+
+- [ ] [Comparing the AIC scores is not useful to - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQeLDa-EpqEbsD0IDcIqR3kejayGQ%3A1574180128971&ei=IBXUXdjkOpeWr7wPlOqh4A8&q=Comparing+the+AIC+scores+is+not+useful+to&oq=Comparing+the+AIC+scores+is+not+useful+to&gs_l=psy-ab.3..0i71l8.17425.17425..18880...0.2..0.0.0.......1....1..gws-wiz.8cvZjbNz6NU&ved=0ahUKEwjY9Jj71fblAhUXy4sBHRR1CPwQ4dUDCAs&uact=5)
+
+- [ ] [Comparing the AIC scores is not useful to - Google Search](https://www.google.com/search?newwindow=1&sa=N&sxsrf=ACYBGNR-yS6I6m1MqZZlRHvZoNrSGV_BkA:1574180259256&q=Comparing+the+AIC+scores+is+not+useful+to&tbm=isch&source=univ&ved=2ahUKEwjp-6i51vblAhUSC6YKHcaFD044ZBDsCXoECAYQJA)
+
+- [ ] [Contrasts and Effect Sizes in Behavioral Research: A Correlational Approach Robert Rosenthal - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=Contrasts+and+Effect+Sizes+in+Behavioral+Research:+A+Correlational+Approach+Robert+Rosenthal&stick=H4sIAAAAAAAAAB2JuwoCMRAAEREstLGwsFosbeKdnEI6FX9AW0E2uY0JntljExT9HEu_0kczwzD97miozqoo7Kq6PYr2NB38sjRRqsLF2fhitTLMlz90CjXd8ZHenYnTVggzi_6dpNVVzctlvXiaV--45ZgFU06AsYadc2QzHMKTEoQIG_J4CyzYwJ4SoVivYQ1bFqEGc-D4Peu2FUbrYc-GJH-VKGaPzQdYoqhEswAAAA&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQxA0wdnoECG8QDA)
+
+- [ ] [datasets for multiple linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnsVWb4eR1QlCYF2_Fn-2L76NVbQ%3A1574161159578&lei=B8vTXZDqIpGD0wTt6IP4CA&q=datasets%20for%20multiple%20linear%20regression&ved=2ahUKEwjcnOmmj_blAhVTy4sBHa1vD6MQsKwBKAJ6BAgBEAM)
+
+- [ ] [delta aic in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQN47sdChIQkOIWMVHksKmYRRSRkA:1574180167248&q=delta+aic+in+r&sa=X&ved=2ahUKEwiUormN1vblAhUHE6YKHbb-DDcQ1QIoAXoECGYQAg)
+
+- [ ] [doing bayesian data analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=doing+bayesian+data+analysis&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQ1QIoA3oECHEQBA)
+
+- [ ] [Fit a Poisson-based GLM using a square-root link function - Google Search](https://www.google.com/search?q=Fit%20a%20Poisson-based%20GLM%20using%20a%20square-root%20link%20function)
+
+- [ ] [Fitting collinear covariates together in a model can result in unstable estimates with large standard errors - Google Search](https://www.google.com/search?q=Fitting+collinear+covariates+together+in+a+model+can+result+in+unstable+estimates+with+large+standard+errors&oq=Fitting+collinear+covariates+together+in+a+model+can+result+in+unstable+estimates+with+large+standard+errors&aqs=chrome..69i57.903j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [forward selection in multiple regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnsVWb4eR1QlCYF2_Fn-2L76NVbQ%3A1574161159578&lei=B8vTXZDqIpGD0wTt6IP4CA&q=forward%20selection%20in%20multiple%20regression&ved=2ahUKEwjcnOmmj_blAhVTy4sBHa1vD6MQsKwBKAF6BAgEEAI)
+
+- [ ] [generalized collinearity diagnostics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLqARk3Gsdrs9rx3UlMd3QfW2tSw:1574178892321&q=generalized+collinearity+diagnostics&sa=X&ved=2ahUKEwiF58Gt0fblAhUby4sBHTERCwQQ1QIoAXoECGUQAg)
+
+- [ ] [gvif in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLqARk3Gsdrs9rx3UlMd3QfW2tSw:1574178892321&q=gvif+in+python&sa=X&ved=2ahUKEwiF58Gt0fblAhUby4sBHTERCwQQ1QIoBHoECGUQBQ)
+
+- [ ] [gvif^(1/(2*df)) in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLqARk3Gsdrs9rx3UlMd3QfW2tSw:1574178892321&q=gvif%5E(1/(2*df))+in+r&sa=X&ved=2ahUKEwiF58Gt0fblAhUby4sBHTERCwQQ1QIoAHoECGUQAQ)
+
+- [ ] [how stepaic works - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNReCDF_2YkN3ATyLC8XDq1x64FEAg:1574180435516&q=how+stepaic+works&sa=X&ved=2ahUKEwjf7q6N1_blAhVDI6YKHbOdAnQQ1QIoAHoECGUQAQ)
+
+- [ ] [how to avoid multicollinearity in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLqARk3Gsdrs9rx3UlMd3QfW2tSw:1574178892321&q=how+to+avoid+multicollinearity+in+r&sa=X&ved=2ahUKEwiF58Gt0fblAhUby4sBHTERCwQQ1QIoB3oECGUQCA&biw=1920&bih=899)
+
+- [ ] [how to find best model in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=how%20to%20find%20best%20model%20in%20r&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAF6BAgBEAI)
+
+- [ ] [how to find best model in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=how%20to%20find%20best%20model%20in%20r&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAR6BAgAEAU&biw=1920&bih=899)
+
+- [ ] [how to report poisson regression results - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQt62Bp7rH_U11-SLu_4v5tZMrafA:1574177103927&q=how+to+report+poisson+regression+results&sa=X&ved=2ahUKEwjk_d7YyvblAhVCJaYKHaDGC_0Q1QIoAHoECGQQAQ)
+
+- [ ] [how to use step function in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=how%20to%20use%20step%20function%20in%20r&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAV6BAgBEAY)
+
+- [ ] [Ignoring intolerable levels of collinearity in a model can result in one or more covariates being excluded from the model due to large p-values - Google Search](https://www.google.com/search?q=Ignoring+intolerable+levels+of+collinearity+in+a+model+can+result+in+one+or+more+covariates+being+excluded+from+the+model+due+to+large+p-values&oq=Ignoring+intolerable+levels+of+collinearity+in+a+model+can+result+in+one+or+more+covariates+being+excluded+from+the+model+due+to+large+p-values&aqs=chrome..69i57j69i59.906j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Ignoring intolerable levels of collinearity in a model can result in one or more covariates being excluded from the model due to large p-values - Google Search](https://www.google.com/search?q=Ignoring+intolerable+levels+of+collinearity+in+a+model+can+result+in+one+or+more+covariates+being+excluded+from+the+model+due+to+large+p-values&oq=Ignoring+intolerable+levels+of+collinearity+in+a+model+can+result+in+one+or+more+covariates+being+excluded+from+the+model+due+to+large+p-values&aqs=chrome..69i57.693j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [in regression analysis p value is 0.05 and r sq adj is 23 what is the inference you will draw - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOMJE068lv4RV56Hbf_B35t6TyQ:1574179193153&q=in+regression+analysis+p+value+is+0.05+and+r+sq+adj+is+23+what+is+the+inference+you+will+draw&sa=X&ved=2ahUKEwj4l_u80vblAhVmzIsBHUkIDxQQ1QIoAnoECGQQAw&cshid=1574179247843453)
+
+- [ ] [Interpret some parameter estimates from a fitted model - Google Search](https://www.google.com/search?q=Interpret%20some%20parameter%20estimates%20from%20a%20fitted%20model)
+
+- [ ] [is larger aic better - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQN47sdChIQkOIWMVHksKmYRRSRkA:1574180167248&q=is+larger+aic+better&sa=X&ved=2ahUKEwiUormN1vblAhUHE6YKHbb-DDcQ1QIoBnoECGYQBw)
+
+- [ ] [Joshua Gordon 《TensorFlow 2.0 - Google Search](https://www.google.com/search?q=Joshua+Gordon+%E3%80%8ATensorFlow+2.0&oq=Joshua+Gordon+%E3%80%8ATensorFlow+2.0&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [local absolute linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnsVWb4eR1QlCYF2_Fn-2L76NVbQ%3A1574161159578&lei=B8vTXZDqIpGD0wTt6IP4CA&q=local%20absolute%20linear%20regression&ved=2ahUKEwjcnOmmj_blAhVTy4sBHa1vD6MQsKwBKAF6BAgBEAI)
+
+- [ ] [longitudinal social network analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOMJE068lv4RV56Hbf_B35t6TyQ%3A1574179193153&lei=eRHUXbj3COaYr7wPyZC8oAE&q=longitudinal%20social%20network%20analysis&ved=2ahUKEwj45-bb0vblAhUuCqYKHZWMB1IQsKwBKAR6BAgDEAU)
+
+- [ ] [low r squared low p value - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOMJE068lv4RV56Hbf_B35t6TyQ:1574179193153&q=low+r+squared+low+p+value&sa=X&ved=2ahUKEwj4l_u80vblAhVmzIsBHUkIDxQQ1QIoAXoECGQQAg&cshid=1574179247843453)
+
+- [ ] [Matched Sampling for Causal Effects - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=Matched+Sampling+for+Causal+Effects&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2Ny2rNCyIV-LSz9U3MEtLircw0RLLTrbST8rPzwYTVsWZKanliZXFqxil0qySi1ITS_KLrEAyxVYgTUZmKcZVSYtYlX0TS5IzUlMUghNzC3Iy89IV0vKLFJwTS4sTcxRc09JSk0uKAeekPap4AAAA&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQxA0wdnoECG8QCg)
+
+- [ ] [model selection stepwise in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=model%20selection%20stepwise%20in%20r&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAJ6BAgAEAM)
+
+- [ ] [model selection stepwise in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=model%20selection%20stepwise%20in%20r&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAB6BAgBEAE)
+
+- [ ] [multicollinearity formula - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS6D0ZEIYwonM9KVr1HnRsr0HE3iw%3A1574178807711&lei=9w_UXdP_KvHEmAW8prGIDg&q=multicollinearity%20formula&ved=2ahUKEwjFnPeH0fblAhXtFqYKHQyrD-QQsKwBKAF6BAgBEAI)
+
+- [ ] [Multiple imputation for nonresponse in surveys - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=Multiple+imputation+for+nonresponse+in+surveys&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2Ny2rNCyIV-LSz9U3MMs2zis20RLLTrbST8rPzwYTVsWZKanliZXFqxil0qySi1ITS_KLrEAyxVYgTUZmKcZVSYtY9XxLc0oyC3JSFTJzC0pLEksy8_MU0vKLFPLy84pSiwvy84qBUnkKxaVFZamVxQBRC4skgwAAAA&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQxA0wdnoECG8QBg)
+
+- [ ] [multiple linear regression variable selection - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnsVWb4eR1QlCYF2_Fn-2L76NVbQ%3A1574161159578&lei=B8vTXZDqIpGD0wTt6IP4CA&q=multiple%20linear%20regression%20variable%20selection&ved=2ahUKEwjcnOmmj_blAhVTy4sBHa1vD6MQsKwBKAV6BAgBEAY)
+
+- [ ] [olsrr best subset - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=olsrr%20best%20subset&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAN6BAgBEAQ)
+
+- [ ] [olsrr best subset - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=olsrr%20best%20subset&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAV6BAgAEAY)
+
+- [ ] [olsrr best subset - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=olsrr%20best%20subset&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAV6BAgAEAY)
+
+- [ ] [p value regression excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOMJE068lv4RV56Hbf_B35t6TyQ:1574179193153&q=p+value+regression+excel&sa=X&ved=2ahUKEwj4l_u80vblAhVmzIsBHUkIDxQQ1QIoBnoECGQQBw&cshid=1574179247843453)
+
+- [ ] [poisson regression interpretation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQt62Bp7rH_U11-SLu_4v5tZMrafA:1574177103927&q=poisson+regression+interpretation&sa=X&ved=2ahUKEwjk_d7YyvblAhVCJaYKHaDGC_0Q1QIoAXoECGQQAg)
+
+- [ ] [Probability books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=Probability+books&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2Ny2rNCyIV0LlaollJ1vpJ-XnZ4MJq-LMlNTyxMriVYwSaVbFpUlZqcklViCZYiv9XH0D08KM5EWsggFF-UmJSZk5mSWVCmBJAKthcfpnAAAA&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQzTooADB3egQIcBAC)
+
+- [ ] [Probability books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=Probability+books&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2Ny2rNCyIV0LlaollJ1vpJ-XnZ4MJq-LMlNTyxMriVYwSaVbFpUlZqcklViCZYiv9XH0D08KM5EWsggFF-UmJSZk5mSWVCmBJAKthcfpnAAAA&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQzTooADB3egQIcBAC&biw=1920&bih=948)
+
+- [ ] [quantify collinearity poissin model - Google Search](https://www.google.com/search?q=quantify+collinearity+poissin+model&oq=quantify+collinearity+poissin+model&aqs=chrome..69i57.9554j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [r don't display the output rmarkdown - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcSPu_vouaXcJClXl7IF2sksF4cg%3A1574161921350&ei=Ac7TXZ-CFe-Or7wPkJ2FwAU&q=r+don%27t+display+the+output+rmarkdown&oq=r+don%27t+display+the+output+rmarkdown&gs_l=psy-ab.3...16463.19054..19267...0.2..0.340.1461.1j8j0j1......0....1..gws-wiz.......0i71j33i22i29i30j33i160.D8PTJGolK94&ved=0ahUKEwjfhpCRkvblAhVvx4sBHZBOAVgQ4dUDCAs&uact=5)
+
+- [ ] [regression model significant but not predictors - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOMJE068lv4RV56Hbf_B35t6TyQ:1574179193153&q=regression+model+significant+but+not+predictors&sa=X&ved=2ahUKEwj4l_u80vblAhVmzIsBHUkIDxQQ1QIoBHoECGQQBQ&cshid=1574179247843453&biw=1920&bih=899)
+
+- [ ] [rsiena tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOMJE068lv4RV56Hbf_B35t6TyQ%3A1574179193153&lei=eRHUXbj3COaYr7wPyZC8oAE&q=rsiena%20tutorial&ved=2ahUKEwj45-bb0vblAhUuCqYKHZWMB1IQsKwBKAB6BAgDEAE)
+
+- [ ] [rsienatest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOMJE068lv4RV56Hbf_B35t6TyQ%3A1574179193153&lei=eRHUXbj3COaYr7wPyZC8oAE&q=rsienatest&ved=2ahUKEwj45-bb0vblAhUuCqYKHZWMB1IQsKwBKAF6BAgDEAI)
+
+- [ ] [siena algorithms - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOMJE068lv4RV56Hbf_B35t6TyQ%3A1574179193153&lei=eRHUXbj3COaYr7wPyZC8oAE&q=siena%20algorithms&ved=2ahUKEwj45-bb0vblAhUuCqYKHZWMB1IQsKwBKAV6BAgDEAY)
+
+- [ ] [siena social network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOMJE068lv4RV56Hbf_B35t6TyQ%3A1574179193153&lei=eRHUXbj3COaYr7wPyZC8oAE&q=siena%20social%20network&ved=2ahUKEwj45-bb0vblAhUuCqYKHZWMB1IQsKwBKAN6BAgDEAQ)
+
+- [ ] [Statistical Analysis with Missing Data - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQZPJHhBsyu6Tf5QxTTZe2TpQNvHA:1574096148930&q=Statistical+Analysis+with+Missing+Data&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2Ny2rNCyIV-IBcY2ScnOyyswqtcSyk630k_Lzs8GEVXFmSmp5YmXxKkapNKvkotTEkvwiK5BMsZV-rr6BkVmKcVXSIla14JLEkszikszkxBwFx7zEnMrizGKF8sySDAXfzOLizLx0BZfEkkQA-GmRLH0AAAA&sa=X&ved=2ahUKEwj2iLKOnfTlAhUHrpQKHWhLDkcQxA0wdnoECG8QBA)
+
+- [ ] [Statistics Reference Online: “Sequential analysis – Further developments updated with a focus on biomedical, economic, and engineering applications - Google Search](https://www.google.com/search?q=Statistics+Reference+Online%3A+%E2%80%9CSequential+analysis+%E2%80%93+Further+developments+updated+with+a+focus+on+biomedical%2C+economic%2C+and+engineering+applications&oq=Statistics+Reference+Online%3A+%E2%80%9CSequential+analysis+%E2%80%93+Further+developments+updated+with+a+focus+on+biomedical%2C+economic%2C+and+engineering+applications&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [step bic - Google Search](https://www.google.com/search?q=step+bic&oq=step+bic+&aqs=chrome..69i57j0l2j69i60j69i65l2j69i60l2.3567j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [step function in r both - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=step%20function%20in%20r%20both&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAN6BAgAEAQ)
+
+- [ ] [step function regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ:1574163197880&q=step+function+regression&sa=X&ved=2ahUKEwidnenxlvblAhXsyIsBHbBrAZ8Q1QIoAnoECGQQAw)
+
+- [ ] [stepaic in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNReCDF_2YkN3ATyLC8XDq1x64FEAg:1574180435516&q=stepaic+in+python&sa=X&ved=2ahUKEwjf7q6N1_blAhVDI6YKHbOdAnQQ1QIoBXoECGUQBg)
+
+- [ ] [stepaic in r interpretation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNReCDF_2YkN3ATyLC8XDq1x64FEAg:1574180435516&q=stepaic+in+r+interpretation&sa=X&ved=2ahUKEwjf7q6N1_blAhVDI6YKHbOdAnQQ1QIoBHoECGUQBQ)
+
+- [ ] [stepaic keep - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNReCDF_2YkN3ATyLC8XDq1x64FEAg:1574180435516&q=stepaic+keep&sa=X&ved=2ahUKEwjf7q6N1_blAhVDI6YKHbOdAnQQ1QIoA3oECGUQBA)
+
+- [ ] [stepaic logistic regression r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNReCDF_2YkN3ATyLC8XDq1x64FEAg:1574180435516&q=stepaic+logistic+regression+r&sa=X&ved=2ahUKEwjf7q6N1_blAhVDI6YKHbOdAnQQ1QIoAnoECGUQAw)
+
+- [ ] [stepaic missing values - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNReCDF_2YkN3ATyLC8XDq1x64FEAg:1574180435516&q=stepaic+missing+values&sa=X&ved=2ahUKEwjf7q6N1_blAhVDI6YKHbOdAnQQ1QIoB3oECGUQCA)
+
+- [ ] [stepaic trace - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNReCDF_2YkN3ATyLC8XDq1x64FEAg:1574180435516&q=stepaic+trace&sa=X&ved=2ahUKEwjf7q6N1_blAhVDI6YKHbOdAnQQ1QIoBnoECGUQBw)
+
+- [ ] [stepwise cox regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=stepwise%20cox%20regression%20in%20r&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAR6BAgBEAU)
+
+- [ ] [stepwise logistic regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ:1574163197880&q=stepwise+logistic+regression+in+r&sa=X&ved=2ahUKEwidnenxlvblAhXsyIsBHbBrAZ8Q1QIoB3oECGQQCA)
+
+- [ ] [stepwise logistic regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnsVWb4eR1QlCYF2_Fn-2L76NVbQ%3A1574161159578&lei=B8vTXZDqIpGD0wTt6IP4CA&q=stepwise%20logistic%20regression%20in%20r&ved=2ahUKEwjcnOmmj_blAhVTy4sBHa1vD6MQsKwBKAN6BAgBEAQ)
+
+- [ ] [stepwise model selection - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=stepwise%20model%20selection&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAF6BAgAEAI)
+
+- [ ] [stepwise regression alpha to enter - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnsVWb4eR1QlCYF2_Fn-2L76NVbQ%3A1574161159578&lei=B8vTXZDqIpGD0wTt6IP4CA&q=stepwise%20regression%20alpha%20to%20enter&ved=2ahUKEwjcnOmmj_blAhVTy4sBHa1vD6MQsKwBKAB6BAgEEAE)
+
+- [ ] [stepwise regression both r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ:1574163197880&q=stepwise+regression+both+r&sa=X&ved=2ahUKEwidnenxlvblAhXsyIsBHbBrAZ8Q1QIoBXoECGQQBg&biw=1920&bih=899)
+
+- [ ] [stepwise regression example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ:1574163197880&q=stepwise+regression+example&sa=X&ved=2ahUKEwidnenxlvblAhXsyIsBHbBrAZ8Q1QIoBHoECGQQBQ)
+
+- [ ] [stepwise regression excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnsVWb4eR1QlCYF2_Fn-2L76NVbQ%3A1574161159578&lei=B8vTXZDqIpGD0wTt6IP4CA&q=stepwise%20regression%20excel&ved=2ahUKEwjcnOmmj_blAhVTy4sBHa1vD6MQsKwBKAN6BAgEEAQ)
+
+- [ ] [stepwise regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ:1574163197880&q=stepwise+regression+in+r&sa=X&ved=2ahUKEwidnenxlvblAhXsyIsBHbBrAZ8Q1QIoAHoECGQQAQ)
+
+- [ ] [Stepwise regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQOryNqRTHFdUuwS0JQaMZFpohJnQ%3A1574159123947&ei=E8PTXeS2Oa6wmAW2q4OgDg&q=Stepwise+regression+in+r&oq=Stepwise+regression+in+r&gs_l=psy-ab.3..0l3j0i67j0l4j0i333l2.22889.24482..24647...0.4..0.165.664.3j3......0....2j1..gws-wiz.......0i71j35i39j0i20i263.E83LeRylvX0&ved=0ahUKEwikjJzbh_blAhUuGKYKHbbVAOQQ4dUDCAs&uact=5#iqh=Step%20function)
+
+- [ ] [stepwise regression in r datacamp - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=stepwise%20regression%20in%20r%20datacamp&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAJ6BAgBEAM)
+
+- [ ] [stepwise regression in r with p-values - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnsVWb4eR1QlCYF2_Fn-2L76NVbQ%3A1574161159578&lei=B8vTXZDqIpGD0wTt6IP4CA&q=stepwise%20regression%20in%20r%20with%20p-values&ved=2ahUKEwjcnOmmj_blAhVTy4sBHa1vD6MQsKwBKAB6BAgBEAE)
+
+- [ ] [stepwise regression r squared - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ:1574163197880&q=stepwise+regression+r+squared&sa=X&ved=2ahUKEwidnenxlvblAhXsyIsBHbBrAZ8Q1QIoBnoECGQQBw)
+
+- [ ] [stepwise variable selection glm r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ%3A1574163197880&lei=_dLTXd2qNeyRr7wPsNeF-Ak&q=stepwise%20variable%20selection%20glm%20r&ved=2ahUKEwi6uvzylvblAhXSIqYKHTykD2AQsKwBKAB6BAgAEAE)
+
+- [ ] [stochastic actor-oriented models - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOMJE068lv4RV56Hbf_B35t6TyQ%3A1574179193153&lei=eRHUXbj3COaYr7wPyZC8oAE&q=stochastic%20actor-oriented%20models&ved=2ahUKEwj45-bb0vblAhUuCqYKHZWMB1IQsKwBKAJ6BAgDEAM)
+
+- [ ] [technique of stepwise regression with α = 0.1 r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRvA_Pa2D-7WzCERMfgJajdzP2Z9w%3A1574161139447&ei=88rTXaX6GovFmAWijorwAg&q=technique+of+stepwise+regression+with+%CE%B1+%3D+0.1+r&oq=technique+of+stepwise+regression+with+%CE%B1+%3D+0.1+r&gs_l=psy-ab.3..33i299l3j33i160.17055.17274..17928...0.0..0.149.261.0j2......0....1..gws-wiz.wB05ZSdDpPY&ved=0ahUKEwjlv6Scj_blAhWLIqYKHSKHAi4Q4dUDCAs&uact=5)
+
+- [ ] [The Changing Face of Statistics in Hong Kong and China since 1967 - Google Search](https://www.google.com/search?q=The+Changing+Face+of+Statistics+in+Hong+Kong+and+China+since+1967&oq=The+Changing+Face+of+Statistics+in+Hong+Kong+and+China+since+1967&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The model chosen using the AIC criteria assumes the relationship between the y-coordinate - Google Search](https://www.google.com/search?q=The%20model%20chosen%20using%20the%20AIC%20criteria%20assumes%20the%20relationship%20between%20the%20y-coordinate)
+
+- [ ] [the Poisson model with a log link and an offset term (using area as an effort term) - Google Search](https://www.google.com/search?q=the%20Poisson%20model%20with%20a%20log%20link%20and%20an%20offset%20term%20%28using%20area%20as%20an%20effort%20term%29)
+
+- [ ] [Understanding Computational Bayesian Statistics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQI2t9ZZVi6AQLXbSSgCaa9xs54Fg:1574096132408&q=Understanding+Computational+Bayesian+Statistics&spell=1&sa=X&ved=0ahUKEwj40MGGnfTlAhXKGKYKHRvgCFcQBQguKAA&biw=1920&bih=948)
+
+- [ ] [Understanding Computational Bayesian Statistics i - Google Search](https://www.google.com/search?q=Understanding+Computational+Bayesian+Statistics+i&oq=Understanding+Computational+Bayesian+Statistics+i&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Use model selection tools to choose covariates from those available - Google Search](https://www.google.com/search?q=Use%20model%20selection%20tools%20to%20choose%20covariates%20from%20those%20available)
+
+- [ ] [Using a Poisson GLM to fit a model to the counts (per unit area) - Google Search](https://www.google.com/search?q=Using%20a%20Poisson%20GLM%20to%20fit%20a%20model%20to%20the%20counts%20%28per%20unit%20area%29)
+
+- [ ] [variance inflation factor - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLqARk3Gsdrs9rx3UlMd3QfW2tSw:1574178892321&q=variance+inflation+factor&sa=X&ved=2ahUKEwiF58Gt0fblAhUby4sBHTERCwQQ1QIoBXoECGUQBg)
+
+- [ ] [vif in stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS6D0ZEIYwonM9KVr1HnRsr0HE3iw%3A1574178807711&lei=9w_UXdP_KvHEmAW8prGIDg&q=vif%20in%20stata&ved=2ahUKEwjFnPeH0fblAhXtFqYKHQyrD-QQsKwBKAJ6BAgBEAM)
+
+- [ ] [vif with glm - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLqARk3Gsdrs9rx3UlMd3QfW2tSw%3A1574178892321&lei=TBDUXYWRE5uWr7wPsaKsIA&q=vif%20with%20glm&ved=2ahUKEwi7uYqw0fblAhXTIqYKHVTDCjgQsKwBKAJ6BAgBEAM)
+
+- [ ] [What is GVIF? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLqARk3Gsdrs9rx3UlMd3QfW2tSw:1574178892321&q=What+is+GVIF%3F&sa=X&ved=2ahUKEwiF58Gt0fblAhUby4sBHTERCwQQzmd6BAhkEAw)
+
+- [ ] [What is the link function in GLM? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQt62Bp7rH_U11-SLu_4v5tZMrafA:1574177103927&q=What+is+the+link+function+in+GLM%3F&sa=X&ved=2ahUKEwjk_d7YyvblAhVCJaYKHaDGC_0Qzmd6BAhlEAs)
+
+- [ ] [when to use stepwise regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ:1574163197880&q=when+to+use+stepwise+regression&sa=X&ved=2ahUKEwidnenxlvblAhXsyIsBHbBrAZ8Q1QIoA3oECGQQBA)

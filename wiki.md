@@ -244,3 +244,21 @@ https://en.wikipedia.org/wiki/Category:Theorems_in_Fourier_analysis
 - [ ] [Upper and lower probabilities - Wikipedia](https://en.wikipedia.org/wiki/Upper_and_lower_probabilities)
 
 - [ ] [New Tab](chrome://newtab/)
+
+
+
+
+
+## 11/20/2019
+
+- [ ] [Akaike information criterion - Wikipedia](https://en.wikipedia.org/wiki/Akaike_information_criterion)
+
+- [ ] [Akaike information criterion - Wikipedia](https://en.wikipedia.org/wiki/Akaike_information_criterion)
+
+- [ ] [Chi-squared test - Wikipedia](https://en.wikipedia.org/wiki/Chi-squared_test)
+
+- [ ] [Gibbs sampling - Wikipedia](https://en.wikipedia.org/wiki/Gibbs_sampling)
+
+- [ ] [JSTOR - Wikipedia](https://en.wikipedia.org/wiki/JSTOR)
+
+- [ ] [Poisson regression - Wikipedia](https://en.wikipedia.org/wiki/Poisson_regression)

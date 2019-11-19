@@ -2645,3 +2645,52 @@ http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=autho
 - [ ] [Library Genesis: 高原明生,前田宏子/Takahara Akio,Maeda Hiroko - 開発主義の時代へ：1972‐2014/Kaihatsu Shugi no Jidai he: 1972-2014](http://libgen.is/book/index.php?md5=8D69FA7C97E2487E43D13AB34A9B286E)
 
 - [ ] [Library Genesis: 黒川信重 - 絶対ゼータ関数論](http://libgen.is/book/index.php?md5=3EDBF05FD7E1E78F1E94C09AD5E0A9D7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Google Books
+
+
+## 11/20/2019
+
+- [ ] [Advanced Statistics with Applications in R - Eugene Demidenko - Google Books](https://books.google.com/books?id=Ov20DwAAQBAJ&pg=PA166&lpg=PA166&dq=sum+of+two+random+variables+convolution+proof&source=bl&ots=YZ4X-Mi3k6&sig=ACfU3U1x7MdiFcuPQZjipQBiYzG0MsNx-A&hl=en&sa=X&ved=2ahUKEwjz-LG2xfHlAhUoGaYKHSGUByQ4ZBDoATAFegQISxAB#v=onepage&q=sum%20of%20two%20random%20variables%20convolution%20proof&f=false)
+
+- [ ] [Bayesian Networks and BayesiaLab: A Practical Introduction for Researchers - Stefan Conrady, Lionel Jouffe - Google Books](https://books.google.com/books?id=etXXsgEACAAJ)
+
+- [ ] [Bayesian Networks and BayesiaLab: A Practical Introduction for Researchers - Stefan Conrady, Lionel Jouffe - Google Books](https://books.google.com/books?id=etXXsgEACAAJ)
+
+- [ ] [Bringing Bayesian Models to Life - Mevin B. Hooten, Trevor J. Hefley - Google Books](https://books.google.com/books?id=oOiYDwAAQBAJ&pg=RA3-PA17&lpg=RA3-PA17&dq=to+sampling+N(0,1)+usign+MH+mcmc+by+r+codes&source=bl&ots=0c2b8UizSQ&sig=ACfU3U1ksI7Q7VsinkFZoC7h59ykDFVqqA&hl=en&sa=X&ved=2ahUKEwjcjL2T-vPlAhUvG6YKHfBLAFgQ6AEwDHoECF8QAQ#v=onepage&q=to%20sampling%20N(0%2C1)%20usign%20MH%20mcmc%20by%20r%20codes&f=false)
+
+- [ ] [Chance Encounters: Probability in Education - Google Books](https://books.google.com/books?id=rbfUBgAAQBAJ&pg=PT4&lpg=PT4&dq=probability+reflection+rethink+book&source=bl&ots=iU79wFOqKR&sig=ACfU3U3wVOCjoeztOTfgRxBxYl5MRK5dIQ&hl=en&sa=X&ved=2ahUKEwip0o_Whu7lAhWNGKYKHZzNDq8Q6AEwAnoECF0QAQ#v=onepage&q=probability%20reflection%20rethink%20book&f=false)
+
+- [ ] [Computational Probability: Algorithms and Applications in the Mathematical ... - John H. Drew, Diane L. Evans, Andrew G. Glen, Lawrence M. Leemis - Google Books](https://books.google.com/books?id=YFG7DQAAQBAJ&pg=PA131&lpg=PA131&dq=%22Using+MAPLE+V+Release+5+To+Find+the+pdfs+of+Sums+of+Random+Variables&source=bl&ots=FEdD0HUUzS&sig=ACfU3U3R2gJQeTuLDlLItf_GguSwurk22Q&hl=en&sa=X&ved=2ahUKEwidn-jRpfHlAhVBCqYKHWuzAjMQ6AEwAXoECGMQAQ#v=onepage&q=%22Using%20MAPLE%20V%20Release%205%20To%20Find%20the%20pdfs%20of%20Sums%20of%20Random%20Variables&f=false)
+
+- [ ] [Graphical Models: Representations for Learning, Reasoning and Data Mining - Christian Borgelt, Matthias Steinbrecher, Rudolf R Kruse - Google Books](https://books.google.com/books?id=I8Fa-LKDpF0C)
+
+- [ ] [Model Selection and Multimodel Inference: A Practical Information-Theoretic ... - Kenneth P. Burnham, David R. Anderson - Google Books](https://books.google.ca/books?id=fT1Iu-h6E-oC&pg=PA51&dq=model%20selection%20and%20multi%20dimensional%20inference&hl=en&sa=X&ei=dUXLUp-3N4fK2wWBlYHQCg&ved=0CC4Q6AEwAA#v=onepage&q=model%20selection%20and%20multi%20dimensional%20inference&f=false)
+
+- [ ] [Rethinking Risk and the Precautionary Principle - Google Books](https://books.google.com/books?id=XX6Us6SjLYkC&pg=PA257&lpg=PA257&dq=probability+reflection+rethink+book&source=bl&ots=eRQL_Fa_DC&sig=ACfU3U0WZuEkiWLLOSSbSXOstlQGVfk_Lw&hl=en&sa=X&ved=2ahUKEwip0o_Whu7lAhWNGKYKHZzNDq8Q6AEwA3oECGAQAQ#v=onepage&q=probability%20reflection%20rethink%20book&f=false)
+
+- [ ] [Steve Jobs - Walter Isaacson, STEVE JOBS - Google Books](https://books.google.com/books?id=6e4cDvhrKhgC&pg=PA535&lpg=PA535&dq=The+architects+wanted+the+windows+to+open.+Jobs+said+no.+He+%E2%80%9Chad+never+liked+the+idea+of+people+being+able+to+open+things.+%E2%80%98That+would+just+allow+people+to+screw+things+up.%E2%80%99+%E2%80%9D&source=bl&ots=clwTEjT2ad&sig=ACfU3U26MRUIixLZCoeS2fw7A0QCNgNetw&hl=en&sa=X&ved=2ahUKEwikga-drvHlAhW1NKYKHTiwBEMQ6AEwAnoECBcQAQ#v=onepage&q=The%20architects%20wanted%20the%20windows%20to%20open.%20Jobs%20said%20no.%20He%20%E2%80%9Chad%20never%20liked%20the%20idea%20of%20people%20being%20able%20to%20open%20things.%20%E2%80%98That%20would%20just%20allow%20people%20to%20screw%20things%20up.%E2%80%99%20%E2%80%9D&f=false)
+
+- [ ] [Walter Isaacson Great Innovators e-book boxed set: Steve Jobs, Benjamin ... - Walter Isaacson - Google Books](https://books.google.com/books?id=cf_2PBPP-rEC&pg=PT654&lpg=PT654&dq=The+architects+wanted+the+windows+to+open.+Jobs+said+no.+He+%E2%80%9Chad+never+liked+the+idea+of+people+being+able+to+open+things.+%E2%80%98That+would+just+allow+people+to+screw+things+up.%E2%80%99+%E2%80%9D&source=bl&ots=pPNmnR3C4m&sig=ACfU3U2hP1m0YLidfq8BJqwstPHqg9h-pA&hl=en&sa=X&ved=2ahUKEwikga-drvHlAhW1NKYKHTiwBEMQ6AEwA3oECBgQAQ#v=onepage&q=The%20architects%20wanted%20the%20windows%20to%20open.%20Jobs%20said%20no.%20He%20%E2%80%9Chad%20never%20liked%20the%20idea%20of%20people%20being%20able%20to%20open%20things.%20%E2%80%98That%20would%20just%20allow%20people%20to%20screw%20things%20up.%E2%80%99%20%E2%80%9D&f=false)
+
+- [ ] [Walter Isaacson Great Innovators e-book boxed set: Steve Jobs, Benjamin ... - Walter Isaacson - Google Books](https://books.google.com/books?id=cf_2PBPP-rEC&pg=PT654&lpg=PT654&dq=The+architects+wanted+the+windows+to+open.+Jobs+said+no.+He+%E2%80%9Chad+never+liked+the+idea+of+people+being+able+to+open+things.+%E2%80%98That+would+just+allow+people+to+screw+things+up.%E2%80%99+%E2%80%9D&source=bl&ots=pPNmnR3C4m&sig=ACfU3U2hP1m0YLidfq8BJqwstPHqg9h-pA&hl=en&sa=X&ved=2ahUKEwikga-drvHlAhW1NKYKHTiwBEMQ6AEwA3oECBgQAQ#v=onepage&q=The%20architects%20wanted%20the%20windows%20to%20open.%20Jobs%20said%20no.%20He%20%E2%80%9Chad%20never%20liked%20the%20idea%20of%20people%20being%20able%20to%20open%20things.%20%E2%80%98That%20would%20just%20allow%20people%20to%20screw%20things%20up.%E2%80%99%20%E2%80%9D&f=false)
