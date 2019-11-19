@@ -960,3 +960,22 @@ Administrator@WIN10-901122121 ~/assorted-readin
 - [ ] [Zev Ross（@zevross）さん / Twitter](https://twitter.com/zevross)
 
 - [ ] [ホーム / Twitter](https://twitter.com/SrBachchan/header_photo)
+
+
+# AI
+
+
+- [ ] [(1) Tim Rocktäschel (@_rockt) / Twitter](https://twitter.com/_rockt)
+
+- [ ] [(1) Isabelle Augenstein (@IAugenstein) / Twitter](https://twitter.com/IAugenstein)
+
+- [ ] [Profile / Twitter](https://twitter.com/andrewgwils)
+
+- [ ] [(1) Yee Whye Teh (@yeewhye) / Twitter](https://twitter.com/yeewhye)
+
+- [ ] [(1) Durk Kingma (@dpkingma) / Twitter](https://twitter.com/dpkingma)
+
+- [ ] [(1) Chris J. Maddison (@cjmaddison) / Twitter](https://twitter.com/cjmaddison)
+
+- [ ] [(1) Balaji Lakshminarayanan (@balajiln) / Twitter](https://twitter.com/balajiln)
+
