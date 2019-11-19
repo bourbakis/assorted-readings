@@ -2749,3 +2749,181 @@ https://www.zhihu.com/question/341466774
 - [ ] [ResearchGate](https://www.researchgate.net/profile/Florentin_Smarandache/publication/273062785_Advances_and_Applications_of_DSmT_for_Information_Fusion_Collected_Works_Volume_4/links/54f9b7940cf29a9fbd7c508f.pdf#page=196)
 
 - [ ] [The Game-Theoretic Probability and Finance Project](http://www.probabilityandfinance.com/)
+
+
+## 11/19/2019
+
+- [ ] [Formes modulaires](http://www.les-mathematiques.net/phorum/read.php?11,869969,870308)
+
+- [ ] [livres d'arithmétique](http://www.les-mathematiques.net/phorum/read.php?11,753643,753722)
+
+- [ ] [Maple et Jean-Pierre Serre](http://www.les-mathematiques.net/phorum/read.php?11,299550,299626)
+
+- [ ] [Problème cours arithmétique J.P. Serre](http://www.les-mathematiques.net/phorum/read.php?5,516982,516982)
+
+- [ ] [Réédition livre d'arithmétique/Théorie des nombres](http://www.les-mathematiques.net/phorum/read.php?11,423815,425070)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/19/2019
+
+- [ ] [Python | Group list elements based on frequency - GeeksforGeeks](https://www.geeksforgeeks.org/python-group-list-elements-based-on-frequency/)
+
+- [ ] [(83) Python Programmers [beginners]](https://www.facebook.com/groups/pythonsnake2/)
+
+- [ ] [Python Regular Expressions  |  Python Education  |  Google Developers](https://developers.google.com/edu/python/regular-expressions)
+
+- [ ] [Aggregation and Grouping | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html)
+
+- [ ] [Sums of Random Variables](http://www.milefoot.com/math/stat/rv-sums.htm)
+
+- [ ] [Brainstorm: Add a topic – Dropbox Paper](https://paper.dropbox.com/doc/Brainstorm-Add-a-topic--AoyVaDthEznDztzhw8L1r2LKAg-zo3pgqlU6v81dTXJhFY0u)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/q-fin?searchtype=author&query=Shafer%2C+G)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/q-fin?searchtype=author&query=Vovk%2C+V)
+
+- [ ] [ResearchGate](https://www.researchgate.net/profile/Enrique_Ruspini/publication/243627217_The_Logical_Foundations_of_Evidential_Reasoning/links/55ce0d6408ae502646a73338/The-Logical-Foundations-of-Evidential-Reasoning.pdf)
+
+- [ ] [Error](https://www.agenarisk.com/resources/apps_bayesian_networks.pdf)
+
+- [ ] [A hierarchical Naïve Bayes Model for handling sample heterogeneity in classification problems: an application to tissue microarrays | BMC Bioinformatics | Full Text](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-514)
+
+- [ ] [An Introduction to Bayesian Networks and their Contemporary Applications | Niedermayer.ca](http://www.niedermayer.ca/papers/bayesian)
+
+- [ ] [Bayesian Network Software | AgenaRisk](https://www.agenarisk.com/)
+
+- [ ] [Error](https://www.agenarisk.com/resources/probability_puzzles/Making_sense_of_probability.html)
+
+- [ ] [Probability and Risk](http://probabilityandlaw.blogspot.com/)
+
+- [ ] [QM-RIM](https://qm-rim.org/)
+
+- [ ] [Risk Assessment and Decision Analysis with Bayesian Networks](http://bayesianrisk.com/)
+
+- [ ] [Learning Bayesian Networks - VideoLectures.NET](http://videolectures.net/kdd07_neapolitan_lbn/)
+
+- [ ] [BBN Tutorial: About this section](http://www.eecs.qmul.ac.uk/~norman/BBNs/BBN_Tutorial__About_this_section.htm)
+
+- [ ] [BBNs and Bayesian Probability Resources: Overview](http://www.eecs.qmul.ac.uk/~norman/BBNs/BBNs_and_Bayesian_Probability_Resources__Overview.htm)
+
+- [ ] [BBNs and Bayesian Probability Resources: Overview](http://www.eecs.qmul.ac.uk/~norman/BBNs/BBNs_and_Bayesian_Probability_Resources__Overview.htm)
+
+- [ ] [Biases and fallacies in reasoning about probability: about this section](http://www.eecs.qmul.ac.uk/~norman/BBNs/Biases_and_fallacies_in_reasoning_about_probability__about_this_section.htm)
+
+- [ ] [Norman Fenton homepage](https://www.eecs.qmul.ac.uk/~norman/)
+
+- [ ] [Probability_Theory_Fundamentals:_About_this_section](http://www.eecs.qmul.ac.uk/~norman/BBNs/Probability_Theory_Fundamentals__About_this_section.htm)
+
+- [ ] [What is a BBN?](http://www.eecs.qmul.ac.uk/~norman/BBNs/What_is_a_BBN_.htm)
+
+- [ ] [What is a BBN?](http://www.eecs.qmul.ac.uk/~norman/BBNs/What_is_a_BBN_.htm)
+
+- [ ] [BrianD (sage_notebook)](https://web.archive.org/web/20060815153054/http://sage.math.washington.edu:8100/)
+
+- [ ] [Cloud based Bayesian Network!](https://web.archive.org/web/20170601002137/http://princesofserendib.com/)
+
+- [ ] [Index of /edu/2006/spring/583/notes/2006-03-27](https://web.archive.org/web/20060911213723/http://modular.math.washington.edu/edu/2006/spring/583/notes/2006-03-27/)
+
+- [ ] [Index of /edu/2006/spring/583/notes](https://web.archive.org/web/20060906120049/http://modular.math.washington.edu/edu/2006/spring/583/notes/)
+
+- [ ] [Math 583: Spring 2006: Computing with Modular Forms](https://web.archive.org/web/20060828220453/http://modular.math.washington.edu/edu/2006/spring/583/)
+
+- [ ] [Syncleus Wiki - DANN:Bayesian Network](https://web.archive.org/web/20090923200511/http://wiki.syncleus.com/index.php/DANN%3ABayesian_Network)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20060903140954/http://modular.math.washington.edu/edu/2006/spring/583/book/src/stein-modform.tar.bz2)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20060828143743/http://www.fen.bilkent.edu.tr/~franz/publ/serre.pdf)
+
+- [ ] [William Stein Teaching](https://web.archive.org/web/20060828212228/http://modular.math.washington.edu/courses/)
+
+- [ ] [7.2. re — Regular expression operations — Python 2.7.17 documentation](https://docs.python.org/2/library/re.html)
+
+- [ ] [re — Regular expression operations — Python 3.8.0 documentation](https://docs.python.org/3/library/re.html)
+
+- [ ] [Management du risque : 7 questions à se poser pour prendre une décision dans l'urgence - HBR](https://www.hbrfrance.fr/chroniques-experts/2019/10/28083-management-du-risque-7-questions-a-se-poser-pour-prendre-une-decision-dans-lurgence/)
+
+- [ ] [Astrology Critics Don’t Even Know What They’re Criticizing](https://gen.medium.com/astrology-critics-dont-even-know-what-they-re-criticizing-69b44c795b4b)
+
+- [ ] [www.reddit.com](https://www.reddit.com/r/math/comments/4ut8mn/good_book_on_topological_groups/)
+
+- [ ] [Group Theory/Topological groups - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Group_Theory/Topological_groups)
+
+- [ ] [www.mdpi.com](https://www.mdpi.com/books/pdfdownload/book/1157)
+
+- [ ] [www.mdpi.com](https://www.mdpi.com/books/pdfdownload/book/237)
+
+- [ ] [Combinatorial Group Theory: Presentations of Groups in Terms of Generators and Relations](https://store.doverpublications.com/0486438309.html)
+
+- [ ] [www.personal.rhul.ac.uk](http://www.personal.rhul.ac.uk/)
+
+- [ ] [500 Internal Privoxy Error](http://www.cup.cam.ac.uk/)
+
+- [ ] [Combinatorial Group Theory | Roger C. Lyndon | Springer](https://www.springer.com/gp/book/9783540411581)
+
+- [ ] [Links](https://kevintshoemaker.github.io/NRES-746/Links.html)
+
+- [ ] [R code for multivariate random-walk Metropolis sampling | One Life](https://blog.abhranil.net/2014/02/08/r-code-for-multivariate-random-walk-metropolis-hastings-sampling/)
+
+- [ ] [John Fox's Home Page](https://socialsciences.mcmaster.ca/jfox/)
+
+- [ ] [Tips for coding a Metropolis-Hastings sampler | Umberto Picchini's research blog](https://umbertopicchini.wordpress.com/2017/12/18/tips-for-coding-a-metropolis-hastings-sampler/)
+
+- [ ] [Mathematics, Statistics and Physics - Mathematics, Statistics and Physics - Newcastle University](http://www.mas.ncl.ac.uk/~nag48/teaching/MAS8305/)
+
+- [ ] [Personal Homepage of Professor William J. Browne](https://seis.bristol.ac.uk/~frwjb/)
+
+- [ ] [Presentations of Groups by D. L. Johnson](https://www.cambridge.org/core/books/presentations-of-groups/8B1D1C3B7AA82DB1AAEE0DFEEF39E66D)
+
+- [ ] [Topics in the Theory of Group Presentations by D. L. Johnson](https://www.cambridge.org/core/books/topics-in-the-theory-of-group-presentations/12540FA79D50739E5700E485AAD3BEEF)
+
+- [ ] [Normal Density Functions - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/normal-density-functions)
+
+- [ ] [Line types in R : lty - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/line-types-in-r-lty)
+
+- [ ] [Add legends to plots in R software : the easiest way! - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/add-legends-to-plots-in-r-software-the-easiest-way)
+
+- [ ] [Add legends to plots in R software : the easiest way! - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/add-legends-to-plots-in-r-software-the-easiest-way)
+
+- [ ] [GGPlot Title, Subtitle and Caption : The Ultimate Guide - Datanovia](https://www.datanovia.com/en/blog/ggplot-title-subtitle-and-caption/)
+
+- [ ] [Diagram of probability distribution relationships](https://www.johndcook.com/blog/distribution_chart/#beta_binomial_discrete_uniform)
+
+- [ ] [Metropolis-Hastings MCMC Short Tutorial](https://www.slideshare.net/RalphSchlosser/metropolishastings-mcmc-short-tutorial)
+
+- [ ] [MCMC sampling for dummies](https://twiecki.io/blog/2015/11/10/mcmc-sampling/)
+
+- [ ] [Session 3: Introduction to MCMC in R (Computing Practical)](http://eriqande.github.io/sisg_mcmc_course/s03-01-intro-mcmc-in-R.nb.html#)
+
+- [ ] [A Method for Efficiently Sampling From Distributions With Correlated Dimensions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4140408/)
+
+- [ ] [Language Accessory Pack for Office - Office Support](https://support.office.com/en-us/article/language-accessory-pack-for-office-82ee1236-0f9a-45ee-9c72-05b026ee809f?ui=en-US&rs=en-US&ad=US)

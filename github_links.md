@@ -1151,3 +1151,41 @@ https://drive.google.com/drive/u/0/my-drive
 - [ ] [version 1.4.6 · cran/pscl@af9e9f1](https://github.com/cran/pscl/commit/af9e9f1b6a650262d8d8ae90984abef0307ca6e0)
 
 - [ ] [wenjie2wang (Wenjie Wang) / Repositories](https://github.com/wenjie2wang?tab=repositories)
+
+
+
+
+
+
+
+
+
+# Data Tech
+
+## 11/19/2019
+
+- [ ] [avehtari/BDA_course_Aalto: Bayesian Data Analysis course at Aalto](https://github.com/avehtari/BDA_course_Aalto)
+
+- [ ] [avehtari/BDA_m_demos: Bayesian Data Analysis demos for Matlab/Octave](https://github.com/avehtari/BDA_m_demos)
+
+- [ ] [avehtari/BDA_py_demos: Bayesian Data Analysis demos for Python](https://github.com/avehtari/BDA_py_demos)
+
+- [ ] [avehtari/BDA_R_demos: Bayesian Data Analysis demos for R](https://github.com/avehtari/BDA_R_demos)
+
+- [ ] [edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.](https://github.com/edwardtufte/tufte-css)
+
+- [ ] [mainkoon81/oo-Study-MCMC-R-II](https://github.com/mainkoon81/oo-Study-MCMC-R-II)
+
+- [ ] [mainkoon81/oo-Study-MCMC-R-II](https://github.com/mainkoon81/oo-Study-MCMC-R-II)
+
+- [ ] [mainkoon81/oo-Study-MCMC-R-II](https://github.com/mainkoon81/oo-Study-MCMC-R-II)
+
+- [ ] [pandas-dev/pandas: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more](https://github.com/pandas-dev/pandas)
+
+- [ ] [properly formatting a two-line caption in ggplot2 · Issue #2848 · tidyverse/ggplot2](https://github.com/tidyverse/ggplot2/issues/2848)
+
+- [ ] [pymc-devs/pymc: PyMC: Bayesian Stochastic Modelling in Python (DEPRECATED: for PyMC3: https://github.com/pymc-devs/pymc3)](https://github.com/pymc-devs/pymc)
+
+- [ ] [Styling code not executed · Issue #19358 · pandas-dev/pandas](https://github.com/pandas-dev/pandas/issues/19358)
+
+- [ ] [Tufte-LaTeX/tufte-latex: A Tufte-inspired LaTeX class for producing handouts, papers, and books](https://github.com/Tufte-LaTeX/tufte-latex)

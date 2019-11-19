@@ -625,3 +625,59 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [r - zeroinfl "system is computationally singular" whereas no correlation in predictors - Stack Overflow](https://stackoverflow.com/questions/44134711/zeroinfl-system-is-computationally-singular-whereas-no-correlation-in-predicto)
 
 - [ ] [statistics - How do I get a publication quality ouput from zeroinfl() in R? - Stack Overflow](https://stackoverflow.com/questions/35757166/how-do-i-get-a-publication-quality-ouput-from-zeroinfl-in-r)
+
+
+
+
+
+
+
+
+
+
+
+## 11/19/2019
+
+- [ ] [Add legend to a plot with R - Stack Overflow](https://stackoverflow.com/questions/37401702/add-legend-to-a-plot-with-r)
+
+- [ ] [Adding simple legend to plot in R - Stack Overflow](https://stackoverflow.com/questions/14883238/adding-simple-legend-to-plot-in-r)
+
+- [ ] [Conditionally format Python pandas cell - Stack Overflow](https://stackoverflow.com/questions/41203959/conditionally-format-python-pandas-cell)
+
+- [ ] [How to use Python Pandas Stylers for coloring an entire row based on a given column? - Stack Overflow](https://stackoverflow.com/questions/43596579/how-to-use-python-pandas-stylers-for-coloring-an-entire-row-based-on-a-given-col)
+
+- [ ] [Modify output from Python Pandas describe - Stack Overflow](https://stackoverflow.com/questions/19124148/modify-output-from-python-pandas-describe)
+
+- [ ] [Newest 'group-by' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/group-by)
+
+- [ ] [Pandas python .describe() formatting/output - Stack Overflow](https://stackoverflow.com/questions/32835498/pandas-python-describe-formatting-output)
+
+- [ ] [python - Coloring Cells in Pandas - Stack Overflow](https://stackoverflow.com/questions/28075699/coloring-cells-in-pandas)
+
+- [ ] [python - Colour cells in pandas dataframe - Stack Overflow](https://stackoverflow.com/questions/42902592/colour-cells-in-pandas-dataframe)
+
+- [ ] [python - Format the color of a cell in a pandas dataframe according to multiple conditions - Stack Overflow](https://stackoverflow.com/questions/43839112/format-the-color-of-a-cell-in-a-pandas-dataframe-according-to-multiple-condition)
+
+- [ ] [python - How do I use pandas DataFrame.style? - Stack Overflow](https://stackoverflow.com/questions/40421893/how-do-i-use-pandas-dataframe-style)
+
+- [ ] [python - How to import a csv-file into a data array? - Stack Overflow](https://stackoverflow.com/questions/46614526/how-to-import-a-csv-file-into-a-data-array)
+
+- [ ] [python - Pandas DataFrame Style for this condition - Stack Overflow](https://stackoverflow.com/questions/49952307/pandas-dataframe-style-for-this-condition)
+
+- [ ] [python - Pandas style function to hignlight specific columns - Stack Overflow](https://stackoverflow.com/questions/41654949/pandas-style-function-to-hignlight-specific-columns)
+
+- [ ] [python - Why does Excel styling not work in Pandas? - Stack Overflow](https://stackoverflow.com/questions/55660958/why-does-excel-styling-not-work-in-pandas)
+
+- [ ] [Python group by - Stack Overflow](https://stackoverflow.com/questions/3749512/python-group-by)
+
+- [ ] [Python pandas summary table plot - Stack Overflow](https://stackoverflow.com/questions/30263627/python-pandas-summary-table-plot)
+
+- [ ] [r - Add legend to ggplot2 line plot - Stack Overflow](https://stackoverflow.com/questions/10349206/add-legend-to-ggplot2-line-plot)
+
+- [ ] [R: legend with points and lines being different colors (for the same legend item) - Stack Overflow](https://stackoverflow.com/questions/19053440/r-legend-with-points-and-lines-being-different-colors-for-the-same-legend-item)
+
+- [ ] [regex - python group(0) meaning - Stack Overflow](https://stackoverflow.com/questions/36728729/python-group0-meaning)
+
+- [ ] [regex - The groups() method in regular expressions in Python - Stack Overflow](https://stackoverflow.com/questions/20202365/the-groups-method-in-regular-expressions-in-python)
+
+- [ ] [Using Pandas DataFrame style to color a column (Python 3) - Stack Overflow](https://stackoverflow.com/questions/42239657/using-pandas-dataframe-style-to-color-a-column-python-3)

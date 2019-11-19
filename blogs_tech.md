@@ -165,3 +165,125 @@ http://ml-india.org/ml-india-interview-priya-radhakrishnan/#proj
 - [ ] [GR's Website](https://data.princeton.edu/)
 
 - [ ] [GR's Website](https://data.princeton.edu/wws509/datasets)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/18/2019
+
+- [ ] [A 3,000 page proof: classification of finite simple groups](https://www.johndcook.com/blog/2009/10/05/finite-simple-groups/)
+
+- [ ] [A 3,000 page proof: classification of finite simple groups](https://www.johndcook.com/blog/2009/10/05/finite-simple-groups/)
+
+- [ ] [Anagram frequency](https://www.johndcook.com/blog/2019/11/13/anagram-frequency/)
+
+- [ ] [Apple | John D. Cook](https://www.johndcook.com/blog/tag/apple/)
+
+- [ ] [Applied mathematics | DEs, DSP, filtering, etc.](https://www.johndcook.com/blog/applied-math/)
+
+- [ ] [Blog, Twitter, and Articles](https://www.johndcook.com/blog/writing/)
+
+- [ ] [Consulting in mathematics, statistics, and data privacy](https://www.johndcook.com/blog/)
+
+- [ ] [Consulting in mathematics, statistics, and data privacy](https://www.johndcook.com/blog/)
+
+- [ ] [Cryptography blog posts](https://www.johndcook.com/blog/cryptography/)
+
+- [ ] [Diagram of special function relationships](https://www.johndcook.com/blog/2010/09/28/diagram-of-special-function-relationships/)
+
+- [ ] [Diagram showing how areas of math relate to each other](https://www.johndcook.com/blog/2017/03/09/how-areas-of-math-are-connected/)
+
+- [ ] [Endless preparation](https://www.johndcook.com/blog/2010/07/05/endless-preparation/)
+
+- [ ] [Endless preparation](https://www.johndcook.com/blog/2010/07/05/endless-preparation/)
+
+- [ ] [Exponential growth](https://www.johndcook.com/blog/2008/01/17/coping-with-exponential-growth/)
+
+- [ ] [Exponential growth](https://www.johndcook.com/blog/2008/01/17/coping-with-exponential-growth/)
+
+- [ ] [Hand-drawn Graphviz diagrams](https://www.johndcook.com/blog/2019/11/13/hand-drawn-graphviz-diagrams/)
+
+- [ ] [How many ways to design rock paper scissors lizard Spock?](https://www.johndcook.com/blog/2018/08/07/rock-paper-scissors-lizard-spock/)
+
+- [ ] [Inside Steve Jobs' brain](https://www.johndcook.com/blog/2008/11/08/inside-steve-jobs-brain/)
+
+- [ ] [Leaky abstractions and hockey stick learning curves](https://www.johndcook.com/blog/2009/01/02/leaky-abstractions-hockey-stick-learning-curves/)
+
+- [ ] [Mathematical balance of trade: how areas of math connect](https://www.johndcook.com/blog/2017/03/08/mathematical-balance-of-trade/)
+
+- [ ] [Opening black boxes](https://www.johndcook.com/blog/2009/10/14/opening-black-boxes/)
+
+- [ ] [panorama_full2.png (3766×4011)](https://www.johndcook.com/panorama_full2.png)
+
+- [ ] [Parkinson's Law](https://www.johndcook.com/blog/2009/08/27/parkinsons-law/)
+
+- [ ] [Reading the masters](https://www.johndcook.com/blog/2012/07/16/reading-the-masters/)
+
+- [ ] [Statistics and data science consulting](https://www.johndcook.com/blog/applied-statistics/)
+
+- [ ] [Steve Jobs and openness](https://www.johndcook.com/blog/2011/11/07/steve-jobs-and-openness/)
+
+- [ ] [Technical notes](https://www.johndcook.com/blog/notes/#tex)
+
+- [ ] [Technical notes](https://www.johndcook.com/blog/notes/)
+
+- [ ] [Technical notes](https://www.johndcook.com/blog/notes/#de)
+
+- [ ] [Technical notes](https://www.johndcook.com/blog/notes/#python)
+
+- [ ] [Technical notes](https://www.johndcook.com/blog/notes/#approx)
+
+- [ ] [Technical notes](https://www.johndcook.com/blog/notes/#regex)
+
+- [ ] [Moving data between R and Excel via the clipboard](https://www.johndcook.com/blog/r_excel_clipboard/)
+
+- [ ] [Regular expressions in R](https://www.johndcook.com/blog/r_language_regex/)
+
+- [ ] [Technical notes](https://www.johndcook.com/blog/notes/#R)
+
+- [ ] [Technical notes](https://www.johndcook.com/blog/notes/#misc)
+
+- [ ] [The hardest logarithm to compute](https://www.johndcook.com/blog/2019/11/16/the-hardest-logarithm/)
+
+- [ ] [Topological properties diagram](https://www.johndcook.com/blog/topology_diagram/)
+
+- [ ] [Topological properties diagram](https://www.johndcook.com/blog/topology_diagram/)
+
+- [ ] [Why Shakespeare is hard to read](https://www.johndcook.com/blog/2009/08/16/why-shakespeare-is-hard-to-read/)
+
+- [ ] [Visualizing category theory concept dependencies](https://www.johndcook.com/blog/2013/09/10/visualizing-category-concept-dependencies/)
+
+- [ ] [web.archive.org/web/20160709114557/http://www.graphviz.org/](http://web.archive.org/web/20160709114557/http://www.graphviz.org/)
+
+- [ ] [Diagram of probability distribution relationships](https://www.johndcook.com/blog/distribution_chart/#binomial)
+
+- [ ] [Bayesian Modeling & Data Analysis Statistical Consultant](https://www.johndcook.com/blog/bayesian-consulting/)
+
+- [ ] [Diagram modes of convergence](https://www.johndcook.com/blog/modes_of_convergence/)
+
+- [ ] [Special function diagram](https://www.johndcook.com/blog/special_function_diagram/)
+
+- [ ] [Gamma function identities](https://www.johndcook.com/blog/gamma_identities/)
+
+- [ ] [Handbook of Mathematical Functions: with Formulas, Graphs, and Mathematical Tables (Dover Books on Mathematics): Milton Abramowitz, Irene A. Stegun: 9780486612720: Amazon.com: Books](https://www.amazon.com/gp/product/0486612724/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=theende-20&linkId=9c558058cbc29325ea66f00a1c644a75&language=en_US)
+
+- [ ] [Relationships between Bessel functions](https://www.johndcook.com/blog/Bessel_functions/)
+
+- [ ] [Diagram of Bayesian conjugate priors](https://www.johndcook.com/blog/conjugate_prior_diagram/)
+
+- [ ] [Diagram topological vector space](https://www.johndcook.com/blog/topological_vector_spaces/)
+
+- [ ] [Category theory definitions](https://www.johndcook.com/blog/category_theory/)
+
+- [ ] [Topological properties diagram](https://www.johndcook.com/blog/topology_diagram/)
+
+- [ ] [Apply category theory to modeling and software development](https://www.johndcook.com/blog/applied-category-theory/)

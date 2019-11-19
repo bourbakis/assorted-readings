@@ -495,6 +495,128 @@ http://libgen.is/book/index.php?md5=2E408DA22DA834A91D8267A467479304
 
 
 
+
+
+
+
+
+
+
+## 11/18/2019
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0B80E706D53F3E38DA86DB16C1CF1FD4)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C01CC86F354925CA82CA67F2513822C0)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/8ADFC88B255BDCE9F09F709668B235C5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DC171E804F6C2319BCEBE641D9A6B9E0)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E28BB8EB41B4EA73B9857EAF12C54427)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/23FE0326F4677527377283C8AC38C620)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E420A5340FEC9B962CE17D10FF742CDA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/285ABFFB049223B24C2142C929757CEF)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4EC804B03088244C3721C6C35161C756)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F39B0D7053B750860600E57D4625577E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EEDDE669FE1D15E470F1B815D8AC46C5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B194FD55FF2D996F3BA2D5BB46F4A32E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4FA99E5742DF7E873112045E38105B07)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D29F73B9AB3CD7EC27EBB4AB625FAFEF)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C0ED341D23E99E6DD533C9D26236EF3E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/01075C8BDD4B47D1853FB5F6726CC3ED)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F3200B90F336FD55BD8AACE372914FEE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E28BB8EB41B4EA73B9857EAF12C54427)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2AF6DADF53BD518F883DEA248CCD98F6)
+
+
+
+
+
+## 11/18/2019
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/12000/266e29c5a61e2bcd385875b1a8c76e5b/%28Wiley%20series%20in%20probability%20and%20statistics%29%20Peter%20Congdon%20-%20Bayesian%20statistical%20modelling-John%20Wiley%20%26%20Sons%20%282006%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1496000/4bf619a633b163cb1b1ca2c8528c34cf/%28Wiley%20Classics%20Library%29%20Erwin%20Kreyszig%20-%20Introductory%20Functional%20Analysis%20with%20Applications-Wiley%20%281989%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/2131000/d1cde13e047039bf6c0094daafde7bac/John%20H.%20Conway%20-%20On%20Numbers%20and%20Games-A%20K%20Peters_CRC%20Press_A.K.Peters%20%282001%29.djvu)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/244000/e9baeccc412617240824d51eee9dd061/L%20.S.%20Pontryagin%20-%20Foundations%20of%20Combinatorial%20Topology%20-Dover%20Publications%20%281999%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/10000/89c2010d0a3832b62f841f1dbcbeb918/%28Encyclopaedia%20of%20Mathematical%20Sciences%2017%29%20A.%20V.%20Arkhangel%E2%80%99ski%C7%90%2C%20V.%20V.%20Fedorchuk%20%28auth.%29%2C%20A.%20V.%20Arkhangel%E2%80%99skii%2C%20L.%20S.%20Pontryagin%20%28eds.%29%20-%20General%20Topology%20I_%20Basic%20Concepts%20and%20Constructions%20Dimensio.djvu)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/974000/f642e8f342c937a617b2a4dad9fbb650/%28Encyclopaedia%20of%20Mathematical%20Sciences%2017%29%20A.%20V.%20Arkhangel%E2%80%99ski%C7%90%2C%20V.%20V.%20Fedorchuk%20%28auth.%29%2C%20A.%20V.%20Arkhangel%E2%80%99skii%2C%20L.%20S.%20Pontryagin%20%28eds.%29%20-%20General%20Topology%20I_%20Basic%20Concepts%20and%20Constructions%20Dimensio.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1122000/b13275b49feffec994120ec586ea151d/Pontryagin%20L.S.%20-%20Ordinary%20Differential%20Equations-Addison%20Wesley%20%281962%29.djvu)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/291000/2af6dadf53bd518f883dea248ccd98f6/Kantorovich%20L.V.%2C%20Krylov%20V.I.%20-%20Approximate%20methods%20of%20higher%20analysis-Interscience%20%281964%29.djvu)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/291000/2af6dadf53bd518f883dea248ccd98f6/Kantorovich%20L.V.%2C%20Krylov%20V.I.%20-%20Approximate%20methods%20of%20higher%20analysis-Interscience%20%281964%29.djvu)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/2080000/18e862b93c247401185b0ef636d021a8/Friedman%2C%20Milton_%20Galbraith%2C%20John%20Kenneth_%20Haan%2C%20Peter%20de_%20Hayek%2C%20Friedrich%20August_%20Hayek%2C%20Friedrich%20August_%20Hirschmann%2C%20Otto_%20Hirschmann%2C%20Otto%20Heinrich_%20Keynes%2C%20John%20Maynard_%20Piketty%2C%20Thomas_%20Polanyi.pdf)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2B2E6A8AD858A11AEB2FB785F0534871)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C30C28951DE71428F22E3286DCA05A54)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B6B63783A5FE2EE0C6B47D251D618516)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2F7C4D1BB0DB98B0171B013DFB01B7AA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2F7C4D1BB0DB98B0171B013DFB01B7AA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5A0EC04BE756E2F98EC98CFA3978C60E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/8C597BD97CD950771F96F1ED78ED7E12)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/938D8F1EB048C5514AEB1ADB0C31CA9F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/81E20F590E367D19B44C9D72940390D0)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/20E31C32211CD9EB668625107B2307E3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/1A37F73D7210208F63ADA51DCDE8316E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/437E7732663267DFC6340BFB3AF59BBE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/975D6A86945150D116F7115AA881093F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5F75BEA5305CAE0D93E5A51F0212D7EC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C2A195ABAFF4F2D791C6D2CE89D2BE92)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C4182D8CF611466FF8AF75807E31E650)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DD82F66E6F22711CCD2252F360F68AF7)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/32632B17BED5BBAAF36DA5D52293A2C5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/22D209C4E8BA94F4CAB85B42B7B11E1A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/AFC4E43627C56002DE00D37115BDB74A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BA4274BC2382710955007589FA471BB6)
+
+
+
+
+
+
+
+
 ---
 
 
@@ -2311,54 +2433,6 @@ https://git.io/JeqDQ
 - [ ] [Library Genesis](https://libgen.is/search.php?req=A+New+Republic+book&column=series)
 
 - [ ] [Library Genesis](https://libgen.is/search.php?req=Derek+Chollet&column=author)
-
-- [ ] [Library Genesis: Derek Chollet, Samantha Power - The Unquiet American: Richard Holbrooke in the World](https://libgen.is/book/index.php?md5=7FACADD3C1BE0EDBDE443AF6CA65BAA2)
-
-- [ ] [Library Genesis: Harriet Beecher Stowe - A key to Uncle Tom's cabin; presenting the original facts and documents upon which the story is foun](https://libgen.is/book/index.php?md5=12BE90557E386837F63AB02D9E8E72D0)
-
-- [ ] [Library Genesis: Harriet Beecher Stowe - Harriet Beecher Stowe : Three Novels : Uncle Tom's Cabin Or, Life Among the Lowly; The Minister's Wooing; Oldtown Folks (Library of America)](https://libgen.is/book/index.php?md5=F1D4391C40071E613D3AAC52635128CE)
-
-- [ ] [Library Genesis: Harriet Beecher Stowe - Uncle Tom's Cabin: Or, Life Among the Lowly (The John Harvard Library)](https://libgen.is/book/index.php?md5=1D70DB46ADABCF3A30832624AD89E15E)
-
-- [ ] [Library Genesis: Harriet Beecher Stowe - Uncle Tom's Cabin: Young Folks' Edition (Volume 1)](https://libgen.is/book/index.php?md5=1F3A6D9AF795E16CB593AB69551B29DA)
-
-- [ ] [Library Genesis: Harriet Beecher Stowe, Christopher G. Diller - Uncle Tom's Cabin](https://libgen.is/book/index.php?md5=F81B6F6C75F4C67F164E8F9C1B41F1AC)
-
-- [ ] [Library Genesis: Roméo Dallaire, Samantha Power - Shake Hands with the Devil: The Failure of Humanity in Rwanda](https://libgen.is/book/index.php?md5=A873E1ADE3FF7718FBF81CD6526E20CF)
-
-- [ ] [Library Genesis: Samantha Power - A Problem From Hell: America and the Age of Genocide](https://libgen.is/book/index.php?md5=FBB0DBD68DA0D69934DF9570E8353576)
-
-
-
-
-# Math
-
-
-Library Genesis: Steven Roman - The Umbral Calculus (Pure and Applied Mathematics 111)
-http://libgen.is/book/index.php?md5=2E408DA22DA834A91D8267A467479304
-
-
-
-## 11/16/2019
-
-- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/6000/55cd0e5456ca45d533f58b7204ad71ac/A.%20N.%20Kolmogorov%2C%20S.%20V.%20Fomin%2C%20Richard%20A.%20Silverman%20-%20Introductory%20real%20analysis-Dover%20Publications%20%281975%29.djvu)
-
-- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1352000/225734f929e77cff11b0abb937304f66/Markushevich%2C%20Alekse%C4%AD%20Ivanovich_%20Silverman%2C%20Richard%20A.%20-%20Theory%20of%20Functions%20of%20a%20Complex%20Variable%20vol%20III-Prentice-Hall%20%281967%29.djvu)
-
-- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1352000/54b0c7a8c281dd9b99fe4a63227b5b28/Markushevich%2C%20Alekse%C4%AD%20Ivanovich_%20Silverman%2C%20Richard%20A.%20-%20Theory%20of%20Functions%20of%20a%20Complex%20Variable%20vol%20I-Prentice-Hall%20%281965%29.djvu)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/7A8AEB0EC33C0DCB9896A7C4FF8BE9F6)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/5B61377E481C3FCBDFE2BC4DDF149335)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/E2CD2E491B85F238649222D87484EDCA)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/C128F687376B2B79A7C54EA7B55AC61E)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/3B422900FF61B27E16F21458EEC16317)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/A7391CAE099907594BB1729C9F393699)
-
 http://libgen.is/book/index.php?md5=CDA90A212FEB51717DA89CFA120786DE
 
 Library Genesis: Dominique Fourdrinier, William E. Strawderman, Martin T. Wells - Shrinkage Estimation
@@ -2393,99 +2467,181 @@ http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=autho
 
 - [Library Genesis](http://libgen.is/search.php?&res=100&req=Adaptive+Computation+and+Machine+Learning&phrase=1&view=simple&column=series&sort=year&sortmode=DESC)
 
+- 
 
 
 
 
 
 
-## 11/17/2019
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/A62926E3E92D3196CF8E94B22ACB475F)
-
-- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/227000/a4e9a06ed4571b29aa1fd1c6fbdd0534/%28Wiley%20Finance%29%20Chandan%20Sengupta%20-%20Financial%20Modeling%20Using%20Excel%20and%20VBA%20%28Wiley%20Finance%29-Wiley%20%282004%29.pdf)
-
-- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/292000/5b4fb4e76f3f5336c154b9e0968355f6/%28Wiley%20Finance%29%20William%20Preinitz%20-%20A%20Fast%20Track%20To%20Structured%20Finance%20Modeling%2C%20Monitoring%20and%20Valuation_%20Jump%20Start%20VBA-Wiley%20%282009%29.pdf)
-
-- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/397000/4eaccaaa0110c221f586d1cda9ec5895/E.%20T.%20Whittaker%2C%20G.%20N.%20Watson%20-%20A%20Course%20of%20Modern%20Analysis-Merchant%20Books%20%282008%29.djvu)
-
-- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/D99523546A040CA0AFE138488D26C39E)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/E673791895554FC5948B1BE4F6E211F5)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/74F9E4CC56A8E45AF1170DDCDD042230)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/58D254656982C9E99EA08DE0786EA5CD)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/FFFF47D20CC91322C00EE07433ACD04D)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/3EAD3BE21D964A7EA33C692B981FE6AD)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/244AC032ACC35E50429E81209AA6DD9F)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/30431A066053D40FBB8BD5E405A0662D)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/30431A066053D40FBB8BD5E405A0662D)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/2EED95916C8685FDAA1ED95C4B8EC751)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/26774AB4EA4A02CF0E2314835C379029)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/5721A27B283A086D984356A20B212E1C)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/53A5E71FC64385E4887810838BDD757A)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/C9D124B94382FA0E88E487C4CC537180)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/3CA18B43BD538B026C90D25EF854239C)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/2370E2006937AD96889B693F387AE0FE)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/37B1A2BB2995543FDF96D87C3424130D)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/832F431436E5B2C704092EE08F1B0C47)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/BF366D2DDB6FA4958901B5A044447EC5)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/E16B0D0DE5D79C4CC40040E100AA3592)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/25B8277C1AEBA07A976370541235A86A)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/5904A50FC432F8728CAD51209CE49018)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/96BED4CB68D2875633735AEA83D43E74)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/E96D8F47B0A3F6629AC45BA133D73EF6)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/780FE50ACC9D8B976B10A1E1F31E6B72)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/60021A17C268E145360EAD8D0CA9F976)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/98CEF04354CB47E2B1C868621E701BBA)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/82F990CF8B6C32ADD231CD7D52534331)
-
-- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/833000/eb24c7970bb90c54186dc5e9b7146346/%28Philosophical%20Transactions%20of%20the%20Royal%20Society%20A%20363_1835%29%20Alan%20Bundy%2C%20Michael%20Atiyah%2C%20Angus%20Macintyre%2C%20Donald%20MacKenzie%20%28Editors%29%20-%20The%20Nature%20of%20Mathematical%20Proof-The%20Royal%20Society%20%282005%29.pdf)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/B8BF695C1EACC6C99734FEA84A41E811)
-
-- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/79000/079a5b4458dbd4456290e520826b9a3e/Abraham%20Pais%2C%20Maurice%20Jacob%2C%20David%20I.%20Olive%2C%20Michael%20F.%20Atiyah%20-%20Paul%20Dirac.%20The%20Man%20and%20His%20Work-Cambridge%20University%20Press%20%281998%29.pdf)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/E261F29D1D22AD5DD132C9E9CFC7AFC5)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/E06B14991E29C68B3CCD1C03B050E5CD)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/7CCEE86ECD49A49BCCD2A3C0CE90B9A2)
-
-- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/4963020BEDE46E2914BEE33439FD82A5)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/F9739EF56C69118AA99132A7EF2098F1)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/E9FD47ECA520ED4D29FB72BD56E3925C)
-
-- [ ] [Library Genesis](http://93.174.95.29/_ads/528B71FC9AE365FF53C42431AAFDA412)
 
 
 
 
 
+
+
+
+
+
+
+
+# Japanese
+
+## 11/18/2019
+
+- [ ] [500 Internal Privoxy Error](http://libgen.is/book/index.php?md5=A69533DCA5CB1C700F3B889DCD1BD22E)
+
+- [ ] [500 Internal Privoxy Error](http://libgen.is/search.php?&res=100&req=serre+trees&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
+
+- [ ] [503 Service Temporarily Unavailable](http://libgen.is/book/index.php?md5=CB4A52C08DCBA153A943F1BA15E35722)
+
+- [ ] [503 Service Temporarily Unavailable](http://libgen.is/search.php?req=%E5%BF%9C%E7%94%A8%E6%95%B0%E5%AD%A6%E5%8F%A2%E6%9B%B8&column=series)
+
+- [ ] [libgen.is/book/index.php?md5=D59D2B3A6F0A9A555F1337F1B14E537E](http://libgen.is/book/index.php?md5=D59D2B3A6F0A9A555F1337F1B14E537E)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E5%AE%AE%E5%B4%8E%E5%B8%82%E5%AE%9A%E5%85%A8%E9%9B%86&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E5%AE%AE%E5%B4%8E%E5%B8%82%E5%AE%9A%2FMiyazaki+Ichisada&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E7%90%86%E5%B7%A5%E7%B3%BB%E6%95%B0%E5%AD%A6%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88+8&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E7%90%86%E5%B7%A5%E7%B3%BB%E6%95%B0%E5%AD%A6%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88+8&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E8%90%BD%E5%90%88%E7%90%86%20/%20Tadashi%20Ochiai&column[]=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E5%B2%A9%E6%B3%A2%E6%95%B0%E5%AD%A6%E5%8F%A2%E6%9B%B8+%2F+Iwanami+Studies+in+Advanced+Mathematics&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Steven+Kalikow&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+Randall+McCutcheon&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+Randall+McCutcheon&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Audrey+Terras&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Textbooks+in+Mathematics&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E5%B2%A9%E6%B3%A2%E8%AC%9B%E5%BA%A7%E3%83%BB%E6%97%A5%E6%9C%AC%E6%AD%B4%E5%8F%B2&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E5%B2%A9%E6%B3%A2%E8%AC%9B%E5%BA%A7%E3%83%BB%E6%97%A5%E6%9C%AC%E6%AD%B4%E5%8F%B2&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8F%BE%E4%BB%A3%E5%8F%B2&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E8%A5%BF%E6%9D%91%E6%88%90%E9%9B%84/Nishimura%20Shigeo&column[]=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E5%B2%A9%E6%B3%A2%E8%AC%9B%E5%BA%A7%E3%83%BB%E6%97%A5%E6%9C%AC%E6%AD%B4%E5%8F%B2&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E5%B2%A9%E6%B3%A2%E8%AC%9B%E5%BA%A7%E3%83%BB%E6%97%A5%E6%9C%AC%E6%AD%B4%E5%8F%B2&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E5%A4%A7%E6%B4%A5%E9%80%8F%E3%80%80%E3%81%AA%E3%81%A9&column[]=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E6%B7%B1%E4%BA%95%E9%9B%85%E6%B5%B7%E3%80%80%E3%81%AA%E3%81%A9&column[]=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E5%B2%A9%E6%B3%A2%E8%AC%9B%E5%BA%A7%E3%83%BB%E7%8F%BE%E4%BB%A3%E6%95%B0%E5%AD%A6%E3%81%AE%E5%B1%95%E9%96%8B+18&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Mikio+Furuta&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+%E5%8F%A4%E7%94%B0%E5%B9%B9%E9%9B%84&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E5%B2%A9%E6%B3%A2%E7%8F%BE%E4%BB%A3%E6%96%87%E5%BA%AB%E3%80%90%E5%AD%A6%E8%A1%93%E3%80%91&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8F%BE%E4%BB%A3%E5%8F%B2&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8F%BE%E4%BB%A3%E5%8F%B2&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8F%BE%E4%BB%A3%E5%8F%B2&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E8%A5%BF%E5%B6%8B%E5%AE%9A%E7%94%9F&column[]=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E8%A5%BF%E5%B6%8B%E5%AE%9A%E7%94%9F%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E5%8F%B2%E8%AB%96%E9%9B%86&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=%E7%9F%B3%E5%B7%9D%E7%A6%8E%E6%B5%A9%2FIshikawa+Yoshihiro&column=author)
+
+- [ ] [Library Genesis: Audrey Terras - Zeta Functions of Graphs: A Stroll through the Garden](http://libgen.is/book/index.php?md5=7324780F150689964FD99777E6A865D3)
+
+- [ ] [Library Genesis: Christian Peskine - An Algebraic Introduction to Complex Projective Geometry: Commutative Algebra](http://libgen.is/book/index.php?md5=8F0F0CA9D7EA85E79162F438551977C7)
+
+- [ ] [Library Genesis: coll. - 岩波哲学·思想事典](http://libgen.is/book/index.php?md5=4F133692778145BB55099A40D2253E94)
+
+- [ ] [Library Genesis: Edson de Faria, Welington de Melo - Mathematical Aspects of Quantum Field Theory](http://libgen.is/book/index.php?md5=AB4C643CD95609828AAB47F5642A059D)
+
+- [ ] [Library Genesis: Garrett, Paul B - Modern analysis of automorphic forms by example, vol.1,2](http://libgen.is/book/index.php?md5=DD82F66E6F22711CCD2252F360F68AF7)
+
+- [ ] [Library Genesis: Gerald B. Folland - A Course in Abstract Harmonic Analysis](http://libgen.is/book/index.php?md5=FD1737891C4AEED6C4C48410E4FC0A6F)
+
+- [ ] [Library Genesis: Gerald B. Folland - A Course in Abstract Harmonic Analysis](http://libgen.is/book/index.php?md5=C8396F44DDEFF62B24368E30BF95D26E)
+
+- [ ] [Library Genesis: Gerald B. Folland - A Course in Abstract Harmonic Analysis](http://libgen.is/book/index.php?md5=C8396F44DDEFF62B24368E30BF95D26E)
+
+- [ ] [Library Genesis: Gerald B. Folland - A Course in Abstract Harmonic Analysis](http://libgen.is/book/index.php?md5=FD1737891C4AEED6C4C48410E4FC0A6F)
+
+- [ ] [Library Genesis: Gerald B. Folland - Advanced Calculus](http://libgen.is/book/index.php?md5=3DF61CB1BB98B9C25AEB7873AE5316E1)
+
+- [ ] [Library Genesis: Gregory F. Lawler, Vlada Limic - Random walk: A modern introduction](http://libgen.is/book/index.php?md5=C8735CD5905A56B4A241FE99877700E5)
+
+- [ ] [Library Genesis: Mikio Furuta, 古田幹雄 - 指数定理2 (a sequel to "Index Theorem. 1"(Translations of Mathematical Monographs 235), not translated into English)](http://libgen.is/book/index.php?md5=1230ADC306A57392F37B7F6D0FF2AC55)
+
+- [ ] [Library Genesis: Mikio Furuta, 古田幹雄 - 指数定理2 (a sequel to "Index Theorem. 1"(Translations of Mathematical Monographs 235), not translated into English)](http://libgen.is/book/index.php?md5=B7E26AFF29AA72FD59D3ED657B4E241A)
+
+- [ ] [Library Genesis: Steven Kalikow, Randall McCutcheon - An Outline of Ergodic Theory](http://libgen.is/book/index.php?md5=CE2B9291A80C673E28FDF70AE12159D1)
+
+- [ ] [Library Genesis: Steven Kalikow, Randall McCutcheon - An outline of ergodic theory](http://libgen.is/book/index.php?md5=620F246ADD71909C5EEF59F6B9A48034)
+
+- [ ] [Library Genesis: Tom Leinster - Basic Category Theory](http://libgen.is/book/index.php?md5=F91BBCE86F0DAFF3DD222D622186EF74)
+
+- [ ] [Library Genesis: Tom Leinster - Basic Category Theory](http://libgen.is/book/index.php?md5=A40631908DFFF851350E18D783DB1885)
+
+- [ ] [Library Genesis: Tom Leinster - Basic Category Theory](http://libgen.is/book/index.php?md5=A40631908DFFF851350E18D783DB1885)
+
+- [ ] [Library Genesis: Vaananen J. - Models and games](http://libgen.is/book/index.php?md5=DF59E3839D4FB2F95FB544DB43E9FDBB)
+
+- [ ] [Library Genesis: Vaananen J. - Models and games](http://libgen.is/book/index.php?md5=DF59E3839D4FB2F95FB544DB43E9FDBB)
+
+- [ ] [Library Genesis: 久保亨/Kubo Tooru - 社会主義への挑戦：1945-1971/Shakaishugi heno Chousen: 1945-1971](http://libgen.is/book/index.php?md5=EC87E424C40091E3B4BEBB003B16B140)
+
+- [ ] [Library Genesis: 今井宇三郎(訳注) - 菜根譚](http://libgen.is/book/index.php?md5=39AD5EF2FFCD05CB405D45DED4DC5003)
+
+- [ ] [Library Genesis: 南 博 - 日本人の心理 (岩波新書 青版)](http://libgen.is/book/index.php?md5=A5028F5C408F1B0B4239C0B5AF1C0E5A)
+
+- [ ] [Library Genesis: 南博 - 日本人の心理](http://libgen.is/book/index.php?md5=F2FDBAF891A4510ABD9AF9F0DAC6FD09)
+
+- [ ] [Library Genesis: 南博 - 日本人の心理](http://libgen.is/book/index.php?md5=F2FDBAF891A4510ABD9AF9F0DAC6FD09)
+
+- [ ] [Library Genesis: 吉澤誠一郎/Yoshizawa Seiichirou - 清朝と近代世界：19世紀/Shinchou to Kindai Sekai: 19 Seiki](http://libgen.is/book/index.php?md5=A94DD6B070C4408FBDBEF84FDDF61DF3)
+
+- [ ] [Library Genesis: 坂元ひろ子/Sakamoto Hiroko - 中国民族主義の神話：人種・身体・ジェンダー/Chūgoku Minzokushugi no Shinwa: Jinshu Shintai Gender](http://libgen.is/book/index.php?md5=674DC710BA7DA43709866C52B97ACC90)
+
+- [ ] [Library Genesis: 天児慧/Amako Satoshi - 中国政治の社会態制/Chūgoku Seiji no Shakai Taisei](http://libgen.is/book/index.php?md5=B4963431DF0B9374DEF3A4D06D045768)
+
+- [ ] [Library Genesis: 子安宣邦 - 日本近代思想批判：一国知の成立](http://libgen.is/book/index.php?md5=B385CE5B9AF52169AA9667591CA7F97D)
+
+- [ ] [Library Genesis: 宮崎市定/Miyazaki Ichisada - 宮崎市定全集1：中国史/Miyazaki Ichisada Zenshū: Chūgokushi](http://libgen.is/book/index.php?md5=4A71F7CDCA3B8759F9B21560D1ACE74E)
+
+- [ ] [Library Genesis: 家永三郎 - 日本文化史〔第2版〕](http://libgen.is/book/index.php?md5=B4285BE4DE0E6C02C85472D9B4C0FACA)
+
+- [ ] [Library Genesis: 山内恭彦 - 回転群とその表現](http://libgen.is/book/index.php?md5=BA4274BC2382710955007589FA471BB6)
+
+- [ ] [Library Genesis: 川島真/Kawashima Shin - 近代国家への模索：1894-1925/Kindai Kokka heno Mosaku: 1894-1925](http://libgen.is/book/index.php?md5=B683170E8CF72EDA6AC52388385FE57D)
+
+- [ ] [Library Genesis: 李成市　など - 第20巻：地域論〈テーマ1〉](http://libgen.is/book/index.php?md5=F39875B4011EE9DA80DBACF68515D6C4)
+
+- [ ] [Library Genesis: 李成市　など - 第22巻：歴史学の現在〈テーマ3〉](http://libgen.is/book/index.php?md5=1FAF6E4C7C80EEBBE1B427ED47BEC474)
+
+- [ ] [Library Genesis: 梁成吉 - キーポイント行列と変換群](http://libgen.is/book/index.php?md5=D7E6F24D92C28FDEF0A375AAF0D6CDD5)
+
+- [ ] [Library Genesis: 石川禎浩/Ishikawa Yoshihiro - 中国共産党成立史/Chūgoku Kyōsantō Seiritsushi](http://libgen.is/book/index.php?md5=C9295D7FB40EEB7C58C2FDF8F2B5CCAB)
+
+- [ ] [Library Genesis: 石川禎浩/Ishikawa Yoshihiro - 革命とナショナリズム：1925‐1945/Kakumei to Nationalism: 1925-1945](http://libgen.is/book/index.php?md5=717A24CF18530CCD96AC2CC7B037D9B2)
+
+- [ ] [Library Genesis: 石川禎浩/Ishikawa Yoshihiro - 革命とナショナリズム：1925‐1945/Kakumei to Nationalism: 1925-1945](http://libgen.is/book/index.php?md5=717A24CF18530CCD96AC2CC7B037D9B2)
+
+- [ ] [Library Genesis: 西嶋定生 - 中国古代帝国の秩序構造と農業](http://libgen.is/book/index.php?md5=B0BFA402086B73DEF6408191DE640265)
+
+- [ ] [Library Genesis: 西村成雄/Nishimura Shigeo - 中国の近現代史をどう見るか/Chūgoku no Kingendaishi wo dou Miru ka](http://libgen.is/book/index.php?md5=DA21BA2EB8483A35C902DAC01131944C)
+
+- [ ] [Library Genesis: 遠山茂樹/Tooyama Shigeki - 戦後の歴史学と歴史意識/Sengo no Rekishigaku to Rekishi Ishiki](http://libgen.is/book/index.php?md5=250D515F7F5E0AD8643BBA110B52A72C)
+
+- [ ] [Library Genesis: 高原明生,前田宏子/Takahara Akio,Maeda Hiroko - 開発主義の時代へ：1972‐2014/Kaihatsu Shugi no Jidai he: 1972-2014](http://libgen.is/book/index.php?md5=8D69FA7C97E2487E43D13AB34A9B286E)
+
+- [ ] [Library Genesis: 黒川信重 - 絶対ゼータ関数論](http://libgen.is/book/index.php?md5=3EDBF05FD7E1E78F1E94C09AD5E0A9D7)
