@@ -2694,3 +2694,145 @@ http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=autho
 - [ ] [Walter Isaacson Great Innovators e-book boxed set: Steve Jobs, Benjamin ... - Walter Isaacson - Google Books](https://books.google.com/books?id=cf_2PBPP-rEC&pg=PT654&lpg=PT654&dq=The+architects+wanted+the+windows+to+open.+Jobs+said+no.+He+%E2%80%9Chad+never+liked+the+idea+of+people+being+able+to+open+things.+%E2%80%98That+would+just+allow+people+to+screw+things+up.%E2%80%99+%E2%80%9D&source=bl&ots=pPNmnR3C4m&sig=ACfU3U2hP1m0YLidfq8BJqwstPHqg9h-pA&hl=en&sa=X&ved=2ahUKEwikga-drvHlAhW1NKYKHTiwBEMQ6AEwA3oECBgQAQ#v=onepage&q=The%20architects%20wanted%20the%20windows%20to%20open.%20Jobs%20said%20no.%20He%20%E2%80%9Chad%20never%20liked%20the%20idea%20of%20people%20being%20able%20to%20open%20things.%20%E2%80%98That%20would%20just%20allow%20people%20to%20screw%20things%20up.%E2%80%99%20%E2%80%9D&f=false)
 
 - [ ] [Walter Isaacson Great Innovators e-book boxed set: Steve Jobs, Benjamin ... - Walter Isaacson - Google Books](https://books.google.com/books?id=cf_2PBPP-rEC&pg=PT654&lpg=PT654&dq=The+architects+wanted+the+windows+to+open.+Jobs+said+no.+He+%E2%80%9Chad+never+liked+the+idea+of+people+being+able+to+open+things.+%E2%80%98That+would+just+allow+people+to+screw+things+up.%E2%80%99+%E2%80%9D&source=bl&ots=pPNmnR3C4m&sig=ACfU3U2hP1m0YLidfq8BJqwstPHqg9h-pA&hl=en&sa=X&ved=2ahUKEwikga-drvHlAhW1NKYKHTiwBEMQ6AEwA3oECBgQAQ#v=onepage&q=The%20architects%20wanted%20the%20windows%20to%20open.%20Jobs%20said%20no.%20He%20%E2%80%9Chad%20never%20liked%20the%20idea%20of%20people%20being%20able%20to%20open%20things.%20%E2%80%98That%20would%20just%20allow%20people%20to%20screw%20things%20up.%E2%80%99%20%E2%80%9D&f=false)
+
+
+
+
+# Bayes Brain
+
+
+
+
+## 11/20/2019
+
+- [ ] [libgen.is/book/index.php?md5=3D05D73759A498456E4D6C57AD1077AE](http://libgen.is/book/index.php?md5=3D05D73759A498456E4D6C57AD1077AE)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Introduction+to+probability+and+statistics+%3A+from+a+bayesian+viewpoint+%2F+by+D.+V.+Lindley+%3B+Pt.+1&column=series)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=George+E.+P.+Box&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+George+C.+Tiao&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Irving+John+Good&column=author)
+
+- [ ] [Library Genesis: - Работа магистра наук - Lee K.S. Quantifying the main battle tank's architectural trade space using Bayesian belief network](http://libgen.is/book/index.php?md5=D7F30A7FDB74B12301AD7684F40C0711)
+
+- [ ] [Library Genesis: Adriano Polpo, Julio Stern, Francisco Louzada, Rafael Izbicki, Hellinton Takada - Bayesian Inference and Maximum Entropy Methods in Science and Engineering](http://libgen.is/book/index.php?md5=CEE4CB374758157F0AB688A28DE0E59A)
+
+- [ ] [Library Genesis: Alan Jessop - Let the Evidence Speak: Using Bayesian Thinking in Law, Medicine, Ecology and Other Areas](http://libgen.is/book/index.php?md5=81BF667FD34D845219AF41415D045ECE)
+
+- [ ] [Library Genesis: Alan Jessop - Let the Evidence Speak: Using Bayesian Thinking in Law, Medicine, Ecology and Other Areas](http://libgen.is/book/index.php?md5=6041660F3D3EAA82BD6855DACDB9E4DF)
+
+- [ ] [Library Genesis: Arkady Shemyakin, Alexander Kniazev - Introduction to Bayesian Estimation and Copula Models of Dependence](http://libgen.is/book/index.php?md5=51844591BA8CBA77AC285BCC77D8EA4C)
+
+- [ ] [Library Genesis: Bauwens L., Lubrano M. - Bayesian inference on GARCH models using the Gibbs sampler](http://libgen.is/book/index.php?md5=A54D7EFDBAB4952BC0D3C6607386038E)
+
+- [ ] [Library Genesis: Broemeling, Lyle D - Bayesian analysis of time series](http://libgen.is/book/index.php?md5=ECE93A276F011339A69D824C62DB723E)
+
+- [ ] [Library Genesis: Christian P. Robert - The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation](http://libgen.is/book/index.php?md5=8AEA3ED2A08F9CAA0D58873CE3A6A45B)
+
+- [ ] [Library Genesis: D V Lindley - Bayesian statistics, a review](http://libgen.is/book/index.php?md5=2DA81A1D4D974B428DABDB14C7C83485)
+
+- [ ] [Library Genesis: D. V. Lindley - Bayesian statistics: a review](http://libgen.is/book/index.php?md5=EDFA7B63C5C7A9701EB87C2BF2E87323)
+
+- [ ] [Library Genesis: D. V. Lindley - Introduction to probability and statistics from a Bayesian viewpoint, - Inference](http://libgen.is/book/index.php?md5=8F66BC41F18140868C5D5E3DEF127291)
+
+- [ ] [Library Genesis: D. V. Lindley - Introduction to Probability and Statistics from a Bayesian Viewpoint, Part 2, Inference (Pt. 2)](http://libgen.is/book/index.php?md5=FE7B995461F2E704C3143DAD84139714)
+
+- [ ] [Library Genesis: D. V. Lindley : from a bayesian viewpoint / by D. V. Lindley; Lindley, D. V - Introduction to Probability and Statistics from a Bayesian Viewpoint, Part 1: Probability](http://libgen.is/book/index.php?md5=624DDDF7FEB20174D6B430168F96D6D7)
+
+- [ ] [Library Genesis: D. V. Lindley : from a bayesian viewpoint / by D. V. Lindley; Lindley, D. V - Introduction to Probability and Statistics from a Bayesian Viewpoint, Part 1: Probability](http://libgen.is/book/index.php?md5=624DDDF7FEB20174D6B430168F96D6D7)
+
+- [ ] [Library Genesis: D. V. Lindley (auth.), M. Di Bacco, G. D’Amore, F. Scalfari (eds.) - Applied Bayesian Statistical Studies in Biology and Medicine](http://libgen.is/book/index.php?md5=CC095871E94FCE825C5D6C0C27AE79BF)
+
+- [ ] [Library Genesis: Dani Gamerman - Markov chain Monte Carlo : stochastic simulation for Bayesian inference](http://libgen.is/book/index.php?md5=84B08D7DB8E96EFFB1EFDA564161C2BB)
+
+- [ ] [Library Genesis: Dani Gamerman, Hedibert Freitas Lopes - Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference](http://libgen.is/book/index.php?md5=D06742AB322B1CE8F32CB34DC6A075E6)
+
+- [ ] [Library Genesis: Davidson-Pilon Cameron. - Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference](http://libgen.is/book/index.php?md5=EFA69D357D4A7A971A8FC850F47753EB)
+
+- [ ] [Library Genesis: Dipak K. Dey, Sujit K. Ghosh, Bani K. Mallick - Generalized Linear Models: A Bayesian Perspective](http://libgen.is/book/index.php?md5=594795E393E8EB8FC87D31CCCAA5FECE)
+
+- [ ] [Library Genesis: E. T. Jaynes (auth.), Paul F. Fougère (eds.) - Maximum Entropy and Bayesian Methods](http://libgen.is/book/index.php?md5=582A0268D48C72296E9DAAAE7C593CEA)
+
+- [ ] [Library Genesis: Edited by: Ahmed Rebai - Bayesian Network](http://libgen.is/book/index.php?md5=52E21E878C7FB23611BD18024B28BA46)
+
+- [ ] [Library Genesis: Edward P. Herbst, Frank Schorfheide - Bayesian Estimation of DSGE Models](http://libgen.is/book/index.php?md5=1859CA590B20E4ACEC470EA7A376A6FA)
+
+- [ ] [Library Genesis: Fenton, Norman E.; Neil, Martin D - Risk assessment and decision analysis with Bayesian networks](http://libgen.is/book/index.php?md5=FCEE19C0BAD8E048EB1BB0D410427ED0)
+
+- [ ] [Library Genesis: Fenton, Norman; Neil, Martin - Risk assessment and decision analysis with Bayesian networks](http://libgen.is/book/index.php?md5=B4FBF0C40207A29DFBB9FD82FE3D4DE2)
+
+- [ ] [Library Genesis: Fenton, Norman; Neil, Martin - Risk assessment and decision analysis with Bayesian networks](http://libgen.is/book/index.php?md5=B4FBF0C40207A29DFBB9FD82FE3D4DE2)
+
+- [ ] [Library Genesis: Florens, Jean-Pierre; Mouchart, Micher; Rolin, Jean-Marie - Elements of Bayesian Statistics](http://libgen.is/book/index.php?md5=1D0C5DA0FF20DCEC301E774828A684C6)
+
+- [ ] [Library Genesis: George E. P. Box, George C. Tiao - Bayesian Inference in Statistical Analysis (Wiley Classics Library)](http://libgen.is/book/index.php?md5=0BDD2D1203896822B7AA162AA875A948)
+
+- [ ] [Library Genesis: Ghosh, Sujit K.; Reich, Brian James - Bayesian statistical methods](http://libgen.is/book/index.php?md5=E73E79290D8A75000A1086B07B85D0B6)
+
+- [ ] [Library Genesis: Gianluca Baio - Bayesian methods in health economics](http://libgen.is/book/index.php?md5=94568F08B34137551420DAFFD52BCED4)
+
+- [ ] [Library Genesis: Gianluca Baio, Andrea Berardi, Anna Heath - Bayesian Cost-Effectiveness Analysis with the R package BCEA](http://libgen.is/book/index.php?md5=3FDF2AB78F19F7D61E4F71D9445AD37A)
+
+- [ ] [Library Genesis: Gianluca Baio, Andrea Berardi, Anna Heath (auth.) - Bayesian Cost-Effectiveness Analysis with the R package BCEA](http://libgen.is/book/index.php?md5=14D4095AE30D8775A451A29022219A11)
+
+- [ ] [Library Genesis: Guangyuan Gao - Bayesian Claims Reserving Methods in Non-life Insurance with Stan: An Introduction](http://libgen.is/book/index.php?md5=1FB105FEAF4ECB00CB548E57BA9CAE66)
+
+- [ ] [Library Genesis: Joseph M. Hilbe, Rafael S. de Souza, Emille E. O. Ishida - Bayesian Models for Astrophysical Data: Using R, JAGS, Python, and Stan](http://libgen.is/book/index.php?md5=589A240747DD03DD7D20B7C2D144E941)
+
+- [ ] [Library Genesis: Kevin Patrick Murphy - Dynamic Bayesian Networks Representation, Inference And Learning](http://libgen.is/book/index.php?md5=2E0F46990A203379F5C1949E8E5F5F58)
+
+- [ ] [Library Genesis: Lambert, Ben - A student’s guide to Bayesian statistics](http://libgen.is/book/index.php?md5=F94261BEAA8FDC23BDB3472EE0A82C49)
+
+- [ ] [Library Genesis: Lukas Heim (auth.) - Inflation versus Price-Level Targeting: Bayesian Estimation of a Small Open DSGE Model for Switzerland](http://libgen.is/book/index.php?md5=0D1E9D773A64EFB7D18A1CEDDB801EBD)
+
+- [ ] [Library Genesis: Lukas Heim (auth.) - Inflation versus Price-Level Targeting: Bayesian Estimation of a Small Open DSGE Model for Switzerland](http://libgen.is/book/index.php?md5=0D1E9D773A64EFB7D18A1CEDDB801EBD)
+
+- [ ] [Library Genesis: Lyle D Broemeling - Bayesian Inference for Stochastic Processes](http://libgen.is/book/index.php?md5=627030B0BC3ABD347148EAC4638CDDDF)
+
+- [ ] [Library Genesis: Lyle D. Broemeling - Bayesian Inference for Stochastic Processes](http://libgen.is/book/index.php?md5=7AA97C05DD69489C1B1AE40693A91397)
+
+- [ ] [Library Genesis: Mary Kathryn Cowles (auth.) - Applied Bayesian Statistics: With R and OpenBUGS Examples](http://libgen.is/book/index.php?md5=4CF7C5AC3922437BB63D7137AB1B3785)
+
+- [ ] [Library Genesis: Michael S. Hamada, Alyson G. Wilson, C. Shane Reese, Harry F. Martz (auth.) - Bayesian Reliability](http://libgen.is/book/index.php?md5=F7EC4BC756E67B4A739B2862FC38F93A)
+
+- [ ] [Library Genesis: Müller, Peter; Paulino, Carlos Daniel; Turkman, Maria Antónia Amaral - Computational Bayesian statistics : an introduction](http://libgen.is/book/index.php?md5=82D4C3B27161A3FD25570FF1B0DD744E)
+
+- [ ] [Library Genesis: Neapolitan R.E. - Learning Bayesian Networks](http://libgen.is/book/index.php?md5=09ECE45700E177091DA4620169345CA7)
+
+- [ ] [Library Genesis: Nyberg, Svein Olav - The Bayesian way: introductory statistics for economists and engineers](http://libgen.is/book/index.php?md5=3099975A4038392B3FBEC3F638336EEF)
+
+- [ ] [Library Genesis: Nyberg, Svein Olav - The Bayesian way: introductory statistics for economists and engineers](http://libgen.is/book/index.php?md5=3099975A4038392B3FBEC3F638336EEF)
+
+- [ ] [Library Genesis: Nyberg, Svein Olav - The Bayesian way: introductory statistics for economists and engineers](http://libgen.is/book/index.php?md5=3099975A4038392B3FBEC3F638336EEF)
+
+- [ ] [Library Genesis: Osvaldo Martin - Bayesian Analysis with Python](http://libgen.is/book/index.php?md5=738B26B39B2B4BD1A40DF32BB2ED1C37)
+
+- [ ] [Library Genesis: Osvaldo Martin - Bayesian Analysis with Python](http://libgen.is/book/index.php?md5=EAC0C18455B2DD4BC99BF58B980109A0)
+
+- [ ] [Library Genesis: Paul T. - Bayesian Methods for Estimating the Reliability in Complex Hierarchical Networks](http://libgen.is/book/index.php?md5=91C9A1526F48A94702788D959B15DD59)
+
+- [ ] [Library Genesis: Peter Congdon - Applied Bayesian Modelling](http://libgen.is/book/index.php?md5=E5169C0435FCA48E9E4B132E97486A36)
+
+- [ ] [Library Genesis: Philippe Weber, Christophe Simon - Benefits of Bayesian Network Models](http://libgen.is/book/index.php?md5=15CBD862A208E0EEBEAFEDD71F677204)
+
+- [ ] [Library Genesis: Pierre Bessiere, Emmanuel Mazer, Juan Manuel Ahuactzin, Kamel Mekhnacha - Bayesian Programming](http://libgen.is/book/index.php?md5=60336ED5C898463A4AE84E8B9A53509A)
+
+- [ ] [Library Genesis: Premchaiswadi W. (Ed.) - Bayesian Networks](http://libgen.is/book/index.php?md5=2F8F8491BD616F4F9347FE46C7CAB5FB)
+
+- [ ] [Library Genesis: Radford M. Neal - Bayesian Learning for Neural Networks](http://libgen.is/book/index.php?md5=58BA8BEC3814E17928237D806728E910)
+
+- [ ] [Library Genesis: Radford M. Neal (auth.) - Bayesian Learning for Neural Networks](http://libgen.is/book/index.php?md5=3984B8F0A8506202B254936822431A09)
+
+- [ ] [Library Genesis: Ruggeri F., Soyer R. - Advances in Bayesian Software Reliability Modelling](http://libgen.is/book/index.php?md5=BBBAFADF69064DE4E37B62C937C5C842)
+
+- [ ] [Library Genesis: Shay Cohen; Graeme Hirst - Bayesian Analysis in Natural Language Processing](http://libgen.is/book/index.php?md5=60AE7BB0A607863CDE6D4ADC898A0812)
+
+- [ ] [Library Genesis: Sumio Watanabe - Mathematical Theory of Bayesian Statistics](http://libgen.is/book/index.php?md5=7C571CBAA3BE75E3BC2C050E82269BAB)
+
+- [ ] [Library Genesis: Therese M Donovan; Ruth M Mickey - Bayesian Statistics for Beginners: A Step-By-Step Approach](http://libgen.is/book/index.php?md5=BD3E2C6F2FA2BE16F92F1BFF5805A5F8)
+
+- [ ] [Library Genesis: Walter A. Shewhart, Samuel S. Wilks(eds.) - Applied Bayesian Modeling and Causal Inference from Incomplete-Data Perspectives: An Essential Journey with Donald Rubin's Statistical Family](http://libgen.is/book/index.php?md5=6064754E49F21FD5542B0C591BDF7BB5)
+
+- [ ] [Library Genesis: Watanabe S. - Mathematical theory of Bayesian statistics](http://libgen.is/book/index.php?md5=C2219F8B1226F64AFBA5CC08B6B5568A)

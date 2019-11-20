@@ -465,3 +465,11 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwjZ0Z
 - [ ] [Subtitles and captions with ggplot2 v.2.2.0 | R-bloggers](https://www.r-bloggers.com/subtitles-and-captions-with-ggplot2-v-2-2-0/)
 
 - [ ] [Variable selection using Gibbs sampling | R-bloggers](https://www.r-bloggers.com/variable-selection-using-gibbs-sampling/)
+
+
+
+## 11/20/2019
+
+- [ ] [Census Data Project – Part 3: Predictive Analysis](https://rstudio-pubs-static.s3.amazonaws.com/265202_278cf395891a4f55be22a9ac7c0ac9c3.html)
+
+- [ ] [Stepwise, Lasso, and Elastic Net](https://rstudio-pubs-static.s3.amazonaws.com/300677_5d9e944cda714a78ba0dca229ae805eb.html)
