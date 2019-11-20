@@ -854,3 +854,48 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [r - Reporting from a likelihood ratio test - Cross Validated](https://stats.stackexchange.com/questions/86495/reporting-from-a-likelihood-ratio-test)
 
 - [ ] [R - Why does lrtest() not match anova(test="LRT") - Cross Validated](https://stats.stackexchange.com/questions/155474/r-why-does-lrtest-not-match-anovatest-lrt)
+
+
+
+
+
+## 11/20/2019
+
+- [ ] [(1) Newest 'group-theory' Questions - Mathematics Stack Exchange](https://math.stackexchange.com/questions/tagged/group-theory)
+
+- [ ] [abstract algebra - Combinatorial group theory books - Mathematics Stack Exchange](https://math.stackexchange.com/questions/974201/combinatorial-group-theory-books/974273#974273)
+
+- [ ] [abstract algebra - Kernel is a closed subgroup of a topological group - Mathematics Stack Exchange](https://math.stackexchange.com/questions/3137707/kernel-is-a-closed-subgroup-of-a-topological-group)
+
+- [ ] [general topology - Book Recommendations: Combinatorial Group Theory and Topological Prerequisites. - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2701192/book-recommendations-combinatorial-group-theory-and-topological-prerequisites)
+
+- [ ] [general topology - Topological groups, why need them? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/755707/topological-groups-why-need-them)
+
+- [ ] [Newest 'abstract-algebra' Questions - Mathematics Stack Exchange](https://math.stackexchange.com/questions/tagged/abstract-algebra)
+
+- [ ] [Newest 'book-recommendation' Questions - Mathematics Stack Exchange](https://math.stackexchange.com/questions/tagged/book-recommendation)
+
+- [ ] [Newest 'soft-question' Questions - Mathematics Stack Exchange](https://math.stackexchange.com/questions/tagged/soft-question)
+
+- [ ] [Suggestion for book on topological group and other topics. - Mathematics Stack Exchange](https://math.stackexchange.com/questions/3194410/suggestion-for-book-on-topological-group-and-other-topics)
+
+
+
+
+## 11/20/2019
+
+- [ ] [kernel smoothing - Density function of the mixture of two non-homogeneous Poisson processes - Cross Validated](https://stats.stackexchange.com/questions/133445/density-function-of-the-mixture-of-two-non-homogeneous-poisson-processes)
+
+- [ ] [MLE for a homogeneous Poisson process? - Cross Validated](https://stats.stackexchange.com/questions/360814/mle-for-a-homogeneous-poisson-process)
+
+- [ ] [Newest 'kernel-smoothing' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/kernel-smoothing)
+
+- [ ] [Newest 'mixture' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/mixture)
+
+- [ ] [Newest 'poisson-distribution' Questions - Cross Validated](https://stats.stackexchange.com/questions/tagged/poisson-distribution)
+
+- [ ] [Nonhomogeneous Poisson Process Derivation of Survival Function - Cross Validated](https://stats.stackexchange.com/questions/45472/nonhomogeneous-poisson-process-derivation-of-survival-function)
+
+- [ ] [self study - Intensity function in Poisson random effect model - Cross Validated](https://stats.stackexchange.com/questions/383142/intensity-function-in-poisson-random-effect-model)
+
+- [ ] [stochastic processes - Poisson Process Intensity Function - Cross Validated](https://stats.stackexchange.com/questions/310557/poisson-process-intensity-function)
