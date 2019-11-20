@@ -2974,3 +2974,237 @@ https://www.zhihu.com/question/341466774
 - [ ] [The Application of Statistical Analysis in the Biomedical Sciences | Drug Information: A Guide for Pharmacists, 5e | AccessPharmacy | McGraw-Hill Medical](https://accesspharmacy.mhmedical.com/content.aspx?bookid=981&sectionid=54480671)
 
 - [ ] [Facts and fallacies of the AIC | Rob J Hyndman](https://robjhyndman.com/hyndsight/aic/)
+
+
+
+
+
+
+
+## 11/20/2019
+
+- [ ] [An Introduction to the Theory of Point Processes | SpringerLink](https://link.springer.com/book/10.1007%2Fb97277)
+
+- [ ] [Past Earth Network - Homepage](https://www.pastearth.net/)
+
+- [ ] [Jochen Voss (seehuhn) | LibraryThing](https://www.librarything.com/profile/seehuhn)
+
+- [ ] [Updated solutions to Bayesian Data Analysis homeworks « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/2010/05/19/updated_solutio/)
+
+- [ ] [Exercises and solutions - Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/exercises)
+
+- [ ] [Doing Bayesian Data Analysis: Solutions to exercises now available to everyone](http://doingbayesiandataanalysis.blogspot.com/2012/06/solutions-to-exercises-now-available-to.html)
+
+- [ ] [Home page for the book, "Bayesian Data Analysis"](http://www.stat.columbia.edu/~gelman/book/)
+
+- [ ] [Bayesian Statistics « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/bayesian-statistics/)
+
+- [ ] [Data from the book, "Bayesian Data Analysis"](http://www.stat.columbia.edu/~gelman/book/data/)
+
+- [ ] [Sampling-Based Approaches to Calculating Marginal Densities: Journal of the American Statistical Association: Vol 85, No 410](https://www.tandfonline.com/doi/abs/10.1080/01621459.1990.10476213)
+
+- [ ] [500 Internal Privoxy Error](http://ccmbweb.ccv.brown.edu/gibbs/gibbs.html)
+
+- [ ] [Turing.jl - Turing.jl](https://turing.ml/dev/)
+
+- [ ] [Explaining the Gibbs Sampler on JSTOR](https://www.jstor.org/stable/2685208?seq=1#page_scan_tab_contents)
+
+- [ ] [Explaining the Gibbs Sampler on JSTOR](https://www.jstor.org/stable/2685208?origin=crossref&seq=1#page_scan_tab_contents)
+
+- [ ] [Elementary Topology: Problem Textbook](https://bookstore.ams.org/mbk-54)
+
+- [ ] [home page of Oleg Viro](http://www.pdmi.ras.ru/~olegviro/topoman/e-intro.html)
+
+- [ ] [Oleg Viro's home page](http://www.pdmi.ras.ru/~olegviro/topoman/index.html)
+
+- [ ] [Oleg Viro's home page](http://www.pdmi.ras.ru/~olegviro/introTRAV.html)
+
+- [ ] [2 A Real Algebraic Curve from the Complex Point of View](http://www.pdmi.ras.ru/~olegviro/es/2Real_Algebraic_Curve_from_.html)
+
+- [ ] [404 Not Found](http://www.pdmi.ras.ru/~olegviro/HilbProb.pdf)
+
+- [ ] [Patchworking Algebraic Curves Disproves the Ragsdale Conjecture](http://www.pdmi.ras.ru/~olegviro/iten-viH/index.html)
+
+- [ ] [MAT 519](http://www.math.stonybrook.edu/~oleg/mat519-spr11/)
+
+- [ ] [Oleg Viro's home page](http://www.pdmi.ras.ru/~olegviro/educ-texts.html)
+
+- [ ] [www.pdmi.ras.ru/~olegviro/skewlines/index.html](http://www.pdmi.ras.ru/~olegviro/skewlines/index.html)
+
+- [ ] [Martin Haugh's Web Page](http://www.columbia.edu/~mh2078/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [Markov Chain Monte Carlo - Nice R Code](https://nicercode.github.io/guides/mcmc/)
+
+- [ ] [Markov Chain Monte Carlo - Nice R Code](https://nicercode.github.io/guides/mcmc/)
+
+- [ ] [Using R for Bayesian Statistics — Bayesian Statistics 0.1 documentation](https://a-little-book-of-r-for-bayesian-statistics.readthedocs.io/en/latest/src/bayesianstats.html)
+
+- [ ] [The Poisson Distribution and Poisson Process Explained](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
+
+- [ ] [(54) How do you run stepwise regression with more than 150 predictors in R? - Quora](https://www.quora.com/How-do-you-run-stepwise-regression-with-more-than-150-predictors-in-R)
+
+- [ ] [Selecting the best-fitted regression model with stepwise regression - R for Data Science Cookbook](https://learning.oreilly.com/library/view/r-for-data/9781784390815/ch11s07.html)
+
+- [ ] [Faster stepwise selection for a large data set? | Statistics Help @ Talk Stats Forum](http://www.talkstats.com/threads/faster-stepwise-selection-for-a-large-data-set.52674/)
+
+- [ ] [R - Feature selection - Model Generation (Best Subset and Stepwise) [Gerardnico]](https://gerardnico.com/lang/r/feature_selection_model_generation)
+
+- [ ] [Stepwise Regression in R | Kaggle](https://www.kaggle.com/c/corsica-nhl-prediction-contest-round-i/discussion/39321)
+
+- [ ] [Why we hate stepwise regression « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/2014/06/02/hate-stepwise-regression/)
+
+- [ ] [Model Selection](http://r-statistics.co/Model-Selection-in-R.html)
+
+- [ ] [Stepwise Regression Essentials in R - Articles - STHDA](http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/154-stepwise-regression-essentials-in-r/)
+
+- [ ] [震惊了！每30秒学会一个Python小技巧，Github星数4600+](https://mp.weixin.qq.com/s?__biz=MzU1ODY4MDkzMQ==&mid=2247484521&idx=1&sn=72102a7a1e26536f4a44627b3542f1de&chksm=fc239a65cb541373917e20d9a0af143f4e5d3b0973df88ea31a2bb842745e43d5059c9a26013&mpshare=1&scene=1&srcid=&sharer_sharetime=1574153015746&sharer_shareid=3c2300b5f366415914c8c7c9fb528a8b&key=8788ba49d370a6daf491909006556f9003359bf9eae3674924c85a18beefa307187f6ce04b2b58e4efa94d58ab916d83babbc24160ea44c43e1753a85d1d20d98dbec2f51c26af038cd6339b7d531289&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Simple Examples of Metropolis--Hastings Algorithm](https://stephens999.github.io/fiveMinuteStats/MH-examples1.html)
+
+- [ ] [topological group in nLab](https://ncatlab.org/nlab/show/topological+group)
+
+- [ ] [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
+
+- [ ] [AI and Compute](https://openai.com/blog/ai-and-compute/)
+
+- [ ] [The TensorFlow Blog: [Updated] BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://blog.tensorflow.org/2019/11/updated-bodypix-2.html)
+
+- [ ] [R Simple, Multiple Linear and Stepwise Regression [with Example]](https://www.guru99.com/r-simple-multiple-linear-regression.html)
+
+- [ ] [OR in an OB World: Stepwise Regression in R](https://orinanobworld.blogspot.com/2011/02/stepwise-regression-in-r.html)
+
+- [ ] [Stopping stepwise: Why stepwise selection is bad and what you should use instead](https://towardsdatascience.com/stopping-stepwise-why-stepwise-selection-is-bad-and-what-you-should-use-instead-90818b3f52df)
+
+- [ ] [Stepwise regression - Wikipedia](https://en.m.wikipedia.org/wiki/Stepwise_regression)
+
+- [ ] [Quantitative Trading: Guo, Lai, Shek and Wong | Quantitative Trading: Guo, Lai, Shek and Wong](http://quantstratbook.net/)
+
+- [ ] [Data for Exercises | Quantitative Trading: Guo, Lai, Shek and Wong](http://quantstratbook.net/home/data-for-exercises/)
+
+- [ ] [Tze Lai Online](http://statweb.stanford.edu/~ckirby/lai/talks)
+
+- [ ] [Stanford University Explore Courses](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=STATS240)
+
+- [ ] [Stanford University Explore Courses](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=STATS243)
+
+- [ ] [Stanford University Explore Courses](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=STATS244)
+
+- [ ] [Sequential Analysis – Further Developments Updated with a Focus on Biomedical, Economic, and Engineering Applications - Lai - - Major Reference Works - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118445112.stat04981.pub2)
+
+- [ ] [《 百度大脑AI技术成果白皮书》，介绍百度大脑5.0，附48页PDF下载](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486566&idx=3&sn=f2a4540eda25d7d7820976458283209f&chksm=fbfe56f0cc89dfe6f52701ac8f9c080b9fe8a341b71a94be39a8dcb257ea56d73f1e53fb4c90&scene=0&xtrack=1&key=099d46c4ef7679f9d9943300ee3a95108629b4b1b1348d303d909e162d5cf0f49cc3630ea1e76913066f93dd228268190e70ab1a90109917bd6a5570c957c04b73a7ccd69950697901deab7b73d0943a&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Verify](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247490584&idx=3&sn=3fad6c6980ef63012d76a071930f017b&chksm=ebb424ccdcc3adda2828bf9ceef6289b4e603c5b4056581a23deb95e51f5f903260708982f7c&scene=0&xtrack=1&key=82d8b6122932ee2c2e93356ac521932e0d089357e3f955c2fb2966a673e31397a2b74478ae60f3623a979c83959a2ffd36950a2b907f28f3fbb5be523710d85bbe3157a6a18e19c8207ddcef3439dfab&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Verify](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247490584&idx=3&sn=3fad6c6980ef63012d76a071930f017b&chksm=ebb424ccdcc3adda2828bf9ceef6289b4e603c5b4056581a23deb95e51f5f903260708982f7c&scene=0&xtrack=1&key=099d46c4ef7679f90d09732401f2a66e78d2a44d57f7d8e0933d584d420130c0d4861d7a17fc5be7f14ffc0379e532494ff6ddd46efb267beb493402db6b92a7de6d1d9b83296dc9040a5d3e8e94d2e5&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Verify](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247490584&idx=1&sn=02af4ad0b31de9c8b1e74b1ffcf4264f&chksm=ebb424ccdcc3adda7c8f098d872b2ccdac337900b5f9facb43c76e7b67b92e38a0fe4866e091&scene=0&xtrack=1&key=099d46c4ef7679f9127dd80c76a3f9196eb58b4833290072c896d6b15003bbd43ad96cd9e9355ef805cb7cec0fa3f15eaeb552dd4175aa4030974a12f9667548d675fbc120073597e72ddcba8859e49f&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Verify](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247490584&idx=4&sn=4cadd89cbb2dcfdfdb112e4248f60c9a&chksm=ebb424ccdcc3addabd68b96c0843e79ce233843234ce0e3925cef2aca8fbd073a9fae44b14b8&scene=0&xtrack=1&key=a083dfb7d52bc11e5067383ecf2ea0a40d2d3ea8dcc37df9ab0d842f9b65cef6dba19d6f43fc6f4a2bc166d2f90f24f948a4ef7e2a5250cb5fc5a33f9e76ddd4687cd06ad168c00cad14adc170331968&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Verify](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247490580&idx=5&sn=d1db4cd29a47815f63f77c48fc5cadab&chksm=ebb424c0dcc3add67b8da89d1f8904d53e505c7666aa9a2157381d6bd754d5571cf9d742c545&scene=0&xtrack=1&key=8788ba49d370a6da7192d2a233328a4776238057c96ffcc4bb92e9b31a6556f326b80a720d43f16846101046ab138c9baaab3ac2b486945f3b46fc790edcc48490f6979db20502ff5e705b0e41a96569&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Verify](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247490580&idx=4&sn=93f1de4ccae0ce99d7b540a41ea6c413&chksm=ebb424c0dcc3add6f88b6ad18d377ff9f2a89bd5704b82331133640ead0ed254693f2cb78fdb&scene=0&xtrack=1&key=8788ba49d370a6da7192d2a233328a4776238057c96ffcc4bb92e9b31a6556f326b80a720d43f16846101046ab138c9baaab3ac2b486945f3b46fc790edcc48490f6979db20502ff5e705b0e41a96569&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Verify](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247490580&idx=3&sn=abce695be7d0306f07fdb7a4da4ac308&chksm=ebb424c0dcc3add624f3fb6f8c37b982a2ba5a493bc5023d0b2680dc978096e803d65e8ba59f&scene=0&xtrack=1&key=ad06d1fd8e2ba6fd7412fc39d7a654f40ff4c400f9f0e4ec120c0c0fcd12f08f7cf3d418755195b82cd87477efcbd85d18b7361b443ef00b74a3ff76ecb9fc9708281f665297e97035dad511894595bc&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Verify](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247490580&idx=2&sn=fe10fb5af21036ab60836df7a315af80&chksm=ebb424c0dcc3add66ee3e617db64a7d49af07c96d4368b0a2fab4fe593744dee55358193fc3c&scene=0&xtrack=1&key=882f3e0932acc6c59d50caa90260b6e4867766bf64d9c75304ebcc539c1c5c389204df3f3cf1ab32a9ac9f5d74ed99985027334c5bb9d3768a3488aa8aec94b64dc2e5c773dd3731ef5f53cc2677347e&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Verify](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247493292&idx=1&sn=a787a9f3a7b13ee9dbc6d2ea02c4eeef&chksm=f9a19423ced61d354c5be26cdccc951a6aa1b56828f44601886ea2621aa00181e83c12747d6f&scene=0&xtrack=1&key=ad06d1fd8e2ba6fd02634d16be5f4905438c768f5bad5a015ad1f82616f153f29793859378bfe38ed3036e0a6210c8debf5007756502883c08ebd89ec5096fb3aa71d24350a30e87001a120d83182b29&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [一条龙服务，我来手把手带你玩转云服务器~](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486659&idx=1&sn=393113765334e404fe245f7b0457dbf6&chksm=fbfe5655cc89df43af3ad61318f6e768497a8d8169ae4990e8d29b1486a9d4152ee787c43fab&scene=0&xtrack=1&key=82d8b6122932ee2ceb4ceb48a1ee45171bb7834b27ab99e1cd0629f624fa98836c3000c37929520a577c0bb5b88f7b8cf0aea5df5df351cd7e10f6b3e3b44b8c00ec20528ceeba23beb1d5cd1f3e629b&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [入门精深 | 14G最适合入门数据分析+Python教程资料，现在保存为时不晚！](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486696&idx=1&sn=83da2c94846238d3a0396ab4e4508733&chksm=fbfe567ecc89df68614065b62940803ca3e96cb0b224337af527fd1a99764a64bb12eaf42f11&scene=0&xtrack=1&key=82d8b6122932ee2c99d48eb5a3d0ba59037f3315f88e8e9f239b696c6cfb1da3e58de2043b31f2af284922e3a779d673f1afcd38a64600326b66e9633184d5a30186d7e8821f87cf1f3262bd2908c321&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [干货|NLP 的四张技术路线图，带你系统设计学习路径](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486696&idx=2&sn=7740f6423e7e7effb6a04b4828e11246&chksm=fbfe567ecc89df68055abc3f999f667762daaae4f3223c9e21235125949368e9a84e83620dd9&scene=0&xtrack=1&key=882f3e0932acc6c5e64fde8a653fb9bc267314ae03dc361b55dfa6fd4d2714588f123e7cc027e15cb217b22e55ced1fb5d2b7a2fe57b60f90b22a3c00f53259e550fd4a707cc4120e83db1a17ceb2501&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [机器学习的「反噬」：当 ML 用于密码破解，成功率竟然这么高！](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486663&idx=3&sn=acf989503db866ada87e686c4515e627&chksm=fbfe5651cc89df47f0a8f5627eb287e0035c7fc3b9499f3cedf62ffcbea262558d610a97c0ce&scene=0&xtrack=1&key=14fd93c90130c96733397b8efa9d8e251244d9d93e6838eb326e0f9725f9094293abda405d8a39f62cfa050da358aa75899e52e58f1d30053046d1f5bc49803bd3a8917e292f3bc49b0dfd6a190d30e4&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [李航老师《统计学习方法》(第2版）课件分享，附下载](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486663&idx=1&sn=a9d7102db21231175afc12fe0de0cb42&chksm=fbfe5651cc89df47bdbaec9662d9b92c248e6576f6798df09e46bb3806937def99d427ad1cdd&scene=0&xtrack=1&key=099d46c4ef7679f9fdd72c4f244cc718fb62acafc5bd243697b48c6e4a0e92080986567b852f7941b9e001821ac9c7230a43605d1e78bbac4b3937912b32fb3acd25646a107ff0d5c657a5bb8cc3f661&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [李航老师《统计学习方法》(第2版）课件分享，附下载](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486663&idx=1&sn=a9d7102db21231175afc12fe0de0cb42&chksm=fbfe5651cc89df47bdbaec9662d9b92c248e6576f6798df09e46bb3806937def99d427ad1cdd&scene=0&xtrack=1&key=882f3e0932acc6c5464a76610a6b060bbd9da8589a9130e8220328274e1337550fe473182be2130c8fe26a58b1d131d16217b7f4e1ad301937c68200e9f7ece4eab1047a1194cc492b5701d72b54f912&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [爬虫数据应用场景之Django建站](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486566&idx=2&sn=a24002b90aea15cb914894568e5eddac&chksm=fbfe56f0cc89dfe60d98f24dcc88bd72c0ccd16a12b7b6f34ac51d48ee2255c1edf059f558cf&scene=0&xtrack=1&key=a083dfb7d52bc11ec5f0c1ff735ec89288f4cd1784ed4d6e6b26aa3d4a9d5cddf0f63432b7b98c8155a38263271a8c5072203d4ca2c568a7a7be2c3f10f36e192993da7521d484b768c38747f29b0491&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [解密 BERT](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486552&idx=4&sn=87a0718ca82ee48c0557958c3e16d63b&chksm=fbfe56cecc89dfd8f1dad84ffa836d24124e295ed34f5f061d52590e5cf75625fe9e0705eb76&scene=0&xtrack=1&key=882f3e0932acc6c59332c54af2748ab760c006fe593abd651f8209e9a7b35e6951417c272d422b46c38bed88ba68f77c0380426aa953c7bb27b649880811cd9ac3febd05a3d22957024528305fe1a637&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [解密 BERT](https://mp.weixin.qq.com/s?__biz=MzU1MjYzNjQwOQ==&mid=2247486552&idx=4&sn=87a0718ca82ee48c0557958c3e16d63b&chksm=fbfe56cecc89dfd8f1dad84ffa836d24124e295ed34f5f061d52590e5cf75625fe9e0705eb76&scene=0&xtrack=1&key=82d8b6122932ee2c989f0983574223b5ad57ce0effcc308934d0dba28c346f9a8389b3a707bd80b1a02292af9d7e6cc64c158b60ee0f82d59e57aa3fda705d59b7be80f0e46049d1983df57fea034845&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=c%2BoxKS%2F6Q9yrsX%2BIPpD7qlIw5RvHLBTX4pFD9bjrmGU%3D)
+
+- [ ] [Downloads](chrome://downloads/)
+
+- [ ] [Paperspace - Login](https://www.paperspace.com/account/login?redirect=%2Fconsole%2Fgradient)
+
+- [ ] [File:Stepwise.jpg - Wikipedia](https://en.m.wikipedia.org/wiki/File:Stepwise.jpg)
+
+- [ ] [John McDonnell to attack £100bn tax giveaway to UK's billionaires | Politics | The Guardian](https://www.theguardian.com/politics/2019/nov/18/john-mcdonnell-to-attack-100bn-tax-giveaway-to-uks-billionaires?CMP=Share_iOSApp_Other)
+
+- [ ] [www.stat.cmu.edu/~brian/720/week06/examples.r](http://www.stat.cmu.edu/~brian/720/week06/examples.r)
+
+- [ ] [Stepwise.jpg (780×479)](https://upload.wikimedia.org/wikipedia/en/0/07/Stepwise.jpg)
+
+- [ ] [Confounding Variables Can Bias Your Results - Statistics By Jim](https://statisticsbyjim.com/regression/confounding-variables-bias/)
+
+- [ ] [Multicollinearity in Regression Analysis: Problems, Detection, and Solutions - Statistics By Jim](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)
+
+- [ ] [When Do You Need to Standardize the Variables in a Regression Model? - Statistics By Jim](https://statisticsbyjim.com/regression/standardize-variables-regression/)
+
+- [ ] [The Akaike Information Criterion - Towards Data Science](https://towardsdatascience.com/the-akaike-information-criterion-c20c8fd832f2)
+
+- [ ] [GraphPad Prism 8 Curve Fitting Guide - Intepreting the Likeihood Ratio test (Poisson regression)](https://www.graphpad.com/guides/prism/8/curve-fitting/reg_intepreting-the-likeihood-rati.htm)
+
+- [ ] [How can I use countfit in choosing a count model? | Stata FAQ](https://stats.idre.ucla.edu/stata/faq/how-can-i-use-countfit-in-choosing-a-count-model/)
+
+- [ ] [r_workshop8 [CSBQ-QCBS Wiki]](https://wiki.qcbs.ca/r_workshop8)
+
+- [ ] [Comparing Dynamic Causal Models using AIC, BIC and Free Energy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200437/)
+
+- [ ] [Variable selection – A review and recommendations for the practicing statistician](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969114/)
+
+- [ ] [Why do we still use stepwise modelling in ecology and behaviour? - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/16922854)
+
+- [ ] [3.2 Model selection | Notes for Predictive Modeling](https://bookdown.org/egarpor/PM-UC3M/lm-ii-modsel.html)
+
+- [ ] [Chapter 4 Poisson Regression | Broadening Your Statistical Horizons](https://bookdown.org/roback/bookdown-bysh/ch-poissonreg.html)
+
+- [ ] [(59) Statistics with R: Stepwise, backward elimination, forward selection in regression - YouTube](https://www.youtube.com/watch?v=TzhgPXrFSm8)
+
+- [ ] [(63) Backward Elimination - Stepwise Regression with R - YouTube](https://www.youtube.com/watch?v=0aTtMJO-pE4)
+
+- [ ] [(63) Forward Selection - Stepwise Regression with R - YouTube](https://www.youtube.com/watch?v=OYEII--K_k4)
+
+- [ ] [(63) Stepwise Regression in R - Combining Forward and Backward Selection - YouTube](https://www.youtube.com/watch?v=ejR8LnQziPY)
+
+- [ ] [(1) 18 questions with answers in Stepwise Regression Analysis | Science topic](https://www.researchgate.net/topic/Stepwise-Regression-Analysis)
+
+- [ ] [(1) How can I justify a significance level of ≤ 0.1 in a foward stepwise logistical regression? Any reference?](https://www.researchgate.net/post/How_can_I_justify_a_significance_level_of_01_in_a_foward_stepwise_logistical_regression_Any_reference)
+
+- [ ] [(1) How can I take into account heterogeneity in sampling effort in a binomial glm (presence absence)?](https://www.researchgate.net/post/How_can_I_take_into_account_heterogeneity_in_sampling_effort_in_a_binomial_glm_presence_absence)
+
+- [ ] [(1) How to test multicollinearity on poisson regression using stata?](https://www.researchgate.net/post/How_to_test_multicollinearity_on_poisson_regression_using_stata)
+
+- [ ] [(1) When I use AIC (akaike information criterion) to find the model of the best fit, do I need to consider p-values?](https://www.researchgate.net/post/When_I_use_AIC_akaike_information_criterion_to_find_the_model_of_the_best_fit_do_I_need_to_consider_p-values)
+
+- [ ] [Gibbs sampling for the uninitiated | Request PDF](https://www.researchgate.net/publication/228561093_Gibbs_sampling_for_the_uninitiated)
+
+- [ ] [DSS - Interpreting Regression Output](https://dss.princeton.edu/online_help/analysis/interpreting_regression.htm)
+
+- [ ] [GLMs - Week 4: Logistic Regression and Poisson Regression | Coursera](https://www.coursera.org/lecture/regression-models/glms-D3VMJ)
+
+- [ ] [Thanasis Kottas](https://users.soe.ucsc.edu/~thanos/)
+
+- [ ] [Hawkes Process -- from Wolfram MathWorld](http://mathworld.wolfram.com/HawkesProcess.html)
+
+- [ ] [File:Marked point process.png - Wikipedia](https://en.wikipedia.org/wiki/File:Marked_point_process.png)
+
+- [ ] [Poisson distribution - Wikipedia](https://en.wikipedia.org/wiki/Poisson_distribution)
+
+- [ ] [Poisson point process - Wikipedia](https://en.wikipedia.org/wiki/Poisson_point_process#Interpretation_of_the_intensity_function)
+
+- [ ] [Radon measure - Wikipedia](https://en.wikipedia.org/wiki/Radon_measure)
+
+- [ ] [Radon measure - Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Radon_measure)
+
+- [ ] [Radon measure - Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Radon_measure)
+
+- [ ] [A failure process model with the exponential smoothing of intensity functions - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S037722171830986X?via%3Dihub)

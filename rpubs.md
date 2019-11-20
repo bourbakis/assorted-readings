@@ -436,3 +436,91 @@ https://rpubs.com/shawnspei/final_v2
 - [ ] [RPubs - The Analytics Edge: Table of Contents](https://rpubs.com/SulmanKhan/436174)
 
 - [ ] [RPubs - The True Significance of the Top Ten Economic Indicators to the Major U.S. Indices | New Model: Optimal Regression | New Model: Regressive Pricing Factor Model](http://rpubs.com/MathewTheOne/136813)
+
+
+
+
+# Model Selection
+
+
+## 11/20/2019
+
+- [ ] [RPubs - Non-Linear Models](https://rpubs.com/ryankelly/GAMs)
+
+- [ ] [RPubs - ass5](https://rpubs.com/yuyangggggg/533789)
+
+- [ ] [RPubs - Boston Housing Prices Prediction](https://rpubs.com/Kunal2276/468150)
+
+- [ ] [RPubs - Boston Housing Prices Prediction](https://rpubs.com/Kunal2276/468150)
+
+- [ ] [RPubs - Class 3 Multiple Regression](https://rpubs.com/chuabest/Class3_MultipleRegression)
+
+- [ ] [RPubs - Coursera - Motor trends data analysis](https://rpubs.com/vondacho/motor_trend_regression_modelling)
+
+- [ ] [RPubs - Coursera Regression Models Assignment](http://rpubs.com/dHaYaN/396628)
+
+- [ ] [RPubs - DATA606 Ortega-Cruz Final Project](https://rpubs.com/sortega78/DATA606FP)
+
+- [ ] [RPubs - Document_test](https://rpubs.com/hanspeter/286062)
+
+- [ ] [RPubs - Generalized Linear Models (GLM)](https://rpubs.com/mpfoley73/527573)
+
+- [ ] [RPubs - HW3](https://rpubs.com/cmarshall2786/441245)
+
+- [ ] [RPubs - IE 538 - Multiple linear regression model building](https://rpubs.com/ones/ie538)
+
+- [ ] [RPubs - ISL Applied Exercises of Chapter 7](http://rpubs.com/leechau/392778)
+
+- [ ] [RPubs - ISL Ch6 Linear Regression Reduction](http://rpubs.com/bscout2011/399567)
+
+- [ ] [RPubs - LBB - Linear Regression Model](https://rpubs.com/argaaa/lbb_lrm)
+
+- [ ] [RPubs - Linear and Logistic regression analysis](https://rpubs.com/yesmallcat/a006)
+
+- [ ] [RPubs - Linear Modeling and Prediction for Movies](https://rpubs.com/D6A7144DE38B/351986)
+
+- [ ] [RPubs - LINEAR REGRESSION](https://rpubs.com/ShrutikaKharat/332753)
+
+- [ ] [RPubs - Linear Regression](https://rpubs.com/sergiomora123/lm)
+
+- [ ] [RPubs - Linear regression 2: Model selection](https://rpubs.com/kaz_yos/lm2)
+
+- [ ] [RPubs - Linear Regression Homework 4](http://rpubs.com/skrinik/390622)
+
+- [ ] [RPubs - Machine Learning](https://rpubs.com/andreasme/mlwr)
+
+- [ ] [RPubs - MLR - comparing stepwise regression models](https://rpubs.com/maulikpatel/226765)
+
+- [ ] [RPubs - Multiple linear regression ( stepwise - Elastic penalized regression ) TUTORIAL](https://rpubs.com/Momen/485099)
+
+- [ ] [RPubs - Multiple Linear Regression Approach to Predict GDP from Crime](https://rpubs.com/ajibudiarto/gdpcrime)
+
+- [ ] [RPubs - Multiple Linear Regression_comparing diff models](https://rpubs.com/maulikpatel/214061)
+
+- [ ] [RPubs - Proving our sample regression is representative of the population](https://rpubs.com/DonaldTurton/480607)
+
+- [ ] [RPubs - Publish Document](https://rpubs.com/chuitosun/156597)
+
+- [ ] [RPubs - regression analysis](https://rpubs.com/utjimmyx/regression-analysis)
+
+- [ ] [RPubs - Regression Analysis of Cars data set](https://rpubs.com/Andre_3000/267832)
+
+- [ ] [RPubs - Regression Model Week 4 Project](https://rpubs.com/mlouricas/350849)
+
+- [ ] [RPubs - RegressionModels_Project](https://rpubs.com/agrawalshubham/regressionmodels_project)
+
+- [ ] [RPubs - RegressionModelsAssignment_sfrechette](https://rpubs.com/stephanef/51467)
+
+- [ ] [RPubs - R筆記 -- (18) Subsets &amp; Shrinkage Regression (Stepwise &amp; Lasso)](https://rpubs.com/skydome20/R-Note18-Subsets_Shrinkage_Methods)
+
+- [ ] [RPubs - Simple and Multiple Linear Regression](https://rpubs.com/efractals/384341)
+
+- [ ] [RPubs - STA 4143_Homework 6_Romero](https://rpubs.com/selena_e_romero/sta4143homework6)
+
+- [ ] [RPubs - Stepwise by R](https://rpubs.com/bigcat/258879)
+
+- [ ] [RPubs - Stepwise model selection](https://rpubs.com/kaz_yos/stepwise)
+
+- [ ] [RPubs - Stepwise Regression: Predicting Systolic](https://rpubs.com/GMortensen/stepwiselinear)
+
+- [ ] [RPubs - Stepwise Regression: Predicting Systolic](https://rpubs.com/GMortensen/stepwiselinear)
