@@ -4144,3 +4144,136 @@ https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
 - [ ] [What is the link function in GLM? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQt62Bp7rH_U11-SLu_4v5tZMrafA:1574177103927&q=What+is+the+link+function+in+GLM%3F&sa=X&ved=2ahUKEwjk_d7YyvblAhVCJaYKHaDGC_0Qzmd6BAhlEAs)
 
 - [ ] [when to use stepwise regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTJy31_5nZmsC4mt2hUb6KZMBZeyQ:1574163197880&q=when+to+use+stepwise+regression&sa=X&ved=2ahUKEwidnenxlvblAhXsyIsBHbBrAZ8Q1QIoA3oECGQQBA)
+
+
+
+
+
+
+
+
+## 11/22/2019
+
+- [ ] ['self-renewing aggregat - Google Search](https://www.google.com/search?q=%27self-renewing+aggregat&oq=%27self-renewing+aggregat&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [abc bootstrap in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q:1574292178121&q=abc+bootstrap+in+r&sa=X&ved=2ahUKEwiHkrKw9_nlAhXJF4gKHeGJCp0Q1QIoBXoECGIQBg)
+
+- [ ] [an introduction to bootstrap methods with applications to r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRO9GXCbgDtG0FWw6odunJ4ngY2RQ%3A1574256839888&ei=x0DVXfTiNbXWmAWt7rTICg&q=an+introduction+to+bootstrap+methods+with+applications+to+r&oq=Bootstrap+Methods+and+their+Application&gs_l=psy-ab.1.0.0i71l8.0.0..504963...0.3..0.0.0.......0......gws-wiz.CDIAijoyaks)
+
+- [ ] [applications of bootstrap method - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRO9GXCbgDtG0FWw6odunJ4ngY2RQ:1574256839888&q=applications+of+bootstrap+method&sa=X&ved=2ahUKEwi04ufd8_jlAhU1K6YKHS03DakQ1QIoAXoECHUQAg)
+
+- [ ] [Applied Asymptotics: Case Studies in Small-Sample Statistics Nancy Reid - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRO9GXCbgDtG0FWw6odunJ4ngY2RQ:1574256839888&q=Applied+Asymptotics:+Case+Studies+in+Small-Sample+Statistics+Nancy+Reid&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKNS_KKDZTgvLycoqysw20xLKTrfST8vOzwYRVcWZKanliZfEqRpk0q-Si1MSS_CIrkEyxFVhbXoVhsVF24SJWd8eCgpzM1BQFx-LK3IKS_JLM5GIrBefE4lSF4JLSlMzUYoXMPIXg3MScHN3gxNyCHJB4YklmMUihgl9iXnKlQlBqZgoAoBq4oJ8AAAA&sa=X&ved=2ahUKEwi04ufd8_jlAhU1K6YKHS03DakQxA0wa3oECGgQBg)
+
+- [ ] [Bayesian inference and the parametric bootstrap - Google Search](https://www.google.com/search?q=Bayesian+inference+and+the+parametric+bootstrap&oq=Bayesian+inference+and+the+parametric+bootstrap&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [boot bca - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q%3A1574292178121&lei=0srVXYfhBsmvoAThk6roCQ&q=boot%20bca&ved=2ahUKEwi_6sux9_nlAhXLF4gKHQx4CfoQsKwBKAR6BAgAEAU)
+
+- [ ] [Bootstrap american math scociety - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS4wbzW5Fu6ECLAC60Mw3KFUPLQkQ%3A1574257220920&ei=RELVXarqN4-ImAWcobqoDA&q=Bootstrap+american+math+scociety&oq=Bootstrap+american+math+scociety&gs_l=psy-ab.3..33i299l3.4962.11370..11643...2.0..0.556.3929.1j17j0j2j1j1....2..0....1..gws-wiz.......35i39j0i273j0i20i263j0j0i322j0i22i30j0i322i13j0i13i5i30j0i8i13i30j33i160j33i22i29i30.Dava6vv6iyM&ved=0ahUKEwiqnMCT9fjlAhUPBKYKHZyQDsUQ4dUDCAs&uact=5)
+
+- [ ] [bootstrap difference in means r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q%3A1574292178121&lei=0srVXYfhBsmvoAThk6roCQ&q=bootstrap%20difference%20in%20means%20r&ved=2ahUKEwi_6sux9_nlAhXLF4gKHQx4CfoQsKwBKAF6BAgAEAI)
+
+- [ ] [bootstrap in r pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q:1574292178121&q=bootstrap+in+r+pdf&sa=X&ved=2ahUKEwiHkrKw9_nlAhXJF4gKHeGJCp0Q1QIoBHoECGIQBQ)
+
+- [ ] [bootstrap in r tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q:1574292178121&q=bootstrap+in+r+tutorial&sa=X&ved=2ahUKEwiHkrKw9_nlAhXJF4gKHeGJCp0Q1QIoAHoECGIQAQ)
+
+- [ ] [bootstrap in r ucla - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q:1574292178121&q=bootstrap+in+r+ucla&sa=X&ved=2ahUKEwiHkrKw9_nlAhXJF4gKHeGJCp0Q1QIoA3oECGIQBA)
+
+- [ ] [Bootstrap Methods and Their Application - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRO9GXCbgDtG0FWw6odunJ4ngY2RQ:1574256839888&q=Bootstrap+Methods+and+Their+Application&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKNS_KKDZTQuFpiWUnW-kn5edngwmr4syU1PLEyuJVjNxpVkWpuYmZeZl56YtY1Z3y80uKS4oSCxR8U0sy8lOKFRLzUhRCMlIzixQcCwpyMpMTSzLz8wAbdp_UbgAAAA&sa=X&ved=2ahUKEwi04ufd8_jlAhU1K6YKHS03DakQzTooADBtegQIaRAC)
+
+- [ ] [Bootstrap Methods and Their Application - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRO9GXCbgDtG0FWw6odunJ4ngY2RQ:1574256839888&q=Bootstrap+Methods+and+Their+Application&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKNS_KKDZTQuFpiWUnW-kn5edngwmr4syU1PLEyuJFrOpO-fklxSVFiQUKvqklGfkpxQqJeSkKIRmpmUUKjgUFOZnJiSWZ-Xk7WBkBXQ2PDmMAAAA&sa=X&ved=2ahUKEwi04ufd8_jlAhU1K6YKHS03DakQzTooATB6egQIcxAC)
+
+- [ ] [Bootstrap Methods python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRO9GXCbgDtG0FWw6odunJ4ngY2RQ%3A1574256839888&ei=x0DVXfTiNbXWmAWt7rTICg&q=Bootstrap+Methods+python&oq=Bootstrap+Methods+python&gs_l=psy-ab.3..0i22i30l3.3815.5195..5415...0.2..0.112.734.2j5....2..0....1..gws-wiz.......0i71j0i322i67j0j0i322.UyXGAaGgkpI&ved=0ahUKEwi04ufd8_jlAhU1K6YKHS03DakQ4dUDCAs&uact=5)
+
+- [ ] [bootstrap t test in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q%3A1574292178121&lei=0srVXYfhBsmvoAThk6roCQ&q=bootstrap%20t%20test%20in%20r&ved=2ahUKEwi_6sux9_nlAhXLF4gKHQx4CfoQsKwBKAJ6BAgAEAM)
+
+- [ ] [Bootstrapping books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRO9GXCbgDtG0FWw6odunJ4ngY2RQ:1574256839888&q=Bootstrapping+books&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKNS_KKDZTQuFpiWUnW-kn5edngwmr4syU1PLEyuJVjJJpVsWlSVmpySVWIJliK_1cfYP0MovkgkWswk75-SXFJUWJBQWZeekKYHkA3bc8yGgAAAA&sa=X&ved=2ahUKEwi04ufd8_jlAhU1K6YKHS03DakQzTooADBsegQIaxAC)
+
+- [ ] [bootstrapping presentation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRO9GXCbgDtG0FWw6odunJ4ngY2RQ:1574256839888&q=bootstrapping+presentation&sa=X&ved=2ahUKEwi04ufd8_jlAhU1K6YKHS03DakQ1QIoBXoECHUQBg)
+
+- [ ] [connections between bootstrap and Bayes computation, the weighting curve of Figure 9, and Fisher's correlation formula and the student score example. - Google Search](https://www.google.com/search?q=connections+between+bootstrap+and+Bayes+computation%2C+the+weighting+curve+of+Figure+9%2C+and+Fisher%27s+correlation+formula+and+the+student+score+example.&oq=connections+between+bootstrap+and+Bayes+computation%2C+the+weighting+curve+of+Figure+9%2C+and+Fisher%27s+correlation+formula+and+the+student+score+example.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [fanfare classical music reviews - Google Search](https://www.google.com/search?sxsrf=ACYBGNTMEWnd3M7yixoulGDgdgFCokwn7A%3A1574011988425&source=hp&ei=VITRXe2UF6aw5wLezI34BQ&q=fanfare+classical+music+reviews&oq=fanfare+classical+music+reviews&gs_l=psy-ab.3...44.4024..4151...0.0..0.123.2444.28j3....2..0....1..gws-wiz.......35i322i39j35i39j0i131j0j0i199i291j0i322j0i322i131j0i67j0i131i67j0i322i67j0i322i131i67j0i10j0i322i199i175j0i22i30j0i22i10i30j33i22i29i30j33i160.NbC_9tPu4Qc&ved=0ahUKEwjtjsLL4_HlAhUm2FkKHV5mA18Q4dUDCAg&uact=5)
+
+- [ ] [for loop bootstrap in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q:1574292178121&q=for+loop+bootstrap+in+r&sa=X&ved=2ahUKEwiHkrKw9_nlAhXJF4gKHeGJCp0Q1QIoAnoECGIQAw)
+
+- [ ] [how to interpret bootstrapping results in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q:1574292178121&q=how+to+interpret+bootstrapping+results+in+r&sa=X&ved=2ahUKEwiHkrKw9_nlAhXJF4gKHeGJCp0Q1QIoAXoECGIQAg)
+
+- [ ] [how to interpret bootstrapping results in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q%3A1574292178121&lei=0srVXYfhBsmvoAThk6roCQ&q=how%20to%20interpret%20bootstrapping%20results%20in%20r&ved=2ahUKEwi_6sux9_nlAhXLF4gKHQx4CfoQsKwBKAV6BAgGEAY)
+
+- [ ] [how to interpret bootstrapping results in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q%3A1574292178121&lei=0srVXYfhBsmvoAThk6roCQ&q=how%20to%20interpret%20bootstrapping%20results%20in%20r&ved=2ahUKEwi_6sux9_nlAhXLF4gKHQx4CfoQsKwBKAV6BAgAEAY)
+
+- [ ] [how to merge vertically in r - Google Search](https://www.google.com/search?q=how+to+merge+vertically+in+r&oq=how+to+merge+vertically+in+r&aqs=chrome..69i57j0j69i60l2j69i61l2j69i64l2.6652j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [intensity function of poisson process - Google Search](https://www.google.com/search?q=intensity+function+of+poisson+process&oq=intensity+funtion+of+p&aqs=chrome.1.69i57j0l3.4372j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [left join by in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRDeJvBkzkCXlf5cFwrP7Yc18Pesg:1574290114473&q=left+join+by+in+r&spell=1&sa=X&ved=2ahUKEwj-m6_Y7_nlAhXCMd4KHWzRBKMQBSgAegQIZRAq&biw=1920&bih=939)
+
+- [ ] [likelihood ratio test results using the Anova function r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSVWmy_K8Aij3GuMPY1-KUf7zUsXA%3A1574182303813&ei=nx3UXbShMcOsmAWguofIAQ&q=likelihood+ratio+test+results+using+the+Anova+function+r&oq=likelihood+ratio+test+results+using+the+Anova+function+r&gs_l=psy-ab.12..33i299.3591.6104..13270...1.2..0.133.383.0j3......0....1..gws-wiz.......0i71j35i302i39.VLr8wDrm4_8&ved=0ahUKEwj07J6I3vblAhVDFqYKHSDdARkQ4dUDCAs)
+
+- [ ] [merge usage in r - Google Search](https://www.google.com/search?q=merge+usage+in+r&oq=merge+usage+in+r&aqs=chrome..69i57j0l5j69i64l2.4621j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [merge vertically in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRB2hMKNwuKOqsO1bTE9-MOdzCU3Q:1574289043536&q=merge+vertically+in+r&spell=1&sa=X&ved=2ahUKEwiry9rZ6_nlAhWGFYgKHaQ-AzAQBSgAegQIZhAq&biw=1920&bih=939)
+
+- [ ] [Multivariate analysis - Google Search](https://www.google.com/search?q=Multivariate+analysis&oq=Multivariate+analysis&aqs=chrome..69i57j69i61j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Neural Nets and Chaotic Carriers Peter Whittle - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSjwZFbIq10N5HSQVwti6KKEyIG2Q:1574256892111&q=Neural+Nets+and+Chaotic+Carriers+Peter+Whittle&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYsyzIpVuLRT9c3NErKLSgqtzTREstOttJPys_PBhNWxZkpqeWJlcWrGCXTrJKLUhNL8ousQDLFViAjzAvLDdMXser5pZYWJeYo-KWWFCsk5qUoOGck5pdkJis4JxYVZaYWFSsEpJakFimEZ2SWlOSkAgA6i_7BgQAAAA&sa=X&ved=2ahUKEwikmtv28_jlAhVVJaYKHT-9BZYQxA0waHoECGgQBA)
+
+- [ ] [Optimal Control: Basics and Beyond Peter Whittle - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSjwZFbIq10N5HSQVwti6KKEyIG2Q:1574256892111&q=Optimal+Control:+Basics+and+Beyond+Peter+Whittle&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYsyzIpVuLVT9c3NEwzyC4yMsw20xLLTrbST8rPzwYTVsWZKanliZXFqxgl06ySi1ITS_KLrEAyxVYgM8wLyw3TF7Ea-BeUZOYm5ig45-eVFOXnWCk4JRZnJhcrJOalKDilVuYDqYDUktQihfCMzJKSnFQA_Gk_sYQAAAA&sa=X&ved=2ahUKEwikmtv28_jlAhVVJaYKHT-9BZYQxA0waHoECGgQDA)
+
+- [ ] [parametric bootstrap r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q%3A1574292178121&lei=0srVXYfhBsmvoAThk6roCQ&q=parametric%20bootstrap%20r&ved=2ahUKEwi_6sux9_nlAhXLF4gKHQx4CfoQsKwBKAN6BAgAEAQ)
+
+- [ ] [pay structure template - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT9w6sbRFYRMCRVNg2KV-Tymo-OYw:1574291660442&q=pay+structure+template&sa=X&ved=2ahUKEwiO28W59fnlAhXIAYgKHfpsBkAQ1QIoBHoECGQQBQ)
+
+- [ ] [pivot table tidyverse - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQb2z94i5fvctx6AIvnx3WXA4U73w:1574293699364&q=pivot+table+tidyverse&sa=X&ved=2ahUKEwj92-OF_fnlAhWiBKYKHbP1CJQQ1QIoAnoECGYQAw)
+
+- [ ] [pivottabler - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQnctrDYYYztzdS4We4-WYmvCqWVg%3A1574292827719&lei=W83VXcjEK4yvmAXQzJnQCg&q=pivottabler&ved=2ahUKEwiFvIXn-fnlAhUKCqYKHdsvCqcQsKwBKAB6BAgBEAE)
+
+- [ ] [poisson distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ1NU7_C3phCx14EvZ4IXbhUa-dww:1574204410570&q=poisson+distribution&tbm=isch&source=univ&sa=X&ved=2ahUKEwjvnci1sPflAhXZFIgKHVQjAWQQiR56BAhiEAw)
+
+- [ ] [Poisson distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ1NU7_C3phCx14EvZ4IXbhUa-dww:1574204410570&q=Poisson+distribution&stick=H4sIAAAAAAAAAONgFuLQz9U3SEopLlaCs7SEs5Ot9JPzc3Pz86yKM1NSyxMrixexigTkZxYX5-cppGQWlxRlJpWWZObn7WBlBACFmD1ORQAAAA&sa=X&ved=2ahUKEwjvnci1sPflAhXZFIgKHVQjAWQQzTooATB7egQIZBAC)
+
+- [ ] [Prediction and Regulation by Linear Least-square Methods Peter Whittle - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSjwZFbIq10N5HSQVwti6KKEyIG2Q:1574256892111&q=Prediction+and+Regulation+by+Linear+Least-square+Methods+Peter+Whittle&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYsyzIpVuLRT9c3rEwpzzXLrjTXEstOttJPys_PBhNWxZkpqeWJlcWrGCXTrJKLUhNL8ousQDLFViAjzAvLDdMXsboFFKWmZCaXZObnKSTmpSgEpaaX5iSCuUmVCj6ZeamJRQo-qYnFJbrFhaWJRakKvqklGfkpxQoBqSWpRQrhGZklJTmpAG0cHhqZAAAA&sa=X&ved=2ahUKEwikmtv28_jlAhVVJaYKHT-9BZYQxA0waHoECGgQBg)
+
+- [ ] [Probability books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSjwZFbIq10N5HSQVwti6KKEyIG2Q:1574256892111&q=Probability+books&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYsyzIpVkJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriVYwSaVbFpUlZqcklViCZYiuQJtPCjORFrIIBRflJiUmZOZkllQpgSQA_MyuXYQAAAA&sa=X&ved=2ahUKEwikmtv28_jlAhVVJaYKHT-9BZYQzTooADBpegQIahAC)
+
+- [ ] [python codes Find an appropriate model to explain the determinants of salary econometrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRSHm47SdEJbFRS09MCGBTPUz2q6Q%3A1574291449027&ei=-cfVXZWYAc7n-QbRo70Y&q=python+codes+Find+an+appropriate+model+to+explain+the+determinants+of+salary+econometrics&oq=python+codes+Find+an+appropriate+model+to+explain+the+determinants+of+salary+econometrics&gs_l=psy-ab.3...5481.7825..8050...0.2..2.732.2661.7j1j3j1j6-1......0....1..gws-wiz.......0i71j35i302i39j33i10.Uf8lZF-7YyI&ved=0ahUKEwjV-N3U9PnlAhXOc94KHdFRDwMQ4dUDCAs&uact=5)
+
+- [ ] [r bootstrap p value - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q%3A1574292178121&lei=0srVXYfhBsmvoAThk6roCQ&q=r%20bootstrap%20p%20value&ved=2ahUKEwi_6sux9_nlAhXLF4gKHQx4CfoQsKwBKAF6BAgGEAI)
+
+- [ ] [r codes Find an appropriate model to explain the determinants of (salary OR wage OR earnings OR incomes) - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS2PNczgrL3BsbtHRTxRN2kvQ21_A%3A1574291629727&ei=rcjVXYT7K9LXhwPxs7GYAg&q=r+codes+Find+an+appropriate+model+to+explain+the+determinants+of+%28salary+OR+wage+OR+earnings+OR+incomes%29&oq=r+codes+Find+an+appropriate+model+to+explain+the+determinants+of+%28salary+OR+wage+OR+earnings+OR+incomes%29&gs_l=psy-ab.3..0i71l8.15888.24058..28994...0.2..0.0.0.......12....1..gws-wiz._sg8C7dpZIE&ved=0ahUKEwjEhfOq9fnlAhXS62EKHfFZDCMQ4dUDCAs&uact=5)
+
+- [ ] [r codes Find an appropriate model to explain the determinants of (salary or wage or earnings) - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3Plw-nnjvaAQbeCnaDa_8ZSNbcw:1574291595923&q=r+codes+Find+an+appropriate+model+to+explain+the+determinants+of+(salary+or+wage+or+earnings)&tbm=isch&source=univ&sa=X&ved=2ahUKEwiu3-Oa9fnlAhURc3AKHXRTDA0QsAR6BAgIEAE)
+
+- [ ] [r data table pivot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQnctrDYYYztzdS4We4-WYmvCqWVg%3A1574292827719&lei=W83VXcjEK4yvmAXQzJnQCg&q=r%20data%20table%20pivot&ved=2ahUKEwiFvIXn-fnlAhUKCqYKHdsvCqcQsKwBKAV6BAgAEAY&biw=1920&bih=939)
+
+- [ ] [r data table pivot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQnctrDYYYztzdS4We4-WYmvCqWVg%3A1574292827719&lei=W83VXcjEK4yvmAXQzJnQCg&q=r%20data%20table%20pivot&ved=2ahUKEwiFvIXn-fnlAhUKCqYKHdsvCqcQsKwBKAR6BAgBEAU)
+
+- [ ] [r ggplot2 pivot table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQnctrDYYYztzdS4We4-WYmvCqWVg%3A1574292827719&lei=W83VXcjEK4yvmAXQzJnQCg&q=r%20ggplot2%20pivot%20table&ved=2ahUKEwiFvIXn-fnlAhUKCqYKHdsvCqcQsKwBKAF6BAgBEAI)
+
+- [ ] [r pivot rows to columns - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQnctrDYYYztzdS4We4-WYmvCqWVg%3A1574292827719&lei=W83VXcjEK4yvmAXQzJnQCg&q=r%20pivot%20rows%20to%20columns&ved=2ahUKEwiFvIXn-fnlAhUKCqYKHdsvCqcQsKwBKAJ6BAgBEAM)
+
+- [ ] [r read pivot table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQb2z94i5fvctx6AIvnx3WXA4U73w:1574293699364&q=r+read+pivot+table&sa=X&ved=2ahUKEwj92-OF_fnlAhWiBKYKHbP1CJQQ1QIoBXoECGYQBg&biw=1920&bih=899)
+
+- [ ] [rearrange the columsn inr - Google Search](https://www.google.com/search?q=rearrange+the+columsn+inr&oq=rearrange+the+columsn+inr+&aqs=chrome..69i57j0l7.6983j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [resampling methods in r: the boot package - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSKFVJxIvlvsG7fp8Cl84obYjdj3Q%3A1574292178121&lei=0srVXYfhBsmvoAThk6roCQ&q=resampling%20methods%20in%20r%3A%20the%20boot%20package&ved=2ahUKEwi_6sux9_nlAhXLF4gKHQx4CfoQsKwBKAR6BAgGEAU)
+
+- [ ] [Risk-sensitive optimal control Peter Whittle - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSjwZFbIq10N5HSQVwti6KKEyIG2Q:1574256892111&q=Risk-sensitive+optimal+control+Peter+Whittle&stick=H4sIAAAAAAAAAONgFuLSz9U3SDYsyzIpVgKzzdKrqtKztMSyk630k_Lzs8GEVXFmSmp5YmXxKkbJNKvkotTEkvwiK5BMsRVIk3lhuWH6IladoMzibN3i1LzizJLMslSF_IKSzNzEHIXk_LySovwchYDUktQihfCMzJKSnFQAOF1M9X0AAAA&sa=X&ved=2ahUKEwikmtv28_jlAhVVJaYKHT-9BZYQxA0waHoECGgQCA)
+
+- [ ] [rpivottable - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQnctrDYYYztzdS4We4-WYmvCqWVg%3A1574292827719&lei=W83VXcjEK4yvmAXQzJnQCg&q=rpivottable&ved=2ahUKEwiFvIXn-fnlAhUKCqYKHdsvCqcQsKwBKAV6BAgBEAY)
+
+- [ ] [salary scale template excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRWh8JwkJKi7GbW9zt63_ZM9nbwkQ%3A1574291495869&ei=J8jVXYvVNNPN-Qbj6K8I&q=salary+scale+template+excel&oq=r+codes+Find+an+appropriate+model+to+explain+the+determinants+of+salary&gs_l=psy-ab.1.6.0i71l8.0.0..30814...0.3..0.0.0.......0......gws-wiz.HWliiLT499Y)
+
+- [ ] [Statistical Models A. C. Davison - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRO9GXCbgDtG0FWw6odunJ4ngY2RQ:1574256839888&q=Statistical+Models+A.+C.+Davison&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKNS_KKDZTgvGSzfPKTLTEspOt9JPy87PBhFVxZkpqeWJl8SpGmTSr5KLUxJL8IiuQTLEVWFtehWGxUXbhIlaF4JLEkszikszkxBwF3_yU1JxiBUc9BWc9BZfEsszi_DwAeUCdQXgAAAA&sa=X&ved=2ahUKEwi04ufd8_jlAhU1K6YKHS03DakQxA0wa3oECGgQBA)
+
+- [ ] [Testing statistical hypotheses - Google Search](https://www.google.com/search?q=Testing+statistical+hypotheses&oq=Testing+statistical+hypotheses&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The classic frequentist theory of hypothesis testing developed by Neyman, Pearson and Fisher - Google Search](https://www.google.com/search?q=The+classic+frequentist+theory+of+hypothesis+testing+developed+by+Neyman%2C+Pearson+and+Fisher&oq=The+classic+frequentist+theory+of+hypothesis+testing+developed+by+Neyman%2C+Pearson+and+Fisher&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The coordinate-free approach to linear models - Google Search](https://www.google.com/search?q=The+coordinate-free+approach+to+linear+models&oq=The+coordinate-free+approach+to+linear+models&aqs=chrome..69i57j69i64l3j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The History of Statistics in the 17th and 18th Centuries - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSsliTdoitotxDGtYctnUb2fZwFig:1574257519855&q=The+History+of+Statistics+in+the+17th+and+18th+Centuries&stick=H4sIAAAAAAAAAOOQMZIoLkksySwuyUwuVshNLMlIBRKZyZmJeVEWIRmpCh5AqfyiSoX8NIVghMLMPAWgSgVD85IMhcS8FAVDCyDDOTWvpLQoM7X4FCOnfq6-gaFhTrIhjG1amW1xipEDxM7NTYMpMTItssyGsk3iK9IMTjFyQcQrLIxyoBJmFebplTBFORYGWTAzK7MrDX8xSgTj8MAiVrJ9AABuYguNGAEAAA&sa=X&ved=2ahUKEwjY6YWi9vjlAhWeyIsBHSMIDcYQzTooADBtegQIZBAC&biw=1920&bih=899)
+
+- [ ] [tidyr pivot table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQnctrDYYYztzdS4We4-WYmvCqWVg%3A1574292827719&lei=W83VXcjEK4yvmAXQzJnQCg&q=tidyr%20pivot%20table&ved=2ahUKEwiFvIXn-fnlAhUKCqYKHdsvCqcQsKwBKAN6BAgBEAQ)
+
+- [ ] [What is the distribution of possion proces and its parameters - Google Search](https://www.google.com/search?q=What%20is%20the%20distribution%20of%20possion%20proces%20and%20its%20parameters)
