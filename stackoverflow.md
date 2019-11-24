@@ -899,3 +899,224 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [self study - Intensity function in Poisson random effect model - Cross Validated](https://stats.stackexchange.com/questions/383142/intensity-function-in-poisson-random-effect-model)
 
 - [ ] [stochastic processes - Poisson Process Intensity Function - Cross Validated](https://stats.stackexchange.com/questions/310557/poisson-process-intensity-function)
+
+
+
+
+
+
+
+## 11/24/2019
+
+- [ ] [bootstrap to get confidence intervals using R - Stack Overflow](https://stackoverflow.com/questions/45121311/bootstrap-to-get-confidence-intervals-using-r)
+
+- [ ] [dataframe - R data.table: How to sum variables by group based on a condition? - Stack Overflow](https://stackoverflow.com/questions/45679883/r-data-table-how-to-sum-variables-by-group-based-on-a-condition)
+
+- [ ] [dataframe - R: Pivot the rows into columns and use N/A's for missing values - Stack Overflow](https://stackoverflow.com/questions/29773714/r-pivot-the-rows-into-columns-and-use-n-as-for-missing-values)
+
+- [ ] [dplyr - Another way to do pivot table in R - Stack Overflow](https://stackoverflow.com/questions/39656670/another-way-to-do-pivot-table-in-r)
+
+- [ ] [duplicates - average between duplicated rows in R - Stack Overflow](https://stackoverflow.com/questions/17383635/average-between-duplicated-rows-in-r)
+
+- [ ] [Efficient alternatives to merge for larger data.frames R - Stack Overflow](https://stackoverflow.com/questions/11146967/efficient-alternatives-to-merge-for-larger-data-frames-r)
+
+- [ ] [Frequency table by group in data.table (R) - Stack Overflow](https://stackoverflow.com/questions/38941380/frequency-table-by-group-in-data-table-r)
+
+- [ ] [How to average columns based on ID in R? - Stack Overflow](https://stackoverflow.com/questions/32487367/how-to-average-columns-based-on-id-in-r)
+
+- [ ] [How to make summary table by group in r? - Stack Overflow](https://stackoverflow.com/questions/47408197/how-to-make-summary-table-by-group-in-r)
+
+- [ ] [merge - Left join in R by character type - Stack Overflow](https://stackoverflow.com/questions/49250513/left-join-in-r-by-character-type)
+
+- [ ] [merge only one or two columns from a different dataframe in R - Stack Overflow](https://stackoverflow.com/questions/38061837/merge-only-one-or-two-columns-from-a-different-dataframe-in-r)
+
+- [ ] [Pivoting data in R - Stack Overflow](https://stackoverflow.com/questions/30198173/pivoting-data-in-r)
+
+- [ ] [Pivoting in r with dplyr - Stack Overflow](https://stackoverflow.com/questions/41958276/pivoting-in-r-with-dplyr)
+
+- [ ] [r - Adding confidence intervals to a qq plot? - Stack Overflow](https://stackoverflow.com/questions/19316889/adding-confidence-intervals-to-a-qq-plot)
+
+- [ ] [r - adjusted bootstrap confidence intervals (BCa) with parametric bootstrap in boot package - Stack Overflow](https://stackoverflow.com/questions/7588388/adjusted-bootstrap-confidence-intervals-bca-with-parametric-bootstrap-in-boot)
+
+- [ ] [r - Arrange a grouped_df by group variable not working - Stack Overflow](https://stackoverflow.com/questions/26555297/arrange-a-grouped-df-by-group-variable-not-working)
+
+- [ ] [r - Combine rows and sum their values - Stack Overflow](https://stackoverflow.com/questions/16535261/combine-rows-and-sum-their-values)
+
+- [ ] [r - Combine two data frames by rows (rbind) when they have different sets of columns - Stack Overflow](https://stackoverflow.com/questions/3402371/combine-two-data-frames-by-rows-rbind-when-they-have-different-sets-of-columns)
+
+- [ ] [r - dplyr issues when using group_by(multiple variables) - Stack Overflow](https://stackoverflow.com/questions/21653295/dplyr-issues-when-using-group-bymultiple-variables)
+
+- [ ] [r - dplyr pivot table - Stack Overflow](https://stackoverflow.com/questions/29720473/dplyr-pivot-table)
+
+- [ ] [r - dplyr::select - programatically rearrange columns using character variable for column name - Stack Overflow](https://stackoverflow.com/questions/46107863/dplyrselect-programatically-rearrange-columns-using-character-variable-for-c)
+
+- [ ] [r - group and average replicates from a data frame - Stack Overflow](https://stackoverflow.com/questions/24580022/group-and-average-replicates-from-a-data-frame)
+
+- [ ] [r - group_by dplyr is not grouping - Stack Overflow](https://stackoverflow.com/questions/51331719/group-by-dplyr-is-not-grouping)
+
+- [ ] [r - How does one reorder columns in a data frame? - Stack Overflow](https://stackoverflow.com/questions/5620885/how-does-one-reorder-columns-in-a-data-frame)
+
+- [ ] [r - How to join (merge) data frames (inner, outer, left, right) - Stack Overflow](https://stackoverflow.com/questions/1299871/how-to-join-merge-data-frames-inner-outer-left-right)
+
+- [ ] [r - How to specify names of columns for x and y when joining in dplyr? - Stack Overflow](https://stackoverflow.com/questions/21888910/how-to-specify-names-of-columns-for-x-and-y-when-joining-in-dplyr)
+
+- [ ] [r - How to use tidyr package to average replicate data for different time points and plot each separately? - Stack Overflow](https://stackoverflow.com/questions/50062535/how-to-use-tidyr-package-to-average-replicate-data-for-different-time-points-and)
+
+- [ ] [r - Merge two rows in data.frame - Stack Overflow](https://stackoverflow.com/questions/45298997/merge-two-rows-in-data-frame)
+
+- [ ] [r - Move a column to first position in a data frame - Stack Overflow](https://stackoverflow.com/questions/22286419/move-a-column-to-first-position-in-a-data-frame)
+
+- [ ] [r - Moving columns within a data.frame() without retyping - Stack Overflow](https://stackoverflow.com/questions/3369959/moving-columns-within-a-data-frame-without-retyping)
+
+- [ ] [r - Pivoting rows into columns - Stack Overflow](https://stackoverflow.com/questions/3835280/pivoting-rows-into-columns)
+
+- [ ] [r - qqnorm and qqline in ggplot2 - Stack Overflow](https://stackoverflow.com/questions/4357031/qqnorm-and-qqline-in-ggplot2/27191036)
+
+- [ ] [r - Reordering columns in a large dataframe - Stack Overflow](https://stackoverflow.com/questions/18339370/reordering-columns-in-a-large-dataframe)
+
+- [ ] [r - Table and group_by in dplyr - Stack Overflow](https://stackoverflow.com/questions/42051768/table-and-group-by-in-dplyr)
+
+- [ ] [r - Why are my dplyr group_by & summarize not working properly? (name-collision with plyr) - Stack Overflow](https://stackoverflow.com/questions/26923862/why-are-my-dplyr-group-by-summarize-not-working-properly-name-collision-with)
+
+- [ ] [r - Why parametric bootstrapping bias and standard error are zero here? - Stack Overflow](https://stackoverflow.com/questions/31642808/why-parametric-bootstrapping-bias-and-standard-error-are-zero-here)
+
+- [ ] [R re-arrange dataframe: some rows to columns - Stack Overflow](https://stackoverflow.com/questions/19346066/r-re-arrange-dataframe-some-rows-to-columns)
+
+- [ ] [R: frequency with group by ID - Stack Overflow](https://stackoverflow.com/questions/40378299/r-frequency-with-group-by-id)
+
+- [ ] [R: Fuzzy merge using agrep and data.table - Stack Overflow](https://stackoverflow.com/questions/52402768/r-fuzzy-merge-using-agrep-and-data-table)
+
+- [ ] [R: Using group and summarize to make a pivot table - Stack Overflow](https://stackoverflow.com/questions/52840637/r-using-group-and-summarize-to-make-a-pivot-table)
+
+- [ ] [reshape - How to create a pivot table in R with multiple (3+) variables - Stack Overflow](https://stackoverflow.com/questions/18622854/how-to-create-a-pivot-table-in-r-with-multiple-3-variables)
+
+- [ ] [Reshaping a table with dplyr in R - Stack Overflow](https://stackoverflow.com/questions/47462199/reshaping-a-table-with-dplyr-in-r)
+
+- [ ] [statistics - Non-parametric bootstrapping on the highest level of clustered data using boot() function from {boot} in R - Stack Overflow](https://stackoverflow.com/questions/26177270/non-parametric-bootstrapping-on-the-highest-level-of-clustered-data-using-boot)
+
+- [ ] [statistics - R studio: Creating a pivot-like table of a subset of data from excel - Stack Overflow](https://stackoverflow.com/questions/52047546/r-studio-creating-a-pivot-like-table-of-a-subset-of-data-from-excel)
+
+
+## 11/24/2019
+
+- [ ] [Bootstrap based bias correction - Cross Validated](https://stats.stackexchange.com/questions/393098/bootstrap-based-bias-correction)
+
+- [ ] [Explanation of confidence interval from R function boot.ci - Cross Validated](https://stats.stackexchange.com/questions/372589/explanation-of-confidence-interval-from-r-function-boot-ci)
+
+- [ ] [How to summarize data by group in R? - Cross Validated](https://stats.stackexchange.com/questions/8225/how-to-summarize-data-by-group-in-r)
+
+- [ ] [Manually bootstrapping linear regression in R - Cross Validated](https://stats.stackexchange.com/questions/316483/manually-bootstrapping-linear-regression-in-r)
+
+- [ ] [probability - PP-plots vs. QQ-plots - Cross Validated](https://stats.stackexchange.com/questions/92141/pp-plots-vs-qq-plots)
+
+- [ ] [r - Bias-corrected percentile confidence intervals - Cross Validated](https://stats.stackexchange.com/questions/298506/bias-corrected-percentile-confidence-intervals)
+
+- [ ] [r - Biased bootstrap: is it okay to center the CI around the observed statistic? - Cross Validated](https://stats.stackexchange.com/questions/156235/biased-bootstrap-is-it-okay-to-center-the-ci-around-the-observed-statistic)
+
+- [ ] [R - QQPlot: how to see whether data are normally distributed - Cross Validated](https://stats.stackexchange.com/questions/52293/r-qqplot-how-to-see-whether-data-are-normally-distributed)
+
+- [ ] [regression - How does bootstrapping in R actually work? - Cross Validated](https://stats.stackexchange.com/questions/63652/how-does-bootstrapping-in-r-actually-work)
+
+- [ ] [stats.stackexchange.com](https://stats.stackexchange.com/a/277391/28500)
+
+- [ ] [What is bias correction? - Cross Validated](https://stats.stackexchange.com/questions/31253/what-is-bias-correction)
+
+- [ ] [What's the point of reporting bootstrap bias? - Cross Validated](https://stats.stackexchange.com/questions/331423/whats-the-point-of-reporting-bootstrap-bias)
+
+- [ ] [When is the bootstrap estimate of bias valid? - Cross Validated](https://stats.stackexchange.com/questions/129478/when-is-the-bootstrap-estimate-of-bias-valid)
+
+- [ ] [Which bootstrap confidence intervals are provided by boot.ci in R? - Cross Validated](https://stats.stackexchange.com/questions/331438/which-bootstrap-confidence-intervals-are-provided-by-boot-ci-in-r)
+
+
+# DataViz
+
+
+## 11/24/2019
+
+- [ ] [display multiple plots in a list using grid.arrange in R - Stack Overflow](https://stackoverflow.com/questions/32161688/display-multiple-plots-in-a-list-using-grid-arrange-in-r)
+
+- [ ] [ggplot2 - How to manage the t, b, l, r coordinates of gtable() to plot the secondary y-axis's labels and tick marks properly - Stack Overflow](https://stackoverflow.com/questions/37984000/how-to-manage-the-t-b-l-r-coordinates-of-gtable-to-plot-the-secondary-y-axi)
+
+- [ ] [graph - plot grouped data in R - Stack Overflow](https://stackoverflow.com/questions/15546468/plot-grouped-data-in-r)
+
+- [ ] [How to calculate the mean in a data frame using aggregate function in R? - Stack Overflow](https://stackoverflow.com/questions/31816737/how-to-calculate-the-mean-in-a-data-frame-using-aggregate-function-in-r)
+
+- [ ] [How to plot two histograms together in R? - Stack Overflow](https://stackoverflow.com/questions/3541713/how-to-plot-two-histograms-together-in-r)
+
+- [ ] [in R, how to calculate mean of all column, by group? - Stack Overflow](https://stackoverflow.com/questions/40947288/in-r-how-to-calculate-mean-of-all-column-by-group)
+
+- [ ] [Newest 'kable' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/kable)
+
+- [ ] [plot - R - ggplot2 geom_area only one category visible? - Stack Overflow](https://stackoverflow.com/questions/39986072/r-ggplot2-geom-area-only-one-category-visible)
+
+- [ ] [Plot two graphs in same plot in R - Stack Overflow](https://stackoverflow.com/questions/2564258/plot-two-graphs-in-same-plot-in-r)
+
+- [ ] [r - Apply a ggplot-function per group with dplyr and set title per group - Stack Overflow](https://stackoverflow.com/questions/29034863/apply-a-ggplot-function-per-group-with-dplyr-and-set-title-per-group)
+
+- [ ] [r - Arrange ggplot plots (grobs with same widths) using gtable to create 2x2 layout - Stack Overflow](https://stackoverflow.com/questions/35068129/arrange-ggplot-plots-grobs-with-same-widths-using-gtable-to-create-2x2-layout)
+
+- [ ] [r - Calculate the mean by group - Stack Overflow](https://stackoverflow.com/questions/11562656/calculate-the-mean-by-group)
+
+- [ ] [r - Creating multiple plots in ggplot with different Y-axis values using a loop - Stack Overflow](https://stackoverflow.com/questions/38223193/creating-multiple-plots-in-ggplot-with-different-y-axis-values-using-a-loop)
+
+- [ ] [r - dismantling a ggplot with grid and gtable - Stack Overflow](https://stackoverflow.com/questions/27750737/dismantling-a-ggplot-with-grid-and-gtable)
+
+- [ ] [r - geom_area group and fill by different variables - Stack Overflow](https://stackoverflow.com/questions/33209797/geom-area-group-and-fill-by-different-variables)
+
+- [ ] [r - geom_area plot with areas and outlines ggplot - Stack Overflow](https://stackoverflow.com/questions/12323060/geom-area-plot-with-areas-and-outlines-ggplot)
+
+- [ ] [r - geom_area plots stacked areas by default - Stack Overflow](https://stackoverflow.com/questions/53549657/geom-area-plots-stacked-areas-by-default)
+
+- [ ] [r - ggplot two shaded areas geom_area - Stack Overflow](https://stackoverflow.com/questions/48503222/ggplot-two-shaded-areas-geom-area)
+
+- [ ] [r - ggplot with 2 y axes on each side and different scales - Stack Overflow](https://stackoverflow.com/questions/3099219/ggplot-with-2-y-axes-on-each-side-and-different-scales)
+
+- [ ] [r - ggplot with a lot of groups; subplots (facets) for better arrangement - Stack Overflow](https://stackoverflow.com/questions/44400533/ggplot-with-a-lot-of-groups-subplots-facets-for-better-arrangement)
+
+- [ ] [r - ggplot with a lot of groups; subplots (facets) for better arrangement - Stack Overflow](https://stackoverflow.com/questions/44400533/ggplot-with-a-lot-of-groups-subplots-facets-for-better-arrangement)
+
+- [ ] [r - ggplot: align multiple faceted plots - facets all different sizes - Stack Overflow](https://stackoverflow.com/questions/50632038/ggplot-align-multiple-faceted-plots-facets-all-different-sizes)
+
+- [ ] [r - ggplot() lines transparency - Stack Overflow](https://stackoverflow.com/questions/14411270/ggplot-lines-transparency)
+
+- [ ] [r - ggplot2 geom_area overlay area plots in front of each other - Stack Overflow](https://stackoverflow.com/questions/40515581/ggplot2-geom-area-overlay-area-plots-in-front-of-each-other)
+
+- [ ] [r - grid.arrange from gridExtras exiting with "only 'grobs' allowed in 'gList'" after update - Stack Overflow](https://stackoverflow.com/questions/34838870/grid-arrange-from-gridextras-exiting-with-only-grobs-allowed-in-glist-afte/34839064)
+
+- [ ] [r - grid.arrange from gridExtras exiting with “only 'grobs' allowed in 'gList'” after update - Stack Overflow](https://stackoverflow.com/questions/43653983/grid-arrange-from-gridextras-exiting-with-only-grobs-allowed-in-glist-afte)
+
+- [ ] [r - gtable: Put a black line around all cells in the table body - Stack Overflow](https://stackoverflow.com/questions/31506294/gtable-put-a-black-line-around-all-cells-in-the-table-body)
+
+- [ ] [r - How can I align multiple plots by their titles instead of plot area? - Stack Overflow](https://stackoverflow.com/questions/47667729/how-can-i-align-multiple-plots-by-their-titles-instead-of-plot-area)
+
+- [ ] [r - How do I fill a geom_area() plot using ggplot? - Stack Overflow](https://stackoverflow.com/questions/7883154/how-do-i-fill-a-geom-area-plot-using-ggplot)
+
+- [ ] [r - How to set different y-axis scale in a facet_grid with ggplot? - Stack Overflow](https://stackoverflow.com/questions/28111413/how-to-set-different-y-axis-scale-in-a-facet-grid-with-ggplot)
+
+- [ ] [r - How to sum a variable by group - Stack Overflow](https://stackoverflow.com/questions/1660124/how-to-sum-a-variable-by-group)
+
+- [ ] [r - Looping over variables in ggplot - Stack Overflow](https://stackoverflow.com/questions/4856849/looping-over-variables-in-ggplot/52045613#52045613)
+
+- [ ] [r - Mean per group in a data.frame - Stack Overflow](https://stackoverflow.com/questions/21982987/mean-per-group-in-a-data-frame)
+
+- [ ] [r - Nested facets in ggplot2 spanning groups - Stack Overflow](https://stackoverflow.com/questions/40316169/nested-facets-in-ggplot2-spanning-groups)
+
+- [ ] [r - Only grobs allowed in gList - Stack Overflow](https://stackoverflow.com/questions/42742815/only-grobs-allowed-in-glist)
+
+- [ ] [r - Plot multiple boxplot in one graph - Stack Overflow](https://stackoverflow.com/questions/14604439/plot-multiple-boxplot-in-one-graph)
+
+- [ ] [r - Plotting different y-axis scaling using ggplot facet_grid()? - Stack Overflow](https://stackoverflow.com/questions/46187312/plotting-different-y-axis-scaling-using-ggplot-facet-grid)
+
+- [ ] [r - Separate y axis for different facets in ggplot - Stack Overflow](https://stackoverflow.com/questions/20355962/separate-y-axis-for-different-facets-in-ggplot)
+
+- [ ] [r - Setting different Y-axis ranges for plot with facets (scales = "free" seems not working) - Stack Overflow](https://stackoverflow.com/questions/49635553/setting-different-y-axis-ranges-for-plot-with-facets-scales-free-seems-not)
+
+- [ ] [r - Setting individual axis limits with facet_wrap and scales = "free" in ggplot2 - Stack Overflow](https://stackoverflow.com/questions/18046051/setting-individual-axis-limits-with-facet-wrap-and-scales-free-in-ggplot2)
+
+- [ ] [r - Side-by-side plots with ggplot2 - Stack Overflow](https://stackoverflow.com/questions/1249548/side-by-side-plots-with-ggplot2)
+
+- [ ] [r - Side-by-side plots with ggplot2 - Stack Overflow](https://stackoverflow.com/questions/1249548/side-by-side-plots-with-ggplot2/31223588#31223588)
+
+- [ ] [r - Specify widths and heights of plots with grid.arrange - Stack Overflow](https://stackoverflow.com/questions/36198451/specify-widths-and-heights-of-plots-with-grid-arrange)
+
+- [ ] [R inconsistency: why add=T sometimes works and sometimes not in the plot() function? - Stack Overflow](https://stackoverflow.com/questions/6789055/r-inconsistency-why-add-t-sometimes-works-and-sometimes-not-in-the-plot-funct)

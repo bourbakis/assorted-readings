@@ -4277,3 +4277,200 @@ https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
 - [ ] [tidyr pivot table - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQnctrDYYYztzdS4We4-WYmvCqWVg%3A1574292827719&lei=W83VXcjEK4yvmAXQzJnQCg&q=tidyr%20pivot%20table&ved=2ahUKEwiFvIXn-fnlAhUKCqYKHdsvCqcQsKwBKAN6BAgBEAQ)
 
 - [ ] [What is the distribution of possion proces and its parameters - Google Search](https://www.google.com/search?q=What%20is%20the%20distribution%20of%20possion%20proces%20and%20its%20parameters)
+
+
+# Dataviz and Pivot table
+
+
+## 11/24/2019
+
+- [ ] [.dots r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRmdIXfEUsBsq0xuaOYuj_6xVUVrg%3A1574519087094&lei=L0HZXf2VBYrVmAWvkabYAQ&q=.dots%20r&ved=2ahUKEwifxI3YxIDmAhWpGaYKHcc9DgYQsKwBKAN6BAgAEAQ&biw=1920&bih=899)
+
+- [ ] [“Punishment, Cooperation, and CheaterDetection in ‘Noisy’ Social Exchange, - Google Search](https://www.google.com/search?q=%E2%80%9CPunishment%2C+Cooperation%2C+and+CheaterDetection+in+%E2%80%98Noisy%E2%80%99+Social+Exchange%2C&oq=%E2%80%9CPunishment%2C+Cooperation%2C+and+CheaterDetection+in+%E2%80%98Noisy%E2%80%99+Social+Exchange%2C&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [add grob to gtable - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=add+grob+to+gtable&sa=X&ved=2ahUKEwivicnq4YHmAhWayIsBHY-eBwoQ1QIoAXoECGcQAg)
+
+- [ ] [altruistic punishment in humans - Google Search](https://www.google.com/search?q=altruistic+punishment+in+humans&oq=Altruistic+Punishment+in+Humans&aqs=chrome.0.0l6j69i64.1365j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [average replicates in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA%3A1574519077920&lei=JUHZXYjSN8yZr7wP9Z2siAk&q=average%20replicates%20in%20r&ved=2ahUKEwjChrzTxIDmAhUpwosBHR_aCTIQsKwBKAJ6BAgAEAM&biw=958&bih=919)
+
+- [ ] [Collusion as public monitoring be-comes noisy: Experimental evidenc - Google Search](https://www.google.com/search?q=Collusion+as+public+monitoring+be-comes+noisy%3A+Experimental+evidenc&oq=Collusion+as+public+monitoring+be-comes+noisy%3A+Experimental+evidenc&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Cooperation and punishment in publicgoods experiment - Google Search](https://www.google.com/search?q=Cooperation+and+punishment+in+publicgoods+experiment&oq=Cooperation+and+punishment+in+publicgoods+experiment&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [could not find function "group_by" - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTaqJVndmkbhpwlKevKXICvruOr-w%3A1574562065889&lei=EenZXbbuNdWXr7wP0YuC4Ao&q=could%20not%20find%20function%20%22group_by%22&ved=2ahUKEwj7r5Hm5IHmAhWpGaYKHQQRBAoQsKwBKAV6BAgDEAY)
+
+- [ ] [could not find function "plot_grid" - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRp0XnSwVsCMGX0CAvkjo60bZ-wWw:1574561302284&q=could+not+find+function+%22plot_grid%22&sa=X&ved=2ahUKEwiV1uX44YHmAhWhIaYKHafaAcUQ1QIoA3oECGAQBA)
+
+- [ ] [cowplot dpi - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRp0XnSwVsCMGX0CAvkjo60bZ-wWw:1574561302284&q=cowplot+dpi&sa=X&ved=2ahUKEwiV1uX44YHmAhWhIaYKHafaAcUQ1QIoBHoECGAQBQ)
+
+- [ ] [cowplot r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRp0XnSwVsCMGX0CAvkjo60bZ-wWw:1574561302284&q=cowplot+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwiV1uX44YHmAhWhIaYKHafaAcUQsAR6BAgNEAE)
+
+- [ ] [cowplot r documentation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRp0XnSwVsCMGX0CAvkjo60bZ-wWw:1574561302284&q=cowplot+r+documentation&sa=X&ved=2ahUKEwiV1uX44YHmAhWhIaYKHafaAcUQ1QIoBXoECGAQBg)
+
+- [ ] [cowplot r github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRp0XnSwVsCMGX0CAvkjo60bZ-wWw:1574561302284&q=cowplot+r+github&sa=X&ved=2ahUKEwiV1uX44YHmAhWhIaYKHafaAcUQ1QIoAHoECGAQAQ)
+
+- [ ] [cowplot shared axis label - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRp0XnSwVsCMGX0CAvkjo60bZ-wWw:1574561302284&q=cowplot+shared+axis+label&sa=X&ved=2ahUKEwiV1uX44YHmAhWhIaYKHafaAcUQ1QIoAXoECGAQAg)
+
+- [ ] [dplyr - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=dplyr&stick=H4sIAAAAAAAAACWNsQrCMBQAjb5UBwVxcJTgIrjEuZOf4Oz2TF-1kCYhCdj-zaOf6WSr43EctzrtNroz-pnxYelK7riesAq2jyOdDy1lLHUX0JEdjXeGQi5TU9Eb-3Qv_uEgtlMWqW4cteSyvnzE_kY-WFJok1eJMJqXqn1kAIY5w4xBMCwZFgwFgxyk_G2_2OCGg5MAAAA&sa=X&ved=2ahUKEwivicnq4YHmAhWayIsBHY-eBwoQ0p8CMHh6BAhmEBk)
+
+- [ ] [dplyr summarise keep columns - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA%3A1574519077920&lei=JUHZXYjSN8yZr7wP9Z2siAk&q=dplyr%20summarise%20keep%20columns&ved=2ahUKEwjChrzTxIDmAhUpwosBHR_aCTIQsKwBKAR6BAgBEAU)
+
+- [ ] [dplyr summarise_at - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA%3A1574519077920&lei=JUHZXYjSN8yZr7wP9Z2siAk&q=dplyr%20summarise_at&ved=2ahUKEwjChrzTxIDmAhUpwosBHR_aCTIQsKwBKAJ6BAgBEAM)
+
+- [ ] [Eli Zvuluny - Google Search](https://www.google.com/search?q=Eli+Zvuluny&oq=Eli+Zvuluny&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [error: dependency ‘cowplot’ is not available for package ‘ggpubr’ - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRp0XnSwVsCMGX0CAvkjo60bZ-wWw:1574561302284&q=error:+dependency+%E2%80%98cowplot%E2%80%99+is+not+available+for+package+%E2%80%98ggpubr%E2%80%99&sa=X&ved=2ahUKEwiV1uX44YHmAhWhIaYKHafaAcUQ1QIoBnoECGAQBw)
+
+- [ ] [ggexport - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyXK3PX07u7fUYQWo9LPOUCHGRQQ%3A1574561266810&lei=8uXZXfH6MLyTr7wP27C9-A0&q=ggexport&ved=2ahUKEwj9gKLp4YHmAhXDL6YKHW_NATMQsKwBKAR6BAgBEAU)
+
+- [ ] [ggplot grid lines - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyXK3PX07u7fUYQWo9LPOUCHGRQQ%3A1574561266810&lei=8uXZXfH6MLyTr7wP27C9-A0&q=ggplot%20grid%20lines&ved=2ahUKEwj9gKLp4YHmAhXDL6YKHW_NATMQsKwBKAF6BAgAEAI)
+
+- [ ] [ggplot group plots - Google Search](https://www.google.com/search?q=ggplot+group+plots&oq=ggplot+group+plot&aqs=chrome.0.0j69i57j0l6.7495j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [ggplot overlay plots - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyXK3PX07u7fUYQWo9LPOUCHGRQQ%3A1574561266810&lei=8uXZXfH6MLyTr7wP27C9-A0&q=ggplot%20overlay%20plots&ved=2ahUKEwj9gKLp4YHmAhXDL6YKHW_NATMQsKwBKAN6BAgAEAQ)
+
+- [ ] [ggplot overlay plots - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyXK3PX07u7fUYQWo9LPOUCHGRQQ%3A1574561266810&lei=8uXZXfH6MLyTr7wP27C9-A0&q=ggplot%20overlay%20plots&ved=2ahUKEwj9gKLp4YHmAhXDL6YKHW_NATMQsKwBKAB6BAgBEAE)
+
+- [ ] [ggtexttable - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyXK3PX07u7fUYQWo9LPOUCHGRQQ%3A1574561266810&lei=8uXZXfH6MLyTr7wP27C9-A0&q=ggtexttable&ved=2ahUKEwj9gKLp4YHmAhXDL6YKHW_NATMQsKwBKAN6BAgBEAQ)
+
+- [ ] [googlevis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=googlevis&stick=H4sIAAAAAAAAAD2NsQrCMBRFrb5WHQRxcJTgIrjEuZOf4Oz2rLc1kCalCVr_5tHPdLJUcLzncLiLw2alu0JXkW8WZ7j9epzeVxZPEwZy3NWInOuuYQc7WO8KNDEP5o4Xv8M1-8V9MqYtSuNQw0V9-iTbC3xjodgGrwK4LR6q9K0QCU2FJkKJ0FxoJpQJpX26_F9_AXUZ4PKbAAAA&sa=X&ved=2ahUKEwivicnq4YHmAhWayIsBHY-eBwoQ0p8CMHh6BAhmEBc)
+
+- [ ] [gridextra r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRp0XnSwVsCMGX0CAvkjo60bZ-wWw:1574561302284&q=gridextra+r&sa=X&ved=2ahUKEwiV1uX44YHmAhWhIaYKHafaAcUQ1QIoB3oECGAQCA)
+
+- [ ] [group by and mutate in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA:1574519077920&q=group+by+and+mutate+in+r&sa=X&ved=2ahUKEwjI-NLSxIDmAhXMzIsBHfUOC5EQ1QIoB3oECGYQCA)
+
+- [ ] [group by in r dplyr - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTaqJVndmkbhpwlKevKXICvruOr-w%3A1574562065889&lei=EenZXbbuNdWXr7wP0YuC4Ao&q=group%20by%20in%20r%20dplyr&ved=2ahUKEwj7r5Hm5IHmAhWpGaYKHQQRBAoQsKwBKAB6BAgDEAE)
+
+- [ ] [group by in r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA:1574519077920&q=group+by+in+r+example&sa=X&ved=2ahUKEwjI-NLSxIDmAhXMzIsBHfUOC5EQ1QIoAHoECGYQAQ)
+
+- [ ] [group by multiple columns in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA:1574519077920&q=group+by+multiple+columns+in+r&sa=X&ved=2ahUKEwjI-NLSxIDmAhXMzIsBHfUOC5EQ1QIoA3oECGYQBA)
+
+- [ ] [group numbers in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA%3A1574519077920&lei=JUHZXYjSN8yZr7wP9Z2siAk&q=group%20numbers%20in%20r&ved=2ahUKEwjChrzTxIDmAhUpwosBHR_aCTIQsKwBKAV6BAgBEAY)
+
+- [ ] [group_by r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA:1574519077920&q=group_by+r&sa=X&ved=2ahUKEwjI-NLSxIDmAhXMzIsBHfUOC5EQ1QIoBXoECGYQBg)
+
+- [ ] [gtable - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRD9lj974PJARmSPL-H64cA7RE_3g:1574562184158&q=gtable&tbm=isch&chips=q:g+table,g_1:statistics:FwHRsyGdHnM%3D&usg=AI4_-kQ9pGOOq10WfTouLyg3wm-VZ7J8xQ&sa=X&ved=2ahUKEwiMg6ed5YHmAhVLBKYKHWSDBrs4ZBCAigMoAHoECA0QBA)
+
+- [ ] [gtable - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=gtable&stick=H4sIAAAAAAAAAONQF-LVr0jWTy9JTMpJdUjNU0LlasnlppYkWulXFCTmpeYApfLzklMLSqyKM1NSyxMri6PYIEoXMQqA9BWlpmXmpeam5pXoG_xiFAtIzS_ISVVIzCnOVyhOTSxKzlBIyy9awMKygIVpAQvDAhbGBSzsC1iYF7CwLWBhXcQKNQwASFQVrJUAAAA)
+
+- [ ] [gtable rbind - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNRMFqk1-3ZJlCRAOT2aFWwGlfslrw:1574562189596&q=gtable+rbind&spell=1&sa=X&ved=2ahUKEwjw-PKf5YHmAhWvGKYKHXf4DPIQBSgAegQIShAq&cshid=1574562197159362)
+
+- [ ] [gtable rdb - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=gtable+rdb&sa=X&ved=2ahUKEwivicnq4YHmAhWayIsBHY-eBwoQ1QIoA3oECGcQBA)
+
+- [ ] [gtable respect - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=gtable+respect&sa=X&ved=2ahUKEwivicnq4YHmAhWayIsBHY-eBwoQ1QIoAHoECGcQAQ)
+
+- [ ] [gtable_rbind - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=gtable_rbind&sa=X&ved=2ahUKEwivicnq4YHmAhWayIsBHY-eBwoQ1QIoBnoECGcQBw)
+
+- [ ] [gtable_rbind - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=948&sxsrf=ACYBGNRMFqk1-3ZJlCRAOT2aFWwGlfslrw:1574562189596&q=gtable_rbind&tbm=isch&source=univ&ved=2ahUKEwjw-PKf5YHmAhWvGKYKHXf4DPIQsAR6BAgREAE&cshid=1574562197159362)
+
+- [ ] [he evolutionof altruistic punishmen - Google Search](https://www.google.com/search?q=he+evolutionof+altruistic+punishmen&oq=he+evolutionof+altruistic+punishmen&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [he pleasure of being nasty - Google Search](https://www.google.com/search?q=he+pleasure+of+being+nasty&oq=he+pleasure+of+being+nasty&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [he speed of learning in noisygames: Partial reinforcement and the sustainability of cooperation - Google Search](https://www.google.com/search?q=he+speed+of+learning+in+noisygames%3A+Partial+reinforcement+and+the+sustainability+of+cooperation&oq=he+speed+of+learning+in+noisygames%3A+Partial+reinforcement+and+the+sustainability+of+cooperation&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Imperfect Public Monitoring with Costly Punishment: - Google Search](https://www.google.com/search?q=Imperfect%20Public%20Monitoring%20with%20Costly%20Punishment%3A)
+
+- [ ] [Imperfect public monitoring with costlypunishment - An experimental study python codes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSDpWdt5HTViSv8wt21_9AFpicmSg%3A1574517021994&ei=HTnZXcOMPMizmAXAzZ2gBQ&q=Imperfect+public+monitoring+with+costlypunishment+-+An+experimental+study+python+codes&oq=Imperfect+public+monitoring+with+costlypunishment+-+An+experimental+study+python+codes&gs_l=psy-ab.3...111836.117540..117682...1.0..0.806.2424.0j3j5-1j2......0....1..gws-wiz.......33i10.vRWltO8JmVc&ved=0ahUKEwiDj6f-vIDmAhXIGaYKHcBmB1QQ4dUDCAs&uact=5)
+
+- [ ] [lubridate - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=lubridate&stick=H4sIAAAAAAAAAD2NsQrCMBRFjb5WHQRxcJTgIrjEuZOf4Oz2mr7WQpqEJGL9m0c_00mr4HjP4XAXh81K9Vo1CUtDZ7L79TjNvQxthWkkx11HCQvVe7RkPtZZTT4Vsa3ogc94zX_xIL5poLq11JFN6vQS2ws5b0iiiU5GwqBvsnaBARimDBMGwTBnmDHkDNmQLf_Xb5ia5sabAAAA&sa=X&ved=2ahUKEwivicnq4YHmAhWayIsBHY-eBwoQ0p8CMHh6BAhmEB8)
+
+- [ ] [Microeconomics: Behavior, institutions, and evolutio - Google Search](https://www.google.com/search?q=Microeconomics%3A+Behavior%2C+institutions%2C+and+evolutio&oq=Microeconomics%3A+Behavior%2C+institutions%2C+and+evolutio&aqs=chrome..69i57j69i58&sourceid=chrome&ie=UTF-8)
+
+- [ ] [multiplot r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyXK3PX07u7fUYQWo9LPOUCHGRQQ%3A1574561266810&lei=8uXZXfH6MLyTr7wP27C9-A0&q=multiplot%20r&ved=2ahUKEwj9gKLp4YHmAhXDL6YKHW_NATMQsKwBKAJ6BAgAEAM)
+
+- [ ] [multiplot r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyXK3PX07u7fUYQWo9LPOUCHGRQQ%3A1574561266810&lei=8uXZXfH6MLyTr7wP27C9-A0&q=multiplot%20r&ved=2ahUKEwj9gKLp4YHmAhXDL6YKHW_NATMQsKwBKAF6BAgBEAI)
+
+- [ ] [only 'grobs' allowed in "glist" - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyXK3PX07u7fUYQWo9LPOUCHGRQQ%3A1574561266810&lei=8uXZXfH6MLyTr7wP27C9-A0&q=only%20%27grobs%27%20allowed%20in%20%22glist%22&ved=2ahUKEwj9gKLp4YHmAhXDL6YKHW_NATMQsKwBKAB6BAgAEAE)
+
+- [ ] [only 'grobs' allowed in "glist" - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyXK3PX07u7fUYQWo9LPOUCHGRQQ%3A1574561266810&lei=8uXZXfH6MLyTr7wP27C9-A0&q=only%20%27grobs%27%20allowed%20in%20%22glist%22&ved=2ahUKEwj9gKLp4YHmAhXDL6YKHW_NATMQsKwBKAJ6BAgBEAM)
+
+- [ ] [pretty table in html kable r - Google Search](https://www.google.com/search?q=pretty+table+in+html+kable+r&oq=pretty+table+in+html+kable+r&aqs=chrome..69i57.5231j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Punishment allows the evolution ofcooperation (or anything else) in sizable group - Google Search](https://www.google.com/search?q=Punishment+allows+the+evolution+ofcooperation+(or+anything+else)+in+sizable+group&oq=Punishment+allows+the+evolution+ofcooperation+(or+anything+else)+in+sizable+group&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [r aggregate mean by group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA:1574519077920&q=r+aggregate+mean+by+group&sa=X&ved=2ahUKEwjI-NLSxIDmAhXMzIsBHfUOC5EQ1QIoBHoECGYQBQ)
+
+- [ ] [r aggregate multiple columns - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTaqJVndmkbhpwlKevKXICvruOr-w%3A1574562065889&lei=EenZXbbuNdWXr7wP0YuC4Ao&q=r%20aggregate%20multiple%20columns&ved=2ahUKEwj7r5Hm5IHmAhWpGaYKHQQRBAoQsKwBKAN6BAgDEAQ&biw=1920&bih=948)
+
+- [ ] [r aggregate sum - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTaqJVndmkbhpwlKevKXICvruOr-w%3A1574562065889&lei=EenZXbbuNdWXr7wP0YuC4Ao&q=r%20aggregate%20sum&ved=2ahUKEwj7r5Hm5IHmAhWpGaYKHQQRBAoQsKwBKAJ6BAgDEAM)
+
+- [ ] [r grob - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=r+grob&sa=X&ved=2ahUKEwivicnq4YHmAhWayIsBHY-eBwoQ1QIoB3oECGcQCA)
+
+- [ ] [r group by count - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTaqJVndmkbhpwlKevKXICvruOr-w%3A1574562065889&lei=EenZXbbuNdWXr7wP0YuC4Ao&q=r%20group%20by%20count&ved=2ahUKEwj7r5Hm5IHmAhWpGaYKHQQRBAoQsKwBKAR6BAgDEAU)
+
+- [ ] [r group by count - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA:1574519077920&q=r+group+by+count&sa=X&ved=2ahUKEwjI-NLSxIDmAhXMzIsBHfUOC5EQ1QIoAnoECGYQAw)
+
+- [ ] [r group by count - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA%3A1574519077920&lei=JUHZXYjSN8yZr7wP9Z2siAk&q=r%20group%20by%20count&ved=2ahUKEwjChrzTxIDmAhUpwosBHR_aCTIQsKwBKAB6BAgBEAE)
+
+- [ ] [r group by sum - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA:1574519077920&q=r+group+by+sum&sa=X&ved=2ahUKEwjI-NLSxIDmAhXMzIsBHfUOC5EQ1QIoAXoECGYQAg)
+
+- [ ] [r sum multiple columns by group - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTaqJVndmkbhpwlKevKXICvruOr-w%3A1574562065889&lei=EenZXbbuNdWXr7wP0YuC4Ao&q=r%20sum%20multiple%20columns%20by%20group&ved=2ahUKEwj7r5Hm5IHmAhWpGaYKHQQRBAoQsKwBKAF6BAgDEAI)
+
+- [ ] [r sum multiple columns by group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA:1574519077920&q=r+sum+multiple+columns+by+group&sa=X&ved=2ahUKEwjI-NLSxIDmAhXMzIsBHfUOC5EQ1QIoBnoECGYQBw)
+
+- [ ] [r sum multiple columns by group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ2bUW3LrMNxOZn0ZwLu-yWg4IvTA%3A1574519077920&lei=JUHZXYjSN8yZr7wP9Z2siAk&q=r%20sum%20multiple%20columns%20by%20group&ved=2ahUKEwjChrzTxIDmAhUpwosBHR_aCTIQsKwBKAN6BAgBEAQ)
+
+- [ ] [rpart - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=rpart&stick=H4sIAAAAAAAAACWLsQrCMBQArb5WF0EdHCW4CC4Jjp38BGe3Z_qqhTQJSdDq1zz6mU62ON4dtzhslrLT8p7wZuhMdr8eUbZSncKz-qhBHXctJSxl59GSGbKzmnwqY1PRC9_xWvzvPluNb6C6sdSSTVJ9s-2FnDck0EQnImHQD1G7wAAMU4YJQ8YwZ5gxFAx5n-fBY0g_c86ytpgAAAA&sa=X&ved=2ahUKEwivicnq4YHmAhWayIsBHY-eBwoQ0p8CMHh6BAhmEB0)
+
+- [ ] [table group by r - Google Search](https://www.google.com/search?q=table+group+by+r&oq=table+group+by+r&aqs=chrome..69i57j0l2j69i60l2j69i64l3.7372j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [tablegrob - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyXK3PX07u7fUYQWo9LPOUCHGRQQ%3A1574561266810&lei=8uXZXfH6MLyTr7wP27C9-A0&q=tablegrob&ved=2ahUKEwj9gKLp4YHmAhXDL6YKHW_NATMQsKwBKAV6BAgAEAY)
+
+- [ ] [The economics of altruistic punishment andthe maintenance of cooperatio - Google Search](https://www.google.com/search?q=The+economics+of+altruistic+punishment+andthe+maintenance+of+cooperatio&oq=The+economics+of+altruistic+punishment+andthe+maintenance+of+cooperatio&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [theme cowplot in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRp0XnSwVsCMGX0CAvkjo60bZ-wWw:1574561302284&q=theme+cowplot+in+r&sa=X&ved=2ahUKEwiV1uX44YHmAhWhIaYKHafaAcUQ1QIoAnoECGAQAw)
+
+- [ ] [Winners don’t21 punish - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQgqKGgyXJ0q8o_7mZSdO_peiETog:1574517068429&q=Winners+don%E2%80%99t21+punish&tbm=isch&source=univ&sa=X&ved=2ahUKEwiVsLmUvYDmAhUsL6YKHXv4AWoQsAR6BAgLEAE)
+
+- [ ] [xtable - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSmt59wuEGSWIA8BL_IMJvTsOQANQ:1574561272455&q=xtable&stick=H4sIAAAAAAAAAONQF-LVr0jWTy9JTMpJdUjNUwJzK2BcLbnc1JJEK_2KgsS81BygVH5ecmpBiVVxZkpqeWJlcRQbROciRgGQvqLUtMy81NzUvBJ9g1-MYgGp-QU5qQqJOcX5CsWpiUXJGQpp-UULWFgWsDAtYGFYwMK4gIV9AQvzAha2BSysi1jZIPYCAKoSq8GVAAAA&sa=X&ved=2ahUKEwivicnq4YHmAhWayIsBHY-eBwoQ0p8CMHh6BAhmEBs)
+
+- [ ] [Z-Tree: Zurich Toolbox for Ready-Made Economic Experiment - Google Search](https://www.google.com/search?q=Z-Tree%3A+Zurich+Toolbox+for+Ready-Made+Economic+Experiment&oq=Z-Tree%3A+Zurich+Toolbox+for+Ready-Made+Economic+Experiment&aqs=chrome..69i57j69i58.520j0j1&sourceid=chrome&ie=UTF-8)
+
+
+## 11/24/2019
+
+- [ ] [dplyr facet_wrap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA%3A1574562676960&lei=dOvZXf-ZOqyymAXSgJN4&q=dplyr%20facet_wrap&ved=2ahUKEwjZ2YOJ54HmAhUazIsBHc58ByIQsKwBKAB6BAgDEAE)
+
+- [ ] [facet_grid fill - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTdAe03FK0oV50YjjwgiSSwfbsUVg%3A1574562724940&lei=pOvZXc6LOYyLr7wPlZSqgA4&q=facet_grid%20fill&ved=2ahUKEwjxlfuu54HmAhUEE6YKHfBtCzcQsKwBKAR6BAgAEAU)
+
+- [ ] [facet_grid_sc - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTdAe03FK0oV50YjjwgiSSwfbsUVg%3A1574562724940&lei=pOvZXc6LOYyLr7wPlZSqgA4&q=facet_grid_sc&ved=2ahUKEwjxlfuu54HmAhUEE6YKHfBtCzcQsKwBKAF6BAgAEAI)
+
+- [ ] [facet_wrap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA:1574562676960&q=facet_wrap&sa=X&ved=2ahUKEwj_o6WI54HmAhUsGaYKHVLABA8Q1QIoBHoECGIQBQ)
+
+- [ ] [facet_wrap different colors - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA%3A1574562676960&lei=dOvZXf-ZOqyymAXSgJN4&q=facet_wrap%20different%20colors&ved=2ahUKEwjZ2YOJ54HmAhUazIsBHc58ByIQsKwBKAR6BAgDEAU)
+
+- [ ] [facet_wrap multiple plots - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA:1574562676960&q=facet_wrap+multiple+plots&sa=X&ved=2ahUKEwj_o6WI54HmAhUsGaYKHVLABA8Q1QIoBnoECGIQBw)
+
+- [ ] [facet_wrap one line - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA%3A1574562676960&lei=dOvZXf-ZOqyymAXSgJN4&q=facet_wrap%20one%20line&ved=2ahUKEwjZ2YOJ54HmAhUazIsBHc58ByIQsKwBKAJ6BAgDEAM)
+
+- [ ] [facet_wrap scales - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTdAe03FK0oV50YjjwgiSSwfbsUVg%3A1574562724940&lei=pOvZXc6LOYyLr7wPlZSqgA4&q=facet_wrap%20scales&ved=2ahUKEwjxlfuu54HmAhUEE6YKHfBtCzcQsKwBKAJ6BAgAEAM)
+
+- [ ] [facet_wrap vs facet_grid - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA:1574562676960&q=facet_wrap+vs+facet_grid&sa=X&ved=2ahUKEwj_o6WI54HmAhUsGaYKHVLABA8Q1QIoB3oECGIQCA)
+
+- [ ] [facet_wrap vs facet_grid - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA%3A1574562676960&lei=dOvZXf-ZOqyymAXSgJN4&q=facet_wrap%20vs%20facet_grid&ved=2ahUKEwjZ2YOJ54HmAhUazIsBHc58ByIQsKwBKAN6BAgDEAQ)
+
+- [ ] [geom_blank - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTdAe03FK0oV50YjjwgiSSwfbsUVg%3A1574562724940&lei=pOvZXc6LOYyLr7wPlZSqgA4&q=geom_blank&ved=2ahUKEwjxlfuu54HmAhUEE6YKHfBtCzcQsKwBKAB6BAgAEAE)
+
+- [ ] [ggplot + order within facet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA%3A1574562676960&lei=dOvZXf-ZOqyymAXSgJN4&q=ggplot%20%2B%20order%20within%20facet&ved=2ahUKEwjZ2YOJ54HmAhUazIsBHc58ByIQsKwBKAV6BAgDEAY)
+
+- [ ] [ggplot aesthetics - Google Search](https://www.google.com/search?q=ggplot+aesthetics&oq=ggplot+aesthetics&aqs=chrome..69i57j0l2j69i60l5.2559j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [ggplot facet - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA:1574562676960&q=ggplot+facet&sa=X&ved=2ahUKEwj_o6WI54HmAhUsGaYKHVLABA8Q1QIoAHoECGIQAQ)
+
+- [ ] [ggplot multiple lines by group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA:1574562676960&q=ggplot+multiple+lines+by+group&sa=X&ved=2ahUKEwj_o6WI54HmAhUsGaYKHVLABA8Q1QIoBXoECGIQBg)
+
+- [ ] [ggplot multiple plots - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA:1574562676960&q=ggplot+multiple+plots&sa=X&ved=2ahUKEwj_o6WI54HmAhUsGaYKHVLABA8Q1QIoAnoECGIQAw)
+
+- [ ] [ggplot2 facet different y axis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA:1574562676960&q=ggplot2+facet+different+y+axis&sa=X&ved=2ahUKEwj_o6WI54HmAhUsGaYKHVLABA8Q1QIoAXoECGIQAg)
+
+- [ ] [ggplot2 facet different y axis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA%3A1574562676960&lei=dOvZXf-ZOqyymAXSgJN4&q=ggplot2%20facet%20different%20y%20axis&ved=2ahUKEwjZ2YOJ54HmAhUazIsBHc58ByIQsKwBKAF6BAgDEAI)
+
+- [ ] [pretty_breaks - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTdAe03FK0oV50YjjwgiSSwfbsUVg%3A1574562724940&lei=pOvZXc6LOYyLr7wPlZSqgA4&q=pretty_breaks&ved=2ahUKEwjxlfuu54HmAhUEE6YKHfBtCzcQsKwBKAN6BAgAEAQ)
+
+- [ ] [r multiple plots on same graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQcPOElO4Kuh2m-QpDGWzYfhc9zOA:1574562676960&q=r+multiple+plots+on+same+graph&sa=X&ved=2ahUKEwj_o6WI54HmAhUsGaYKHVLABA8Q1QIoA3oECGIQBA)
+
+- [ ] [scale_y_continuous breaks - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTdAe03FK0oV50YjjwgiSSwfbsUVg%3A1574562724940&lei=pOvZXc6LOYyLr7wPlZSqgA4&q=scale_y_continuous%20breaks&ved=2ahUKEwjxlfuu54HmAhUEE6YKHfBtCzcQsKwBKAV6BAgAEAY)
+
+- [ ] [The Long-Run Benefts of Punishment - Google Search](https://www.google.com/search?q=The%20Long-Run%20Benefts%20of%20Punishment)

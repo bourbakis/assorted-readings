@@ -3208,3 +3208,943 @@ https://www.zhihu.com/question/341466774
 - [ ] [Radon measure - Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Radon_measure)
 
 - [ ] [A failure process model with the exponential smoothing of intensity functions - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S037722171830986X?via%3Dihub)
+
+
+
+## 11/23/2019
+
+- [ ] [How to Use the merge() Function with Data Sets in R](https://www.dummies.com/programming/r/how-to-use-the-merge-function-with-data-sets-in-r/)
+
+- [ ] [Chapter 8 Bootstrap | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/boot.html#exercises-6)
+
+- [ ] [R: Merge Two Data Frames](https://www.math.ucla.edu/~anderson/rw1001/library/base/html/merge.html)
+
+- [ ] [via](http://via/)
+
+- [ ] [Quantitative Trading: Guo, Lai, Shek and Wong | Quantitative Trading: Guo, Lai, Shek and Wong](http://quantstratbook.net/)
+
+- [ ] [Ghost in the Shell with Scarlett Johansson - Extended 'Building Jump' Clip - video dailymotion](https://www.dailymotion.com/video/x5frzub)
+
+- [ ] [Read Bootstrap Methods and their Application Cambridge Series in Statistical and Probabilistic Ebook Online - video dailymotion](https://www.dailymotion.com/video/x3i1a23)
+
+- [ ] [Read Climate Time Series Analysis Classical Statistical and Bootstrap Methods Atmospheric and PDF Online - video dailymotion](https://www.dailymotion.com/video/x3kz8k4)
+
+- [ ] [cage two2](http://www.anothertimbre.com/cagetwo2.html)
+
+- [ ] [Inflation Inequality: If You Like New Stuff, Life Is Cheaper - Bloomberg](https://www.bloomberg.com/opinion/articles/2019-11-18/inflation-inequality-if-you-like-new-stuff-life-is-cheaper)
+
+- [ ] [The Eighteenth Brumaire of Macho Camacho: Jeffery R. Webber and Forrest Hylton on the Coup in Bolivia - CounterPunch.org](https://www.counterpunch.org/2019/11/18/the-eighteenth-brumaire-of-macho-camacho-jeffery-r-webber-and-forrest-hylton-on-the-coup-in-bolivia/)
+
+- [ ] [Culdesac | Experience Someplace Better](https://culdesac.com/)
+
+- [ ] [Hive Mind and Open Borders - Econlib](https://www.econlib.org/hive-mind-and-open-borders/)
+
+- [ ] [2019 Wriston Lecture: The End of the Computer Age | Peter Thiel](https://www.manhattan-institute.org/events/2019-wriston-lecture-end-computer-age-thiel#transcript)
+
+- [ ] [The high resource impact of reformatting requirements for scientific papers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223976)
+
+- [ ] [Three Things I Think I Think - Has The World Gone Mad? - Pragmatic Capitalism](https://www.pragcap.com/three-things-i-think-i-think-has-the-world-gone-mad/)
+
+- [ ] [North Korean Restaurants in Russia Fail to Draw Diners](https://www.rfa.org/english/news/korea/rusnkrestaurant-11082018162051.html)
+
+- [ ] [https://ricon.dev](https://ricon.dev/)
+
+- [ ] [Hook, Line and Sinker: Do Tinder Matches and Meet Ups Lead to One-Night Stands? | SpringerLink](https://link.springer.com/article/10.1007/s40806-019-00222-z)
+
+- [ ] [Shrinking the Tax Gap: Approaches and Revenue Potential](https://www.taxnotes.com/special-reports/compliance/shrinking-tax-gap-approaches-and-revenue-potential/2019/11/15/2b47g)
+
+- [ ] [Do You Love Trains? Well, You Can Buy One - WSJ](https://www.wsj.com/articles/do-you-love-trains-well-you-can-buy-one-11573834371?mod=hp_jr_pos1)
+
+- [ ] [New Arizona Development Bans Residents From Bringing Cars - WSJ](https://www.wsj.com/articles/new-arizona-development-bans-residents-from-bringing-cars-11574164801)
+
+- [ ] [日経プラス10｜ＢＳテレ東](https://www.bs-tvtokyo.co.jp/plus10/smp/)
+
+- [ ] [Merging Datasets in R (article) - DataCamp](https://www.datacamp.com/community/tutorials/merging-datasets-r)
+
+- [ ] [What’s the Average Python Developer Salary in the US? How Many Python Programmers Are There in the World?](https://www.daxx.com/blog/development-trends/python-developer-salary-usa)
+
+- [ ] [13.5 Exercises | Introduction to Econometrics with R](https://www.econometrics-with-r.org/13-5-exercises-11.html)
+
+- [ ] [[R] For the record: how to merge data frames vertically](https://stat.ethz.ch/pipermail/r-help/2000-March/005832.html)
+
+- [ ] [[R] vertically concatenating data frames](https://stat.ethz.ch/pipermail/r-help/2007-July/135615.html)
+
+- [ ] [R: Combine R Objects by Rows or Columns](https://stat.ethz.ch/R-manual/R-devel/library/base/html/cbind.html)
+
+- [ ] [Chapter 18 Linear models | Introduction to Data Science](https://rafalab.github.io/dsbook/linear-models.html)
+
+- [ ] [Chapter 31 Examples of algorithms | Introduction to Data Science](https://rafalab.github.io/dsbook/examples-of-algorithms.html)
+
+- [ ] [Chapter 1: What is a minimum wage: 1.1 Definition and purpose](https://www.ilo.org/global/topics/wages/minimum-wages/definition/WCMS_439072/lang--en/index.htm)
+
+- [ ] [Understanding Health and Its Determinants - Improving Health in the Community - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK233009/)
+
+- [ ] [Regression models for analyzing costs and their determinants in health care: an introductory review | International Journal for Quality in Health Care | Oxford Academic](https://academic.oup.com/intqhc/article/23/3/331/1792904)
+
+- [ ] [Reexamining the Economic Costs of Debt | PIIE](https://www.piie.com/commentary/testimonies/reexamining-economic-costs-debt)
+
+- [ ] [Left Join in R - Merging Data Frames - ProgrammingR](http://www.programmingr.com/tutorial/left-join-in-r/)
+
+- [ ] [Merge: Merge Two Data Frames Horizontally or Vertically in lessR: Less Code, More Results](https://rdrr.io/cran/lessR/man/Merge.html)
+
+- [ ] [3.1. Statistics in Python — Scipy lecture notes](https://scipy-lectures.org/packages/statistics/index.html)
+
+- [ ] [How to Establish Salary Ranges](https://www.shrm.org/resourcesandtools/tools-and-samples/how-to-guides/pages/howtoestablishsalaryranges.aspx)
+
+- [ ] [Join two tbls together — join • dplyr](https://dplyr.tidyverse.org/reference/join.html)
+
+- [ ] [Create a model to predict house prices using Python](https://towardsdatascience.com/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f)
+
+- [ ] [Econometrics behind Simple Linear Regression - Towards Data Science](https://towardsdatascience.com/econometrics-behind-simple-linear-regression-ae5037de92c9)
+
+- [ ] [Chapter7 - Valentinas Rudys](http://econ.vrudys.com/econometrics/chapter7)
+
+- [ ] [STAT203: BAYESIAN STATISTICS](https://faculty.ucr.edu/~jflegal/203/)
+
+- [ ] [STAT206: STATISTICAL COMPUTING](https://faculty.ucr.edu/~jflegal/206/)
+
+- [ ] [Bootstrapping in R - Single guide for all concepts - DataFlair](https://data-flair.training/blogs/bootstrapping-in-r/)
+
+- [ ] [Resampling techniques in R: bootstrapping and permutation testing](https://uoftcoders.github.io/studyGroup/lessons/r/resampling/lesson/)
+
+- [ ] [Getting started with the `boot' package in R for bootstrap inference](http://www.mayin.org/ajayshah/KB/R/documents/boot.html)
+
+- [ ] [R: Bootstrap Resampling](https://astrostatistics.psu.edu/su07/R/html/boot/html/boot.html)
+
+- [ ] [Bootstrap example | R-bloggers](https://www.r-bloggers.com/bootstrap-example/)
+
+- [ ] [Quick-R: Bootstrapping](https://www.statmethods.net/advstats/bootstrapping.html)
+
+- [ ] [Bootstrap Resampling Essentials in R - Articles - STHDA](http://www.sthda.com/english/articles/38-regression-model-validation/156-bootstrap-resampling-essentials-in-r/)
+
+- [ ] [Lawing Lab](http://people.tamu.edu/~alawing/)
+
+- [ ] [Index of /~brunner/oldclass/appliedf12/lectures](http://www.utstat.toronto.edu/~brunner/oldclass/appliedf12/lectures/)
+
+- [ ] [STA 429/1007 F 2007 Home Page](http://www.utstat.toronto.edu/~brunner/oldclass/429f07/)
+
+- [ ] [SISG/SISMID: Module 3](http://faculty.washington.edu/kenrice/rintro/)
+
+- [ ] [Statistics 302](http://pages.stat.wisc.edu/~larget/stat302/)
+
+- [ ] [R Count Distinct Dplyr](http://kkul.aziende-commercio.it/r-count-distinct-dplyr.html)
+
+- [ ] [Pivoting data frames just got easier thanks to `pivot_wide()` and `pivot_long()` - Econometrics and Free Software](https://www.brodrigues.co/blog/2019-03-20-pivot/)
+
+- [ ] [Tidy data](http://vita.had.co.nz/papers/tidy-data.html)
+
+- [ ] [Aggregating and analyzing data with dplyr](https://datacarpentry.org/R-genomics/04-dplyr.html)
+
+- [ ] [How to get data in the right format with pivot tables | Chartable](https://blog.datawrapper.de/pivottables/)
+
+- [ ] [pivot tables in R - pivot rows to columns in R](http://excel2r.com/pivot-tables-r-pivoting-rows-to-columns/)
+
+- [ ] [Summarizing data quickly like Pivoting - learn data science](https://blog.exploratory.io/summarizing-data-quickly-like-pivoting-a9ed9c81d495)
+
+- [ ] [Pivoting on Text in R (vs. Excel)](https://georgejmount.com/pivoting-on-text-in-r/)
+
+- [ ] [Data Wrangling Presentation · Bradley Boehmke](http://bradleyboehmke.github.io/2015/10/data-wrangling-presentation.html)
+
+- [ ] [Data Wrangling in R: Combining, Merging and Reshaping Data](https://clayford.github.io/dwir/dwr_05_combine_merge_rehsape_data.html)
+
+- [ ] [How to reshape data with tidyr’s new pivot functions | InfoWorld](https://www.infoworld.com/video/94747/how-to-reshape-data-with-tidyr-s-new-pivot-functions)
+
+- [ ] [Dplyr Conditionally Change Values](https://www.lopenickasyrarna.cz/bvgotal/xhl.php?jf=dplyr-conditionally-change-values)
+
+- [ ] [Pivot Tables in R with dplyr - Marco Ghislanzoni's Blog](http://marcoghislanzoni.com/blog/2014/09/01/pivot-tables-r-dplyr/)
+
+- [ ] [https://mran.microsoft.com/snapshot/2016-10-12/web/packages/rpivotTable/README.html](https://mran.microsoft.com/snapshot/2016-10-12/web/packages/rpivotTable/README.html)
+
+- [ ] [Pivot Tables in R](http://naturalpraxis.com/pivot-tables-in-r/)
+
+- [ ] [Pivoting and Melting Dataframes - R and Python Code Examples - The Periscope Data Community](https://community.periscopedata.com/t/q5gk76/pivoting-and-melting-dataframes)
+
+- [ ] [Comparison with R / R libraries — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_r.html)
+
+- [ ] [Pivot tables in R | R-bloggers](https://www.r-bloggers.com/pivot-tables-in-r/)
+
+- [ ] [01. Introduction](https://cran.r-project.org/web/packages/pivottabler/vignettes/v01-introduction.html)
+
+- [ ] [R Tutorials | Pivot Tables – Guest Post from DataJoy](http://r-tutorials.com/pivot-tables-guest-post-from-datajoy/)
+
+- [ ] [SQL vs dplyr-tidyr | Rasyid Ridha](http://rasyidridha.com/blog/sql-vs-dplyr-tidyr/)
+
+- [ ] [How to Make a PivotTable in R – R for Excel Users](https://www.rforexcelusers.com/make-pivottable-in-r/)
+
+- [ ] [How to Make a PivotTable in R – R for Excel Users](https://www.rforexcelusers.com/make-pivottable-in-r/)
+
+- [ ] [Group data by month in R](https://ro-che.info/articles/2017-02-22-group_by_month_r)
+
+- [ ] [Pivoting data from columns to rows (and back!) in the tidyverse - Storybench](http://www.storybench.org/pivoting-data-from-columns-to-rows-and-back-in-the-tidyverse/)
+
+- [ ] [Pivoting • tidyr](https://tidyr.tidyverse.org/articles/pivot.html)
+
+- [ ] [Tidy Messy Data • tidyr](https://tidyr.tidyverse.org/)
+
+- [ ] [My favourite R package for: frequency tables – Dabbling with Data](https://dabblingwithdata.wordpress.com/2017/12/20/my-favourite-r-package-for-frequency-tables/)
+
+- [ ] [Replace NA in all columns with dplyr (#rstats) – rickpackblog](https://rickpackblog.wordpress.com/2017/11/20/replace-na-in-all-columns-with-dplyr-rstats/)
+
+- [ ] [Chapter 8 Bootstrap | STAT 5361: Statistical Computing, Fall 2019](https://jun-yan.github.io/stat-5361/boot.html#exercises-6)
+
+- [ ] [(2) New Messages!](https://rstudio.com/resources/cheatsheets/)
+
+- [ ] [RStudio Webinars](https://rstudio.com/resources/webinars/)
+
+- [ ] [(54) What really differentiates R from Excel? - Quora](https://www.quora.com/What-really-differentiates-R-from-Excel)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [buff](http://www.angelfire.com/wa/hurben/buff.html)
+
+- [ ] [500 Internal Privoxy Error](http://www.math.auc.dk/~mbh/SS-and-CM2001/)
+
+- [ ] [Buffon's Needle, MSTE, University of Illinois](https://mste.illinois.edu/activity/buffon/)
+
+- [ ] [Annales Henri Lebesgue](https://annales.lebesgue.fr/index.php/AHL/index)
+
+- [ ] [bootstrapping regressions with dplyr](http://rstudio-pubs-static.s3.amazonaws.com/19698_a4c472606e3c43e4b94720506e49bb7b.html)
+
+- [ ] [Bootstrap in R (article) - DataCamp](https://www.datacamp.com/community/tutorials/bootstrap-r)
+
+- [ ] [Parametric or non-parametric bootstrap](https://influentialpoints.com/Training/nonparametric-or-parametric_bootstrap.htm)
+
+- [ ] [15.3 - Bootstrapping | STAT 555](https://newonlinecourses.science.psu.edu/stat555/node/119/)
+
+- [ ] [15.3 - Bootstrapping | STAT 555](https://newonlinecourses.science.psu.edu/stat555/node/119/)
+
+- [ ] [Tidy bootstrapping](https://cran.r-project.org/web/packages/broom/vignettes/bootstrapping.html)
+
+- [ ] [maths.nayland.school.nz](https://maths.nayland.school.nz/Year_13_Maths/3.10_Inference/7_Bootstrapping.htm)
+
+- [ ] [Quick-R: Bootstrapping](https://www.statmethods.net/advstats/bootstrapping.html)
+
+- [ ] [fons.jpg (712×320)](http://home.lu.lv/~valeinis/images/fons.jpg)
+
+- [ ] [Vārds Uzvārds](http://home.lu.lv/~valeinis/en/index.html)
+
+- [ ] [An Introduction to ‘qqplotr’](https://cran.r-project.org/web/packages/qqplotr/vignettes/introduction.html)
+
+- [ ] [create.qqplot.fit.confidence.interval function | R Documentation](https://www.rdocumentation.org/packages/BoutrosLab.plotting.general/versions/5.9.2/topics/create.qqplot.fit.confidence.interval)
+
+- [ ] [stat_qq_band: Quantile-quantile confidence bands in qqplotr: Quantile-Quantile Plot Extensions for 'ggplot2'](https://rdrr.io/cran/qqplotr/man/stat_qq_band.html)
+
+- [ ] [Q-Q Plot - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/mathematics/q-q-plot)
+
+- [ ] [Statistical Data Analysis | ScienceDirect](https://www.sciencedirect.com/book/9780857091093/statistical-data-analysis)
+
+- [ ] [500 Internal Privoxy Error](http://home.lanet.lv/~valeinis/lv/studentu%20darbi/Haralds_MagDarbs.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://home.lanet.lv/~valeinis/lv/studentu%20darbi/Vucane_dip.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://home.lanet.lv/~valeinis/lv/studentu%20darbi/Maksims_Korotejevs_2012.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://home.lanet.lv/~valeinis/lv/studentu%20darbi/Olga_MagDarbs.pdf)
+
+- [ ] [A note](https://influentialpoints.com/notes/u6pcle.htm)
+
+- [ ] [SticiGui Confidence Intervals](https://www.stat.berkeley.edu/~stark/SticiGui/Text/confidenceIntervals.htm)
+
+- [ ] [A note](https://influentialpoints.com/notes/u62tail.htm)
+
+- [ ] [Comparison of Bootstrap Confidence Interval Methods for GSCA Using a Monte Carlo Simulation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6797821/)
+
+- [ ] [(7) (PDF) Comparison of Confidence Interval Estimators: an Index Approach](https://www.researchgate.net/publication/314115439_Comparison_of_Confidence_Interval_Estimators_an_Index_Approach)
+
+- [ ] [Coverage probability of confidence intervals: A simulation approach - The DO Loop](https://blogs.sas.com/content/iml/2016/09/08/coverage-probability-confidence-intervals.html)
+
+- [ ] [https://www.stat.cmu.edu/~cshalizi/402/lectures/08-bootstrap/lecture-08.R](https://www.stat.cmu.edu/~cshalizi/402/lectures/08-bootstrap/lecture-08.R)
+
+- [ ] [Confidence intervals and bootstrapping - Statistics with R](https://arc.lib.montana.edu/book/statistics-with-r-textbook/item/49)
+
+- [ ] [Parametric bootstrap in R versus C++](https://www4.stat.ncsu.edu/~reich/BigData/code/boot.html)
+
+- [ ] [Linear regression non-parametric Bootstrap | Vose Software](https://www.vosesoftware.com/riskwiki/LinearregressionnonparametricBootstrap.php)
+
+- [ ] [Parametric and nonparametric bootstrap methods for general MANOVA - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0047259X15001165)
+
+- [ ] [Stat 5601 (Geyer) Examples (Parametric Bootstrap)](http://www.stat.umn.edu/geyer/old/5601/examp/parm.html)
+
+- [ ] [R: The Weibull Distribution](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/Weibull.html)
+
+- [ ] [Bootstrap methods for bias correction and confidence interval estimation for nonlinear quantile regression of longitudinal data: Journal of Statistical Computation and Simulation: Vol 79, No 10](https://www.tandfonline.com/doi/abs/10.1080/00949650802221180)
+
+- [ ] [The miracle of the bootstrap – The Stats Geek](https://thestatsgeek.com/2013/07/02/the-miracle-of-the-bootstrap/)
+
+- [ ] [What Teachers Should Know About the Bootstrap: Resampling in the Undergraduate Statistics Curriculum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4784504/)
+
+- [ ] [Bootstrap confidence intervals and bias correction in the estimation of HIV incidence from surveillance data with testing for recent infection. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/21432879)
+
+- [ ] [Bias Correction and Bootstrap Methods for a Spatial Sampling Scheme on JSTOR](https://www.jstor.org/stable/3318622?seq=1)
+
+- [ ] [Bias & bootstrap bias correction | basic statistics](https://garstats.wordpress.com/2018/01/23/bias-correction/)
+
+- [ ] [500 Internal Privoxy Error](http://www.stat.cmu.edu/~larry/all-of-statistics/)
+
+- [ ] [www.cambridge.org](https://www.cambridge.org/core/books/bootstrap-methods-and-their-application/ED2FD043579F27952363566DC09CBD6A)
+
+- [ ] [rweb.stat.umn.edu](https://rweb.stat.umn.edu/cgi-bin/Rweb/Rweb.cgi)
+
+- [ ] [The bias-corrected and accelerated (BCa) bootstrap interval - The DO Loop](https://blogs.sas.com/content/iml/2017/07/12/bootstrap-bca-interval.html)
+
+- [ ] [ERIC - EJ1148910 - Applying Bootstrap Resampling to Compute Confidence Intervals for Various Statistics with R, Eurasian Journal of Educational Research, 2017](https://eric.ed.gov/?id=EJ1148910)
+
+- [ ] [PennStateSchool08_LecNotes.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.iiap.res.in/astrostat/School08/PennStateSchool08_LecNotes.pdf)
+
+- [ ] [bootstrap confidence interval r studio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTRr81_9C3pzVGLICdtXpo4bDm2vA:1574469144770&q=bootstrap+confidence+interval+r+studio&sa=X&ved=2ahUKEwj-r9XQiv_lAhW9L6YKHbAGDgYQ1QIoBHoECGUQBQ)
+
+- [ ] [resampling methods in r: the boot package - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTRr81_9C3pzVGLICdtXpo4bDm2vA:1574469144770&q=resampling+methods+in+r:+the+boot+package&sa=X&ved=2ahUKEwj-r9XQiv_lAhW9L6YKHbAGDgYQ1QIoA3oECGUQBA)
+
+- [ ] [boot function in r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTRr81_9C3pzVGLICdtXpo4bDm2vA:1574469144770&q=boot+function+in+r+example&sa=X&ved=2ahUKEwj-r9XQiv_lAhW9L6YKHbAGDgYQ1QIoAHoECGUQAQ)
+
+- [ ] [chap3.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://pages.stat.wisc.edu/~larget/stat302/chap3.pdf)
+
+- [ ] [r bootstrap confidence interval - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTRr81_9C3pzVGLICdtXpo4bDm2vA:1574469144770&q=r+bootstrap+confidence+interval&sa=X&ved=2ahUKEwj-r9XQiv_lAhW9L6YKHbAGDgYQ1QIoAXoECGUQAg)
+
+- [ ] [r plot bootstrap confidence intervals - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTRr81_9C3pzVGLICdtXpo4bDm2vA:1574469144770&q=r+plot+bootstrap+confidence+intervals&sa=X&ved=2ahUKEwj-r9XQiv_lAhW9L6YKHbAGDgYQ1QIoAnoECGUQAw)
+
+- [ ] [PennStateSchool08_LecNotes.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.iiap.res.in/astrostat/School08/PennStateSchool08_LecNotes.pdf)
+
+- [ ] [11 Linear Regression and ANOVA | R Cookbook, 2nd Edition](https://rc2e.com/linearregressionandanova)
+
+- [ ] [66-Blatna-Dagmar-paper.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://msed.vse.cz/files/2013/66-Blatna-Dagmar-paper.pdf)
+
+- [ ] [GraphPad Statistics Guide - Prism-8-Statistics-Guide.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.graphpad.com/guides/prism/8/pdf/Prism-8-Statistics-Guide.pdf?__hstc=21941924.99a265337744294b740e0787aea508c4.1573603200139.1573603200140.1573603200141.1&__hssc=21941924.1.1573603200142&__hsfp=3969827736)
+
+- [ ] [Bootstrap confidence intervals: when, which, what? A practical guide for medical statisticians - 10.1.1.133.8405.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://m.tau.ac.il/~saharon/Boot/10.1.1.133.8405.pdf)
+
+- [ ] [EnvStats.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.rstudio.com/web/packages/EnvStats/EnvStats.pdf)
+
+- [ ] [Chapter 18 Generalized linear models I: Count data | Elementary Statistical Modeling for Applied Biostatistics](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/generalized-linear-models-i-count-data.html)
+
+- [ ] [nlstools - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTRr81_9C3pzVGLICdtXpo4bDm2vA%3A1574469144770&lei=GH7YXf7DLr3fmAWwjbgw&q=nlstools&ved=2ahUKEwjThvLRiv_lAhUkGaYKHclSClgQsKwBKAJ6BAgFEAM)
+
+- [ ] [nonlinear regression in r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTRr81_9C3pzVGLICdtXpo4bDm2vA%3A1574469144770&lei=GH7YXf7DLr3fmAWwjbgw&q=nonlinear%20regression%20in%20r%20example&ved=2ahUKEwjThvLRiv_lAhUkGaYKHclSClgQsKwBKAB6BAgFEAE)
+
+- [ ] [multiple nonlinear regression in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTRr81_9C3pzVGLICdtXpo4bDm2vA%3A1574469144770&lei=GH7YXf7DLr3fmAWwjbgw&q=multiple%20nonlinear%20regression%20in%20r&ved=2ahUKEwjThvLRiv_lAhUkGaYKHclSClgQsKwBKAF6BAgFEAI)
+
+- [ ] [r nls package - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTRr81_9C3pzVGLICdtXpo4bDm2vA%3A1574469144770&lei=GH7YXf7DLr3fmAWwjbgw&q=r%20nls%20package&ved=2ahUKEwjThvLRiv_lAhUkGaYKHclSClgQsKwBKAN6BAgFEAQ)
+
+- [ ] [easynls - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTRr81_9C3pzVGLICdtXpo4bDm2vA%3A1574469144770&lei=GH7YXf7DLr3fmAWwjbgw&q=easynls&ved=2ahUKEwjThvLRiv_lAhUkGaYKHclSClgQsKwBKAR6BAgFEAU)
+
+- [ ] [Goodness-of-Fit Tests and Model Diagnostics for Negative Binomial Regression of RNA Sequencing Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4365073/)
+
+- [ ] [GLMM worked examples](https://bbolker.github.io/mixedmodels-misc/ecostats_chap.html)
+
+- [ ] [Regression analysis (OLS method)](https://mgimond.github.io/Stats-in-R/regression.html)
+
+- [ ] [ggplot qq plot confidence interval - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSvK321tnQakVOirGB8phzMzvlnyA:1574469475478&q=ggplot+qq+plot+confidence+interval&sa=X&ved=2ahUKEwidm67ui__lAhUnxosBHXiOArIQ1QIoAnoECF8QAw&biw=1920&bih=899)
+
+- [ ] [MATH 3070 R Lecture Notes](http://www.math.utah.edu/~cmiller/classes/FA183070/MATH3070LabBook/lecture-13.html)
+
+- [ ] [ggplot qq plot confidence interval - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=899&sxsrf=ACYBGNQk4iK3A-0UiUWRS6PvPxSTwDcktA:1574469689671&q=ggplot+qq+plot+confidence+interval&tbm=isch&source=univ&ved=2ahUKEwjH07_UjP_lAhXnyIsBHaetDmYQsAR6BAgFEAE#imgrc=mxvNVs4R6JJxzM)
+
+- [ ] [An Introduction to ‘qqplotr’](https://cran.r-project.org/web/packages/qqplotr/vignettes/introduction.html)
+
+- [ ] [ggplot2 probability plot - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=899&sxsrf=ACYBGNQk4iK3A-0UiUWRS6PvPxSTwDcktA:1574469689671&q=ggplot2+probability+plot&sa=X&ved=2ahUKEwjH07_UjP_lAhXnyIsBHaetDmYQ1QIoB3oECFcQCA)
+
+- [ ] [Getting Genetics Done: QQ plots of p-values in R using ggplot2](https://www.gettinggeneticsdone.com/2009/11/qq-plots-of-p-values-in-r-using-ggplot2.html)
+
+- [ ] [The theoretical q-q](https://mgimond.github.io/ES218/Week06a.html)
+
+- [ ] [lectures-quantiles2-handouts.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stat.auckland.ac.nz/~ihaka/787/lectures-quantiles2-handouts.pdf)
+
+- [ ] [A quantile-quantile plot — geom_qq_line • ggplot2](https://ggplot2.tidyverse.org/reference/geom_qq.html)
+
+- [ ] [chapter4.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://math.unm.edu/~james/chapter4.pdf)
+
+- [ ] [stat_qq_line - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSvK321tnQakVOirGB8phzMzvlnyA:1574469475478&q=stat_qq_line&sa=X&ved=2ahUKEwidm67ui__lAhUnxosBHXiOArIQ1QIoA3oECF8QBA)
+
+- [ ] [ggplot qq plot confidence interval - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSvK321tnQakVOirGB8phzMzvlnyA:1574469475478&q=ggplot+qq+plot+confidence+interval&sa=X&ved=2ahUKEwidm67ui__lAhUnxosBHXiOArIQ1QIoAnoECF8QAw&biw=1920&bih=899)
+
+- [ ] [Estimating transformation function - ps-sample.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.math.ucsd.edu/~politis/PAPER/ps-sample.pdf)
+
+- [ ] [chapter4.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://math.unm.edu/~james/chapter4.pdf)
+
+- [ ] [@let@token Lecture 11: Nonparametric Regression (3) Confidence Bands - slides-11.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://dutiosc.twi.tudelft.nl/~cai/AS2015/slides-11.pdf)
+
+- [ ] [The Time-Rescaling Theorem and Its Application to Neural Spike Train Data Analysis - rescaling.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.stat.cmu.edu/~kass/papers/rescaling.pdf)
+
+- [ ] [Confidence Intervals of Interaction Index for Assessing Multiple Drug Interaction - Europe PMC Article - Europe PMC](https://europepmc.org/articles/pmc2796809)
+
+- [ ] [visreg.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://web.as.uky.edu/statistics/users/pbreheny/publications/visreg.pdf)
+
+- [ ] [Hannig2009.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://hannig.cloudapps.unc.edu/publications/Hannig2009.pdf)
+
+- [ ] [STA121 Statistical Modeling - script_sta120.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://user.math.uzh.ch/furrer/download/intro2stat/script_sta120.pdf)
+
+- [ ] [e_tableman.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://tbrieder.org/epidata/course_reading/e_tableman.pdf)
+
+- [ ] [Plot confidence interval in r ggplot2](http://www.soales.it/h8eoq/plot-confidence-interval-in-r-ggplot2.html)
+
+- [ ] [Random Walk Approximation of Confidence Intervals | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-1-4612-1776-3_32)
+
+- [ ] [qqq.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.columbia.edu/~im2131/ps/qqq.pdf)
+
+- [ ] [1 - Gender Wage Gap Final Report.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.shrm.org/hr-today/public-policy/hr-public-policy-issues/Documents/Gender%20Wage%20Gap%20Final%20Report.pdf)
+
+- [ ] [120167 - qqq.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.columbia.edu/~im2131/ps/qqq.pdf)
+
+- [ ] [1215441276](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://projecteuclid.org/download/pdfview_1/euclid.ss/1215441276)
+
+- [ ] [1215441276](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://projecteuclid.org/download/pdfview_1/euclid.ss/1215441276)
+
+- [ ] [1340371035](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://projecteuclid.org/download/pdf_1/euclid.ba/1340371035)
+
+- [ ] [1810.09583.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1810.09583.pdf)
+
+- [ ] [2009_Stepwise.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://statweb.stanford.edu/~ckirby/lai/pubs/2009_Stepwise.pdf)
+
+- [ ] [2011ManchesterModelSelection.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.research-training.net/addedfiles/2011aManchester/2011ManchesterModelSelection.pdf)
+
+- [ ] [2018Automatic-Construction-BCIs.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://statweb.stanford.edu/~ckirby/brad/papers/2018Automatic-Construction-BCIs.pdf)
+
+- [ ] [21121_Chapter_15.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.sagepub.com/sites/default/files/upm-binaries/21121_Chapter_15.pdf)
+
+- [ ] [402L17.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://people.stat.sfu.ca/~raltman/stat402/402L17.pdf)
+
+- [ ] [A Regression Study of Salary Determinants in Indian Job Markets for Entry Level Engineering Graduates - viewcontent.cgi](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arrow.dit.ie/cgi/viewcontent.cgi?article=1094&context=scschcomdis)
+
+- [ ] [A24n122.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www3.stat.sinica.edu.tw/statistica/oldpdf/A24n122.pdf)
+
+- [ ] [ADAfaEPoV - 07.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stat.cmu.edu/~cshalizi/uADA/16/lectures/07.pdf)
+
+- [ ] [Avoid News: Towards a Healthy News Diet - 2010-dobelli.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.gwern.net/docs/culture/2010-dobelli.pdf)
+
+- [ ] [boot.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.math.montana.edu/jobo/thainp/boot.pdf)
+
+- [ ] [Bootstrap Confidence Intervals - bootci-Notes.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://users.stat.umn.edu/~helwig/notes/bootci-Notes.pdf)
+
+- [ ] [bootstrap-edgeworth.dvi - bootstrap-lectures-to-may-16.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://anson.ucdavis.edu/~peterh/sta251/bootstrap-lectures-to-may-16.pdf)
+
+- [ ] [Cameron_Miller_JHR_2015_February.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://cameron.econ.ucdavis.edu/research/Cameron_Miller_JHR_2015_February.pdf)
+
+- [ ] [caret.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/caret/caret.pdf)
+
+- [ ] [ch10.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch10.pdf)
+
+- [ ] [class25-slides-all.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www-math.mit.edu/~dav/05.dir/class25-slides-all.pdf)
+
+- [ ] [Computing2.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www4.stat.ncsu.edu/~reich/ST740/Computing2.pdf)
+
+- [ ] [conditional_expectation.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://web.ma.utexas.edu/users/gordanz/notes/conditional_expectation.pdf)
+
+- [ ] [confidence_intervals.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://dept.stat.lsa.umich.edu/~kshedden/Courses/Stat406/Notes/confidence_intervals.pdf)
+
+- [ ] [download.cgi](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=ESAM09&paper_id=255)
+
+- [ ] [E3ME-Technical-Manual-v6.1-onlineSML.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.e3me.com/wp-content/uploads/2019/09/E3ME-Technical-Manual-v6.1-onlineSML.pdf)
+
+- [ ] [Econometrics.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.sas.upenn.edu/~fdiebold/Teaching104/Econometrics.pdf)
+
+- [ ] [eng-book-nopfs.dvi - eng-book-nopfs.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
+
+- [ ] [FMEmcmc.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/FME/vignettes/FMEmcmc.pdf)
+
+- [ ] [Generalized Linear Models - glm.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://people.maths.bris.ac.uk/~sw15190/mgcv/tampere/glm.pdf)
+
+- [ ] [ggu442.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://watermark.silverchair.com/ggu442.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAlcwggJTBgkqhkiG9w0BBwagggJEMIICQAIBADCCAjkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMDOeCjmZg5r7ZjzYWAgEQgIICClLNlsHqbceQrX-BmwvlUMLL4e7zEbwDQkSZeNCjzkfrrkN9ewwCVR7EGk7r36bymIGPCE7FQc9qYwFXVvHvWUKtmLCmtd_WrC-ZsPcZbuIaqtFF2x661i6bTK8uAfYjYlz5xZmmkotbbaqSlb08UKTgof4PANNWyuYgKGwLzmCPcUkYTSmxJyve05q27D_1rf2QR_B6XJ1n_hnDRS0srsBkN91aSxQM_Xq2oqXagbLf7y5CTuR_we-HNJtqAv9M_DOE-piPtSPzE1WGhkrnKcxFIBpBcdS8PYzBygZ1Aj2-uZJOb2SAcs2W_0I1xf5bkJoPBmPFWUUCNelxp0zwvSHsxroRpqcmxrX-Mm0nhMhXzPHxHE1RfQrnVUYjunbSLB-mq1IdPJ5XMTvrGz7dFo5Z8UgoXW2FfJkrj-kCuvz0BAi586Zv_1WXQ70BHJ3qOip8xcp32bslajDSbwKnAg4ZqkUtCql6o4lHQEgbIZgUtIWbxnVOtwlZ692E0na2LRarvFrrE9xAEhFf8KbQe7PQHOVpBwoFVpieJ9nsSyp5GK78OXaPmUpVGQMWxPnG06YpXbhz4QHWl6s2JWsEmSMur36wD-Nls4UTmuJXdaPELZY16Xxp6_Y3H6c3V1LfQVgYll_4X2PdFzRbyhU4CSugxZlyUqRPDCOR-hvKXEqm8sY1HjneYyoH-g)
+
+- [ ] [GlassdoorHowtoAnalyzeGenderPayGap.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.glassdoor.com/research/app/uploads/sites/2/2017/04/GlassdoorHowtoAnalyzeGenderPayGap.pdf)
+
+- [ ] [Gludinošais butstraps - Juris_090311.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://home.lu.lv/~valeinis/lv/seminars/Juris_090311.pdf)
+
+- [ ] [Grothendieck_etale.dvi - Grothendieck_etale.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.math.u-psud.fr/~illusie/Grothendieck_etale.pdf)
+
+- [ ] [grouprepn.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.math.uh.edu/~vern/grouprepn.pdf)
+
+- [ ] [H16-e.dvi - H16-e.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.pdmi.ras.ru/~olegviro/H16-e.pdf)
+
+- [ ] [HKSS-40A-special-issue_Mar-2018.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.hkss.org.hk/images/book/HKSS-40A-special-issue_Mar-2018.pdf)
+
+- [ ] [ho_glm.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://web.pdx.edu/~newsomj/cdaclass/ho_glm.pdf)
+
+- [ ] [Interview with Jean-Pierre Serre, Volume 51, Number 2 - comm-serre.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.ams.org/notices/200402/comm-serre.pdf)
+
+- [ ] [Introduction to Python for Econometrics, Statistics and Data Analysis - d66b5594-7c57-11e5-964d-04015fb6ba01.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://pythonizame.s3.amazonaws.com/media/Book/introduction-python-econometrics-statistics-and-data-analysis/file/d66b5594-7c57-11e5-964d-04015fb6ba01.pdf)
+
+- [ ] [kirichenko15a.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://jmlr.org/papers/volume16/kirichenko15a/kirichenko15a.pdf)
+
+- [ ] [l05-45.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.math.wsu.edu/faculty/genz/416/lect/l05-45.pdf)
+
+- [ ] [l09a_15f_boot.DVI - l09_15f_boot.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://mason.gmu.edu/~jgentle/csi771/15f/l09_15f_boot.pdf)
+
+- [ ] [lecture-08.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stat.cmu.edu/~cshalizi/402/lectures/08-bootstrap/lecture-08.pdf)
+
+- [ ] [Lecture8.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.utstat.toronto.edu/~rsalakhu/sta4273/notes/Lecture8.pdf)
+
+- [ ] [letterDJ - Using-AICc.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://sciences.ucf.edu/biology/d4lab/wp-content/uploads/sites/115/2016/10/Using-AICc.pdf)
+
+- [ ] [linear-models-problems.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://socialsciences.mcmaster.ca/jfox/papers/linear-models-problems.pdf)
+
+- [ ] [lloyd16.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://proceedings.mlr.press/v51/lloyd16.pdf)
+
+- [ ] [lsmeans.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://mran.microsoft.com/snapshot/2016-03-13/web/packages/lsmeans/lsmeans.pdf)
+
+- [ ] [Microsoft Word - multreg 5.doc - multreg5.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://math.dartmouth.edu/~mqed/eBookshelf/statistics/CPS/multreg5.pdf)
+
+- [ ] [Pamatelementi statistikā un Hipotēžu pārbaude - prez1.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://home.lu.lv/~valeinis/lv/prezentacijas/prez1.pdf)
+
+- [ ] [PayEquityData-.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.laborandemploymentcollege.org/images/pdfs/April2017newsletter/PayEquityData-.pdf)
+
+- [ ] [Performance of bootstrap confidence intervals for L-moments and ratios of L-moments. - viewcontent.cgi](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://dc.etsu.edu/cgi/viewcontent.cgi?article=1033&context=etd)
+
+- [ ] [PII: S1573-4463(99)03007-2 - 11684](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://economics.mit.edu/files/11684)
+
+- [ ] [pol.20150378](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://pubs.aeaweb.org/doi/pdfplus/10.1257/pol.20150378)
+
+- [ ] [R-bootstrap - R-bootstrap.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.math.ntu.edu.tw/~hchen/teaching/LargeSample/references/R-bootstrap.pdf)
+
+- [ ] [rbootstrap.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stata.com/manuals13/rbootstrap.pdf)
+
+- [ ] [rmarkdown-cheatsheet-2.0 - rmarkdown-cheatsheet-2.0.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+
+- [ ] [RSiena_Manual.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf)
+
+- [ ] [rus-book.dvi - rus-book.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.pdmi.ras.ru/~olegviro/topoman/rus-book.pdf)
+
+- [ ] [Slide 1 - Regression101R.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.princeton.edu/~otorres/Regression101R.pdf)
+
+- [ ] [Stat 3701 Lecture Notes: Bootstrap - bootstrap.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.stat.umn.edu/geyer/3701/notes/bootstrap.pdf)
+
+- [ ] [SteJaa-nips03.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://people.csail.mit.edu/tommi/papers/SteJaa-nips03.pdf)
+
+- [ ] [tg050908.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://people.maths.ox.ac.uk/lackenby/tg050908.pdf)
+
+- [ ] [The Determinants of the Salary in NBA and the Overpayment in the Year of Signing a New Contract - viewcontent.cgi](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3040&context=all_theses)
+
+- [ ] [Tidy Data - tidy-data.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://vita.had.co.nz/papers/tidy-data.pdf)
+
+- [ ] [topgroups.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.math.wm.edu/~vinroot/PadicGroups/topgroups.pdf)
+
+- [ ] [Tutorial on Using Regression Models with Count Outcomes Using R - Practical Assessment, Research & Evaluation - getvn.asp](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://pareonline.net/getvn.asp?v=21&n=2)
+
+- [ ] [usingR - usingR.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/doc/contrib/usingR.pdf)
+
+- [ ] [VIF article.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.nkd-group.com/ghdash/mba555/PDF/VIF%20article.pdf)
+
+- [ ] [. standard error method vs. percentile method - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=.%20standard%20error%20method%20vs.%20percentile%20method&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAV6BAgCEAY)
+
+- [ ] [an introduction to the bootstrap pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=an%20introduction%20to%20the%20bootstrap%20pdf&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAR6BAgBEAU)
+
+- [ ] [bias corrected and accelerated bootstrap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g%3A1574468060046&lei=3HnYXfmpAsWZr7wPk9C1sAg&q=bias%20corrected%20and%20accelerated%20bootstrap&ved=2ahUKEwjwsOzMhv_lAhUEyosBHZuJAnQQsKwBKAB6BAgAEAE)
+
+- [ ] [bias corrected bootstrap definition - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g:1574468060046&q=bias+corrected+bootstrap+definition&sa=X&ved=2ahUKEwj5h7fLhv_lAhXFzIsBHRNoDYYQ1QIoAXoECGUQAg)
+
+- [ ] [bootstrap confidence interval python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=bootstrap%20confidence%20interval%20python&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAB6BAgCEAE)
+
+- [ ] [bootstrap confidence interval r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=bootstrap%20confidence%20interval%20r&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAF6BAgCEAI)
+
+- [ ] [bootstrap difference in means r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTZXi34SmQAmlApJGsm3qSVMkR3zg%3A1574379749021&lei=5SDXXcJ7wYiYBYuGvtAB&q=bootstrap%20difference%20in%20means%20r&ved=2ahUKEwjzhaTOvfzlAhX_w4sBHfnfDqkQsKwBKAF6BAgAEAI)
+
+- [ ] [bootstrap estimate of bias in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g:1574468060046&q=bootstrap+estimate+of+bias+in+r&sa=X&ved=2ahUKEwj5h7fLhv_lAhXFzIsBHRNoDYYQ1QIoAHoECGUQAQ)
+
+- [ ] [bootstrap mse in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=bootstrap%20mse%20in%20r&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAV6BAgAEAY)
+
+- [ ] [bootstrap multinomial distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=bootstrap%20multinomial%20distribution&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAJ6BAgBEAM)
+
+- [ ] [bootstrap proof - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g%3A1574468060046&lei=3HnYXfmpAsWZr7wPk9C1sAg&q=bootstrap%20proof&ved=2ahUKEwjwsOzMhv_lAhUEyosBHZuJAnQQsKwBKAF6BAgAEAI)
+
+- [ ] [bootstrap t test in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTZXi34SmQAmlApJGsm3qSVMkR3zg%3A1574379749021&lei=5SDXXcJ7wYiYBYuGvtAB&q=bootstrap%20t%20test%20in%20r&ved=2ahUKEwjzhaTOvfzlAhX_w4sBHfnfDqkQsKwBKAN6BAgAEAQ)
+
+- [ ] [bootstrap uncertainty - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g:1574468060046&q=bootstrap+uncertainty&sa=X&ved=2ahUKEwj5h7fLhv_lAhXFzIsBHRNoDYYQ1QIoB3oECGUQCA)
+
+- [ ] [bootstrap unequal sample size - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g%3A1574468060046&lei=3HnYXfmpAsWZr7wPk9C1sAg&q=bootstrap%20unequal%20sample%20size&ved=2ahUKEwjwsOzMhv_lAhUEyosBHZuJAnQQsKwBKAJ6BAgAEAM)
+
+- [ ] [bootstrapping - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g:1574468060046&q=bootstrapping&sa=X&ved=2ahUKEwj5h7fLhv_lAhXFzIsBHRNoDYYQ1QIoA3oECGUQBA)
+
+- [ ] [bootstrapping multiple variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=bootstrapping%20multiple%20variables&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAN6BAgAEAQ)
+
+- [ ] [bootstrapping multiple variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=bootstrapping%20multiple%20variables&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAV6BAgBEAY)
+
+- [ ] [bootstrapping pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g:1574468060046&q=bootstrapping+pdf&sa=X&ved=2ahUKEwj5h7fLhv_lAhXFzIsBHRNoDYYQ1QIoBnoECGUQBw)
+
+- [ ] [bootstrapping pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g%3A1574468060046&lei=3HnYXfmpAsWZr7wPk9C1sAg&q=bootstrapping%20pdf&ved=2ahUKEwjwsOzMhv_lAhUEyosBHZuJAnQQsKwBKAN6BAgAEAQ)
+
+- [ ] [bootstrapping ratios - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=bootstrapping%20ratios&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAN6BAgCEAQ)
+
+- [ ] [bootstrapping svm in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=bootstrapping%20svm%20in%20r&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAR6BAgAEAU)
+
+- [ ] [bootstrapping using sample in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=bootstrapping%20using%20sample%20in%20r&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAJ6BAgAEAM)
+
+- [ ] [bootstrapping using sample in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTZXi34SmQAmlApJGsm3qSVMkR3zg%3A1574379749021&lei=5SDXXcJ7wYiYBYuGvtAB&q=bootstrapping%20using%20sample%20in%20r&ved=2ahUKEwjzhaTOvfzlAhX_w4sBHfnfDqkQsKwBKAR6BAgAEAU)
+
+- [ ] [compare the empirical coverage of the 95% bootstrap confidence interval with the nominal level. - Google Search](https://www.google.com/search?q=compare%20the%20empirical%20coverage%20of%20the%2095%25%20bootstrap%20confidence%20interval%20with%20the%20nominal%20level.)
+
+- [ ] [Construct a QQ plot with pointwise confidence intervals with known r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRKvc_GpB9u_9Y9Zq8gOpjgaBaqRQ%3A1574379041916&ei=IR7XXeXIN-izmAWTsrGABQ&q=Construct+a+QQ+plot+with+pointwise+confidence+intervals+with+known+r&oq=Construct+a+QQ+plot+with+pointwise+confidence+intervals+with+known+r&gs_l=psy-ab.3...5898.6081..6997...0.2..0.120.233.0j2......0....1..gws-wiz.......0i71j35i302i39.Q7VshCQC_nY&ved=0ahUKEwil3aP8uvzlAhXoGaYKHRNZDFAQ4dUDCAs&uact=5)
+
+- [ ] [Correct the bias in estimating bootstrap - Google Search](https://www.google.com/search?q=Correct%20the%20bias%20in%20estimating%20bootstrap)
+
+- [ ] [coverage probability in cellular network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=coverage%20probability%20in%20cellular%20network&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAR6BAgAEAU)
+
+- [ ] [coverage probability in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=coverage%20probability%20in%20r&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAB6BAgAEAE)
+
+- [ ] [double bootstrap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g:1574468060046&q=double+bootstrap&sa=X&ved=2ahUKEwj5h7fLhv_lAhXFzIsBHRNoDYYQ1QIoBXoECGUQBg)
+
+- [ ] [efficient bootstrapping in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTZXi34SmQAmlApJGsm3qSVMkR3zg%3A1574379749021&lei=5SDXXcJ7wYiYBYuGvtAB&q=efficient%20bootstrapping%20in%20r&ved=2ahUKEwjzhaTOvfzlAhX_w4sBHfnfDqkQsKwBKAJ6BAgAEAM)
+
+- [ ] [frequentist coverage probability - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=frequentist%20coverage%20probability&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAJ6BAgAEAM)
+
+- [ ] [high coverage probability - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=high%20coverage%20probability&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAF6BAgAEAI)
+
+- [ ] [how to interpret bootstrapping results in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTZXi34SmQAmlApJGsm3qSVMkR3zg%3A1574379749021&lei=5SDXXcJ7wYiYBYuGvtAB&q=how%20to%20interpret%20bootstrapping%20results%20in%20r&ved=2ahUKEwjzhaTOvfzlAhX_w4sBHfnfDqkQsKwBKAV6BAgAEAY)
+
+- [ ] [nonparametric bootstrap r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQrOf2vmF1h7rFKxrAOoZEHv2WYQQ%3A1574379721923&ei=ySDXXZXyN9KsmAXjm5SwDw&q=nonparametric+bootstrap+r&oq=nonparametric+bootstrap+r&gs_l=psy-ab.1.0.0j0i22i30l8j0i333.24294.24866..25727...0.2..0.116.219.0j2......0....1..gws-wiz.......0i71j0i20i263.jGEDMNPisuc)
+
+- [ ] [parametric bootstrap example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g:1574468060046&q=parametric+bootstrap+example&sa=X&ved=2ahUKEwj5h7fLhv_lAhXFzIsBHRNoDYYQ1QIoAnoECGUQAw)
+
+- [ ] [parametric bootstrap hypothesis test - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=parametric%20bootstrap%20hypothesis%20test&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAN6BAgBEAQ)
+
+- [ ] [parametric bootstrap python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=parametric%20bootstrap%20python&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAB6BAgBEAE)
+
+- [ ] [parametric bootstrap r - Google Search](https://www.google.com/search?q=parametric+bootstrap+r&oq=parametric+&aqs=chrome.1.69i57j69i59j69i60l2j69i61l2.3718j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [parametric bootstrap regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=parametric%20bootstrap%20regression&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAF6BAgBEAI)
+
+- [ ] [percentile bootstrap vs empirical bootstrap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=percentile%20bootstrap%20vs%20empirical%20bootstrap&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAR6BAgCEAU)
+
+- [ ] [pointwise coverage probability - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=pointwise%20coverage%20probability&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAN6BAgAEAQ)
+
+- [ ] [r bootstrap sum - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=r%20bootstrap%20sum&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAB6BAgAEAE)
+
+- [ ] [resample rows in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS_q-I9G2mBVcfgrt2cU7Nh7s8K6Q%3A1574466953882&lei=iXXYXbCyNcS2mAXBrY7ABg&q=resample%20rows%20in%20r&ved=2ahUKEwiho9y8gv_lAhW8yYsBHfslCgcQsKwBKAF6BAgAEAI)
+
+- [ ] [resample with a larger sample size and retest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g%3A1574468060046&lei=3HnYXfmpAsWZr7wPk9C1sAg&q=resample%20with%20a%20larger%20sample%20size%20and%20retest&ved=2ahUKEwjwsOzMhv_lAhUEyosBHZuJAnQQsKwBKAV6BAgAEAY)
+
+- [ ] [resampling in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTZXi34SmQAmlApJGsm3qSVMkR3zg%3A1574379749021&lei=5SDXXcJ7wYiYBYuGvtAB&q=resampling%20in%20r&ved=2ahUKEwjzhaTOvfzlAhX_w4sBHfnfDqkQsKwBKAB6BAgAEAE)
+
+- [ ] [residual bootstrap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g:1574468060046&q=residual+bootstrap&sa=X&ved=2ahUKEwj5h7fLhv_lAhXFzIsBHRNoDYYQ1QIoBHoECGUQBQ)
+
+- [ ] [trade off between confidence and precision - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTCgLp6slArVsFnOJr7I75CwqkPAw%3A1574466589952&lei=HXTYXYnPOa2ImAWzq4GoCQ&q=trade%20off%20between%20confidence%20and%20precision&ved=2ahUKEwj3o4ykgf_lAhUky4sBHTiEC08QsKwBKAV6BAgAEAY)
+
+- [ ] [what is bootstrapping in education - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR42h4cF-VWs3eCrdlehjvVubDI5g%3A1574468060046&lei=3HnYXfmpAsWZr7wPk9C1sAg&q=what%20is%20bootstrapping%20in%20education&ved=2ahUKEwjwsOzMhv_lAhUEyosBHZuJAnQQsKwBKAR6BAgAEAU)
+
+
+
+
+
+
+---
+
+
+
+
+## 11/24/2019
+
+- [ ] [beautiful graphics ggplot2](http://rstudio-pubs-static.s3.amazonaws.com/228019_f0c39e05758a4a51b435b19dbd321c23.html)
+
+- [ ] [Aesthetics: grouping — aes_group_order • ggplot2](https://ggplot2.tidyverse.org/reference/aes_group_order.html)
+
+- [ ] [R tutorials, multiple curves, multiple plots, same plot R](http://www.countbio.com/web_pages/left_object/R_for_biology/R_fundamentals/multiple_curves_R.html)
+
+- [ ] [Aesthetics: grouping — aes_group_order • ggplot2](https://ggplot2.tidyverse.org/reference/aes_group_order.html)
+
+- [ ] [Dplyr group_by mean not working and reprex - tidyverse - RStudio Community](https://community.rstudio.com/t/dplyr-group-by-mean-not-working-and-reprex/13443)
+
+- [ ] [Separate axis breaks for facets - tidyverse - RStudio Community](https://community.rstudio.com/t/separate-axis-breaks-for-facets/10352)
+
+- [ ] [Weekly topics - RStudio Community](https://community.rstudio.com/top/weekly)
+
+- [ ] [How to Make an Area Chart in R | Displayr](https://www.displayr.com/how-to-make-an-area-chart-in-r/)
+
+- [ ] [Overlapping Distribution Plots](https://mikebader.net/blog/entries/2018/05/07/overlapping-distribution-plots/)
+
+- [ ] [Are central banks manipulating asset prices? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/are-central-banks-manipulating-asset-prices.html)
+
+- [ ] [Classical musical recordings of the year - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/classical-musical-recordings-of-the-year.html)
+
+- [ ] [Eliminate Journal Formatting on First Submission! - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/eliminate-journal-formatting-on-first-submission.html)
+
+- [ ] [Inefficient Journal Submission Policies - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2009/08/inefficient-journal-submission-policies.html)
+
+- [ ] [Monday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/monday-assorted-links-230.html)
+
+- [ ] [Progress Studies tranche of Emergent Ventures - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/progress-studies-tranche-of-emergent-ventures.html)
+
+- [ ] [The real inflation inequality of our time - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/the-real-inflation-inequality-of-our-time.html)
+
+- [ ] [Tuesday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/tuesday-assorted-links-239.html)
+
+- [ ] [Alison Bjorkedal, James Tenney - James Tenney: Changes - 64 Studies for 6 Harps - Amazon.com Music](https://www.amazon.com/Changes-CHOATE-ELIZABETH-HUSTON-BJORKEDAL/dp/B07NN6CTTD/ref=sr_1_3?keywords=james+tenney&qid=1574011628&sr=8-3/marginalrevol-20)
+
+- [ ] [Alvin Curran, Johnny Green & Edward Heyman, "Andy Razaf, "Fats" Waller, Eubie Blake, Anonymous, Duke Ellington & Paul Francis, Ellis Reynolds & Al Neiburg, George & Ira Gershwin, Herman Hupfeld, Irving Caesar Leonello, Irving Caesar Vincent - Alvin Curran: Endangered Species - Amazon.com Music](https://www.amazon.com/Alvin-Curran-Endangered-Species/dp/B07JQKNZD6/ref=sr_1_1?keywords=alvin+curran&qid=1574011706&sr=8-1/marginalrevol-20)
+
+- [ ] [Amazon.com: Probability](https://www.amazon.com/s?k=Probability&ref=nb_sb_noss)
+
+- [ ] [ANTON BRUCKNER - Symphony No 4 - Amazon.com Music](https://www.amazon.com/Bruckner-Symphony-Orchestre-Suisse-Romande/dp/B00CZ9COA8/ref=pd_sbs_15_2/147-3841631-6929939?_encoding=UTF8&pd_rd_i=B00CZ9COA8&pd_rd_r=452dcb38-9a9f-4c9a-81cf-3ceb4f7e86a8&pd_rd_w=NN0DR&pd_rd_wg=8DUvN&pf_rd_p=52b7592c-2dc9-4ac6-84d4-4bda6360045e&pf_rd_r=8A3V0PMDBENJVQPJAVHD&psc=1&refRID=8A3V0PMDBENJVQPJAVHD/marginalrevol-20)
+
+- [ ] [BERLINER PHILHARMONIKER - Wilhelm Fürtwangler - The Radio Recordings 1939 - 1945. Berliner Philharmoniker. SACD - Amazon.com Music](https://www.amazon.com/Radio-Recordings-1939-19-BERLINER-PHILHARMONIKER/dp/B07NHRJ3PM/ref=sr_1_2?keywords=wilhelm+furtwangler&qid=1574011568&sr=8-2/marginalrevol-20)
+
+- [ ] [Feodor Chaliapin - Feodor Chaliapin: The Complete Recordings - Amazon.com Music](https://www.amazon.com/Feodor-Chaliapin-Complete-Recordings/dp/B07L9DYVCL/ref=sr_1_1?keywords=feodor+chapliapin&qid=1574011528&sr=8-1-spell/marginalrevol-20)
+
+- [ ] [Ludwig Van Beethoven, Wilhelm Furtwangler, Berlin Philharmonic Orchestra - Beethoven: Symphony 9 in D Minor - Amazon.com Music](https://www.amazon.com/Beethoven-Symphony-9-D-Minor/dp/B000001OEX/ref=sr_1_fkmr0_2?keywords=furtwangler+1942+love+beethoven+9th&qid=1574012113&sr=8-2-fkmr0/marginalrevol-20)
+
+- [ ] [ODENSE SYMPHONY ORCHESTRA; BRIDGE ACADEMY SINGERS; MATT BOEHLER; ASHRAF SEWAILAM; TAMARA MUMFORD - Thirteenth Child - Amazon.com Music](https://www.amazon.com/Thirteenth-SYMPHONY-ORCHESTRA-ACADEMY-SEWAILAM/dp/B07RPGG88V/ref=sr_1_1?crid=SCZJEGV1GF03&keywords=ruders+the+thirteenth+child&qid=1574011485&sprefix=ruders+thirtee%2Caps%2C135&sr=8-1/marginalrevol-20)
+
+- [ ] [The Age of the Infovore: Succeeding in the Information Economy: Tyler Cowen: 9780452296190: Amazon.com: Books](https://www.amazon.com/Age-Infovore-Succeeding-Information-Economy/dp/0452296196/ref=sr_1_1?keywords=age+of+the+infovore&qid=1573738722&sr=8-1)
+
+- [ ] [The History of Statistics in the 17th and 18th Centuries, Against the Changing Background of Intellectual, Scientific and Religious Thought: Lecture: Karl Pearson, E. S. Pearson: 9780852642504: Amazon.com: Books](https://www.amazon.com/Statistics-Centuries-Background-Intellectual-Scientific/dp/0852642504)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/slb/kurser/rbugs-05)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/algoritm_kompendium.ps)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/mcmc.ps)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/livslang.html)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/algoritm_kompendium.pdf)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/master.ps)
+
+- [ ] [eat](http://people.math.aau.dk/~jm/courses/interpolation.html)
+
+- [ ] [eat](http://people.math.aau.dk/~jm/courses/interpolation.html)
+
+- [ ] [people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/)
+
+- [ ] [Kim Jong-Un Has a Population Problem | The National Interest](https://nationalinterest.org/blog/buzz/kim-jong-un-has-population-problem-97292)
+
+- [ ] [How can I generate bootstrap statistics in R? | R FAQ](https://stats.idre.ucla.edu/r/faq/how-can-i-generate-bootstrap-statistics-in-r/)
+
+- [ ] [R Graphics: Introduction to ggplot2 (1)](https://stats.idre.ucla.edu/stat/data/intro_ggplot2/ggplot2_intro_slidy.html#(1))
+
+- [ ] [R Library Introduction to bootstrapping](https://stats.idre.ucla.edu/r/library/r-library-introduction-to-bootstrapping/)
+
+- [ ] [Winners don't punish. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/18354481)
+
+- [ ] [Imperfect Public Monitoring with Costly Punishment: An Experimental Study](https://ideas.repec.org/a/aea/aecrev/v102y2012i7p3317-32.html)
+
+- [ ] [Advanced tips and tricks with data.table – andrew brooks](http://brooksandrew.github.io/simpleblog/articles/advanced-data-table/)
+
+- [ ] [Aggregate Data in R Using data.table | RProgramming.net](http://rprogramming.net/aggregate-data-in-r-using-data-table/)
+
+- [ ] [12. Two Way Tables — R Tutorial](https://www.cyclismo.org/tutorial/R/tables.html)
+
+- [ ] [https://www3.nd.edu/~steve/computing_with_data/24_dplyr/dplyr.html](https://www3.nd.edu/~steve/computing_with_data/24_dplyr/dplyr.html)
+
+- [ ] [How to average replicate data using R (Column and Raw)](https://www.biostars.org/p/318210/)
+
+- [ ] [group_by: Group by one or more variables in dplyr: A Grammar of Data Manipulation](https://rdrr.io/cran/dplyr/man/group_by.html)
+
+- [ ] [group_by function | R Documentation](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8/topics/group_by)
+
+- [ ] [The doBy package](http://people.math.aau.dk/~sorenh/software/doBy/)
+
+- [ ] [Aurelie Ouss](http://aouss.github.io/research.html)
+
+- [ ] [The Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/)
+
+- [ ] [PSE - Ecole d'économie de Paris - Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)
+
+- [ ] [Department of Economics](https://economics.harvard.edu/)
+
+- [ ] [UChicago Urban Labs](https://urbanlabs.uchicago.edu/)
+
+- [ ] [Department of Criminology](https://crim.sas.upenn.edu/)
+
+- [ ] [Eric Maurin page personnelle / homepage](http://www.jourdan.ens.fr/~emaurin/)
+
+- [ ] [anuj k. shah](http://theslab.uchicago.edu/anuj/)
+
+- [ ] [Ben Greiner](http://ben.orsee.org/#teaching)
+
+- [ ] [Ambrus: Imperfect public monitoring with costly punishmen... - Google Scholar](https://scholar.google.com/scholar?cites=6867978460715757220&as_sdt=2005&sciodt=0,5&hl=en)
+
+- [ ] [Ambrus: Imperfect public monitoring with costly punishmen... - Google Scholar](https://scholar.google.com/scholar?cluster=6867978460715757220&hl=en&as_sdt=0,5)
+
+- [ ] [Imperfect Public Monitoring with Costly Punishment: An Experimental Study on JSTOR](https://www.jstor.org/stable/41724635?seq=1)
+
+- [ ] [z-Tree : Zurich toolbox for ready-made economic experiments](http://kops.uni-konstanz.de/handle/123456789/16670?locale-attribute=en)
+
+- [ ] [Experiments : Research Lab : Universität Hamburg](https://www.wiso.uni-hamburg.de/en/forschung/forschungslabor/experimentallabor/forschende/ztree.html)
+
+- [ ] [z-Tree - Zurich toolbox for readymade economic experiments - Research Collection](https://www.research-collection.ethz.ch/handle/20.500.11850/146564)
+
+- [ ] [Game Theory](https://gametheory.online/project_show/25)
+
+- [ ] [Game Theory](https://gametheory.online/project_show/11)
+
+- [ ] [Game Theory](https://gametheory.online/project_show/18)
+
+- [ ] [Science Online](https://scienceexperiment.online/)
+
+- [ ] [Utility, Substitution and Demand: An Interactive Tutorial](https://www.economicsnetwork.ac.uk/archive/poulter/about_mlp.htm)
+
+- [ ] [Game Theory .net - Repeated Prisoner's Dilemma Applet](http://www.gametheory.net/Mike/applets/PDilemma/Pdilemma.html)
+
+- [ ] [Iterated Prisoner's Dilemma](http://www.taumoda.com/web/PD/TFT/TFTApplet.html)
+
+- [ ] [The Evolution of Trust](https://ncase.me/trust/)
+
+- [ ] [404 - Page Not Found](https://www.moblab.com/edu/games/all-games)
+
+- [ ] [Games-and-Behavior: Experimental Game Theory](http://gametheory.tau.ac.il/)
+
+- [ ] [עולמות אפשריים בע"מ - Possible Worlds Ltd](http://www.possibleworlds.co.il/)
+
+- [ ] [Experience from a Course in Game Theory](http://arielrubinstein.tau.ac.il/99/gt100.html)
+
+- [ ] [Martin J. Osborne](https://www.economics.utoronto.ca/osborne/)
+
+- [ ] [An introduction to game theory (main screen)](https://www.economics.utoronto.ca/osborne/igt/index.html)
+
+- [ ] [Bargaining and Markets](https://www.economics.utoronto.ca/osborne/bm/)
+
+- [ ] [A course in game theory (main screen)](https://www.economics.utoronto.ca/osborne/cgt/index.html)
+
+- [ ] [Osborne-Rubinstein books](https://books.osborne.economics.utoronto.ca/)
+
+- [ ] [An introduction to game theory (main screen)](https://www.economics.utoronto.ca/osborne/igt/index.html)
+
+- [ ] [Game Theory .net - Resources for Learning and Teaching Strategy for Business and Life](http://www.gametheory.net/)
+
+- [ ] [Game Theory Utility & Simulation](https://www.zweigmedia.com/RealWorld/gametheory/games.html)
+
+- [ ] [kable_styling: HTML table attributes in kableExtra: Construct Complex Table with 'kable' and Pipe Syntax](https://rdrr.io/cran/kableExtra/man/kable_styling.html)
+
+- [ ] [(66) SingEx: Life | LinkedIn](https://www.linkedin.com/company/singex-group/life/fcd4d8c6-2a40-463c-bdbd-4c9fa1e7a530/)
+
+- [ ] [Julie Jung (0000-0001-8319-3984) - ORCID | Connecting Research and Researchers](http://orcid.org/0000-0001-8319-3984)
+
+- [ ] [【r<-ggplot2】cowplot介绍 - 简书](https://www.jianshu.com/p/fea410378360)
+
+- [ ] [cowplot @ METACRAN](https://www.r-pkg.org/pkg/cowplot)
+
+- [ ] [Introduction to cowplot to combine several plots in one with R – IRIC's Bioinformatics Platform](https://bioinfo.iric.ca/introduction-to-cowplot/)
+
+- [ ] [How to combine Multiple ggplot Plots to make Publication-ready Plots | DataScience+](https://datascienceplus.com/how-to-combine-multiple-ggplot-plots-to-make-publication-ready-plots/)
+
+- [ ] [St4k - stackoverflow](http://danlec.com/st4k#questions/49825971)
+
+- [ ] [Prepare Reproducible Example Code via the Clipboard • reprex](https://reprex.tidyverse.org/)
+
+- [ ] [grid.arrange from gridExtras exiting with “only ‘grobs’ allowed in ‘gList’” after update | Tech Mag](https://techxmag.com/questions/grid-arrange-from-gridextras-exiting-with-only-grobs-allowed-in-glist-afte/)
+
+- [ ] [Graphics - Power of graphics in knitr - Yihui Xie | 谢益辉](https://yihui.org/knitr/demo/graphics/)
+
+- [ ] [Aggregate – A Powerful Tool for Data Frame in R | DataScience+](https://datascienceplus.com/aggregate-data-frame-r/)
+
+- [ ] [R Aggregate Function: Summarise & Group_by() Example](https://www.guru99.com/r-aggregate-function.html)
+
+- [ ] [perfect.png (1980×1800)](https://bioinfo.iric.ca/wpbioinfo/wp-content/uploads/2016/11/perfect.png)
+
+- [ ] [Introduction to cowplot](https://cloud.r-project.org/web/packages/cowplot/vignettes/introduction.html)
+
+- [ ] [arovD.jpg (1366×650)](https://i.stack.imgur.com/arovD.jpg)
+
+- [ ] [Package `gtable`](https://studylib.net/doc/18299886/package--gtable-)
+
+- [ ] [Panel plots | Fiona Seaton](https://www.fionamseaton.com/tutorial/r-club/panel_plots/)
+
+- [ ] [Making plots and tables from the simulation results](https://lukeholman.github.io/W_shredder/plot_model.html)
+
+- [ ] [ggplot2で，並べたグラフの幅をそろえる方法: さかなのいろいろ](http://sakananoiroiro.seesaa.net/article/460806470.html)
+
+- [ ] [Subplots | R | Plotly](https://plot.ly/r/subplots/)
+
+- [ ] [Find panels in a gtable — find_panel • ggplot2](https://ggplot2.tidyverse.org/reference/find_panel.html)
+
+- [ ] [gtable • All Your Figure Are Belong To Us](http://yutannihilation.github.io/allYourFigureAreBelongToUs/gtable/gtable/)
+
+- [ ] [Modifying the gTable | R](https://campus.datacamp.com/courses/data-visualization-with-ggplot2-part-3/ggplot2-internals?ex=9)
+
+- [ ] [R Multiple Plot Using par() Function](https://www.datamentor.io/r-programming/subplot/)
+
+- [ ] [Multiple graphs on one page (ggplot2)](http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/)
+
+- [ ] [Efficient accumulation in R – Win-Vector Blog](http://www.win-vector.com/blog/2015/07/efficient-accumulation-in-r/)
+
+- [ ] [RPubs - Applying a function over rows of a data frame](https://rpubs.com/wch/200398)
+
+- [ ] [Data visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
+
+- [ ] [Visualizing data with ggplot2](https://datacarpentry.org/dc_zurich/R-ecology/05-visualisation-ggplot2.html)
+
+- [ ] [Time Series 06: Create Plots with Multiple Panels, Grouped by Time Using ggplot Facets | NSF NEON | Open Data to Understand our Ecosystems](https://www.neonscience.org/dc-time-series-plot-facets-ndvi-r)
+
+- [ ] [Easy multi-panel plots in R using facet_wrap() and facet_grid() from ggplot2 | Technical Tidbits From Spatial Analysis & Data Science](http://zevross.com/blog/2019/04/02/easy-multi-panel-plots-in-r-using-facet_wrap-and-facet_grid-from-ggplot2/)
+
+- [ ] [How to Combine Multiple GGPlots into a Figure - Datanovia](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/)
+
+- [ ] [Embedding subplots in ggplot2 graphics](https://aosmith.rbind.io/2019/04/22/embedding-subplots/)
+
+- [ ] [https://www3.nd.edu/~steve/computing_with_data/13_Facets/facets.html](https://www3.nd.edu/~steve/computing_with_data/13_Facets/facets.html)
+
+- [ ] [Plots with subplots in R | Matti Vuorre](https://vuorre.netlify.com/post/2016/03/15/plots-with-subplots-in-r/)
+
+- [ ] [Grouped means (again) | R-bloggers](https://www.r-bloggers.com/grouped-means-again/)
+
+- [ ] [How to Summarize a Data Frame by Groups in R | R-bloggers](https://www.r-bloggers.com/how-to-summarize-a-data-frame-by-groups-in-r/)
+
+- [ ] [GGPlot AES: How to Assign Aesthetics in GGPlot2 - Datanovia](https://www.datanovia.com/en/blog/ggplot-aes-how-to-assign-aesthetics-in-ggplot2/)
+
+- [ ] [Construct aesthetic mappings — aes • ggplot2](https://ggplot2.tidyverse.org/reference/aes.html)
+
+- [ ] [Aesthetic specifications • ggplot2](https://ggplot2.tidyverse.org/articles/ggplot2-specs.html)
+
+- [ ] [Rachel Kranton | Scholars@Duke](https://scholars.duke.edu/person/rachel.kranton)
+
+- [ ] [Curtis R. Taylor | Scholars@Duke](https://scholars.duke.edu/person/crtaylor)
+
+- [ ] [Huseyin Yildirim | Scholars@Duke](https://scholars.duke.edu/person/yildirh)
+
+- [ ] [RStudio Schedule](https://rstudio.youcanbook.me/?UTM_CONTENT=Community_YCBM_001)
+
+- [ ] [Best ggplot visualizations – Nextjournal](https://nextjournal.com/jk/best-ggplot)
+
+- [ ] [ggplot | geom_area](http://ggplot.yhathq.com/docs/geom_area.html)
+
+- [ ] [Creating plots in R using ggplot2 - part 2: area plots](http://t-redactyl.io/blog/2015/12/creating-plots-in-r-using-ggplot2-part-2-area-plots.html)
+
+- [ ] [Data Visualization with R](https://rkabacoff.github.io/datavis/Models.html#)
+
+- [ ] [Need position_stack_line() · Issue #2883 · tidyverse/ggplot2](https://github.com/tidyverse/ggplot2/issues/2883)
+
+- [ ] [ablack3/shinyPivot: A pivot table module for Shiny built on dplyr](https://github.com/ablack3/shinyPivot)
+
+- [ ] [aymericdamien/TensorFlow-Examples: TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)](https://github.com/aymericdamien/TensorFlow-Examples/)
+
+- [ ] [baptiste (baptiste)](https://github.com/baptiste)
+
+- [ ] [bbdaniels/tests](https://github.com/bbdaniels/tests)
+
+- [ ] [burke-lab/NCC2018: Replication materials for Burke et al 2018 `Higher temperatures increase suicide rates in the United States and Mexico'](https://github.com/burke-lab/NCC2018)
+
+- [ ] [dragen1860/Deep-Learning-with-TensorFlow-book: 深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
+
+- [ ] [econ-program-usage-data/articles_programs_used.csv at master · pbaylis/econ-program-usage-data](https://github.com/pbaylis/econ-program-usage-data/blob/master/articles_programs_used.csv)
+
+- [ ] [FixedEffects/FixedEffectModels.jl: Fast Estimation of Linear Models with IV and High Dimensional Categorical Variables](https://github.com/FixedEffects/FixedEffectModels.jl)
+
+- [ ] [group_by() filter() not working · Issue #4002 · tidyverse/dplyr](https://github.com/tidyverse/dplyr/issues/4002)
+
+- [ ] [haozhu233/kableExtra: Construct Complex Table with knitr::kable() + pipe.](https://github.com/haozhu233/kableExtra)
+
+- [ ] [nndl/nndl.github.io: 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io)
+
+- [ ] [pbaylis (Patrick Baylis) / Repositories](https://github.com/pbaylis?tab=repositories)
+
+- [ ] [pbaylis (Patrick Baylis) / Starred](https://github.com/pbaylis?tab=stars)
+
+- [ ] [pbaylis/econ-program-usage-data: Data repository for AER program usage data](https://github.com/pbaylis/econ-program-usage-data)
+
+- [ ] [rstudio/webinars: Code and slides for RStudio webinars](https://github.com/rstudio/webinars/)
+
+- [ ] [TensorFlow-Examples/tensorflow_v2 at master · aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
+
+- [ ] [tfjs-models/body-pix at master · tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
+
+- [ ] [Thinking about bootstrap grouping · Issue #269 · tidyverse/dplyr](https://github.com/tidyverse/dplyr/issues/269)
+
+- [ ] [uo-ec607/lectures: Lecture notes for EC 607](https://github.com/uo-ec607/lectures)
+
+- [ ] [wilkelab/cowplot: cowplot: Streamlined Plot Theme and Plot Annotations for 'ggplot2'](https://github.com/wilkelab/cowplot)
+
+- [ ] [Write vignette about grid · Issue #1239 · tidyverse/ggplot2](https://github.com/tidyverse/ggplot2/issues/1239)
+
+- [ ] [jennybc/row-oriented-workflows: Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows)
+
+- [ ] [facet_grid() with scales="free" option won't free y-axis actually · Issue #1344 · tidyverse/ggplot2](https://github.com/tidyverse/ggplot2/issues/1344)
+
+- [ ] [Stacked area graph in ggplot2 is empty - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/299402/stacked-area-graph-in-ggplot2-is-empty)

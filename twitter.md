@@ -979,3 +979,28 @@ Administrator@WIN10-901122121 ~/assorted-readin
 
 - [ ] [(1) Balaji Lakshminarayanan (@balajiln) / Twitter](https://twitter.com/balajiln)
 
+
+
+## 11/23/2019
+
+- [ ] [(1) Ben Southwood (@bswud) / Twitter](https://twitter.com/bswud)
+
+- [ ] [(1) GEN (@GENmag) / Twitter](https://twitter.com/GENmag)
+
+- [ ] [(1) Home / Twitter](https://twitter.com/home)
+
+- [ ] [(1) Home / Twitter](https://twitter.com/home)
+
+- [ ] [(1) Home / Twitter](https://twitter.com/home)
+
+- [ ] [(1) Lama (@LamaAlRajih) / Twitter](https://twitter.com/LamaAlRajih)
+
+- [ ] [(1) Rogs (@ESRogs) / Twitter](https://twitter.com/ESRogs)
+
+- [ ] [(1) Shay Khatiri on Twitter: "Thread on Protests in Iran: 1/11 During its first 24 hours, it's already been the most violent protests in decades, if not ever. 1979 revolution did not reach this level of violence." / Twitter](https://twitter.com/ShayKhatiri/status/1195860574955036672)
+
+- [ ] [(2) ホーム / Twitter](https://twitter.com/home)
+
+- [ ] [David EvansさんはTwitterを使っています: 「ECONOMICAL READING To help you prepare for your holiday shopping, here are 10 books by economists, written for broad audiences, that came out in 2019. Let me know which ones I missed! Below is a thread with links to each book. https://t.co/L4UPQ3q6tB」 / Twitter](https://twitter.com/DaveEvansPhD/status/1197964842621177856)
+
+- [ ] [Sasha Rush（@srush_nlp）さん / Twitter](https://twitter.com/srush_nlp)

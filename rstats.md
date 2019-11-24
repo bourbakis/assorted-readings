@@ -473,3 +473,99 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwjZ0Z
 - [ ] [Census Data Project – Part 3: Predictive Analysis](https://rstudio-pubs-static.s3.amazonaws.com/265202_278cf395891a4f55be22a9ac7c0ac9c3.html)
 
 - [ ] [Stepwise, Lasso, and Elastic Net](https://rstudio-pubs-static.s3.amazonaws.com/300677_5d9e944cda714a78ba0dca229ae805eb.html)
+
+
+
+
+
+# DataViz
+
+## 11/24/2019
+
+- [ ] [display multiple plots in a list using grid.arrange in R - Stack Overflow](https://stackoverflow.com/questions/32161688/display-multiple-plots-in-a-list-using-grid-arrange-in-r)
+
+- [ ] [ggplot2 - How to manage the t, b, l, r coordinates of gtable() to plot the secondary y-axis's labels and tick marks properly - Stack Overflow](https://stackoverflow.com/questions/37984000/how-to-manage-the-t-b-l-r-coordinates-of-gtable-to-plot-the-secondary-y-axi)
+
+- [ ] [graph - plot grouped data in R - Stack Overflow](https://stackoverflow.com/questions/15546468/plot-grouped-data-in-r)
+
+- [ ] [How to calculate the mean in a data frame using aggregate function in R? - Stack Overflow](https://stackoverflow.com/questions/31816737/how-to-calculate-the-mean-in-a-data-frame-using-aggregate-function-in-r)
+
+- [ ] [How to plot two histograms together in R? - Stack Overflow](https://stackoverflow.com/questions/3541713/how-to-plot-two-histograms-together-in-r)
+
+- [ ] [in R, how to calculate mean of all column, by group? - Stack Overflow](https://stackoverflow.com/questions/40947288/in-r-how-to-calculate-mean-of-all-column-by-group)
+
+- [ ] [Newest 'kable' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/kable)
+
+- [ ] [plot - R - ggplot2 geom_area only one category visible? - Stack Overflow](https://stackoverflow.com/questions/39986072/r-ggplot2-geom-area-only-one-category-visible)
+
+- [ ] [Plot two graphs in same plot in R - Stack Overflow](https://stackoverflow.com/questions/2564258/plot-two-graphs-in-same-plot-in-r)
+
+- [ ] [r - Apply a ggplot-function per group with dplyr and set title per group - Stack Overflow](https://stackoverflow.com/questions/29034863/apply-a-ggplot-function-per-group-with-dplyr-and-set-title-per-group)
+
+- [ ] [r - Arrange ggplot plots (grobs with same widths) using gtable to create 2x2 layout - Stack Overflow](https://stackoverflow.com/questions/35068129/arrange-ggplot-plots-grobs-with-same-widths-using-gtable-to-create-2x2-layout)
+
+- [ ] [r - Calculate the mean by group - Stack Overflow](https://stackoverflow.com/questions/11562656/calculate-the-mean-by-group)
+
+- [ ] [r - Creating multiple plots in ggplot with different Y-axis values using a loop - Stack Overflow](https://stackoverflow.com/questions/38223193/creating-multiple-plots-in-ggplot-with-different-y-axis-values-using-a-loop)
+
+- [ ] [r - dismantling a ggplot with grid and gtable - Stack Overflow](https://stackoverflow.com/questions/27750737/dismantling-a-ggplot-with-grid-and-gtable)
+
+- [ ] [r - geom_area group and fill by different variables - Stack Overflow](https://stackoverflow.com/questions/33209797/geom-area-group-and-fill-by-different-variables)
+
+- [ ] [r - geom_area plot with areas and outlines ggplot - Stack Overflow](https://stackoverflow.com/questions/12323060/geom-area-plot-with-areas-and-outlines-ggplot)
+
+- [ ] [r - geom_area plots stacked areas by default - Stack Overflow](https://stackoverflow.com/questions/53549657/geom-area-plots-stacked-areas-by-default)
+
+- [ ] [r - ggplot two shaded areas geom_area - Stack Overflow](https://stackoverflow.com/questions/48503222/ggplot-two-shaded-areas-geom-area)
+
+- [ ] [r - ggplot with 2 y axes on each side and different scales - Stack Overflow](https://stackoverflow.com/questions/3099219/ggplot-with-2-y-axes-on-each-side-and-different-scales)
+
+- [ ] [r - ggplot with a lot of groups; subplots (facets) for better arrangement - Stack Overflow](https://stackoverflow.com/questions/44400533/ggplot-with-a-lot-of-groups-subplots-facets-for-better-arrangement)
+
+- [ ] [r - ggplot with a lot of groups; subplots (facets) for better arrangement - Stack Overflow](https://stackoverflow.com/questions/44400533/ggplot-with-a-lot-of-groups-subplots-facets-for-better-arrangement)
+
+- [ ] [r - ggplot: align multiple faceted plots - facets all different sizes - Stack Overflow](https://stackoverflow.com/questions/50632038/ggplot-align-multiple-faceted-plots-facets-all-different-sizes)
+
+- [ ] [r - ggplot() lines transparency - Stack Overflow](https://stackoverflow.com/questions/14411270/ggplot-lines-transparency)
+
+- [ ] [r - ggplot2 geom_area overlay area plots in front of each other - Stack Overflow](https://stackoverflow.com/questions/40515581/ggplot2-geom-area-overlay-area-plots-in-front-of-each-other)
+
+- [ ] [r - grid.arrange from gridExtras exiting with "only 'grobs' allowed in 'gList'" after update - Stack Overflow](https://stackoverflow.com/questions/34838870/grid-arrange-from-gridextras-exiting-with-only-grobs-allowed-in-glist-afte/34839064)
+
+- [ ] [r - grid.arrange from gridExtras exiting with “only 'grobs' allowed in 'gList'” after update - Stack Overflow](https://stackoverflow.com/questions/43653983/grid-arrange-from-gridextras-exiting-with-only-grobs-allowed-in-glist-afte)
+
+- [ ] [r - gtable: Put a black line around all cells in the table body - Stack Overflow](https://stackoverflow.com/questions/31506294/gtable-put-a-black-line-around-all-cells-in-the-table-body)
+
+- [ ] [r - How can I align multiple plots by their titles instead of plot area? - Stack Overflow](https://stackoverflow.com/questions/47667729/how-can-i-align-multiple-plots-by-their-titles-instead-of-plot-area)
+
+- [ ] [r - How do I fill a geom_area() plot using ggplot? - Stack Overflow](https://stackoverflow.com/questions/7883154/how-do-i-fill-a-geom-area-plot-using-ggplot)
+
+- [ ] [r - How to set different y-axis scale in a facet_grid with ggplot? - Stack Overflow](https://stackoverflow.com/questions/28111413/how-to-set-different-y-axis-scale-in-a-facet-grid-with-ggplot)
+
+- [ ] [r - How to sum a variable by group - Stack Overflow](https://stackoverflow.com/questions/1660124/how-to-sum-a-variable-by-group)
+
+- [ ] [r - Looping over variables in ggplot - Stack Overflow](https://stackoverflow.com/questions/4856849/looping-over-variables-in-ggplot/52045613#52045613)
+
+- [ ] [r - Mean per group in a data.frame - Stack Overflow](https://stackoverflow.com/questions/21982987/mean-per-group-in-a-data-frame)
+
+- [ ] [r - Nested facets in ggplot2 spanning groups - Stack Overflow](https://stackoverflow.com/questions/40316169/nested-facets-in-ggplot2-spanning-groups)
+
+- [ ] [r - Only grobs allowed in gList - Stack Overflow](https://stackoverflow.com/questions/42742815/only-grobs-allowed-in-glist)
+
+- [ ] [r - Plot multiple boxplot in one graph - Stack Overflow](https://stackoverflow.com/questions/14604439/plot-multiple-boxplot-in-one-graph)
+
+- [ ] [r - Plotting different y-axis scaling using ggplot facet_grid()? - Stack Overflow](https://stackoverflow.com/questions/46187312/plotting-different-y-axis-scaling-using-ggplot-facet-grid)
+
+- [ ] [r - Separate y axis for different facets in ggplot - Stack Overflow](https://stackoverflow.com/questions/20355962/separate-y-axis-for-different-facets-in-ggplot)
+
+- [ ] [r - Setting different Y-axis ranges for plot with facets (scales = "free" seems not working) - Stack Overflow](https://stackoverflow.com/questions/49635553/setting-different-y-axis-ranges-for-plot-with-facets-scales-free-seems-not)
+
+- [ ] [r - Setting individual axis limits with facet_wrap and scales = "free" in ggplot2 - Stack Overflow](https://stackoverflow.com/questions/18046051/setting-individual-axis-limits-with-facet-wrap-and-scales-free-in-ggplot2)
+
+- [ ] [r - Side-by-side plots with ggplot2 - Stack Overflow](https://stackoverflow.com/questions/1249548/side-by-side-plots-with-ggplot2)
+
+- [ ] [r - Side-by-side plots with ggplot2 - Stack Overflow](https://stackoverflow.com/questions/1249548/side-by-side-plots-with-ggplot2/31223588#31223588)
+
+- [ ] [r - Specify widths and heights of plots with grid.arrange - Stack Overflow](https://stackoverflow.com/questions/36198451/specify-widths-and-heights-of-plots-with-grid-arrange)
+
+- [ ] [R inconsistency: why add=T sometimes works and sometimes not in the plot() function? - Stack Overflow](https://stackoverflow.com/questions/6789055/r-inconsistency-why-add-t-sometimes-works-and-sometimes-not-in-the-plot-funct)

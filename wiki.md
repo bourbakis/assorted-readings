@@ -262,3 +262,47 @@ https://en.wikipedia.org/wiki/Category:Theorems_in_Fourier_analysis
 - [ ] [JSTOR - Wikipedia](https://en.wikipedia.org/wiki/JSTOR)
 
 - [ ] [Poisson regression - Wikipedia](https://en.wikipedia.org/wiki/Poisson_regression)
+
+
+
+
+## 11/23/2019
+
+- [ ] [Bootstrapping (statistics) - Wikipedia](https://en.m.wikipedia.org/wiki/Bootstrapping_(statistics))
+
+
+
+## 11/24/2019
+
+- [ ] [Bootstrap (front-end framework) - Wikipedia](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
+
+- [ ] [Minimum wage - Wikipedia](https://en.wikipedia.org/wiki/Minimum_wage)
+
+- [ ] [Normality test - Wikipedia](https://en.wikipedia.org/wiki/Normality_test)
+
+- [ ] [Wage - Wikipedia](https://en.wikipedia.org/wiki/Wage)
+
+
+## 11/24/2019
+
+- [ ] [Ames test - Wikipedia](https://en.wikipedia.org/wiki/Ames_test)
+
+- [ ] [Clifford Hildreth - Wikipedia](https://en.wikipedia.org/wiki/Clifford_Hildreth)
+
+- [ ] [Jacob Marschak - Wikipedia](https://en.wikipedia.org/wiki/Jacob_Marschak)
+
+- [ ] [Leigh Tesfatsion - Wikipedia](https://en.wikipedia.org/wiki/Leigh_Tesfatsion)
+
+- [ ] [Leonid Hurwicz - Wikipedia](https://en.wikipedia.org/wiki/Leonid_Hurwicz)
+
+- [ ] [Logistic regression - Wikipedia](https://en.wikipedia.org/wiki/Logistic_regression)
+
+- [ ] [Mechanism design - Wikipedia](https://en.wikipedia.org/wiki/Mechanism_design)
+
+- [ ] [Myrna Wooders - Wikipedia](https://en.wikipedia.org/wiki/Myrna_Wooders)
+
+- [ ] [Richard B. McHugh - Wikipedia](https://en.wikipedia.org/wiki/Richard_B._McHugh)
+
+- [ ] [Stanley Reiter - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Reiter)
+
+- [ ] [Tjalling Koopmans - Wikipedia](https://en.wikipedia.org/wiki/Tjalling_Koopmans)

@@ -2836,3 +2836,77 @@ http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=autho
 - [ ] [Library Genesis: Walter A. Shewhart, Samuel S. Wilks(eds.) - Applied Bayesian Modeling and Causal Inference from Incomplete-Data Perspectives: An Essential Journey with Donald Rubin's Statistical Family](http://libgen.is/book/index.php?md5=6064754E49F21FD5542B0C591BDF7BB5)
 
 - [ ] [Library Genesis: Watanabe S. - Mathematical theory of Bayesian statistics](http://libgen.is/book/index.php?md5=C2219F8B1226F64AFBA5CC08B6B5568A)
+
+
+
+## 11/24/2019
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DD11931F34780671886E25A52795674C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/028D8B42FFBB6BB2EB04381C8DC1CA39)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/39AD8DD1D5ECADBA3182FEF6AEE35867)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/CC63FC6BBA6EE90339E5164A4251AE7A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/88BABFF3566A7C7B0B663E879EDB0A1D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/1644F7099C3448C8BEBFF3AA07667D41)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/39AD8DD1D5ECADBA3182FEF6AEE35867)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BF16596F119E917AD6501BF994E30C9E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5626CABC025ACA0468AE06B046A2F4A5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EC97EC50BE2AEE68AA68FF8630CFAFEC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/9F89DA3F016C710AF621F79B08242BB4)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F12D0CAE2FB2C53E2A07BBD3FFF278C0)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/70BFD983D201C379C09CD2B9DEE984B8)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FF89DA49E1912593C8C03134CE3E2964)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/8A558DE287CB2B2FA18304D5AA10FF40)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/662FECDE49C2CF385491FC25691E1D3C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EC97EC50BE2AEE68AA68FF8630CFAFEC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C56D4D941044B7FDFAF2B976CA4B58BA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6DA99F03F03F1640E75EDD827FA97CBC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/CADF4ACACAE02BA4F13801F69C323966)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/9DB80F42787CB0F4AE5FA0398C856089)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2069B80A68C3B2C11325AD6BA4FA7A71)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/292C077102370A2E31EB629E9AE89DB7)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7805626E6D655AE92F29A083DE6C6F97)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2466AF447E28D6095D3F5903E8C8148E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4E5ADBB2432FF2B6844154C83CD2FF82)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5C5E5444EB46E3B5B8D927CFB3BB2F3E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/35F807801EC67869EACCF286AF8818DA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E6461DC64778E375FA841AE8169CD5CB)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/1364A5343986C4974C070F3DE6DF1F00)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F94154D2D838FAC37F21B8BA748D014C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/109F832A91ED33D2CE12ED5BDEC3FADD)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0811AA268E26CAF10349E55FD075097E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/319F5BE0660F6E9520D939C7B390E8BB)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0811AA268E26CAF10349E55FD075097E)
