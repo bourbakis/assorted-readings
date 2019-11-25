@@ -1120,3 +1120,80 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [r - Specify widths and heights of plots with grid.arrange - Stack Overflow](https://stackoverflow.com/questions/36198451/specify-widths-and-heights-of-plots-with-grid-arrange)
 
 - [ ] [R inconsistency: why add=T sometimes works and sometimes not in the plot() function? - Stack Overflow](https://stackoverflow.com/questions/6789055/r-inconsistency-why-add-t-sometimes-works-and-sometimes-not-in-the-plot-funct)
+
+
+## 11/24/2019
+
+- [ ] [generalized linear model - Comparing groups in glm - Cross Validated](https://stats.stackexchange.com/questions/286240/comparing-groups-in-glm)
+
+- [ ] [generalized linear model - GLM with grouped/aggregated data in R - Cross Validated](https://stats.stackexchange.com/questions/200531/glm-with-grouped-aggregated-data-in-r)
+
+- [ ] [generalized linear model - Logistic regression: grouped and ungrouped variables (using R) - Cross Validated](https://stats.stackexchange.com/questions/27400/logistic-regression-grouped-and-ungrouped-variables-using-r)
+
+- [ ] [How to summarize data by group in R? - Cross Validated](https://stats.stackexchange.com/questions/8225/how-to-summarize-data-by-group-in-r)
+
+- [ ] [Logistic regression model: interpretation of average marginal effect - Cross Validated](https://stats.stackexchange.com/questions/146037/logistic-regression-model-interpretation-of-average-marginal-effect)
+
+- [ ] [r - aggregate all data by Date and ID - Cross Validated](https://stats.stackexchange.com/questions/169056/aggregate-all-data-by-date-and-id)
+
+- [ ] [r - glm loop through grouped rows and and variable list? - Cross Validated](https://stats.stackexchange.com/questions/193559/glm-loop-through-grouped-rows-and-and-variable-list)
+
+- [ ] [r - How to aggregate by minute data for a week into hourly means? - Cross Validated](https://stats.stackexchange.com/questions/7268/how-to-aggregate-by-minute-data-for-a-week-into-hourly-means)
+
+- [ ] [regression - What are average partial effects? - Cross Validated](https://stats.stackexchange.com/questions/12313/what-are-average-partial-effects)
+
+- [ ] [Regression coefficients by group in R? - Cross Validated](https://stats.stackexchange.com/questions/22925/regression-coefficients-by-group-in-r)
+
+- [ ] [stata - Average Marginal Effects interpretation - Cross Validated](https://stats.stackexchange.com/questions/252694/average-marginal-effects-interpretation)
+
+- [ ] [stata - Interpretation of average marginal effects for categorical and continuous variables - Cross Validated](https://stats.stackexchange.com/questions/398899/interpretation-of-average-marginal-effects-for-categorical-and-continuous-variab)
+
+- [ ] [stata - Interpretation of marginal effects in Logit Model with log$\times$independent variable - Cross Validated](https://stats.stackexchange.com/questions/147612/interpretation-of-marginal-effects-in-logit-model-with-log-timesindependent-va)
+
+
+
+## 11/24/2019
+
+- [ ] [dataframe - count number of rows in a data frame in R based on group - Stack Overflow](https://stackoverflow.com/questions/25293045/count-number-of-rows-in-a-data-frame-in-r-based-on-group)
+
+- [ ] [Getting a stacked area plot in R - Stack Overflow](https://stackoverflow.com/questions/5030389/getting-a-stacked-area-plot-in-r)
+
+- [ ] [Linear Regression and group by in R - Stack Overflow](https://stackoverflow.com/questions/1169539/linear-regression-and-group-by-in-r)
+
+- [ ] [list - How to count rows? - Stack Overflow](https://stackoverflow.com/questions/7340197/how-to-count-rows)
+
+- [ ] [r - 100% stacked area using ggplot - Stack Overflow](https://stackoverflow.com/questions/50428511/100-stacked-area-using-ggplot)
+
+- [ ] [r - Adding predict output to original dataframe - Stack Overflow](https://stackoverflow.com/questions/53619728/adding-predict-output-to-original-dataframe)
+
+- [ ] [r - Change reference group using glm with binomial family - Stack Overflow](https://stackoverflow.com/questions/17772775/change-reference-group-using-glm-with-binomial-family)
+
+- [ ] [r - Count number of rows matching a criteria - Stack Overflow](https://stackoverflow.com/questions/28195996/count-number-of-rows-matching-a-criteria/28196342)
+
+- [ ] [r - Create proportional geom_area plot directly in ggplot2 - Stack Overflow](https://stackoverflow.com/questions/45438665/create-proportional-geom-area-plot-directly-in-ggplot2)
+
+- [ ] [r - Fitting several regression models with dplyr - Stack Overflow](https://stackoverflow.com/questions/22713325/fitting-several-regression-models-with-dplyr)
+
+- [ ] [r - ggplot - Proportional stacked area plot - Stack Overflow](https://stackoverflow.com/questions/51104473/ggplot-proportional-stacked-area-plot)
+
+- [ ] [r - ggplot - Proportional stacked area plot - Stack Overflow](https://stackoverflow.com/questions/51104473/ggplot-proportional-stacked-area-plot)
+
+- [ ] [r - ggplot2 cumulative percent graph - Stack Overflow](https://stackoverflow.com/questions/39651496/ggplot2-cumulative-percent-graph)
+
+- [ ] [r - GLM group data by factors - Stack Overflow](https://stackoverflow.com/questions/46412489/glm-group-data-by-factors)
+
+- [ ] [r - Remove duplicated rows - Stack Overflow](https://stackoverflow.com/questions/13967063/remove-duplicated-rows)
+
+- [ ] [r - Type parameter of the predict() function - Stack Overflow](https://stackoverflow.com/questions/23085096/type-parameter-of-the-predict-function)
+
+- [ ] [r - What is the difference between type="response" , "terms" and "link" in predict function? - Stack Overflow](https://stackoverflow.com/questions/47486589/what-is-the-difference-between-type-response-terms-and-link-in-predict-f)
+
+- [ ] [R: how to remove duplicate rows by column - Stack Overflow](https://stackoverflow.com/questions/46656833/r-how-to-remove-duplicate-rows-by-column)
+
+- [ ] [R: Remove duplicates from a dataframe based on categories in a column - Stack Overflow](https://stackoverflow.com/questions/47539860/r-remove-duplicates-from-a-dataframe-based-on-categories-in-a-column)
+
+- [ ] [regression - In R, how to add the fitted value column to the original dataframe? - Stack Overflow](https://stackoverflow.com/questions/19065279/in-r-how-to-add-the-fitted-value-column-to-the-original-dataframe)
+
+- [ ] [removing duplicates in R with specifics - Stack Overflow](https://stackoverflow.com/questions/49869507/removing-duplicates-in-r-with-specifics)
+
+- [ ] [Use GLM in R to see if sex ratio varies by group - Stack Overflow](https://stackoverflow.com/questions/43531895/use-glm-in-r-to-see-if-sex-ratio-varies-by-group)

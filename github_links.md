@@ -1189,3 +1189,118 @@ https://drive.google.com/drive/u/0/my-drive
 - [ ] [Styling code not executed · Issue #19358 · pandas-dev/pandas](https://github.com/pandas-dev/pandas/issues/19358)
 
 - [ ] [Tufte-LaTeX/tufte-latex: A Tufte-inspired LaTeX class for producing handouts, papers, and books](https://github.com/Tufte-LaTeX/tufte-latex)
+
+
+
+
+# Machine Learning
+
+## 11/25/2019
+
+- [ ] [ablack3/shinyPivot: A pivot table module for Shiny built on dplyr](https://github.com/ablack3/shinyPivot)
+
+- [ ] [ariseff (Ari Seff) / Starred](https://github.com/ariseff?tab=stars)
+
+- [ ] [ariseff/mapnet: Estimate road layout attributes given street view imagery](https://github.com/ariseff/mapnet)
+
+- [ ] [aymericdamien/TensorFlow-Examples: TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)](https://github.com/aymericdamien/TensorFlow-Examples/)
+
+- [ ] [baptiste (baptiste)](https://github.com/baptiste)
+
+- [ ] [bbdaniels/tests](https://github.com/bbdaniels/tests)
+
+- [ ] [burke-lab/NCC2018: Replication materials for Burke et al 2018 `Higher temperatures increase suicide rates in the United States and Mexico'](https://github.com/burke-lab/NCC2018)
+
+- [ ] [dicai (Diana Cai) / Following](https://github.com/dicai?tab=following)
+
+- [ ] [dragen1860/Deep-Learning-with-TensorFlow-book: 深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
+
+- [ ] [duvenaud (David Duvenaud)](https://github.com/duvenaud)
+
+- [ ] [duvenaud/deep-limits: Repo for a paper about constructing priors on very deep models.](https://github.com/duvenaud/deep-limits)
+
+- [ ] [duvenaud/phd-thesis: I am in [research] stepped in so far that, should I wade no more, Returning were as tedious as go o'er. -MacBeth](https://github.com/duvenaud/phd-thesis)
+
+- [ ] [econ-program-usage-data/articles_programs_used.csv at master · pbaylis/econ-program-usage-data](https://github.com/pbaylis/econ-program-usage-data/blob/master/articles_programs_used.csv)
+
+- [ ] [elaine84/fetching: Fetching is an implementation of parallel predictive prefetching for Metropolis-Hastings. Prefetching algorithms use speculative execution to parallelize MCMC.](https://github.com/elaine84/fetching)
+
+- [ ] [elaine84/fetching: Fetching is an implementation of parallel predictive prefetching for Metropolis-Hastings. Prefetching algorithms use speculative execution to parallelize MCMC.](https://github.com/elaine84/fetching)
+
+- [ ] [elaine84/thesis: Accelerating Markov chain Monte Carlo via parallel predictive prefetching. Dissertation advisors: Margo Seltzer and Ryan P. Adams.](https://github.com/elaine84/thesis)
+
+- [ ] [facet_grid() with scales="free" option won't free y-axis actually · Issue #1344 · tidyverse/ggplot2](https://github.com/tidyverse/ggplot2/issues/1344)
+
+- [ ] [FixedEffects/FixedEffectModels.jl: Fast Estimation of Linear Models with IV and High Dimensional Categorical Variables](https://github.com/FixedEffects/FixedEffectModels.jl)
+
+- [ ] [geoffroeder (Geoffrey Roeder)](https://github.com/geoffroeder)
+
+- [ ] [group_by() filter() not working · Issue #4002 · tidyverse/dplyr](https://github.com/tidyverse/dplyr/issues/4002)
+
+- [ ] [haozhu233/kableExtra: Construct Complex Table with knitr::kable() + pipe.](https://github.com/haozhu233/kableExtra)
+
+- [ ] [HIPS/autograd: Efficiently computes derivatives of numpy code.](https://github.com/HIPS/autograd)
+
+- [ ] [HIPS/Spearmint: Spearmint Bayesian optimization codebase](https://github.com/HIPS/spearmint)
+
+- [ ] [jennybc/row-oriented-workflows: Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows)
+
+- [ ] [mgelbart (Michael (Mike) Gelbart)](https://github.com/mgelbart)
+
+- [ ] [mgelbart/rhomboid: Rhomboid, a set of tools for delivering a course on GitHub](https://github.com/mgelbart/rhomboid)
+
+- [ ] [Need position_stack_line() · Issue #2883 · tidyverse/ggplot2](https://github.com/tidyverse/ggplot2/issues/2883)
+
+- [ ] [nlarusstone/corels: Learning Certifiably Optimal Rule Lists](https://github.com/nlarusstone/corels)
+
+- [ ] [nndl/nndl.github.io: 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io)
+
+- [ ] [pbaylis (Patrick Baylis) / Repositories](https://github.com/pbaylis?tab=repositories)
+
+- [ ] [pbaylis (Patrick Baylis) / Starred](https://github.com/pbaylis?tab=stars)
+
+- [ ] [pbaylis/econ-program-usage-data: Data repository for AER program usage data](https://github.com/pbaylis/econ-program-usage-data)
+
+- [ ] [philipphennig/probabilistic-numerics.org: This repository houses the code for the community website http://www.probabilistic-numerics.org](https://github.com/philipphennig/probabilistic-numerics.org)
+
+- [ ] [PrincetonLIPS/randomized_telescopes: Code for "Efficient optimization of loops and limits with randomized telescoping sums"](https://github.com/PrincetonLIPS/randomized_telescopes)
+
+- [ ] [PrincetonLIPS/reversible-inductive-construction: Discrete Object Generation with Reversible Inductive Construction (NeurIPS 2019)](https://github.com/PrincetonLIPS/reversible-inductive-construction)
+
+- [ ] [PrincetonLIPS/reversible-inductive-construction: Discrete Object Generation with Reversible Inductive Construction (NeurIPS 2019)](https://github.com/PrincetonLIPS/reversible-inductive-construction)
+
+- [ ] [rmgarnett/cse515t: Materials for Bayesian Methods in Machine Learning Course](https://github.com/rmgarnett/cse515t)
+
+- [ ] [rstudio/webinars: Code and slides for RStudio webinars](https://github.com/rstudio/webinars/)
+
+- [ ] [TensorFlow-Examples/tensorflow_v2 at master · aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
+
+- [ ] [tfjs-models/body-pix at master · tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
+
+- [ ] [Thinking about bootstrap grouping · Issue #269 · tidyverse/dplyr](https://github.com/tidyverse/dplyr/issues/269)
+
+- [ ] [UBC-MDS/DSCI_511_prog-dsci: DSCI 511: Programming for Data Science](https://github.com/UBC-MDS/DSCI_511_prog-dsci)
+
+- [ ] [UBC-MDS/DSCI_511_prog-dsci: DSCI 511: Programming for Data Science](https://github.com/UBC-MDS/DSCI_511_prog-dsci)
+
+- [ ] [UBC-MDS/DSCI_512_alg-data-struct](https://github.com/UBC-MDS/DSCI_512_alg-data-struct)
+
+- [ ] [UBC-MDS/DSCI_521_platforms-dsci](https://github.com/UBC-MDS/DSCI_521_platforms-dsci)
+
+- [ ] [UBC-MDS/DSCI_521_platforms-dsci](https://github.com/UBC-MDS/DSCI_521_platforms-dsci)
+
+- [ ] [UBC-MDS/DSCI_551_stat-prob-dsci](https://github.com/UBC-MDS/DSCI_551_stat-prob-dsci)
+
+- [ ] [UBC-MDS/DSCI_563_unsup-learn](https://github.com/UBC-MDS/DSCI_563_unsup-learn)
+
+- [ ] [UBC-MDS/DSCI_571_sup-learn-1](https://github.com/UBC-MDS/DSCI_571_sup-learn-1)
+
+- [ ] [UBC-MDS/DSCI_572_sup-learn-2: DSCI 572: Supervised Learning II](https://github.com/UBC-MDS/DSCI_572_sup-learn-2)
+
+- [ ] [uo-ec607/lectures: Lecture notes for EC 607](https://github.com/uo-ec607/lectures)
+
+- [ ] [wilkelab/cowplot: cowplot: Streamlined Plot Theme and Plot Annotations for 'ggplot2'](https://github.com/wilkelab/cowplot)
+
+- [ ] [Write vignette about grid · Issue #1239 · tidyverse/ggplot2](https://github.com/tidyverse/ggplot2/issues/1239)
+
+- [ ] [yamins81/tabular: Python tabular data package.](https://github.com/yamins81/tabular)

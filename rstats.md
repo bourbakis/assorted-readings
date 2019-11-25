@@ -569,3 +569,32 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwjZ0Z
 - [ ] [r - Specify widths and heights of plots with grid.arrange - Stack Overflow](https://stackoverflow.com/questions/36198451/specify-widths-and-heights-of-plots-with-grid-arrange)
 
 - [ ] [R inconsistency: why add=T sometimes works and sometimes not in the plot() function? - Stack Overflow](https://stackoverflow.com/questions/6789055/r-inconsistency-why-add-t-sometimes-works-and-sometimes-not-in-the-plot-funct)
+
+
+## 11/24/2019
+
+- [ ] [generalized linear model - Comparing groups in glm - Cross Validated](https://stats.stackexchange.com/questions/286240/comparing-groups-in-glm)
+
+- [ ] [generalized linear model - GLM with grouped/aggregated data in R - Cross Validated](https://stats.stackexchange.com/questions/200531/glm-with-grouped-aggregated-data-in-r)
+
+- [ ] [generalized linear model - Logistic regression: grouped and ungrouped variables (using R) - Cross Validated](https://stats.stackexchange.com/questions/27400/logistic-regression-grouped-and-ungrouped-variables-using-r)
+
+- [ ] [How to summarize data by group in R? - Cross Validated](https://stats.stackexchange.com/questions/8225/how-to-summarize-data-by-group-in-r)
+
+- [ ] [Logistic regression model: interpretation of average marginal effect - Cross Validated](https://stats.stackexchange.com/questions/146037/logistic-regression-model-interpretation-of-average-marginal-effect)
+
+- [ ] [r - aggregate all data by Date and ID - Cross Validated](https://stats.stackexchange.com/questions/169056/aggregate-all-data-by-date-and-id)
+
+- [ ] [r - glm loop through grouped rows and and variable list? - Cross Validated](https://stats.stackexchange.com/questions/193559/glm-loop-through-grouped-rows-and-and-variable-list)
+
+- [ ] [r - How to aggregate by minute data for a week into hourly means? - Cross Validated](https://stats.stackexchange.com/questions/7268/how-to-aggregate-by-minute-data-for-a-week-into-hourly-means)
+
+- [ ] [regression - What are average partial effects? - Cross Validated](https://stats.stackexchange.com/questions/12313/what-are-average-partial-effects)
+
+- [ ] [Regression coefficients by group in R? - Cross Validated](https://stats.stackexchange.com/questions/22925/regression-coefficients-by-group-in-r)
+
+- [ ] [stata - Average Marginal Effects interpretation - Cross Validated](https://stats.stackexchange.com/questions/252694/average-marginal-effects-interpretation)
+
+- [ ] [stata - Interpretation of average marginal effects for categorical and continuous variables - Cross Validated](https://stats.stackexchange.com/questions/398899/interpretation-of-average-marginal-effects-for-categorical-and-continuous-variab)
+
+- [ ] [stata - Interpretation of marginal effects in Logit Model with log$\times$independent variable - Cross Validated](https://stats.stackexchange.com/questions/147612/interpretation-of-marginal-effects-in-logit-model-with-log-timesindependent-va)
