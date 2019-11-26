@@ -236,3 +236,136 @@
 - [ ] [500 Internal Privoxy Error](http://cstein.kings.cam.ac.uk/~chris/)
 
 - [ ] [403 Forbidden](http://www.gatsby.ucl.ac.uk/~zoubin/ICML04-tutorial.html)
+
+
+--- 
+
+
+## 11/25/2019
+
+- [ ] [Zoubin Ghahramani Software](http://mlg.eng.cam.ac.uk/zoubin/software.html)
+
+- [ ] [3F3: Signal and Pattern Processing](http://mlg.eng.cam.ac.uk/teaching/3f3/1011/)
+
+- [ ] [Bayesian Machine Learning](http://mlg.eng.cam.ac.uk/zoubin/bayesian.html)
+
+- [ ] [Cambridge Machine Learning Group : People : Hong Ge](http://mlg.eng.cam.ac.uk/hong/)
+
+- [ ] [Cambridge Machine Learning Group | Alexander G. de G. Matthews](http://mlg.eng.cam.ac.uk/?portfolio=alex-matthews)
+
+- [ ] [Cambridge Machine Learning Group | David Janz](http://mlg.eng.cam.ac.uk/?portfolio=david-janz)
+
+- [ ] [Cambridge Machine Learning Group | Gintare Karolina Dziugaite](http://mlg.eng.cam.ac.uk/?portfolio=gintare-karolina-dziugaite)
+
+- [ ] [Cambridge Machine Learning Group | Homepage](http://mlg.eng.cam.ac.uk/)
+
+- [ ] [Cambridge Machine Learning Group | Homepage](http://mlg.eng.cam.ac.uk/)
+
+- [ ] [Cambridge Machine Learning Group | John Bradshaw](http://mlg.eng.cam.ac.uk/?portfolio=john-bradshaw)
+
+- [ ] [Cambridge Machine Learning Group Publications](http://mlg.eng.cam.ac.uk/pub/)
+
+- [ ] [Carl Edward Rasmussen](http://mlg.eng.cam.ac.uk/carl/)
+
+- [ ] [Image Searching and Modelling, Part IB Paper 8, Information Engineering Elective, 2007](http://mlg.eng.cam.ac.uk/zoubin/p8-07/index.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/approx.html](http://mlg.eng.cam.ac.uk/zoubin/approx.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/bioinf.html](http://mlg.eng.cam.ac.uk/zoubin/bioinf.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/clustering.html](http://mlg.eng.cam.ac.uk/zoubin/clustering.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/gm.html](http://mlg.eng.cam.ac.uk/zoubin/gm.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/gp.html](http://mlg.eng.cam.ac.uk/zoubin/gp.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/ir.html](http://mlg.eng.cam.ac.uk/zoubin/ir.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/mcmc.html](http://mlg.eng.cam.ac.uk/zoubin/mcmc.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/motor.html](http://mlg.eng.cam.ac.uk/zoubin/motor.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/nonparam.html](http://mlg.eng.cam.ac.uk/zoubin/nonparam.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/reviews.html](http://mlg.eng.cam.ac.uk/zoubin/reviews.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/ssl.html](http://mlg.eng.cam.ac.uk/zoubin/ssl.html)
+
+- [ ] [mlg.eng.cam.ac.uk/zoubin/timeseries.html](http://mlg.eng.cam.ac.uk/zoubin/timeseries.html)
+
+- [ ] [NIPS Tutorial 1999](http://mlg.eng.cam.ac.uk/zoubin/NIPStutorial.html)
+
+- [ ] [Unsupervised Learning Course Web Page](http://mlg.eng.cam.ac.uk/zoubin/course04/index.html)
+
+- [ ] [Probabilistic Machine Learning 4f13 Michaelmas 2019](http://mlg.eng.cam.ac.uk/teaching/4f13/1920/)
+
+- [ ] [Statistical Approaches to Learning and Discovery Course Web Page](http://mlg.eng.cam.ac.uk/zoubin/SALD/)
+
+- [ ] [Unsupervised Learning Course Web Page](http://mlg.eng.cam.ac.uk/zoubin/course05/index.html)
+
+- [ ] [Zoubin Ghahramani Other Info](http://mlg.eng.cam.ac.uk/zoubin/other.html)
+
+
+## 11/26/2019
+
+- [ ] [404 Not Found](http://www.inference.org.uk/wiki/)
+
+- [ ] [404 Not Found](http://www.inference.org.uk/cgi-bin/wiki/wiki.pl/DasherProject)
+
+- [ ] [A Short Course in Information Theory](http://www.inference.org.uk/mackay/info-theory/course.html)
+
+- [ ] [Choice of languages for teaching programming](http://www.inference.org.uk/teaching/comput/Languages.html)
+
+- [ ] [Computer Algebra](http://www.inference.org.uk/teaching/comput/ls.html)
+
+- [ ] [David MacKay: Back-of-Envelope Physics: 1](http://www.inference.org.uk/sustainable/course05/)
+
+- [ ] [David MacKay: Dynamics: Lecture notes](http://www.inference.org.uk/teaching/dynamics/notes.html)
+
+- [ ] [David MacKay: Information Theory, Inference, and Learning Algorithms:](http://www.inference.org.uk/mackay/itila/p0.html)
+
+- [ ] [David MacKay: Information Theory, Inference, and Learning Algorithms: Figures](http://www.inference.org.uk/mackay/itila/Figures.html)
+
+- [ ] [David MacKay: Information Theory, Inference, and Learning Algorithms: Home](http://www.inference.org.uk/mackay/itila/)
+
+- [ ] [David MacKay: Information Theory, Inference, and Learning Algorithms: Humour](http://www.inference.org.uk/mackay/itila/Potter.html)
+
+- [ ] [David MacKay: Information Theory, Inference, and Learning Algorithms: The Book](http://www.inference.org.uk/mackay/itila/book.html)
+
+- [ ] [David MacKay: Information Theory, Pattern Recognition and Neural Networks: 1](http://www.inference.org.uk/mackay/itprnn/)
+
+- [ ] [David MacKay: Information Theory, Pattern Recognition and Neural Networks: Slides 2012](http://www.inference.org.uk/mackay/itprnn/Slides.shtml)
+
+- [ ] [DimPy - Units for Sage — DimPy - Physics Dimensions v0.2.3 documentation](http://www.inference.org.uk/dimpy/)
+
+- [ ] [Dynamics](http://www.inference.org.uk/teaching/statphys/)
+
+- [ ] [Inference Group: Dasher Project: Home](http://www.inference.org.uk/dasher/)
+
+- [ ] [Inference Group: David MacKay: Homepage](http://www.inference.org.uk/mackay/)
+
+- [ ] [Inference Group: David MacKay: Homepage](http://www.inference.org.uk/mackay/)
+
+- [ ] [Inference Group: Music Access for the Disabled: Introduction](http://www.inference.org.uk/jonhall/)
+
+- [ ] [Information Theory, Pattern Recognition, and Neural Networks](http://www.inference.org.uk/itprnn_lectures/)
+
+- [ ] [Introduction to Computing](http://www.inference.org.uk/teaching/comput/C++/)
+
+- [ ] [Part 1B Paper 7, Probability and Statistics](http://www.inference.org.uk/teaching/1BP7/1516/)
+
+- [ ] [Physics Teaching Survey, March 2000](http://www.inference.org.uk/teaching/survey/)
+
+- [ ] [State-space diagram of vertically-bouncing particles](http://www.inference.org.uk/teaching/statphys/gnu/P.html)
+
+- [ ] [Teaching of Computational Physics](http://www.inference.org.uk/teaching/comput/Vision.html)
+
+- [ ] [Teaching of Computational Physics](http://www.inference.org.uk/teaching/comput/Vision.html)
+
+- [ ] [www.inference.org.uk/aimslesotho/2005/teaching.tex](http://www.inference.org.uk/aimslesotho/2005/teaching.tex)
+
+- [ ] [www.inference.org.uk/mackay/book.djvu](http://www.inference.org.uk/mackay/book.djvu)
+
+- [ ] [www.inference.org.uk/teaching/projects/l.html](http://www.inference.org.uk/teaching/projects/l.html)
+
+- [ ] [www.inference.org.uk/teaching/statphys/vfe/](http://www.inference.org.uk/teaching/statphys/vfe/)

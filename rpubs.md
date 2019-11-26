@@ -524,3 +524,15 @@ https://rpubs.com/shawnspei/final_v2
 - [ ] [RPubs - Stepwise Regression: Predicting Systolic](https://rpubs.com/GMortensen/stepwiselinear)
 
 - [ ] [RPubs - Stepwise Regression: Predicting Systolic](https://rpubs.com/GMortensen/stepwiselinear)
+
+
+
+## 11/25/2019
+
+- [ ] [RPubs - Applying a function over rows of a data frame](https://rpubs.com/wch/200398)
+
+- [ ] [RPubs - DATA 607 Final](https://rpubs.com/AlejandroO/391903)
+
+- [ ] [RPubs - DATA 607 Final](https://rpubs.com/AlejandroO/391903)
+
+- [ ] [RPubs - NaiveBayes](https://rpubs.com/Prathima/540106)

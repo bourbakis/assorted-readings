@@ -1004,3 +1004,77 @@ Administrator@WIN10-901122121 ~/assorted-readin
 - [ ] [David EvansさんはTwitterを使っています: 「ECONOMICAL READING To help you prepare for your holiday shopping, here are 10 books by economists, written for broad audiences, that came out in 2019. Let me know which ones I missed! Below is a thread with links to each book. https://t.co/L4UPQ3q6tB」 / Twitter](https://twitter.com/DaveEvansPhD/status/1197964842621177856)
 
 - [ ] [Sasha Rush（@srush_nlp）さん / Twitter](https://twitter.com/srush_nlp)
+
+
+
+## 11/25/2019
+
+- [ ] [(1) Andy Miller (@_amiller_) / Twitter](https://twitter.com/_amiller_)
+
+- [ ] [(1) Ari Seff (@ari_seff) / Twitter](https://twitter.com/ari_seff)
+
+- [ ] [(1) Ari Seff (@ari_seff) / Twitter](https://twitter.com/ari_seff)
+
+- [ ] [(1) Blei Lab (@blei_lab) / Twitter](https://twitter.com/blei_lab)
+
+- [ ] [(1) Diana Cai (@dianarycai) / Twitter](https://twitter.com/dianarycai)
+
+- [ ] [(1) Explore / Twitter](https://twitter.com/explore)
+
+- [ ] [(1) Graham Neubig (@gneubig) / Twitter](https://twitter.com/gneubig)
+
+- [ ] [(1) Randall Parker on Twitter: "1/ Have you noticed that Elon Musk is driving development of at least 4 technologies needed for easier living in a failed state? News about power outages in California brought this home. Obviously he's doing it with the PowerWalls and solar roofs. But not just those." / Twitter](https://twitter.com/futurepundit/status/1192637797212930049)
+
+- [ ] [(1) RunwayML (@runwayml) / Twitter](https://twitter.com/runwayml)
+
+- [ ] [(1) Samantha Cole (@samleecole) / Twitter](https://twitter.com/samleecole)
+
+- [ ] [(2) Nicky Case（@ncasenmare）さん / Twitter](https://twitter.com/ncasenmare)
+
+- [ ] [(2) Nicky Case（@ncasenmare）さん / Twitter](https://twitter.com/ncasenmare)
+
+- [ ] [(3) David Duvenaud（@DavidDuvenaud）さん / Twitter](https://twitter.com/davidduvenaud)
+
+- [ ] [(3) David Duvenaud（@DavidDuvenaud）さん / Twitter](https://twitter.com/DavidDuvenaud)
+
+- [ ] [(3) Hal Daumé III（@haldaume3）さん / Twitter](https://twitter.com/haldaume3)
+
+- [ ] [(3) Marc Deisenroth 🏳️‍🌈（@mpd37）さん / Twitter](https://twitter.com/mpd37)
+
+- [ ] [(3) Nando de Freitas（@NandoDF）さん / Twitter](https://twitter.com/NandoDF)
+
+- [ ] [(3) Philip 💥 Cohen（@familyunequal）さん / Twitter](https://twitter.com/familyunequal?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E993288807373049856&ref_url=https%3A%2F%2Fmikebader.net%2Fblog%2Fentries%2F2018%2F05%2F07%2Foverlapping-distribution-plots%2F)
+
+- [ ] [(3) Philip 💥 CohenさんはTwitterを使っています: 「Hey, here's a question. Does this work for showing the inequality between two distributions? Also, the data, if you have a better idea: https://t.co/ViXuMfw1Qt」 / Twitter](https://twitter.com/familyunequal/status/993288807373049856?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E993288807373049856&ref_url=https%3A%2F%2Fmikebader.net%2Fblog%2Fentries%2F2018%2F05%2F07%2Foverlapping-distribution-plots%2F)
+
+- [ ] [(3) Philip 💥 CohenさんはTwitterを使っています: 「Hey, here's a question. Does this work for showing the inequality between two distributions? Also, the data, if you have a better idea: https://t.co/ViXuMfw1Qt」 / Twitter](https://twitter.com/familyunequal/status/993288807373049856?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E993288807373049856&ref_url=https%3A%2F%2Fmikebader.net%2Fblog%2Fentries%2F2018%2F05%2F07%2Foverlapping-distribution-plots%2F)
+
+- [ ] [(3) Scott Reed（@scott_e_reed）さん / Twitter](https://twitter.com/scott_e_reed)
+
+- [ ] [David Duvenaud（@DavidDuvenaud）さん / Twitter](https://twitter.com/DavidDuvenaud)
+
+- [ ] [Geoffrey Roeder (@geoffroeder) / Twitter](https://twitter.com/geoffroeder)
+
+- [ ] [Hal Daumé III（@haldaume3）さん / Twitter](https://twitter.com/haldaume3)
+
+- [ ] [MathFeed（@MathFeed）さん / Twitter](https://twitter.com/MathFeed)
+
+- [ ] [Michael A Osborne (@maosbot) / Twitter](https://twitter.com/maosbot)
+
+- [ ] [Philip 💥 Cohen（@familyunequal）さん / Twitter](https://twitter.com/familyunequal?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E993288807373049856&ref_url=https%3A%2F%2Fmikebader.net%2Fblog%2Fentries%2F2018%2F05%2F07%2Foverlapping-distribution-plots%2F)
+
+- [ ] [Philip 💥 CohenさんはTwitterを使っています: 「Hey, here's a question. Does this work for showing the inequality between two distributions? Also, the data, if you have a better idea: https://t.co/ViXuMfw1Qt」 / Twitter](https://twitter.com/familyunequal/status/993288807373049856?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E993288807373049856&ref_url=https%3A%2F%2Fmikebader.net%2Fblog%2Fentries%2F2018%2F05%2F07%2Foverlapping-distribution-plots%2F)
+
+- [ ] [Philip 💥 CohenさんはTwitterを使っています: 「Hey, here's a question. Does this work for showing the inequality between two distributions? Also, the data, if you have a better idea: https://t.co/ViXuMfw1Qt」 / Twitter](https://twitter.com/familyunequal/status/993288807373049856?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E993288807373049856&ref_url=https%3A%2F%2Fmikebader.net%2Fblog%2Fentries%2F2018%2F05%2F07%2Foverlapping-distribution-plots%2F)
+
+- [ ] [Ryan Adams (@ryan_p_adams) / Twitter](https://twitter.com/ryan_p_adams)
+
+- [ ] [Samir Varma (@samirvarma) / Twitter](https://twitter.com/samirvarma)
+
+- [ ] [Statebox | ステートボックス（@statebox）さん / Twitter](https://twitter.com/statebox)
+
+- [ ] [Tejas Kulkarni（@tejasdkulkarni）さん / Twitter](https://twitter.com/tejasdkulkarni)
+
+- [ ] [Uber loses licence to operate in London / Twitter](https://twitter.com/i/events/1198905294731874304)
+
+- [ ] [Yee Whye Teh（@yeewhye）さん / Twitter](https://twitter.com/yeewhye)

@@ -444,3 +444,16 @@
 - [ ] [Ilya Zaliapin: MATH/STAT 755 (Multivariate Data Analysis)](https://wolfweb.unr.edu/~zal/STAT755_S18.html)
 
 - [ ] [Index of /~zal/STAT653_Fall15](https://wolfweb.unr.edu/~zal/STAT653_Fall15/)
+
+
+## 11/25/2019
+
+- [ ] [Course on Information Theory, Pattern Recognition, and Neural Networks - VideoLectures - VideoLectures.NET](http://videolectures.net/course_information_theory_pattern_recognition/)
+
+- [ ] [Course on Information Theory, Pattern Recognition, and Neural Networks - VideoLectures - VideoLectures.NET](http://videolectures.net/course_information_theory_pattern_recognition/)
+
+- [ ] [Gaussian Processes - VideoLectures.NET](http://videolectures.net/mlss09uk_rasmussen_gp/)
+
+- [ ] [Machine Learning Summer School (MLSS), Cambridge 2009 - VideoLectures - VideoLectures.NET](http://videolectures.net/mlss09uk_cambridge/)
+
+- [ ] [Zoubin Ghahramani - Department of Engineering, University of Cambridge - VideoLectures.NET](http://videolectures.net/zoubin_ghahramani/)

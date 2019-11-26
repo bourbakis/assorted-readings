@@ -4148,3 +4148,83 @@ https://www.zhihu.com/question/341466774
 - [ ] [facet_grid() with scales="free" option won't free y-axis actually · Issue #1344 · tidyverse/ggplot2](https://github.com/tidyverse/ggplot2/issues/1344)
 
 - [ ] [Stacked area graph in ggplot2 is empty - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/299402/stacked-area-graph-in-ggplot2-is-empty)
+
+
+
+
+
+
+
+
+## 11/26/2019
+
+- [ ] [Ch I Page 328: Sustainable Energy - without the hot air | David MacKay](http://www.withouthotair.com/cI/page_328.shtml)
+
+- [ ] [Ch J Page 338: Sustainable Energy - without the hot air | David MacKay](http://www.withouthotair.com/cJ/page_338.shtml)
+
+- [ ] [Ch K Page 342: Sustainable Energy - without the hot air | David MacKay](http://www.withouthotair.com/cK/page_342.shtml)
+
+- [ ] [Ch L Page 370: Sustainable Energy - without the hot air | David MacKay](http://www.withouthotair.com/cL/page_370.shtml)
+
+- [ ] [David MacKay FRS: : Buy](http://www.withouthotair.com/order.html)
+
+- [ ] [David MacKay FRS: : Contents](http://www.withouthotair.com/Contents.html#TABLE)
+
+- [ ] [David MacKay FRS: : Download](http://www.withouthotair.com/download.html)
+
+- [ ] [David MacKay FRS: : Talks](http://www.withouthotair.com/talks.html)
+
+- [ ] [David MacKay FRS: : Videos](http://www.withouthotair.com/Videos.html)
+
+
+
+
+
+
+
+
+
+
+
+
+## 11/26/2019
+
+- [ ] ['They Can't Stop Us:' People Are Having Sex With 3D Avatars of Their Exes and Celebrities - VICE](https://www.vice.com/en_us/article/j5yzpk/they-cant-stop-us-people-are-having-sex-with-3d-avatars-of-their-exes-and-celebrities)
+
+- [ ] [AI Can Manipulate Video to Make Everybody Dance Now - VICE](https://www.vice.com/en_us/article/43pebw/ai-can-manipulate-video-to-make-anybody-dance)
+
+- [ ] [Deepfake of Boris Johnson Wants to Warn You About Deepfakes - VICE](https://www.vice.com/en_us/article/8xwjkp/deepfake-of-boris-johnson-wants-to-warn-you-about-deepfakes)
+
+- [ ] [Deepfakes Were Created As a Way to Own Women's Bodies—We Can't Forget That - VICE](https://www.vice.com/en_us/article/nekqmd/deepfake-porn-origins-sexism-reddit-v25n2)
+
+- [ ] [Deepfakes Were Created As a Way to Own Women's Bodies—We Can't Forget That - VICE](https://www.vice.com/en_us/article/nekqmd/deepfake-porn-origins-sexism-reddit-v25n2)
+
+- [ ] [Discord Just Banned a Server Selling DeepNude, an App That Undresses Photos of Women - VICE](https://www.vice.com/en_us/article/d3n9xa/discord-banned-a-server-selling-deepnude-an-app-that-undresses-photos-of-women)
+
+- [ ] [Elon Musk Is Going Offline - VICE](https://www.vice.com/en_us/article/gyzna9/elon-musk-is-going-offline)
+
+- [ ] [Emanuel Maiberg - VICE](https://www.vice.com/en_us/contributor/emanuel-maiberg)
+
+- [ ] [Facebook Just Announced $10 Million ‘Deepfakes Detection Challenge’ - VICE](https://www.vice.com/en_us/article/8xwqp3/facebook-deepfake-detection-challenge-dataset)
+
+- [ ] [Girls Do Porn Producer Allegedly Made Fake Porn of Lawyers Suing Him - VICE](https://www.vice.com/en_us/article/gyz9gy/girls-do-porn-producer-allegedly-made-fake-porn-of-lawyers-suing-him)
+
+- [ ] [PayPal Pulls Out of Pornhub, Hurting 'Hundreds of Thousands' of Performers - VICE](https://www.vice.com/en_us/article/d3abgv/paypal-pulls-out-of-pornhub-payments)
+
+- [ ] [Researchers Tricked AI Into Doing Free Computations It Wasn't Trained to Do - VICE](https://www.vice.com/en_us/article/bjbxbz/researchers-tricked-ai-into-doing-free-computations-it-wasnt-trained-to-do)
+
+- [ ] [Samantha Cole - VICE](https://www.vice.com/en_us/contributor/samantha-cole)
+
+- [ ] [This Amazing Image Made of Code Looks Different Based on Your Browser - VICE](https://www.vice.com/en_us/article/a359vz/purecss-amazing-image-made-of-code-looks-different-based-on-your-browser)
+
+- [ ] [This Company Thinks It Can Solve Diversity With 100,000 Fake AI Faces - VICE](https://www.vice.com/en_us/article/mbm3kb/generated-photos-thinks-it-can-solve-diversity-with-100000-fake-ai-faces)
+
+- [ ] [This Horrifying App Undresses a Photo of Any Woman With a Single Click - VICE](https://www.vice.com/en_us/article/kzm59x/deepnude-app-creates-fake-nudes-of-any-woman)
+
+- [ ] [This Software Will Give You a Fake Face to Protect Your Privacy - VICE](https://www.vice.com/en_us/article/ne87pg/deepprivacy-fake-face-anonymized-algorithm)
+
+- [ ] [This Software Will Give You a Fake Face to Protect Your Privacy - VICE](https://www.vice.com/en_us/article/ne87pg/deepprivacy-fake-face-anonymized-algorithm)
+
+- [ ] [This Startup Wants the Rights to Your Face in Perpetuity for $127,000 - VICE](https://www.vice.com/en_us/article/mbmxmn/this-robot-startup-wants-the-rights-to-your-face)
+
+- [ ] [Who Farted? An Investigation - VICE](https://www.vice.com/en_us/article/mbmy8q/chris-matthew-hardball-eric-swalwell-fart)

@@ -2910,3 +2910,289 @@ http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=autho
 - [ ] [Library Genesis](http://93.174.95.29/_ads/319F5BE0660F6E9520D939C7B390E8BB)
 
 - [ ] [Library Genesis](http://93.174.95.29/_ads/0811AA268E26CAF10349E55FD075097E)
+
+
+
+
+
+## 11/25/2019
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/1644F7099C3448C8BEBFF3AA07667D41)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/0811AA268E26CAF10349E55FD075097E)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/78FF1B32CAEA72FC11F4410E46DBE675)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/6B9E83CF7A813D82FC91B8784EDD81F9)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/main/1285000/85a482d1db246732cc3a24b757e71b76/D.R.%20Cox%20-%20Renewal%20Theory-Methuen%20%26%20Co.%20%281970%29.pdf)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/57F6C3C51C32840913CDF9AD4F846A72)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/C8A595DE924E42C4CD8E8561BE5A1001)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/4A31E1F8C63903E54A6850273D63744E)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/33A0BA6FF3A323C9CE27280A88E649D3)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/96B47609832A0B0EC0C635CB600C8477)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/main/1129000/d66087be8b56453f05f66467cd411490/%28Monographs%20on%20Statistics%20and%20Applied%20Probability%29%20Neil%20Shephard%20%28auth.%29%2C%20D.%20R.%20Cox%2C%20D.%20V.%20Hinkley%2C%20O.%20E.%20Barndorff-Nielsen%20%28eds.%29%20-%20Time%20Series%20Models_%20In%20econometrics%2C%20finance%20and%20other%20fields-Sprin.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/main/1129000/d66087be8b56453f05f66467cd411490/%28Monographs%20on%20Statistics%20and%20Applied%20Probability%29%20Neil%20Shephard%20%28auth.%29%2C%20D.%20R.%20Cox%2C%20D.%20V.%20Hinkley%2C%20O.%20E.%20Barndorff-Nielsen%20%28eds.%29%20-%20Time%20Series%20Models_%20In%20econometrics%2C%20finance%20and%20other%20fields-Sprin.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/25087F6F15DBFF6CA7BDEEC2C4FC143A)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/319F5BE0660F6E9520D939C7B390E8BB)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/80A0B0CD0F2696DDC0569C070DD8662F)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/main/1108000/0811aa268e26caf10349e55fd075097e/Thomas%20G.%20Cowing%2C%20Daniel%20L.%20McFadden%20and%20Karl%20Shell%20%28Auth.%29%20-%20Microeconomic%20Modeling%20and%20Policy%20Analysis.%20Studies%20in%20Residential%20Energy%20Demand-Academic%20Press%20%281984%29.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/main/765000/ad43340afd9b8e682c3069d08f863d67/D.%20R.%20Cox%2C%20Christl%20A.%20Donnelly%20-%20Principles%20of%20Applied%20Statistics%20%20-Cambridge%20University%20Press%20%282011%29.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/C56D4D941044B7FDFAF2B976CA4B58BA)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/256F547F14E4CD7133D9A74DBC644D3B)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/577EF67834547AF316ADF949D3C27FFA)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/28B7F31ADF93EF322E4A96DB267DAF81)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/ACF04ECF57EC2A4C9D4919E7F51B994F)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/246AADFBDCC045190FB1443D3D50B5DF)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/2466AF447E28D6095D3F5903E8C8148E)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/E6461DC64778E375FA841AE8169CD5CB)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/1364A5343986C4974C070F3DE6DF1F00)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/577EF67834547AF316ADF949D3C27FFA)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/DA59F843B03CD01358443C37FEB77CDD)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/92FBACE550123C45A5B0CB2850146321)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/524037F395462D37B31F2B28FEDE24FB)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/76AED0D6F3566510C59701DF4E61AE7C)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/A359536E89571E768B4AEECF54D84E78)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/4A3FDF81B9A0F3B8C13A834CBC40F80D)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/00D268C02735647DB6A67803CE519EF8)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/D93D1B5938B0DC25656B88483C8A0CF8)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/E3D2A3448BC641B3F6E4C0FB6BA0B42B)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/1110E4AFE70F2B64CD503465AB21B27C)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/F3FE830B1D068B5F1A7F3C66227F935E)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/46747B77AD13B28449175CFE563062DA)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/BB8D088CDFDB5F74DED5FB41903B17DE)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/1283C6A5952FF2460835EC58C3D6E857)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/63AE8526BAA9C6EC13B306DC9348A9D3)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/378A661AECA1718B30811773550CED9E)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/09913919AC21CF4F9D2BDF276112F0A3)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/14DF422778B0366540D881369E593ECC)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/272A9307B6E5F6948F029468F95F21DD)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/292000/f12d0cae2fb2c53e2a07bbd3fff278c0/%28Cambridge%20Series%20in%20Statistical%20and%20Probabilistic%20Mathematics%29%20Peter%20M%C3%B6rters%2C%20Yuval%20Peres%20-%20Brownian%20Motion-CUP%20%282010%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/597000/ff89da49e1912593c8c03134ce3e2964/%28Cambridge%20Series%20in%20Statistical%20and%20Probabilistic%20Mathematics%29%20Durrett%20R.%20-%20Probability_%20theory%20and%20examples-CUP%20%282010%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/858000/cadf4acacae02ba4f13801f69c323966/Durrett%20R.%20-%20Brownian%20motion%20and%20martingales%20in%20analysis-Wadsworth%20%281984%29.djvu)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1168000/5c5e5444eb46e3b5b8d927cfb3bb2f3e/%28Contributions%20to%20Economic%20Analysis%20282%29%20V.%20Ghosal%20and%20J.%20Stennek%20%28Eds.%29%20-%20The%20Political%20Economy%20of%20Antitrust-Emerald%20Group%20Publishing%20Limited%20%282007%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/260000/109f832a91ed33d2ce12ed5bdec3fadd/Charles%20F.%20Manski%2C%20Daniel%20McFadden%20-%20Structural%20Analysis%20of%20Discrete%20Data%20with%20Econometric%20Applications-The%20MIT%20Press%20%281981%29.rar)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1605000/dcbfad7798cefcaa438ea425a0fb0aa1/%28New%20Developments%20in%20Quantitative%20Trading%20and%20Investment%29%20Christian%20L.%20Dunis%2C%20Peter%20W.%20Middleton%2C%20Andreas%20Karathanasopolous%2C%20Konstantinos%20Theofilatos%20%28eds.%29%20-%20Artificial%20Intelligence%20in%20Financial%20Mark.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/999000/022fbe362fa96e7dbfb8eba6f4775c5f/Rishi%20K%20Narang%28auth.%29%20-%20Inside%20the%20Black%20Box_%20The%20Simple%20Truth%20About%20Quantitative%20Trading-Rishi%20K%20Narang.%20All%20rights%20reserved.%20%282009%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/78196632598B28366F2C1EEAD2898F71)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/597000/88babff3566a7c7b0b663e879edb0a1d/%28Cambridge%20Series%20in%20Statistical%20and%20Probabilistic%20Mathematics%29%20Hjort%20N.L.%2C%20et%20al.%20%28eds.%29%20-%20Bayesian%20nonparametrics-CUP%20%282010%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/6152DDB69C1A7F34DD7FD8EA53AF0CE9)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/619000/407bef8dfb7cb56a59645052b2f43a10/A.N.%20Kolmogorov%2C%20%20S.V.%20Fomin%20-%20Measure%2C%20Lebesgue%20Integrals%2C%20and%20Hilbert%20Space-Academic%20Press%20%281960%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/2321000/1012f3506ad023c3b51136fa0d2adcad/James%20V%20Stone%20-%20Bayes%20Rule%20with%20R%20A%20Tutorial%20Introduction%20to%20Bayesian%20Analysis-Sebtel%20Press%20%282016%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/0B5927DCB12D5E703DBB26203BBA81AD)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1605000/dcbfad7798cefcaa438ea425a0fb0aa1/%28New%20Developments%20in%20Quantitative%20Trading%20and%20Investment%29%20Christian%20L.%20Dunis%2C%20Peter%20W.%20Middleton%2C%20Andreas%20Karathanasopolous%2C%20Konstantinos%20Theofilatos%20%28eds.%29%20-%20Artificial%20Intelligence%20in%20Financial%20Mark.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/999000/022fbe362fa96e7dbfb8eba6f4775c5f/Rishi%20K%20Narang%28auth.%29%20-%20Inside%20the%20Black%20Box_%20The%20Simple%20Truth%20About%20Quantitative%20Trading-Rishi%20K%20Narang.%20All%20rights%20reserved.%20%282009%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/78196632598B28366F2C1EEAD2898F71)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/597000/88babff3566a7c7b0b663e879edb0a1d/%28Cambridge%20Series%20in%20Statistical%20and%20Probabilistic%20Mathematics%29%20Hjort%20N.L.%2C%20et%20al.%20%28eds.%29%20-%20Bayesian%20nonparametrics-CUP%20%282010%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/619000/407bef8dfb7cb56a59645052b2f43a10/A.N.%20Kolmogorov%2C%20%20S.V.%20Fomin%20-%20Measure%2C%20Lebesgue%20Integrals%2C%20and%20Hilbert%20Space-Academic%20Press%20%281960%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/2321000/1012f3506ad023c3b51136fa0d2adcad/James%20V%20Stone%20-%20Bayes%20Rule%20with%20R%20A%20Tutorial%20Introduction%20to%20Bayesian%20Analysis-Sebtel%20Press%20%282016%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/0B5927DCB12D5E703DBB26203BBA81AD)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1024000/b4585df29340d9b51b0ed97163ef8902/%28Studies%20in%20Economic%20Theory%2026%29%20Daniel%20L.%20McFadden%20%28auth.%29%2C%20Prof.%20Charalambos%20D.%20Aliprantis%2C%20Prof.%20Rosa%20L.%20Matzkin%2C%20Prof.%20Daniel%20L.%20McFadden%2C%20Prof.%20James%20C.%20Moore%2C%20Prof.%20Nicholas%20C.%20Yannelis%20%28eds.%29%20-%20.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/765000/ad43340afd9b8e682c3069d08f863d67/D.%20R.%20Cox%2C%20Christl%20A.%20Donnelly%20-%20Principles%20of%20Applied%20Statistics%20%20-Cambridge%20University%20Press%20%282011%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1600000/4e7e1d0bd4e679135bd61155e6d457de/William%20M.%20Bolstad%2C%20James%20M.%20Curran%20-%20Introduction%20to%20Bayesian%20Statistics-Wiley%20%282016%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/2436000/4a31e1f8c63903e54a6850273d63744e/Igor%20Tulchinsky%20et%20al.%20-%20Finding%20Alphas_%20A%20Quantitative%20Approach%20to%20Building%20Trading%20Strategies-Wiley%20%282020%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1171000/76aed0d6f3566510c59701df4e61ae7c/Gergely%20Dar%C3%B3czi%2C%20Michael%20Puhle%2C%20Edina%20Berlinger%2C%20P%C3%A9ter%20Cs%C3%B3ka%2C%20Daniel%20Havran%2C%20M%C3%A1rton%20Michaletzky%2C%20Zsolt%20Tulassay%2C%20Kata%20V%C3%A1radi%2C%20Agnes%20Vidovics-Dancs%20-%20Introduction%20to%20R%20for%20Quantitative%20Finance-Packt%20Pu.epub)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1361000/9dea557d57a850215adac9d6d3ad2841/%28.Net%20Developers%29%20Sergios%20Theodoridis%20-%20Machine%20Learning_%20A%20Bayesian%20and%20Optimization%20Perspective-Academic%20Press%20%282015%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1438000/2c729bafbaf8d63831aa1a39dabebfc5/Dr.%20Hari%20M.%20Koduvely%20-%20Learning%20Bayesian%20Models%20with%20R-Packt%20Publishing%20%282015%29.epub)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/71000/028d8b42ffbb6bb2eb04381c8dc1ca39/Taqdir%20Husain%20-%20Introduction%20to%20topological%20groups-W.%20B.%20Saunders%20Company%20%281966%29.djvu)
+
+- [ ] [93.174.95.29](http://93.174.95.29/_ads/002AA0DE94248B7AECB26C23965E0A94)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4E7E1D0BD4E679135BD61155E6D457DE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/89B07C1C9EDC0106ABAC636E63FF0B3B)
+
+- [ ] [93.174.95.29](http://93.174.95.29/_ads/E4554425820B3827F36501E5C1C99CF5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/17A80E67E5AFAD521DC5A638BD73A7E0)
+
+- [ ] [93.174.95.29](http://93.174.95.29/_ads/9A704AB72A81BA7D24C0CCB1EC4032DB)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/9E847E5ECF027F28E000A3656FBFA75F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A211BAC4021AE69EE65AAE9072F2C925)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FA758C88E7EA6C30FB5E3D921554FCC1)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/88BABFF3566A7C7B0B663E879EDB0A1D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/39AD8DD1D5ECADBA3182FEF6AEE35867)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BF16596F119E917AD6501BF994E30C9E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5626CABC025ACA0468AE06B046A2F4A5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EC97EC50BE2AEE68AA68FF8630CFAFEC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/9F89DA3F016C710AF621F79B08242BB4)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/70BFD983D201C379C09CD2B9DEE984B8)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/8A558DE287CB2B2FA18304D5AA10FF40)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/662FECDE49C2CF385491FC25691E1D3C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EC97EC50BE2AEE68AA68FF8630CFAFEC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2069B80A68C3B2C11325AD6BA4FA7A71)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/292C077102370A2E31EB629E9AE89DB7)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7805626E6D655AE92F29A083DE6C6F97)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4E5ADBB2432FF2B6844154C83CD2FF82)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/35F807801EC67869EACCF286AF8818DA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C8A595DE924E42C4CD8E8561BE5A1001)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/80A0B0CD0F2696DDC0569C070DD8662F)
+
+- [ ] [500 Internal Privoxy Error](http://93.174.95.29/_ads/78FF1B32CAEA72FC11F4410E46DBE675)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6B9E83CF7A813D82FC91B8784EDD81F9)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C56D4D941044B7FDFAF2B976CA4B58BA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0BE1DFFE5534AE51522A80D6017996CA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/85A482D1DB246732CC3A24B757E71B76)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/9E847E5ECF027F28E000A3656FBFA75F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/57F6C3C51C32840913CDF9AD4F846A72)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/33A0BA6FF3A323C9CE27280A88E649D3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/96B47609832A0B0EC0C635CB600C8477)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/256F547F14E4CD7133D9A74DBC644D3B)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/002AA0DE94248B7AECB26C23965E0A94)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/577EF67834547AF316ADF949D3C27FFA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/577EF67834547AF316ADF949D3C27FFA)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/1E702F6E6EB9CE6786852056E14157F9)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E4554425820B3827F36501E5C1C99CF5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/28B7F31ADF93EF322E4A96DB267DAF81)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/ACF04ECF57EC2A4C9D4919E7F51B994F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/246AADFBDCC045190FB1443D3D50B5DF)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DA59F843B03CD01358443C37FEB77CDD)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/92FBACE550123C45A5B0CB2850146321)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/524037F395462D37B31F2B28FEDE24FB)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/17A80E67E5AFAD521DC5A638BD73A7E0)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A359536E89571E768B4AEECF54D84E78)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4A3FDF81B9A0F3B8C13A834CBC40F80D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C71CB6BFB8FC19C7D1AA209853F9476C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5782724065B229B996F4117A0192497E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/9A704AB72A81BA7D24C0CCB1EC4032DB)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/00D268C02735647DB6A67803CE519EF8)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D93D1B5938B0DC25656B88483C8A0CF8)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E3D2A3448BC641B3F6E4C0FB6BA0B42B)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F3FE830B1D068B5F1A7F3C66227F935E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BB8D088CDFDB5F74DED5FB41903B17DE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/63AE8526BAA9C6EC13B306DC9348A9D3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/378A661AECA1718B30811773550CED9E)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/D343776ADADEA2BF4DE5A61AD77FBC0F)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/09913919AC21CF4F9D2BDF276112F0A3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/5F6069C42F31F62FE2AEE3D3A3FA0940)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/DD11931F34780671886E25A52795674C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/1E702F6E6EB9CE6786852056E14157F9)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7250E74E670E5927496AFEAAC61CEE4F)
