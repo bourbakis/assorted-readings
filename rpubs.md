@@ -536,3 +536,31 @@ https://rpubs.com/shawnspei/final_v2
 - [ ] [RPubs - DATA 607 Final](https://rpubs.com/AlejandroO/391903)
 
 - [ ] [RPubs - NaiveBayes](https://rpubs.com/Prathima/540106)
+
+
+
+
+
+
+
+
+
+
+
+## 11/26/2019
+
+- [ ] [RPubs - Bayesian Linear Regression](http://www.rpubs.com/mfondoum/bayesian_linear_regression)
+
+- [ ] [RPubs - Bayesian Linear Regression](http://www.rpubs.com/mfondoum/bayesian_linear_regression)
+
+- [ ] [RPubs - Linear Regression (LM)](http://www.rpubs.com/dvallslanaquera/lm_cigarette)
+
+- [ ] [RPubs - Linear Regression (LM)](http://www.rpubs.com/dvallslanaquera/lm_cigarette)
+
+- [ ] [RPubs - Metabolomic Analysis : Regression and Classification Machine Learning models to predict controlled Hippurate&#x27;s concentration](http://www.rpubs.com/proto4426/280542)
+
+- [ ] [RPubs - Metabolomic Analysis : Regression and Classification Machine Learning models to predict controlled Hippurate&#x27;s concentration](http://www.rpubs.com/proto4426/280542)
+
+- [ ] [RPubs - Regression Models Coursera Project. Motor Trend Analysis.](http://www.rpubs.com/anastasiia/124194)
+
+- [ ] [RPubs - Regression Models Coursera Project. Motor Trend Analysis.](http://www.rpubs.com/anastasiia/124194)

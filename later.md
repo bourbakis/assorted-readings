@@ -4228,3 +4228,318 @@ https://www.zhihu.com/question/341466774
 - [ ] [This Startup Wants the Rights to Your Face in Perpetuity for $127,000 - VICE](https://www.vice.com/en_us/article/mbmxmn/this-robot-startup-wants-the-rights-to-your-face)
 
 - [ ] [Who Farted? An Investigation - VICE](https://www.vice.com/en_us/article/mbmy8q/chris-matthew-hardball-eric-swalwell-fart)
+
+
+
+
+
+
+
+
+
+## 11/26/2019
+
+- [ ] [beautiful graphics ggplot2](http://rstudio-pubs-static.s3.amazonaws.com/228019_f0c39e05758a4a51b435b19dbd321c23.html)
+
+- [ ] [Aesthetics: grouping — aes_group_order • ggplot2](https://ggplot2.tidyverse.org/reference/aes_group_order.html)
+
+- [ ] [R tutorials, multiple curves, multiple plots, same plot R](http://www.countbio.com/web_pages/left_object/R_for_biology/R_fundamentals/multiple_curves_R.html)
+
+- [ ] [Aesthetics: grouping — aes_group_order • ggplot2](https://ggplot2.tidyverse.org/reference/aes_group_order.html)
+
+- [ ] [Dplyr group_by mean not working and reprex - tidyverse - RStudio Community](https://community.rstudio.com/t/dplyr-group-by-mean-not-working-and-reprex/13443)
+
+- [ ] [Separate axis breaks for facets - tidyverse - RStudio Community](https://community.rstudio.com/t/separate-axis-breaks-for-facets/10352)
+
+- [ ] [Weekly topics - RStudio Community](https://community.rstudio.com/top/weekly)
+
+- [ ] [How to Make an Area Chart in R | Displayr](https://www.displayr.com/how-to-make-an-area-chart-in-r/)
+
+- [ ] [Overlapping Distribution Plots](https://mikebader.net/blog/entries/2018/05/07/overlapping-distribution-plots/)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/slb/kurser/rbugs-05)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/algoritm_kompendium.ps)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/mcmc.ps)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/livslang.html)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/algoritm_kompendium.pdf)
+
+- [ ] [404 Not Found](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/master.ps)
+
+- [ ] [spis](http://people.math.aau.dk/~jm/courses/interpolation.html)
+
+- [ ] [spis](http://people.math.aau.dk/~jm/courses/interpolation.html)
+
+- [ ] [people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/](http://people.math.aau.dk/~jm/courses/Ugesedler.Mat2.F03/)
+
+- [ ] [Kim Jong-Un Has a Population Problem | The National Interest](https://nationalinterest.org/blog/buzz/kim-jong-un-has-population-problem-97292)
+
+- [ ] [How can I generate bootstrap statistics in R? | R FAQ](https://stats.idre.ucla.edu/r/faq/how-can-i-generate-bootstrap-statistics-in-r/)
+
+- [ ] [R Graphics: Introduction to ggplot2 (1)](https://stats.idre.ucla.edu/stat/data/intro_ggplot2/ggplot2_intro_slidy.html#(1))
+
+- [ ] [R Library Introduction to bootstrapping](https://stats.idre.ucla.edu/r/library/r-library-introduction-to-bootstrapping/)
+
+- [ ] [Winners don't punish. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/18354481)
+
+- [ ] [Imperfect Public Monitoring with Costly Punishment: An Experimental Study](https://ideas.repec.org/a/aea/aecrev/v102y2012i7p3317-32.html)
+
+- [ ] [Advanced tips and tricks with data.table – andrew brooks](http://brooksandrew.github.io/simpleblog/articles/advanced-data-table/)
+
+- [ ] [Aggregate Data in R Using data.table | RProgramming.net](http://rprogramming.net/aggregate-data-in-r-using-data-table/)
+
+- [ ] [12. Two Way Tables — R Tutorial](https://www.cyclismo.org/tutorial/R/tables.html)
+
+- [ ] [https://www3.nd.edu/~steve/computing_with_data/24_dplyr/dplyr.html](https://www3.nd.edu/~steve/computing_with_data/24_dplyr/dplyr.html)
+
+- [ ] [How to average replicate data using R (Column and Raw)](https://www.biostars.org/p/318210/)
+
+- [ ] [group_by: Group by one or more variables in dplyr: A Grammar of Data Manipulation](https://rdrr.io/cran/dplyr/man/group_by.html)
+
+- [ ] [group_by function | R Documentation](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8/topics/group_by)
+
+- [ ] [The doBy package](http://people.math.aau.dk/~sorenh/software/doBy/)
+
+- [ ] [Aurelie Ouss](http://aouss.github.io/research.html)
+
+- [ ] [The Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/)
+
+- [ ] [PSE - Ecole d'économie de Paris - Paris School of Economics](https://www.parisschoolofeconomics.eu/en/)
+
+- [ ] [Department of Economics](https://economics.harvard.edu/)
+
+- [ ] [UChicago Urban Labs](https://urbanlabs.uchicago.edu/)
+
+- [ ] [Department of Criminology](https://crim.sas.upenn.edu/)
+
+- [ ] [Eric Maurin page personnelle / homepage](http://www.jourdan.ens.fr/~emaurin/)
+
+- [ ] [anuj k. shah](http://theslab.uchicago.edu/anuj/)
+
+- [ ] [Ben Greiner](http://ben.orsee.org/#teaching)
+
+- [ ] [z-Tree : Zurich toolbox for ready-made economic experiments](http://kops.uni-konstanz.de/handle/123456789/16670?locale-attribute=en)
+
+- [ ] [Experiments : Research Lab : Universität Hamburg](https://www.wiso.uni-hamburg.de/en/forschung/forschungslabor/experimentallabor/forschende/ztree.html)
+
+- [ ] [z-Tree - Zurich toolbox for readymade economic experiments - Research Collection](https://www.research-collection.ethz.ch/handle/20.500.11850/146564)
+
+- [ ] [Game Theory](https://gametheory.online/project_show/25)
+
+- [ ] [Game Theory](https://gametheory.online/project_show/11)
+
+- [ ] [Game Theory](https://gametheory.online/project_show/18)
+
+- [ ] [Science Online](https://scienceexperiment.online/)
+
+- [ ] [Utility, Substitution and Demand: An Interactive Tutorial](https://www.economicsnetwork.ac.uk/archive/poulter/about_mlp.htm)
+
+- [ ] [Game Theory .net - Repeated Prisoner's Dilemma Applet](http://www.gametheory.net/Mike/applets/PDilemma/Pdilemma.html)
+
+- [ ] [Iterated Prisoner's Dilemma](http://www.taumoda.com/web/PD/TFT/TFTApplet.html)
+
+- [ ] [The Evolution of Trust](https://ncase.me/trust/)
+
+- [ ] [404 - Page Not Found](https://www.moblab.com/edu/games/all-games)
+
+- [ ] [Games-and-Behavior: Experimental Game Theory](http://gametheory.tau.ac.il/)
+
+- [ ] [עולמות אפשריים בע"מ - Possible Worlds Ltd](http://www.possibleworlds.co.il/)
+
+- [ ] [Experience from a Course in Game Theory](http://arielrubinstein.tau.ac.il/99/gt100.html)
+
+- [ ] [Martin J. Osborne](https://www.economics.utoronto.ca/osborne/)
+
+- [ ] [An introduction to game theory (main screen)](https://www.economics.utoronto.ca/osborne/igt/index.html)
+
+- [ ] [Bargaining and Markets](https://www.economics.utoronto.ca/osborne/bm/)
+
+- [ ] [A course in game theory (main screen)](https://www.economics.utoronto.ca/osborne/cgt/index.html)
+
+- [ ] [Osborne-Rubinstein books](https://books.osborne.economics.utoronto.ca/)
+
+- [ ] [An introduction to game theory (main screen)](https://www.economics.utoronto.ca/osborne/igt/index.html)
+
+- [ ] [Game Theory .net - Resources for Learning and Teaching Strategy for Business and Life](http://www.gametheory.net/)
+
+- [ ] [Game Theory Utility & Simulation](https://www.zweigmedia.com/RealWorld/gametheory/games.html)
+
+- [ ] [kable_styling: HTML table attributes in kableExtra: Construct Complex Table with 'kable' and Pipe Syntax](https://rdrr.io/cran/kableExtra/man/kable_styling.html)
+
+- [ ] [R-ggplot拼图 – Python量化投资](https://www.lizenghai.com/archives/34237.html)
+
+- [ ] [(66) SingEx: Life | LinkedIn](https://www.linkedin.com/company/singex-group/life/fcd4d8c6-2a40-463c-bdbd-4c9fa1e7a530/)
+
+- [ ] [Julie Jung (0000-0001-8319-3984) - ORCID | Connecting Research and Researchers](http://orcid.org/0000-0001-8319-3984)
+
+- [ ] [【r<-ggplot2】cowplot介绍 - 简书](https://www.jianshu.com/p/fea410378360)
+
+- [ ] [cowplot @ METACRAN](https://www.r-pkg.org/pkg/cowplot)
+
+- [ ] [Introduction to cowplot to combine several plots in one with R – IRIC's Bioinformatics Platform](https://bioinfo.iric.ca/introduction-to-cowplot/)
+
+- [ ] [How to combine Multiple ggplot Plots to make Publication-ready Plots | DataScience+](https://datascienceplus.com/how-to-combine-multiple-ggplot-plots-to-make-publication-ready-plots/)
+
+- [ ] [St4k - stackoverflow](http://danlec.com/st4k#questions/49825971)
+
+- [ ] [Prepare Reproducible Example Code via the Clipboard • reprex](https://reprex.tidyverse.org/)
+
+- [ ] [grid.arrange from gridExtras exiting with “only ‘grobs’ allowed in ‘gList’” after update | Tech Mag](https://techxmag.com/questions/grid-arrange-from-gridextras-exiting-with-only-grobs-allowed-in-glist-afte/)
+
+- [ ] [Graphics - Power of graphics in knitr - Yihui Xie | 谢益辉](https://yihui.org/knitr/demo/graphics/)
+
+- [ ] [Aggregate – A Powerful Tool for Data Frame in R | DataScience+](https://datascienceplus.com/aggregate-data-frame-r/)
+
+- [ ] [R Aggregate Function: Summarise & Group_by() Example](https://www.guru99.com/r-aggregate-function.html)
+
+- [ ] [perfect.png (1980×1800)](https://bioinfo.iric.ca/wpbioinfo/wp-content/uploads/2016/11/perfect.png)
+
+- [ ] [Introduction to cowplot](https://cloud.r-project.org/web/packages/cowplot/vignettes/introduction.html)
+
+- [ ] [arovD.jpg (1366×650)](https://i.stack.imgur.com/arovD.jpg)
+
+- [ ] [Package `gtable`](https://studylib.net/doc/18299886/package--gtable-)
+
+- [ ] [Panel plots | Fiona Seaton](https://www.fionamseaton.com/tutorial/r-club/panel_plots/)
+
+- [ ] [Making plots and tables from the simulation results](https://lukeholman.github.io/W_shredder/plot_model.html)
+
+- [ ] [ggplot2で，並べたグラフの幅をそろえる方法: さかなのいろいろ](http://sakananoiroiro.seesaa.net/article/460806470.html)
+
+- [ ] [Subplots | R | Plotly](https://plot.ly/r/subplots/)
+
+- [ ] [Find panels in a gtable — find_panel • ggplot2](https://ggplot2.tidyverse.org/reference/find_panel.html)
+
+- [ ] [gtable • All Your Figure Are Belong To Us](http://yutannihilation.github.io/allYourFigureAreBelongToUs/gtable/gtable/)
+
+- [ ] [Modifying the gTable | R](https://campus.datacamp.com/courses/data-visualization-with-ggplot2-part-3/ggplot2-internals?ex=9)
+
+- [ ] [R Multiple Plot Using par() Function](https://www.datamentor.io/r-programming/subplot/)
+
+- [ ] [Multiple graphs on one page (ggplot2)](http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/)
+
+- [ ] [Efficient accumulation in R – Win-Vector Blog](http://www.win-vector.com/blog/2015/07/efficient-accumulation-in-r/)
+
+- [ ] [Data visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
+
+- [ ] [Visualizing data with ggplot2](https://datacarpentry.org/dc_zurich/R-ecology/05-visualisation-ggplot2.html)
+
+- [ ] [Time Series 06: Create Plots with Multiple Panels, Grouped by Time Using ggplot Facets | NSF NEON | Open Data to Understand our Ecosystems](https://www.neonscience.org/dc-time-series-plot-facets-ndvi-r)
+
+- [ ] [Easy multi-panel plots in R using facet_wrap() and facet_grid() from ggplot2 | Technical Tidbits From Spatial Analysis & Data Science](http://zevross.com/blog/2019/04/02/easy-multi-panel-plots-in-r-using-facet_wrap-and-facet_grid-from-ggplot2/)
+
+- [ ] [How to Combine Multiple GGPlots into a Figure - Datanovia](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/)
+
+- [ ] [Embedding subplots in ggplot2 graphics](https://aosmith.rbind.io/2019/04/22/embedding-subplots/)
+
+- [ ] [https://www3.nd.edu/~steve/computing_with_data/13_Facets/facets.html](https://www3.nd.edu/~steve/computing_with_data/13_Facets/facets.html)
+
+- [ ] [Plots with subplots in R | Matti Vuorre](https://vuorre.netlify.com/post/2016/03/15/plots-with-subplots-in-r/)
+
+- [ ] [GGPlot AES: How to Assign Aesthetics in GGPlot2 - Datanovia](https://www.datanovia.com/en/blog/ggplot-aes-how-to-assign-aesthetics-in-ggplot2/)
+
+- [ ] [Construct aesthetic mappings — aes • ggplot2](https://ggplot2.tidyverse.org/reference/aes.html)
+
+- [ ] [Aesthetic specifications • ggplot2](https://ggplot2.tidyverse.org/articles/ggplot2-specs.html)
+
+- [ ] [Rachel Kranton | Scholars@Duke](https://scholars.duke.edu/person/rachel.kranton)
+
+- [ ] [Curtis R. Taylor | Scholars@Duke](https://scholars.duke.edu/person/crtaylor)
+
+- [ ] [Huseyin Yildirim | Scholars@Duke](https://scholars.duke.edu/person/yildirh)
+
+- [ ] [RStudio Schedule](https://rstudio.youcanbook.me/?UTM_CONTENT=Community_YCBM_001)
+
+- [ ] [Best ggplot visualizations – Nextjournal](https://nextjournal.com/jk/best-ggplot)
+
+- [ ] [ggplot | geom_area](http://ggplot.yhathq.com/docs/geom_area.html)
+
+- [ ] [Creating plots in R using ggplot2 - part 2: area plots](http://t-redactyl.io/blog/2015/12/creating-plots-in-r-using-ggplot2-part-2-area-plots.html)
+
+- [ ] [Data Visualization with R](https://rkabacoff.github.io/datavis/Models.html#)
+
+- [ ] [Stacked area graph in ggplot2 is empty - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/299402/stacked-area-graph-in-ggplot2-is-empty)
+
+
+
+
+
+
+
+
+
+
+## 11/26/2019
+
+- [ ] [eBay and craigslist](https://saylordotorg.github.io/text_economics-theory-through-applications/s10-ebay-and-craigslist.html)
+
+- [ ] [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1465-7295.1986.tb01830.x)
+
+- [ ] [www.coursehero.com](https://www.coursehero.com/file/p17pju2/Pitfalls-to-avoid-Leaving-money-on-the-table-Winners-curse-Agreement-bias/)
+
+- [ ] [Information Economics - Urs Birchler, Monika Bütler - Google Books](https://books.google.com/books?id=vppTCIGyoK4C&pg=PA256&lpg=PA256&dq=money+left+on+table+winner%27s+curse&source=bl&ots=ydK1bT3cw8&sig=ACfU3U2Z0et_0BfRJvq7byMUX-PGsmx1RA&hl=en&sa=X&ved=2ahUKEwiAno6csYXmAhXLxYsBHZhkBDwQ6AEwAnoECGUQAQ#v=onepage&q=money%20left%20on%20table%20winner's%20curse&f=false)
+
+- [ ] [Factors Influencing Money Left on the Table by Property Trust IPO Issuers: Journal of Property Research: Vol 23, No 3](https://www.tandfonline.com/doi/abs/10.1080/09599910600969206?mobileUi=0&journalCode=rjpr20)
+
+- [ ] [Bidding in Common Value Auctions: How the Commercial Construction Industry Corrects for the Winner's Curse on JSTOR](https://www.jstor.org/stable/2634378?seq=1)
+
+- [ ] [Beware the Winner's Curse: Victories that Can Sink You and Your Company - G. Anandalingam, Henry C. Lucas Jr. - Google Books](https://books.google.com/books?id=j_gdXTGs_vwC&pg=PA139&lpg=PA139&dq=money+left+on+table+winner%27s+curse&source=bl&ots=VBqpzJj6FM&sig=ACfU3U2JKr_vQjmYXBqF0e-Zt5T-1BlTAw&hl=en&sa=X&ved=2ahUKEwiAno6csYXmAhXLxYsBHZhkBDwQ6AEwBnoECGMQAQ#v=onepage&q=money%20left%20on%20table%20winner's%20curse&f=false)
+
+- [ ] [UCLA - International Institute ..::.. Error](https://www.international.ucla.edu/cms/files/dellavigna.pdf)
+
+- [ ] [The Fox News Effect: Media Bias and Voting](https://www.nber.org/papers/w12169)
+
+- [ ] [Capital Raising, Underwriting and the Certification Hypothesis by James R. Booth, Richard L, II Smith :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1505264)
+
+- [ ] [Investment Banking, Reputation, and the Underpricing of Initial Public Offerings by Randolph P. Beatty, Jay R. Ritter :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1505863)
+
+- [ ] [Can you buy a good second-hand car? - The juicy market for lemons](https://www.economist.com/finance-and-economics/2019/09/26/can-you-buy-a-good-second-hand-car)
+
+- [ ] [Market for Lemons - Noteworthy - The Journal Blog](https://blog.usejournal.com/market-for-lemons-fe4a868b40b5)
+
+- [ ] [Toyota of Clermont Blog | New and Used Toyota Dealer](https://www.toyotaofclermont.com/blog/)
+
+- [ ] [Market for “Lemons”: Quality Uncertainty and the Market Mechanism* | The Quarterly Journal of Economics | Oxford Academic](https://academic.oup.com/qje/article-abstract/84/3/488/1896241?redirectedFrom=fulltext)
+
+- [ ] [Market for “Lemons”: Quality Uncertainty and the Market Mechanism* | The Quarterly Journal of Economics | Oxford Academic](https://academic.oup.com/qje/article-abstract/84/3/488/1896241?redirectedFrom=fulltext)
+
+- [ ] [Market for “Lemons”: Quality Uncertainty and the Market Mechanism* | The Quarterly Journal of Economics | Oxford Academic](https://academic.oup.com/qje/article-abstract/84/3/488/1896241?redirectedFrom=fulltext#)
+
+- [ ] [American Economic Association](https://www.aeaweb.org/articles?id=10.1257/jep.5.1.97)
+
+- [ ] [Writing the "The Market for 'Lemons'": A Personal Interpretive Essay - NobelPrize.org](https://www.nobelprize.org/prizes/economic-sciences/2001/akerlof/article/)
+
+- [ ] [Lemons and the Nobel Prize | Mises Institute](https://mises.org/library/lemons-and-nobel-prize)
+
+- [ ] [Subscribe to read | Financial Times](https://www.ft.com/content/fddde450-2521-11e8-b27e-cc62a39d57a0)
+
+- [ ] [Life in the Eurozone: With or Without Sovereign Default? | FIC Press](https://ficpress.wordpress.com/2012/09/13/life-in-the-eurozone-with-or-without-sovereign-default/)
+
+- [ ] [Governance for the Eurozone: Integration or Disintegration? | FIC Press](https://ficpress.wordpress.com/2012/09/13/governance-for-the-eurozone-integration-or-disintegration/)
+
+- [ ] [finance.wharton.upenn.edu/~allenf/download/Vita/Papers.htm](http://finance.wharton.upenn.edu/~allenf/download/Vita/Papers.htm)
+
+- [ ] [Business | The Economist](https://www.economist.com/taxonomy/term/34/Financial%20markets?page=53)
+
+- [ ] [A Snapshot of Dual-Class Share Structures in the Twenty-First Century: A Solution to Reconcile Shareholder Protections with Founder Autonomy](http://law.emory.edu/elj/content/volume-68/issue-2/comments/dual-class-twenty-first-solution-protections-autonomy.html)
+
+- [ ] [(11) The Effects of Information Disclosure and Board Independence on IPO Discount* | Request PDF](https://www.researchgate.net/publication/227897619_The_Effects_of_Information_Disclosure_and_Board_Independence_on_IPO_Discount)
+
+- [ ] [Winner's curse - Breaking Down Finance](https://breakingdownfinance.com/finance-topics/behavioral-finance/winners-curse/)
+
+- [ ] [IPO - winner's curse](http://www.ipo-underpricing.com/UP/Underpricing/Modelle/GG/e_Winners%20Curse.html)
+
+- [ ] [Winner's Curse Definition](https://www.investopedia.com/terms/w/winnerscurse.asp)
+
+- [ ] [IPO - winner's curse](http://www.ipo-underpricing.com/UP/Underpricing/Modelle/GG/e_Winners%20Curse.html)
+
+- [ ] [Do Resume Typos Matter? Here’s What Hundreds Of LinkedIn Users Say](https://www.fastcompany.com/40536077/do-resume-typos-matter-heres-what-hundreds-of-linkedin-users-say)
+
+- [ ] [Why You Should Hire People Who Make Typos | Inc.com](https://www.inc.com/suzanne-lucas/why-you-should-hire-people-who-make-typos.html)
+
+- [ ] [Why typos and spelling mistakes don't really matter - BBC News](https://www.bbc.com/news/business-29529578)
+
+- [ ] [some contributions of economics to the study of personality - Google Search](https://www.google.com/search?ei=kFXVXeLCOa6t_QbVzp_wCA&q=some+contributions+of+economics+to+the+study+of+personality&oq=some+contributions+of+economics+to+the+study+of+personality&gs_l=psy-ab.3...4530.4530..4794...0.2..0.67.67.1......0....1..gws-wiz.......0i71.6g8b0uDp89Y&ved=0ahUKEwjiyovHh_nlAhWuVt8KHVXnB44Q4dUDCAo&uact=5)
