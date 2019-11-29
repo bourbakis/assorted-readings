@@ -369,3 +369,70 @@
 - [ ] [www.inference.org.uk/teaching/projects/l.html](http://www.inference.org.uk/teaching/projects/l.html)
 
 - [ ] [www.inference.org.uk/teaching/statphys/vfe/](http://www.inference.org.uk/teaching/statphys/vfe/)
+
+
+
+# Differntial and Causal Inference
+
+## 11/29/2019
+
+- [ ] [404 Not Found](http://www.cs.toronto.edu/~mackay/itprnn/book.pdf)
+
+- [ ] [404 Not Found](http://www.cs.toronto.edu/~mackay/itprnn/booktext.txt)
+
+- [ ] [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/)
+
+- [ ] [index](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+
+- [ ] [www.cs.toronto.edu/~jessebett/CSC412/](http://www.cs.toronto.edu/~jessebett/CSC412/)
+
+
+
+
+## 11/29/2019
+
+- [ ] [AIMS CDT: Data, Estimation and Inference · Michael A Osborne](http://www.robots.ox.ac.uk/~mosb/aims_cdt/)
+
+- [ ] [B14 Inference · Michael A Osborne](http://www.robots.ox.ac.uk/~mosb/b14/)
+
+- [ ] [Machine Learning · Michael A Osborne](http://www.robots.ox.ac.uk/~mosb/c19/)
+
+- [ ] [Machine Learning and Pattern Recognition](http://www.robots.ox.ac.uk/~sjrob/Teaching/oxpr.html)
+
+- [ ] [Object Oriented Programming · Michael A Osborne](http://www.robots.ox.ac.uk/~mosb/b16/)
+
+- [ ] [Publications & Code · Michael A Osborne](http://www.robots.ox.ac.uk/~mosb/publications_code/#Thesis)
+
+- [ ] [www.robots.ox.ac.uk/~sjrob/Teaching/AdvP/ap.html](http://www.robots.ox.ac.uk/~sjrob/Teaching/AdvP/ap.html)
+
+- [ ] [www.robots.ox.ac.uk/~sjrob/Teaching/b14_sp.html](http://www.robots.ox.ac.uk/~sjrob/Teaching/b14_sp.html)
+
+- [ ] [www.robots.ox.ac.uk/~sjrob/Teaching/b4_intro.html](http://www.robots.ox.ac.uk/~sjrob/Teaching/b4_intro.html)
+
+- [ ] [www.robots.ox.ac.uk/~sjrob/Teaching/ec_course.html](http://www.robots.ox.ac.uk/~sjrob/Teaching/ec_course.html)
+
+- [ ] [www.robots.ox.ac.uk/~sjrob/Teaching/histcomp.html](http://www.robots.ox.ac.uk/~sjrob/Teaching/histcomp.html)
+
+- [ ] [www.robots.ox.ac.uk/~sjrob/Teaching/mathlab.html](http://www.robots.ox.ac.uk/~sjrob/Teaching/mathlab.html)
+
+- [ ] [www.robots.ox.ac.uk/~sjrob/Teaching/sp_course.html](http://www.robots.ox.ac.uk/~sjrob/Teaching/sp_course.html)
+
+- [ ] [www.robots.ox.ac.uk/~sjrob/Teaching/Vectors/index.html](http://www.robots.ox.ac.uk/~sjrob/Teaching/Vectors/index.html)
+
+
+
+# PRML
+
+## 11/29/2019
+
+- [ ] [Probabilistic Numerics.org](http://probabilistic-numerics.org/blog/index.html)
+
+- [ ] [Probabilistic Numerics.org](http://probabilistic-numerics.org/literature/index.html)
+
+- [ ] [Probabilistic Numerics.org](http://probabilistic-numerics.org/blog/index.html)
+
+- [ ] [Probabilistic Numerics.org](http://probabilistic-numerics.org/research/index.html)
+
+- [ ] [Probabilistic Numerics.org](http://probabilistic-numerics.org/literature/index.html)
+
+- [ ] [Probabilistic Numerics.org](http://probabilistic-numerics.org/general/2016/05/18/PN-for-CompSci/)

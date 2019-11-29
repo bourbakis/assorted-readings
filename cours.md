@@ -457,3 +457,46 @@
 - [ ] [Machine Learning Summer School (MLSS), Cambridge 2009 - VideoLectures - VideoLectures.NET](http://videolectures.net/mlss09uk_cambridge/)
 
 - [ ] [Zoubin Ghahramani - Department of Engineering, University of Cambridge - VideoLectures.NET](http://videolectures.net/zoubin_ghahramani/)
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+## 11/29/2019
+
+- [ ] [Adverse selection | Policonomics](https://policonomics.com/adverse-selection/)
+
+- [ ] [Asymmetric information | Policonomics](https://policonomics.com/asymmetric-information/)
+
+- [ ] [Asymmetric information | Policonomics](https://policonomics.com/asymmetric-information/)
+
+- [ ] [Asymmetric information | Policonomics](https://policonomics.com/asymmetric-information/)
+
+- [ ] [Joseph Stiglitz | Policonomics](https://policonomics.com/joseph-stiglitz/)
+
+- [ ] [Learning Paths | Policonomics](https://policonomics.com/learning-paths/)
+
+- [ ] [Market failure | Policonomics](https://policonomics.com/market-failure/)
+
+- [ ] [Michael Spence | Policonomics](https://policonomics.com/michael-spence/)
+
+- [ ] [Moral hazard | Policonomics](https://policonomics.com/moral-hazard/)
+
+- [ ] [Perfect and imperfect information | Policonomics](https://policonomics.com/perfect-imperfect-information/)
+
+- [ ] [Subjects Home | Policonomics](https://policonomics.com/subjects-home/)
+
+- [ ] [The Market for Lemons | Policonomics](https://policonomics.com/the-market-for-lemons/)
+
+- [ ] [Videos | Policonomics](https://policonomics.com/videos/)
+
+- [ ] [Settings - About Chrome](chrome://settings/help)
