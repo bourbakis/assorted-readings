@@ -884,3 +884,175 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [The Sum of Discrete and Continuous Random Variables - YouTube](https://www.youtube.com/watch?v=8ueUXUTRlSQ)
 
 - [ ] [(50) Pillai " Z=X+Y, Sum of Two Random Variables" (Part 1 of 5) - YouTube](https://www.youtube.com/watch?v=d_9KT2abCAY)
+
+
+
+## 11/29/2019
+
+- [ ] [(129) Daniel McFadden in Conversation with Michael Intriligator, UCLA - YouTube](https://www.youtube.com/watch?v=lERmLAww3vU)
+
+- [ ] [(129) ggplot2 tutorial: Multiple Groups and Variables - YouTube](https://www.youtube.com/watch?v=-jO2wuu7GUQ)
+
+- [ ] [(129) ggplot2 tutorial: Multiple Groups and Variables - YouTube](https://www.youtube.com/watch?v=-jO2wuu7GUQ)
+
+- [ ] [(129) Honoring Distinguished Economist Daniel McFadden - YouTube](https://www.youtube.com/watch?v=EavosbTJxoo)
+
+- [ ] [(129) Honoring Distinguished Economist Daniel McFadden - YouTube](https://www.youtube.com/watch?v=EavosbTJxoo)
+
+- [ ] [(129) Probability Density Function and Expectation Value Pt. 1 - YouTube](https://www.youtube.com/watch?v=1Cev0JtpDl4)
+
+- [ ] [(71) Lecture 25: Order Statistics and Conditional Expectation | Statistics 110 - YouTube](https://www.youtube.com/watch?v=2LR5JYbhyjg)
+
+- [ ] [(72) (ML 10.1) Bayesian Linear Regression - YouTube](https://www.youtube.com/watch?v=dtkGq9tdYcI)
+
+- [ ] [(72) (ML 12.4) Bayesian model selection - YouTube](https://www.youtube.com/watch?v=1CFof6hU3cI)
+
+- [ ] [(72) (ML 17.1) Sampling methods - why sampling, pros and cons - YouTube](https://www.youtube.com/watch?v=AadKNJU1-lk&list=PLD0F06AA0D2E8FFBA&index=127)
+
+- [ ] [(72) (ML 17.1) Sampling methods - why sampling, pros and cons - YouTube](https://www.youtube.com/watch?v=AadKNJU1-lk&list=PLD0F06AA0D2E8FFBA&index=127)
+
+- [ ] [(72) (PP 6.1) Multivariate Gaussian - definition - YouTube](https://www.youtube.com/watch?v=TC0ZAX3DA88)
+
+- [ ] [(72) ✖️EPIC CHINA: What is China? - YouTube](https://www.youtube.com/watch?v=DexC8tbKGok)
+
+- [ ] [(72) A Bayesian Nonparametric View on Count-Min Sketch: NeurIPS 2018 Spotlight Video - YouTube](https://www.youtube.com/watch?v=5a5NwlVTn_Y&t=7s)
+
+- [ ] [(72) Auction Theory : Winner's Curse - YouTube](https://www.youtube.com/watch?v=tBFo2ucXwpE)
+
+- [ ] [(72) Avoiding The Winner's Curse - YouTube](https://www.youtube.com/watch?v=gnuOGW_KIMY)
+
+- [ ] [(72) Bootstrap Confidence Interval with R | R Video Tutorial 4.5 | MarinStatsLectures - YouTube](https://www.youtube.com/watch?v=Om5TMGj9td4)
+
+- [ ] [(72) Bootstrap Confidence Interval with R | R Video Tutorial 4.5 | MarinStatsLectures - YouTube](https://www.youtube.com/watch?v=Om5TMGj9td4)
+
+- [ ] [(72) Brian Arthur: Complexity in Economic Theory - INET Panel (2/5) - YouTube](https://www.youtube.com/watch?v=W0dGLEreBrM)
+
+- [ ] [(72) CPSC 340: Machine Learning and Data Mining (2018) - YouTube](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b)
+
+- [ ] [(72) Fei-Fei Li & Yuval Noah Harari in Conversation - The Coming AI Upheaval - YouTube](https://www.youtube.com/watch?v=d4rBh6DBHyw)
+
+- [ ] [(72) Fei-Fei Li & Yuval Noah Harari in Conversation - The Coming AI Upheaval - YouTube](https://www.youtube.com/watch?v=d4rBh6DBHyw)
+
+- [ ] [(72) Gaussian Processes 1 - Philipp Hennig - MLSS 2013 Tübingen - YouTube](https://www.youtube.com/watch?v=50Vgw11qn0o)
+
+- [ ] [(72) Gradient descent, how neural networks learn | Deep learning, chapter 2 - YouTube](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+
+- [ ] [(72) House Impeachment Inquiry Hearing - Hill & Holmes Testimony - YouTube](https://www.youtube.com/watch?v=MpTIb_HubrY)
+
+- [ ] [(72) Lecture 17: Filling the Void - China in Africa - YouTube](https://www.youtube.com/watch?v=wMCF2eu1D0E)
+
+- [ ] [(72) Lecture 17: Filling the Void - China in Africa - YouTube](https://www.youtube.com/watch?v=wMCF2eu1D0E)
+
+- [ ] [(72) Lie algebras and homotopy theory - Jacob Lurie - YouTube](https://www.youtube.com/watch?v=LeaiPHAh0X0)
+
+- [ ] [(72) Machine learning - Bayesian learning - YouTube](https://www.youtube.com/watch?v=Fae0j1WN1zA)
+
+- [ ] [(72) Machine learning - Bayesian learning part 2 - YouTube](https://www.youtube.com/watch?v=2KXoC6Dxhxs)
+
+- [ ] [(72) Machine learning - Introduction to Gaussian processes - YouTube](https://www.youtube.com/watch?v=4vGiHC35j9s)
+
+- [ ] [(72) Machine Learning 2013 - YouTube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all)
+
+- [ ] [(72) MLSS 2012: J. Cunningham - Gaussian Processes for Machine Learning (Part 1) - YouTube](https://www.youtube.com/watch?v=BS4Wd5rwNwE)
+
+- [ ] [(72) MLSS 2012: J. Cunningham - Gaussian Processes for Machine Learning (Part 2) - YouTube](https://www.youtube.com/watch?v=KcB8c3a4LYU)
+
+- [ ] [(72) Modeling Science: Dynamic Topic Models of Scholarly Research - YouTube](https://www.youtube.com/watch?v=7BMsuyBPx90)
+
+- [ ] [(72) Multivariate Gaussian distributions - YouTube](https://www.youtube.com/watch?v=eho8xH3E6mE)
+
+- [ ] [(72) One Dollar Hotel - YouTube](https://www.youtube.com/channel/UCfGp5tr2rRZCWhALrp9BBkw)
+
+- [ ] [(72) PART III. THE END OF THE END OF HISTORY - YouTube](https://www.youtube.com/watch?v=JyfCjzSgodM)
+
+- [ ] [(72) Probability Density Function and Expectation Value Pt. 1 - YouTube](https://www.youtube.com/watch?v=1Cev0JtpDl4)
+
+- [ ] [(72) Probability Density Function and Expectation Value Pt. 2 - YouTube](https://www.youtube.com/watch?v=dVm2F4FwWJ0)
+
+- [ ] [(72) Probability Density Function and Expectation Value Pt. 2 - YouTube](https://www.youtube.com/watch?v=dVm2F4FwWJ0)
+
+- [ ] [(72) Prototype system for enhancing learning with GitHub - YouTube](https://www.youtube.com/watch?v=zgiaBS4uUk0)
+
+- [ ] [(72) Rendering: Downtown Providence - YouTube](https://www.youtube.com/watch?v=NSmJtlDzGDw&feature=emb_logo)
+
+- [ ] [(72) Stanford CS230: Deep Learning | Autumn 2018 | Lecture 1 - Class Introduction and Logistics - YouTube](https://www.youtube.com/watch?v=PySo_6S4ZAg)
+
+- [ ] [(72) The Most Interesting Take On Socrates? (Agnes Callard) - YouTube](https://www.youtube.com/watch?v=ThlE2OvdVng)
+
+- [ ] [(72) undergraduate machine learning 1: Introduction to machine learning - YouTube](https://www.youtube.com/watch?v=pid0lUH467o)
+
+- [ ] [(72) undergraduate machine learning at UBC 2012 - YouTube](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all)
+
+- [ ] [(72) What is WINNER'S CURSE? What does WINNER'S CURSE mean? WINNER'S CURSE meaning & explanation - YouTube](https://www.youtube.com/watch?v=UIPae-rZE8E)
+
+- [ ] [(75) (ML 10.1) Bayesian Linear Regression - YouTube](https://www.youtube.com/watch?v=1WvnpjljKXA)
+
+- [ ] [(75) Bayesian linear regression using the bayes prefix - YouTube](https://www.youtube.com/watch?v=L7GfMLl7EqM)
+
+- [ ] [(75) Bayesian linear regression using the bayes prefix: How to customize the MCMC chain - YouTube](https://www.youtube.com/watch?v=KStrHq2Nw6w)
+
+- [ ] [(75) Bayesian linear regression using the bayes prefix: How to specify custom priors - YouTube](https://www.youtube.com/watch?v=76K1Cznzz0Q)
+
+- [ ] [(75) Lecture 10. Linear Bayesian Regression - YouTube](https://www.youtube.com/watch?v=ihNJVuG4Qc0)
+
+- [ ] [(75) Lecture 12: Introduction to Bayesian Linear Regression and Model Selection - YouTube](https://www.youtube.com/watch?v=qtd-W82EJS0)
+
+- [ ] [(75) Lecture 24 - Bayesian Linear Regression (04/03/2017) - YouTube](https://www.youtube.com/watch?v=J2ZKuZuew6M)
+
+- [ ] [(75) Lecture 9. Introduction to Bayesian Linear Regression, Model Comparison and Selection - YouTube](https://www.youtube.com/watch?v=tPE6GWJByms)
+
+- [ ] [(76) 3D Plotting in Matplotlib for Python: 3D Scatter Plot - YouTube](https://www.youtube.com/watch?v=6ljHxJQ47Uk)
+
+- [ ] [(76) Brian Arthur: Complexity in Economic Theory - INET Panel (2/5) - YouTube](https://www.youtube.com/watch?v=W0dGLEreBrM)
+
+- [ ] [(76) Heat Maps and Interactive Plots in Python - YouTube](https://www.youtube.com/watch?v=d07MOXnNlyI)
+
+- [ ] [(76) TensorFlow Tutorial #19 Hyper-Parameter Optimization - YouTube](https://www.youtube.com/watch?v=oaxf3rk0KGM)
+
+- [ ] [(78) Bootstrap Hypothesis Testing in R with Example | R Video Tutorial 4.4 | MarinStatsLecutres - YouTube](https://www.youtube.com/watch?v=Zet-qmEEfCU)
+
+- [ ] [(78) Bootstrap Hypothesis Testing in R with Example | R Video Tutorial 4.4 | MarinStatsLecutres - YouTube](https://www.youtube.com/watch?v=Zet-qmEEfCU)
+
+- [ ] [(78) R Tutorial: Doing a Basic Bootstrap - YouTube](https://www.youtube.com/watch?v=E7q7Jnnwor0)
+
+- [ ] [(78) R Tutorial: Doing a Basic Bootstrap - YouTube](https://www.youtube.com/watch?v=E7q7Jnnwor0)
+
+- [ ] [Bargaining 101 (#30): Buying a Used Car and The Market for Lemons - YouTube](https://www.youtube.com/watch?v=G_6vmK8762c)
+
+- [ ] [Bayesian Hyperparameter Optimization - YouTube](https://www.youtube.com/watch?v=KhBB1J5JRzs)
+
+- [ ] [Bayesian Inference 1 - Zoubin Ghahramani - MLSS 2013 Tübingen - YouTube](https://www.youtube.com/watch?v=mgBrXnjF8R4)
+
+- [ ] [creating Pivot Tables in R - YouTube](https://www.youtube.com/watch?v=mnCo16Tm5IY)
+
+- [ ] [creating Pivot Tables in R - YouTube](https://www.youtube.com/watch?v=mnCo16Tm5IY)
+
+- [ ] [Daniel McFadden in Conversation with Michael Intriligator, UCLA - YouTube](https://www.youtube.com/watch?v=lERmLAww3vU)
+
+- [ ] [Harry Styles - Watermelon Sugar (Live on SNL) - YouTube](https://www.youtube.com/watch?v=Bkpw0QP4shQ)
+
+- [ ] [Heroes of Deep Learning: Andrew Ng interviews Yann LeCun - YouTube](https://www.youtube.com/watch?v=Svb1c6AkRzE)
+
+- [ ] [Hyperparameter Optimization - The Math of Intelligence #7 - YouTube](https://www.youtube.com/watch?v=ttE0F7fghfk)
+
+- [ ] [Lecture 25: Order Statistics and Conditional Expectation | Statistics 110 - YouTube](https://www.youtube.com/watch?v=2LR5JYbhyjg)
+
+- [ ] [Lie algebras and homotopy theory - Jacob Lurie - YouTube](https://www.youtube.com/watch?v=LeaiPHAh0X0)
+
+- [ ] [Machine Learning - YouTube](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+
+- [ ] [Prototype system for enhancing learning with GitHub - YouTube](https://www.youtube.com/watch?v=zgiaBS4uUk0)
+
+- [ ] [R Tutorial - How to plot multiple graphs in R - YouTube](https://www.youtube.com/watch?v=Z3V4Pbxeahg)
+
+- [ ] [R Tutorial - How to plot multiple graphs in R - YouTube](https://www.youtube.com/watch?v=Z3V4Pbxeahg)
+
+- [ ] [TAKE IT TO THE LIMITS: Milton Friedman on Libertarianism - YouTube](https://www.youtube.com/watch?v=JSumJxQ5oy4)
+
+- [ ] [TAKE IT TO THE LIMITS: Milton Friedman on Libertarianism - YouTube](https://www.youtube.com/watch?v=JSumJxQ5oy4)
+
+- [ ] [The Market for Lemons | Microeconomics - YouTube](https://www.youtube.com/watch?v=rsanB2_UGtc)
+
+- [ ] [The Most Interesting Take On Socrates? (Agnes Callard) - YouTube](https://www.youtube.com/watch?v=ThlE2OvdVng)
+
+- [ ] [YouTube](https://www.youtube.com/)

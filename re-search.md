@@ -4474,3 +4474,582 @@ https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
 - [ ] [scale_y_continuous breaks - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTdAe03FK0oV50YjjwgiSSwfbsUVg%3A1574562724940&lei=pOvZXc6LOYyLr7wPlZSqgA4&q=scale_y_continuous%20breaks&ved=2ahUKEwjxlfuu54HmAhUEE6YKHfBtCzcQsKwBKAV6BAgAEAY)
 
 - [ ] [The Long-Run Benefts of Punishment - Google Search](https://www.google.com/search?q=The%20Long-Run%20Benefts%20of%20Punishment)
+
+
+
+
+## 11/29/2019
+
+- [ ] ["Complexity of Simple Economics - Google Search](https://www.google.com/search?q=%22Complexity+of+Simple+Economics&oq=%22Complexity+of+Simple+Economics&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] ["Complexity of Simple Economics - Google Search](https://www.google.com/search?q=%22Complexity+of+Simple+Economics&oq=%22Complexity+of+Simple+Economics&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [“Signalling by underpricing in the IPO marke - Google Search](https://www.google.com/search?q=%E2%80%9CSignalling+by+underpricing+in+the+IPO+marke&oq=%E2%80%9CSignalling+by+underpricing+in+the+IPO+marke&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [“The Theory of Moral Hazard and Unobservable Behavior: Part I Mirrlees, James A - Google Search](https://www.google.com/search?q=%E2%80%9CThe+Theory+of+Moral+Hazard+and+Unobservable+Behavior%3A+Part+I+Mirrlees%2C+James+A&oq=%E2%80%9CThe+Theory+of+Moral+Hazard+and+Unobservable+Behavior%3A+Part+I++Mirrlees%2C+James+A&aqs=chrome..69i57.9032j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [“The Theory of Moral Hazard and Unobservable Behavior: Part I Mirrlees, James A - Google Search](https://www.google.com/search?q=%E2%80%9CThe+Theory+of+Moral+Hazard+and+Unobservable+Behavior%3A+Part+I+Mirrlees%2C+James+A&oq=%E2%80%9CThe+Theory+of+Moral+Hazard+and+Unobservable+Behavior%3A+Part+I++Mirrlees%2C+James+A&aqs=chrome..69i57.9032j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [2d heatmap python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSdD1j0DBMXOzP6-bONZoD4UcPCLg%3A1575035457058&lei=QSLhXd6NA4upoATrqYSYAg&q=2d%20heatmap%20python&ved=2ahUKEwik1ZCryI_mAhXBdXAKHQUSDzsQsKwBKAN6BAgAEAQ)
+
+- [ ] [4. Does the number of likes/dislikes have a direct relationship with the number of comments youtube r - Google Search](https://www.google.com/search?q=4.+Does+the+number+of+likes%2Fdislikes+have+a+direct+relationship+with+the+number+of+comments+youtube+r&oq=4.%09Does+the+number+of+likes%2Fdislikes+have+a+direct+relationship+with+the+number+of+comments+youtube+r&aqs=chrome..69i57j69i64l3.4154j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [A benchmark of kriging-based infill criteria for noisy optimization. - Google Search](https://www.google.com/search?q=A+benchmark+of+kriging-based+infill+criteria+for+noisy+optimization.&oq=A+benchmark+of+kriging-based+infill+criteria+for+noisy+optimization.&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [A Comparative Statics Analysis of Punishment in Public-Good Experiments - Google Search](https://www.google.com/search?q=A+Comparative+Statics+Analysis+of+Punishment+in+Public-Good+Experiments&oq=A+Comparative+Statics+Analysis+of+Punishment+in+Public-Good+Experiments&aqs=chrome..69i57j69i64l3.1018j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [A Comparative Statics Analysis of Punishment in Public-Good Experiments - Google Search](https://www.google.com/search?q=A+Comparative+Statics+Analysis+of+Punishment+in+Public-Good+Experiments&oq=A+Comparative+Statics+Analysis+of+Punishment+in+Public-Good+Experiments&aqs=chrome..69i57j69i64l3.1018j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [adverse selection and moral hazard - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTVK-WOlQB23qGUpR1P-XrYs0_fqA%3A1574686822347&lei=ZtDbXebRFPK3mAXZwpegDA&q=adverse%20selection%20and%20moral%20hazard&ved=2ahUKEwjx2JnPtYXmAhVdzIsBHYZAC10QsKwBKAV6BAgCEAY)
+
+- [ ] [aesthetics can not vary with a ribbon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=aesthetics%20can%20not%20vary%20with%20a%20ribbon&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAR6BAgDEAU)
+
+- [ ] [aesthetics can not vary with a ribbon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=aesthetics%20can%20not%20vary%20with%20a%20ribbon&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAF6BAgBEAI)
+
+- [ ] [aesthetics can not vary with a ribbon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=aesthetics%20can%20not%20vary%20with%20a%20ribbon&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAJ6BAgAEAM)
+
+- [ ] [aesthetics can not vary with a ribbon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=aesthetics%20can%20not%20vary%20with%20a%20ribbon&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAR6BAgDEAU)
+
+- [ ] [aesthetics can not vary with a ribbon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=aesthetics%20can%20not%20vary%20with%20a%20ribbon&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAF6BAgBEAI)
+
+- [ ] [aesthetics can not vary with a ribbon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=aesthetics%20can%20not%20vary%20with%20a%20ribbon&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAJ6BAgAEAM)
+
+- [ ] [Applied consumption analysis Louis Phlips - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbbaWEncN4diuJJWZ6TwO6RVwb0w:1574688349944&q=Applied+consumption+analysis+Louis+Phlips&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzTZMt8xV4tLP1Tcwyy4xzcvS4nHKz88OzkxJLU-sLF7EqulYUJCTmZqikJyfV1yaW1CSmZ-nkJiXmFNZnFms4JNfCiQDMnIyC4p3sDICANoqfJNZAAAA&sa=X&ved=2ahUKEwiDq-udu4XmAhV-x4sBHSO6CkQQxA0wdnoECGMQCA&biw=1920&bih=939)
+
+- [ ] [arima model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXKQvjDqGwqOj6lk43vKIJui8Vfg%3A1575037635287&lei=wyrhXbWREaP2hwOE1664AQ&q=arima%20model&ved=2ahUKEwi_0IO30I_mAhXBad4KHdaaAHoQsKwBKAV6BAgAEAY)
+
+- [ ] [arima model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQfhEOeGr7cBZ1BpoomTFD1chJmOw:1575037645718&q=arima+model&tbm=isch&source=univ&sa=X&ved=2ahUKEwjj44W70I_mAhWUfXAKHeSHBdwQiR56BAgGEBA)
+
+- [ ] [As we will see, marginal effects is a way of presenting results asdifferences in probabilities, which is more informative than oddsratios and relative risks6 - Google Search](https://www.google.com/search?q=As+we+will+see%2C+marginal+effects+is+a+way+of+presenting+results+asdifferences+in+probabilities%2C+which+is+more+informative+than+oddsratios+and+relative+risks6&oq=As+we+will+see%2C+marginal+effects+is+a+way+of+presenting+results+asdifferences+in+probabilities%2C+which+is+more+informative+than+oddsratios+and+relative+risks6&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8)
+
+- [ ] [As we will see, marginal effects is a way of presenting results asdifferences in probabilities, which is more informative than oddsratios and relative risks6 - Google Search](https://www.google.com/search?q=As+we+will+see%2C+marginal+effects+is+a+way+of+presenting+results+asdifferences+in+probabilities%2C+which+is+more+informative+than+oddsratios+and+relative+risks6&oq=As+we+will+see%2C+marginal+effects+is+a+way+of+presenting+results+asdifferences+in+probabilities%2C+which+is+more+informative+than+oddsratios+and+relative+risks6&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8)
+
+- [ ] [auctions winners curse - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQkiDQgs-8wTcy9sUK4gqlnzmNSWw%3A1574686511586&lei=L8_bXdmgI5CB0wTzzoCIDg&q=auctions%20winners%20curse&ved=2ahUKEwjS8fqxtIXmAhWENKYKHfZJBX8QsKwBKAV6BAgAEAY)
+
+- [ ] [average partial effect - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g%3A1574579636952&lei=tC3aXdTaOaiRr7wP-q-QwAw&q=average%20partial%20effect&ved=2ahUKEwiloLmgpoLmAhURqpQKHa06BtoQsKwBKAF6BAgCEAI)
+
+- [ ] [average partial effect - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g%3A1574579636952&lei=tC3aXdTaOaiRr7wP-q-QwAw&q=average%20partial%20effect&ved=2ahUKEwiloLmgpoLmAhURqpQKHa06BtoQsKwBKAF6BAgCEAI)
+
+- [ ] [backtesting var in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaVM0LSJNcsKBTmAQlLsPHRCb1Lg:1574901094736&q=backtesting+var+in+r&sa=X&ved=2ahUKEwifkrvi04vmAhWHyosBHT-BC6gQ1QIoAnoECGYQAw)
+
+- [ ] [Bayesian decision tree - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q:1574781411460&q=Bayesian+decision+tree&stick=H4sIAAAAAAAAAFWOsQrCMBRFrUZxFIcighJcBJd00CWT-AXOLhLTV42mLyUJ2P5N6Gc6mQwObo977j286Xa-YK1krGbF_nkteDrKwwuPgJvVj6SAlyCVUwaptwAR79Y1eMFZ2wgEHasGJTSeO1XCW3TusryJDpwSSLVCEJZauFtwydFns-S2UEVSA3pWfLL8DKbRQIV2hro4kA9aGRvIIJBhIKNAskAm_Tg__bx_L30BkPkVP8sAAAA&sa=X&ved=2ahUKEwjv0IP1lYjmAhVNE6YKHZmJB90QxA0wgQF6BAhjEAg)
+
+- [ ] [bayesian hyperparameter optimization pytorch - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNROEbhTj3DL5diOMNfnXe_Mo2suww%3A1575037938224&lei=8ivhXYOhDcOJmAWOvJzACQ&q=bayesian%20hyperparameter%20optimization%20pytorch&ved=2ahUKEwibqejK0Y_mAhVkIqYKHZDODeEQsKwBKAV6BAgBEAY)
+
+- [ ] [bayesian linear regression flat prior - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q%3A1574781411460&lei=40HdXa_TG82mmAWZk57oDQ&q=bayesian%20linear%20regression%20flat%20prior&ved=2ahUKEwjHu6eClojmAhVCCqYKHa5TAxkQsKwBKAJ6BAgDEAM)
+
+- [ ] [Bayesian logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q:1574781411460&q=Bayesian+logistic+regression&stick=H4sIAAAAAAAAAE2MsQrCMBRFrUZxFAdREQkugktaUIdO4hc4u0hMX9tompS8gO3fhH6mk-2guF0495zxdjpnlWCsYOH-cQvjbiSHpz6B3iy-JMqjY_SPdusCHI9ZVXINqr0ZLaB0McoEXrzG6_LOa0DJNVVSA7fUQmYBURrdBJOuayFtSQHasfAdzC5gSgWUKzQUW0HkNDXWk54nfU8GngSejJrh6vzrmkyik-Kv_AHnMJGKzQAAAA&sa=X&ved=2ahUKEwjv0IP1lYjmAhVNE6YKHZmJB90QxA0wgQF6BAhjEAQ)
+
+- [ ] [Bayesian neural network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q:1574781411460&q=Bayesian+neural+network&stick=H4sIAAAAAAAAAE2MsQ6CMBRFRatxNA5qHEzjYuJSBlmYjF_g7GKe8JBKeSVtDfA3DZ_pJA4ap3uTc--Z7uYr0SRClCI8PK5h_ClpVNARafsjUZrX_2S_KdFBLJoKCFW_0pRg5WIrU6yhtZf1DVq0EogrSQiGG7wbtFZq6oLZR2sw60mJ5ET4ChZn1JVCDspqbvtDkvNMG88Gng09G3kWeDbpxsvT10v4NKD6cLU2xRuYgAXKxwAAAA&sa=X&ved=2ahUKEwjv0IP1lYjmAhVNE6YKHZmJB90QxA0wgQF6BAhjEAo&biw=1920&bih=948)
+
+- [ ] [Bayesian neural network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q:1574781411460&q=Bayesian+neural+network&stick=H4sIAAAAAAAAAE2MsQ6CMBRFRatxNA5qHEzjYuJSBlmYjF_g7GKe8JBKeSVtDfA3DZ_pJA4ap3uTc--Z7uYr0SRClCI8PK5h_ClpVNARafsjUZrX_2S_KdFBLJoKCFW_0pRg5WIrU6yhtZf1DVq0EogrSQiGG7wbtFZq6oLZR2sw60mJ5ET4ChZn1JVCDspqbvtDkvNMG88Gng09G3kWeDbpxsvT10v4NKD6cLU2xRuYgAXKxwAAAA&sa=X&ved=2ahUKEwjv0IP1lYjmAhVNE6YKHZmJB90QxA0wgQF6BAhjEAo)
+
+- [ ] [Bayesian nonlinear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q:1574781411460&q=Bayesian+nonlinear+regression&stick=H4sIAAAAAAAAAGWMsQrCMBRFrUZxFAdRQQkugktasEsn8QucXSRtXzWavpS8gu3fhH6mk-2gCG4Xzj1nvJ3ORZUIkQt_f7_4UTfS8IEHwM3iS4IwyH7Rbp1DKSNRFRJBtzeDCRRlRCqFp6zpvIxlDaQkcq0QpOUWrhaIlMHGm3RdC1lLcsBS-C9vdgJTaOBSk-HUCsmNZ8Y61nOs79jAMc-xUTNcHT9dNPiXfgO42Z71zgAAAA&sa=X&ved=2ahUKEwjv0IP1lYjmAhVNE6YKHZmJB90QxA0wgQF6BAhjEAY)
+
+- [ ] [bayesian optimization class - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuyrallOfvuEIYhXNalmOjT0q8JA%3A1575037917385&lei=3SvhXa2RF7XpmAXDwZqgBg&q=bayesian%20optimization%20class&ved=2ahUKEwil1dO90Y_mAhWuGKYKHTbwA4wQsKwBKAB6BAgAEAE)
+
+- [ ] [bayesian optimization matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuyrallOfvuEIYhXNalmOjT0q8JA%3A1575037917385&lei=3SvhXa2RF7XpmAXDwZqgBg&q=bayesian%20optimization%20matlab&ved=2ahUKEwil1dO90Y_mAhWuGKYKHTbwA4wQsKwBKAJ6BAgAEAM)
+
+- [ ] [bayesian optimization review - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuyrallOfvuEIYhXNalmOjT0q8JA%3A1575037917385&lei=3SvhXa2RF7XpmAXDwZqgBg&q=bayesian%20optimization%20review&ved=2ahUKEwil1dO90Y_mAhWuGKYKHTbwA4wQsKwBKAN6BAgAEAQ)
+
+- [ ] [bayesian optimization vs gradient descent - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuyrallOfvuEIYhXNalmOjT0q8JA%3A1575037917385&lei=3SvhXa2RF7XpmAXDwZqgBg&q=bayesian%20optimization%20vs%20gradient%20descent&ved=2ahUKEwil1dO90Y_mAhWuGKYKHTbwA4wQsKwBKAV6BAgAEAY)
+
+- [ ] [bayesian regression unknown variance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q%3A1574781411460&lei=40HdXa_TG82mmAWZk57oDQ&q=bayesian%20regression%20unknown%20variance&ved=2ahUKEwjHu6eClojmAhVCCqYKHa5TAxkQsKwBKAN6BAgDEAQ)
+
+- [ ] [Bayesian reinforcement learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q:1574781411460&q=Bayesian+reinforcement+learning&stick=H4sIAAAAAAAAAD2MsQ6CMBRFRatxNA7GOGjDYuJSBl2YjF_g7GJqeUCxvJKWBPibhs90spDodnPPvWd5XG9ZKxgrWXQunlE8hOTyxitg-CdDMZK8UI0np30JNY9ZW3EE5VcaBVR1bGUCDe_sY_fiHVjJkSqJwA01kBmwVmrsg9WgNZB6UgLWLPoEmzvoSgHlympq_UHkNNXGkYkjU0dmjgSOLPr54fbzGpDoF2JUUOUvKDH7AmRnxzbPAAAA&sa=X&ved=2ahUKEwjv0IP1lYjmAhVNE6YKHZmJB90QxA0wgQF6BAhjEAw)
+
+- [ ] [bayesian ridge regression pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q%3A1574781411460&lei=40HdXa_TG82mmAWZk57oDQ&q=bayesian%20ridge%20regression%20pdf&ved=2ahUKEwjHu6eClojmAhVCCqYKHa5TAxkQsKwBKAF6BAgDEAI)
+
+- [ ] [berkowitz test - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyMa7LPCU4lg9d6A3C88RPfgVbRA%3A1574900243892&lei=ExLfXYf1NfSTr7wPzaWiSA&q=berkowitz%20test&ved=2ahUKEwjC0aPO0IvmAhW-yYsBHY1VBhoQsKwBKAJ6BAgBEAM)
+
+- [ ] [biases in AI systems - Google Search](https://www.google.com/search?q=biases+in+AI+systems&oq=biases+in+AI+systems&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [box cox transformation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXKQvjDqGwqOj6lk43vKIJui8Vfg%3A1575037635287&lei=wyrhXbWREaP2hwOE1664AQ&q=box%20cox%20transformation&ved=2ahUKEwi_0IO30I_mAhXBad4KHdaaAHoQsKwBKAR6BAgAEAU)
+
+- [ ] [Caroline Sinders - Google Search](https://www.google.com/search?q=Caroline+Sinders&oq=Caroline+Sinders&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [change color of confidence interval ggplot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=change%20color%20of%20confidence%20interval%20ggplot&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAV6BAgBEAY)
+
+- [ ] [change color of confidence interval ggplot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=change%20color%20of%20confidence%20interval%20ggplot&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAV6BAgBEAY)
+
+- [ ] [Chaotic Economic Dynamics - Google Search](https://www.google.com/search?q=Chaotic+Economic+Dynamics&oq=Chaotic+Economic+Dynamics&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Chaotic Economic Dynamics - Google Search](https://www.google.com/search?q=Chaotic+Economic+Dynamics&oq=Chaotic+Economic+Dynamics&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Christina Seyfried, Ph.D - Google Search](https://www.google.com/search?q=Christina+Seyfried%2C+Ph.D&oq=Christina+Seyfried%2C+Ph.D&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Christof-fersen var - Google Search](https://www.google.com/search?q=Christof-fersen+var&oq=Christof-fersen+var&aqs=chrome..69i57j0l2j46j0l4.4518j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [christoffersen (1998) - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyMa7LPCU4lg9d6A3C88RPfgVbRA%3A1574900243892&lei=ExLfXYf1NfSTr7wPzaWiSA&q=christoffersen%20(1998)&ved=2ahUKEwjC0aPO0IvmAhW-yYsBHY1VBhoQsKwBKAF6BAgBEAI)
+
+- [ ] [christoffersen test in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBq8KtcOfz2LI-5A7HxcOwwNgUHg:1574900252676&q=christoffersen+test+in+r&sa=X&ved=2ahUKEwiB_ffQ0IvmAhXKxIsBHb2_CmkQ1QIoAnoECGAQAw&biw=1920&bih=948)
+
+- [ ] [christoffersen test in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBq8KtcOfz2LI-5A7HxcOwwNgUHg:1574900252676&q=christoffersen+test+in+r&sa=X&ved=2ahUKEwiB_ffQ0IvmAhXKxIsBHb2_CmkQ1QIoAnoECGAQAw)
+
+- [ ] [christoffersen test in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyMa7LPCU4lg9d6A3C88RPfgVbRA%3A1574900243892&lei=ExLfXYf1NfSTr7wPzaWiSA&q=christoffersen%20test%20in%20r&ved=2ahUKEwjC0aPO0IvmAhW-yYsBHY1VBhoQsKwBKAB6BAgBEAE)
+
+- [ ] [christoffersen test matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBq8KtcOfz2LI-5A7HxcOwwNgUHg:1574900252676&q=christoffersen+test+matlab&sa=X&ved=2ahUKEwiB_ffQ0IvmAhXKxIsBHb2_CmkQ1QIoAXoECGAQAg)
+
+- [ ] [color area under line ggplot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=color%20area%20under%20line%20ggplot&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAV6BAgAEAY)
+
+- [ ] [color area under line ggplot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=color%20area%20under%20line%20ggplot&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAV6BAgAEAY)
+
+- [ ] [colour geom_area - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=colour+geom_area&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoBXoECGUQBg)
+
+- [ ] [colour geom_area - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=colour+geom_area&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoBXoECGUQBg)
+
+- [ ] [complex economic concepts - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=complex+economic+concepts&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoA3oECGcQBA)
+
+- [ ] [complex economic concepts - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=complex+economic+concepts&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoA3oECGcQBA)
+
+- [ ] [complex economy definition - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=complex+economy+definition&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoAXoECGcQAg)
+
+- [ ] [complex economy definition - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=complex+economy+definition&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoAXoECGcQAg)
+
+- [ ] [complexity economics course - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=complexity+economics+course&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoAnoECGcQAw)
+
+- [ ] [complexity economics course - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=complexity+economics+course&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoAnoECGcQAw)
+
+- [ ] [complexity economics the economist - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=complexity+economics+the+economist&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoBXoECGcQBg)
+
+- [ ] [complexity economics the economist - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=complexity+economics+the+economist&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoBXoECGcQBg)
+
+- [ ] [complexity science - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=complexity+science&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoBnoECGcQBw)
+
+- [ ] [complexity science - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=complexity+science&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoBnoECGcQBw)
+
+- [ ] [Computational Complexity Economic Behavior - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=Computational+Complexity+Economic+Behavior&stick=H4sIAAAAAAAAAOOQMZJKzs8tyEmtyCypVEhNzs_Lz81MLlZIys_PLo7ScgbKlZYklmTm5yXmKDgjVLpCVSo4pWYklmXmF51i5NVP1zc0TDIzyCm3yE4_xciln6tvYGqYlm5UBuVUJcWnmxmdYuQBqTQyyTLIMcotgXGTKs2TyizSYOYkF1WllxtZ5sGl8yqyDLKzoSYZlWdkWRZCOWYZ6cbZJnCFucYmptmGvxilnLF5zAnksUWsJPgMAAv1uXckAQAA&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQzTooADBqegQIZRAC)
+
+- [ ] [Computational Complexity Economic Behavior - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRs2z-i7vanjgRdfJFLY_rtKaZQdw%3A1574587585023&ei=wUzaXex04qyYBczTvsAF&q=Computational+Complexity++Economic+Behavior)
+
+- [ ] [Computational Complexity Economic Behavior - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=Computational+Complexity+Economic+Behavior&stick=H4sIAAAAAAAAAOOQMZJKzs8tyEmtyCypVEhNzs_Lz81MLlZIys_PLo7ScgbKlZYklmTm5yXmKDgjVLpCVSo4pWYklmXmF51i5NVP1zc0TDIzyCm3yE4_xciln6tvYGqYlm5UBuVUJcWnmxmdYuQBqTQyyTLIMcotgXGTKs2TyizSYOYkF1WllxtZ5sGl8yqyDLKzoSYZlWdkWRZCOWYZ6cbZJnCFucYmptmGvxilnLF5zAnksUWsJPgMAAv1uXckAQAA&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQzTooADBqegQIZRAC)
+
+- [ ] [Computational Complexity Economic Behavior - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRs2z-i7vanjgRdfJFLY_rtKaZQdw%3A1574587585023&ei=wUzaXex04qyYBczTvsAF&q=Computational+Complexity++Economic+Behavior)
+
+- [ ] [conjugate prior for logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q%3A1574781411460&lei=40HdXa_TG82mmAWZk57oDQ&q=conjugate%20prior%20for%20logistic%20regression&ved=2ahUKEwjHu6eClojmAhVCCqYKHa5TAxkQsKwBKAR6BAgDEAU)
+
+- [ ] [Consumption books - Google Search](https://www.google.com/search?newwindow=1&sa=X&biw=1920&bih=939&sxsrf=ACYBGNTM0OYGmtpHNv13I7vdIuvXWxZ3Nw:1574688361678&q=Consumption+books&stick=H4sIAAAAAAAAAONgFuLSz9U3MMsuMc3LUkJia4llJ1vpJ-XnZ4MJq-LMlNTyxMriVYySaVbFpUlZqcklViCZYiuQJqMi09ycRayCzvl5xaW5BSWZ-XkKYFkAx6RifmIAAAA&ved=2ahUKEwi9rreju4XmAhWty4sBHQrwD78QzTooADBuegQIZhAC)
+
+- [ ] [Covenants with and without a Sword: SelfGovernance Is Possible - Google Search](https://www.google.com/search?q=Covenants+with+and+without+a+Sword%3A+SelfGovernance+Is+Possible&oq=Covenants+with+and+without+a+Sword%3A+SelfGovernance+Is+Possible&aqs=chrome..69i57.877j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Covenants with and without a Sword: SelfGovernance Is Possible - Google Search](https://www.google.com/search?q=Covenants+with+and+without+a+Sword%3A+SelfGovernance+Is+Possible&oq=Covenants+with+and+without+a+Sword%3A+SelfGovernance+Is+Possible&aqs=chrome..69i57.877j0j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Cycles and Chaos in Economic Equilibrium - Google Search](https://www.google.com/search?q=Cycles+and+Chaos+in+Economic+Equilibrium&oq=Cycles+and+Chaos+in+Economic+Equilibrium&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Cycles and Chaos in Economic Equilibrium - Google Search](https://www.google.com/search?q=Cycles+and+Chaos+in+Economic+Equilibrium&oq=Cycles+and+Chaos+in+Economic+Equilibrium&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Daniel McFadden - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQndqgpH8bdqmtZE8zYDgsp_Uluhw:1574586524232&q=Daniel+McFadden&stick=H4sIAAAAAAAAAONgFuLQz9U3KCjMNVSCs7SkspOt9AtS8wtyUoFUUXF-nlVxZkpqeWJl8SJWfpfEvMzUHAXfZLfElJTUvB2sjAC_05LYRwAAAA&sa=X&ved=2ahUKEwjEqsfzv4LmAhUJx4sBHUkKCOYQzTooATB8egQIZRAC)
+
+- [ ] [Daniel McFadden - Google Search](https://www.google.com/search?q=Daniel+McFadden&oq=Daniel+McFadden&aqs=chrome..69i57j69i61l6&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Daniel McFadden - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQndqgpH8bdqmtZE8zYDgsp_Uluhw:1574586524232&q=Daniel+McFadden&stick=H4sIAAAAAAAAAONgFuLQz9U3KCjMNVSCs7SkspOt9AtS8wtyUoFUUXF-nlVxZkpqeWJl8SJWfpfEvMzUHAXfZLfElJTUvB2sjAC_05LYRwAAAA&sa=X&ved=2ahUKEwjEqsfzv4LmAhUJx4sBHUkKCOYQzTooATB8egQIZRAC)
+
+- [ ] [Daniel McFadden - Google Search](https://www.google.com/search?q=Daniel+McFadden&oq=Daniel+McFadden&aqs=chrome..69i57j69i61l6&sourceid=chrome&ie=UTF-8)
+
+- [ ] [difference between simple and complex economic system - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=difference+between+simple+and+complex+economic+system&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoB3oECGcQCA)
+
+- [ ] [difference between simple and complex economic system - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSLiWgZ7QpnVJ0VfJBXUBQ-jhJ94Q:1574587603332&q=difference+between+simple+and+complex+economic+system&sa=X&ved=2ahUKEwj4oY72w4LmAhUiyYsBHZmKBzIQ1QIoB3oECGcQCA)
+
+- [ ] [dirty clean backtesting - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyMa7LPCU4lg9d6A3C88RPfgVbRA%3A1574900243892&lei=ExLfXYf1NfSTr7wPzaWiSA&q=dirty%20clean%20backtesting&ved=2ahUKEwjC0aPO0IvmAhW-yYsBHY1VBhoQsKwBKAR6BAgBEAU)
+
+- [ ] [Dixon, L. C. W., & Szego, G. P. (1978 - Google Search](https://www.google.com/search?q=Dixon%2C+L.+C.+W.%2C+%26+Szego%2C+G.+P.+(1978&oq=Dixon%2C+L.+C.+W.%2C+%26+Szego%2C+G.+P.+(1978&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [does function apear to be stationary - Google Search](https://www.google.com/search?q=does+function+apear+to+be+stationary&oq=does+function+apear+to+be+stationary&aqs=chrome..69i57j69i64l2.16039j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [dplyr iterate over groups - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=dplyr%20iterate%20over%20groups&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAV6BAgAEAY)
+
+- [ ] [dplyr iterate over groups - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=dplyr%20iterate%20over%20groups&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAV6BAgAEAY)
+
+- [ ] [dplyr multiple models - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=dplyr%20multiple%20models&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAR6BAgAEAU)
+
+- [ ] [dplyr multiple models - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=dplyr%20multiple%20models&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAR6BAgAEAU)
+
+- [ ] [dplyr mutate lm - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=dplyr%20mutate%20lm&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAB6BAgAEAE)
+
+- [ ] [dplyr mutate lm - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=dplyr%20mutate%20lm&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAB6BAgAEAE)
+
+- [ ] [Economic Approaches to Organizations - Google Search](https://www.google.com/search?q=Economic+Approaches+to+Organizations&oq=Economic+Approaches+to+Organizations&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Economic Approaches to Organizations - Google Search](https://www.google.com/search?q=Economic+Approaches+to+Organizations&oq=Economic+Approaches+to+Organizations&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Engineering design via surrogate modelling: a practical guide - Google Search](https://www.google.com/search?q=Engineering+design+via+surrogate+modelling%3A+a+practical+guide&oq=Engineering+design+via+surrogate+modelling%3A+a+practical+guide&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Exploring Complexity in Economic Theory - Google Search](https://www.google.com/search?q=Exploring+Complexity+in+Economic+Theory&oq=Exploring+Complexity+in+Economic+Theory&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Exploring Complexity in Economic Theory - Google Search](https://www.google.com/search?q=Exploring+Complexity+in+Economic+Theory&oq=Exploring+Complexity+in+Economic+Theory&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [fully bayesian linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q%3A1574781411460&lei=40HdXa_TG82mmAWZk57oDQ&q=fully%20bayesian%20linear%20regression&ved=2ahUKEwjHu6eClojmAhVCCqYKHa5TAxkQsKwBKAJ6BAgGEAM)
+
+- [ ] [fully bayesian linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q%3A1574781411460&lei=40HdXa_TG82mmAWZk57oDQ&q=fully%20bayesian%20linear%20regression&ved=2ahUKEwjHu6eClojmAhVCCqYKHa5TAxkQsKwBKAB6BAgDEAE)
+
+- [ ] [gas package r - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNSK92fFatJb8pTxDGKMjBRGflWjrg:1574900396525&q=gas+package+r&sa=X&ved=2ahUKEwjD5MOV0YvmAhW5w4sBHYYnAT0Q1QIoAnoECGMQAw)
+
+- [ ] [gaussian process hyperparameter optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuyrallOfvuEIYhXNalmOjT0q8JA%3A1575037917385&lei=3SvhXa2RF7XpmAXDwZqgBg&q=gaussian%20process%20hyperparameter%20optimization&ved=2ahUKEwil1dO90Y_mAhWuGKYKHTbwA4wQsKwBKAR6BAgAEAU)
+
+- [ ] [geom area change color - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=geom%20area%20change%20color&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAV6BAgDEAY)
+
+- [ ] [geom area change color - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=geom%20area%20change%20color&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAV6BAgDEAY)
+
+- [ ] [geom_area order - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLvh7L0w_Ws7uxlB4Qur8YNoSsyQ:1574571733167&q=geom_area+order&sa=X&ved=2ahUKEwjYodDmiILmAhXMLqYKHdu_DA4Q1QIoBXoECGUQBg)
+
+- [ ] [geom_area order - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=geom_area%20order&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAR6BAgAEAU)
+
+- [ ] [geom_area order - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLvh7L0w_Ws7uxlB4Qur8YNoSsyQ:1574571733167&q=geom_area+order&sa=X&ved=2ahUKEwjYodDmiILmAhXMLqYKHdu_DA4Q1QIoBXoECGUQBg)
+
+- [ ] [geom_area order - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=geom_area%20order&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAR6BAgAEAU)
+
+- [ ] [geom_area overlap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=geom_area%20overlap&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAF6BAgAEAI)
+
+- [ ] [geom_area overlap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=geom_area%20overlap&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAF6BAgAEAI)
+
+- [ ] [geom_area stacked - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=geom_area+stacked&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoAHoECGIQAQ)
+
+- [ ] [geom_area stacked - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=geom_area+stacked&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoAHoECGIQAQ)
+
+- [ ] [geom_area transparent - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTLvh7L0w_Ws7uxlB4Qur8YNoSsyQ:1574571733167&q=geom_area+transparent&tbm=isch&source=univ&ved=2ahUKEwjYodDmiILmAhXMLqYKHdu_DA4QsAR6BAgNEAE)
+
+- [ ] [geom_area transparent - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=geom_area+transparent&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoAXoECGUQAg)
+
+- [ ] [geom_area transparent - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ACYBGNTLvh7L0w_Ws7uxlB4Qur8YNoSsyQ:1574571733167&q=geom_area+transparent&tbm=isch&source=univ&ved=2ahUKEwjYodDmiILmAhXMLqYKHdu_DA4QsAR6BAgNEAE)
+
+- [ ] [geom_area transparent - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=geom_area+transparent&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoAXoECGUQAg)
+
+- [ ] [geom_area() ggplot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=geom_area()%20ggplot&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAJ6BAgDEAM)
+
+- [ ] [geom_area() ggplot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=geom_area()%20ggplot&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAJ6BAgDEAM)
+
+- [ ] [geom_area() ggplot percentage share - Google Search](https://www.google.com/search?q=geom_area()+ggplot+percentage+share&newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ_AUoAXoECGYQAw&biw=1920&bih=948#imgrc=Hzxefx3LEQ9MhM)
+
+- [ ] [geom_area() ggplot percentage share - Google Search](https://www.google.com/search?q=geom_area()+ggplot+percentage+share&newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ_AUoAXoECGYQAw&biw=1920&bih=948#imgrc=Hzxefx3LEQ9MhM)
+
+- [ ] [geom_dumbbell - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=geom_dumbbell&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAF6BAgFEAI)
+
+- [ ] [geom_dumbbell - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=geom_dumbbell&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAF6BAgFEAI)
+
+- [ ] [geom_rect alpha - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=geom_rect%20alpha&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAN6BAgBEAQ)
+
+- [ ] [geom_rect alpha - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=geom_rect%20alpha&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAN6BAgBEAQ)
+
+- [ ] [geom_ribbon legend - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=geom_ribbon+legend&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoBHoECGIQBQ)
+
+- [ ] [geom_ribbon legend - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=geom_ribbon+legend&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoBHoECGIQBQ)
+
+- [ ] [geom_ribbon not showing - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLvh7L0w_Ws7uxlB4Qur8YNoSsyQ:1574571733167&q=geom_ribbon+not+showing&sa=X&ved=2ahUKEwjYodDmiILmAhXMLqYKHdu_DA4Q1QIoAXoECGUQAg)
+
+- [ ] [geom_ribbon not showing - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLvh7L0w_Ws7uxlB4Qur8YNoSsyQ:1574571733167&q=geom_ribbon+not+showing&sa=X&ved=2ahUKEwjYodDmiILmAhXMLqYKHdu_DA4Q1QIoAXoECGUQAg)
+
+- [ ] [geom_ribbon remove border - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=geom_ribbon%20remove%20border&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAJ6BAgBEAM)
+
+- [ ] [geom_ribbon remove border - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=geom_ribbon%20remove%20border&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAJ6BAgBEAM)
+
+- [ ] [geom_ribbon xmin xmax - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=geom_ribbon%20xmin%20xmax&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAB6BAgBEAE)
+
+- [ ] [geom_ribbon xmin xmax - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=geom_ribbon%20xmin%20xmax&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAB6BAgBEAE)
+
+- [ ] [geom_treemap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=geom_treemap&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAN6BAgFEAQ)
+
+- [ ] [geom_treemap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=geom_treemap&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAN6BAgFEAQ)
+
+- [ ] [ggplot add mean line by group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=ggplot+add+mean+line+by+group&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoBnoECGIQBw)
+
+- [ ] [ggplot add mean line by group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=ggplot+add+mean+line+by+group&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoBnoECGIQBw)
+
+- [ ] [ggplot cumsum - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=ggplot%20cumsum&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAN6BAgDEAQ)
+
+- [ ] [ggplot cumsum - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=ggplot%20cumsum&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAN6BAgDEAQ)
+
+- [ ] [ggplot fill area under line - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLvh7L0w_Ws7uxlB4Qur8YNoSsyQ:1574571733167&q=ggplot+fill+area+under+line&sa=X&ved=2ahUKEwjYodDmiILmAhXMLqYKHdu_DA4Q1QIoAHoECGUQAQ)
+
+- [ ] [ggplot fill area under line - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=ggplot+fill+area+under+line&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoAXoECGIQAg)
+
+- [ ] [ggplot fill area under line - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=ggplot+fill+area+under+line&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoAnoECGUQAw)
+
+- [ ] [ggplot fill area under line - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLvh7L0w_Ws7uxlB4Qur8YNoSsyQ:1574571733167&q=ggplot+fill+area+under+line&sa=X&ved=2ahUKEwjYodDmiILmAhXMLqYKHdu_DA4Q1QIoAHoECGUQAQ)
+
+- [ ] [ggplot fill area under line - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=ggplot+fill+area+under+line&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoAXoECGIQAg)
+
+- [ ] [ggplot fill area under line - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=ggplot+fill+area+under+line&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoAnoECGUQAw)
+
+- [ ] [ggplot ribbon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=ggplot+ribbon&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoBXoECGIQBg)
+
+- [ ] [ggplot ribbon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=ggplot+ribbon&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoBXoECGIQBg)
+
+- [ ] [ggplot shade area - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=ggplot+shade+area&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoBHoECGUQBQ)
+
+- [ ] [ggplot shade area - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLvh7L0w_Ws7uxlB4Qur8YNoSsyQ:1574571733167&q=ggplot+shade+area&sa=X&ved=2ahUKEwjYodDmiILmAhXMLqYKHdu_DA4Q1QIoBnoECGUQBw)
+
+- [ ] [ggplot shade area - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=ggplot+shade+area&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoA3oECGIQBA)
+
+- [ ] [ggplot shade area - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=ggplot+shade+area&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoBHoECGUQBQ)
+
+- [ ] [ggplot shade area - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTLvh7L0w_Ws7uxlB4Qur8YNoSsyQ:1574571733167&q=ggplot+shade+area&sa=X&ved=2ahUKEwjYodDmiILmAhXMLqYKHdu_DA4Q1QIoBnoECGUQBw)
+
+- [ ] [ggplot shade area - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=ggplot+shade+area&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoA3oECGIQBA)
+
+- [ ] [ggplot share geom_area - Google Search](https://www.google.com/search?q=ggplot+share+geom_area&oq=ggplot+share+geom_area&aqs=chrome..69i57.13978j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [ggplot share geom_area - Google Search](https://www.google.com/search?q=ggplot+share+geom_area&oq=ggplot+share+geom_area&aqs=chrome..69i57.13978j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [ggplot stacked bar plot multiple variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=ggplot+stacked+bar+plot+multiple+variables&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoA3oECGUQBA)
+
+- [ ] [ggplot stacked bar plot multiple variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=ggplot+stacked+bar+plot+multiple+variables&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoA3oECGUQBA)
+
+- [ ] [ggplot stacked line graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=ggplot+stacked+line+graph&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoBnoECGUQBw)
+
+- [ ] [ggplot stacked line graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTIAC_cKUlYbtjwGlikk_IHshN8TA:1574572374420&q=ggplot+stacked+line+graph&sa=X&ved=2ahUKEwjEo7OYi4LmAhXmFqYKHb1ODzEQ1QIoBnoECGUQBw)
+
+- [ ] [ggplot2 examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=ggplot2+examples&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoB3oECGIQCA)
+
+- [ ] [ggplot2 examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA:1574571701399&q=ggplot2+examples&sa=X&ved=2ahUKEwiPnL3XiILmAhXHw4sBHYQDAt8Q1QIoB3oECGIQCA)
+
+- [ ] [ggplot2 ribbon fill color - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=ggplot2%20ribbon%20fill%20color&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAR6BAgBEAU)
+
+- [ ] [ggplot2 ribbon fill color - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=ggplot2%20ribbon%20fill%20color&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAR6BAgBEAU)
+
+- [ ] [ggplot2 shade area under density curve - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=ggplot2%20shade%20area%20under%20density%20curve&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAN6BAgAEAQ)
+
+- [ ] [ggplot2 shade area under density curve - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=ggplot2%20shade%20area%20under%20density%20curve&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAN6BAgAEAQ)
+
+- [ ] [glm by group r - Google Search](https://www.google.com/search?q=glm+by+group+r&oq=glm+by+group+r&aqs=chrome..69i57j0l6j69i60.7858j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [glm by group r - Google Search](https://www.google.com/search?q=glm+by+group+r&oq=glm+by+group+r&aqs=chrome..69i57j0l6j69i60.7858j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [global optimization calculus - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQkBYTav_ktGFmX9ZaqohXoaCL24w:1575032799791&q=global+optimization+calculus&sa=X&ved=2ahUKEwji2am0vo_mAhXkG6YKHZmoAv0Q1QIoBHoECGYQBQ)
+
+- [ ] [global optimization machine learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQkBYTav_ktGFmX9ZaqohXoaCL24w:1575032799791&q=global+optimization+machine+learning&sa=X&ved=2ahUKEwji2am0vo_mAhXkG6YKHZmoAv0Q1QIoAXoECGYQAg)
+
+- [ ] [heat map python - Google Search](https://www.google.com/search?q=heat+map+python&oq=heat+map+python&aqs=chrome..69i57j0l7.3902j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [heat map python - Google Search](https://www.google.com/search?q=heat+map+python&newwindow=1&sxsrf=ACYBGNTSAO31f0b6FZ_meKQGz42Qprfr0A:1575034885916&tbm=isch&sa=X&ved=2ahUKEwix2IiXxo_mAhUV7WEKHbSQBzgQ7AkoAXoECGoQDQ)
+
+- [ ] [heatmap python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTSAO31f0b6FZ_meKQGz42Qprfr0A:1575034885916&q=heatmap+python&stick=H4sIAAAAAAAAAHWNuwrCQBBFjU40PlCxEGxksRFs1oAipvITrG1kiRMS2BfZBRO_ZshnWmkqK7sD93BPtF2seJVyrvj--IrvSQvnWh5OF9Sb_9NurdCLhFdWaJRfzegUrU9c8cCnqN1tlqPwTAnLbO1zo5tg3p6VmBUaFWrP43ewvKKxEpmQzjCHokxzlpmSoEMQEgBBQNAliAj6BBOCAcGYYEgwIug14bSN_BofZ2P0ec0AAAA)
+
+- [ ] [how to avoid winner's curse - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQkiDQgs-8wTcy9sUK4gqlnzmNSWw%3A1574686511586&lei=L8_bXdmgI5CB0wTzzoCIDg&q=how%20to%20avoid%20winner%27s%20curse&ved=2ahUKEwjS8fqxtIXmAhWENKYKHfZJBX8QsKwBKAB6BAgAEAE)
+
+- [ ] [how to calculate marginal effects in excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g%3A1574579636952&lei=tC3aXdTaOaiRr7wP-q-QwAw&q=how%20to%20calculate%20marginal%20effects%20in%20excel&ved=2ahUKEwiloLmgpoLmAhURqpQKHa06BtoQsKwBKAV6BAgCEAY)
+
+- [ ] [how to calculate marginal effects in excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g%3A1574579636952&lei=tC3aXdTaOaiRr7wP-q-QwAw&q=how%20to%20calculate%20marginal%20effects%20in%20excel&ved=2ahUKEwiloLmgpoLmAhURqpQKHa06BtoQsKwBKAV6BAgCEAY)
+
+- [ ] [how to find stationary points on a curve - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRJSowV1v48nA8HG9vf7cbGoqz_6Q%3A1575036712653&lei=KCfhXbi8J4T6wQPauLvwBg&q=how%20to%20find%20stationary%20points%20on%20a%20curve&ved=2ahUKEwjb5sL_zI_mAhUXFogKHa0TC1UQsKwBKAB6BAgDEAE)
+
+- [ ] [how to remove duplicates in r - Google Search](https://www.google.com/search?q=how+to+remove+duplicates+in+r&oq=how+to+remove+duplicates+in+r&aqs=chrome..69i57j0l7.13472j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [how to remove duplicates in r - Google Search](https://www.google.com/search?q=how+to+remove+duplicates+in+r&oq=how+to+remove+duplicates+in+r&aqs=chrome..69i57j0l7.13472j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [https://scholar.google.com/scholar?cluster=13357329716610593187&hl=en&as_sdt=0,31](https://www.google.com/sorry/index?continue=https://scholar.google.com/scholar%3Fcluster%3D13357329716610593187%26hl%3Den%26as_sdt%3D0,31&hl=en&q=EgQjwv4HGN6k7-4FIhkA8aeDS1u_VDnFJgsHfI5x_RFxZr0QTwz5MgFy)
+
+- [ ] [ineteconomics. org/net/video/playlist/conference/bretton-woods/K - Google Search](https://www.google.com/search?q=ineteconomics.+org%2Fnet%2Fvideo%2Fplaylist%2Fconference%2Fbretton-woods%2FK&oq=ineteconomics.+org%2Fnet%2Fvideo%2Fplaylist%2Fconference%2Fbretton-woods%2FK&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [ineteconomics. org/net/video/playlist/conference/bretton-woods/K - Google Search](https://www.google.com/search?q=ineteconomics.+org%2Fnet%2Fvideo%2Fplaylist%2Fconference%2Fbretton-woods%2FK&oq=ineteconomics.+org%2Fnet%2Fvideo%2Fplaylist%2Fconference%2Fbretton-woods%2FK&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [information asymmetry theory pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTVK-WOlQB23qGUpR1P-XrYs0_fqA%3A1574686822347&lei=ZtDbXebRFPK3mAXZwpegDA&q=information%20asymmetry%20theory%20pdf&ved=2ahUKEwjx2JnPtYXmAhVdzIsBHYZAC10QsKwBKAV6BAgAEAY&biw=1920&bih=939)
+
+- [ ] [interpret average marginal effect - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOIpXvyBLLQhzqQNGQZVfcDCs0w%3A1574579608759&ei=mC3aXdf2LYW2mAWjnq2gCg&q=interpret+average+marginal+effect&oq=Interpret+the+average+margina&gs_l=psy-ab.3.0.0i22i30j0i333l5.7086.12498..13735...0.2..0.382.2328.0j15j0j1......0....1..gws-wiz.......0i71j0i20i263j0.g6eBnr2DeZg)
+
+- [ ] [interpret average marginal effect - Google Search](https://www.google.com/search?q=interpret+average+marginal+effect&newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g:1574579636952&tbm=isch&source=iu&ictx=1&fir=oXuQLhMGvGOfMM%253A%252CdIYO8oqvFQnk0M%252C_&vet=1&usg=AI4_-kQW2FeDZshyqgDD3iqC6q1_Szw2-w&sa=X&ved=2ahUKEwjUhLmfpoLmAhWoyIsBHfoXBMgQ9QEwAHoECAQQAw#imgrc=oXuQLhMGvGOfMM:)
+
+- [ ] [interpret average marginal effect - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOIpXvyBLLQhzqQNGQZVfcDCs0w%3A1574579608759&ei=mC3aXdf2LYW2mAWjnq2gCg&q=interpret+average+marginal+effect&oq=Interpret+the+average+margina&gs_l=psy-ab.3.0.0i22i30j0i333l5.7086.12498..13735...0.2..0.382.2328.0j15j0j1......0....1..gws-wiz.......0i71j0i20i263j0.g6eBnr2DeZg)
+
+- [ ] [interpret average marginal effect - Google Search](https://www.google.com/search?q=interpret+average+marginal+effect&newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g:1574579636952&tbm=isch&source=iu&ictx=1&fir=oXuQLhMGvGOfMM%253A%252CdIYO8oqvFQnk0M%252C_&vet=1&usg=AI4_-kQW2FeDZshyqgDD3iqC6q1_Szw2-w&sa=X&ved=2ahUKEwjUhLmfpoLmAhWoyIsBHfoXBMgQ9QEwAHoECAQQAw#imgrc=oXuQLhMGvGOfMM:)
+
+- [ ] [Kaare B. Petersen - Google Search](https://www.google.com/search?q=Kaare+B.+Petersen&oq=Kaare+B.+Petersen&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [kaggle bayesian regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q%3A1574781411460&lei=40HdXa_TG82mmAWZk57oDQ&q=kaggle%20bayesian%20regression&ved=2ahUKEwjHu6eClojmAhVCCqYKHa5TAxkQsKwBKAF6BAgGEAI)
+
+- [ ] [kpss test for stationarity - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXKQvjDqGwqOj6lk43vKIJui8Vfg%3A1575037635287&lei=wyrhXbWREaP2hwOE1664AQ&q=kpss%20test%20for%20stationarity&ved=2ahUKEwi_0IO30I_mAhXBad4KHdaaAHoQsKwBKAN6BAgAEAQ)
+
+- [ ] [kupiec test - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNSK92fFatJb8pTxDGKMjBRGflWjrg:1574900396525&q=kupiec+test&sa=X&ved=2ahUKEwjD5MOV0YvmAhW5w4sBHYYnAT0Q1QIoAHoECGMQAQ)
+
+- [ ] [kupiec test r - Google Search](https://www.google.com/search?q=kupiec+test+r&oq=kupiec+test+r&aqs=chrome..69i57j0l3j69i60j69i65l2j69i60.7327j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [kupiec test wiki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBq8KtcOfz2LI-5A7HxcOwwNgUHg:1574900252676&q=kupiec+test+wiki&sa=X&ved=2ahUKEwiB_ffQ0IvmAhXKxIsBHb2_CmkQ1QIoAHoECGAQAQ)
+
+- [ ] [layout r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=layout%20r&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAR6BAgCEAU)
+
+- [ ] [layout r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=layout%20r&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAR6BAgCEAU)
+
+- [ ] [linear program with binary variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQql2vlXSktVV6aECEfS-NmUvz2xg%3A1574591070400&ei=XlraXbz2F6nVmAWph5iYCg&q=linear+program+with+binary+variables&oq=linear+program+with+binary+variables&gs_l=psy-ab.3...839756.839756..839969...0.1..0.113.113.0j1......0....1..gws-wiz.......0i71.kBdAMyP_SNg&ved=0ahUKEwi8navr0ILmAhWpKqYKHakDBqMQ4dUDCAs&uact=5)
+
+- [ ] [linear program with binary variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR2mrInij6MLGIFF6WpkEdyNqHiKA:1574591911887&q=linear+program+with+binary+variables&stick=H4sIAAAAAAAAAOOQMZLPzCtJTU8tUsjJzEtNLFIoKMpPL0rMzc3MS1dIys_PjlJBlVAozyzJUEjKzEssqlQoSyzKTEzKSS0-xcijn65vaJSUl2NiWZwN5xaUmBbmGJ1i5NLP1TdINi5Jy8pBKDUoTkrKgMmZZKSUJSHkirPiDS3h3FyjbLOiCoSsWXmeUdYpRl4Q1zC9oigvvbLC9BejvCd-vyxiJcozAPXtLFEWAQAA&sa=X&ved=2ahUKEwjAxcv804LmAhX0y4sBHUGxAKIQzTooADB1egQIZhAC)
+
+- [ ] [lmlist r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=lmlist%20r&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAJ6BAgAEAM)
+
+- [ ] [lmlist r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=lmlist%20r&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAJ6BAgAEAM)
+
+- [ ] [local basis in bayesian linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbCjb92LXlQzlPHM0h_DVBmzMO6Q%3A1574781411460&lei=40HdXa_TG82mmAWZk57oDQ&q=local%20basis%20in%20bayesian%20linear%20regression&ved=2ahUKEwjHu6eClojmAhVCCqYKHa5TAxkQsKwBKAV6BAgDEAY)
+
+- [ ] [marginal effect wiki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g%3A1574579636952&lei=tC3aXdTaOaiRr7wP-q-QwAw&q=marginal%20effect%20wiki&ved=2ahUKEwiloLmgpoLmAhURqpQKHa06BtoQsKwBKAN6BAgCEAQ)
+
+- [ ] [marginal effect wiki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g%3A1574579636952&lei=tC3aXdTaOaiRr7wP-q-QwAw&q=marginal%20effect%20wiki&ved=2ahUKEwiloLmgpoLmAhURqpQKHa06BtoQsKwBKAN6BAgCEAQ)
+
+- [ ] [marginal effects stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g%3A1574579636952&lei=tC3aXdTaOaiRr7wP-q-QwAw&q=marginal%20effects%20stata&ved=2ahUKEwiloLmgpoLmAhURqpQKHa06BtoQsKwBKAB6BAgCEAE)
+
+- [ ] [marginal effects stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g%3A1574579636952&lei=tC3aXdTaOaiRr7wP-q-QwAw&q=marginal%20effects%20stata&ved=2ahUKEwiloLmgpoLmAhURqpQKHa06BtoQsKwBKAB6BAgCEAE)
+
+- [ ] [margins() inr - Google Search](https://www.google.com/search?q=margins()+inr&oq=margins()+inr+&aqs=chrome..69i57.7574j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [margins() inr - Google Search](https://www.google.com/search?q=margins()+inr&oq=margins()+inr+&aqs=chrome..69i57.7574j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [market for lemons health insurance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTVK-WOlQB23qGUpR1P-XrYs0_fqA%3A1574686822347&lei=ZtDbXebRFPK3mAXZwpegDA&q=market%20for%20lemons%20health%20insurance&ved=2ahUKEwjx2JnPtYXmAhVdzIsBHYZAC10QsKwBKAB6BAgCEAE)
+
+- [ ] [matplotlib heatmap x y z - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTq26Ep75wG-ev4zq8DwDacdfEY4A%3A1575034408432&lei=KB7hXbCFGqLYhwPG6ZewCA&q=matplotlib%20heatmap%20x%20y%20z&ved=2ahUKEwjju7i0xI_mAhXDaN4KHaKxBmgQsKwBKAB6BAgBEAE)
+
+- [ ] [max value entropy search - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRuyrallOfvuEIYhXNalmOjT0q8JA%3A1575037917385&lei=3SvhXa2RF7XpmAXDwZqgBg&q=max%20value%20entropy%20search&ved=2ahUKEwil1dO90Y_mAhWuGKYKHTbwA4wQsKwBKAF6BAgAEAI)
+
+- [ ] [Michael S. Pederse - Google Search](https://www.google.com/search?q=Michael+S.+Pederse&oq=Michael+S.+Pederse&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [mini ames test protocol - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOIpXvyBLLQhzqQNGQZVfcDCs0w%3A1574579608759&lei=mC3aXdf2LYW2mAWjnq2gCg&q=mini%20ames%20test%20protocol&ved=2ahUKEwiB0-qSpoLmAhU_xosBHenwB9EQsKwBKAN6BAgBEAQ)
+
+- [ ] [mini ames test protocol - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTGOIpXvyBLLQhzqQNGQZVfcDCs0w%3A1574579608759&lei=mC3aXdf2LYW2mAWjnq2gCg&q=mini%20ames%20test%20protocol&ved=2ahUKEwiB0-qSpoLmAhU_xosBHenwB9EQsKwBKAN6BAgBEAQ)
+
+- [ ] [Mirrlees, James A - Google Search](https://www.google.com/search?q=Mirrlees%2C+James+A&oq=Mirrlees%2C+James+A&aqs=chrome..69i57j0l4j69i61.1790j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Mirrlees, James A - Google Search](https://www.google.com/search?q=Mirrlees%2C+James+A&oq=Mirrlees%2C+James+A&aqs=chrome..69i57j0l4j69i61.1790j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [nonlinear optimization practice problems - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQql2vlXSktVV6aECEfS-NmUvz2xg%3A1574591070400&lei=XlraXbz2F6nVmAWph5iYCg&q=nonlinear%20optimization%20practice%20problems&ved=2ahUKEwiPyqHs0ILmAhVwyosBHYHwBpAQsKwBKAR6BAgCEAU)
+
+- [ ] [nonlinear programming applications - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQql2vlXSktVV6aECEfS-NmUvz2xg%3A1574591070400&lei=XlraXbz2F6nVmAWph5iYCg&q=nonlinear%20programming%20applications&ved=2ahUKEwiPyqHs0ILmAhVwyosBHYHwBpAQsKwBKAN6BAgCEAQ)
+
+- [ ] [nonlinear programming book pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQql2vlXSktVV6aECEfS-NmUvz2xg%3A1574591070400&lei=XlraXbz2F6nVmAWph5iYCg&q=nonlinear%20programming%20book%20pdf&ved=2ahUKEwiPyqHs0ILmAhVwyosBHYHwBpAQsKwBKAF6BAgCEAI)
+
+- [ ] [nonlinear programming lecture notes pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQql2vlXSktVV6aECEfS-NmUvz2xg%3A1574591070400&lei=XlraXbz2F6nVmAWph5iYCg&q=nonlinear%20programming%20lecture%20notes%20pdf&ved=2ahUKEwiPyqHs0ILmAhVwyosBHYHwBpAQsKwBKAJ6BAgCEAM)
+
+- [ ] [nonlinear programming python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQql2vlXSktVV6aECEfS-NmUvz2xg%3A1574591070400&lei=XlraXbz2F6nVmAWph5iYCg&q=nonlinear%20programming%20python&ved=2ahUKEwiPyqHs0ILmAhVwyosBHYHwBpAQsKwBKAV6BAgCEAY)
+
+- [ ] [nonlinear programming solver - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQql2vlXSktVV6aECEfS-NmUvz2xg%3A1574591070400&lei=XlraXbz2F6nVmAWph5iYCg&q=nonlinear%20programming%20solver&ved=2ahUKEwiPyqHs0ILmAhVwyosBHYHwBpAQsKwBKAB6BAgCEAE)
+
+- [ ] [optimal pricing strategy linear programming python - Google Search](https://www.google.com/search?q=optimal+pricing+strategy+linear+programming+python&oq=optimal+pricing+strategy+linear+programming+python&aqs=chrome..69i57j69i64l2.10020j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [p-value var backtesting - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBq8KtcOfz2LI-5A7HxcOwwNgUHg:1574900252676&q=p-value+var+backtesting&sa=X&ved=2ahUKEwiB_ffQ0IvmAhXKxIsBHb2_CmkQ1QIoBXoECGAQBg)
+
+- [ ] [pi in python math - Google Search](https://www.google.com/search?q=pi+in+python+math&oq=pi+in+python+math&aqs=chrome..69i57j69i59l2j69i60l5.2943j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [plot.margin r ggplot2 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=plot.margin%20r%20ggplot2&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAF6BAgCEAI)
+
+- [ ] [plot.margin r ggplot2 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=plot.margin%20r%20ggplot2&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAF6BAgCEAI)
+
+- [ ] [plotrix - Google Search](https://www.google.com/search?q=plotrix&oq=plotrix&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [position geom_area - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=position%20geom_area&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAF6BAgDEAI)
+
+- [ ] [position geom_area - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=position%20geom_area&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAF6BAgDEAI)
+
+- [ ] [predict() r link - Google Search](https://www.google.com/search?q=predict()+r+link&oq=predict()+r+link&aqs=chrome..69i57j0j69i64j69i61j69i65l3j69i60.6591j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [predict() r link - Google Search](https://www.google.com/search?q=predict()+r+link&oq=predict()+r+link&aqs=chrome..69i57j0j69i64j69i61j69i65l3j69i60.6591j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [pricing for combination of services linear programming python - Google Search](https://www.google.com/search?q=pricing+for+combination+of+services+linear+programming+python&oq=pricing+for+combination+of+services+linear+programming+python&aqs=chrome..69i57j69i64l3.21572j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [python 3d heat map - Google Search](https://www.google.com/search?q=python+3d+heat+map&oq=python+3d+heat+map&aqs=chrome..69i57j0l4j69i60l2.5974j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [python 3d heat map - Google Search](https://www.google.com/search?q=python+3d+heat+map&newwindow=1&sxsrf=ACYBGNSdD1j0DBMXOzP6-bONZoD4UcPCLg:1575035457058&tbm=isch&sa=X&ved=2ahUKEwiesrSnyI_mAhWLFIgKHesUASMQ7AkoAXoECGcQDQ)
+
+- [ ] [python generate array with step - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRMfqnEeXhwo3T58FNweVu1zxSYPw%3A1575034665759&ei=KR_hXaTwLcbi-Ab-haWQDQ&q=python+generate+array+with+step&oq=python+generate+array+wit&gs_l=psy-ab.3.0.0i20i263j0l4j0i22i30l5.28396.37261..38489...4.2..0.261.2813.14j7j3......0....1..gws-wiz.......0i71j35i39j0i67j0i273j0i13j33i160._oRSOxqdivc)
+
+- [ ] [python heatmap on map - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTq26Ep75wG-ev4zq8DwDacdfEY4A%3A1575034408432&lei=KB7hXbCFGqLYhwPG6ZewCA&q=python%20heatmap%20on%20map&ved=2ahUKEwjju7i0xI_mAhXDaN4KHaKxBmgQsKwBKAN6BAgBEAQ)
+
+- [ ] [python sequence - Google Search](https://www.google.com/search?q=python+sequence&newwindow=1&sxsrf=ACYBGNQXfOxTOuB9JSXDamODck8ASIieoA:1575034626579&tbm=isch&sa=X&ved=2ahUKEwjf8bObxY_mAhWPFIgKHRW8AOcQ7AkoAXoECGMQCw)
+
+- [ ] [r heatmap() - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTq26Ep75wG-ev4zq8DwDacdfEY4A%3A1575034408432&lei=KB7hXbCFGqLYhwPG6ZewCA&q=r%20heatmap()&ved=2ahUKEwjju7i0xI_mAhXDaN4KHaKxBmgQsKwBKAN6BAgIEAQ&biw=1920&bih=948)
+
+- [ ] [r multiple plots margin - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=r%20multiple%20plots%20margin&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAJ6BAgCEAM)
+
+- [ ] [r multiple plots margin - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=r%20multiple%20plots%20margin&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAJ6BAgCEAM)
+
+- [ ] [r plot fill area under curve - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=r%20plot%20fill%20area%20under%20curve&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAB6BAgAEAE)
+
+- [ ] [r plot fill area under curve - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT0_thoYBgrQtC4ZmGI56Vi5Qq8UA%3A1574571701399&lei=tQ7aXc_tF8eHr7wPhIeI-A0&q=r%20plot%20fill%20area%20under%20curve&ved=2ahUKEwiBrt7YiILmAhWQvpQKHaq4ClUQsKwBKAB6BAgAEAE)
+
+- [ ] [r plot margins too large - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=r%20plot%20margins%20too%20large&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAB6BAgCEAE)
+
+- [ ] [r plot margins too large - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=r%20plot%20margins%20too%20large&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAB6BAgCEAE)
+
+- [ ] [r plot mfrow order - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=r%20plot%20mfrow%20order&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAN6BAgCEAQ)
+
+- [ ] [r plot mfrow order - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=r%20plot%20mfrow%20order&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAN6BAgCEAQ)
+
+- [ ] [r plot title cut off - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=r%20plot%20title%20cut%20off&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAV6BAgCEAY)
+
+- [ ] [r plot title cut off - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqTB3HMmEn-_Bvs_yvQFV59eIpdA%3A1574579352388&lei=mCzaXYWXF-eLr7wPqvKJiAU&q=r%20plot%20title%20cut%20off&ved=2ahUKEwjFrMSYpYLmAhVlyosBHXSnBqMQsKwBKAV6BAgCEAY)
+
+- [ ] [r visualization gallery - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=r%20visualization%20gallery&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAB6BAgFEAE)
+
+- [ ] [r visualization gallery - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=r%20visualization%20gallery&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAB6BAgFEAE)
+
+- [ ] [r visualization packages - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=r%20visualization%20packages&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAR6BAgFEAU)
+
+- [ ] [r visualization packages - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSB447CYAGstD-4hcMZAAG9mr5gRg%3A1574572064908&lei=IBDaXbfqNtqTr7wPj_mJ2Ak&q=r%20visualization%20packages&ved=2ahUKEwig182FioLmAhUSCqYKHWanBqEQsKwBKAR6BAgFEAU)
+
+- [ ] [regression in tidyverse - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=regression%20in%20tidyverse&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAF6BAgAEAI)
+
+- [ ] [regression in tidyverse - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=regression%20in%20tidyverse&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAF6BAgAEAI)
+
+- [ ] [remove trend from time series - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXKQvjDqGwqOj6lk43vKIJui8Vfg%3A1575037635287&lei=wyrhXbWREaP2hwOE1664AQ&q=remove%20trend%20from%20time%20series&ved=2ahUKEwi_0IO30I_mAhXBad4KHdaaAHoQsKwBKAB6BAgAEAE)
+
+- [ ] [rmetric ewma - Google Search](https://www.google.com/search?q=rmetric+ewma&oq=rmetric+ewma&aqs=chrome..69i57j0l2j46j0l3.4535j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [rom Catastrophe to Chaos: A General Theory of Economic Discontinuities - Google Search](https://www.google.com/search?q=rom+Catastrophe+to+Chaos%3A+A+General+Theory+of+Economic+Discontinuities&oq=rom+Catastrophe+to+Chaos%3A+A+General+Theory+of+Economic+Discontinuities&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [rom Catastrophe to Chaos: A General Theory of Economic Discontinuities - Google Search](https://www.google.com/search?q=rom+Catastrophe+to+Chaos%3A+A+General+Theory+of+Economic+Discontinuities&oq=rom+Catastrophe+to+Chaos%3A+A+General+Theory+of+Economic+Discontinuities&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [running a model on separate groups - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=running%20a%20model%20on%20separate%20groups&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAN6BAgAEAQ)
+
+- [ ] [running a model on separate groups - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSr-IW6QiVfpr3x1grizuLcw-8SzA%3A1574577893862&lei=5SbaXZuWNLuFr7wPqo6T2Ao&q=running%20a%20model%20on%20separate%20groups&ved=2ahUKEwjQ5a_hn4LmAhWqwosBHQKuCREQsKwBKAN6BAgAEAQ)
+
+- [ ] [S3 generic method for calculating the marginal effects - Google Search](https://www.google.com/search?q=S3+generic+method+for+calculating+the+marginal+effects&oq=S3+generic+method+for+calculating+the+marginal+effects&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [sas proc logistic marginal effects - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g%3A1574579636952&lei=tC3aXdTaOaiRr7wP-q-QwAw&q=sas%20proc%20logistic%20marginal%20effects&ved=2ahUKEwiloLmgpoLmAhURqpQKHa06BtoQsKwBKAR6BAgCEAU)
+
+- [ ] [sas proc logistic marginal effects - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaz-5wZ68lH335raFeWIpGUdzC8g%3A1574579636952&lei=tC3aXdTaOaiRr7wP-q-QwAw&q=sas%20proc%20logistic%20marginal%20effects&ved=2ahUKEwiloLmgpoLmAhURqpQKHa06BtoQsKwBKAR6BAgCEAU)
+
+- [ ] [seaborn gallery 3d - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSdD1j0DBMXOzP6-bONZoD4UcPCLg%3A1575035457058&lei=QSLhXd6NA4upoATrqYSYAg&q=seaborn%20gallery%203d&ved=2ahUKEwik1ZCryI_mAhXBdXAKHQUSDzsQsKwBKAF6BAgAEAI)
+
+- [ ] [self-renewing aggregates - Google Search](https://www.google.com/search?q=self-renewing+aggregates&oq=self-renewing+aggregates&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [sequential model based optimization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNROEbhTj3DL5diOMNfnXe_Mo2suww%3A1575037938224&lei=8ivhXYOhDcOJmAWOvJzACQ&q=sequential%20model%20based%20optimization&ved=2ahUKEwibqejK0Y_mAhVkIqYKHZDODeEQsKwBKAJ6BAgBEAM)
+
+- [ ] [signalling insurance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTVK-WOlQB23qGUpR1P-XrYs0_fqA%3A1574686822347&lei=ZtDbXebRFPK3mAXZwpegDA&q=signalling%20insurance&ved=2ahUKEwjx2JnPtYXmAhVdzIsBHYZAC10QsKwBKAJ6BAgCEAM)
+
+- [ ] [sigopt bayesian optimization primer - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNROEbhTj3DL5diOMNfnXe_Mo2suww%3A1575037938224&lei=8ivhXYOhDcOJmAWOvJzACQ&q=sigopt%20bayesian%20optimization%20primer&ved=2ahUKEwibqejK0Y_mAhVkIqYKHZDODeEQsKwBKAF6BAgBEAI)
+
+- [ ] [site:rpubs.com number of likes/dislikes have a direct relationship with the number of comments - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUFv3HckzMLpvTUekYM_AhnpdjFA%3A1574602554611&ei=OofaXd36JJWXr7wP36mmsA8&q=site%3Arpubs.com++number+of+likes%2Fdislikes+have+a+direct+relationship+with+the+number+of+comments&oq=site%3Arpubs.com++number+of+likes%2Fdislikes+have+a+direct+relationship+with+the+number+of+comments&gs_l=psy-ab.3...9528.9649..9971...0.0..0.92.177.2......0....1..gws-wiz.vvVR78iXFqM&ved=0ahUKEwjd_7fP-4LmAhWVy4sBHd-UCfYQ4dUDCAs&uact=5)
+
+- [ ] [sns 3d surface plot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSdD1j0DBMXOzP6-bONZoD4UcPCLg%3A1575035457058&lei=QSLhXd6NA4upoATrqYSYAg&q=sns%203d%20surface%20plot&ved=2ahUKEwik1ZCryI_mAhXBdXAKHQUSDzsQsKwBKAB6BAgAEAE&biw=1920&bih=899)
+
+- [ ] [Stanley Reiter - Google Search](https://www.google.com/search?q=Stanley+Reiter&oq=Stanley+Reiter&aqs=chrome..69i57j69i61l4j69i60.4966j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Stanley Reiter - Google Search](https://www.google.com/search?q=Stanley+Reiter&oq=Stanley+Reiter&aqs=chrome..69i57j69i61l4j69i60.4966j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [stationarity in linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXKQvjDqGwqOj6lk43vKIJui8Vfg%3A1575037635287&lei=wyrhXbWREaP2hwOE1664AQ&q=stationarity%20in%20linear%20regression&ved=2ahUKEwi_0IO30I_mAhXBad4KHdaaAHoQsKwBKAF6BAgAEAI)
+
+- [ ] [Strikes, Scabs, and Tread Separations: Labor Strife and the Production of Defective Bridgestone/Firestone Tires - Google Search](https://www.google.com/search?q=Strikes%2C+Scabs%2C+and+Tread+Separations%3A+Labor+Strife+and+the+Production+of+Defective+Bridgestone%2FFirestone+Tires&oq=Strikes%2C+Scabs%2C+and+Tread+Separations%3A+Labor+Strife+and+the+Production+of+Defective+Bridgestone%2FFirestone+Tires&aqs=chrome..69i57.792j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [types of stationarity - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXKQvjDqGwqOj6lk43vKIJui8Vfg%3A1575037635287&lei=wyrhXbWREaP2hwOE1664AQ&q=types%20of%20stationarity&ved=2ahUKEwi_0IO30I_mAhXBad4KHdaaAHoQsKwBKAJ6BAgAEAM)
+
+- [ ] [Strikes, Scabs, and Tread Separations: Labor Strife and the Production of Defective Bridgestone/Firestone Tires - Google Search](https://www.google.com/search?q=Strikes%2C+Scabs%2C+and+Tread+Separations%3A+Labor+Strife+and+the+Production+of+Defective+Bridgestone%2FFirestone+Tires&oq=Strikes%2C+Scabs%2C+and+Tread+Separations%3A+Labor+Strife+and+the+Production+of+Defective+Bridgestone%2FFirestone+Tires&aqs=chrome..69i57.792j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [The Economics of Imperfect Information Louis Phlips - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRbbaWEncN4diuJJWZ6TwO6RVwb0w:1574688349944&q=The+Economics+of+Imperfect+Information+Louis+Phlips&stick=H4sIAAAAAAAAAONgFuLRT9c3NErKzTZMt8xVgvLysoqLs8q1eJzy87ODM1NSyxMrixexGodkpCq4Jufn5edmJhcr5KcpeOYWpBalpSaXKHjmpeUX5SaWZObnKfjkl2YWKwRk5GQWFO9gZQQA8Hs512UAAAA&sa=X&ved=2ahUKEwiDq-udu4XmAhV-x4sBHSO6CkQQxA0wdnoECGMQBg)
+
+- [ ] [The Fox News Effect: Media Bias and Voting - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRRCAXQd2pXQrrmsljoLqHsbpQBlg:1574686850743&q=The+Fox+News+Effect:+Media+Bias+and+Voting&tbm=isch&source=univ&sa=X&ved=2ahUKEwiLxvvStYXmAhX6xIsBHfe-CLIQsAR6BAgQEAE&biw=1920&bih=939)
+
+- [ ] [The global optimization problem: an introduction - Google Search](https://www.google.com/search?q=The+global+optimization+problem%3A+an+introduction&oq=The+global+optimization+problem%3A+an+introduction&aqs=chrome..69i57j69i64l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [the winner's curse summary - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQkiDQgs-8wTcy9sUK4gqlnzmNSWw%3A1574686511586&lei=L8_bXdmgI5CB0wTzzoCIDg&q=the%20winner%27s%20curse%20summary&ved=2ahUKEwjS8fqxtIXmAhWENKYKHfZJBX8QsKwBKAJ6BAgAEAM)
+
+- [ ] [theodore groves - Google Search](https://www.google.com/search?q=theodore+groves&oq=Theodore+Groves&aqs=chrome.0.0j46j0l3j69i61j69i60l2.1047j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [theodore groves - Google Search](https://www.google.com/search?q=theodore+groves&oq=Theodore+Groves&aqs=chrome.0.0j46j0l3j69i61j69i60l2.1047j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [used car lemon - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTVK-WOlQB23qGUpR1P-XrYs0_fqA%3A1574686822347&lei=ZtDbXebRFPK3mAXZwpegDA&q=used%20car%20lemon&ved=2ahUKEwjx2JnPtYXmAhVdzIsBHYZAC10QsKwBKAN6BAgCEAQ)
+
+- [ ] [var backtesting - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaVM0LSJNcsKBTmAQlLsPHRCb1Lg:1574901094736&q=var+backtesting&sa=X&ved=2ahUKEwifkrvi04vmAhWHyosBHT-BC6gQ1QIoA3oECGYQBA)
+
+- [ ] [var backtesting r - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=948&sxsrf=ACYBGNSK92fFatJb8pTxDGKMjBRGflWjrg:1574900396525&q=var+backtesting+r&sa=X&ved=2ahUKEwjD5MOV0YvmAhW5w4sBHYYnAT0Q1QIoAXoECGMQAg)
+
+- [ ] [var model validation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQyMa7LPCU4lg9d6A3C88RPfgVbRA%3A1574900243892&lei=ExLfXYf1NfSTr7wPzaWiSA&q=var%20model%20validation&ved=2ahUKEwjC0aPO0IvmAhW-yYsBHY1VBhoQsKwBKAV6BAgBEAY)
+
+- [ ] [www.google.com](https://www.google.com/search?q=Brian+Arthu&oq=Brian+Arthu&aqs=chrome..69i57j69i61l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?q=Brian+Arthu&oq=Brian+Arthu&aqs=chrome..69i57j69i61l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?q=Iain+Murray&oq=Iain+Murray&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)

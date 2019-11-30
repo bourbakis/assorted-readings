@@ -41,3 +41,69 @@
 - [ ] [Garett Jones on open borders - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/garett-jones-on-open-borders.html)
 
 - [ ] [Mortality sentences to ponder paging Ross Douthat too - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/mortality-sentences-to-ponder-paging-ross-douthat-too.html)
+
+
+
+
+
+## 11/30/2019
+
+- [ ] [*Lakota America: A New History of Indigenous Power* - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/lakota-america-a-new-history-of-indigenous-power.html)
+
+- [ ] [A journal editor speaks about referees (and authors) - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/a-journal-editor-speaks-about-referees-and-authors.html)
+
+- [ ] [An argument about monetary policy I had never heard before - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/an-argument-about-monetary-policy-i-had-never-heard-before.html)
+
+- [ ] [Are central banks manipulating asset prices? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/are-central-banks-manipulating-asset-prices.html)
+
+- [ ] [Best non-fiction books of 2019 - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/best-non-fiction-books-of-2019.html)
+
+- [ ] [Classical musical recordings of the year - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/classical-musical-recordings-of-the-year.html)
+
+- [ ] [Conscientiousness vs. working hard - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/conscientiousness-vs-working-hard.html)
+
+- [ ] [Do social media drive the rise in right-wing populism? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/do-social-media-drive-the-rise-in-right-wing-populism.html)
+
+- [ ] [Does identity affect labor supply? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/does-identity-affect-labor-supply.html)
+
+- [ ] [Eliminate Journal Formatting on First Submission! - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/eliminate-journal-formatting-on-first-submission.html)
+
+- [ ] [Favorite popular music listening for 2019 - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/favorite-popular-music-listening-for-2019.html)
+
+- [ ] [Inefficient Journal Submission Policies - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2009/08/inefficient-journal-submission-policies.html)
+
+- [ ] [Is Elon Musk Prepping for State Failure? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/elon-theory.html)
+
+- [ ] [Japanese hotel markets in everything - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/japanese-hotel-markets-in-everything.html)
+
+- [ ] [Learning about the Roots of Progress from the History of Smallpox Eradication - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/learning-about-the-roots-of-progress-from-the-history-of-smallpox-eradication.html)
+
+- [ ] [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
+
+- [ ] [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
+
+- [ ] [Monday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/monday-assorted-links-230.html)
+
+- [ ] [More Pregnancy, Less Crime - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/more-pregnancy-less-crime.html)
+
+- [ ] [My Conversation with Mark Zuckerberg and Patrick Collison - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/my-conversation-with-mark-zuckerberg-and-patrick-collison.html)
+
+- [ ] [Progress Studies tranche of Emergent Ventures - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/progress-studies-tranche-of-emergent-ventures.html)
+
+- [ ] [Sunday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/saturday-assorted-links-235.html)
+
+- [ ] [The CWT repackaging of my Conversation with Zuckerberg and Collison - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/the-cwt-repackaging-of-my-conversation-with-zuckerberg-and-collison.html)
+
+- [ ] [The First Words of Thanksgiving - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/the-first-words-of-thanksgiving.html)
+
+- [ ] [The one-child policy and Chinese child trafficking - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/the-one-child-policy-and-chinese-child-trafficking.html)
+
+- [ ] [The real inflation inequality of our time - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/the-real-inflation-inequality-of-our-time.html)
+
+- [ ] [The wealth tax and non-profits - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/the-wealth-tax-and-non-profits.html)
+
+- [ ] [Tuesday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/tuesday-assorted-links-239.html)
+
+- [ ] [Why is labor mobility slowing in America? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/why-is-labor-mobility-slowing-in-america.html)
+
+- [ ] [William Shatner on mortgages - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/william-shatner-on-mortgages.html)

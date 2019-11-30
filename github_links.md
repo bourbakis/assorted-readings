@@ -1304,3 +1304,39 @@ https://drive.google.com/drive/u/0/my-drive
 - [ ] [Write vignette about grid · Issue #1239 · tidyverse/ggplot2](https://github.com/tidyverse/ggplot2/issues/1239)
 
 - [ ] [yamins81/tabular: Python tabular data package.](https://github.com/yamins81/tabular)
+
+
+
+## 11/30/2019
+
+- [ ] [benchfunk/benchfunk/functions at master · mwhoffman/benchfunk](https://github.com/mwhoffman/benchfunk/tree/master/benchfunk/functions)
+
+- [ ] [google/jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more](https://github.com/google/jax)
+
+- [ ] [iassael (Yannis Assael) / Following](https://github.com/iassael?tab=following)
+
+- [ ] [iassael (Yannis Assael) / Repositories](https://github.com/iassael?tab=repositories)
+
+- [ ] [iassael (Yannis Assael) / Starred](https://github.com/iassael?tab=stars)
+
+- [ ] [iassael/google-drive-trash-cleaner: Automatically clean your Google Drive's trash.](https://github.com/iassael/google-drive-trash-cleaner)
+
+- [ ] [jamesrobertlloyd/deepdream: Making deep dream videos](https://github.com/jamesrobertlloyd/deepdream)
+
+- [ ] [jessebett/PenroseTilingThesis: Undergraduate Thesis in Mathematics at McMaster University on the topic of Penrose Plane Tiling](https://github.com/jessebett/PenroseTilingThesis)
+
+- [ ] [jessebett/TorusKnotFibration: Master's Project](https://github.com/jessebett/TorusKnotFibration)
+
+- [ ] [jwvdm/robots-homepage: Homepage on robots.ox.ac.uk](https://github.com/jwvdm/robots-homepage)
+
+- [ ] [matejbalog/RKHS-private-database: Code to reproduce ICML 2018 paper "Differentially Private Database Release via Kernel Mean Embeddings"](https://github.com/matejbalog/RKHS-private-database)
+
+- [ ] [NeuLab](https://github.com/neulab)
+
+- [ ] [philipphennig/probabilistic-numerics.org: This repository houses the code for the community website http://www.probabilistic-numerics.org](https://github.com/philipphennig/probabilistic-numerics.org)
+
+- [ ] [resibots/limbo: A lightweight framework for Gaussian processes and Bayesian optimization of black-box functions (C++-11)](https://github.com/resibots/limbo)
+
+- [ ] [rtqichen/ffjord: code for "FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models".](https://github.com/rtqichen/ffjord/)
+
+- [ ] [rtqichen/torchdiffeq: Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.](https://github.com/rtqichen/torchdiffeq/)

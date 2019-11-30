@@ -3195,4 +3195,63 @@ http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=autho
 
 - [ ] [Library Genesis](http://93.174.95.29/_ads/1E702F6E6EB9CE6786852056E14157F9)
 
-- [ ] [Library Genesis](http://93.174.95.29/_ads/7250E74E670E5927496AFEAAC61CEE4F)
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7250E74E670E5927496AFEAAC61CEE4F)G
+
+
+
+
+
+# Economics
+
+## 11/29/2019
+
+- [ ] [Alison Bjorkedal, James Tenney - James Tenney: Changes - 64 Studies for 6 Harps - Amazon.com Music](https://www.amazon.com/Changes-CHOATE-ELIZABETH-HUSTON-BJORKEDAL/dp/B07NN6CTTD/ref=sr_1_3?keywords=james+tenney&qid=1574011628&sr=8-3/marginalrevol-20)
+
+- [ ] [Alvin Curran, Johnny Green & Edward Heyman, "Andy Razaf, "Fats" Waller, Eubie Blake, Anonymous, Duke Ellington & Paul Francis, Ellis Reynolds & Al Neiburg, George & Ira Gershwin, Herman Hupfeld, Irving Caesar Leonello, Irving Caesar Vincent - Alvin Curran: Endangered Species - Amazon.com Music](https://www.amazon.com/Alvin-Curran-Endangered-Species/dp/B07JQKNZD6/ref=sr_1_1?keywords=alvin+curran&qid=1574011706&sr=8-1/marginalrevol-20)
+
+- [ ] [Amazon.com: Probability](https://www.amazon.com/s?k=Probability&ref=nb_sb_noss)
+
+- [ ] [ANTON BRUCKNER - Symphony No 4 - Amazon.com Music](https://www.amazon.com/Bruckner-Symphony-Orchestre-Suisse-Romande/dp/B00CZ9COA8/ref=pd_sbs_15_2/147-3841631-6929939?_encoding=UTF8&pd_rd_i=B00CZ9COA8&pd_rd_r=452dcb38-9a9f-4c9a-81cf-3ceb4f7e86a8&pd_rd_w=NN0DR&pd_rd_wg=8DUvN&pf_rd_p=52b7592c-2dc9-4ac6-84d4-4bda6360045e&pf_rd_r=8A3V0PMDBENJVQPJAVHD&psc=1&refRID=8A3V0PMDBENJVQPJAVHD/marginalrevol-20)
+
+- [ ] [BERLINER PHILHARMONIKER - Wilhelm Fürtwangler - The Radio Recordings 1939 - 1945. Berliner Philharmoniker. SACD - Amazon.com Music](https://www.amazon.com/Radio-Recordings-1939-19-BERLINER-PHILHARMONIKER/dp/B07NHRJ3PM/ref=sr_1_2?keywords=wilhelm+furtwangler&qid=1574011568&sr=8-2/marginalrevol-20)
+
+- [ ] [Feodor Chaliapin - Feodor Chaliapin: The Complete Recordings - Amazon.com Music](https://www.amazon.com/Feodor-Chaliapin-Complete-Recordings/dp/B07L9DYVCL/ref=sr_1_1?keywords=feodor+chapliapin&qid=1574011528&sr=8-1-spell/marginalrevol-20)
+
+- [ ] [Ludwig Van Beethoven, Wilhelm Furtwangler, Berlin Philharmonic Orchestra - Beethoven: Symphony 9 in D Minor - Amazon.com Music](https://www.amazon.com/Beethoven-Symphony-9-D-Minor/dp/B000001OEX/ref=sr_1_fkmr0_2?keywords=furtwangler+1942+love+beethoven+9th&qid=1574012113&sr=8-2-fkmr0/marginalrevol-20)
+
+- [ ] [ODENSE SYMPHONY ORCHESTRA; BRIDGE ACADEMY SINGERS; MATT BOEHLER; ASHRAF SEWAILAM; TAMARA MUMFORD - Thirteenth Child - Amazon.com Music](https://www.amazon.com/Thirteenth-SYMPHONY-ORCHESTRA-ACADEMY-SEWAILAM/dp/B07RPGG88V/ref=sr_1_1?crid=SCZJEGV1GF03&keywords=ruders+the+thirteenth+child&qid=1574011485&sprefix=ruders+thirtee%2Caps%2C135&sr=8-1/marginalrevol-20)
+
+- [ ] [The Age of the Infovore: Succeeding in the Information Economy: Tyler Cowen: 9780452296190: Amazon.com: Books](https://www.amazon.com/Age-Infovore-Succeeding-Information-Economy/dp/0452296196/ref=sr_1_1?keywords=age+of+the+infovore&qid=1573738722&sr=8-1)
+
+- [ ] [The Economics of Price Discrimination: Louis Phlips: 9780521283946: Amazon.com: Books](https://www.amazon.com/Economics-Price-Discrimination-Louis-Phlips/dp/0521283949)
+
+- [ ] [The History of Statistics in the 17th and 18th Centuries, Against the Changing Background of Intellectual, Scientific and Religious Thought: Lecture: Karl Pearson, E. S. Pearson: 9780852642504: Amazon.com: Books](https://www.amazon.com/Statistics-Centuries-Background-Intellectual-Scientific/dp/0852642504)
+
+
+
+
+
+
+## 11/30/2019
+
+- [ ] [Library Genesis: Samuel Kotz, Saralees Nadarajah - Multivariate T-Distributions and Their Applications](http://libgen.is/book/index.php?md5=3BE754DB490957E8AC9DFB06974B6684)
+
+- [ ] [Library Genesis: Samuel Kotz; Saralees Nadarajah - Multivariate t distributions and their applications](http://libgen.is/book/index.php?md5=586609E32B8232E026CDFF7E6D8DB824)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=+Ana+Ferreira&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?req=Laurens+de+Haan&column=author)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Samuel+Kotz&phrase=0&view=simple&column=author&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Marine Habart-Corlosquet, Jacques Janssen, Raimondo Manca - VaR Methodology for Non-Gaussian Finance](http://libgen.is/book/index.php?md5=540489B754CC57FDE6FC11172C2D27E9)
+
+- [ ] [Library Genesis: Max C. Y. Wong - Bubble Value at Risk: A Countercyclical Risk Management Approach](http://libgen.is/book/index.php?md5=55057DA1930BD99ACD649F60490B08FD)
+
+- [ ] [Library Genesis: Michael Falk - Multivariate Extreme Value Theory and D-Norms](http://libgen.is/book/index.php?md5=1F196326F4CE28F4EC19A5B72A7DFF43)
+
+- [ ] [Library Genesis: Michael Falk, Johannes Hain, Frank Marohn, Hans Fischer, René Michel (auth.) - Statistik in Theorie und Praxis: Mit Anwendungen in R](http://libgen.is/book/index.php?md5=313623135188CF82F924934E4A7B8DC4)
+
+- [ ] [Library Genesis: Michael Falk, Johannes Hain, Frank Marohn, Hans Fischer, René Michel (auth.) - Statistik in Theorie und Praxis: Mit Anwendungen in R](http://libgen.is/book/index.php?md5=313623135188CF82F924934E4A7B8DC4)
+
+- [ ] [Library Genesis: Michael Falk, Jürg Hüsler, Rolf-Dieter Reiss (auth.) - Laws of small numbers: extremes and rare events](http://libgen.is/book/index.php?md5=983A762AB13EF43A515AC7568CEEB170)

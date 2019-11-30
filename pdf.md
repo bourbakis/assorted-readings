@@ -383,3 +383,106 @@
 - [ ] [zTree.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/zTree/zTree.pdf)
 
 - [ ] [zTree.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/zTree/zTree.pdf)
+
+
+
+
+
+
+
+
+## 11/29/2019
+
+- [ ] [(7) Bayesian linear regression - BLR.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www4.stat.ncsu.edu/~reich/ABA/notes/BLR.pdf)
+
+- [ ] [1204.1022.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1204.1022.pdf)
+
+- [ ] [1452-595X1302231S.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://scindeks-clanci.ceon.rs/data/pdf/1452-595X/2013/1452-595X1302231S.pdf)
+
+- [ ] [1512.01524.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1512.01524.pdf)
+
+- [ ] [1610.00366.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1610.00366.pdf)
+
+- [ ] [1708.01489.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1708.01489.pdf)
+
+- [ ] [3.4-BayesianRegression.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cedar.buffalo.edu/~srihari/CSE574/Chap3/3.4-BayesianRegression.pdf)
+
+- [ ] [846.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.optimization-online.org/DB_FILE/2004/03/846.pdf)
+
+- [ ] [Backtesting Value-at-Risk: Case Study on the Romanian Capital Market - main.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://pdf.sciencedirectassets.com/277811/1-s2.0-S1877042812X00338/1-s2.0-S1877042812035756/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGAaCXVzLWVhc3QtMSJHMEUCIQCUTDSR%2BqHNDDknSstC7VRfDGrCQlErN7DZzpH7bCcEQQIgVUjET3IQPPusNVTCk3uhdxdH5Iy%2FPK8HU3ZUOJ2BNlYq2AIImf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARACGgwwNTkwMDM1NDY4NjUiDEnyA2%2FMsRW6CCxwpyqsAlEzcxhbIriTHQBjRioITSoDa1AV6fIgP9r3QilJCsG%2F5ZqOBu%2BbJBwMISt%2F90qgTP5SdBh%2BeMJtZLkbOC0Ez9CUxW10D%2B6TC0iBCQpuzcKFIcorQfhfMbixiksIkxLTNPyzqyWbfsRnhiBSbgwey2cb76DXOrpeA5GnfP2NV0Xm7Y%2FN5PSvk%2FmMmG2sTnoBqphQy4rNZU86QICw2rQc%2BO%2FwWjFo4wXsa1BnJ0DQICMZxpbDWLLe3bDODwkYgiWZIoKmOQLuC2S%2FgZflW789Mkg8fa0HXHhossSyGoxjBzfdbwWhvukBWkTg0yUcwe%2FA4momPsehzjjOUc5iDCmy05Us0G%2B5ZeFQbV8wWzesnkoeGQGuixx2CdTD923%2FspAxRS9%2FoNc54Y%2BgGlCigDD%2Fj%2FzuBTrQAugcmbpHqatCQHVXa2miwjZK6RCZ1JO8GaQvaDFBaZbpRdA94tE%2FF9U%2B9weXx9t5yjmfKrHnG39FoQ10XIr%2BQz1gN%2FI35H5UJEgOOGzEg9JapVCrtOppBf7jOkj8Woz0XmqQLMILHbekXvug470UztTf%2BvnbSXzcwuBNYcM6rmXSukQsjMeGgOAo90Kt%2FrXwBwAIh2Q66Mlr3IBd6wS4LSdXo%2F3do0Fj8Rlx%2FBFXfZk5SQF03gxZ096lHlaHgrg5PlujDjb1udV7%2BN3auTNdLWou%2BpMyB7FfedJClaSzXv%2BbRl2QjT6JkfaScZyeUs3SsXKEiKVeDJGedtFVd1HYGaf0TcKfOdDAdBjoD9KMGRC024n4ttCG6iKO6%2FxT1GyKG812UHWn2w9boRlJ8sIYewDAsjT14bN%2FKLD%2FtyAW1TLi%2FLg%2BgvA13Q33nd0Mq3ucLQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191128T002240Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6PVXAMH2%2F20191128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cdcb61e519b7ed34c44abcda53df9b3dffca0911e915009e2d82d7d5edfab241&hash=eb11b917aeabc2b8cae5c54761b1e1c01f14579553e51eaaeccee3eefa748803&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877042812035756&tid=spdf-c6c02686-3ac0-487c-a3dc-76977ca9adb4&sid=a85eafc52252f64cdb3bcb39b18627f182fbgxrqa&type=client)
+
+- [ ] [Bayesian Nonparametrics - A brief introduction - will_eleni_chen_slides.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://duvenaud.github.io/learn-discrete/slides/will_eleni_chen_slides.pdf)
+
+- [ ] [BayesianLinearRegression.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cs.utah.edu/~fletcher/cs6957/lectures/BayesianLinearRegression.pdf)
+
+- [ ] [christoffersenpelletier9.dvi - 2003s-05.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cirano.qc.ca/files/publications/2003s-05.pdf)
+
+- [ ] [CIAR2005.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.dgp.toronto.edu/~hertzman/CIAR2005.pdf)
+
+- [ ] [collette2010Chap14.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.cmap.polytechnique.fr/~nikolaus.hansen/collette2010Chap14.pdf)
+
+- [ ] [compare.dvi - compare.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://eml.berkeley.edu/~train/compare.pdf)
+
+- [ ] [dp-529.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://diskussionspapiere.wiwi.uni-hannover.de/pdf_bib/dp-529.pdf)
+
+- [ ] [Evaluating Interval Forecasts - download](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.8009&rep=rep1&type=pdf)
+
+- [ ] [Extreme Value Analysis of Dynamical Wave Climate Projections in the Mediterranean Sea - 82348182.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://core.ac.uk/download/pdf/82348182.pdf)
+
+- [ ] [Gaussian Processes for Machine Learning - RW5.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.gaussianprocess.org/gpml/chapters/RW5.pdf)
+
+- [ ] [GivingGoodTalks.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/GivingGoodTalks.pdf)
+
+- [ ] [globalopt-lima.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.lix.polytechnique.fr/~liberti/teaching/globalopt-lima.pdf)
+
+- [ ] [handbook-go.pdf - 456.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.optimization-online.org/DB_FILE/2002/03/456.pdf)
+
+- [ ] [JBES-final2b.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://web.utk.edu/~llima/JBES-final2b.pdf)
+
+- [ ] [jobayed.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://helda.helsinki.fi/dhanken/bitstream/handle/123456789/168005/jobayed.pdf?sequence=1&isAllowed=y)
+
+- [ ] [KarvonenSarkka2017-MLSP.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://users.aalto.fi/~karvont2/pdf/KarvonenSarkka2017-MLSP.pdf)
+
+- [ ] [lab1.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://gpss.cc/gpss13/assets/lab1.pdf)
+
+- [ ] [Latent LSTM Allocation - latent-lstm.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://duvenaud.github.io/learn-discrete/slides/latent-lstm.pdf)
+
+- [ ] [Lecture5.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.biostat.umn.edu/~ph7440/pubh7440/Lecture5.pdf)
+
+- [ ] [Microsoft PowerPoint - backtestingRiskModels.pptx - backtestingriskmodelspowerpoint.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://faculty.washington.edu/ezivot/econ589/backtestingriskmodelspowerpoint.pdf)
+
+- [ ] [Microsoft PowerPoint - backtestingRiskModels.pptx - backtestingriskmodelspowerpoint.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://faculty.washington.edu/ezivot/econ589/backtestingriskmodelspowerpoint.pdf)
+
+- [ ] [Microsoft Word - BCP06Oct05.doc - Christoffersen.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.ecb.europa.eu/events/pdf/conferences/jcbrconf4/Christoffersen.pdf)
+
+- [ ] [Microsoft Word - CEA@CassWpTemplate - 04-2013.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cass.city.ac.uk/__data/assets/pdf_file/0019/246502/04-2013.pdf)
+
+- [ ] [msc_thesis.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.cs.toronto.edu/~nitish/msc_thesis.pdf)
+
+- [ ] [msc_thesis.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.cs.toronto.edu/~yujiali/papers/msc_thesis.pdf)
+
+- [ ] [nhess-12-3229-2012.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.nat-hazards-earth-syst-sci.net/12/3229/2012/nhess-12-3229-2012.pdf)
+
+- [ ] [Non-Stationary Kriging For Design Optimization - document](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://hal.archives-ouvertes.fr/hal-00734526/document)
+
+- [ ] [NonparametricVAE_Hierarchical_RepresentationL.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://duvenaud.github.io/learn-discrete/slides/NonparametricVAE_Hierarchical_RepresentationL.pdf)
+
+- [ ] [Practical Bayesian Optimization of Machine Learning Algorithms - 4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
+
+- [ ] [Practical Bayesian Optimization of Machine Learning Algorithms - 4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
+
+- [ ] [ProbProg - IntroProbProg.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://duvenaud.github.io/learn-discrete/slides/IntroProbProg.pdf)
+
+- [ ] [project.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cse.wustl.edu/~garnett/cse515t/fall_2019/files/project.pdf)
+
+- [ ] [SISG_4_5.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stat.washington.edu/people/pdhoff/public/SISG-Lectures/SISG_4_5.pdf)
+
+- [ ] [SISG_4_5.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.stat.washington.edu/people/pdhoff/public/SISG-Lectures/SISG_4_5.pdf)
+
+- [ ] [Slides_Seminaire_Validation.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.univ-orleans.fr/deg/masters/ESA/CH/Slides_Seminaire_Validation.pdf)
+
+- [ ] [t.dvi - minka-linear.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://tminka.github.io/papers/minka-linear.pdf)
+
+- [ ] [tr069.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://epub.ub.uni-muenchen.de/11050/1/tr069.pdf)
+
+- [ ] [writing.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf)

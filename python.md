@@ -95,3 +95,46 @@ https://scikit-learn.org/stable/modules/mixture.html
 Machine Learning with Python: Expectation Maximization and Gaussian Mixture Models in Python
 https://www.python-course.eu/expectation_maximization_and_gaussian_mixture_models.php
 
+
+
+
+
+# DataFrame Styling
+
+## 11/30/2019
+
+- [ ] [(2) New Messages!](https://mode.com/)
+
+- [ ] [(2) New Messages!](https://mode.com/)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#dataframe-styling)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#dataframe-styling)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#data-preparation)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#data-preparation)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#dataframe-styling)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#dataframe-styling)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#data-wrangling)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#data-preparation)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#data-preparation)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/)
+
+- [ ] [Dataframe Styling using Pandas | Data Visualization Gallery - Mode Analytics](https://mode.com/example-gallery/python_dataframe_styling/#data-wrangling)
+
+- [ ] [Reports](https://mode.com/help/articles/reports/#schema-browser)
+
+- [ ] [Reports](https://mode.com/help/articles/reports/#query-editor)
+
+- [ ] [Reports](https://mode.com/help/articles/reports/#schema-browser)
+
+- [ ] [Reports](https://mode.com/help/articles/reports/#query-editor)

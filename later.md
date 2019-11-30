@@ -4543,3 +4543,1234 @@ https://www.zhihu.com/question/341466774
 - [ ] [Why typos and spelling mistakes don't really matter - BBC News](https://www.bbc.com/news/business-29529578)
 
 - [ ] [some contributions of economics to the study of personality - Google Search](https://www.google.com/search?ei=kFXVXeLCOa6t_QbVzp_wCA&q=some+contributions+of+economics+to+the+study+of+personality&oq=some+contributions+of+economics+to+the+study+of+personality&gs_l=psy-ab.3...4530.4530..4794...0.2..0.67.67.1......0....1..gws-wiz.......0i71.6g8b0uDp89Y&ved=0ahUKEwjiyovHh_nlAhWuVt8KHVXnB44Q4dUDCAo&uact=5)
+
+
+
+
+## 11/29/2019
+
+- [ ] [Foam offers way to manipulate light | The Program in Applied & Computational Mathematics](https://www.pacm.princeton.edu/news/foam-offers-way-manipulate-light)
+
+- [ ] [v1_BayesainOpt.ipynb - Colaboratory](https://colab.research.google.com/drive/1qX-x0Vz3AS-KlE-ptxY8ICsMPqQBzt88?authuser=1#scrollTo=jfCKkJrHjGtq)
+
+- [ ] [Microsoft Research Lab - Cambridge - Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Flabs%2Fcambridge%2Fdefault.aspx)
+
+- [ ] [Python | grid() method in Tkinter - GeeksforGeeks](https://www.geeksforgeeks.org/python-grid-method-in-tkinter/)
+
+- [ ] [Python - Tkinter grid() Method - Tutorialspoint](https://www.tutorialspoint.com/python/tk_grid.htm)
+
+- [ ] [The Tkinter Grid Geometry Manager](https://effbot.org/tkinterbook/grid.htm)
+
+- [ ] [15 Extended Slices](https://docs.python.org/2.3/whatsnew/section-slices.html)
+
+- [ ] [HEATMAP – The Python Graph Gallery](https://python-graph-gallery.com/heatmap/)
+
+- [ ] [seaborn.heatmap](http://alanpryorjr.com/visualizations/seaborn/heatmap/heatmap/)
+
+- [ ] [Three-Dimensional Plotting in Matplotlib | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html)
+
+- [ ] [3D – The Python Graph Gallery](https://python-graph-gallery.com/3d/)
+
+- [ ] [3D – The Python Graph Gallery](https://python-graph-gallery.com/3d/)
+
+- [ ] [9.2. math — Mathematical functions — Python 2.7.17 documentation](https://docs.python.org/2/library/math.html)
+
+- [ ] [All Mathematical Functions Defined under Math Module in Python 3](https://www.programiz.com/python-programming/modules/math)
+
+- [ ] [math — Mathematical functions — Python 3.8.0 documentation](https://docs.python.org/3/library/math.html)
+
+
+
+
+
+
+
+
+---
+
+## 11/30/2019
+
+- [ ] [A New Metrics for Countries' Fitness and Products' Complexity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467565/)
+
+- [ ] [A New Metrics for Countries' Fitness and Products' Complexity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3467565/)
+
+- [ ] [Chaos in learning a simple two-person game](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC123719/)
+
+- [ ] [Extreme value modelling of Ghana stock exchange index](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643072/)
+
+- [ ] [How to Address Non-normality: A Taxonomy of Approaches, Reviewed, and Illustrated](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6232275/)
+
+- [ ] [Nonlinear information fusion algorithms for data-efficient multi-fidelity modelling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5332612/)
+
+- [ ] [Predictive margins with survey data. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/m/pubmed/11318229/)
+
+- [ ] [Predictive margins with survey data. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/m/pubmed/11318229/)
+
+- [ ] [Progressive sampling-based Bayesian optimization for efficient and automatic machine learning model selection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5617811/)
+
+
+
+## 11/30/2019
+
+- [ ] [Linear programming and discrete optimization with Python using PuLP](https://towardsdatascience.com/linear-programming-and-discrete-optimization-with-python-using-pulp-449f3c5f6e99)
+
+- [ ] [Basic Stacked area chart with R – the R Graph Gallery](https://www.r-graph-gallery.com/136-stacked-area-chart.html)
+
+- [ ] [Identify and Remove Duplicate Data in R - Datanovia](https://www.datanovia.com/en/lessons/identify-and-remove-duplicate-data-in-r/)
+
+- [ ] [Group-By Modeling in R Made Easy | r4stats.com](https://r4stats.com/2017/04/18/group-by-modeling-in-r-made-easy/)
+
+- [ ] [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/plot-margins.html)
+
+- [ ] [Marginal effects: interpret as percentage or percentage points. - Statalist](https://www.statalist.org/forums/forum/general-stata-discussion/general/1301100-marginal-effects-interpret-as-percentage-or-percentage-points)
+
+- [ ] [How to interpret an average marginal effect in a multinomial logit model? - Statalist](https://www.statalist.org/forums/forum/general-stata-discussion/general/1386055-how-to-interpret-an-average-marginal-effect-in-a-multinomial-logit-model)
+
+- [ ] [Marginal Effects using AME and MEM - Statalist](https://www.statalist.org/forums/forum/general-stata-discussion/general/1295771-marginal-effects-using-ame-and-mem)
+
+- [ ] [Sociology 73994 - Categorical Data Analysis](https://www3.nd.edu/~rwilliam/stats3/)
+
+- [ ] [Rates of change and the slope of a curve](http://www.ugrad.math.ubc.ca/coursedoc/math100/notes/derivative/slope.html)
+
+- [ ] [The Ames Test or Bacterial Reverse Mutation Test - Eurofins Scientific](https://www.eurofins.com.au/biopharma-services/testing-solutions/chemistry-toxicology/the-ames-test/)
+
+- [ ] [Problem Set 4](file:///C:/Users/Administrator/Downloads/ps4.html)
+
+- [ ] [Credit Termination and the Technology Bubbles - Munich Personal RePEc Archive](https://mpra.ub.uni-muenchen.de/29010/)
+
+- [ ] [Mirrlees, J. (1999) The Theory of Moral Hazard and Unobservable Behaviour. Part I. The Review of Economic Studies, 66, 3-21. - References - Scientific Research Publishing](https://www.scirp.org/(S(351jmbntvnsjt1aadkposzje))/reference/ReferencesPapers.aspx?ReferenceID=1792679)
+
+- [ ] [Theory of Moral Hazard and Unobservable Behaviour: Part I - Oxford Scholarship](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198295211.001.0001/acprof-9780198295211-chapter-17)
+
+- [ ] [EconPapers: The Theory of Moral Hazard and Unobservable Behaviour: Part I](https://econpapers.repec.org/article/ouprestud/v_3a66_3ay_3a1999_3ai_3a1_3ap_3a3-21..htm)
+
+- [ ] [Daniel McFadden | USC Sol Price School of Public Policy](https://priceschool.usc.edu/people/daniel-mcfadden/)
+
+- [ ] [Welcome | Cowles Foundation for Research in Economics](https://cowles.yale.edu/)
+
+- [ ] [Search results for "Designing Economic Mechanisms" (showing 1-1 of 1 books) | Goodreads](https://www.goodreads.com/search?utf8=%E2%9C%93&query=Designing%20Economic%20Mechanisms)
+
+- [ ] [Institute for New Economic Thinking](https://www.ineteconomics.org/perspectives/blog/matching-the-moment-but-missing-the-point)
+
+- [ ] [Complexity theory and financial regulation | Science](https://science.sciencemag.org/content/351/6275/818?ijkey=27U8rb7qZxm4Y&keytype=ref&siteid=sci)
+
+- [ ] [Piano In 21 Days – Online Piano Course to Learn Piano Fast](https://pianoin21days.com/)
+
+- [ ] [Syllabus225 - Google Docs](https://docs.google.com/document/d/1GP88pG0YK5txQHySR-ZeCuLpeXbE-UCDUM298mnh0p8/edit)
+
+- [ ] [Professional Advice | Susan Athey](https://athey.people.stanford.edu/professional-advice)
+
+- [ ] [American Economic Association](https://www.aeaweb.org/resources/students/grad-prep)
+
+- [ ] [Grad School Prep – Economics](https://econ.williams.edu/student-resources/grad-school-preparation/)
+
+- [ ] [Tips for Public Speaking – speaking.io](https://speaking.io/)
+
+- [ ] [Rik Warch – TEDxLawrenceU](http://www.tedxlawrenceu.com/speakers/rik-warch/)
+
+- [ ] [Brian Pertl – TEDxLawrenceU](http://www.tedxlawrenceu.com/speakers/brian-pertl/)
+
+- [ ] [What Is Liberal Education? | Association of American Colleges & Universities](https://www.aacu.org/leap/what-is-liberal-education)
+
+- [ ] [Computation and Complexity in Economic Behavior and Organization by Kenneth R. Mount](https://www.cambridge.org/core/books/computation-and-complexity-in-economic-behavior-and-organization/E72585594FA602D380BEFA40EF2B4CC0)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20071024042342/http://www.santafe.edu/research/publications/workingpapers/97-10-080.pdf)
+
+- [ ] [OEC: The Observatory of Economic Complexity](https://oec.world/en/)
+
+- [ ] [Home | Santa Fe Institute](https://www.santafe.edu/)
+
+- [ ] [Complexity matters - The building blocks of economic growth](https://www.economist.com/free-exchange/2011/10/27/complexity-matters)
+
+- [ ] [Diversity training - Economics focus](https://www.economist.com/finance-and-economics/2010/02/04/diversity-training?story_id=15452697)
+
+- [ ] [New YouTube Homepage, fresh look and new features on desktop and tablets - YouTube Help](https://support.google.com/youtube/thread/18132714)
+
+- [ ] [BCG in the Nordics – Global Management Consulting](https://www.bcg.com/en-nor/default.aspx)
+
+- [ ] [500 Internal Privoxy Error](http://pilhd.phys.uniroma1.it/PILgroup_Economic_Complexity/Home_files/economic_complexity_flyer%20_v2_1.pdf)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20130512173052/http://www.psych.lse.ac.uk/complexity/Papers/Ch2final.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://psych.lse.ac.uk/complexity/Papers/Ch2final.pdf)
+
+- [ ] [The changing face of mainstream economics: Review of Political Economy: Vol 16, No 4](https://www.tandfonline.com/doi/abs/10.1080/0953825042000256702)
+
+- [ ] [The Death of Neoclassical Economics | Journal of the History of Economic Thought | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/death-of-neoclassical-economics/7DAD02FFF3DDAF610302DE521D64FE1D)
+
+- [ ] [www.rollins.edu](https://www.rollins.edu/business/faculty/economics/seyfried.html)
+
+- [ ] [KU Leuven who's who - Christina Seyfried](https://www.kuleuven.be/wieiswie/en/person/00103605)
+
+- [ ] [Economics PhD | Occidental College](https://www.oxy.edu/academics/areas-study/economics/careers/economics-phd)
+
+- [ ] [Graduate Students Began Phd Program Fall 2016 | Department of Political Science](https://politicalscience.yale.edu/people/graduate-students-began-phd-program-fall-2016)
+
+- [ ] [Christina Seyfried | Department of Political Science](https://politicalscience.yale.edu/people/christina-seyfried)
+
+- [ ] [Basic Stacked area chart with R – the R Graph Gallery](https://www.r-graph-gallery.com/136-stacked-area-chart.html)
+
+- [ ] [Identify and Remove Duplicate Data in R - Datanovia](https://www.datanovia.com/en/lessons/identify-and-remove-duplicate-data-in-r/)
+
+- [ ] [Group-By Modeling in R Made Easy | r4stats.com](https://r4stats.com/2017/04/18/group-by-modeling-in-r-made-easy/)
+
+- [ ] [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/plot-margins.html)
+
+- [ ] [Marginal effects: interpret as percentage or percentage points. - Statalist](https://www.statalist.org/forums/forum/general-stata-discussion/general/1301100-marginal-effects-interpret-as-percentage-or-percentage-points)
+
+- [ ] [How to interpret an average marginal effect in a multinomial logit model? - Statalist](https://www.statalist.org/forums/forum/general-stata-discussion/general/1386055-how-to-interpret-an-average-marginal-effect-in-a-multinomial-logit-model)
+
+- [ ] [Marginal Effects using AME and MEM - Statalist](https://www.statalist.org/forums/forum/general-stata-discussion/general/1295771-marginal-effects-using-ame-and-mem)
+
+- [ ] [Sociology 73994 - Categorical Data Analysis](https://www3.nd.edu/~rwilliam/stats3/)
+
+- [ ] [Rates of change and the slope of a curve](http://www.ugrad.math.ubc.ca/coursedoc/math100/notes/derivative/slope.html)
+
+- [ ] [The Ames Test or Bacterial Reverse Mutation Test - Eurofins Scientific](https://www.eurofins.com.au/biopharma-services/testing-solutions/chemistry-toxicology/the-ames-test/)
+
+- [ ] [Problem Set 4](file:///C:/Users/Administrator/Downloads/ps4.html)
+
+- [ ] [Credit Termination and the Technology Bubbles - Munich Personal RePEc Archive](https://mpra.ub.uni-muenchen.de/29010/)
+
+- [ ] [Mirrlees, J. (1999) The Theory of Moral Hazard and Unobservable Behaviour. Part I. The Review of Economic Studies, 66, 3-21. - References - Scientific Research Publishing](https://www.scirp.org/(S(351jmbntvnsjt1aadkposzje))/reference/ReferencesPapers.aspx?ReferenceID=1792679)
+
+- [ ] [Theory of Moral Hazard and Unobservable Behaviour: Part I - Oxford Scholarship](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198295211.001.0001/acprof-9780198295211-chapter-17)
+
+- [ ] [EconPapers: The Theory of Moral Hazard and Unobservable Behaviour: Part I](https://econpapers.repec.org/article/ouprestud/v_3a66_3ay_3a1999_3ai_3a1_3ap_3a3-21..htm)
+
+- [ ] [Daniel McFadden | USC Sol Price School of Public Policy](https://priceschool.usc.edu/people/daniel-mcfadden/)
+
+- [ ] [Welcome | Cowles Foundation for Research in Economics](https://cowles.yale.edu/)
+
+- [ ] [Search results for "Designing Economic Mechanisms" (showing 1-1 of 1 books) | Goodreads](https://www.goodreads.com/search?utf8=%E2%9C%93&query=Designing%20Economic%20Mechanisms)
+
+- [ ] [Institute for New Economic Thinking](https://www.ineteconomics.org/perspectives/blog/matching-the-moment-but-missing-the-point)
+
+- [ ] [Complexity theory and financial regulation | Science](https://science.sciencemag.org/content/351/6275/818?ijkey=27U8rb7qZxm4Y&keytype=ref&siteid=sci)
+
+- [ ] [Piano In 21 Days – Online Piano Course to Learn Piano Fast](https://pianoin21days.com/)
+
+- [ ] [Syllabus225 - Google Docs](https://docs.google.com/document/d/1GP88pG0YK5txQHySR-ZeCuLpeXbE-UCDUM298mnh0p8/edit)
+
+- [ ] [Professional Advice | Susan Athey](https://athey.people.stanford.edu/professional-advice)
+
+- [ ] [American Economic Association](https://www.aeaweb.org/resources/students/grad-prep)
+
+- [ ] [Grad School Prep – Economics](https://econ.williams.edu/student-resources/grad-school-preparation/)
+
+- [ ] [Tips for Public Speaking – speaking.io](https://speaking.io/)
+
+- [ ] [Rik Warch – TEDxLawrenceU](http://www.tedxlawrenceu.com/speakers/rik-warch/)
+
+- [ ] [Brian Pertl – TEDxLawrenceU](http://www.tedxlawrenceu.com/speakers/brian-pertl/)
+
+- [ ] [What Is Liberal Education? | Association of American Colleges & Universities](https://www.aacu.org/leap/what-is-liberal-education)
+
+- [ ] [Computation and Complexity in Economic Behavior and Organization by Kenneth R. Mount](https://www.cambridge.org/core/books/computation-and-complexity-in-economic-behavior-and-organization/E72585594FA602D380BEFA40EF2B4CC0)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20071024042342/http://www.santafe.edu/research/publications/workingpapers/97-10-080.pdf)
+
+- [ ] [OEC: The Observatory of Economic Complexity](https://oec.world/en/)
+
+- [ ] [Home | Santa Fe Institute](https://www.santafe.edu/)
+
+- [ ] [Complexity matters - The building blocks of economic growth](https://www.economist.com/free-exchange/2011/10/27/complexity-matters)
+
+- [ ] [Diversity training - Economics focus](https://www.economist.com/finance-and-economics/2010/02/04/diversity-training?story_id=15452697)
+
+- [ ] [New YouTube Homepage, fresh look and new features on desktop and tablets - YouTube Help](https://support.google.com/youtube/thread/18132714)
+
+- [ ] [BCG in the Nordics – Global Management Consulting](https://www.bcg.com/en-nor/default.aspx)
+
+- [ ] [500 Internal Privoxy Error](http://pilhd.phys.uniroma1.it/PILgroup_Economic_Complexity/Home_files/economic_complexity_flyer%20_v2_1.pdf)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20130512173052/http://www.psych.lse.ac.uk/complexity/Papers/Ch2final.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://psych.lse.ac.uk/complexity/Papers/Ch2final.pdf)
+
+- [ ] [The changing face of mainstream economics: Review of Political Economy: Vol 16, No 4](https://www.tandfonline.com/doi/abs/10.1080/0953825042000256702)
+
+- [ ] [The Death of Neoclassical Economics | Journal of the History of Economic Thought | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/death-of-neoclassical-economics/7DAD02FFF3DDAF610302DE521D64FE1D)
+
+- [ ] [Scheduling with ease: Cost optimization tutorial for Python](https://towardsdatascience.com/scheduling-with-ease-cost-optimization-tutorial-for-python-c05a5910ee0d)
+
+- [ ] [Introduction to Linear Programming and Optimization in simple english](https://www.analyticsvidhya.com/blog/2017/02/lintroductory-guide-on-linear-programming-explained-in-simple-english/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [Integer Programs and Network Models](http://home.ubalt.edu/ntsbarsh/Business-stat/opre/PartIII.htm)
+
+- [ ] [Integer Programs and Network Models](http://home.ubalt.edu/ntsbarsh/Business-stat/opre/PartIII.htm#rtrasapr)
+
+- [ ] [Integer Programs and Network Models](http://home.ubalt.edu/ntsbarsh/Business-stat/opre/PartIII.htm#rcapbudget)
+
+- [ ] [Integer Programs and Network Models](http://home.ubalt.edu/ntsbarsh/Business-stat/opre/PartIII.htm#rScheduling)
+
+- [ ] [Integer Programs and Network Models](http://home.ubalt.edu/ntsbarsh/Business-stat/opre/PartIII.htm#rmarketing)
+
+- [ ] [Integer Programs and Network Models](http://home.ubalt.edu/ntsbarsh/Business-stat/opre/PartIII.htm#rcuttingstock)
+
+- [ ] [Integer Programs and Network Models](http://home.ubalt.edu/ntsbarsh/Business-stat/opre/PartIII.htm#rengineering)
+
+- [ ] [logic - If then convex condition in mixed integer linear programming with binary variables - Mathematics Stack Exchange](https://math.stackexchange.com/questions/3176907/if-then-convex-condition-in-mixed-integer-linear-programming-with-binary-variabl)
+
+- [ ] [Integer Linear Programming: Sum of Products of Binary Variables - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2893783/integer-linear-programming-sum-of-products-of-binary-variables)
+
+- [ ] [Is there any mixed integer linear programming module capable of handling integer variables exactly? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2660054/is-there-any-mixed-integer-linear-programming-module-capable-of-handling-integer)
+
+- [ ] [Binary variables in time series: integer linear programming - Mathematics Stack Exchange](https://math.stackexchange.com/questions/3008969/binary-variables-in-time-series-integer-linear-programming)
+
+- [ ] [optimization - Binary integer variables in linear programming - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1851140/binary-integer-variables-in-linear-programming)
+
+- [ ] [Linear Programming with Python and PuLP – Ben Alex Keen](http://benalexkeen.com/linear-programming-with-python-and-pulp/)
+
+- [ ] [Price Optimization (IT Best Kept Secret Is Optimization)](https://www.ibm.com/developerworks/community/blogs/jfp/entry/price_optimization?lang=en)
+
+- [ ] [How Zara Really Grew Into the World s Largest Fashion Retailer (IT Best Kept Secret Is Optimization)](https://www.ibm.com/developerworks/community/blogs/jfp/entry/zara?lang=en)
+
+- [ ] [Introductory guide to Linear Optimization in Python (TED videos case)](https://www.analyticsvidhya.com/blog/2017/10/linear-optimization-in-python/)
+
+- [ ] [Linear Programming in Python: A Straight Forward Tutorial - By Marin Vlastelica Pogančić](https://hackernoon.com/linear-programming-in-python-a-straight-forward-tutorial-a0d152618121)
+
+- [ ] [An Introduction to margins](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html#interactions_in_ols)
+
+- [ ] [An Introduction to margins](https://cran.r-project.org/web/packages/margins/vignettes/Introduction.html)
+
+- [ ] [Create Awesome HTML Table with knitr::kable and kableExtra](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
+
+- [ ] [Create Awesome HTML Table with knitr::kable and kableExtra](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
+
+- [ ] [Laying out multiple plots on a page](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html)
+
+- [ ] [ISOM 4000 proposal - Google Docs](https://docs.google.com/document/d/1v6VRZpNjL20wJkF4kKRuAr6H2eXhlI0rE0Ipi8CXYlg/edit)
+
+- [ ] [ggplot2 - Easy Way to Mix Multiple Graphs on The Same Page - Articles - STHDA](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/)
+
+- [ ] [ggplot2 - Easy Way to Mix Multiple Graphs on The Same Page - Articles - STHDA](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/)
+
+- [ ] [ggplot2 area plot : Quick start guide - R software and data visualization - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/ggplot2-area-plot-quick-start-guide-r-software-and-data-visualization)
+
+- [ ] [ggplot2 area plot : Quick start guide - R software and data visualization - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/ggplot2-area-plot-quick-start-guide-r-software-and-data-visualization)
+
+- [ ] [ggplot2 area plot : Quick start guide - R software and data visualization - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/ggplot2-area-plot-quick-start-guide-r-software-and-data-visualization)
+
+- [ ] [ggplot2 area plot : Quick start guide - R software and data visualization - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/ggplot2-area-plot-quick-start-guide-r-software-and-data-visualization)
+
+- [ ] [ggplot2 facet : split a plot into a matrix of panels - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/ggplot2-facet-split-a-plot-into-a-matrix-of-panels)
+
+- [ ] [ggplot2 facet : split a plot into a matrix of panels - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/ggplot2-facet-split-a-plot-into-a-matrix-of-panels)
+
+- [ ] [Comments on reproducibility](https://kbroman.org/knitr_knutshell/pages/reproducible.html)
+
+- [ ] [Comments on reproducibility](https://kbroman.org/knitr_knutshell/pages/reproducible.html)
+
+- [ ] [Figures and tables](https://kbroman.org/knitr_knutshell/pages/figs_tables.html)
+
+- [ ] [Figures and tables](https://kbroman.org/knitr_knutshell/pages/figs_tables.html)
+
+- [ ] [https://kbroman.org/knitr_knutshell/assets/short_examples/kable.html](https://kbroman.org/knitr_knutshell/assets/short_examples/kable.html)
+
+- [ ] [https://kbroman.org/knitr_knutshell/assets/short_examples/kable.html](https://kbroman.org/knitr_knutshell/assets/short_examples/kable.html)
+
+- [ ] [Knitr with asciidoc](https://kbroman.org/knitr_knutshell/pages/asciidoc.html)
+
+- [ ] [Knitr with asciidoc](https://kbroman.org/knitr_knutshell/pages/asciidoc.html)
+
+- [ ] [Knitr with LaTeX](https://kbroman.org/knitr_knutshell/pages/latex.html)
+
+- [ ] [Knitr with LaTeX](https://kbroman.org/knitr_knutshell/pages/latex.html)
+
+- [ ] [Game Theory, Gamified | Adam Galambos](http://faculty.lawrence.edu/galamboa/learngametheory/)
+
+- [ ] [Game Theory, Gamified | Adam Galambos](http://faculty.lawrence.edu/galamboa/learngametheory/)
+
+- [ ] [Models | Adam Galambos](http://faculty.lawrence.edu/galamboa/models/)
+
+- [ ] [Models | Adam Galambos](http://faculty.lawrence.edu/galamboa/models/)
+
+- [ ] [Research | Adam Galambos](http://faculty.lawrence.edu/galamboa/research/)
+
+- [ ] [Research | Adam Galambos](http://faculty.lawrence.edu/galamboa/research/)
+
+- [ ] [Resources | Adam Galambos](http://faculty.lawrence.edu/galamboa/resources/)
+
+- [ ] [Resources | Adam Galambos](http://faculty.lawrence.edu/galamboa/resources/)
+
+- [ ] [Teaching | Adam Galambos](http://faculty.lawrence.edu/galamboa/teaching/)
+
+- [ ] [Teaching | Adam Galambos](http://faculty.lawrence.edu/galamboa/teaching/)
+
+- [ ] [ut | Adam Galambos](http://faculty.lawrence.edu/galamboa/ut/)
+
+- [ ] [Videos | Adam Galambos](http://faculty.lawrence.edu/galamboa/videos/#eu)
+
+- [ ] [Videos | Adam Galambos](http://faculty.lawrence.edu/galamboa/videos/#eu)
+
+- [ ] [404 Not Found](https://ofb.net/~frederik/nb)
+
+- [ ] [Are Your Jeans Red or Blue? Shopping America’s Partisan Divide - WSJ](https://www.wsj.com/articles/are-your-jeans-red-or-blue-shopping-americas-partisan-divide-11574185777)
+
+- [ ] [Macro Hive - For The Thinking Investor](https://macrohive.com/)
+
+- [ ] [Opinion | What if All That Flying Is Good for the Planet? - The New York Times](https://www.nytimes.com/2019/11/19/opinion/climate-change-travel.html?action=click&module=Opinion&pgtype=Homepage)
+
+- [ ] [Tyler Ransom by tyleransom](https://tyleransom.github.io/)
+
+- [ ] [The history of smallpox & the origins of vaccines](https://rootsofprogress.org/smallpox-and-vaccines)
+
+- [ ] [The Roots of Progress](https://rootsofprogress.org/)
+
+- [ ] [This Japanese hotel room costs $1 a night. The catch? You have to livestream your stay | CNN Travel](https://www.cnn.com/travel/article/livestream-hotel-room-japan-intl-hnk/index.html)
+
+- [ ] [Hotel room costs $1, but it's livestreamed at all times - UPI.com](https://www.upi.com/Odd_News/2019/11/20/Hotel-room-costs-1-but-its-livestreamed-at-all-times/3681574268683/?sl=4)
+
+- [ ] [Monetary Easing, Leveraged Payouts and Lack of Investment](https://www.nber.org/papers/w26471#fromrss)
+
+- [ ] [Lists: Best of the 2010s Decade](http://www.fimoculous.com/decade-review-2010.cfm)
+
+- [ ] [Why some people are impossibly talented - BBC Worklife](https://www.bbc.com/worklife/article/20191118-what-shapes-a-polymath---and-do-we-need-them-more-than-ever)
+
+- [ ] [Bar_Talk_11_19.pdf - Google Drive](https://drive.google.com/file/d/19aFmOSb-gbxyeUXRvs2OV9JGllIhGLvB/view)
+
+- [ ] [Spencer Dinwiddie Contract | HoopsHype](https://hoopshype.com/storyline/spencer-dinwiddie-contract/)
+
+- [ ] [My Five Favorite Novels with Economics Themes - Econlib](https://www.econlib.org/my-five-favorite-novels-with-economics-themes/)
+
+- [ ] [Shelley Boulianne](https://academic.macewan.ca/bouliannes/)
+
+- [ ] [A Wealth Tax Would Hurt Charities, Too - Bloomberg](https://www.bloomberg.com/opinion/articles/2019-11-21/a-wealth-tax-would-hurt-charities-too?utm_content=business&utm_source=twitter&utm_medium=social&cmpid=socialflow-twitter-business&utm_campaign=socialflow-organic)
+
+- [ ] [Women are more likely than men to say ‘please’ to their smart speaker - The Verge](https://www.theverge.com/2019/11/22/20977442/ai-politeness-smart-speaker-alexa-siri-please-thank-you-pew-gender-sur)
+
+- [ ] [The impact of direct air carbon capture on climate change](http://cognitivemedium.com/dac-notes)
+
+- [ ] [Science funders gamble on grant lotteries](https://www.nature.com/articles/d41586-019-03572-7)
+
+- [ ] [My Nutstore - Nutstore - Cloud Storage|Cloud Disk|Network Disk|Synchronous|Backup|Unlimited Space|Free Network Hard Disk|Dropbox|Box|Onedrive|Google Drive](https://www.jianguoyun.com/d/home#/)
+
+- [ ] [constructing kernels - Metacademy](https://metacademy.org/graphs/concepts/constructing_kernels#lfocus=constructing_kernels)
+
+- [ ] [kernel trick - Metacademy](https://metacademy.org/graphs/concepts/kernel_trick#lfocus=kernel_trick)
+
+- [ ] [Metacademy - Bayesian machine learning](https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning)
+
+- [ ] [brunaw.com](https://brunaw.com/phd/bayes-regression/report.pdf)
+
+- [ ] [Simple Linear Regression? Do It The Bayesian Way | DataMiningApps](https://www.dataminingapps.com/2017/09/simple-linear-regression-do-it-the-bayesian-way/)
+
+- [ ] [Bayesian linear regression - Metacademy](https://metacademy.org/graphs/concepts/bayesian_linear_regression)
+
+- [ ] [Bayesian Linear Regression](http://fourier.eng.hmc.edu/e176/lectures/ch7/node16.html)
+
+- [ ] [Bayesian Learning for Machine Learning: Part II - Linear Regression](https://wso2.com/blog/research/part-two-linear-regression)
+
+- [ ] [What is Bayesian Linear Regression?](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/learn-43/lib/photoz/.g/web/glossary/bayesian.html)
+
+- [ ] [Chapter 6 Introduction to Bayesian Regression | An Introduction to Bayesian Thinking](https://statswithr.github.io/book/introduction-to-bayesian-regression.html)
+
+- [ ] [Introduction to Bayesian Linear Regression - Towards Data Science](https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7)
+
+- [ ] [R Programming/Linear Models - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/R_Programming/Linear_Models#Bayesian_estimation)
+
+- [ ] [(28 封私信 / 37 条消息) Windows 10 自带输入法如何快速切换简繁体? - 知乎](https://www.zhihu.com/question/38400073)
+
+- [ ] [Teambition | Product](https://www.teambition.com/tour?utm_source=zhihu&utm_campaign=tour_gantt0604&utm_keyword=tour_gantt0604)
+
+- [ ] [Teambition | Product](https://www.teambition.com/tour?utm_source=zhihu&utm_campaign=tour_gantt0604&utm_keyword=tour_gantt0604)
+
+- [ ] [Probabilistic Numerics.org](http://www.probabilistic-numerics.org/)
+
+- [ ] [How to Create Publication Quality Figures in R - Julie Jung](https://www.jungjulie.com/post/3-create-pub-qual-figs/make-figs/)
+
+- [ ] [How to Create Publication Quality Figures in R - Julie Jung](https://www.jungjulie.com/post/3-create-pub-qual-figs/make-figs/)
+
+- [ ] [Public Appeal: Applicants needed to find face of new line of robots - Geomiq](https://geomiq.com/blog/public-appeal-applicants-needed-to-find-face-of-new-line-of-robots/)
+
+- [ ] [geomiq.com](https://geomiq.com/wp-content/uploads/2019/10/robot-face-01.png)
+
+- [ ] [Rosebud AI](https://app.generative.photos/)
+
+- [ ] [Cycling '74](https://cycling74.com/)
+
+- [ ] [NaturalPoint, Inc. - Optical Tracking Solutions](http://www.naturalpoint.com/)
+
+- [ ] [Britney Spears' Guide to Semiconductor Physics - Lasers and Optoelectronics](http://britneyspears.ac/lasers.htm)
+
+- [ ] [持続可能なエネルギー―「数値」で見るその可能性 | デービッド Ｊ.Ｃ.マッケイ, 村岡克紀 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E2%80%95%E3%80%8C%E6%95%B0%E5%80%A4%E3%80%8D%E3%81%A7%E8%A6%8B%E3%82%8B%E3%81%9D%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7-%E3%83%87%E3%83%BC%E3%83%93%E3%83%83%E3%83%89-%EF%BC%AA-%EF%BC%A3-%E3%83%9E%E3%83%83%E3%82%B1%E3%82%A4/dp/4782801696/ref=sr_1_1?ie=UTF8&s=books&qid=1289788749&sr=1-1)
+
+- [ ] [segMGarch source: R/kupiec.R](https://rdrr.io/cran/segMGarch/src/R/kupiec.R)
+
+- [ ] [Priority - Google Drive](https://drive.google.com/drive/u/2/priority)
+
+- [ ] [Capital raising, underwriting and the certification hypothesis - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0304405X86900577)
+
+- [ ] [Investment banking, reputation, and the underpricing of initial public offerings - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0304405X86900553)
+
+- [ ] [What is the Coase Theorem? - ScienceDirect](https://www.sciencedirect.com/science/article/pii/092214259400038U?via%3Dihub)
+
+- [ ] [R help - RUGARCH, VaRTest problem with conditional coverage test](https://r.789695.n4.nabble.com/RUGARCH-VaRTest-problem-with-conditional-coverage-test-td4712185.html)
+
+- [ ] [James Robert Lloyd](http://jamesrobertlloyd.com/)
+
+- [ ] [James Robert Lloyd](http://jamesrobertlloyd.com/research.html)
+
+- [ ] [James Robert Lloyd](http://jamesrobertlloyd.com/)
+
+- [ ] [In-Depth: Kernel Density Estimation | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html)
+
+- [ ] [05.13-Kernel-Density-Estimation.ipynb - Colaboratory](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.13-Kernel-Density-Estimation.ipynb)
+
+- [ ] [2.8. Density Estimation — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/modules/density.html)
+
+- [ ] [Kernel Density Estimation in Python | Pythonic Perambulations](https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/)
+
+- [ ] [Great Wall KDE — astroML 0.4 documentation](http://www.astroml.org/book_figures/chapter6/fig_great_wall_KDE.html)
+
+- [ ] [Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete/)
+
+- [ ] [500 Internal Privoxy Error](http://www.gatsby.ucl.ac.uk/~porbanz/talks/nipstutorial.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf)
+
+- [ ] [probmods.org](https://probmods.org/)
+
+- [ ] [Learning to Search](https://duvenaud.github.io/learning-to-search/)
+
+- [ ] [STA414](https://duvenaud.github.io/sta414/)
+
+- [ ] [Undergraduate Certificate Program | Center for Statistics and Machine Learning](https://csml.princeton.edu/undergraduates/certificate-program)
+
+- [ ] [How to Make a Heatmap – a Quick and Easy Solution | FlowingData](https://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/)
+
+- [ ] [Jobs Data Lift Recovery Hopes - WSJ](https://www.wsj.com/articles/SB125993225142676615#articleTabs%3Dinteractive)
+
+- [ ] [(14) How to plot topographical map of scalp from EEG data?](https://www.researchgate.net/post/How_to_plot_topographical_map_of_scalp_from_EEG_data)
+
+- [ ] [Heatmaps | Python | Plotly](https://plot.ly/python/heatmaps/)
+
+- [ ] [Data Visualization using Matplotlib - Towards Data Science](https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70)
+
+- [ ] [Visualizing Biological Data | Python/v3 | Plotly](https://plot.ly/python/v3/ipython-notebooks/bioinformatics/)
+
+- [ ] [Glioblastoma - Glioblastoma](http://help.brain-map.org/display/glioblastoma/Glioblastoma)
+
+- [ ] [7.3.1 Classification of stationary points](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/node138.html)
+
+- [ ] [Calculus - Academic Skills Kit (ASK) - Newcastle University](https://internal.ncl.ac.uk/ask/numeracy-maths-statistics/core-mathematics/calculus/stationary-points.html)
+
+- [ ] [BestMaths](http://bestmaths.net/online/index.php/year-levels/year-12/year-12-topic-list/stationary-and-turning-points/)
+
+- [ ] [Calculus Revision, Maths First, Institute of Fundamental Sciences, Massey University](http://mathsfirst.massey.ac.nz/Calculus/SignsOfDer/SignsOfDer.htm)
+
+- [ ] [Papers With Code : Gaussian Processes](https://paperswithcode.com/task/gaussian-processes/codeless?page=11)
+
+- [ ] [The intuitions behind Bayesian Optimization with Gaussian Processes](https://towardsdatascience.com/the-intuitions-behind-bayesian-optimization-with-gaussian-processes-7e00fcc898a0)
+
+- [ ] [A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
+
+- [ ] [Non-stationary kriging for design optimization | Semantic Scholar](https://www.semanticscholar.org/paper/Non-stationary-kriging-for-design-optimization-Toal-Keane/52d9ef5ea27829d389be44b1d8382951b5d935b0)
+
+- [ ] [Gaussian processes for machine learning | Semantic Scholar](https://www.semanticscholar.org/paper/Gaussian-processes-for-machine-learning-Rasmussen-Williams/82266f6103bade9005ec555ed06ba20b5210ff22)
+
+- [ ] [Partial Differentiation: Stationary Points](http://wwwf.imperial.ac.uk/metric/metric_public/partial_differentiation/applications/stationary_points.html)
+
+- [ ] [Stationarity and differencing of time series data](https://people.duke.edu/~rnau/411diff.htm)
+
+- [ ] [www.u.arizona.edu/~donaldm/homepage/prob_st.html](http://www.u.arizona.edu/~donaldm/homepage/prob_st.html)
+
+- [ ] [Local stationarity and simulation of self-affine intrinsic random functions](https://dl.acm.org/citation.cfm?id=2266572)
+
+- [ ] [José Miguel Hernández-Lobato](https://jmhl.org/)
+
+- [ ] [José Miguel Hernández Lobato – Medium](https://medium.com/@jmhernandezlobato)
+
+- [ ] [Learn R, Python & Data Science Online](https://www.datacamp.com/)
+
+- [ ] [Linear Classifiers in Python | DataCamp](https://www.datacamp.com/courses/linear-classifiers-in-python)
+
+- [ ] [Tabular — tabular v0.0.8 documentation](http://web.mit.edu/yamins/www/tabular/index.html)
+
+- [ ] [Yakir Reshef](https://web.mit.edu/yakirr/www/)
+
+- [ ] [Blog – Laboratory for Intelligent Probabilistic Systems](https://lips.cs.princeton.edu/front-page/blog/)
+
+- [ ] [Laboratory for Intelligent Probabilistic Systems – Princeton University Department of Computer Science](https://lips.cs.princeton.edu/)
+
+- [ ] [Publications – Laboratory for Intelligent Probabilistic Systems](https://lips.cs.princeton.edu/pubs/)
+
+- [ ] [CPSC 540: Machine learning](https://www.cs.ubc.ca/~nando/540-2013/assignments.html)
+
+- [ ] [CPSC 540: Machine learning](https://www.cs.ubc.ca/~nando/540-2013/project.html)
+
+- [ ] [CPSC 540: Machine learning](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+
+- [ ] [CPSC 540: Machine learning](https://www.cs.ubc.ca/~nando/540-2013/python.html)
+
+- [ ] [Nando de Freitas](https://www.cs.ubc.ca/~nando/software.html)
+
+- [ ] [Nando de Freitas](https://www.cs.ubc.ca/~nando/teaching.html)
+
+- [ ] [Science One CS Homepage](https://www.cs.ubc.ca/~mgelbart/courses/ScienceOneCS/)
+
+- [ ] [www.cs.ubc.ca](https://www.cs.ubc.ca/~ascibior/)
+
+- [ ] [Dougal Maclaurin](https://dougalmaclaurin.com/projects.html#firefly)
+
+- [ ] [Dougal Maclaurin](https://dougalmaclaurin.com/projects.html#hypergrad)
+
+- [ ] [Dougal Maclaurin](https://dougalmaclaurin.com/projects.html#photophysics)
+
+- [ ] [Dougal Maclaurin](https://dougalmaclaurin.com/projects.html#neural-fps)
+
+- [ ] [John P. Cunningham](http://stat.columbia.edu/~cunningham/#research)
+
+- [ ] [John P. Cunningham](http://stat.columbia.edu/~cunningham/)
+
+- [ ] [John P. Cunningham](http://stat.columbia.edu/~cunningham/)
+
+- [ ] [John P. Cunningham](http://stat.columbia.edu/~cunningham/)
+
+- [ ] [John Cunningham - Google Scholar Citations](https://scholar.google.com/citations?user=88cU_4UAAAAJ)
+
+- [ ] [Columbia Advanced Machine Learning Seminar](https://casmls.github.io/)
+
+- [ ] [Columbia Advanced Machine Learning Seminar](https://casmls.github.io/)
+
+- [ ] [www.cs.columbia.edu/~blei/](http://www.cs.columbia.edu/~blei/)
+
+- [ ] [lists.cs.princeton.edu Mailing Lists](https://lists.cs.princeton.edu/mailman/listinfo/topic-models)
+
+- [ ] [delve data summary table](http://www.cs.utoronto.ca/~delve/data/summaryTable.html)
+
+- [ ] [Delve Guidelines](http://www.cs.utoronto.ca/~delve/methodSubmit.html)
+
+- [ ] [Delve Learning Methods](http://www.cs.utoronto.ca/~delve/methods/methods.html)
+
+- [ ] [Home Page of Geoffrey Hinton](http://www.cs.utoronto.ca/~hinton/)
+
+- [ ] [Radford Neal's Home Page](http://www.cs.utoronto.ca/~radford/)
+
+- [ ] [Grouped means (again) | R-bloggers](https://www.r-bloggers.com/grouped-means-again/)
+
+- [ ] [How to Summarize a Data Frame by Groups in R | R-bloggers](https://www.r-bloggers.com/how-to-summarize-a-data-frame-by-groups-in-r/)
+
+- [ ] [Setting graph margins in R using the par() function and lots of cow milk | R-bloggers](https://www.r-bloggers.com/setting-graph-margins-in-r-using-the-par-function-and-lots-of-cow-milk/)
+
+- [ ] [Setting graph margins in R using the par() function and lots of cow milk | R-bloggers](https://www.r-bloggers.com/setting-graph-margins-in-r-using-the-par-function-and-lots-of-cow-milk/)
+
+- [ ] [Speed boosting in R: Writing efficient code & parallel programming | R-bloggers](https://www.r-bloggers.com/speed-boosting-in-r-writing-efficient-code-parallel-programming/)
+
+- [ ] [Department of Computer Science: Nando de Freitas](http://www.cs.ox.ac.uk/people/nando.defreitas/)
+
+- [ ] [EXCLUSIF. Une deuxième plainte contre Gérald Darmanin - Le Point](https://www.lepoint.fr/justice/exclusif-une-deuxieme-plainte-contre-gerald-darmanin-14-02-2018-2194942_2386.php)
+
+- [ ] [R: Iterative Quadrature](http://search.r-project.org/library/LaplacesDemon/html/IterativeQuadrature.html)
+
+- [ ] [Extreme value theory (EVT) news and analysis articles - Risk.net](https://www.risk.net/topics/extreme-value-theory-evt)
+
+- [ ] [Addressing the issue of conservatism in probability of default estimates: a validation tool - Risk.net](https://www.risk.net/journal-of-risk-model-validation/2161328/addressing-the-issue-of-conservatism-in-probability-of-default-estimates-a-validation-tool)
+
+- [ ] [Bayesian Inference in Econometric Models Using Monte Carlo Integration on JSTOR](https://www.jstor.org/stable/1913710?seq=1)
+
+- [ ] [Comparison of Classical and Bayesian Approaches For Intervention Analysis on JSTOR](https://www.jstor.org/stable/27919834?seq=1)
+
+- [ ] [Imperfect Public Monitoring with Costly Punishment: An Experimental Study on JSTOR](https://www.jstor.org/stable/41724635?seq=1)
+
+- [ ] [Monte Carlo is Fundamentally Unsound on JSTOR](https://www.jstor.org/stable/2348519?seq=1)
+
+- [ ] [Monte Carlo is Fundamentally Unsound on JSTOR](https://www.jstor.org/stable/2348519?seq=1)
+
+- [ ] [Backtesting by Peter Christoffersen :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2044825)
+
+- [ ] [Fast Locations and Slowing Labor Mobility by Kyle Mangum, Patrick Coate :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3175955)
+
+- [ ] [Value-at-Risk Forecasts: A Comparison Analysis of Extreme-Value versus Classical Approaches by Gözde Ünal :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2270593)
+
+- [ ] [The fallacy of placing confidence in confidence intervals | SpringerLink](https://link.springer.com/article/10.3758/s13423-015-0947-8)
+
+- [ ] [Used vehicles, lemons markets, and Used Car Rules: Some empirical evidence | SpringerLink](https://link.springer.com/article/10.1007%2FBF00411482)
+
+- [ ] [Geometric-VaR Backtesting Method | Journal of Financial Econometrics | Oxford Academic](https://academic.oup.com/jfec/article/14/4/725/1750857)
+
+- [ ] [turn in recent economics and return of orthodoxy | Cambridge Journal of Economics | Oxford Academic](https://academic.oup.com/cje/article-abstract/32/3/349/1680533)
+
+- [ ] [turn in recent economics and return of orthodoxy | Cambridge Journal of Economics | Oxford Academic](https://academic.oup.com/cje/article-abstract/32/3/349/1680533)
+
+- [ ] [Overview of VaR Backtesting - MATLAB & Simulink](https://www.mathworks.com/help/risk/overview-of-var-backtesting.html)
+
+- [ ] [Mark Zuckerberg Interviews Patrick Collison and Tyler Cowen on the Nature and Causes of Progress (Bonus)](https://medium.com/conversations-with-tyler/mark-zuckerberg-interviews-patrick-collison-and-tyler-cowen-on-the-nature-and-causes-of-progress-30de2e2c48f2)
+
+- [ ] [www.washingtonpost.com](https://www.washingtonpost.com/food/2019/11/22/how-immigrant-families-transform-thanksgiving-turkey-with-flavors-their-homelands/)
+
+- [ ] [www.washingtonpost.com](https://www.washingtonpost.com/wp-stat/paywall/USW/images/SignIn-Desktop_Night.png)
+
+- [ ] [Graham Neubig](http://phontron.com/)
+
+- [ ] [NeuLab -- Graham Neubig's Lab @ LTI/CMU](http://www.cs.cmu.edu/~neulab/)
+
+- [ ] [Where Have All the Children Gone? An Empirical Study of Child Abandonment and Abduction in China by Xiaojia Bao, Sebastian Galiani, Kai Li, Cheryl Xiaoning Long :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3488215)
+
+- [ ] [Inflation Inequality: If You Like New Stuff, Life Is Cheaper - Bloomberg](https://www.bloomberg.com/opinion/articles/2019-11-18/inflation-inequality-if-you-like-new-stuff-life-is-cheaper)
+
+- [ ] [Who Benefits from Progress? - Tabarrok - 1998 - Kyklos - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-6435.1998.tb01426.x)
+
+- [ ] [Roman Garnett](https://www.cse.wustl.edu/~garnett/)
+
+- [ ] [LIBSVM Data: Classification, Regression, and Multi-label](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/)
+
+- [ ] [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+
+- [ ] [100+ Interesting Data Sets for Statistics · rs.io](https://rs.io/100-interesting-data-sets-for-statistics/)
+
+- [ ] [404 Not Found](http://www.stat.uchicago.edu/~lafferty/)
+
+- [ ] [Page not found | Machine Learning & Artificial Intelligence Group | Washington University in St. Louis](https://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2007_102.pdf)
+
+- [ ] [Algorithms - Microsoft Research](https://www.microsoft.com/en-us/research/research-area/algorithms/?facet%5Btax%5D%5Bmsr-research-area%5D%5B0%5D=13561&sort_by=most-recent)
+
+- [ ] [Page Not Found | Codecademy](https://www.codecademy.com/tracks/python)
+
+- [ ] [CS 188: Introduction to Artificial Intelligence, Fall 2019](http://inst.eecs.berkeley.edu/~cs188/fa19/)
+
+- [ ] [aima.cs.berkeley.edu](http://aima.cs.berkeley.edu/)
+
+- [ ] [CS 188: Introduction to Artificial Intelligence, Fall 2018](http://inst.eecs.berkeley.edu/~cs188/fa18/)
+
+- [ ] [Sign in or Register | edX](https://courses.edx.org/login)
+
+- [ ] [Bayesian Deep Learning](https://twiecki.io/blog/2016/06/01/bayesian-deep-learning/)
+
+- [ ] [Getting Better at Machine Learning - Robert Chang - Medium](https://medium.com/@rchang/getting-better-at-machine-learning-16b4dd913a1f)
+
+- [ ] [Simple Guide to Hyperparameter Tuning in Neural Networks](https://towardsdatascience.com/simple-guide-to-hyperparameter-tuning-in-neural-networks-3fe03dad8594)
+
+- [ ] [How To Develop a Machine Learning Model From Scratch](https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
+
+- [ ] [4.4. Model Selection, Underfitting and Overfitting — Dive into Deep Learning 0.7.0 documentation](https://d2l.ai/chapter_multilayer-perceptrons/underfit-overfit.html)
+
+- [ ] [Phoenics: A Bayesian Optimizer for Chemistry | ACS Central Science](https://pubs.acs.org/doi/full/10.1021/acscentsci.8b00307)
+
+- [ ] [(14) Sample-Efficient Learning of Soft Task Priorities Through Bayesian Optimization | Request PDF](https://www.researchgate.net/publication/330625976_Sample-Efficient_Learning_of_Soft_Task_Priorities_Through_Bayesian_Optimization)
+
+- [ ] [Hyperparameter Optimization using bayesian optimization](https://medium.com/spikelab/hyperparameter-optimization-using-bayesian-optimization-f1f393dcd36d)
+
+- [ ] [Jesse Bettencourt](http://www.jessebett.com/#)
+
+- [ ] [Radial Basis Interpolation by jessebett](http://www.jessebett.com/Radial-Basis-Function-USRA/)
+
+- [ ] [Torus Knot Fibration Visualization](http://www.jessebett.com/TorusKnotFibration/torusknot.html)
+
+- [ ] [Csendes Tibor vendégoldala](http://www.inf.u-szeged.hu/~csendes/)
+
+- [ ] [Global Optimization | NEOS](https://neos-guide.org/content/global-optimization)
+
+- [ ] [Optimization Online - Digest](http://www.optimization-online.org/cgi-bin/digest.cgi)
+
+- [ ] [Optimization Online](http://www.optimization-online.org/classif.html)
+
+- [ ] [James Robert Lloyd](http://jamesrobertlloyd.com/art.html)
+
+- [ ] [James Robert Lloyd](http://jamesrobertlloyd.com/blog-2015-08-04-going-places.html)
+
+- [ ] [Import data into Google Colaboratory - Stack Overflow](https://stackoverflow.com/questions/46986398/import-data-into-google-colaboratory)
+
+- [ ] [External data: Local Files, Drive, Sheets, and Cloud Storage - Colaboratory](https://colab.research.google.com/notebooks/io.ipynb)
+
+- [ ] [https://www.geeksforgeeks.org/python-read-csv-using-pandas-read_csv/](https://www.geeksforgeeks.org/python-read-csv-using-pandas-read_csv/)
+
+- [ ] [kernel_density](https://www.statsmodels.org/stable/examples/notebooks/generated/kernel_density.html)
+
+- [ ] [scipy.stats.gaussian_kde — SciPy v1.3.3 Reference Guide](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.gaussian_kde.html)
+
+- [ ] [Selecting Subsets of Data in Pandas: Part 1 - Dunder Data - Medium](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c)
+
+- [ ] [CSC2541-F18 Topics in Machine Learning - Deep Reinforcement Learning (Fall 2018)](https://csc2541-f18.github.io/)
+
+- [ ] [UofT Machine Learning | Courses](http://learning.cs.toronto.edu/courses.html)
+
+- [ ] [CSC2541 Scalable and Flexible Models of Uncertainty (Fall 2017)](https://csc2541-f17.github.io/)
+
+- [ ] [ECE1508F 2007: Probabilistic Inference Algorithms and Machine Learning, University of Toronto](http://www.psi.toronto.edu/~frey/apm/index.html)
+
+- [ ] [Video for Virtual Reality | Christian Richardt](http://richardt.name/publications/video4vr/)
+
+- [ ] [Aaron Hertzmann's blogging](http://www.dgp.toronto.edu/~hertzman/blogposts.html)
+
+- [ ] [Designing conference posters » Colin Purrington](https://colinpurrington.com/tips/poster-design/)
+
+- [ ] [The difference between yams and sweet potatoes » Colin Purrington](https://colinpurrington.com/yams-versus-sweet-potatoes/)
+
+- [ ] [Aaron Hertzmann: Teaching](http://www.dgp.toronto.edu/~hertzman/teaching.html)
+
+- [ ] [Video for Virtual Reality | Christian Richardt](http://richardt.name/publications/video4vr/)
+
+- [ ] [Wooden Monkey](https://www.teach.cs.toronto.edu//~karan/monkey/)
+
+- [ ] [CSC 2521: Machine Learning for Computer Graphics (Fall 2004)](http://www.dgp.toronto.edu/~hertzman/courses/csc2521/fall_2004/)
+
+- [ ] [404 Not Found](http://www.learning.cs.toronto.edu/~ewm/index_files/Meeds_Edward_W_200805_PhD_thesis.pdf)
+
+- [ ] [404 Not Found](http://www.cs.toronto.edu/~marlin/research/phd_thesis/marlin-phd-thesis.pdf)
+
+- [ ] [CSC2535S : lectures](http://www.cs.toronto.edu/~hinton/csc2535/lectures.html)
+
+- [ ] [CSC2535S Spring 2013 Home Page](http://www.cs.toronto.edu/~hinton/csc2535/index.html)
+
+- [ ] [CSC411/2515 Fall 2018](http://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/)
+
+- [ ] [CSC321 Winter 2018](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
+
+- [ ] [CSC2515F Fall 2008 Home Page](http://www.cs.toronto.edu/~hinton/csc2515/)
+
+- [ ] [CSC2515F Fall 2008 Home Page](http://www.cs.toronto.edu/~hinton/csc2515/index.html)
+
+- [ ] [CSC321 Winter 2014: Calendar](http://www.cs.toronto.edu/~tijmen/csc321/)
+
+- [ ] [Home Page of Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/)
+
+- [ ] [500 Internal Privoxy Error](http://www.cs.toronto.edu/~hinton/csc2535/computing.html)
+
+- [ ] [CSC2535S : assignments](http://www.cs.toronto.edu/~hinton/csc2535/assignments.html)
+
+- [ ] [https://papers.nips.cc](https://papers.nips.cc/)
+
+- [ ] [Hugo Larochelle](https://papers.nips.cc/author/hugo-larochelle-3213)
+
+- [ ] [Jasper Snoek](https://papers.nips.cc/author/jasper-snoek-5274)
+
+- [ ] [NIPS 2012 Proceedings](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
+
+- [ ] [Ryan P. Adams](https://papers.nips.cc/author/ryan-p-adams-3862)
+
+- [ ] [https://goto.google.com/a/google.com?continue=https%3A//goto.google.com/colab-dot-new](https://goto.google.com/a/google.com?continue=https%3A//goto.google.com/colab-dot-new)
+
+- [ ] [Branin Function](https://www.sfu.ca/~ssurjano/branin.html)
+
+- [ ] [Towards global optimisation 2 / editors, L. C. W. Dixon and G. P. Szegö. - Version details - Trove](https://trove.nla.gov.au/work/11678007?q&versionId=13741108)
+
+- [ ] [Dixon, L. C. W. / Szegö, G. P. (eds.), Towards global optimisation. Proceedings of a Workshop at the University of Cagliari, Italy, October 1974. Amsterdam‐Oxford. North‐Holland Publ. Co. 1975. X. 472 S - Hirche - 1979 - ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift f&#252;r Angewandte Mathematik und Mechanik - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/zamm.19790590220)
+
+- [ ] [Functional Data Test Functions and Datasets](https://www.sfu.ca/~ssurjano/functional.html)
+
+- [ ] [Integration Test Functions and Datasets](https://www.sfu.ca/~ssurjano/integration.html)
+
+- [ ] [Borehole Function](https://www.sfu.ca/~ssurjano/borehole.html)
+
+- [ ] [Optimization Test Functions and Datasets](https://www.sfu.ca/~ssurjano/optimization.html)
+
+- [ ] [Optimization Test Functions and Datasets](https://www.sfu.ca/~ssurjano/optimization.html)
+
+- [ ] [Other Test Functions and Code](https://www.sfu.ca/~ssurjano/other.html)
+
+- [ ] [Screening Test Functions and Datasets](https://www.sfu.ca/~ssurjano/screen.html)
+
+- [ ] [Uncertainty Quantification Test Functions and Datasets](https://www.sfu.ca/~ssurjano/uq.html)
+
+- [ ] [Ackley Function](http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar_files/TestGO_files/Page295.htm)
+
+- [ ] [Constrained](http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar_files/TestGO_files/Page422.htm)
+
+- [ ] [Constrained](http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar_files/TestGO_files/Page422.htm)
+
+- [ ] [Global Optimization](http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar_files/go.htm)
+
+- [ ] [Hedar's Homepage](http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar.html)
+
+- [ ] [Unconstained](http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar_files/TestGO_files/Page364.htm)
+
+- [ ] [Library Genesis](http://libgen.is/search.php?&req=Progress+in+Computer+Science&phrase=1&view=simple&column=series&sort=year&sortmode=DESC)
+
+- [ ] [Library Genesis: Andras Antos, Luc Devroye (auth.), Danièle Gardy, Abdelkader Mokkadem (eds.) - Mathematics and Computer Science: Algorithms, Trees, Combinatorics and Probabilities](http://libgen.is/book/index.php?md5=E3BDACD7F09AED739E0B7A9A37409484)
+
+- [ ] [Library Genesis: Gérard Biau, Luc Devroye (auth.) - Lectures on the Nearest Neighbor Method](http://libgen.is/book/index.php?md5=DED3387B4C5A05934875C89CB3680B58)
+
+- [ ] [Library Genesis: Luc Devroye (auth.) - Non-Uniform Random Variate Generation](http://libgen.is/book/index.php?md5=6F2129976AF797C8AFA880CA317F33EB)
+
+- [ ] [Library Genesis: Luc Devroye, Gabor Lugosi - Combinatorial methods in density estimation](http://libgen.is/book/index.php?md5=3AAF1F4665F534520C390144E3100D57)
+
+- [ ] [Library Genesis: Luc Devroye, Gabor Lugosi - Combinatorial Methods in Density Estimation](http://libgen.is/book/index.php?md5=CE27A416851E2487383929CCFCB6FCC9)
+
+- [ ] [Library Genesis: Luc Devroye, Laszlo Györfi, Gabor Lugosi - A probabilistic theory of pattern recognition](http://libgen.is/book/index.php?md5=71E8195D317C0D6D6DD2B00A23997380)
+
+- [ ] [seaborn.heatmap — seaborn 0.9.0 documentation](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+
+- [ ] [(14) (PDF) Nonlinear information fusion algorithms for data-efficient multi-fidelity modelling](https://www.researchgate.net/publication/313482464_Nonlinear_information_fusion_algorithms_for_data-efficient_multi-fidelity_modelling/figures?lo=1)
+
+- [ ] [Stochastic Global Optimization - Anatoly Zhigljavsky, Antanasz Zilinskas - Google Books](https://books.google.com/books?id=CqbjuAvHkfEC&pg=PA152&lpg=PA152&dq=does+%22branin+function%22+appear+stationary&source=bl&ots=_QOthtr7xV&sig=ACfU3U2E37gLs5pD5tdoHeD1iUMsU2ml4A&hl=en&sa=X&ved=2ahUKEwiK8vHWzY_mAhWZOnAKHRxUD4oQ6AEwBnoECE8QAQ#v=onepage&q=does%20%22branin%20function%22%20appear%20stationary&f=false)
+
+- [ ] [Bioinspired Optimization Methods and Their Applications: 8th International ... - Google Books](https://books.google.com/books?id=aY5aDwAAQBAJ&pg=PA212&lpg=PA212&dq=does+%22branin+function%22+appear+stationary&source=bl&ots=dazPfHaXXH&sig=ACfU3U2RhHjg2sAEZSv3zhGqnEAjW3J5tg&hl=en&sa=X&ved=2ahUKEwiK8vHWzY_mAhWZOnAKHRxUD4oQ6AEwB3oECFAQAQ#v=onepage&q=does%20%22branin%20function%22%20appear%20stationary&f=false)
+
+- [ ] [Calculating Pi in python without modules - Stack Overflow](https://stackoverflow.com/questions/54991799/calculating-pi-in-python-without-modules)
+
+- [ ] [dataframe - count number of rows in a data frame in R based on group - Stack Overflow](https://stackoverflow.com/questions/25293045/count-number-of-rows-in-a-data-frame-in-r-based-on-group)
+
+- [ ] [Getting a stacked area plot in R - Stack Overflow](https://stackoverflow.com/questions/5030389/getting-a-stacked-area-plot-in-r)
+
+- [ ] [Linear Regression and group by in R - Stack Overflow](https://stackoverflow.com/questions/1169539/linear-regression-and-group-by-in-r)
+
+- [ ] [list - How to count rows? - Stack Overflow](https://stackoverflow.com/questions/7340197/how-to-count-rows)
+
+- [ ] [math - Is the golden ratio defined in Python? - Stack Overflow](https://stackoverflow.com/questions/25212181/is-the-golden-ratio-defined-in-python)
+
+- [ ] [matplotlib - How to plot the heat map for a given function in Python - Stack Overflow](https://stackoverflow.com/questions/32491646/how-to-plot-the-heat-map-for-a-given-function-in-python)
+
+- [ ] [python - 3D discrete heatmap in matplotlib - Stack Overflow](https://stackoverflow.com/questions/40853556/3d-discrete-heatmap-in-matplotlib)
+
+- [ ] [python - 3D discrete heatmap in matplotlib - Stack Overflow](https://stackoverflow.com/questions/40853556/3d-discrete-heatmap-in-matplotlib)
+
+- [ ] [Python - Create list with numbers between 2 values? - Stack Overflow](https://stackoverflow.com/questions/18265935/python-create-list-with-numbers-between-2-values)
+
+- [ ] [python - Generate a heatmap in MatPlotLib using a scatter data set - Stack Overflow](https://stackoverflow.com/questions/2369492/generate-a-heatmap-in-matplotlib-using-a-scatter-data-set)
+
+- [ ] [python - Making heatmap from pandas DataFrame - Stack Overflow](https://stackoverflow.com/questions/12286607/making-heatmap-from-pandas-dataframe)
+
+- [ ] [python - Print pi to a number of decimal places - Stack Overflow](https://stackoverflow.com/questions/45416626/print-pi-to-a-number-of-decimal-places)
+
+- [ ] [python - Should I use scipy.pi, numpy.pi, or math.pi? - Stack Overflow](https://stackoverflow.com/questions/12645547/should-i-use-scipy-pi-numpy-pi-or-math-pi)
+
+- [ ] [r - 100% stacked area using ggplot - Stack Overflow](https://stackoverflow.com/questions/50428511/100-stacked-area-using-ggplot)
+
+- [ ] [r - Adding predict output to original dataframe - Stack Overflow](https://stackoverflow.com/questions/53619728/adding-predict-output-to-original-dataframe)
+
+- [ ] [r - Change reference group using glm with binomial family - Stack Overflow](https://stackoverflow.com/questions/17772775/change-reference-group-using-glm-with-binomial-family)
+
+- [ ] [r - Count number of rows matching a criteria - Stack Overflow](https://stackoverflow.com/questions/28195996/count-number-of-rows-matching-a-criteria/28196342)
+
+- [ ] [r - Create proportional geom_area plot directly in ggplot2 - Stack Overflow](https://stackoverflow.com/questions/45438665/create-proportional-geom-area-plot-directly-in-ggplot2)
+
+- [ ] [r - Fitting several regression models with dplyr - Stack Overflow](https://stackoverflow.com/questions/22713325/fitting-several-regression-models-with-dplyr)
+
+- [ ] [r - ggplot - Proportional stacked area plot - Stack Overflow](https://stackoverflow.com/questions/51104473/ggplot-proportional-stacked-area-plot)
+
+- [ ] [r - ggplot - Proportional stacked area plot - Stack Overflow](https://stackoverflow.com/questions/51104473/ggplot-proportional-stacked-area-plot)
+
+- [ ] [r - ggplot2 cumulative percent graph - Stack Overflow](https://stackoverflow.com/questions/39651496/ggplot2-cumulative-percent-graph)
+
+- [ ] [r - GLM group data by factors - Stack Overflow](https://stackoverflow.com/questions/46412489/glm-group-data-by-factors)
+
+- [ ] [r - Remove duplicated rows - Stack Overflow](https://stackoverflow.com/questions/13967063/remove-duplicated-rows)
+
+- [ ] [r - Type parameter of the predict() function - Stack Overflow](https://stackoverflow.com/questions/23085096/type-parameter-of-the-predict-function)
+
+- [ ] [r - What is the difference between type="response" , "terms" and "link" in predict function? - Stack Overflow](https://stackoverflow.com/questions/47486589/what-is-the-difference-between-type-response-terms-and-link-in-predict-f)
+
+- [ ] [R: how to remove duplicate rows by column - Stack Overflow](https://stackoverflow.com/questions/46656833/r-how-to-remove-duplicate-rows-by-column)
+
+- [ ] [R: Remove duplicates from a dataframe based on categories in a column - Stack Overflow](https://stackoverflow.com/questions/47539860/r-remove-duplicates-from-a-dataframe-based-on-categories-in-a-column)
+
+- [ ] [regression - In R, how to add the fitted value column to the original dataframe? - Stack Overflow](https://stackoverflow.com/questions/19065279/in-r-how-to-add-the-fitted-value-column-to-the-original-dataframe)
+
+- [ ] [removing duplicates in R with specifics - Stack Overflow](https://stackoverflow.com/questions/49869507/removing-duplicates-in-r-with-specifics)
+
+- [ ] [Use GLM in R to see if sex ratio varies by group - Stack Overflow](https://stackoverflow.com/questions/43531895/use-glm-in-r-to-see-if-sex-ratio-varies-by-group)
+
+- [ ] [Using PI in python 2.7 - Stack Overflow](https://stackoverflow.com/questions/18841703/using-pi-in-python-2-7)
+
+- [ ] [404 Not Found](http://mlg.eng.cam.ac.uk/~venkat/)
+
+- [ ] [500 Internal Privoxy Error](http://mlg.eng.cam.ac.uk/mlss09/mlss_slides/GaussianProcess.zip)
+
+- [ ] [Machine Learning Summer School 2009](http://mlg.eng.cam.ac.uk/mlss09/schedule.htm)
+
+- [ ] [Machine Learning Summer School 2009](http://mlg.eng.cam.ac.uk/mlss09/schedule.htm#lectures)
+
+- [ ] [Machine Learning Summer School 2009](http://mlg.eng.cam.ac.uk/mlss09/schedule.htm#practicals)
+
+- [ ] [Machine Learning Summer School 2009](http://mlg.eng.cam.ac.uk/mlss09/schedule.htm)
+
+- [ ] [Part 1B Paper 7, Probability and Statistics](http://mlg.eng.cam.ac.uk/teaching/1BP7/1415/)
+
+- [ ] [Generate heatmap in Matplotlib - Python Tutorial](https://pythonspot.com/generate-heatmap-in-matplotlib/)
+
+- [ ] [covariance - Stationary function - Cross Validated](https://stats.stackexchange.com/questions/120129/stationary-function)
+
+- [ ] [generalized linear model - Comparing groups in glm - Cross Validated](https://stats.stackexchange.com/questions/286240/comparing-groups-in-glm)
+
+- [ ] [generalized linear model - Comparing groups in glm - Cross Validated](https://stats.stackexchange.com/questions/286240/comparing-groups-in-glm)
+
+- [ ] [generalized linear model - GLM with grouped/aggregated data in R - Cross Validated](https://stats.stackexchange.com/questions/200531/glm-with-grouped-aggregated-data-in-r)
+
+- [ ] [generalized linear model - GLM with grouped/aggregated data in R - Cross Validated](https://stats.stackexchange.com/questions/200531/glm-with-grouped-aggregated-data-in-r)
+
+- [ ] [generalized linear model - Logistic regression: grouped and ungrouped variables (using R) - Cross Validated](https://stats.stackexchange.com/questions/27400/logistic-regression-grouped-and-ungrouped-variables-using-r)
+
+- [ ] [generalized linear model - Logistic regression: grouped and ungrouped variables (using R) - Cross Validated](https://stats.stackexchange.com/questions/27400/logistic-regression-grouped-and-ungrouped-variables-using-r)
+
+- [ ] [How to summarize data by group in R? - Cross Validated](https://stats.stackexchange.com/questions/8225/how-to-summarize-data-by-group-in-r)
+
+- [ ] [How to summarize data by group in R? - Cross Validated](https://stats.stackexchange.com/questions/8225/how-to-summarize-data-by-group-in-r)
+
+- [ ] [Logistic regression model: interpretation of average marginal effect - Cross Validated](https://stats.stackexchange.com/questions/146037/logistic-regression-model-interpretation-of-average-marginal-effect)
+
+- [ ] [Logistic regression model: interpretation of average marginal effect - Cross Validated](https://stats.stackexchange.com/questions/146037/logistic-regression-model-interpretation-of-average-marginal-effect)
+
+- [ ] [r - aggregate all data by Date and ID - Cross Validated](https://stats.stackexchange.com/questions/169056/aggregate-all-data-by-date-and-id)
+
+- [ ] [r - aggregate all data by Date and ID - Cross Validated](https://stats.stackexchange.com/questions/169056/aggregate-all-data-by-date-and-id)
+
+- [ ] [r - glm loop through grouped rows and and variable list? - Cross Validated](https://stats.stackexchange.com/questions/193559/glm-loop-through-grouped-rows-and-and-variable-list)
+
+- [ ] [r - glm loop through grouped rows and and variable list? - Cross Validated](https://stats.stackexchange.com/questions/193559/glm-loop-through-grouped-rows-and-and-variable-list)
+
+- [ ] [r - How to aggregate by minute data for a week into hourly means? - Cross Validated](https://stats.stackexchange.com/questions/7268/how-to-aggregate-by-minute-data-for-a-week-into-hourly-means)
+
+- [ ] [r - How to aggregate by minute data for a week into hourly means? - Cross Validated](https://stats.stackexchange.com/questions/7268/how-to-aggregate-by-minute-data-for-a-week-into-hourly-means)
+
+- [ ] [regression - What are average partial effects? - Cross Validated](https://stats.stackexchange.com/questions/12313/what-are-average-partial-effects)
+
+- [ ] [regression - What are average partial effects? - Cross Validated](https://stats.stackexchange.com/questions/12313/what-are-average-partial-effects)
+
+- [ ] [regression - Why does a time series have to be stationary? - Cross Validated](https://stats.stackexchange.com/questions/19715/why-does-a-time-series-have-to-be-stationary)
+
+- [ ] [Regression coefficients by group in R? - Cross Validated](https://stats.stackexchange.com/questions/22925/regression-coefficients-by-group-in-r)
+
+- [ ] [Regression coefficients by group in R? - Cross Validated](https://stats.stackexchange.com/questions/22925/regression-coefficients-by-group-in-r)
+
+- [ ] [stata - Average Marginal Effects interpretation - Cross Validated](https://stats.stackexchange.com/questions/252694/average-marginal-effects-interpretation)
+
+- [ ] [stata - Average Marginal Effects interpretation - Cross Validated](https://stats.stackexchange.com/questions/252694/average-marginal-effects-interpretation)
+
+- [ ] [stata - Interpretation of average marginal effects for categorical and continuous variables - Cross Validated](https://stats.stackexchange.com/questions/398899/interpretation-of-average-marginal-effects-for-categorical-and-continuous-variab)
+
+- [ ] [stata - Interpretation of average marginal effects for categorical and continuous variables - Cross Validated](https://stats.stackexchange.com/questions/398899/interpretation-of-average-marginal-effects-for-categorical-and-continuous-variab)
+
+- [ ] [stata - Interpretation of marginal effects in Logit Model with log$\times$independent variable - Cross Validated](https://stats.stackexchange.com/questions/147612/interpretation-of-marginal-effects-in-logit-model-with-log-timesindependent-va)
+
+- [ ] [stata - Interpretation of marginal effects in Logit Model with log$\times$independent variable - Cross Validated](https://stats.stackexchange.com/questions/147612/interpretation-of-marginal-effects-in-logit-model-with-log-timesindependent-va)
+
+- [ ] [stationarity - How to make a time series stationary? - Cross Validated](https://stats.stackexchange.com/questions/2077/how-to-make-a-time-series-stationary)
+
+- [ ] [stationarity - Is my time series stationary? - Cross Validated](https://stats.stackexchange.com/questions/137967/is-my-time-series-stationary)
+
+- [ ] [stats.stackexchange.com](https://stats.stackexchange.com/questions/252577/bayes-regression-how-is-it-done-in-comparison-to-standard-regression/252608)
+
+- [ ] [time series - NA in Conditional coverage test for VaR backtest - Cross Validated](https://stats.stackexchange.com/questions/202519/na-in-conditional-coverage-test-for-var-backtest)
+
+- [ ] [v1_BayesainOpt.ipynb - Colaboratory](https://colab.research.google.com/drive/1qX-x0Vz3AS-KlE-ptxY8ICsMPqQBzt88?authuser=1#scrollTo=-SAkMfq1qz0T)
+
+- [ ] [Yannis Assael | Flickr](https://flickr.com/photos/iassael/)
+
+- [ ] [[1709.06919] Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search](https://arxiv.org/abs/1709.06919)
+
+- [ ] [[1812.06325] Data-efficient Auto-tuning with Bayesian Optimization: An Industrial Control Study](https://arxiv.org/abs/1812.06325)
+
+- [ ] [interesting-data-sets-for-statistics.png (500×447)](https://rs.io/wp-content/uploads/2014/09/interesting-data-sets-for-statistics.png)
+
+- [ ] [bad-dalek-drawing.png (350×507)](https://rs.io/wp-content/uploads/2014/09/bad-dalek-drawing.png)
+
+- [ ] [Global Optimization](https://www.mat.univie.ac.at/~neum/glopt.html)
+
+- [ ] [International Society of Global Optimization](http://www.globaloptimization.org/)
+
+- [ ] [Uncertainty modeling in high dimensions](https://www.mat.univie.ac.at/~neum/clouds.html)
+
+- [ ] [Restricted Maximum Likelihood (REML) Methods](https://www.mat.univie.ac.at/~neum/reml.html)
+
+- [ ] [https://www.mat.univie.ac.at/~neum/software/arfit/](https://www.mat.univie.ac.at/~neum/software/arfit/)
+
+- [ ] [Recent Papers and Preprints](https://www.mat.univie.ac.at/~neum/papers.html#conf)
+
+- [ ] [NIPS 2015 workshop on non-convex optimization – Off the convex path](http://www.offconvex.org/2016/01/25/non-convex-workshop/)
+
+- [ ] [Optimizing optimization algorithms | MIT News](http://news.mit.edu/2015/optimizing-optimization-algorithms-0121)
+
+- [ ] [(14) (PDF) Replica Monte Carlo Simulation of Spin-Glasses](https://www.researchgate.net/publication/13255490_Replica_Monte_Carlo_Simulation_of_Spin-Glasses)
+
+- [ ] [Book: Introduction to Derivative-Free Optimization](http://www.mat.uc.pt/~lnv/idfo/)
+
+- [ ] [Authorization completed](https://hypothes.is/oauth/authorize?client_id=fd23fe2e-7792-11e7-8e16-23e47a1799d4&origin=chrome-extension%3A%2F%2Fbjfhmglciegochdpefhhlphglcehbmek&response_mode=web_message&response_type=code&state=bd9d82afc153d167)
+
+- [ ] [Glossary — Python 2.7.17 documentation](https://docs.python.org/2/glossary.html#glossary)
+
+- [ ] [The Python Tutorial — Python 3.8.0 documentation](https://docs.python.org/3/tutorial/)
+
+- [ ] [The Python Tutorial — Python 2.7.17 documentation](https://docs.python.org/2/tutorial/)
+
+- [ ] [(76) "Is Bayesian deep learning the most brilliant thing ever?" - a panel discussion - YouTube](https://www.youtube.com/watch?v=HumFmLu3CJ8&t=1700s)
+
+- [ ] [(76) Automated Performance Tuning with Bayesian Optimization - YouTube](https://www.youtube.com/watch?v=X-fZZyw5HAQ)
+
+- [ ] [(76) Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search - YouTube](https://www.youtube.com/watch?v=xo8mUIZTvNE)
+
+- [ ] [(76) Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search - YouTube](https://www.youtube.com/watch?v=iiVaV-U6Kqo)
+
+- [ ] [(76) Modern Deep Learning through Bayesian Eyes - YouTube](https://www.youtube.com/watch?v=YAb5C5_g-kk)
+
+- [ ] [Bayesian Optimization with Automatic Prior Selection for Data-Efficient Direct Policy Search - YouTube](https://www.youtube.com/watch?v=EKBQqn9sy10)
+
+- [ ] [Exploring Youtube Trending Statistics EDA | Kaggle](https://www.kaggle.com/kernels/scriptcontent/10503930/download)
+
+- [ ] [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
+
+- [ ] [March Machine Learning Mania 2015 | Kaggle](https://www.kaggle.com/c/march-machine-learning-mania-2015)
+
+- [ ] [YouTube Trending Videos Analysis | Kaggle](https://www.kaggle.com/kernels/scriptcontent/7430289/download)
+
+- [ ] [(3) Hossein Mobahi（@TheGradient）さん / Twitter](https://twitter.com/TheGradient)
+
+- [ ] [Austin Rochford (@AustinRochford) / Twitter](https://twitter.com/AustinRochford)
+
+- [ ] [Junpeng Lao (@junpenglao) / Twitter](https://twitter.com/junpenglao)
+
+- [ ] [PyMC Developers（@pymc_devs）さん / Twitter](https://twitter.com/pymc_devs)
+
+- [ ] [PyMC Developers（@pymc_devs）さん / Twitter](https://twitter.com/pymc_devs)
+
+- [ ] [ホーム / Twitter](https://twitter.com/home)
+
+- [ ] [Off the convex path](http://www.offconvex.org/)
+
+- [ ] [Distance Regular Graphs (ERGEBNISSE DER MATHEMATIK UND IHRER GRENZGEBIETE 3 FOLGE): A. E. Brouwer, A. M. Cohen, A. Neumaier: 9780387506197: Amazon.com: Books](https://www.amazon.com/exec/obidos/ASIN/0387506195)
+
+- [ ] [Interval Methods for Systems of Equations (Encyclopedia of Mathematics and its Applications, Vol. 37): Arnold Neumaier: 9780521331968: Amazon.com: Books](https://www.amazon.com/exec/obidos/ASIN/052133196X)
+
+- [ ] [Introduction to Numerical Analysis 1, Arnold Neumaier - Amazon.com](https://www.amazon.com/Introduction-Numerical-Analysis-Arnold-Neumaier-ebook/dp/B01CEKPQXY/)
+
+- [ ] [The Age of the Infovore: Succeeding in the Information Economy: Tyler Cowen: 9780452296190: Amazon.com: Books](https://www.amazon.com/Age-Infovore-Succeeding-Information-Economy/dp/0452296196/ref=sr_1_1?keywords=age+of+the+infovore&qid=1573738722&sr=8-1)
+
+- [ ] [The Age of the Infovore: Succeeding in the Information Economy: Tyler Cowen: 9780452296190: Amazon.com: Books](https://www.amazon.com/Age-Infovore-Succeeding-Information-Economy/dp/0452296196/ref=sr_1_1?keywords=age+of+the+infovore&qid=1574167658&sr=8-1/marginalrevol-20)
+
+- [ ] [bayesian optimization convergence - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNThU__N5DS9yPaGe2QfIdCYnb8oKA:1575043305060&q=bayesian+optimization+convergence&sa=X&ved=2ahUKEwidmNDF5Y_mAhUNK6YKHYPhBr8Q1QIoA3oECGUQBA)
+
+- [ ] [bayesian optimization keras - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNThU__N5DS9yPaGe2QfIdCYnb8oKA%3A1575043305060&lei=6UDhXd3_Ao3WmAWDw5v4Cw&q=bayesian%20optimization%20keras&ved=2ahUKEwijh6fG5Y_mAhUhK6YKHV0TCqIQsKwBKAV6BAgDEAY)
+
+- [ ] [bayesian optimization neural network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNThU__N5DS9yPaGe2QfIdCYnb8oKA%3A1575043305060&lei=6UDhXd3_Ao3WmAWDw5v4Cw&q=bayesian%20optimization%20neural%20network&ved=2ahUKEwijh6fG5Y_mAhUhK6YKHV0TCqIQsKwBKAF6BAgDEAI)
+
+- [ ] [bayesian optimization surrogate model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNThU__N5DS9yPaGe2QfIdCYnb8oKA:1575043305060&q=bayesian+optimization+surrogate+model&sa=X&ved=2ahUKEwidmNDF5Y_mAhUNK6YKHYPhBr8Q1QIoB3oECGUQCA)
+
+- [ ] [bayesian optimization to automatic and efficient - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNThU__N5DS9yPaGe2QfIdCYnb8oKA:1575043305060&q=bayesian+optimization+to+automatic+and+efficient&stick=H4sIAAAAAAAAAOOQMZJKSqxMLc5MzFPILyjJzM2sSizJzM9TSMrPz44ywC5Xkq-QWFqSnwvkJSsk5qUopKalZSZnpuaVnGLk0U_XNzRKykurzIivPMXIpZ-rb2BqmGJUmH2KkRckZ5hkZpBlmWdgBOOnGRalVxSY5sH1FlhmFJmmwKQzqsxTTMyTjeHSuekGGcbJCK5RuXFK2S9GKSec_ljESrJHAFBm-VgZAQAA&sa=X&ved=2ahUKEwidmNDF5Y_mAhUNK6YKHYPhBr8QzTooADBnegQIZhAC)
+
+- [ ] [bayesian optimization to automatic and efficient - Google Search](https://www.google.com/search?newwindow=1&sa=N&sxsrf=ACYBGNQVvFoUWGTyS8EPUtmeyd3yG5fO4A:1575043353836&q=bayesian+optimization+to+automatic+and+efficient&tbm=isch&source=univ&ved=2ahUKEwjtvPHc5Y_mAhXJy4sBHYjjCIg4ZBCwBHoECA8QAQ)
+
+- [ ] [bayesian optimization tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNThU__N5DS9yPaGe2QfIdCYnb8oKA%3A1575043305060&lei=6UDhXd3_Ao3WmAWDw5v4Cw&q=bayesian%20optimization%20tutorial&ved=2ahUKEwijh6fG5Y_mAhUhK6YKHV0TCqIQsKwBKAB6BAgDEAE)
+
+- [ ] [black box optimization wiki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNThU__N5DS9yPaGe2QfIdCYnb8oKA%3A1575043305060&lei=6UDhXd3_Ao3WmAWDw5v4Cw&q=black%20box%20optimization%20wiki&ved=2ahUKEwijh6fG5Y_mAhUhK6YKHV0TCqIQsKwBKAN6BAgDEAQ)
+
+- [ ] [Blackbox and derivative-free optimization: theory, algorithms and applications - Google Search](https://www.google.com/search?q=Blackbox+and+derivative-free+optimization%3A+theory%2C+algorithms+and+applications&oq=Blackbox+and+derivative-free+optimization%3A+theory%2C+algorithms+and+applications&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [choose only the third column python - Google Search](https://www.google.com/search?q=choose+only+the+third+column+python&oq=choose+only+the+third+column+python&aqs=chrome..69i57j69i64l4.7536j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Coherent Quantum Physics: A Reinterpretation of the Tradition - Google Search](https://www.google.com/search?q=Coherent+Quantum+Physics%3A+A+Reinterpretation+of+the+Tradition&oq=Coherent+Quantum+Physics%3A+A+Reinterpretation+of+the+Tradition&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Global Optimization and Constraint Satisfaction, - Google Search](https://www.google.com/search?q=Global+Optimization+and+Constraint+Satisfaction%2C&oq=Global+Optimization+and+Constraint+Satisfaction%2C&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [jonas mockus - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNThU__N5DS9yPaGe2QfIdCYnb8oKA%3A1575043305060&lei=6UDhXd3_Ao3WmAWDw5v4Cw&q=jonas%20mockus&ved=2ahUKEwijh6fG5Y_mAhUhK6YKHV0TCqIQsKwBKAJ6BAgDEAM)
+
+- [ ] [kernal estime of the distribution python - Google Search](https://www.google.com/search?q=kernal+estime+of+the+distribution+python&oq=kernal+estime+of+the+distribution+python&aqs=chrome..69i57j0l2j46l2j0l2j46.8790j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [kernel estimate of the distribution python scipy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQRDs5Y5JGqmMrnXPAOoxwERWYZxQ%3A1575041435128&ei=mznhXbKyB42Hr7wPv8e-kAE&q=kernel+estimate+of+the+distribution+python+scipy&oq=kernal+estime+of+the+distribution+python+sci&gs_l=psy-ab.3.0.33i22i29i30.8487.12113..13405...1.2..0.504.1413.0j2j1j0j1j1......0....1..gws-wiz.......0i71j33i160.Dh2sBrgWrAY)
+
+- [ ] [logistic regression analysis pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRpCzKEoITfRdw2aVQiEChUEgyNKQ%3A1575043442078&lei=ckHhXa6qBL6Sr7wPioaggAk&q=logistic%20regression%20analysis%20pdf&ved=2ahUKEwiSj5GI5o_mAhWMGqYKHYe4Bw8QsKwBKAV6BAgCEAY)
+
+- [ ] [logistic regression maximum likelihood - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRpCzKEoITfRdw2aVQiEChUEgyNKQ%3A1575043442078&lei=ckHhXa6qBL6Sr7wPioaggAk&q=logistic%20regression%20maximum%20likelihood&ved=2ahUKEwiSj5GI5o_mAhWMGqYKHYe4Bw8QsKwBKAR6BAgCEAU)
+
+- [ ] [logistic regression pdf book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRpCzKEoITfRdw2aVQiEChUEgyNKQ%3A1575043442078&lei=ckHhXa6qBL6Sr7wPioaggAk&q=logistic%20regression%20pdf%20book&ved=2ahUKEwiSj5GI5o_mAhWMGqYKHYe4Bw8QsKwBKAF6BAgCEAI)
+
+- [ ] [logistic regression unique solution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRpCzKEoITfRdw2aVQiEChUEgyNKQ%3A1575043442078&lei=ckHhXa6qBL6Sr7wPioaggAk&q=logistic%20regression%20unique%20solution&ved=2ahUKEwiSj5GI5o_mAhWMGqYKHYe4Bw8QsKwBKAN6BAgCEAQ)
+
+- [ ] [maximum likelihood logistic regression r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRpCzKEoITfRdw2aVQiEChUEgyNKQ%3A1575043442078&lei=ckHhXa6qBL6Sr7wPioaggAk&q=maximum%20likelihood%20logistic%20regression%20r&ved=2ahUKEwiSj5GI5o_mAhWMGqYKHYe4Bw8QsKwBKAB6BAgCEAE)
+
+- [ ] [pandas python read_csv - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS18vU-AY4UrRk9npC1oqLNP6Oi4w%3A1575039448937&ei=2DHhXcXyOOPemAWT7YjQBQ&q=pandas+python+read_csv&oq=pandas+python+read_csv&gs_l=psy-ab.3.0.0l2j0i22i30l8.4922.7264..8760...0.0..0.1072.4362.2-1j0j1j0j3j1......0....1..gws-wiz.......35i39j0i67.r0csglR5XFM)
+
+- [ ] [Index](http://gpss.cc/gpmc17/)
+
+- [ ] [(77) How does Bayesian optimization work? - Quora](https://www.quora.com/How-does-Bayesian-optimization-work)
+
+- [ ] [Index of /~dfg/ProbabilisticInference](https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/)
+
+- [ ] [Bayesian Optimization in Trading - Towards Data Science](https://towardsdatascience.com/bayesian-optimization-in-trading-77202ffed530)
+
+- [ ] [Institute of Applied Optimization (IAO)](http://iao.hfuu.edu.cn/)
+
+- [ ] [Ames test - Wikipedia](https://en.wikipedia.org/wiki/Ames_test)
+
+- [ ] [Bayesian experimental design - Wikipedia](https://en.wikipedia.org/wiki/Bayesian_experimental_design)
+
+- [ ] [Bayesian optimization - Wikipedia](https://en.wikipedia.org/wiki/Bayesian_optimization)
+
+- [ ] [Bayesian Approach to Global Optimization: Theory and Applications - Jonas Mockus - Google Books](https://books.google.com/books?id=VuKoCAAAQBAJ&printsec=frontcover#v=onepage&q=%22global%20optimization%22&f=false)
+
+- [ ] [Variable risk control via stochastic optimization - Scott R Kuindersma, Roderic A Grupen, Andrew G Barto, 2013](https://journals.sagepub.com/doi/abs/10.1177/0278364913476124#)
+
+- [ ] [Bayesian optimization for learning gaits under uncertainty | SpringerLink](https://link.springer.com/article/10.1007%2Fs10472-015-9463-9)
+
+- [ ] [Big O notation - Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
+
+- [ ] [Black box - Wikipedia](https://en.wikipedia.org/wiki/Black_box)
+
+- [ ] [Book sources - Wikipedia](https://en.wikipedia.org/wiki/Special:BookSources/0470863676)
+
+- [ ] [Book sources - Wikipedia](https://en.wikipedia.org/wiki/Special:BookSources/0-340-52922-9)
+
+- [ ] [Book sources - Wikipedia](https://en.wikipedia.org/wiki/Special:BookSources/0470863676)
+
+- [ ] [Butterfly Economics - Wikipedia](https://en.wikipedia.org/wiki/Butterfly_Economics)
+
+- [ ] [Butterfly Economics - Wikipedia](https://en.wikipedia.org/wiki/Butterfly_Economics)
+
+- [ ] [Checking whether a coin is fair - Wikipedia](https://en.wikipedia.org/wiki/Checking_whether_a_coin_is_fair)
+
+- [ ] [Clifford Hildreth - Wikipedia](https://en.wikipedia.org/wiki/Clifford_Hildreth)
+
+- [ ] [Complexity economics - Wikipedia](https://en.wikipedia.org/wiki/Complexity_economics)
+
+- [ ] [Complexity economics - Wikipedia](https://en.wikipedia.org/wiki/Complexity_economics)
+
+- [ ] [Daniel McFadden - Wikipedia](https://en.wikipedia.org/wiki/Daniel_McFadden)
+
+- [ ] [Derivative-free optimization - Wikipedia](https://en.wikipedia.org/wiki/Derivative-free_optimization)
+
+- [ ] [Elastic net regularization - Wikipedia](https://en.wikipedia.org/wiki/Elastic_net_regularization)
+
+- [ ] [Auction theory - Wikipedia](https://en.wikipedia.org/wiki/Auction_theory)
+
+- [ ] [Global optimization - Wikipedia](https://en.wikipedia.org/wiki/Global_optimization)
+
+- [ ] [Introduction to Global Optimization Exploiting Space-Filling Curves - Yaroslav D. Sergeyev, Roman G. Strongin, Daniela Lera - Google Books](https://books.google.com/books?hl=en&lr=&id=ZXM8AAAAQBAJ&oi=fnd&pg=PR5&dq=%22Introduction+to+global+optimization+exploiting+space-filling+curves%22&ots=PdJp0--i7l&sig=eQImrC8Bih5ZzbipVUxxcIwPUuY#v=onepage&q=%22Introduction%20to%20global%20optimization%20exploiting%20space-filling%20curves%22&f=false)
+
+- [ ] [Deterministic Global Optimization: An Introduction to the Diagonal Approach - Yaroslav D. Sergeyev, Dmitri E. Kvasov - Google Books](https://books.google.com/books?hl=en&lr=&id=r38oDwAAQBAJ&oi=fnd&pg=PP5&dq=%22Deterministic+Global+Optimization:+An+introduction+to+the+diagonal+approach%22&ots=JuOPGIr54A&sig=SLKyqRSxSujxcS0xoqdPLyd4-W4#v=onepage&q=%22Deterministic%20Global%20Optimization%3A%20An%20introduction%20to%20the%20diagonal%20approach%22&f=false)
+
+- [ ] [Jacob Marschak - Wikipedia](https://en.wikipedia.org/wiki/Jacob_Marschak)
+
+- [ ] [Latent Dirichlet allocation - Wikipedia](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
+
+- [ ] [Latent semantic analysis - Wikipedia](https://en.wikipedia.org/wiki/Latent_semantic_analysis)
+
+- [ ] [Leigh Tesfatsion - Wikipedia](https://en.wikipedia.org/wiki/Leigh_Tesfatsion)
+
+- [ ] [Leonid Hurwicz - Wikipedia](https://en.wikipedia.org/wiki/Leonid_Hurwicz)
+
+- [ ] [Logistic regression - Wikipedia](https://en.wikipedia.org/wiki/Logistic_regression)
+
+- [ ] [Mechanism design - Wikipedia](https://en.wikipedia.org/wiki/Mechanism_design)
+
+- [ ] [Multi-armed bandit - Wikipedia](https://en.wikipedia.org/wiki/Multi-armed_bandit)
+
+- [ ] [Multivariate normal distribution - Wikipedia](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
+
+- [ ] [Myrna Wooders - Wikipedia](https://en.wikipedia.org/wiki/Myrna_Wooders)
+
+- [ ] [Normal distribution - Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
+
+- [ ] [Profiling (computer programming) - Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
+
+- [ ] [R (programming language) - Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language))
+
+- [ ] [Richard B. McHugh - Wikipedia](https://en.wikipedia.org/wiki/Richard_B._McHugh)
+
+- [ ] [Sequential analysis - Wikipedia](https://en.wikipedia.org/wiki/Sequential_analysis)
+
+- [ ] [Stanley Reiter - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Reiter)
+
+- [ ] [Stationary point - Wikipedia](https://en.wikipedia.org/wiki/Stationary_point)
+
+- [ ] [Talk:Bayesian optimization - Wikipedia](https://en.wikipedia.org/wiki/Talk:Bayesian_optimization)
+
+- [ ] [The Fox Effect - Wikipedia](https://en.wikipedia.org/wiki/The_Fox_Effect)
+
+- [ ] [The Market for Lemons - Wikipedia](https://en.wikipedia.org/wiki/The_Market_for_Lemons)
+
+- [ ] [Thompson sampling - Wikipedia](https://en.wikipedia.org/wiki/Thompson_sampling)
+
+- [ ] [Tjalling Koopmans - Wikipedia](https://en.wikipedia.org/wiki/Tjalling_Koopmans)
+

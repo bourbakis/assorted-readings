@@ -127,3 +127,45 @@ https://arxiv.org/abs/1710.11475
 - [ ] [arXiv.org e-Print archive](https://arxiv.org/)
 
 - [ ] [Search | arXiv e-print repository](https://arxiv.org/search/?query=ery+arias-castro&searchtype=author&abstracts=show&order=-announced_date_first&size=200)
+
+
+
+## 11/29/2019
+
+- [ ] [[0806.3286] BART: Bayesian additive regression trees](https://arxiv.org/abs/0806.3286)
+
+- [ ] [[1405.0231] Characterizing the spatial structure of defensive skill in professional basketball](https://arxiv.org/abs/1405.0231)
+
+- [ ] [[1606.04474] Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/cs?searchtype=author&query=de+Freitas%2C+N)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/cs?searchtype=author&query=Brochu%2C+E)
+
+- [ ] [Search | arXiv e-print repository](https://arxiv.org/search/cs?searchtype=author&query=Cora%2C+V+M)
+
+
+
+
+
+
+
+## 11/29/2019
+
+- [ ] [Bayesian Optimization using Deep Gaussian Processes](https://www.groundai.com/project/bayesian-optimization-using-deep-gaussian-processes/1)
+
+- [ ] [Bayesian Optimization using Deep Gaussian Processes](https://www.groundai.com/project/bayesian-optimization-using-deep-gaussian-processes/)
+
+- [ ] [Funneled Bayesian Optimization for Design, Tuning and Control of Autonomous Systems](https://www.groundai.com/project/funneled-bayesian-optimization-for-design-tuning-and-control-of-autonomous-systems/)
+
+- [ ] [Heteroscedastic Treed Bayesian Optimisation](https://www.groundai.com/project/heteroscedastic-treed-bayesian-optimisation/)
+
+- [ ] [Local Nonstationarity for Efficient Bayesian Optimization](https://www.groundai.com/project/local-nonstationarity-for-efficient-bayesian-optimization/)
+
+- [ ] [Sparse/Robust Estimation and Kalman Smoothing with Nonsmooth Log-Concave Densities: Modeling, Computation, and Theory](https://www.groundai.com/project/sparserobust-estimation-and-kalman-smoothing-with-nonsmooth-log-concave-densities-modeling-computation-and-theory/)
+
+- [ ] [A unified framework for solving a general class of conditional and robust set-membership estimation problems](https://www.groundai.com/project/a-unified-framework-for-solving-a-general-class-of-conditional-and-robust-set-membership-estimation-problems/)
+
+- [ ] [A statistical and computational theory for robust and sparse Kalman smoothing](https://www.groundai.com/project/a-statistical-and-computational-theory-for-robust-and-sparse-kalman-smoothing/)
+
+- [ ] [GroundAI - Every ArXiv paper needs to be discussed](https://www.groundai.com/)

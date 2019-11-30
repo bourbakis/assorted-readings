@@ -1078,3 +1078,19 @@ Administrator@WIN10-901122121 ~/assorted-readin
 - [ ] [Uber loses licence to operate in London / Twitter](https://twitter.com/i/events/1198905294731874304)
 
 - [ ] [Yee Whye Teh（@yeewhye）さん / Twitter](https://twitter.com/yeewhye)
+
+
+
+## 11/29/2019
+
+- [ ] [(1) Arthur Gretton (@ArthurGretton) / Twitter](https://twitter.com/ArthurGretton)
+
+- [ ] [(1) Caglar Gulcehre (@caglarml) / Twitter](https://twitter.com/caglarml)
+
+- [ ] [(1) Jason Baldridge (@jasonbaldridge) / Twitter](https://twitter.com/jasonbaldridge)
+
+- [ ] [Tweet / Twitter](https://twitter.com/WilliamShatner/status/1193367781858631680?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1193367781858631680&ref_url=https%3A%2F%2Fmarginalrevolution.com%2F)
+
+- [ ] [Fabio Votta📊🦉 (@favstats) / Twitter](https://twitter.com/favstats)
+
+- [ ] [(1) Marc Deisenroth 🏳️‍🌈 (@mpd37) / Twitter](https://twitter.com/mpd37)

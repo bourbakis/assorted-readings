@@ -1197,3 +1197,17 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [removing duplicates in R with specifics - Stack Overflow](https://stackoverflow.com/questions/49869507/removing-duplicates-in-r-with-specifics)
 
 - [ ] [Use GLM in R to see if sex ratio varies by group - Stack Overflow](https://stackoverflow.com/questions/43531895/use-glm-in-r-to-see-if-sex-ratio-varies-by-group)
+
+
+
+## 11/30/2019
+
+- [ ] [r - Converting zoo to ts before forecasting - Stack Overflow](https://stackoverflow.com/questions/18856822/converting-zoo-to-ts-before-forecasting)
+
+- [ ] [r - Using a date field in a ts? - Stack Overflow](https://stackoverflow.com/questions/5182262/using-a-date-field-in-a-ts)
+
+- [ ] [time series - Coerce xts to ts in R - Stack Overflow](https://stackoverflow.com/questions/35696119/coerce-xts-to-ts-in-r)
+
+- [ ] [time series - What is the difference the zoo object and ts object in R? - Stack Overflow](https://stackoverflow.com/questions/33714660/what-is-the-difference-the-zoo-object-and-ts-object-in-r)
+
+- [ ] [zoo - How to convert dataframe with YearMonth column to times series in R - Stack Overflow](https://stackoverflow.com/questions/49952869/how-to-convert-dataframe-with-yearmonth-column-to-times-series-in-r)

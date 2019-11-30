@@ -436,3 +436,26 @@
 - [ ] [Probabilistic Numerics.org](http://probabilistic-numerics.org/literature/index.html)
 
 - [ ] [Probabilistic Numerics.org](http://probabilistic-numerics.org/general/2016/05/18/PN-for-CompSci/)
+
+
+
+
+
+
+## 11/29/2019
+
+- [ ] [Alex Beatson's homepage](https://www.cs.princeton.edu/~abeatson/)
+
+- [ ] [Ari Seff Academic Website](https://www.cs.princeton.edu/~aseff/)
+
+- [ ] [Barbara Engelhardt, Princeton University](https://www.cs.princeton.edu/~bee/)
+
+- [ ] [COS 324: Introduction to Machine Learning](https://www.cs.princeton.edu/courses/archive/fall18/cos324/)
+
+- [ ] [COS 324: Introduction to Machine Learning](https://www.cs.princeton.edu/courses/archive/spring19/cos324/)
+
+- [ ] [Geoffrey Roeder's Home Page](https://www.cs.princeton.edu/~groeder/)
+
+- [ ] [MapNet](https://www.cs.princeton.edu/~aseff/mapnet/)
+
+- [ ] [Ryan P. Adams, Princeton University](https://www.cs.princeton.edu/~rpa/)
