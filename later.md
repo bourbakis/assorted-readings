@@ -5774,3 +5774,148 @@ https://www.zhihu.com/question/341466774
 
 - [ ] [Tjalling Koopmans - Wikipedia](https://en.wikipedia.org/wiki/Tjalling_Koopmans)
 
+
+
+## 11/30/2019
+
+- [ ] [Andrew W. Moore's Home Page](https://web.archive.org/web/20070124232118/http://www.cs.cmu.edu/~awm/)
+
+- [ ] [Animations of Constraint Satisfaction Algorithms](https://web.archive.org/web/20070227182402/http://www.cs.cmu.edu/~awm/animations/constraint)
+
+- [ ] [Decision Trees](https://web.archive.org/web/20070127075630/http://www.autonlab.org/tutorials/dtree.html)
+
+- [ ] [Game Tree Search Algorithms, including Alpha-Beta Search](https://web.archive.org/web/20070212062023/http://www.autonlab.org/tutorials/games.html)
+
+- [ ] [Game Tree Search Algorithms, including Alpha-Beta Search](https://web.archive.org/web/20070212062023/http://www.autonlab.org/tutorials/games.html)
+
+- [ ] [https://web.archive.org/web/20071015050012/http://cba.ua.edu/~rpascala/VaR/VaRForm.php](https://web.archive.org/web/20071015050012/http://cba.ua.edu/~rpascala/VaR/VaRForm.php)
+
+- [ ] [Statistical Data Mining Tutorials](https://web.archive.org/web/20070128132923/http://www.autonlab.org/tutorials/index.html)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20070212162713/http://www.autonlab.org/tutorials/bayesnet09.pdf)
+
+- [ ] [Welcome to GloriaMundi.org](https://web.archive.org/web/20080914192413/http://www.gloriamundi.org/)
+
+
+
+
+## 11/30/2019
+
+- [ ] [404 - Document not found](http://www.cs.cmu.edu/~awm/dimacs-talk.html)
+
+- [ ] [404 - Document not found](http://www.cs.cmu.edu/~awm/nyc)
+
+- [ ] [Additional AWM web site items](http://www.cs.cmu.edu/~awm/useful.html)
+
+- [ ] [Animations of Constraint Satisfaction Algorithms](http://www.cs.cmu.edu/~awm/animations/constraint/)
+
+- [ ] [Animations of KD-tree searches](http://www.cs.cmu.edu/~awm/animations/kdtree/)
+
+- [ ] [AWM Academic Papers](http://www.cs.cmu.edu/~awm/papers.html)
+
+- [ ] [AWM Biography](http://www.cs.cmu.edu/~awm/biography.html)
+
+- [ ] [AWM Home Page](http://www.cs.cmu.edu/~awm/)
+
+- [ ] [Reinforcement Learning Simulator](http://www.cs.cmu.edu/~awm/rlsim/)
+
+- [ ] [Vizier: Old but fast locally weighted regression for Windows](http://www.cs.cmu.edu/~awm/vizier/)
+
+- [ ] [AWM Tutorial Page](http://www.cs.cmu.edu/~awm/tutorials.html)
+
+
+
+## 11/30/2019
+
+- [ ] [Financial Innovations](http://www.rondvari.com/Fnancial_Innovations.htm)
+
+- [ ] [Fixed Income](http://www.rondvari.com/fixed_income.htm)
+
+- [ ] [On Investing](http://www.rondvari.com/instruments.htm)
+
+- [ ] [On Risk Management](http://www.rondvari.com/Risk%20Management.htm)
+
+- [ ] [On Risk Management](http://www.rondvari.com/Risk%20Management.htm)
+
+- [ ] [Portfolio Management](http://www.rondvari.com/Portfolio%20Management.htm)
+
+- [ ] [Portfolio Management](http://www.rondvari.com/Portfolio%20Management.htm)
+
+- [ ] [Recent Research](http://www.rondvari.com/Presentations.htm)
+
+- [ ] [Recent Research](http://www.rondvari.com/Presentations.htm#Credit%20Risk%20Management%20and%20Credit%20Derivatives)
+
+- [ ] [Recent Research](http://www.rondvari.com/Presentations.htm#Risk-Constrained%20Portfolio%20Optimization)
+
+- [ ] [Recent Research](http://www.rondvari.com/Presentations.htm)
+
+- [ ] [Recent Research](http://www.rondvari.com/Presentations.htm#Risk-Constrained%20Portfolio%20Optimization)
+
+
+
+## Econometrics
+
+
+## 11/30/2019
+
+- [ ] [GAS models](http://www.gasmodel.com/code.htm)
+
+- [ ] [public.econ.duke.edu](https://public.econ.duke.edu/~ap172/Patton_Ziegel_Chen_replication_code_dec18.zip)
+
+- [ ] [https://www.tandfonline.com/doi/full/10.1080/07350015.2017.1386567](https://www.tandfonline.com/doi/full/10.1080/07350015.2017.1386567)
+
+- [ ] [Generalized Autoregressive Score Models in R: The GAS Package by David Ardia, Kris Boudt, Leopoldo Catania :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2825380)
+
+- [ ] [Bayesian Dynamic Modeling of High-Frequency Integer Price Changes* | Journal of Financial Econometrics | Oxford Academic](https://academic.oup.com/jfec/article/16/3/384/4992613)
+
+- [ ] [Forecasting football match results in national league competitions using score-driven time series models - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0169207018302048?via%3Dihub)
+
+- [ ] [Blasques , Gorgi , Koopman , Wintenberger : Feasible invertibility conditions and maximum likelihood estimation for observation-driven models](https://projecteuclid.org/euclid.ejs/1521079462)
+
+- [ ] [Bayesian Dynamic Modeling of High-Frequency Integer Price Changes* | Journal of Financial Econometrics | Oxford Academic](https://academic.oup.com/jfec/article/16/3/384/4992613)
+
+- [ ] [Monte Carlo Maximum Likelihood Estimation for Generalized Long-Memory Time Series Models: Econometric Reviews: Vol 35, No 4](https://www.tandfonline.com/doi/abs/10.1080/07474938.2015.1031014?journalCode=lecr20)
+
+- [ ] [sjkoopman.net | projects](http://sjkoopman.net/SJwork.html)
+
+- [ ] [United Kingdom - POLITICO](https://www.politico.eu/europe-poll-of-polls/united-kingdom/)
+
+- [ ] [LeopoldoCatania/GAS: GAS models](https://github.com/LeopoldoCatania/GAS)
+
+- [ ] [Generalized Autoregressive Score Models in R: The GAS Package by David Ardia, Kris Boudt, Leopoldo Catania :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2825380)
+
+- [ ] [Homepage: Genaro Sucarrat](http://www.sucarrat.net/)
+
+- [ ] [Software](http://www.sucarrat.net/R/index.html)
+
+- [ ] [DRE 7014 Bayesian Econometrics (Autumn 2013)](http://www.sucarrat.net/teaching/dre7014/)
+
+- [ ] [Hilde C. Bjørnland](https://www.bjornland.no/)
+
+- [ ] [BAYESIAN BOOK](https://perso.uclouvain.be/luc.bauwens/Bayes/bayesian.htm)
+
+- [ ] [perso.uclouvain.be](https://perso.uclouvain.be/luc.bauwens/Bayes/AppendixB.zip)
+
+- [ ] [Homepage: Genaro Sucarrat](http://www.sucarrat.net/#Books%20and%20book-chapters)
+
+- [ ] [Homepage: Genaro Sucarrat](http://www.sucarrat.net/#Unpublished%20work)
+
+- [ ] [Homepage: Genaro Sucarrat](http://www.sucarrat.net/#Publications)
+
+- [ ] [Hvor presise er prognosene i Nasjonalbudsjettet? - Munich Personal RePEc Archive](https://mpra.ub.uni-muenchen.de/96850/)
+
+- [ ] [sucarrat_phdthesis.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.sucarrat.net/research/sucarrat_phdthesis.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://e-archivo.uc3m.es:8080/dspace/bitstream/10016/984/1/we077039.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://e-archivo.uc3m.es:8080/dspace/bitstream/10016/984/1/we077039.pdf)
+
+- [ ] [Unbiased QML Estimation of Log-GARCH Models in the Presence of Zero Returns - Munich Personal RePEc Archive](https://mpra.ub.uni-muenchen.de/50699/)
+
+- [ ] [Discussion Papers – Tinbergen.nl](https://www.tinbergen.nl/discussion-papers)
+
+- [ ] [GAS models](http://www.gasmodel.com/gaspapers.htm)
+
+- [ ] [Discussion Papers – Tinbergen.nl](https://www.tinbergen.nl/discussion-papers)
+
+- [ ] [New Tab](chrome://newtab/)

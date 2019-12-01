@@ -486,3 +486,29 @@
 - [ ] [tr069.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://epub.ub.uni-muenchen.de/11050/1/tr069.pdf)
 
 - [ ] [writing.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.dgp.toronto.edu/~hertzman/courses/gradSkills/2010/writing.pdf)
+
+
+
+## 11/30/2019
+
+- [ ] [p327-hoffman.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://dslpitt.org/uai/papers/11/p327-hoffman.pdf)
+
+- [ ] [Microsoft Word - senior 4997w.docx - teaching_VaR_Weiqian_Li.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://web.mst.edu/~huwen/teaching_VaR_Weiqian_Li.pdf)
+
+- [ ] [PerformanceAnalytics.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/PerformanceAnalytics/PerformanceAnalytics.pdf)
+
+- [ ] [Portfolio Optimization via Pair Copula-GARCH-EVT-CVaR Model - 81929493.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://core.ac.uk/download/pdf/81929493.pdf)
+
+- [ ] [Problem Set 1: Linear Algebra - MIT18_S096F13_pset1.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/assignments/MIT18_S096F13_pset1.pdf)
+
+- [ ] [Problem Set 2: Probability Theory and Stochastic Process - MIT18_S096F13_pset2.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/assignments/MIT18_S096F13_pset2.pdf)
+
+- [ ] [Problem Set 7: Factor Modeling - MIT18_S096F13_pset7.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/assignments/MIT18_S096F13_pset7.pdf)
+
+- [ ] [Problem Set 8: Stochastic Calculus - MIT18_S096F13_pset8.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/assignments/MIT18_S096F13_pset8.pdf)
+
+- [ ] [Problem Set 8: Stochastic Calculus - MIT18_S096F13_pset8.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/assignments/MIT18_S096F13_pset8.pdf)
+
+- [ ] [Refining value-at-risk estimates using a Bayesian Markov-switching GJR-GARCH copula-EVT model - file](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0198753&type=printable)
+
+- [ ] [revised.dvi - evt-garch.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://statmath.wu.ac.at/people/frey/publications/evt-garch.pdf)

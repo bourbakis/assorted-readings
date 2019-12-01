@@ -459,3 +459,74 @@
 - [ ] [MapNet](https://www.cs.princeton.edu/~aseff/mapnet/)
 
 - [ ] [Ryan P. Adams, Princeton University](https://www.cs.princeton.edu/~rpa/)
+
+
+## 11/30/2019
+
+- [ ] [Links | Statistical Machine Learning Group](https://sml-group.cc/links/)
+
+- [ ] [Publications | Statistical Machine Learning Group](https://sml-group.cc/publication/)
+
+- [ ] [Recent & Upcoming Talks | Statistical Machine Learning Group](https://sml-group.cc/talk/)
+
+- [ ] [Statistical Machine Learning Group](https://sml-group.cc/#people)
+
+- [ ] [Teaching | Statistical Machine Learning Group](https://sml-group.cc/teaching/)
+
+
+
+
+## 11/30/2019
+
+- [ ] [Index of /~mpd37/teaching](https://www.doc.ic.ac.uk/~mpd37/teaching/)
+
+- [ ] [Index of /~mpd37/teaching/2017](https://www.doc.ic.ac.uk/~mpd37/teaching/2017/)
+
+- [ ] [auto-sklearn](https://www.automl.org/automl/auto-sklearn/)
+
+- [ ] [AutoML](https://www.automl.org/automl/)
+
+- [ ] [AutoML Blog](https://www.automl.org/automl-blog/)
+
+- [ ] [AutoML: Methods, Systems, Challenges (new book)](https://www.automl.org/book/)
+
+- [ ] [BOHB](https://www.automl.org/automl/bohb/)
+
+- [ ] [SMAC](https://www.automl.org/automated-algorithm-design/algorithm-configuration/smac/)
+
+- [ ] [Syllabus for 36-402, Undergraduate Advanced Data Analysis, Section A](http://www.stat.cmu.edu/~cshalizi/uADA/17/)
+
+- [ ] [Accelerating Matlab](https://tminka.github.io/software/matlab.html)
+
+- [ ] [Tom Minka](https://tminka.github.io/)
+
+- [ ] [A Statistical Learning/Pattern Recognition Glossary](http://alumni.media.mit.edu/~tpminka/statlearn/glossary/)
+
+- [ ] [R map libraries](http://alumni.media.mit.edu/~tpminka/software/maps/)
+
+- [ ] [SigOpt: Amplify Your Research - SigOpt](https://app.sigopt.com/login)
+
+- [ ] [Automated Machine Learning - Methods, Systems, Challenges | Frank Hutter | Springer](https://www.springer.com/de/book/9783030053178)
+
+- [ ] [Frank Hutter: Home](https://www.cs.ubc.ca/~hutter/)
+
+- [ ] [Machine Learning Lab](https://ml.informatik.uni-freiburg.de/)
+
+
+
+
+# Bayes and rstats
+
+## 11/30/2019
+
+- [ ] [Background | MAS8391](http://www.mas.ncl.ac.uk/~nlf8/teaching/mas8391/background/)
+
+- [ ] [Beginner's R | Lee Fawcett](http://www.mas.ncl.ac.uk/~nlf8/basicR/)
+
+- [ ] [Lecture notes | MAS2903](http://www.mas.ncl.ac.uk/~nlf8/teaching/mas2903/notes/)
+
+- [ ] [MAS3902: Bayesian Inference](http://www.mas.ncl.ac.uk/~nlf8/teaching/mas3902/)
+
+- [ ] [MAS8391: MMathStat project](http://www.mas.ncl.ac.uk/~nlf8/teaching/mas8391/)
+
+- [ ] [MAS8391: MMathStat project](http://www.mas.ncl.ac.uk/~nlf8/teaching/mas8391/)

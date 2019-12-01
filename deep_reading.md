@@ -88,3 +88,15 @@ rpt from "Xi Jinping: The Backlash" by Richard McGregor](https://sinocism.com/p/
 
 
 
+
+
+
+## 11/30/2019
+
+- [ ] [A discussion on mean excess plots - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0304414910001079)
+
+- [ ] [Analytical approximation for distorted expectations - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0167715215003247)
+
+- [ ] [Portfolio optimization based on GARCH-EVT-Copula forecasting models - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0169207018300396)
+
+- [ ] [Trends in Cognitive Sciences | Special issue: Probabilistic models of cognition | ScienceDirect.com](https://www.sciencedirect.com/journal/trends-in-cognitive-sciences/vol/10/issue/7)

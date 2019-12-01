@@ -5053,3 +5053,198 @@ https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
 - [ ] [www.google.com](https://www.google.com/search?q=Brian+Arthu&oq=Brian+Arthu&aqs=chrome..69i57j69i61l2&sourceid=chrome&ie=UTF-8)
 
 - [ ] [www.google.com](https://www.google.com/search?q=Iain+Murray&oq=Iain+Murray&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+
+
+# Risk Mangement, Backtesting VaR 
+
+## 11/30/2019
+
+- [ ] ["exponentially weighted moving average" excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRlPJUNFdecDSXNmh2rR9N6qz9DjQ%3A1575082498226&lei=AtrhXYajDa2zmAWprZmQDA&q=%22exponentially%20weighted%20moving%20average%22%20excel&ved=2ahUKEwjChInH95DmAhVBFqYKHXayBjwQsKwBKAV6BAgAEAY)
+
+- [ ] [cubature - Google Search](https://www.google.com/search?q=cubature&oq=cubature&aqs=chrome..69i57j69i60l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [cvar formula - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSFMEymW7pJB98twWeum-iMnAR8lg%3A1575081450031&lei=6tXhXcumAYiHr7wP_OenwA8&q=cvar%20formula&ved=2ahUKEwi52azT85DmAhUEE6YKHTBxAOEQsKwBKAN6BAgDEAQ)
+
+- [ ] [cvar function in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSFMEymW7pJB98twWeum-iMnAR8lg%3A1575081450031&lei=6tXhXcumAYiHr7wP_OenwA8&q=cvar%20function%20in%20r&ved=2ahUKEwi52azT85DmAhUEE6YKHTBxAOEQsKwBKAF6BAgDEAI)
+
+- [ ] [Emacs book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQg4JfgtuB2L6VS57xs0WzjAn5s4Q:1575083199741&q=Emacs+book&stick=H4sIAAAAAAAAAONgFuLUz9U3MKwsMMhVQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKAsVyclKTSzLz8_ST8vOzixexcrnmJiYXK4B4O1gZAaJtgYpSAAAA&sa=X&ved=2ahUKEwiRzPKU-pDmAhVRG6YKHUEwBCcQzTooATCDAXoECG8QAg)
+
+- [ ] [evt var - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT337V9pkVM2S_8A1apPNtK-E1zAA:1575088191765&q=evt+var&sa=X&ved=2ahUKEwjEw6PhjJHmAhUIyIsBHei7Ba0Q1QIoAHoECGUQAQ)
+
+- [ ] [ewma backtest var "excel" - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRFb4OkFmZYqjsXz-2oTL3In5M49A%3A1575082068232&ei=VNjhXZ7rDaG1mAWzzZ-YDQ&q=ewma+backtest+var+%22excel%22&oq=ewma+backtest+var+%22excel%22&gs_l=psy-ab.3..33i299l2.4077.5973..6213...0.4..0.111.190.1j1......0....1..gws-wiz.......0i71j35i39.d3ViFr6xFgA&ved=0ahUKEwie5az59ZDmAhWhGqYKHbPmB9MQ4dUDCAs&uact=5)
+
+- [ ] [ewma backtest var matlb - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTp1K347GeFYJ0nFjZHXngLDEsU_A%3A1575082042949&ei=OtjhXfnFOf3UmAWB25DwCA&q=ewma+backtest+var+matlb&oq=ewma+backtest+var+matlb&gs_l=psy-ab.3..33i160l3.1249.1802..2019...0.1..0.124.541.1j4......0....1..gws-wiz.......0i71j33i299.Wzyfi3BZnlQ&ved=0ahUKEwj5yqXt9ZDmAhV9KqYKHYEtBI4Q4dUDCAs&uact=5)
+
+- [ ] [ewma backtest var python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTp1K347GeFYJ0nFjZHXngLDEsU_A%3A1575082042949&ei=OtjhXfnFOf3UmAWB25DwCA&q=ewma+backtest+var+python&oq=ewma+backtest+var+python&gs_l=psy-ab.3..33i160j33i299.7994.12673..12913...2.3..0.157.1152.7j4......0....1..gws-wiz.......0i71j35i39.AfiJU1r4VzE&ved=0ahUKEwj5yqXt9ZDmAhV9KqYKHYEtBI4Q4dUDCAs&uact=5)
+
+- [ ] [ewma backtest var r codes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQXojrkIyJvOtZ6ciCt-_qEuPDEig%3A1575082029076&ei=LdjhXYSfBJmMr7wP-8iysAs&q=ewma+backtest+var+r++codes&oq=ewma+backtest+var+r++codes&gs_l=psy-ab.3...6717.11739..12756...5.2..0.556.3292.3j5j3j2j1j1......0....1..gws-wiz.......0i71j33i160j33i299.opMMp5niaTg&ved=0ahUKEwjE6dbm9ZDmAhUZxosBHXukDLYQ4dUDCAs&uact=5)
+
+- [ ] [ewma chart - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRlPJUNFdecDSXNmh2rR9N6qz9DjQ%3A1575082498226&lei=AtrhXYajDa2zmAWprZmQDA&q=ewma%20chart&ved=2ahUKEwjChInH95DmAhVBFqYKHXayBjwQsKwBKAN6BAgAEAQ)
+
+- [ ] [ewma derivation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRlPJUNFdecDSXNmh2rR9N6qz9DjQ%3A1575082498226&lei=AtrhXYajDa2zmAWprZmQDA&q=ewma%20derivation&ved=2ahUKEwjChInH95DmAhVBFqYKHXayBjwQsKwBKAJ6BAgAEAM)
+
+- [ ] [ewma matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRlPJUNFdecDSXNmh2rR9N6qz9DjQ%3A1575082498226&lei=AtrhXYajDa2zmAWprZmQDA&q=ewma%20matlab&ved=2ahUKEwjChInH95DmAhVBFqYKHXayBjwQsKwBKAR6BAgAEAU)
+
+- [ ] [ewma pandas - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRlPJUNFdecDSXNmh2rR9N6qz9DjQ%3A1575082498226&lei=AtrhXYajDa2zmAWprZmQDA&q=ewma%20pandas&ved=2ahUKEwjChInH95DmAhVBFqYKHXayBjwQsKwBKAB6BAgAEAE)
+
+- [ ] [ewma vs garch - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRlPJUNFdecDSXNmh2rR9N6qz9DjQ%3A1575082498226&lei=AtrhXYajDa2zmAWprZmQDA&q=ewma%20vs%20garch&ved=2ahUKEwjChInH95DmAhVBFqYKHXayBjwQsKwBKAF6BAgAEAI)
+
+- [ ] [ewma vs garch - Google Search](https://www.google.com/search?q=ewma+vs+garch&newwindow=1&sxsrf=ACYBGNSYsgV-mSQ3jG8imPP_UdLYAMZrNQ:1575082505657&tbm=isch&source=iu&ictx=1&fir=L9jgLDbRX8Cn5M%253A%252C7Cjtu2W_fKQZiM%252C_&vet=1&usg=AI4_-kQCROGNEDtOqFWggiMHoXlxt_QLQQ&sa=X&ved=2ahUKEwjZ-vbJ95DmAhWNvpQKHc5UA2MQ9QEwAHoECAQQAw#imgrc=L9jgLDbRX8Cn5M:)
+
+- [ ] [expected shortfall function in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSFMEymW7pJB98twWeum-iMnAR8lg%3A1575081450031&lei=6tXhXcumAYiHr7wP_OenwA8&q=expected%20shortfall%20function%20in%20r&ved=2ahUKEwi52azT85DmAhUEE6YKHTBxAOEQsKwBKAB6BAgDEAE)
+
+- [ ] [extreme value theory monte carlo simulation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT337V9pkVM2S_8A1apPNtK-E1zAA:1575088191765&q=extreme+value+theory+monte+carlo+simulation&sa=X&ved=2ahUKEwjEw6PhjJHmAhUIyIsBHei7Ba0Q1QIoAXoECGUQAg)
+
+- [ ] [extreme value theory var v.s. garch approach - Google Search](https://www.google.com/search?q=extreme+value+theory+var+v.s.+garch+approach&newwindow=1&sxsrf=ACYBGNS2OP-LB4IfhYmej528KCchYI5XRA:1575087793502&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiWpa-ji5HmAhVPy4sBHa0nDu0Q_AUoA3oECGUQBQ&biw=1920&bih=948)
+
+- [ ] [full revaluation var - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQuHKs4f9d3HlTTcQRrIBgaJkXKsg%3A1575081003674&lei=K9ThXe7MKNPEmAXez5SgAw&q=full%20revaluation%20var&ved=2ahUKEwjH1fyD8pDmAhXxGaYKHbnDDj8QsKwBKAN6BAgCEAQ)
+
+- [ ] [gas r package - Google Search](https://www.google.com/search?q=gas%20r%20package)
+
+- [ ] [historical simulation var - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSFMEymW7pJB98twWeum-iMnAR8lg:1575081450031&q=historical+simulation+var&sa=X&ved=2ahUKEwjLw8jS85DmAhWIw4sBHfzzCfgQ1QIoB3oECGUQCA)
+
+- [ ] [how to calculate value at risk - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSFMEymW7pJB98twWeum-iMnAR8lg%3A1575081450031&lei=6tXhXcumAYiHr7wP_OenwA8&q=how%20to%20calculate%20value%20at%20risk&ved=2ahUKEwi52azT85DmAhUEE6YKHTBxAOEQsKwBKAV6BAgDEAY)
+
+- [ ] [max drawdown in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTp1K347GeFYJ0nFjZHXngLDEsU_A%3A1575082042949&lei=OtjhXfnFOf3UmAWB25DwCA&q=max%20drawdown%20in%20r&ved=2ahUKEwioltLu9ZDmAhW7JaYKHabmDfQQsKwBKAR6BAgBEAU)
+
+- [ ] [monte carlo simulation for var - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSg3MtNNEjgmKF4oBFKbZog_FsA9Q%3A1575080970251&lei=CtThXc_0Dse4mAWh7LjYDw&q=monte%20carlo%20simulation%20for%20var&ved=2ahUKEwifhOHu8ZDmAhXdxosBHd83C4QQsKwBKAF6BAgAEAI)
+
+- [ ] [monte carlo simulation value at risk - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSFMEymW7pJB98twWeum-iMnAR8lg:1575081450031&q=monte+carlo+simulation+value+at+risk&sa=X&ved=2ahUKEwjLw8jS85DmAhWIw4sBHfzzCfgQ1QIoAnoECGUQAw)
+
+- [ ] [monte carlo value at risk in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQuHKs4f9d3HlTTcQRrIBgaJkXKsg%3A1575081003674&lei=K9ThXe7MKNPEmAXez5SgAw&q=monte%20carlo%20value%20at%20risk%20in%20r&ved=2ahUKEwjH1fyD8pDmAhXxGaYKHbnDDj8QsKwBKAB6BAgCEAE)
+
+- [ ] [one off evt var - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT337V9pkVM2S_8A1apPNtK-E1zAA:1575088191765&q=one+off+evt+var&sa=X&ved=2ahUKEwjEw6PhjJHmAhUIyIsBHei7Ba0Q1QIoAnoECGUQAw)
+
+- [ ] [parametric value at risk python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSg3MtNNEjgmKF4oBFKbZog_FsA9Q%3A1575080970251&lei=CtThXc_0Dse4mAWh7LjYDw&q=parametric%20value%20at%20risk%20python&ved=2ahUKEwifhOHu8ZDmAhXdxosBHd83C4QQsKwBKAB6BAgAEAE)
+
+- [ ] [performanceanalytics github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTp1K347GeFYJ0nFjZHXngLDEsU_A%3A1575082042949&lei=OtjhXfnFOf3UmAWB25DwCA&q=performanceanalytics%20github&ved=2ahUKEwioltLu9ZDmAhW7JaYKHabmDfQQsKwBKAF6BAgBEAI)
+
+- [ ] [performanceanalytics python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTp1K347GeFYJ0nFjZHXngLDEsU_A%3A1575082042949&lei=OtjhXfnFOf3UmAWB25DwCA&q=performanceanalytics%20python&ved=2ahUKEwioltLu9ZDmAhW7JaYKHabmDfQQsKwBKAB6BAgBEAE)
+
+- [ ] [performanceanalytics r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTp1K347GeFYJ0nFjZHXngLDEsU_A%3A1575082042949&lei=OtjhXfnFOf3UmAWB25DwCA&q=performanceanalytics%20r&ved=2ahUKEwioltLu9ZDmAhW7JaYKHabmDfQQsKwBKAN6BAgBEAQ)
+
+- [ ] [python historical coputation var - Google Search](https://www.google.com/search?q=python+historical+coputation+var&oq=python+historical+coputation+var&aqs=chrome..69i57j69i64l3.7014j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [r performance analytics correlation matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTp1K347GeFYJ0nFjZHXngLDEsU_A%3A1575082042949&lei=OtjhXfnFOf3UmAWB25DwCA&q=r%20performance%20analytics%20correlation%20matrix&ved=2ahUKEwioltLu9ZDmAhW7JaYKHabmDfQQsKwBKAV6BAgBEAY)
+
+- [ ] [r portfolio analytics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTp1K347GeFYJ0nFjZHXngLDEsU_A%3A1575082042949&lei=OtjhXfnFOf3UmAWB25DwCA&q=r%20portfolio%20analytics&ved=2ahUKEwioltLu9ZDmAhW7JaYKHabmDfQQsKwBKAJ6BAgBEAM)
+
+- [ ] [risk management python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSg3MtNNEjgmKF4oBFKbZog_FsA9Q%3A1575080970251&lei=CtThXc_0Dse4mAWh7LjYDw&q=risk%20management%20python&ved=2ahUKEwifhOHu8ZDmAhXdxosBHd83C4QQsKwBKAN6BAgAEAQ)
+
+- [ ] [solved problems on value at risk - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQuHKs4f9d3HlTTcQRrIBgaJkXKsg%3A1575081003674&lei=K9ThXe7MKNPEmAXez5SgAw&q=solved%20problems%20on%20value%20at%20risk&ved=2ahUKEwjH1fyD8pDmAhXxGaYKHbnDDj8QsKwBKAJ6BAgCEAM)
+
+- [ ] [Use exponentially weighted moving-average method to compute the volatility matrix - Google Search](https://www.google.com/search?q=Use+exponentially+weighted+moving-average+method+to+compute+the+volatility+matrix&oq=Use+exponentially+weighted+moving-average+method+to+compute+the+volatility+matrix&aqs=chrome..69i57j69i64.758j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [value at risk book pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQuHKs4f9d3HlTTcQRrIBgaJkXKsg%3A1575081003674&lei=K9ThXe7MKNPEmAXez5SgAw&q=value%20at%20risk%20book%20pdf&ved=2ahUKEwjH1fyD8pDmAhXxGaYKHbnDDj8QsKwBKAV6BAgCEAY)
+
+- [ ] [value at risk excel template - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSg3MtNNEjgmKF4oBFKbZog_FsA9Q%3A1575080970251&lei=CtThXc_0Dse4mAWh7LjYDw&q=value%20at%20risk%20excel%20template&ved=2ahUKEwifhOHu8ZDmAhXdxosBHd83C4QQsKwBKAR6BAgAEAU)
+
+- [ ] [value at risk for loan portfolio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSg3MtNNEjgmKF4oBFKbZog_FsA9Q%3A1575080970251&lei=CtThXc_0Dse4mAWh7LjYDw&q=value%20at%20risk%20for%20loan%20portfolio&ved=2ahUKEwifhOHu8ZDmAhXdxosBHd83C4QQsKwBKAV6BAgAEAY)
+
+- [ ] [value at risk python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQuHKs4f9d3HlTTcQRrIBgaJkXKsg%3A1575081003674&lei=K9ThXe7MKNPEmAXez5SgAw&q=value%20at%20risk%20python&ved=2ahUKEwjH1fyD8pDmAhXxGaYKHbnDDj8QsKwBKAR6BAgCEAU)
+
+- [ ] [var in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSFMEymW7pJB98twWeum-iMnAR8lg%3A1575081450031&lei=6tXhXcumAYiHr7wP_OenwA8&q=var%20in%20r&ved=2ahUKEwi52azT85DmAhUEE6YKHTBxAOEQsKwBKAR6BAgDEAU)
+
+- [ ] [var monte carlo cholesky - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQuHKs4f9d3HlTTcQRrIBgaJkXKsg%3A1575081003674&lei=K9ThXe7MKNPEmAXez5SgAw&q=var%20monte%20carlo%20cholesky&ved=2ahUKEwjH1fyD8pDmAhXxGaYKHbnDDj8QsKwBKAF6BAgCEAI)
+
+
+
+---
+
+
+
+
+## 11/30/2019
+
+- [ ] ["gas" r package average loss ae - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=941&sxsrf=ACYBGNT6sCB13LZzL9o8aOHZ6eggtnT8PQ%3A1575107163314&ei=WzriXdzoEsyJr7wP1JycgAc&q=%22gas%22+r+package+average+loss+ae&oq=%22gas%22+r+package+average+loss+ae&gs_l=psy-ab.3...6078.7717..8172...0.3..0.176.628.5j1......0....1..gws-wiz.......0i71.73nIwEiYJro&ved=0ahUKEwicgs-305HmAhXMxIsBHVQOB3AQ4dUDCAs&uact=5)
+
+- [ ] [A. Philip Randolph and Bayard Rustin - Google Search](https://www.google.com/search?q=A.+Philip+Randolph+and+Bayard+Rustin&oq=A.+Philip+Randolph+and+Bayard+Rustin&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Alberto Mingardi - Google Search](https://www.google.com/search?q=Alberto%20Mingardi)
+
+- [ ] [Backtesting Value-at-Risk: ADuration-Based Approac - Google Search](https://www.google.com/search?q=Backtesting+Value-at-Risk%3A+ADuration-Based+Approac&oq=Backtesting+Value-at-Risk%3A++ADuration-Based+Approac&aqs=chrome..69i57.639j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [boot: Bootstrap R (S-Plus) Functions. R package versio - Google Search](https://www.google.com/search?q=boot%3A+Bootstrap+R+(S-Plus)+Functions.+R+package+versio&oq=boot%3A+Bootstrap+R+(S-Plus)+Functions.+R+package+versio&aqs=chrome..69i57j69i58&sourceid=chrome&ie=UTF-8)
+
+- [ ] [doParallel: Foreach parallel adaptor for the parallel package - Google Search](https://www.google.com/search?q=doParallel%3A+Foreach+parallel+adaptor+for+the+parallel+package&oq=doParallel%3A+Foreach+parallel+adaptor+for+the+parallel+package&aqs=chrome..69i57j69i58&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Dorothy Day - Google Search](https://www.google.com/search?q=Dorothy+Day&oq=Dorothy+Day&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Dwight Eisenhowe - Google Search](https://www.google.com/search?q=Dwight+Eisenhowe&oq=Dwight+Eisenhowe&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Emmanuel Todd - Google Search](https://www.google.com/search?q=Emmanuel%20Todd)
+
+- [ ] [emmanuel todd books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQUDTTgGoLR30WV7-njT1QMoZnSag:1575100289213&q=emmanuel+todd+books&stick=H4sIAAAAAAAAAONgFuLUz9U3SM7IzjZQQjC1pLKTrfST8vOz9RNLSzLyi6xA7GKF_LycykWswqm5uYl5pak5CiX5KSkKYKkdrIwA7OZbR00AAAA&sa=X&ved=2ahUKEwjCjeXpuZHmAhXUNKYKHSpYAU0QzTooATB7egQIZRAC)
+
+- [ ] [Error in solve.default(fit$hessian) : Lapack routine dgesv: system is exactly singular: U[1,1] = 0 - Google Search](https://www.google.com/search?q=Error%20in%20solve.default%28fit%24hessian%29%20%3A%20Lapack%20routine%20dgesv%3A%20system%20is%20exactly%20singular%3A%20U%5B1%2C1%5D%20%3D%200)
+
+- [ ] [evir VaR - Google Search](https://www.google.com/search?q=evir+VaR&oq=evir+VaR&aqs=chrome..69i57j46j0l2j46l2j0l2.5126j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [evt backtesting var - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSs82Xx0XPAIPQTT0X1b0D83WM5dw%3A1575111296570&ei=gEriXd27IsPemAXnv6-QCQ&q=evt+backtesting+var&oq=evt+backtesting+var&gs_l=psy-ab.3..33i299l3.1593496.1595917..1596196...0.0..0.135.1645.8j8......0....1..gws-wiz.......35i39j0j0i30j0i8i30j0i8i10i30j0i13j0i13i30j0i8i13i30j0i8i13i10i30.G17Yczg2dxM&ved=0ahUKEwjd-8Dq4pHmAhVDL6YKHeffC5IQ4dUDCAs&uact=5)
+
+- [ ] [fGarch: Rmetrics - Autoregressive Conditional Heteroskedastic Modelling - Google Search](https://www.google.com/search?q=fGarch%3A+Rmetrics+-+Autoregressive+Conditional+Heteroskedastic+Modelling&oq=fGarch%3A+Rmetrics+-+Autoregressive+Conditional+Heteroskedastic+Modelling&aqs=chrome..69i57j69i58&sourceid=chrome&ie=UTF-8)
+
+- [ ] [fit generalised pareto in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQo6DzlLqbxBKVgx-yzt50xNk8viQ:1575099015745&q=fit+generalised+pareto+in+r&sa=X&ved=2ahUKEwja-8aKtZHmAhWsKqYKHTc2CbsQ1QIoAXoECGUQAg)
+
+- [ ] [fit generalized pareto distribution r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQo6DzlLqbxBKVgx-yzt50xNk8viQ:1575099015745&q=fit+generalized+pareto+distribution+r&sa=X&ved=2ahUKEwja-8aKtZHmAhWsKqYKHTc2CbsQ1QIoAHoECGUQAQ)
+
+- [ ] [fit pareto distribution r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQo6DzlLqbxBKVgx-yzt50xNk8viQ:1575099015745&q=fit+pareto+distribution+r&sa=X&ved=2ahUKEwja-8aKtZHmAhWsKqYKHTc2CbsQ1QIoAnoECGUQAw)
+
+- [ ] [Frances Perkins - Google Search](https://www.google.com/search?q=Frances+Perkins&oq=Frances+Perkins&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [GARCH-EVT in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSl4cwzGl4bJmZO8HQpzHJV0CbSMg%3A1575114632404&ei=iFfiXeysGPCymAXO5JCgDg&q=GARCH-EVT+in+r&oq=GARCH-EVT+in+r&gs_l=psy-ab.3..35i39.7143.8509..9502...2.0..0.2680.8847.5-1j1j2j0j2......0....1..gws-wiz.......0i8i30j0i22i30.cV9aFR4Hu_o&ved=0ahUKEwjskJSh75HmAhVwGaYKHU4yBOQQ4dUDCAs&uact=5)
+
+- [ ] [gas r package average error - Google Search](https://www.google.com/search?q=gas+r+package+average+error&oq=gas+r+package+average+error&aqs=chrome..69i57.7847j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [generalized extreme value distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQo6DzlLqbxBKVgx-yzt50xNk8viQ%3A1575099015745&lei=hxriXZqcLazVmAW37KTYCw&q=generalized%20extreme%20value%20distribution&ved=2ahUKEwiuvKuLtZHmAhXqGaYKHZ5gBIwQsKwBKAB6BAgAEAE)
+
+- [ ] [Generalized Pareto distribution (GPD) - Google Search](https://www.google.com/search?q=Generalized%20Pareto%20distribution%20%28GPD%29)
+
+- [ ] [Generalized Pareto distribution (GPD) r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQo6DzlLqbxBKVgx-yzt50xNk8viQ:1575099015745&q=Generalized+Pareto+distribution+(GPD)+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwja-8aKtZHmAhWsKqYKHTc2CbsQsAR6BAgKEAE)
+
+- [ ] [Generalized Pareto distribution GPD - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ7VzjJHVQ319IN-wNqlSotXsN7EA:1575099009052&q=Generalized+Pareto+distribution+GPD&stick=H4sIAAAAAAAAAOOQMVIsyC8ozUksUigoyk9KTMrMySypVEjJLC4pykwqLcnMzyuOUnZPzUstSszJrEpNUQhILEotyUdRoeAe4HKKkUM_V98gpdIo-xQjF4iZXmFQVVhyipETxDE1Lc5Lh6opqDTLggobpiRn5UKFk9PKC-HCKRblUGHTFAOE6hTzQpjplYZFaUm_GBUDCDl_ESsx7gcApniaAgoBAAA&sa=X&ved=2ahUKEwistK6HtZHmAhX4yIsBHaQ8DHwQzTooADBwegQIYxAC)
+
+- [ ] [inverse in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXvNZJCYOwB9t-c9BG4CkYtfFmaQ%3A1575108836992&lei=5EDiXZqQPNHEmAXWsY74CQ&q=inverse%20in%20r&ved=2ahUKEwjL7afX2ZHmAhUJG6YKHXKTDIQQsKwBKAJ6BAgAEAM)
+
+- [ ] [Mariana Mazzucato - Google Search](https://www.google.com/search?q=Mariana%20Mazzucato)
+
+- [ ] [matrix is singular - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXvNZJCYOwB9t-c9BG4CkYtfFmaQ%3A1575108836992&lei=5EDiXZqQPNHEmAXWsY74CQ&q=matrix%20is%20singular&ved=2ahUKEwjL7afX2ZHmAhUJG6YKHXKTDIQQsKwBKAF6BAgAEAI)
+
+- [ ] [mean excess plot in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSJ9FMrTL0CQJBeDSUVjZLVDEwXyQ:1575115624565&q=mean+excess+plot+in+r&sa=X&ved=2ahUKEwiT06D68pHmAhV5x4sBHWekAFQQ1QIoAXoECGAQAg&biw=1920&bih=901)
+
+- [ ] [mean excess plot interpretation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSJ9FMrTL0CQJBeDSUVjZLVDEwXyQ:1575115624565&q=mean+excess+plot+interpretation&sa=X&ved=2ahUKEwiT06D68pHmAhV5x4sBHWekAFQQ1QIoAHoECGAQAQ)
+
+- [ ] [nders, W. (2003),Applied Econometric Time Series, - Google Search](https://www.google.com/search?q=nders%2C+W.+(2003)%2CApplied+Econometric+Time+Series%2C&oq=nders%2C+W.+(2003)%2CApplied+Econometric+Time+Series%2C&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [pareto distribution pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQo6DzlLqbxBKVgx-yzt50xNk8viQ%3A1575099015745&lei=hxriXZqcLazVmAW37KTYCw&q=pareto%20distribution%20pdf&ved=2ahUKEwiuvKuLtZHmAhXqGaYKHZ5gBIwQsKwBKAF6BAgAEAI)
+
+- [ ] [Quantitative risk management: Concepts,techniques, and tools - Google Search](https://www.google.com/search?q=Quantitative+risk+management%3A+Concepts%2Ctechniques%2C+and+tools&oq=Quantitative+risk+management%3A+Concepts%2Ctechniques%2C+and+tools&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Qui est Charlie? - Sociologie d’une crise religieuse (Cartes et graphiques de Philippe Laforgue) - Google Search](https://www.google.com/search?q=Qui%20est%20Charlie%3F%20-%20Sociologie%20d%E2%80%99une%20crise%20religieuse%20%28Cartes%20et%20graphiques%20de%20Philippe%20Laforgue%29)
+
+- [ ] [résumé virtues - Google Search](https://www.google.com/search?q=r%C3%A9sum%C3%A9+virtues&oq=r%C3%A9sum%C3%A9+virtues&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [rmgarch example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqpnrJF7JVUzgXwSUgQIJX5Fg0Dg%3A1575107350925&lei=FjviXeiEOIr70gTVzLmoCQ&q=rmgarch%20example&ved=2ahUKEwi4p6-S1JHmAhVdy4sBHfx-CAgQsKwBKAF6BAgBEAI)
+
+- [ ] [rugarch - Google Search](https://www.google.com/search?q=rugarch&oq=rugarch&aqs=chrome..69i57j69i59j0j69i60l5.558j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [rugarch external regressors - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSDo65aiKYfzEi2bU2s61mpqjyPLA%3A1575106895972&lei=TzniXev0OuitmAWPn5SIDg&q=rugarch%20external%20regressors&ved=2ahUKEwjkrYC50pHmAhXvyosBHQmVDRIQsKwBKAB6BAgEEAE)
+
+- [ ] [solve singular matrix r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTXvNZJCYOwB9t-c9BG4CkYtfFmaQ%3A1575108836992&lei=5EDiXZqQPNHEmAXWsY74CQ&q=solve%20singular%20matrix%20r&ved=2ahUKEwjL7afX2ZHmAhUJG6YKHXKTDIQQsKwBKAB6BAgAEAE)
+
+- [ ] [Terence Kealey - Google Search](https://www.google.com/search?q=Terence%20Kealey)
+
+- [ ] [Tony Judt - Google Search](https://www.google.com/search?q=Tony%20Judt)
+
+- [ ] [ugarchfit r documentation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSDo65aiKYfzEi2bU2s61mpqjyPLA%3A1575106895972&lei=TzniXev0OuitmAWPn5SIDg&q=ugarchfit%20r%20documentation&ved=2ahUKEwjkrYC50pHmAhXvyosBHQmVDRIQsKwBKAV6BAgEEAY)
+
+- [ ] [ugarchforecast - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqpnrJF7JVUzgXwSUgQIJX5Fg0Dg%3A1575107350925&lei=FjviXeiEOIr70gTVzLmoCQ&q=ugarchforecast&ved=2ahUKEwi4p6-S1JHmAhVdy4sBHfx-CAgQsKwBKAV6BAgBEAY)
+
+- [ ] [volatility clustering in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqpnrJF7JVUzgXwSUgQIJX5Fg0Dg%3A1575107350925&lei=FjviXeiEOIr70gTVzLmoCQ&q=volatility%20clustering%20in%20r&ved=2ahUKEwi4p6-S1JHmAhVdy4sBHfx-CAgQsKwBKAB6BAgBEAE)
+
+- [ ] [wikipedia generalized pareto distribution - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQo6DzlLqbxBKVgx-yzt50xNk8viQ%3A1575099015745&lei=hxriXZqcLazVmAW37KTYCw&q=wikipedia%20generalized%20pareto%20distribution&ved=2ahUKEwiuvKuLtZHmAhXqGaYKHZ5gBIwQsKwBKAJ6BAgAEAM)
+
+- [ ] [www.google.com](https://www.google.com/search?tbm=bks&hl=en&q=When+does+the+mean+excess+plot+look+linear%3F)
+
+- [ ] [yesian semi-parametric expectedshortfall forecasting in financial markets - Google Search](https://www.google.com/search?q=yesian+semi-parametric+expectedshortfall+forecasting+in+financial+markets&oq=yesian+semi-parametric+expectedshortfall+forecasting+in+financial+markets&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)

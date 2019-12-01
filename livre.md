@@ -3255,3 +3255,71 @@ http://libgen.is/search.php?&req=+Bruno+Tuffin&phrase=0&view=simple&column=autho
 - [ ] [Library Genesis: Michael Falk, Johannes Hain, Frank Marohn, Hans Fischer, René Michel (auth.) - Statistik in Theorie und Praxis: Mit Anwendungen in R](http://libgen.is/book/index.php?md5=313623135188CF82F924934E4A7B8DC4)
 
 - [ ] [Library Genesis: Michael Falk, Jürg Hüsler, Rolf-Dieter Reiss (auth.) - Laws of small numbers: extremes and rare events](http://libgen.is/book/index.php?md5=983A762AB13EF43A515AC7568CEEB170)
+
+
+
+
+
+## 11/30/2019
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/C8CD07173B7F459FE5F0DAA9949089AC)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/_ads/EA38A127C8018E6DA0E79ECDC395F926)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1092000/629270c641d6267f3216007df8c2e52e/%28Lecture%20Notes%20in%20Economics%20and%20Mathematical%20Systems%20232%29%20Dr.%20Luc%20Bauwens%20%28auth.%29%20-%20Bayesian%20Full%20Information%20Analysis%20of%20Simultaneous%20Equation%20Models%20Using%20Integration%20by%20Monte%20Carlo-Springer-Verlag%20.pdf)
+
+- [ ] [93.174.95.29](http://93.174.95.29/_ads/E4FF1DE54B846141D50AA14466A361D3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6890BC87FAB526EC7A5DD16451C4CBD1)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0917601C2EC7F0EAC72F4DDF90837263)
+
+- [ ] [Library Genesis: Anthony O'Hagan - The Advanced Theory of Statistics, Vol. 2B: Bayesian Inference](http://libgen.is/book/index.php?md5=CBD7C97E95D12AD944936F7A36626B2C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/C90853A2109F37D5D213165227FC64EE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E242FB756E55C80104C6DAAC9259B3C3)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0199431F39A75C4846F15D4A7335EC63)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BDF403DEE6CFC28CA20F4E670359978C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A9000F168F1408EE3DA565D1D2DEAFD1)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7126200E2ED74B4084AAE095E8C43A4D)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/18D0F3D62A336287EDA28DCE22C23225)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A94D0757E52A91D3138E41D8888CE0B9)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/6E0BFF87417DA4F9F414EBC053C6E2E5)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/183C96565D06079237945060981554AE)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E307A169439E40BFDBE03CCC2740F546)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/E082E6CCD1656F08234065896027712C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/2D1AC831A270B8B08F8B8EC2205913DC)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/A73A8170F64DA95D56A18B2E289AC8C1)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/EB3B2E63AB2DA96BEC599AFDA9875C8C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/4EE52B57D8FFF932803AC4FC90663F24)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B980FB148A98107746BE125D630D4D62)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/8877CF4A0ABA307B0F5B1280B174BDFB)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/41896BEDF775AD54E4AD1CA97B330BA1)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/CCA6931B7DD3000D76B189781E967F13)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/7A61AB547B4DE5292231B8C5F6310A7C)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/FF87AC88CFFD235DC314C8A8454BB0B2)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0FA835D3CA331CC338415B3F2AD023AD)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/67534800AC4880C2F762545B156AFF21)

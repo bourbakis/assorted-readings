@@ -598,3 +598,137 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=2ahUKEwjZ0Z
 - [ ] [stata - Interpretation of average marginal effects for categorical and continuous variables - Cross Validated](https://stats.stackexchange.com/questions/398899/interpretation-of-average-marginal-effects-for-categorical-and-continuous-variab)
 
 - [ ] [stata - Interpretation of marginal effects in Logit Model with log$\times$independent variable - Cross Validated](https://stats.stackexchange.com/questions/147612/interpretation-of-marginal-effects-in-logit-model-with-log-timesindependent-va)
+
+
+
+## 11/30/2019
+
+- [ ] [Amherst College](http://athletics.amherst.edu/landing/index)
+
+- [ ] [404 Not Found](https://nhorton.people.amherst.edu/SDM4)
+
+- [ ] [Building precursors to data science](https://nhorton.people.amherst.edu/precursors/)
+
+- [ ] [Introduction](https://nhorton.people.amherst.edu/sdm4/)
+
+- [ ] [Introduction](https://nhorton.people.amherst.edu/is5/)
+
+- [ ] [R and RStudio Resources at Amherst College](https://nhorton.people.amherst.edu/rstudio/)
+
+- [ ] [SAS and R: Data Management, Statistical Analysis, and Graphics (second edition)](https://nhorton.people.amherst.edu/sasr2/)
+
+- [ ] [The Statistical Sleuth (2nd edition) in R](https://nhorton.people.amherst.edu/sleuth/)
+
+- [ ] [Using R and RStudio for Data Management, Statistical Analysis, and Graphics (second edition)](https://nhorton.people.amherst.edu/r2/)
+
+- [ ] [Faculty & Staff | Horton, Nicholas J. | Amherst College](https://www.amherst.edu/people/facstaff/nhorton)
+
+- [ ] [Curriculum Guidelines for Undergraduate Programs in Statistical Science](https://www.amstat.org/asa/education/Curriculum-Guidelines-for-Undergraduate-Programs-in-Statistical-Science.aspx)
+
+- [ ] [Modern Data Science with R - CRC Press Book](https://www.crcpress.com/Modern-Data-Science-with-R/Baumer-Kaplan-Horton/p/book/9781498724487)
+
+- [ ] [Modern Data Science with R](http://mdsr-book.github.io/)
+
+- [ ] [The mosaic package: helpi... The R Journal](https://journal.r-project.org/archive/2017/RJ-2017-024/)
+
+- [ ] [Teach Data Science](https://teachdatascience.com/)
+
+
+
+
+# R packages for econometrics
+
+## 11/30/2019
+
+- [ ] [CRAN - Package betategarch](https://cran.r-project.org/web/packages/betategarch/)
+
+- [ ] [CRAN - Package GAS](https://cran.r-project.org/web/packages/GAS/index.html)
+
+- [ ] [CRAN - Package lgarch](https://cran.r-project.org/web/packages/lgarch/)
+
+- [ ] [CRAN - Package mosaic](https://cran.r-project.org/web/packages/mosaic/index.html)
+
+- [ ] [CRAN - Package mosaic](https://cran.r-project.org/web/packages/mosaic/)
+
+- [ ] [CRAN Package Check Results for Package cubature](https://cran.r-project.org/web/checks/check_results_cubature.html)
+
+- [ ] [CRAN Task View: Bayesian Inference](https://cran.r-project.org/web/views/Bayesian.html)
+
+- [ ] [CRAN Task View: Numerical Mathematics](https://cran.r-project.org/web/views/NumericalMathematics.html)
+
+- [ ] [CRAN Task View: Numerical Mathematics](https://cran.r-project.org/web/views/NumericalMathematics.html)
+
+- [ ] [CRAN Task View: Time Series Analysis](https://cran.r-project.org/web/views/TimeSeries.html)
+
+- [ ] [Cubature Vectorization Results](https://cran.r-project.org/web/packages/cubature/vignettes/cubature.html)
+
+- [ ] [Resources Related to the mosaic Package](https://cran.r-project.org/web/packages/mosaic/vignettes/mosaic-resources.html)
+
+- [ ] [The Copula GARCH Model](https://cran.r-project.org/web/packages/copula/vignettes/copula_GARCH.html)
+
+- [ ] [Using the ReIns package](https://cran.r-project.org/web/packages/ReIns/vignettes/ReIns.html)
+
+- [ ] [Version 2.0 Notes](https://cran.r-project.org/web/packages/cubature/vignettes/version2.html)
+
+
+
+## 11/30/2019
+
+- [ ] [CRAN - Package diffobj](https://cran.r-project.org/web/packages/diffobj/index.html)
+
+- [ ] [CRAN - Package parma](https://cran.r-project.org/web/packages/parma/index.html)
+
+- [ ] [CRAN - Package rmgarch](https://cran.r-project.org/web/packages/rmgarch/index.html)
+
+- [ ] [CRAN - Package Rsolnp](https://cran.r-project.org/web/packages/Rsolnp/index.html)
+
+- [ ] [CRAN - Package spd](https://cran.r-project.org/web/packages/spd/index.html)
+
+- [ ] [CRAN - Package tinytest](https://cran.r-project.org/web/packages/tinytest/index.html)
+
+- [ ] [CRAN - Package ttdo](https://cran.r-project.org/web/packages/ttdo/index.html)
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+# blogs and lectures about GARCH and so on 
+
+
+## 11/30/2019
+
+- [ ] [A note on simulation in the rugarch package.](http://www.unstarched.net/r-examples/rugarch/a-note-on-simulation-in-the-rugarch-package/)
+
+- [ ] [A short introduction to the rugarch package](http://www.unstarched.net/r-examples/rugarch/a-short-introduction-to-the-rugarch-package/)
+
+- [ ] [A short introduction to the rugarch package](http://www.unstarched.net/r-examples/rugarch/a-short-introduction-to-the-rugarch-package/)
+
+- [ ] [Dirk Eddelbuettel](http://dirk.eddelbuettel.com/#)
+
+- [ ] [www.brodieg.com](https://www.brodieg.com/)
+
+- [ ] [Main - PrairieLearn](https://prairielearn.readthedocs.io/en/latest/)
+
+- [ ] [barbehenna (Alton Barbehenn)](https://github.com/barbehenna)
+
+- [ ] [Thinking inside the box](http://dirk.eddelbuettel.com/blog/)
+
+- [ ] [Talks](http://dirk.eddelbuettel.com/presentations.html)
+
+- [ ] [Fast EWMA Filtering of Time Varying Correlations](http://www.unstarched.net/r-examples/rmgarch/fast-ewma-filtering-of-time-vayring-correlations/)
+
+- [ ] [Blog](http://www.unstarched.net/blog/)
+
+- [ ] [The EWMA model](http://www.unstarched.net/r-examples/rugarch/the-ewma-model/)
+
+- [ ] [The EWMA model](http://www.unstarched.net/r-examples/rugarch/the-ewma-model/)
+
