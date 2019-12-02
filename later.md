@@ -5919,3 +5919,1220 @@ https://www.zhihu.com/question/341466774
 - [ ] [Discussion Papers – Tinbergen.nl](https://www.tinbergen.nl/discussion-papers)
 
 - [ ] [New Tab](chrome://newtab/)
+
+
+## 12/2/2019
+
+- [ ] [《量化金融R语言初级教程》一1.4　波动率建模-云栖社区-阿里云](https://yq.aliyun.com/articles/96100)
+
+- [ ] [量化投资大作业 - 金融数据分析应用与案例讨论-炼数成金-Dataguru专业数据分析社区](http://f.dataguru.cn/thread-612950-1-1.html)
+
+- [ ] [GAS.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/GAS/GAS.pdf)
+
+- [ ] [1611.06010.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1611.06010.pdf)
+
+- [ ] [RJ-2018-064.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://journal.r-project.org/archive/2018/RJ-2018-064/RJ-2018-064.pdf)
+
+- [ ] [How to Web Scrape with Python in 4 Minutes - Towards Data Science](https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460)
+
+- [ ] [Downloading files from web using Python - GeeksforGeeks](https://www.geeksforgeeks.org/downloading-files-web-using-python/)
+
+- [ ] [Introducing a simple and intuitive Python API for UCI machine learning repository](https://towardsdatascience.com/introducing-a-simple-and-intuitive-python-api-for-uci-machine-learning-repository-fd2ce8eb6cd4)
+
+- [ ] [Microsoft PowerPoint - backtestingRiskModels.pptx - backtestingriskmodelspowerpoint.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://faculty.washington.edu/ezivot/econ589/backtestingriskmodelspowerpoint.pdf)
+
+- [ ] [Econ 512 Course description](http://faculty.washington.edu/ezivot/econ582/econ582.htm)
+
+- [ ] [faculty.washington.edu/ezivot/econ424/rollingPortfolios.r](http://faculty.washington.edu/ezivot/econ424/rollingPortfolios.r)
+
+- [ ] [Econ 424 Splus Hints](http://faculty.washington.edu/ezivot/econ424/R_hints.htm)
+
+- [ ] [HW2 - correlation networks - Google Docs](https://docs.google.com/document/d/12qMKgpceLBozXoCTuf7uW_d90HiSLQXTn7laYO8VY4c/edit#)
+
+- [ ] [Network.ipynb - Colaboratory](https://colab.research.google.com/drive/1x2gG8Vr7BaWgfpbHVJOGri8LbuBvNjCc#scrollTo=r-Yth4EE-vjt)
+
+- [ ] [Network.ipynb - Colaboratory](https://colab.research.google.com/drive/1x2gG8Vr7BaWgfpbHVJOGri8LbuBvNjCc#scrollTo=r-Yth4EE-vjt)
+
+- [ ] [Exploring and Analyzing Network Data with Python | Programming Historian](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python)
+
+- [ ] [Slide 1 - SNAP-WWW15.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://snap.stanford.edu/proj/snap-www/SNAP-WWW15.pdf)
+
+- [ ] [Incorporating Contact Network Structure in Cluster Randomized Trials | Scientific Reports](https://www.nature.com/articles/srep17581)
+
+- [ ] [9.1. Social Networks — python_for_ss 0.1.1 documentation](https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/Social_Networks/Social_Networks.html)
+
+- [ ] [Catching that flight: Visualizing social network with Networkx and Basemap](https://towardsdatascience.com/catching-that-flight-visualizing-social-network-with-networkx-and-basemap-ce4a0d2eaea6)
+
+- [ ] [(17) What tools do you use to visualize and analyse very large complex networks?](https://www.researchgate.net/post/What_tools_do_you_use_to_visualize_and_analyse_very_large_complex_networks)
+
+- [ ] [NetworkX Reference - networkx.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://buildmedia.readthedocs.org/media/pdf/networkx/stable/networkx.pdf)
+
+- [ ] [Social Network Analysis in Python (article) - DataCamp](https://www.datacamp.com/community/tutorials/social-network-analysis-python)
+
+- [ ] [NetworkX — NetworkX](https://networkx.github.io/)
+
+- [ ] [Combinatorial Optimization and Applications: 8th International Conference ... - Google Books](https://books.google.com/books?id=HvdWBQAAQBAJ&pg=PA573&lpg=PA573&dq=Generate+41+correlation+networks+from+dataset&source=bl&ots=-TYNCgwjTB&sig=ACfU3U0os44C6xIvEUfmI079QeiYH_1_dg&hl=en&sa=X&ved=2ahUKEwjpgeuU0pXmAhXEBKYKHXFYA9YQ6AEwAnoECFwQAQ#v=onepage&q=Generate%2041%20correlation%20networks%20from%20dataset&f=false)
+
+- [ ] [Inferring Correlation Networks from Genomic Survey Data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687)
+
+- [ ] [#327 Network from correlation matrix – The Python Graph Gallery](https://python-graph-gallery.com/327-network-from-correlation-matrix/)
+
+- [ ] [NETWORK CHART – The Python Graph Gallery](https://python-graph-gallery.com/network-chart/)
+
+- [ ] [Calculating the assortativity coefficient of a graph - Python Data Analysis Cookbook](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785282287/8/ch08lvl1sec115/calculating-the-assortativity-coefficient-of-a-graph)
+
+- [ ] [tp_sna.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.irit.fr/~Yoann.Pitarch/Docs/M2Stats/WebMining/tp1/tp_sna.pdf)
+
+- [ ] [#327 Network from correlation matrix – The Python Graph Gallery](https://python-graph-gallery.com/327-network-from-correlation-matrix/)
+
+- [ ] [Visualising stocks correlations with Networkx - Towards Data Science](https://towardsdatascience.com/visualising-stocks-correlations-with-networkx-88f2ee25362e)
+
+- [ ] [networkx.algorithms.assortativity.correlation — NetworkX 1.9.1 documentation](https://networkx.github.io/documentation/networkx-1.9.1/_modules/networkx/algorithms/assortativity/correlation.html)
+
+- [ ] [degree_pearson_correlation_coefficient — NetworkX 1.9 documentation](https://networkx.github.io/documentation/networkx-1.9/reference/generated/networkx.algorithms.assortativity.degree_pearson_correlation_coefficient.html)
+
+- [ ] [Frontiers | Clustering Coefficients for Correlation Networks | Frontiers in Neuroinformatics](https://www.frontiersin.org/articles/10.3389/fninf.2018.00007/full)
+
+- [ ] [Copy of Network.ipynb - Colaboratory](https://colab.research.google.com/drive/1NtvZrhsxrfBELrmGsiJcxMt1h_3UE-u_?authuser=2#scrollTo=pf8uAUlg6ej6)
+
+- [ ] [scipy.stats.pearsonr — SciPy v1.3.3 Reference Guide](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html)
+
+- [ ] [np.zeros matrix python - Google Search](https://www.google.com/search?q=np.zeros+matrix+python&oq=np.zeros+matrix+py&aqs=chrome.0.0j69i57j0l4j69i64.5663j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [numpy.zeros — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.zeros.html)
+
+- [ ] [TypeError: unsupported operand type(s) for -: 'str' and 'float' - Google Search](https://www.google.com/search?q=TypeError%3A+unsupported+operand+type(s)+for+-%3A+%27str%27+and+%27float%27&oq=TypeError%3A+unsupported+operand+type(s)+for+-%3A+%27str%27+and+%27float%27&aqs=chrome..69i57j69i58.663j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Plotting and Programming in Python: Data Types and Type Conversion](https://uw-madison-aci.github.io/python-novice-gapminder/03-types-conversion/)
+
+- [ ] [TypeError: unsupported operand type(s) for -: 'int' and 'list' : learnpython](https://www.reddit.com/r/learnpython/comments/7k2bz3/typeerror_unsupported_operand_types_for_int_and/)
+
+- [ ] [TypeError: unsupported operand type(s) for +: 'Cell' and 'Cell' : learnpython](https://www.reddit.com/r/learnpython/comments/5exxtm/typeerror_unsupported_operand_types_for_cell_and/)
+
+- [ ] [[Python]TypeError: unsupported operand type(s) for -: 'str' and 'str' : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/1do20u/pythontypeerror_unsupported_operand_types_for_str/)
+
+- [ ] [python - Unsupported operand type(s) for +: 'float' and 'str' error - Stack Overflow](https://stackoverflow.com/questions/35393303/unsupported-operand-types-for-float-and-str-error?rq=1)
+
+- [ ] [TypeError: unsupported operand type(s) for -: 'str' and 'float' python pandas - Stack Overflow](https://stackoverflow.com/questions/51938781/typeerror-unsupported-operand-types-for-str-and-float-python-pandas)
+
+- [ ] [python - TypeError: unsupported operand type(s) for /: 'str' and 'float' - Stack Overflow](https://stackoverflow.com/questions/43106154/typeerror-unsupported-operand-types-for-str-and-float)
+
+- [ ] [python - Unsupported operand type(s) for +: 'float' and 'str' error - Stack Overflow](https://stackoverflow.com/questions/35393303/unsupported-operand-types-for-float-and-str-error)
+
+- [ ] [Python TypeError: unsupported operand type(s) for /: 'str' and 'float' - Stack Overflow](https://stackoverflow.com/questions/19480060/python-typeerror-unsupported-operand-types-for-str-and-float)
+
+- [ ] [Algorithms to Live By - The Computer Science of Human Decisions by Brian Christian and Tom Griffiths](http://algorithmstoliveby.com/)
+
+- [ ] [Institute of Cognitive and Brain Sciences • University of California, Berkeley](https://icbs.berkeley.edu/)
+
+- [ ] [ICSI | ICSI](http://www.icsi.berkeley.edu/icsi/)
+
+- [ ] [404 Not Found](https://www.stat.berkeley.edu/~gvrocha/statlearning/index.html)
+
+- [ ] [Weiyi Meng's Home page](http://www.cs.binghamton.edu/~meng/)
+
+- [ ] [Exploring Cognitive Questions with Big Data | Center for Data on the Mind](http://www.dataonthemind.org/)
+
+- [ ] [Computational Cognitive Science Lab - People](http://cocosci.princeton.edu/people.php)
+
+- [ ] [Computational Cognitive Science Lab - Publications](http://cocosci.princeton.edu/publications.php?topic=Nonparametric%20Bayesian%20Models)
+
+- [ ] [Computational Cognitive Science Lab - Publications](http://cocosci.princeton.edu/publications.php?topic=Cultural%20Evolution%20and%20Iterated%20Learning)
+
+- [ ] [Computational Cognitive Science Lab - Publications](http://cocosci.princeton.edu/publications.php?topic=Probabilistic%20Reasoning)
+
+- [ ] [Computational Cognitive Science Lab - Publications](http://cocosci.princeton.edu/publications.php?topic=Causal%20Induction)
+
+- [ ] [Computational Cognitive Science Lab - Publications](http://cocosci.princeton.edu/publications.php?topic=Similarity%20and%20Categorization)
+
+- [ ] [Computational Cognitive Science Lab - Publications](http://cocosci.princeton.edu/publications.php?topic=Statistical%20Models%20of%20Language)
+
+- [ ] [Computational Cognitive Science Lab - Publications](http://cocosci.princeton.edu/publications.php?topic=Similarity%20and%20Categorization)
+
+- [ ] [Computational Cognitive Science lab: Reading list on Bayesian methods](http://cocosci.princeton.edu/tom/bayes.html)
+
+- [ ] [Graduate Summer School: Probabilistic Models of Cognition: The Mathematics of Mind (Overview) - IPAM](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-probabilistic-models-of-cognition-the-mathematics-of-mind/?tab=overview)
+
+- [ ] [LUP Student Papers](https://lup.lub.lu.se/student-papers/search/publication?q=supervisor+exact+%22Tajvidi%2C+Nader%22)
+
+- [ ] [LUP Student Papers](https://lup.lub.lu.se/student-papers/search/publication?q=author+exact+%22Kjellson%2C+Benjamin%22)
+
+- [ ] [Estimating Risk of Natural Gas Portfolios by Using GARCH-EVT-Copula Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4550757/)
+
+- [ ] [(14) R code to fit Dynamic EVT model](https://www.researchgate.net/post/R_code_to_fit_Dynamic_EVT_model)
+
+- [ ] [(14) The R-code Procedure in the GARCH-EVT-Copula Model estimation?](https://www.researchgate.net/post/The_R-code_Procedure_in_the_GARCH-EVT-Copula_Model_estimation2)
+
+- [ ] [Comparing Density Forecasts Using Threshold- and Quantile-Weighted Scoring Rules: Journal of Business & Economic Statistics: Vol 29, No 3](https://www.tandfonline.com/doi/abs/10.1198/jbes.2010.08110)
+
+- [ ] [Leopoldo Catania - PhD in Economics and Finance](https://economia.uniroma2.it/phd/ef/leopoldo-catania/)
+
+- [ ] [Home | The Auton Lab](https://www.autonlab.org/)
+
+- [ ] [Page not Found | The Auton Lab](https://www.autonlab.org/autonweb/animations/index.jsp)
+
+- [ ] [Page not Found | The Auton Lab](https://www.autonlab.org/autonweb/2.html)
+
+- [ ] [Who is Emmanuel Todd? | SpringerLink](https://link.springer.com/article/10.1007/s12108-017-9349-x)
+
+- [ ] [Do Long-Distance Relationships Work? - The Atlantic](https://www.theatlantic.com/family/archive/2019/05/long-distance-relationships/589144/)
+
+- [ ] [Emmanuel Todd - The Globalist](https://www.theglobalist.com/contributors/emmanuel-todd/)
+
+- [ ] [Emmanuel Todd - The Globalist](https://www.theglobalist.com/contributors/emmanuel-todd/)
+
+- [ ] [(78) BBC Politics Live 05/04/2019 MAY SEEKS NEW BREXIT EXTENSION - YouTube](https://www.youtube.com/watch?v=k1bux-QthpI)
+
+- [ ] [(78) Emmanuel Todd interview (2003) - YouTube](https://www.youtube.com/watch?v=jr3GMNPU8ro)
+
+- [ ] [(78) Interview Emmanuel Todd - Distinguished Lectures 2015 - YouTube](https://www.youtube.com/watch?v=4nk1ox2VePk)
+
+- [ ] [(78) The Coming Crisis Between...Divergence of Advanced Nations - Emmanuel Todd - YouTube](https://www.youtube.com/watch?v=4yz4zUGlhK8)
+
+- [ ] [(78) The Government as Entrepreneur - YouTube](https://www.youtube.com/watch?v=urLFQ4Ov_7U)
+
+- [ ] [Amazon.com: Pricing and Trading Interest Rate Derivatives: A Practical Guide to Swaps (9780995455528): J Hamish M Darbyshire: Books](https://www.amazon.com/Pricing-Trading-Interest-Rate-Derivatives/dp/099545552X/ref=dp_ob_title_bk)
+
+- [ ] [News | DataCamp](https://www.datacamp.com/community)
+
+- [ ] [Filtered Historical Simulation - An Overview of the Scenario Generating technique for speculative asset prices](http://www.filteredhistoricalsimulation.com/)
+
+- [ ] [Value at Risk (VaR)](https://www.investopedia.com/terms/v/var.asp)
+
+- [ ] [Monte Carlo Simulation of Value at Risk in Python - quaintitative - Medium](https://medium.com/quaintitative/monte-carlo-simulation-of-value-at-risk-in-python-c4da3ffe0f18)
+
+- [ ] [RISK Mismanagement - What Led to the Financial Meltdown - The New York Times](https://www.nytimes.com/2009/01/04/magazine/04risk-t.html?dlbk=&pagewanted=all)
+
+- [ ] [Calculating Value At Risk In Excel & Python](https://blog.quantinsti.com/calculating-value-at-risk-in-excel-python/)
+
+- [ ] [Value at Risk | The Spaulding GroupThe Spaulding Group](https://spauldinggrp.com/value-risk/)
+
+- [ ] [Prcing and Trading Interest Rate Derivatives. A practical guide to swaps.](http://tradinginterestrates.com/)
+
+- [ ] [Supplementary Material](http://tradinginterestrates.com/revised.html)
+
+- [ ] [500 Internal Privoxy Error](http://pascal.iseg.utl.pt/~cemapre/ime2002/main_page/papers/JuliaWirch.pdf)
+
+- [ ] [Page not found - Wilmott](https://wilmott.com/blogs/satyajitdas/enclosures/perfectstorms(may2007)1.pdf)
+
+- [ ] [The Volatility Smile Problem: From Within - Wilmott](https://wilmott.com/from-within/)
+
+- [ ] [Wilmott Inner Circle - Wilmott](https://wilmott.com/wilmott-inner-circle/?redirect_to=/quant-insights-2019-discounted-priority-tickets-for-wilmott-inner-circle-members/)
+
+- [ ] [Chapter 15 Join two tables | STAT 545](https://stat545.com/join-cheatsheet.html)
+
+- [ ] [Joining data with dplyr in R - Holly Emblem - Medium](https://medium.com/@HollyEmblem/joining-data-with-dplyr-in-r-874698eb8898)
+
+- [ ] [Combine two tables or timetables by rows using key variables - MATLAB join](https://www.mathworks.com/help/matlab/ref/table.join.html)
+
+- [ ] [Two-table verbs](https://cran.r-project.org/web/packages/dplyr/vignettes/two-table.html)
+
+- [ ] [Introduction to Merging Data Tables in R](https://remiller1450.github.io/s230s19/Merging_and_Joining.html)
+
+- [ ] [How to Combine Complicated Tables in Displayr Using R | Displayr](https://www.displayr.com/how-to-combine-complicated-tables-in-displayr-using-r/)
+
+- [ ] [Combining data in R: the skill of merging, joining, and stacking | DataScience+](https://datascienceplus.com/combining-data-in-r-the-skill-of-merging-joining-and-stacking/)
+
+- [ ] [R: Merge Two Data Frames](https://www.math.ucla.edu/~anderson/rw1001/library/base/html/merge.html)
+
+- [ ] [Forecasting Value-at-Risk using GARCH and Extreme-Value-Theory Approaches for Daily Returns](http://article.sapub.org/10.5923.j.statistics.20170702.10.html)
+
+- [ ] [Extreme value theory versus traditional GARCH approaches applied to financial data: a comparative evaluation: Quantitative Finance: Vol 13, No 1](https://www.tandfonline.com/doi/abs/10.1080/14697688.2012.696679?scroll=top&needAccess=true&journalCode=rquf20)
+
+- [ ] [How to compute the VaR: Step-by-Step Excel Guide - Resources](https://blog.deriscope.com/index.php/en/excel-value-at-risk)
+
+- [ ] [Financial Econometrics Practical](file:///C:/Users/Administrator/Downloads/Financial%20Econometrics%20Practical%20-%20Univariate%20Volatility%20Modelling.pdf)
+
+- [ ] [Financial Econometrics Practical](file:///C:/Users/Administrator/Downloads/Financial%20Econometrics%20Practical%20-%20Univariate%20Volatility%20Modelling.pdf)
+
+- [ ] [Intraday volatility, MC-GARCH model, Innovation distribution, VaR forecast](file:///C:/Users/Administrator/Downloads/10.5923.j.statistics.20160601.02.pdf)
+
+- [ ] [latihan1-script.R](http://rstudio-pubs-static.s3.amazonaws.com/183929_1aa901040b3041388f2517632b9efee2.html)
+
+- [ ] [Manipulating Time Series Data in R with xts & zoo](http://rstudio-pubs-static.s3.amazonaws.com/288218_117e183e74964557a5da4fc5902fc671.html)
+
+- [ ] [VaR with GARCH(1,1)](http://rstudio-pubs-static.s3.amazonaws.com/241528_8cb5ef038484439cb106f3ef883329ac.html)
+
+- [ ] [Financial Engineering Analytics: A Practice Manual Using R](https://bookdown.org/wfoote01/faur/#chapter-outline)
+
+- [ ] [R: calculate various Value at Risk (VaR) measures](http://braverock.com/brian/R/PerformanceAnalytics/html/VaR.html)
+
+- [ ] [faculty.baruch.cuny.edu/smanzan/FINMETRICS/_book/measuring-financial-risk.html](http://faculty.baruch.cuny.edu/smanzan/FINMETRICS/_book/measuring-financial-risk.html)
+
+- [ ] [Introducing xts and zoo objects | R](https://campus.datacamp.com/courses/manipulating-time-series-data-in-r-with-xts-zoo/introduction-to-extensible-time-series-using-xts-and-zoo-for-time-series?ex=1)
+
+- [ ] [Time Series in R | DataCamp](https://www.datacamp.com/courses/manipulating-time-series-data-in-r-with-xts-zoo)
+
+- [ ] [Time Series Analysis in R Part 1: The Time Series Object | DataScience+](https://datascienceplus.com/time-series-analysis-in-r-part-1-the-time-series-object/)
+
+- [ ] [[R-SIG-Finance] Rugarch for EWMA/VaR](https://stat.ethz.ch/pipermail/r-sig-finance/2012q2/010141.html)
+
+- [ ] [[R] Backtesting VaR using rugarch package](https://stat.ethz.ch/pipermail/r-help/2016-May/438334.html)
+
+- [ ] [Exercises](https://www.financialriskforecasting.com/exercises/exercises/)
+
+- [ ] [R: Regular zoo Series](http://math.furman.edu/~dcs/courses/math47/R/library/zoo/html/zooreg.html)
+
+- [ ] [Coerce time-series objects to tibble. — tk_tbl • timetk](https://business-science.github.io/timetk/reference/tk_tbl.html)
+
+- [ ] [A guided tour of Emacs](https://www.gnu.org/software/emacs/tour/index.html)
+
+- [ ] [Exploring the Exponentially Weighted Moving Average](https://www.investopedia.com/articles/07/ewma.asp)
+
+- [ ] [Value-at-Risk Estimation and Backtesting - MATLAB & Simulink Example](https://www.mathworks.com/help/risk/value-at-risk-estimation-and-backtesting-1.html)
+
+- [ ] [Rmetrics - Rugarch for EWMA/VaR](https://r.789695.n4.nabble.com/Rugarch-for-EWMA-VaR-td4607011.html)
+
+- [ ] [Calculating VaR with R | R-bloggers](https://www.r-bloggers.com/calculating-var-with-r/)
+
+- [ ] [EWMA: EWMA Model in GARPFRM: Global Association of Risk Professionals: Financial Risk Manager](https://rdrr.io/rforge/GARPFRM/man/EWMA.html)
+
+- [ ] [EWMAvol: Exponentially Weighted Moving-Average Volatility in MTS: All-Purpose Toolkit for Analyzing Multivariate Time Series (MTS) and Estimating Multivariate Volatility Models](https://rdrr.io/cran/MTS/man/EWMAvol.html)
+
+- [ ] [EWMAvol: Exponentially Weighted Moving-Average Volatility in MTS: All-Purpose Toolkit for Analyzing Multivariate Time Series (MTS) and Estimating Multivariate Volatility Models](https://rdrr.io/cran/MTS/man/EWMAvol.html)
+
+- [ ] [uGARCHroll-class: class: Univariate GARCH Rolling Forecast Class in rugarch: Univariate GARCH models](https://rdrr.io/rforge/rugarch/man/uGARCHroll-class.html)
+
+- [ ] [Introduction to tsibble](https://cran.rstudio.com/web/packages/tsibble/vignettes/intro-tsibble.html)
+
+- [ ] [Murad S. Taqqu -- Articles](http://math.bu.edu/people/murad/articles.html)
+
+- [ ] [Murad S. Taqqu -- Books](http://math.bu.edu/people/murad/books.html)
+
+- [ ] [Murad S. Taqqu -- Books](http://math.bu.edu/people/murad/preprints.html)
+
+- [ ] [No Title](http://math.bu.edu/people/murad/tails-expanded.html)
+
+- [ ] [No Title](http://math.bu.edu/people/murad/stable-expanded.html)
+
+- [ ] [No Title](http://math.bu.edu/people/murad/stable-expanded.html)
+
+- [ ] [Statistical Methods](http://math.bu.edu/people/murad/methods/index.html)
+
+- [ ] [python pearson correlation coefficient fast - Google Search](https://www.google.com/search?q=python+pearson+correlation+coefficient+fast&oq=python+pearson+correlation+coefficient+fast&aqs=chrome..69i57j33.9150j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [scipy.stats.pearsonr — SciPy v0.14.0 Reference Guide](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.pearsonr.html)
+
+- [ ] [scipy - Compute the Pearson correlation coefficient - Python code example - Kite](https://kite.com/python/examples/656/scipy-compute-the-pearson-correlation-coefficient)
+
+- [ ] [An Introduction to Value at Risk (VAR)](https://www.investopedia.com/articles/04/092904.asp)
+
+- [ ] [Best Free Online Business Courses - Business Insider](https://www.businessinsider.com/best-free-online-business-courses-2013-10?op=1#duke-how-to-reason-and-argue-6)
+
+- [ ] [IEOR E4525: Machine Learning for OR & FE - Martin Haugh](https://martin-haugh.github.io/teaching/ml-orfe/)
+
+- [ ] [IEOR E4602: Quantitative Risk Management - Martin Haugh](https://martin-haugh.github.io/teaching/qrm/)
+
+- [ ] [IEOR E4703: Monte-Carlo Simulation - Martin Haugh](https://martin-haugh.github.io/teaching/monte-carlo/)
+
+- [ ] [IEOR E4706: Foundations of Financial Engineering - Martin Haugh](https://martin-haugh.github.io/teaching/foundations-fe/)
+
+- [ ] [IEOR E4707: Financial Engineering: Continuous-Time Models - Martin Haugh](https://martin-haugh.github.io/teaching/cts-time-models/)
+
+- [ ] [Parameter and Quantile Estimation for the Generalized Pareto Distribution on JSTOR](https://www.jstor.org/stable/1269343?seq=1)
+
+- [ ] [Free Statistics and Machine Learning Toolbox Trial - MATLAB & Simulink](https://www.mathworks.com/campaigns/products/trials.html?prodcode=ST&s_iid=doc_trial_ST_tb)
+
+- [ ] [Morgan Stanley Matrix](https://www.morganstanley.com/matrixinfo/)
+
+- [ ] [Couturier , Victoria-Feser : Zero-inflated truncated generalized Pareto distribution for the analysis of radio audience data](https://projecteuclid.org/euclid.aoas/1294167800)
+
+- [ ] [QuantNet Community](https://quantnet.com/)
+
+- [ ] [On tail estimation: An improved method | SpringerLink](https://link.springer.com/article/10.1007%2FBF00894450)
+
+- [ ] [Goodness-of-Fit Tests for the Generalized Pareto Distribution: Technometrics: Vol 43, No 4](https://www.tandfonline.com/doi/abs/10.1198/00401700152672573)
+
+- [ ] [Recent blog posts - Resources](https://blog.deriscope.com/index.php/en/)
+
+- [ ] [Case Studies | Topics in Mathematics with Applications in Finance | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/case-studies/)
+
+- [ ] [https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/case-studies/fred_fxrates.txt](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/case-studies/fred_fxrates.txt)
+
+- [ ] [https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/case-studies/R_Rstudio_Instructions_CaseStudy2.txt](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/case-studies/R_Rstudio_Instructions_CaseStudy2.txt)
+
+- [ ] [Instructor Insights | Topics in Mathematics with Applications in Finance | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/instructor-insights/)
+
+- [ ] [Lecture Notes & Slides | Topics in Mathematics with Applications in Finance | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/lecture-notes/)
+
+- [ ] [Related Resources | Topics in Mathematics with Applications in Finance | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/related-resources/)
+
+- [ ] [Syllabus | Topics in Mathematics with Applications in Finance | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/syllabus/)
+
+- [ ] [Phil Spector's Home Page](https://www.stat.berkeley.edu/~spector/)
+
+- [ ] [simpleR -- Using R for Introductory Statistics](http://wiener.math.csi.cuny.edu/~verzani/Projects/Tutorials/simpleR/stat.html)
+
+- [ ] [(78) Forecasting: Moving Averages, MAD, MSE, MAPE - YouTube](https://www.youtube.com/watch?v=Wo5YWXDRXv8)
+
+- [ ] [Financial Engineering Analytics: A Practice Manual Using R](https://bookdown.org/wfoote01/faur/meauring-volatility.html)
+
+- [ ] [GAS models](http://www.gasmodel.com/)
+
+- [ ] [GAS models](http://www.gasmodel.com/code.htm)
+
+- [ ] [GAS models](http://www.gasmodel.com/gaspapers.htm)
+
+- [ ] [GAS models](http://www.gasmodel.com/background.htm)
+
+- [ ] [GAS models](http://www.gasmodel.com/background.htm)
+
+- [ ] [NBER based Recession Indicators for the United States from the Period following the Peak through the Trough (USREC) | FRED | St. Louis Fed](https://fred.stlouisfed.org/series/USREC)
+
+- [ ] [GAS package - 2016 - Google Summer of Code Archive](https://summerofcode.withgoogle.com/archive/2016/projects/4537082387103744/)
+
+- [ ] [Generalized Autoregressive Score Models in R: The GAS Package by David Ardia, Kris Boudt, Leopoldo Catania :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2825380)
+
+- [ ] [R project for statistical computing - 2016 - Google Summer of Code Archive](https://summerofcode.withgoogle.com/archive/2016/organizations/6032418200879104/)
+
+- [ ] [Problems in Estimating GARCH Parameters in R (Part 2; rugarch) | R-bloggers](https://www.r-bloggers.com/problems-in-estimating-garch-parameters-in-r-part-2-rugarch/)
+
+- [ ] [(78) bootstrap resampling for calculating value at risk - YouTube](https://www.youtube.com/watch?v=FfRvUEXCsvQ)
+
+- [ ] [(78) bootstrap resampling for calculating value at risk - YouTube](https://www.youtube.com/watch?v=FfRvUEXCsvQ)
+
+- [ ] [(78) Calculating VAR and CVAR in Excel in Under 9 Minutes - YouTube](https://www.youtube.com/watch?v=2QJykxUNb6I)
+
+- [ ] [(78) Comparison Historical data EVT and Parametric VaR in MATLAB - YouTube](https://www.youtube.com/watch?v=p1KnXPiAAjk)
+
+- [ ] [(78) Extreme value theory (QRM Chapter 5) - YouTube](https://www.youtube.com/watch?v=IiOSxaF5oxo)
+
+- [ ] [(78) FRM: Expected Shortfall (ES) - YouTube](https://www.youtube.com/watch?v=eHGJFOjyzr4)
+
+- [ ] [(78) FRM: Extreme Value Theory (EVT) - Intro - YouTube](https://www.youtube.com/watch?v=o-cpu1IH3tM)
+
+- [ ] [(78) FRM: Historical simulation value at risk (HS VaR) - YouTube](https://www.youtube.com/watch?v=_SHhSGhwdxM)
+
+- [ ] [(78) FRM: Three approaches to value at risk (VaR) - YouTube](https://www.youtube.com/watch?v=L2xzlvhkagk)
+
+- [ ] [(78) FRM: Three approaches to value at risk (VaR) - YouTube](https://www.youtube.com/watch?v=L2xzlvhkagk)
+
+- [ ] [(78) FRM: Value at Risk (VaR): Historical simulation for portfolio - YouTube](https://www.youtube.com/watch?v=yiyqIEWieEQ)
+
+- [ ] [(78) FRM: Value at Risk (VaR): Historical simulation for portfolio - YouTube](https://www.youtube.com/watch?v=yiyqIEWieEQ)
+
+- [ ] [(78) Monte Carlo Simulation of Value at Risk (VaR) in Excel - YouTube](https://www.youtube.com/watch?v=zrqI-NbZSj0)
+
+- [ ] [(78) Portfolio & Single Stock VAR and CVAR in R - YouTube](https://www.youtube.com/watch?v=0N7XBk7YA5A)
+
+- [ ] [(78) VaR thru Monte carlo simulation - YouTube](https://www.youtube.com/watch?v=KXDfv435m5w)
+
+- [ ] [(78) VaR thru Monte carlo simulation - YouTube](https://www.youtube.com/watch?v=KXDfv435m5w)
+
+- [ ] [(78) What is value at risk (VaR)? FRM T1-02 - YouTube](https://www.youtube.com/watch?v=mvl32w_y38I)
+
+- [ ] [Alberto Mingardi - Wikipedia](https://lmo.wikipedia.org/wiki/Alberto_Mingardi)
+
+- [ ] [Evidence for anisotropy of cosmic acceleration](https://phys.org/news/2019-11-evidence-anisotropy-cosmic.html)
+
+- [ ] [Andrew Moore (@awmcmu) / Twitter](https://twitter.com/awmcmu)
+
+- [ ] [AutoML.org (@AutoMLFreiburg) / Twitter](https://twitter.com/AutoMLFreiburg)
+
+- [ ] [Eliezer Yudkowsky (@ESYudkowsky) / Twitter](https://twitter.com/ESYudkowsky)
+
+- [ ] [Robin Hanson (@robinhanson) / Twitter](https://twitter.com/robinhanson)
+
+- [ ] [(1) Sundar Pichai (@sundarpichai) / Twitter](https://twitter.com/sundarpichai)
+
+- [ ] [23 Model basics | R for Data Science](https://r4ds.had.co.nz/model-basics.html)
+
+- [ ] [r - why Lapack routine dgesv doesn't solve this? - Computational Science Stack Exchange](https://scicomp.stackexchange.com/questions/10433/why-lapack-routine-dgesv-doesnt-solve-this)
+
+- [ ] [(14) (PDF) Extreme Value Theory and Value at Risk](https://www.researchgate.net/publication/5115414_Extreme_Value_Theory_and_Value_at_Risk/figures?lo=1)
+
+- [ ] [A Comparison of EVT and Standard VaR Estimations by Jaroslav Baran, Jiri Witzany :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1768011)
+
+- [ ] [The application Copula-GARCH-EVT models in analyzing financial markets tail dependence of China - IEEE Conference Publication](https://ieeexplore.ieee.org/document/5499426)
+
+- [ ] [Quantile forecasts using the Realized GARCH-EVT approach | Emerald Insight](https://www.emerald.com/insight/content/doi/10.1108/SEF-09-2016-0236/full/html#sec010)
+
+- [ ] [Estimating Risk of Natural Gas Portfolios by Using GARCH-EVT-Copula Model](https://www.hindawi.com/journals/tswj/2015/125958/)
+
+- [ ] [Estimation of extreme value-at-risk: An EVT approach for quantile GARCH model](https://dokumen.tips/documents/estimation-of-extreme-value-at-risk-an-evt-approach-for-quantile-garch-model.html)
+
+- [ ] [Estimation of Extreme Value-at-Risk: An EVT Approach for Quantile GARCH Model by Yanping Yi, Xingdong Feng, Zhuo Huang :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2423445)
+
+- [ ] [18.2 Statistics of Extreme Events](http://sfb649.wiwi.hu-berlin.de/fedc_homepage/xplore/tutorials/sfehtmlnode91.html)
+
+- [ ] [meplot: Sample Mean Excess Plot in evir: Extreme Values in R](https://rdrr.io/cran/evir/man/meplot.html)
+
+- [ ] [meplot function | R Documentation](https://www.rdocumentation.org/packages/VGAM/versions/1.1-1/topics/meplot)
+
+- [ ] [Threshold choice](http://www.bioss.ac.uk/people/adam/teaching/OR_EVT/2007/node23.html)
+
+- [ ] [Priority - Google Drive](https://drive.google.com/drive/u/2/priority)
+
+- [ ] [Course: Analysis of Financial Time Series](https://faculty.chicagobooth.edu/ruey.tsay/teaching/bs41202/sp2017/)
+
+- [ ] [readings](http://www.sfu.ca/~rjones/econ811/readings/readings.html)
+
+- [ ] [Glasserman papers](https://www0.gsb.columbia.edu/faculty/pglasserman/)
+
+- [ ] [Priority - Google Drive](https://drive.google.com/drive/u/2/priority)
+
+- [ ] [What is RiskMetrics in Value at Risk (VaR)?](https://www.investopedia.com/ask/answers/041615/what-riskmetrics-value-risk-var.asp)
+
+- [ ] [Return to RiskMetrics: the Evolution of a Standard - MSCI](https://www.msci.com/www/research-paper/return-to-riskmetrics-the/019088036)
+
+- [ ] [Peaks Over Threshold Plot](https://www.itl.nist.gov/div898/software/dataplot/refman1/auxillar/pot_plot.htm)
+
+- [ ] [Issues Related to Back Testing | FinancialTrading.com](http://www.financialtrading.com/issues-related-to-back-testing/)
+
+- [ ] [Backtesting FAQ - Backtest Broker](https://backtestbroker.com/FAQ/Backtesting)
+
+- [ ] [Dynamic discrete copula models for high‐frequency stock price changes - Koopman - 2018 - Journal of Applied Econometrics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2645)
+
+- [ ] [Dynamic discrete copula models for high‐frequency stock price changes - Koopman - 2018 - Journal of Applied Econometrics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2645)
+
+- [ ] [GENERALIZED AUTOREGRESSIVE SCORE MODELS WITH APPLICATIONS - Creal - 2013 - Journal of Applied Econometrics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.1279)
+
+- [ ] [GENERALIZED AUTOREGRESSIVE SCORE MODELS WITH APPLICATIONS - Creal - 2013 - Journal of Applied Econometrics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.1279)
+
+- [ ] [GENERALIZED AUTOREGRESSIVE SCORE MODELS WITH APPLICATIONS - Creal - 2013 - Journal of Applied Econometrics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.1279)
+
+- [ ] [Global Credit Risk: World, Country and Industry Factors - Schwaab - 2017 - Journal of Applied Econometrics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2521)
+
+- [ ] [Perceptions of married life among single never‐married, single ever‐married, and married adults - Gesselman - - Personal Relationships - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/pere.12295?campaign=wolearlyview)
+
+- [ ] [www.dr-spiess.de/scripts/bigcor.R](http://www.dr-spiess.de/scripts/bigcor.R)
+
+- [ ] [https://rmazing.wordpress.com/feed/](https://rmazing.wordpress.com/feed/)
+
+- [ ] [Monte Carlo-based prediction intervals for nonlinear regression | Rmazing](https://rmazing.wordpress.com/2018/05/11/monte-carlo-based-prediction-intervals-for-nonlinear-regression/)
+
+- [ ] [Linear regression with random error giving EXACT predefined parameter estimates | Rmazing](https://rmazing.wordpress.com/2016/01/26/linear-regression-with-random-error-giving-exact-predefined-parameter-estimates/)
+
+- [ ] [Introducing: Orthogonal Nonlinear Least-Squares Regression in R | Rmazing](https://rmazing.wordpress.com/2015/01/18/introducing-orthogonal-nonlinear-least-squares-regression-in-r/)
+
+- [ ] [Error propagation based on interval arithmetics | Rmazing](https://rmazing.wordpress.com/2014/09/27/error-propagation-based-on-interval-arithmetics/)
+
+- [ ] [I’ll take my NLS with weights, please… | Rmazing](https://rmazing.wordpress.com/2014/01/13/ill-take-my-nls-with-weights-please/)
+
+- [ ] [Rmazing | Things related to the R statistical language (by A.N. Spiess)](https://rmazing.wordpress.com/)
+
+- [ ] [R Rollapply](http://iahl.giesedruck.de/r-rollapply.html)
+
+- [ ] [Problems with rollapply in regression - General - RStudio Community](https://community.rstudio.com/t/problems-with-rollapply-in-regression/41035/2)
+
+- [ ] [Rolling regression and rolling correlation - Ramin Nakisa](http://nakisa.org/rolling-regression-and-rolling-correlation/)
+
+- [ ] [R: Apply Rolling Functions](http://lojze.lugos.si/~darja/software/r/library/zoo/html/rollapply.html)
+
+- [ ] [Tidy Time Series Analysis, Part 2: Rolling Functions](https://www.business-science.io/timeseries-analysis/2017/07/23/tidy-timeseries-analysis-pt-2.html)
+
+- [ ] [W4DqhplaT2ODmKoHZKZe (1920×1280)](https://www.filepicker.io/api/file/W4DqhplaT2ODmKoHZKZe)
+
+- [ ] [tidyquantの使い方](http://delta0726.web.fc2.com/packages/finance/tidyquant.html)
+
+- [ ] [r: R中的tq_mutate（）和音量指示符](https://xbuba.com/questions/53014807)
+
+- [ ] [Calculating Returns](http://rstudio-pubs-static.s3.amazonaws.com/471163_0974585e1bd7477182160c95c0d849b8.html)
+
+- [ ] [tidyquant package | R](https://campus.datacamp.com/courses/intermediate-r-for-finance/functions-4?ex=12)
+
+- [ ] [tidyquant: Bringing Quantitative Financial Analysis to the tidyverse](https://www.business-science.io/code-tools/2017/01/01/tidyquant-introduction.html)
+
+- [ ] [tidyquant: Bringing Quantitative Financial Analysis to the tidyverse](https://www.business-science.io/code-tools/2017/01/01/tidyquant-introduction.html)
+
+- [ ] [R Quantitative Analysis Package Integrations in tidyquant](https://cran.r-project.org/web/packages/tidyquant/vignettes/TQ02-quant-integrations-in-tidyquant.html)
+
+- [ ] [drsimonj.svbtle.com](https://drsimonj.svbtle.com/)
+
+- [ ] [Chapter 4 Data Importing & “Tidy” Data | Statistical Inference via Data Science](https://moderndive.com/4-tidy.html)
+
+- [ ] [Chapter 4 Data analysis with the tidyverse | Advanced R Course](https://privefl.github.io/advr38book/tidyverse.html)
+
+- [ ] [Tidy Tools for Forecasting • sweep](https://business-science.github.io/sweep/)
+
+- [ ] [Chapter 3 Time Series Data Pre-Processing and Visualization | Introduction to Time Series Analysis and Forecasting in R](https://bookdown.org/singh_pratap_tejendra/intro_time_series_r/time-series-data-pre-processing-and-visualization.html)
+
+- [ ] [R bloggers - 帖子](https://www.facebook.com/rbloggers/posts/tidy-time-series-analysis-part-3-the-rolling-correlation/10154996166639891/)
+
+- [ ] [Tidy time series data using tsibbles | Rob J Hyndman](https://robjhyndman.com/hyndsight/tsibbles/)
+
+- [ ] [1901.10257.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1901.10257.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://tagteam.harvard.edu/hub_feeds/1981/feed_items/2253627)
+
+- [ ] [TagTeam :: Tidy Time Series Analysis, Part 3: The Rolling Correlation - R-bloggers - Statistics and Visualization](http://tagteam.harvard.edu/hub_feeds/1981/feed_items/2253627)
+
+- [ ] [Tidy Time Series Analysis, Part 1](https://www.business-science.io/timeseries-analysis/2017/07/02/tidy-timeseries-analysis.html)
+
+- [ ] [Tidy Time Series Analysis, Part 3: The Rolling Correlation](https://www.business-science.io/timeseries-analysis/2017/07/30/tidy-timeseries-analysis-pt-3.html)
+
+- [ ] [Deep Quantile Regression - Towards Data Science](https://towardsdatascience.com/deep-quantile-regression-c85481548b5a)
+
+- [ ] [5 Regression Loss Functions All Machine Learners Should Know](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
+
+- [ ] [Holt-Winters with a Quantile Loss Function | R-bloggers](https://www.r-bloggers.com/holt-winters-with-a-quantile-loss-function/)
+
+- [ ] [Holt-Winters with a Quantile Loss Function | Freakonometrics](https://freakonometrics.hypotheses.org/51841)
+
+- [ ] [Exponential smoothing - Wikipedia](https://en.wikipedia.org/wiki/Exponential_smoothing#Triple_exponential_smoothing)
+
+- [ ] [(PDF) A Simple Traffic Light Approach to Backtesting Expected Shortfall | mike curran - Academia.edu](https://www.academia.edu/24349429/A_Simple_Traffic_Light_Approach_to_Backtesting_Expected_Shortfall)
+
+- [ ] [(16) (PDF) A Simple Traffic Light Approach to Backtesting Expected Shortfall](https://www.researchgate.net/publication/275964415_A_Simple_Traffic_Light_Approach_to_Backtesting_Expected_Shortfall)
+
+- [ ] [MAR99 - Guidance on use of the internal models approach](https://www.bis.org/basel_framework/chapter/MAR/99.htm?inforce=20220101)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#view=home&op=translate&sl=auto&tl=zh-CN&text=The%20Peak%20Over%20Threshold-method%20(POT-method)%20is%20one%20way%20to%20model%20extreme%20values.%20The%20main%20concept%20of%20the%20method%20is%20to%20use%20a%20threshold%20to%20seclude%20values%20considered%20extreme%20to%20the%20rest%20of%20the%20data%20and%20create%20a%20model%20for%20the%20extreme%20values%20by%20modeling%20the%20tail%20of%20all%20the%20values%20the%20exceeds%20this%20threshold)
+
+- [ ] [About GitHub Packages - GitHub Help](https://help.github.com/en/github/managing-packages-with-github-packages/about-github-packages#supported-clients-and-formats)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/BFACD9DBED9B91F2EC0C5D732C5B8A77)
+
+- [ ] [Backtesting](https://www.value-at-risk.net/motivation-backtesting/)
+
+- [ ] [Backtesting Value-at-Risk With Coverage Tests](https://www.value-at-risk.net/backtesting-coverage-tests/)
+
+- [ ] [Backtesting Value-at-Risk With Coverage Tests](https://www.value-at-risk.net/backtesting-coverage-tests/)
+
+- [ ] [Monte Carlo VaR | Value-at-Risk: Theory and Practice](https://www.value-at-risk.net/monte-carlo-value-at-risk/)
+
+- [ ] [References - Value-at-Risk](https://www.value-at-risk.net/references/#Campbell_2005)
+
+- [ ] [References - Value-at-Risk](https://www.value-at-risk.net/references/#Haas_2001)
+
+- [ ] [References - Value-at-Risk](https://www.value-at-risk.net/references/#Christoffersen_Pelletier_2004)
+
+- [ ] [1611.04851.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1611.04851.pdf)
+
+- [ ] [1707.05108.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://arxiv.org/pdf/1707.05108.pdf)
+
+- [ ] [26 - Supervisory framework for the use of "backtesting" in conjunction with the internal models approach to market risk capital requirements - Jan 1996 - bcbs22.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.bis.org/publ/bcbs22.pdf)
+
+- [ ] [Different Methods of Backtesting VaR and ES - HY Lok PARTY Jan 2015.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.actuaries.org.uk/system/files/field/document/HY%20Lok%20PARTY%20Jan%202015.pdf)
+
+- [ ] [EVT_POT.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.impan.pl/BC/Arch/2008/EMSsummerSchool/pdf/EVT_POT.pdf)
+
+- [ ] [Forecasting Expected Shortfall: An Extreme Value Approach - download](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=3735573&fileOId=3735814)
+
+- [ ] [Introduction to Extreme Value Theory - Applications to Risk Analysis - Week_1_Kratz.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.matrix-inst.org.au/wp_Matrix2016/wp-content/uploads/2016/04/Week_1_Kratz.pdf)
+
+- [ ] [lec9-15.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://faculty.chicagobooth.edu/ruey.tsay/teaching/bs41202/sp2015/lec9-15.pdf)
+
+- [ ] [Allan Malz](http://www.columbia.edu/~amm26/)
+
+- [ ] [www.omfif.org](https://www.omfif.org/podcast/fed-talk-can-structural-problems-in-money-markets-be-resolved/)
+
+- [ ] [Financial Risk Management: Models, History, and Institutions | Wiley](https://www.wiley.com/en-us/Financial+Risk+Management%3A+Models%2C+History%2C+and+Institutions-p-9780470481806)
+
+- [ ] [Financial Risk Management: Models, History, and Institutions: Allan M. Malz: 9780470481806: Amazon.com: Books](https://www.amazon.com/Financial-Risk-Management-History-Institutions/dp/0470481803/ref=dp_return_2?ie=UTF8&n=283155&s=books)
+
+- [ ] [HW2 - correlation networks - Google Docs](https://docs.google.com/document/d/12qMKgpceLBozXoCTuf7uW_d90HiSLQXTn7laYO8VY4c/edit)
+
+- [ ] [Federal Reserve Bank of San Francisco | Implied Rate Correlations and Policy Expectations](https://www.frbsf.org/economic-research/publications/economic-letter/2013/november/implied-rate-correlations-interest-rate-movements-yield-curve-options/)
+
+- [ ] [sr607.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr607.pdf)
+
+- [ ] [Mean absolute error - Wikipedia](https://en.wikipedia.org/wiki/Mean_absolute_error)
+
+- [ ] [Bing](https://www.bing.com/?toWww=1&redig=32A419EBAC114224B0912465DF55BECC)
+
+- [ ] [Multivariate EWMA Control Chart and Application to a Semiconductor Manufacturing Process - 5600ee1fa124f70987cb3f37fed762e899ca.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://pdfs.semanticscholar.org/a18e/5600ee1fa124f70987cb3f37fed762e899ca.pdf)
+
+- [ ] [GAS.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/GAS/GAS.pdf)
+
+- [ ] [GAS.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://cran.r-project.org/web/packages/GAS/GAS.pdf)
+
+- [ ] [Project11.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cse.msu.edu/~cse231/Online/Projects/Project11/Project11.pdf)
+
+- [ ] [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
+
+- [ ] [CSE 231](https://www.cse.msu.edu/~cse231/#)
+
+- [ ] [Success code=4/twElNhOfno8z063nnO1cMHJNzbp5RqTh2micUFJ_Fee5ERnv3AXi4RY&scope=email%20https://www.googleapis.com/auth/userinfo.email%20https://www.googleapis.com/auth/cloud-platform%20https://www.googleapis.com/auth/appengine.admin%20https://www.googleapis.com/auth/compute%20https://www.googleapis.com/auth/accounts.reauth%20https://www.googleapis.com/auth/drive%20openid&authuser=1&session_state=6b528078e630cd3efd02f07c7eb1e77477e710d5..a68a&prompt=consent](https://accounts.google.com/o/oauth2/approval/v2/approvalnativeapp?auto=false&response=code%3D4%2FtwElNhOfno8z063nnO1cMHJNzbp5RqTh2micUFJ_Fee5ERnv3AXi4RY%26scope%3Demail%2520https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%2520https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform%2520https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fappengine.admin%2520https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute%2520https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccounts.reauth%2520https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive%2520openid%26authuser%3D1%26session_state%3D6b528078e630cd3efd02f07c7eb1e77477e710d5..a68a%26prompt%3Dconsent&hl=en&approvalCode=4%2FtwElNhOfno8z063nnO1cMHJNzbp5RqTh2micUFJ_Fee5ERnv3AXi4RY)
+
+- [ ] [Index of /ml/machine-learning-databases/dexter](https://archive.ics.uci.edu/ml/machine-learning-databases/dexter/)
+
+- [ ] [Dataset.PDF](file:///C:/Users/Administrator/Downloads/Dataset%20(1).pdf)
+
+- [ ] [Working with Google Colaboratory Notebooks - dummies](https://www.dummies.com/programming/python/working-with-google-colaboratory-notebooks/)
+
+- [ ] [Importing data to Google Colaboratory — Steemit](https://steemit.com/google-colab/@ankurankan/importing-data-to-google-colaboratory)
+
+- [ ] [machine learning - How to download dynamic files created during work on Google Colab? - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/27964/how-to-download-dynamic-files-created-during-work-on-google-colab)
+
+- [ ] [Download Anything to Google Drive using Google colab - GeeksforGeeks](https://www.geeksforgeeks.org/download-anything-to-google-drive-using-google-colab/)
+
+- [ ] [Import Data into Google Colaboratory - Snehal Gharat - Medium](https://medium.com/@snaily16/import-data-into-google-colaboratory-fe80b82e9306)
+
+- [ ] [Hidden features of Google Colaboratory - Keshav Aggarwal - Medium](https://medium.com/@Keshav31/colab-features-download-and-upload-e1ec537a83df)
+
+- [ ] [file transferring between Google Colab VM and Google Drive](https://gist.github.com/Joshua1989/dc7e60aa487430ea704a8cb3f2c5d6a6)
+
+- [ ] [Get Started: 3 Ways to Load CSV files into Colab - Towards Data Science](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92)
+
+- [ ] [How to unpack (ungzip, unarchive) a tar.gz file](http://www.rebol.com/docs/unpack-tar-gz.html)
+
+- [ ] [command line - How to unzip .tgz file using the terminal? - Ask Ubuntu](https://askubuntu.com/questions/499807/how-to-unzip-tgz-file-using-the-terminal)
+
+- [ ] [I need help extracting a tar.gz file - Ask Ubuntu](https://askubuntu.com/questions/934441/i-need-help-extracting-a-tar-gz-file)
+
+- [ ] [compression - What command do I need to unzip/extract a .tar.gz file? - Ask Ubuntu](https://askubuntu.com/questions/25347/what-command-do-i-need-to-unzip-extract-a-tar-gz-file)
+
+- [ ] [How to Extract (Unzip) Tar Gz File | Linuxize](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/)
+
+- [ ] [How To Extract .tar.gz Files using Linux Command Line - Interserver Tips](https://www.interserver.net/tips/kb/extract-tar-gz-files-using-linux-command-line/)
+
+- [ ] [FYP(2) - Google Docs](https://docs.google.com/document/d/1Uch8akifvySjZn5gneZs6A3JqghsR2VKivz5UcvSWLE/edit)
+
+- [ ] [See and use suggested content in a document - Computer - Docs Editors Help](https://support.google.com/docs/answer/2481802?visit_id=637107822846520292-1312963646&p=docs_explore&hl=en&rd=1)
+
+- [ ] [extreme value - How to interpret this mean excess plot? - Cross Validated](https://stats.stackexchange.com/questions/384138/how-to-interpret-this-mean-excess-plot)
+
+- [ ] [Extreme value simulation with Monte Carlo - Cross Validated](https://stats.stackexchange.com/questions/93971/extreme-value-simulation-with-monte-carlo#)
+
+- [ ] [forecasting - I am getting error in arima function of R forecast package for both methods, CSS and ML - Cross Validated](https://stats.stackexchange.com/questions/362569/i-am-getting-error-in-arima-function-of-r-forecast-package-for-both-methods-css)
+
+- [ ] [generalized linear model - GLM - Zero-Inflated distribution - Cross Validated](https://stats.stackexchange.com/questions/198090/glm-zero-inflated-distribution)
+
+- [ ] [least squares - Quantile regression - "check function" - Cross Validated](https://stats.stackexchange.com/questions/321857/quantile-regression-check-function)
+
+- [ ] [logistic - How do I avoid computationally singular matrices in R? - Cross Validated](https://stats.stackexchange.com/questions/250350/how-do-i-avoid-computationally-singular-matrices-in-r)
+
+- [ ] [machine learning - Confidence Versus Prediction Intervals using Quantile Regression / Quantile Loss Function - Cross Validated](https://stats.stackexchange.com/questions/154677/confidence-versus-prediction-intervals-using-quantile-regression-quantile-loss)
+
+- [ ] [Mean of a sliding window in R - Cross Validated](https://stats.stackexchange.com/questions/3051/mean-of-a-sliding-window-in-r)
+
+- [ ] [Quantile regression: Loss function - Cross Validated](https://stats.stackexchange.com/questions/251600/quantile-regression-loss-function)
+
+- [ ] [r - How are residuals calculated in rugarch package - Cross Validated](https://stats.stackexchange.com/questions/148800/how-are-residuals-calculated-in-rugarch-package?rq=1)
+
+- [ ] [r squared - Nonlinear quantile regression SSReg analogue - Cross Validated](https://stats.stackexchange.com/questions/414723/nonlinear-quantile-regression-ssreg-analogue)
+
+- [ ] [r squared - Nonlinear quantile regression SSReg analogue - Cross Validated](https://stats.stackexchange.com/questions/414723/nonlinear-quantile-regression-ssreg-analogue)
+
+- [ ] [Singularity issues in multinomial model using R - Cross Validated](https://stats.stackexchange.com/questions/32585/singularity-issues-in-multinomial-model-using-r)
+
+- [ ] [Zero-inflated model with no variation in the outcome - Cross Validated](https://stats.stackexchange.com/questions/408641/zero-inflated-model-with-no-variation-in-the-outcome)
+
+- [ ] [4-Course Bundle - Machine Learning and Web Applications (R-Track) | Bu](https://university.business-science.io/p/4-course-bundle-machine-learning-and-web-applications-r-track-101-102-201-202a/)
+
+- [ ] [DS4B 101-R: Business Analysis With R | Business Science University](https://university.business-science.io/p/ds4b-101-r-business-analysis-r)
+
+- [ ] [DS4B 102-R: Shiny Web Applications (Intermediate) | Business Science](https://university.business-science.io/p/ds4b-102-r-shiny-web-application-business-level-1/)
+
+- [ ] [DS4B 201-R: Data Science For Business With R | Business Science](https://university.business-science.io/p/hr201-using-machine-learning-h2o-lime-to-predict-employee-turnover)
+
+- [ ] [DS4B 202A-R: Expert Shiny Developer with AWS | Business Science](https://university.business-science.io/p/expert-shiny-developer-with-aws-course-ds4b-202a-r/)
+
+- [ ] [Learning Labs Pro | Business Science University](https://university.business-science.io/p/learning-labs-pro)
+
+- [ ] [RiskMetrics - Wikipedia](https://en.wikipedia.org/wiki/RiskMetrics#Portfolio_risk_measures)
+
+- [ ] [Backtesting - Wikipedia](https://en.wikipedia.org/wiki/Backtesting)
+
+- [ ] [Retrodiction - Wikipedia](https://en.wikipedia.org/wiki/Retrodiction)
+
+- [ ] [Cross-validation (statistics) - Wikipedia](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
+
+- [ ] [Predictive modelling - Wikipedia](https://en.wikipedia.org/wiki/Predictive_modelling)
+
+- [ ] [Download as PDF - Wikipedia](https://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Backtesting&action=show-download-screen)
+
+- [ ] [Cholesky decomposition - Wikipedia](https://en.wikipedia.org/wiki/Cholesky_decomposition)
+
+- [ ] [Digital object identifier - Wikipedia](https://en.wikipedia.org/wiki/Digital_object_identifier)
+
+- [ ] [Generalized Pareto distribution - Wikipedia](https://en.wikipedia.org/wiki/Generalized_Pareto_distribution)
+
+- [ ] [Historical simulation (finance) - Wikipedia](https://en.wikipedia.org/wiki/Historical_simulation_(finance))
+
+- [ ] [Joe Nocera - Wikipedia](https://en.wikipedia.org/wiki/Joe_Nocera)
+
+- [ ] [Log–log plot - Wikipedia](https://en.wikipedia.org/wiki/Log%E2%80%93log_plot)
+
+- [ ] [RiskMetrics - Wikipedia](https://en.wikipedia.org/wiki/RiskMetrics#Market_models)
+
+- [ ] [RiskMetrics - Wikipedia](https://en.wikipedia.org/wiki/RiskMetrics#Risk_factors)
+
+- [ ] [RiskMetrics - Wikipedia](https://en.wikipedia.org/wiki/RiskMetrics)
+
+- [ ] [The New York Times - Wikipedia](https://en.wikipedia.org/wiki/The_New_York_Times)
+
+- [ ] [Value at risk - Wikipedia](https://en.wikipedia.org/wiki/Value_at_risk)
+
+- [ ] [time series - "system is exactly singular" in R function BoxCox.ar - Cross Validated](https://stats.stackexchange.com/questions/56794/system-is-exactly-singular-in-r-function-boxcox-ar)
+
+- [ ] [Site stopped](http://arbuzios-com-br.umbler.net/qoaij52hfs1d/awjfkuxj54aw.php?ltzwj32efy=fama-french-5-factor-model-excel)
+
+- [ ] [Fama-MacBeth and Cluster-Robust (by Firm and Time) Standard Errors in R | R-bloggers](https://www.r-bloggers.com/fama-macbeth-and-cluster-robust-by-firm-and-time-standard-errors-in-r/)
+
+- [ ] [Fama-MacBeth Entire Procedure](https://gist.github.com/rshowcase/cc30fac759195e0d014c)
+
+- [ ] [Fama-MacBeth and Cluster-Robust (by Firm and Time) Standard Errors in R | R-bloggers](https://www.r-bloggers.com/fama-macbeth-and-cluster-robust-by-firm-and-time-standard-errors-in-r/)
+
+- [ ] [www.princeton.edu](https://www.princeton.edu/~markus/teaching/Eco525/06%20Factor%20Pricing_a.pdf)
+
+- [ ] [Fama Macbeth回归Python(熊猫或Statsmodels) | 经验摘录](https://qa.1r1g.com/sf/ask/1685213701/)
+
+- [ ] [chapter3.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://s3.amazonaws.com/assets.datacamp.com/production/course_5612/slides/chapter3.pdf)
+
+- [ ] [Fama-MacBeth regression - Python for Finance - Second Edition](https://learning.oreilly.com/library/view/python-for-finance/9781787125698/ch08s09.html)
+
+- [ ] [subscription.packtpub.com](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787125698/8/ch21lvl1sec77/fama-macbeth-regression)
+
+- [ ] [Fama french regression](http://pal-arts.com/pnawiqj1kds/cubyaw14ka.php?zswg5w2d=fama-french-regression)
+
+- [ ] [en.programqa.com](https://en.programqa.com/question/45766904/)
+
+- [ ] [Tidy Portfoliomanagement in R](https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/s-2Data.html)
+
+- [ ] [Fama–MacBeth regression - Wikipedia](https://en.wikipedia.org/wiki/Fama%E2%80%93MacBeth_regression)
+
+- [ ] [Sign in - Google Accounts](https://accounts.google.com/signin/oauth/oauthchooseaccount?client_id=717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com&as=Tn1tX5pXEO-Kwy0YNLycuw&destination=https%3A%2F%2Fstackauth.com&approval_state=!ChRTd1JPaTVyZ0NYRkJnRHQxLTJfNhIfWXl2eGMxUExWVklSNEJxcmlYbTVkb21pZ3l2UTZ4WQ%E2%88%99AJDr988AAAAAXePhjoFtPs7uf6mK_SIJdThKHyj3n-xb&oauthgdpr=1&xsrfsig=ChkAeAh8T2CsO1cvrNpuCQCKX_x_4OTeZph2Eg5hcHByb3ZhbF9zdGF0ZRILZGVzdGluYXRpb24SBXNvYWN1Eg9vYXV0aHJpc2t5c2NvcGU&flowName=GeneralOAuthFlow)
+
+- [ ] [21 Iteration | R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/iteration.html)
+
+- [ ] [tq_mutate() in r - Bing](https://www.bing.com/search?q=tq_mutate%28%29+in+r&go=Search&qs=ds&form=QBRE)
+
+- [ ] [tidyquantUsing](http://rstudio-pubs-static.s3.amazonaws.com/372486_cc7731de85484454bf46ed36e65da166.html)
+
+- [ ] [Tidy Time Series Analysis, Part 3: The Rolling Correlation | R-bloggers](https://www.r-bloggers.com/tidy-time-series-analysis-part-3-the-rolling-correlation/)
+
+- [ ] [RPubs - Bollinger Bands](http://rpubs.com/bmr1028/finModelingQuiz3_b)
+
+- [ ] [RPubs - Manipulating Time Series Data in R with xts &amp; zoo](https://rpubs.com/mpfoley73/504487)
+
+- [ ] [RPubs - tidyquant representation](https://rpubs.com/phamdinhkhanh/372486)
+
+- [ ] [RPubs - Tips: rollapply](https://rpubs.com/simaan84/rollapply)
+
+- [ ] [RPubs - VaR-GARCH](http://rpubs.com/DejanPrv/VarGarch)
+
+- [ ] [Index of /ml/machine-learning-databases/00401](https://archive.ics.uci.edu/ml/machine-learning-databases/00401/)
+
+- [ ] [tirthajyoti (Tirthajyoti Sarkar) / Repositories](https://github.com/tirthajyoti?tab=repositories)
+
+- [ ] [tirthajyoti sarkar (@tirthajyotiS) / Twitter](https://twitter.com/tirthajyotiS)
+
+- [ ] [equities - Testing Valuation, Size and Momentum (proprietary factors) from 1988-2013: No evidence of driving cross-sectional returns - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/8757/testing-valuation-size-and-momentum-proprietary-factors-from-1988-2013-no-ev)
+
+- [ ] [factor models - Interpreting the coefficients of Fama-MacBeth regression - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/37987/interpreting-the-coefficients-of-fama-macbeth-regression)
+
+- [ ] [finance - Fama MacBeth cross-sectional Regression - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/42610/fama-macbeth-cross-sectional-regression)
+
+- [ ] [finance - Step By Step method to calculating VaR using MonteCarlo Simulations - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/22955/step-by-step-method-to-calculating-var-using-montecarlo-simulations)
+
+- [ ] [Historical VaR vs. EVT VaR - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/30026/historical-var-vs-evt-var)
+
+- [ ] [Historical VaR vs. EVT VaR - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/30026/historical-var-vs-evt-var)
+
+- [ ] [Is there a step-by-step guide for calculating portfolio VaR using monte carlo simulations - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/12592/is-there-a-step-by-step-guide-for-calculating-portfolio-var-using-monte-carlo-si)
+
+- [ ] [Is there a step-by-step guide for calculating portfolio VaR using monte carlo simulations - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/12592/is-there-a-step-by-step-guide-for-calculating-portfolio-var-using-monte-carlo-si)
+
+- [ ] [monte carlo - Does one use the covariance or correlation matrix in cholesky decomposition to generate correlated samples - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/10672/does-one-use-the-covariance-or-correlation-matrix-in-cholesky-decomposition-to-g)
+
+- [ ] [Monte Carlo - Multivariate Simulation of Returns - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/40156/monte-carlo-multivariate-simulation-of-returns)
+
+- [ ] [portfolio - Are these steps correct to calculate Value-at-Risk with a Monte Carlo simulation? - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/17910/are-these-steps-correct-to-calculate-value-at-risk-with-a-monte-carlo-simulation)
+
+- [ ] [regression - Fama-Macbeth second step confusion - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/24343/fama-macbeth-second-step-confusion)
+
+- [ ] [volatility - How can i fit the following regression in R? Why is the coefficient [second Columns] for R so low? - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/46268/how-can-i-fit-the-following-regression-in-r-why-is-the-coefficient-second-colu)
+
+- [ ] [networkx.readwrite.edgelist.write_edgelist — NetworkX 2.4 documentation](https://networkx.github.io/documentation/stable/reference/readwrite/generated/networkx.readwrite.edgelist.write_edgelist.html)
+
+- [ ] [UCI Machine Learning Repository: Low Resolution Spectrometer Data Set](https://archive.ics.uci.edu/ml/datasets/Low+Resolution+Spectrometer)
+
+- [ ] [UCI Machine Learning Repository: Dexter Data Set](https://archive.ics.uci.edu/ml/datasets/Dexter)
+
+- [ ] [UCI Machine Learning Repository: gene expression cancer RNA-Seq Data Set](https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq)
+
+- [ ] [UCI Machine Learning Repository: gene expression cancer RNA-Seq Data Set](https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq#)
+
+- [ ] [Practice Machine Learning with Datasets from the UCI Machine Learning Repository](https://machinelearningmastery.com/practice-machine-learning-with-small-in-memory-datasets-from-the-uci-machine-learning-repository/)
+
+- [ ] [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
+
+- [ ] [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+
+- [ ] [How to scrape data from web using python](https://bigdata-madesimple.com/scrape-data-web-using-python/)
+
+- [ ] [programming - Backtest with rolling volatility in R - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/39759/backtest-with-rolling-volatility-in-r)
+
+- [ ] [Account Suspended](https://vidroslima.com.br/cgi-sys/suspendedpage.cgi?owe=r-rollapply)
+
+- [ ] [Pair Trading Strategy And Backtesting Using Quantstrat [EPAT PROJECT]](https://blog.quantinsti.com/pair-trading-strategy-backtesting-using-quantstrat/)
+
+- [ ] [Financial Risk Modelling and Portfolio Optimization with R - Bernhard Pfaff - Google Books](https://books.google.com/books?id=8qPkDAAAQBAJ&pg=PA188&lpg=PA188&dq=rollapply+backtest&source=bl&ots=qK3D-mTD4G&sig=ACfU3U0TX79zy2nR6eTL-slVTCRRpOKTdQ&hl=en&sa=X&ved=2ahUKEwjw_ufqpJTmAhWlBKYKHWjtDpMQ6AEwA3oECGQQAQ#v=onepage&q=rollapply%20backtest&f=false)
+
+- [ ] [roll_apply: Apply an aggregation function over a rolling look-back... in algoquant/HighFreq: High Frequency Time Series Management](https://rdrr.io/github/algoquant/HighFreq/man/roll_apply.html)
+
+- [ ] [BenjaK (Benjamin Allévius) / Following](https://github.com/BenjaK?tab=following)
+
+- [ ] [BenjaK (Benjamin Allévius) / Starred](https://github.com/BenjaK?tab=stars)
+
+- [ ] [BenjaK/pairing: Provides the Cantor and Hopcroft-Ullman pairing functions.](https://github.com/BenjaK/pairing)
+
+- [ ] [BenjaK/ProspectiveDetectionChapter](https://github.com/BenjaK/ProspectiveDetectionChapter)
+
+- [ ] [BenjaK/Thesis2013](https://github.com/BenjaK/Thesis2013)
+
+- [ ] [BenjaK/Thesis2013](https://github.com/BenjaK/Thesis2013)
+
+- [ ] [bionicturtle/books: book notes](https://github.com/bionicturtle/books)
+
+- [ ] [bionicturtle/youtube-arch: files associated with my youtube videos](https://github.com/bionicturtle/youtube-arch)
+
+- [ ] [cran/rugarch:  This is a read-only mirror of the CRAN R package repository. rugarch — Univariate GARCH Models. Homepage: http://www.unstarched.net, https://bitbucket.org/alexiosg](https://github.com/cran/rugarch)
+
+- [ ] [GAS package · rstats-gsoc/gsoc2016 Wiki](https://github.com/rstats-gsoc/gsoc2016/wiki/GAS-package)
+
+- [ ] [GAS/ClassMethods.R at master · LeopoldoCatania/GAS](https://github.com/LeopoldoCatania/GAS/blob/master/R/ClassMethods.R)
+
+- [ ] [GAS/ConfidenceBands.R at master · LeopoldoCatania/GAS](https://github.com/LeopoldoCatania/GAS/blob/master/R/ConfidenceBands.R)
+
+- [ ] [GAS/GASspec.R at master · LeopoldoCatania/GAS](https://github.com/LeopoldoCatania/GAS/blob/master/R/GASspec.R)
+
+- [ ] [GAS/Likelihood.R at master · LeopoldoCatania/GAS](https://github.com/LeopoldoCatania/GAS/blob/master/R/Likelihood.R)
+
+- [ ] [GAS/OptimiserWrapper.R at master · LeopoldoCatania/GAS](https://github.com/LeopoldoCatania/GAS/blob/master/R/OptimiserWrapper.R)
+
+- [ ] [GAS/ParNames.R at master · LeopoldoCatania/GAS](https://github.com/LeopoldoCatania/GAS/blob/master/R/ParNames.R)
+
+- [ ] [GAS/R at master · LeopoldoCatania/GAS](https://github.com/LeopoldoCatania/GAS/tree/master/R)
+
+- [ ] [GAS/R at master · LeopoldoCatania/GAS](https://github.com/LeopoldoCatania/GAS/tree/master/R)
+
+- [ ] [github.com](https://github.com/tidyverts/tsibble)
+
+- [ ] [Issues · bnaras/cubature](https://github.com/bnaras/cubature/issues)
+
+- [ ] [Issues · LeopoldoCatania/GAS](https://github.com/LeopoldoCatania/GAS/issues)
+
+- [ ] [JuliaGraphs/MetaGraphs.jl: I never metagraph I didn't like.](https://github.com/JuliaGraphs/MetaGraphs.jl)
+
+- [ ] [LeopoldoCatania (Leopoldo Catania) / Repositories](https://github.com/LeopoldoCatania?tab=repositories)
+
+- [ ] [LeopoldoCatania/GAS: GAS models](https://github.com/LeopoldoCatania/GAS)
+
+- [ ] [LeopoldoCatania/GAS: GAS models](https://github.com/LeopoldoCatania/GAS)
+
+- [ ] [measure_marketrisk_VAR/Introduction - Measuring Market Risk in Python.ipynb at master · playgrdstar/measure_marketrisk_VAR](https://github.com/playgrdstar/measure_marketrisk_VAR/blob/master/Introduction%20-%20Measuring%20Market%20Risk%20in%20Python.ipynb)
+
+- [ ] [Remove fixed effects from summary_col · Issue #1637 · statsmodels/statsmodels](https://github.com/statsmodels/statsmodels/issues/1637)
+
+- [ ] [Thesis2013/make_estimates.R at master · BenjaK/Thesis2013](https://github.com/BenjaK/Thesis2013/blob/master/make_estimates.R)
+
+- [ ] [Thesis2013/v_tests.R at master · BenjaK/Thesis2013](https://github.com/BenjaK/Thesis2013/blob/master/v_tests.R)
+
+- [ ] [youtube/r-intro at master · bionicturtle/youtube](https://github.com/bionicturtle/youtube/tree/master/r-intro)
+
+- [ ] [一文详尽系列之CatBoost](https://mp.weixin.qq.com/s/XmpvNH97k1z6P9kYA36X_Q)
+
+- [ ] [仅售9.9元|一周带你学完一篇经典Paper，教你正确打开学Paper的新姿势！](https://mp.weixin.qq.com/s/70LGhowP1Unj8A9pPAy4Gw)
+
+- [ ] [出神入化：李飞飞高徒、特斯拉AI主管Karpathy的33个神经网络「炼丹」技巧！](https://mp.weixin.qq.com/s/RZKbiI_ZKNUI04hMwdHfew)
+
+- [ ] [模型秒变API只需一行代码，支持TensorFlow等框架](https://mp.weixin.qq.com/s?__biz=MzU1ODY4MDkzMQ==&mid=2247484539&idx=1&sn=5900bebdb5fb1cc979aac5f37d203fc3&chksm=fc239a77cb541361396a4e5d9da03912abc1de2a3fa56b5121d7cb49e7d4df085fdd1185139e&mpshare=1&scene=1&srcid=&sharer_sharetime=1574862813126&sharer_shareid=3c2300b5f366415914c8c7c9fb528a8b&key=191f77b44a93cb8f13e60412d83dd30a41d5676d52ad10cbb0f4e95e04c19ee8a2693c9558f79462cd46481303e449d5a06fc0d7b36a81feccd42e7777c7f4a960bad83e6c6db845c0b668256a4711f4&ascene=1&uin=NjkwNDI0MjM%3D&devicetype=Windows+10&version=62070158&lang=en&pass_ticket=HwDCs%2BqCIp%2BzJLaPX8uW%2FWVj94BUJmQ6UQHR8dVVSC0%3D)
+
+- [ ] [网易裁员血的教训，把副业干成主业，跟着公众号大佬向上生长!](https://mp.weixin.qq.com/s/m6hDjiiPdsSKWkvZScw5cg)
+
+- [ ] [(crawl OR scrape) the data from uci machine learning repository with given name - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQPmh1SGoCqGmFkaGyj58MQGt8cDA%3A1575181305701&ei=-VvjXa61KrSTr7wPzayiGA&q=%28crawl+OR+scrape%29+the+data+from+uci+machine+learning+repository+with+given+name)
+
+- [ ] [Anigrafs - Google Search](https://www.google.com/search?q=Anigrafs&oq=Anigrafs&aqs=chrome..69i57j69i61l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [autocorrelation lag - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=autocorrelation%20lag&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAV6BAgAEAY)
+
+- [ ] [basel backtesting framework - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvHAeVMqVn3FCMwoLB7ouo288vKw:1575118854424&q=basel+backtesting+framework&sa=X&ved=2ahUKEwiq1a_-_pHmAhUtCqYKHaQaAt0Q1QIoAHoECGYQAQ)
+
+- [ ] [basel traffic light test var - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvHAeVMqVn3FCMwoLB7ouo288vKw:1575118854424&q=basel+traffic+light+test+var&sa=X&ved=2ahUKEwiq1a_-_pHmAhUtCqYKHaQaAt0Q1QIoAXoECGYQAg)
+
+- [ ] [bayesian OR bayes - Google Search](https://www.google.com/search?q=bayesian+OR+bayes&oq=bayesian+OR+bayes&aqs=chrome..69i57j69i65j69i64l2j69i60j69i64j69i60l2.7821j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [correlation network graph r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA%3A1575244644468&lei=ZFPkXc6fHPOSr7wPwuuFiA4&q=correlation%20network%20graph%20r&ved=2ahUKEwjloNHM05XmAhVHE6YKHc2EAtIQsKwBKAF6BAgBEAI)
+
+- [ ] [correlation network r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA%3A1575244644468&lei=ZFPkXc6fHPOSr7wPwuuFiA4&q=correlation%20network%20r&ved=2ahUKEwjloNHM05XmAhVHE6YKHc2EAtIQsKwBKAV6BAgCEAY)
+
+- [ ] [cross correlation pandas - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=cross%20correlation%20pandas&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAR6BAgAEAU)
+
+- [ ] [datasets for machine learning projects - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQet09goQCUuMQYEg_PrH4chsVN4w%3A1575181042159&lei=8lrjXdm3CaGQr7wPqrioiAE&q=datasets%20for%20machine%20learning%20projects&ved=2ahUKEwiP1qHV5pPmAhUVK6YKHdueDosQsKwBKAB6BAgAEAE)
+
+- [ ] [downlaod by python - Google Search](https://www.google.com/search?q=downlaod+by+python&oq=downlaod+by+python&aqs=chrome..69i57j0l7.5856j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [download data from python google colab - Google Search](https://www.google.com/search?q=download+data+from+python+google+colab&oq=download+data+from+python+google+colab&aqs=chrome..69i57j0l3.15463j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Download the following datasets from UCI Machine Learning Repository networkx python - Google Search](https://www.google.com/search?q=Download+the+following+datasets+from+UCI+Machine+Learning+Repository+networkx+python&oq=Download+the+following+datasets+from+UCI+Machine+Learning+Repository+networkx+python&aqs=chrome..69i57.6156j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [fama macbeth example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSgqguv7ZZZFL9dTiYIeuxOMnEcrw%3A1575128866027&lei=Io_iXfyqAeWHr7wPz_ayuAU&q=fama%20macbeth%20example&ved=2ahUKEwjVx-rPpJLmAhVzy4sBHZfGD4IQsKwBKAB6BAgAEAE)
+
+- [ ] [fama macbeth regression python code - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSgqguv7ZZZFL9dTiYIeuxOMnEcrw:1575128866027&q=fama+macbeth+regression+python+code&sa=X&ved=2ahUKEwj8w6OkpJLmAhXlw4sBHU-7DFcQ1QIoAHoECD8QAQ)
+
+- [ ] [fama macbeth regression r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSgqguv7ZZZFL9dTiYIeuxOMnEcrw:1575128866027&q=fama+macbeth+regression+r&sa=X&ved=2ahUKEwj8w6OkpJLmAhXlw4sBHU-7DFcQ1QIoAnoECD8QAw&biw=1920&bih=901)
+
+- [ ] [fama macbeth regression r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSgqguv7ZZZFL9dTiYIeuxOMnEcrw:1575128866027&q=fama+macbeth+regression+r&sa=X&ved=2ahUKEwj8w6OkpJLmAhXlw4sBHU-7DFcQ1QIoAnoECD8QAw&biw=1920&bih=901)
+
+- [ ] [Financial Modeling Under Non-Gaussian Distributions - Google Search](https://www.google.com/search?q=Financial%20Modeling%20Under%20Non-Gaussian%20Distributions)
+
+- [ ] [Financial Modeling, by Simon Benninga - Google Search](https://www.google.com/search?q=Financial%20Modeling%2C%20by%20Simon%20Benninga)
+
+- [ ] [GAS package ewma r - Google Search](https://www.google.com/search?q=GAS+package+ewma+r&oq=GAS+package+ewma+r&aqs=chrome..69i57j33.5422j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [gas r package average error ae - Google Search](https://www.google.com/search?q=gas+r+package+average+error+ae&oq=gas+r+pac&aqs=chrome.0.69i59l3j69i57j69i60l3.6883j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [generate 41 correlation networks from dataset python networkx - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnEK8UYHQFswCiGpTobMY-ASbFOw%3A1575244268613&ei=7FHkXZWCJcyHr7wP19CM6AU&q=generate+41+correlation+networks+from+dataset+python+networkx&oq=generate+41+correlation+networks+from+dataset+python+networkx&gs_l=psy-ab.3..33i160l3.358.2865..3093...1.2..1.353.1724.0j6j2j1......0....1..gws-wiz.......0i71j33i299.OMzfY_0sgm4&ved=0ahUKEwiVqMKY0pXmAhXMw4sBHVcoA10Q4dUDCAs&uact=5)
+
+- [ ] [how to download dataset from uci machine learning repository - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0DENZI7JSZvVgymPMmvLLOWIPKA:1575181311842&q=how+to+download+dataset+from+uci+machine+learning+repository&sa=X&ved=2ahUKEwiMhLLU55PmAhVSE6YKHe5LCW0Q1QIoA3oECGUQBA)
+
+- [ ] [how to use python to download data from website - Google Search](https://www.google.com/search?q=how+to+use+python+to+download+data+from+website&oq=how+to+use+python+to+download+data+from+website&aqs=chrome..69i57l2j69i64.6959j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [how to use uci dataset in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0DENZI7JSZvVgymPMmvLLOWIPKA:1575181311842&q=how+to+use+uci+dataset+in+python&sa=X&ved=2ahUKEwiMhLLU55PmAhVSE6YKHe5LCW0Q1QIoBnoECGUQBw)
+
+- [ ] [kupiec test in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvHAeVMqVn3FCMwoLB7ouo288vKw:1575118854424&q=kupiec+test+in+r&sa=X&ved=2ahUKEwiq1a_-_pHmAhUtCqYKHaQaAt0Q1QIoBXoECGYQBg)
+
+- [ ] [kupiec test matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvHAeVMqVn3FCMwoLB7ouo288vKw:1575118854424&q=kupiec+test+matlab&sa=X&ved=2ahUKEwiq1a_-_pHmAhUtCqYKHaQaAt0Q1QIoBnoECGYQBw)
+
+- [ ] [kupiec test wiki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvHAeVMqVn3FCMwoLB7ouo288vKw:1575118854424&q=kupiec+test+wiki&sa=X&ved=2ahUKEwiq1a_-_pHmAhUtCqYKHaQaAt0Q1QIoAnoECGYQAw)
+
+- [ ] [loss function logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT7a2lQ13K0fSdSEZiA3hHVkvNeBg%3A1575124146380&lei=snziXaHvFqOymAWRx5aQDQ&q=loss%20function%20logistic%20regression&ved=2ahUKEwjYy8jbkpLmAhUhwosBHc9DC6AQsKwBKAV6BAgAEAY)
+
+- [ ] [melt the clock tidy time series analysis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=melt%20the%20clock%20tidy%20time%20series%20analysis&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAF6BAgBEAI)
+
+- [ ] [metagrafs - Google Search](https://www.google.com/search?q=metagrafs&oq=metagrafs&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Modern Portfolio Theory and Investment Analysis, - Google Search](https://www.google.com/search?q=Modern%20Portfolio%20Theory%20and%20Investment%20Analysis%2C)
+
+- [ ] [multiple time series in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=multiple%20time%20series%20in%20r&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAV6BAgBEAY)
+
+- [ ] [network clustering python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT_YA-LcNGqSAMmjQ3aY0Ups0DJ1Q:1575244283790&q=network+clustering+python&sa=X&ved=2ahUKEwiGz-Cf0pXmAhVEHKYKHcNJAtQQ1QIoBnoECGUQBw)
+
+- [ ] [network from correlation matrix python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA%3A1575244644468&lei=ZFPkXc6fHPOSr7wPwuuFiA4&q=network%20from%20correlation%20matrix%20python&ved=2ahUKEwjloNHM05XmAhVHE6YKHc2EAtIQsKwBKAB6BAgBEAE&biw=1920&bih=950)
+
+- [ ] [networkx add edges from dataframe - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA%3A1575244644468&lei=ZFPkXc6fHPOSr7wPwuuFiA4&q=networkx%20add%20edges%20from%20dataframe&ved=2ahUKEwjloNHM05XmAhVHE6YKHc2EAtIQsKwBKAJ6BAgBEAM)
+
+- [ ] [networkx background color - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA%3A1575244644468&lei=ZFPkXc6fHPOSr7wPwuuFiA4&q=networkx%20background%20color&ved=2ahUKEwjloNHM05XmAhVHE6YKHc2EAtIQsKwBKAJ6BAgCEAM)
+
+- [ ] [networkx edge_color - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA%3A1575244644468&lei=ZFPkXc6fHPOSr7wPwuuFiA4&q=networkx%20edge_color&ved=2ahUKEwjloNHM05XmAhVHE6YKHc2EAtIQsKwBKAF6BAgCEAI)
+
+- [ ] [networkx get node label - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA%3A1575244644468&lei=ZFPkXc6fHPOSr7wPwuuFiA4&q=networkx%20get%20node%20label&ved=2ahUKEwjloNHM05XmAhVHE6YKHc2EAtIQsKwBKAR6BAgCEAU)
+
+- [ ] [panel regression python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSgqguv7ZZZFL9dTiYIeuxOMnEcrw:1575128866027&q=panel+regression+python&sa=X&ved=2ahUKEwj8w6OkpJLmAhXlw4sBHU-7DFcQ1QIoBHoECD8QBQ)
+
+- [ ] [python download complete web page - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBEEWzI7dJfS_YgaO57skT3Eah5A%3A1575182359059&lei=FmDjXeWyOKXFmAXivrXgBw&q=python%20download%20complete%20web%20page&ved=2ahUKEwiw7-PI65PmAhWQBKYKHRLnAr4QsKwBKAJ6BAgAEAM)
+
+- [ ] [python download file from url and save - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBEEWzI7dJfS_YgaO57skT3Eah5A%3A1575182359059&lei=FmDjXeWyOKXFmAXivrXgBw&q=python%20download%20file%20from%20url%20and%20save&ved=2ahUKEwiw7-PI65PmAhWQBKYKHRLnAr4QsKwBKAB6BAgAEAE)
+
+- [ ] [python download large file - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBEEWzI7dJfS_YgaO57skT3Eah5A%3A1575182359059&lei=FmDjXeWyOKXFmAXivrXgBw&q=python%20download%20large%20file&ved=2ahUKEwiw7-PI65PmAhWQBKYKHRLnAr4QsKwBKAN6BAgAEAQ)
+
+- [ ] [python download zip file from url - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBEEWzI7dJfS_YgaO57skT3Eah5A%3A1575182359059&lei=FmDjXeWyOKXFmAXivrXgBw&q=python%20download%20zip%20file%20from%20url&ved=2ahUKEwiw7-PI65PmAhWQBKYKHRLnAr4QsKwBKAF6BAgAEAI)
+
+- [ ] [python econometrics toolbox - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSgqguv7ZZZFL9dTiYIeuxOMnEcrw%3A1575128866027&lei=Io_iXfyqAeWHr7wPz_ayuAU&q=python%20econometrics%20toolbox&ved=2ahUKEwjVx-rPpJLmAhVzy4sBHZfGD4IQsKwBKAJ6BAgAEAM)
+
+- [ ] [python linear models fama macbeth - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSgqguv7ZZZFL9dTiYIeuxOMnEcrw:1575128866027&q=python+linear+models+fama+macbeth&sa=X&ved=2ahUKEwj8w6OkpJLmAhXlw4sBHU-7DFcQ1QIoAXoECD8QAg)
+
+- [ ] [python network graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA%3A1575244644468&lei=ZFPkXc6fHPOSr7wPwuuFiA4&q=python%20network%20graph&ved=2ahUKEwjloNHM05XmAhVHE6YKHc2EAtIQsKwBKAN6BAgBEAQ)
+
+- [ ] [python networkx Pearson correlation values - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA:1575244644468&q=python+networkx+Pearson+correlation+values&tbm=isch&source=univ&sa=X&ved=2ahUKEwjO4d7L05XmAhVzyYsBHcJ1AeEQsAR6BAgLEAE#imgrc=YEuxbuV2JWwQPM)
+
+- [ ] [python pearson correlation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA:1575244644468&q=python+pearson+correlation&sa=X&ved=2ahUKEwjO4d7L05XmAhVzyYsBHcJ1AeEQ1QIoAnoECGEQAw&biw=1920&bih=950)
+
+- [ ] [python pearson correlation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRUO9NZ1WL69W_DYhXao7VWP2KJwA%3A1575244644468&lei=ZFPkXc6fHPOSr7wPwuuFiA4&q=python%20pearson%20correlation&ved=2ahUKEwjloNHM05XmAhVHE6YKHc2EAtIQsKwBKAF6BAgAEAI)
+
+- [ ] [python statsmodels panel regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSgqguv7ZZZFL9dTiYIeuxOMnEcrw%3A1575128866027&lei=Io_iXfyqAeWHr7wPz_ayuAU&q=python%20statsmodels%20panel%20regression&ved=2ahUKEwjVx-rPpJLmAhVzy4sBHZfGD4IQsKwBKAF6BAgAEAI)
+
+- [ ] [python3 requests download to file - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBEEWzI7dJfS_YgaO57skT3Eah5A%3A1575182359059&lei=FmDjXeWyOKXFmAXivrXgBw&q=python3%20requests%20download%20to%20file&ved=2ahUKEwiw7-PI65PmAhWQBKYKHRLnAr4QsKwBKAV6BAgAEAY)
+
+- [ ] [Quantile Loss Function r - Google Search](https://www.google.com/search?q=Quantile%20Loss%20Function%20r)
+
+- [ ] [Quantitative Risk Management: Concepts, Techniques, and Tool - Google Search](https://www.google.com/search?q=Quantitative%20Risk%20Management%3A%20Concepts%2C%20Techniques%2C%20and%20Tool)
+
+- [ ] [rcpproll - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng%3A1575128062991&lei=_oviXdSHPKaGr7wPjI-ggAc&q=rcpproll&ved=2ahUKEwiWjP2ooZLmAhXKwosBHZCYCRoQsKwBKAV6BAgCEAY)
+
+- [ ] [read pdf file from url python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBEEWzI7dJfS_YgaO57skT3Eah5A%3A1575182359059&lei=FmDjXeWyOKXFmAXivrXgBw&q=read%20pdf%20file%20from%20url%20python&ved=2ahUKEwiw7-PI65PmAhWQBKYKHRLnAr4QsKwBKAR6BAgAEAU)
+
+- [ ] [regression fama macbeth stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSd03TzpzCGFdr1SEaXPDEjjWN3Sw:1575128707844&q=regression+fama+macbeth+stata&sa=X&ved=2ahUKEwiW3-zYo5LmAhWhIaYKHZ9XA-wQ1QIoAXoECGQQAg&biw=1920&bih=901)
+
+- [ ] [risk matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfP0WKXnq6TJ8QkMkk2BEEinlTWQ%3A1575123861701&lei=lXviXYCvKqTUmAWGs7KQCw&q=risk%20matrix&ved=2ahUKEwj-7_jSkZLmAhXMxIsBHVQOB3AQsKwBKAJ6BAgAEAM)
+
+- [ ] [risk metrics examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfP0WKXnq6TJ8QkMkk2BEEinlTWQ%3A1575123861701&lei=lXviXYCvKqTUmAWGs7KQCw&q=risk%20metrics%20examples&ved=2ahUKEwj-7_jSkZLmAhXMxIsBHVQOB3AQsKwBKAB6BAgBEAE)
+
+- [ ] [riskmetrics technical document 2017 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfP0WKXnq6TJ8QkMkk2BEEinlTWQ:1575123861701&q=riskmetrics+technical+document+2017&sa=X&ved=2ahUKEwjAzYPSkZLmAhUkKqYKHYaZDLIQ1QIoAXoECGAQAg)
+
+- [ ] [riskmetrics technical document 2018 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfP0WKXnq6TJ8QkMkk2BEEinlTWQ:1575123861701&q=riskmetrics+technical+document+2018&sa=X&ved=2ahUKEwjAzYPSkZLmAhUkKqYKHYaZDLIQ1QIoAHoECGAQAQ)
+
+- [ ] [rollapply backtest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSn1t362E8C3BItjFmq-G0bmmuE9A%3A1575197726979&ei=HpzjXa21O5TqmAXz-6CoCA&q=rollapply+backtest&oq=rollapply+backtest&gs_l=psy-ab.3...3168.4190..4560...0.3..0.96.446.5......0....1..gws-wiz.......0i71.abKLFs9mfPA&ved=0ahUKEwitvN7npJTmAhUUNaYKHfM9CIUQ4dUDCAs&uact=5)
+
+- [ ] [rollapply by group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng:1575128062991&q=rollapply+by+group&sa=X&ved=2ahUKEwjU_q2loZLmAhUmw4sBHYwHCHAQ1QIoAXoECF4QAg)
+
+- [ ] [rollapply correlation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng:1575128062991&q=rollapply+correlation&sa=X&ved=2ahUKEwjU_q2loZLmAhUmw4sBHYwHCHAQ1QIoBnoECF4QBw)
+
+- [ ] [rollapply fama-macbeth regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSd03TzpzCGFdr1SEaXPDEjjWN3Sw:1575128707844&q=rollapply+fama-macbeth+regression&tbm=isch&source=univ&sa=X&ved=2ahUKEwiW3-zYo5LmAhWhIaYKHZ9XA-wQsAR6BAgJEAE)
+
+- [ ] [rollapply mean - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng:1575128062991&q=rollapply+mean&sa=X&ved=2ahUKEwjU_q2loZLmAhUmw4sBHYwHCHAQ1QIoB3oECF4QCA)
+
+- [ ] [rollapply regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng:1575128062991&q=rollapply+regression&sa=X&ved=2ahUKEwjU_q2loZLmAhUmw4sBHYwHCHAQ1QIoA3oECF4QBA&biw=1920&bih=950)
+
+- [ ] [rollapply standard deviation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng:1575128062991&q=rollapply+standard+deviation&sa=X&ved=2ahUKEwjU_q2loZLmAhUmw4sBHYwHCHAQ1QIoBHoECF4QBQ)
+
+- [ ] [rolling autocorrelation r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=rolling%20autocorrelation%20r&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAN6BAgAEAQ)
+
+- [ ] [rolling window correlation python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=rolling%20window%20correlation%20python&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAB6BAgAEAE)
+
+- [ ] [shanken correction fama macbeth - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSd03TzpzCGFdr1SEaXPDEjjWN3Sw:1575128707844&q=shanken+correction+fama+macbeth&sa=X&ved=2ahUKEwiW3-zYo5LmAhWhIaYKHZ9XA-wQ1QIoB3oECGQQCA&biw=1920&bih=901)
+
+- [ ] [The Basel Committee’s Traffic Light Coverage Test - Google Search](https://www.google.com/search?q=The%20Basel%20Committee%E2%80%99s%20Traffic%20Light%20Coverage%20Test)
+
+- [ ] [The networks should be sparse but having one giant connected componen - Google Search](https://www.google.com/search?q=The+networks+should+be+sparse+but+having+one+giant+connected+componen&oq=The+networks+should+be+sparse+but+having+one+giant+connected+componen&aqs=chrome..69i57j69i64l3.591j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [tibbletime - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSO5KRoN-34f6Qs8-ZzhQaCJi6iCQ%3A1575128152538&lei=WIziXZKzIImUr7wP2fGPmA8&q=tibbletime&ved=2ahUKEwjMgNjSoZLmAhVMyYsBHUXqD2oQsKwBKAN6BAgDEAQ)
+
+- [ ] [tibbletime - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=tibbletime&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAJ6BAgBEAM)
+
+- [ ] [tidyquant package in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSO5KRoN-34f6Qs8-ZzhQaCJi6iCQ%3A1575128152538&lei=WIziXZKzIImUr7wP2fGPmA8&q=tidyquant%20package%20in%20r&ved=2ahUKEwjMgNjSoZLmAhVMyYsBHUXqD2oQsKwBKAJ6BAgDEAM)
+
+- [ ] [tidyquant rolling - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=tidyquant%20rolling&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAJ6BAgAEAM)
+
+- [ ] [tidyquant time series - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng%3A1575128062991&lei=_oviXdSHPKaGr7wPjI-ggAc&q=tidyquant%20time%20series&ved=2ahUKEwiWjP2ooZLmAhXKwosBHZCYCRoQsKwBKAJ6BAgCEAM)
+
+- [ ] [tidyquant tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSO5KRoN-34f6Qs8-ZzhQaCJi6iCQ%3A1575128152538&lei=WIziXZKzIImUr7wP2fGPmA8&q=tidyquant%20tutorial&ved=2ahUKEwjMgNjSoZLmAhVMyYsBHUXqD2oQsKwBKAB6BAgDEAE)
+
+- [ ] [tidyverse autocorrelation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=tidyverse%20autocorrelation&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAR6BAgBEAU)
+
+- [ ] [tidyverse moving average - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSO5KRoN-34f6Qs8-ZzhQaCJi6iCQ%3A1575128152538&lei=WIziXZKzIImUr7wP2fGPmA8&q=tidyverse%20moving%20average&ved=2ahUKEwjMgNjSoZLmAhVMyYsBHUXqD2oQsKwBKAR6BAgDEAU)
+
+- [ ] [tidyverse rolling mean - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng%3A1575128062991&lei=_oviXdSHPKaGr7wPjI-ggAc&q=tidyverse%20rolling%20mean&ved=2ahUKEwiWjP2ooZLmAhXKwosBHZCYCRoQsKwBKAN6BAgCEAQ)
+
+- [ ] [tidyverse time series - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSO5KRoN-34f6Qs8-ZzhQaCJi6iCQ%3A1575128152538&lei=WIziXZKzIImUr7wP2fGPmA8&q=tidyverse%20time%20series&ved=2ahUKEwjMgNjSoZLmAhVMyYsBHUXqD2oQsKwBKAV6BAgDEAY)
+
+- [ ] [time series tidy r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=time%20series%20tidy%20r&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAB6BAgBEAE)
+
+- [ ] [timetk - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSO5KRoN-34f6Qs8-ZzhQaCJi6iCQ%3A1575128152538&lei=WIziXZKzIImUr7wP2fGPmA8&q=timetk&ved=2ahUKEwjMgNjSoZLmAhVMyYsBHUXqD2oQsKwBKAF6BAgDEAI)
+
+- [ ] [tq_mutate - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng%3A1575128062991&lei=_oviXdSHPKaGr7wPjI-ggAc&q=tq_mutate&ved=2ahUKEwiWjP2ooZLmAhXKwosBHZCYCRoQsKwBKAF6BAgCEAI)
+
+- [ ] [traffic light approach meaning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvHAeVMqVn3FCMwoLB7ouo288vKw:1575118854424&q=traffic+light+approach+meaning&sa=X&ved=2ahUKEwiq1a_-_pHmAhUtCqYKHaQaAt0Q1QIoBHoECGYQBQ)
+
+- [ ] [tsibble decompose - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=tsibble%20decompose&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAN6BAgBEAQ)
+
+- [ ] [types of risk metrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfP0WKXnq6TJ8QkMkk2BEEinlTWQ:1575123861701&q=types+of+risk+metrics&sa=X&ved=2ahUKEwjAzYPSkZLmAhUkKqYKHYaZDLIQ1QIoBnoECGAQBw)
+
+- [ ] [types of risk metrics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfP0WKXnq6TJ8QkMkk2BEEinlTWQ%3A1575123861701&lei=lXviXYCvKqTUmAWGs7KQCw&q=types%20of%20risk%20metrics&ved=2ahUKEwj-7_jSkZLmAhXMxIsBHVQOB3AQsKwBKAB6BAgAEAE)
+
+- [ ] [unconditional coverage test - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvHAeVMqVn3FCMwoLB7ouo288vKw:1575118854424&q=unconditional+coverage+test&sa=X&ved=2ahUKEwiq1a_-_pHmAhUtCqYKHaQaAt0Q1QIoA3oECGYQBA)
+
+- [ ] [Undirected weighted Edges are derived from Pearson correlation values python newtorkx - Google Search](https://www.google.com/search?q=Undirected+weighted+Edges+are+derived+from+Pearson+correlation+values+python+newtorkx&oq=Undirected+weighted+Edges+are+derived+from+Pearson+correlation+values+python+newtorkx&aqs=chrome..69i57.6281j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [unzip tar.gz linux - Google Search](https://www.google.com/search?q=unzip+tar.gz+linux&oq=unzip+tar.gz+&aqs=chrome.1.69i57j0l7.6375j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [value at risk - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTfP0WKXnq6TJ8QkMkk2BEEinlTWQ%3A1575123861701&lei=lXviXYCvKqTUmAWGs7KQCw&q=value%20at%20risk&ved=2ahUKEwj-7_jSkZLmAhXMxIsBHVQOB3AQsKwBKAF6BAgAEAI)
+
+- [ ] [value at risk - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTZyVZV448d_wogY-NPkQLOu3u9OQ:1575123873431&q=value+at+risk&tbm=isch&source=univ&sa=X&ved=2ahUKEwiP0M_XkZLmAhWSNKYKHYTQCb4QiR56BAhlEBA)
+
+- [ ] [var exceedance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTvHAeVMqVn3FCMwoLB7ouo288vKw:1575118854424&q=var+exceedance&sa=X&ved=2ahUKEwiq1a_-_pHmAhUtCqYKHaQaAt0Q1QIoB3oECGYQCA)
+
+- [ ] [web scraping documentation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBEEWzI7dJfS_YgaO57skT3Eah5A%3A1575182359059&lei=FmDjXeWyOKXFmAXivrXgBw&q=web%20scraping%20documentation&ved=2ahUKEwiw7-PI65PmAhWQBKYKHRLnAr4QsKwBKAR6BAgBEAU)
+
+- [ ] [web scraping python beautifulsoup - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBEEWzI7dJfS_YgaO57skT3Eah5A%3A1575182359059&lei=FmDjXeWyOKXFmAXivrXgBw&q=web%20scraping%20python%20beautifulsoup&ved=2ahUKEwiw7-PI65PmAhWQBKYKHRLnAr4QsKwBKAJ6BAgBEAM)
+
+- [ ] [why use fama macbeth regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSd03TzpzCGFdr1SEaXPDEjjWN3Sw:1575128707844&q=why+use+fama+macbeth+regression&sa=X&ved=2ahUKEwiW3-zYo5LmAhWhIaYKHZ9XA-wQ1QIoAHoECGQQAQ)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSADQjNXiZyEum3GtzwOXbC7PvkpQ%3A1575128153182&lei=WYziXajgCuCQr7wP6KG_kAk&q=rolling%20correlation%20macrobond&ved=2ahUKEwj1xafToZLmAhWBHqYKHajnCdYQsKwBKAF6BAgAEAI)
+
+- [ ] [zoo rollapply tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng:1575128062991&q=zoo+rollapply+tutorial&sa=X&ved=2ahUKEwjU_q2loZLmAhUmw4sBHYwHCHAQ1QIoBXoECF4QBg)
+
+- [ ] [zoo rollmean - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNS1kdF597YTcsuX-SS1thILfcVKng%3A1575128062991&lei=_oviXdSHPKaGr7wPjI-ggAc&q=zoo%20rollmean&ved=2ahUKEwiWjP2ooZLmAhXKwosBHZCYCRoQsKwBKAR6BAgCEAU)
+
+- [ ] [Adjacency matrix clustering using spectral (cluster) network in Python - Stack Overflow](https://stackoverflow.com/questions/23117712/adjacency-matrix-clustering-using-spectral-cluster-network-in-python)
+
+- [ ] [Combine two tables in R - Stack Overflow](https://stackoverflow.com/questions/49704652/combine-two-tables-in-r)
+
+- [ ] [Error in zero inflated Poisson regression in R - Stack Overflow](https://stackoverflow.com/questions/16457968/error-in-zero-inflated-poisson-regression-in-r)
+
+- [ ] [finance - Backtesting stock returns for Moving Average rule in r - Stack Overflow](https://stackoverflow.com/questions/43162679/backtesting-stock-returns-for-moving-average-rule-in-r)
+
+- [ ] [google colaboratory - How to download a file from GoogleColab in python script? - Stack Overflow](https://stackoverflow.com/questions/54235787/how-to-download-a-file-from-googlecolab-in-python-script)
+
+- [ ] [graph - Network clustering and python - Stack Overflow](https://stackoverflow.com/questions/10782345/network-clustering-and-python)
+
+- [ ] [How to download file created in Colaboratory workspace? - Stack Overflow](https://stackoverflow.com/questions/48774285/how-to-download-file-created-in-colaboratory-workspace)
+
+- [ ] [How to download file created in Colaboratory workspace? - Stack Overflow](https://stackoverflow.com/questions/48774285/how-to-download-file-created-in-colaboratory-workspace)
+
+- [ ] [how to find clusters with a network based on density and weight of edges in python - networkx package - Stack Overflow](https://stackoverflow.com/questions/41414545/how-to-find-clusters-with-a-network-based-on-density-and-weight-of-edges-in-pyth)
+
+- [ ] [How to merge tables in R? - Stack Overflow](https://stackoverflow.com/questions/12897220/how-to-merge-tables-in-r)
+
+- [ ] [knitr - How to combine two tables in R? - Stack Overflow](https://stackoverflow.com/questions/27174469/how-to-combine-two-tables-in-r)
+
+- [ ] [math - R optim(){fExtremes} gets 0 hessian matrix - Stack Overflow](https://stackoverflow.com/questions/39111048/r-optimfextremes-gets-0-hessian-matrix)
+
+- [ ] [merge - Merging multiple tables in R - Stack Overflow](https://stackoverflow.com/questions/38568291/merging-multiple-tables-in-r)
+
+- [ ] [Merge two tables together in R - Stack Overflow](https://stackoverflow.com/questions/44680722/merge-two-tables-together-in-r)
+
+- [ ] [numpy - Calculating Pearson correlation and significance in Python - Stack Overflow](https://stackoverflow.com/questions/3949226/calculating-pearson-correlation-and-significance-in-python)
+
+- [ ] [optimization - R solve:system is exactly singular - Stack Overflow](https://stackoverflow.com/questions/6572119/r-solvesystem-is-exactly-singular)
+
+- [ ] [python - Any faster way to get the same results? - Stack Overflow](https://stackoverflow.com/questions/27649503/any-faster-way-to-get-the-same-results)
+
+- [ ] [python - Calculating Pearson correlation - Stack Overflow](https://stackoverflow.com/questions/13648318/calculating-pearson-correlation)
+
+- [ ] [python - Correlation coefficients and p values for all pairs of rows of a matrix - Stack Overflow](https://stackoverflow.com/questions/24432101/correlation-coefficients-and-p-values-for-all-pairs-of-rows-of-a-matrix)
+
+- [ ] [python - Exporting Data from google colab to local machine - Stack Overflow](https://stackoverflow.com/questions/49394737/exporting-data-from-google-colab-to-local-machine)
+
+- [ ] [python - Finding the correlation matrix - Stack Overflow](https://stackoverflow.com/questions/3437513/finding-the-correlation-matrix)
+
+- [ ] [python - Fixed effect in Pandas or Statsmodels - Stack Overflow](https://stackoverflow.com/questions/24195432/fixed-effect-in-pandas-or-statsmodels)
+
+- [ ] [Python - Pandas: issues with multi-indexing for PanelOLS and Fama-Macbeth - Stack Overflow](https://stackoverflow.com/questions/31739979/python-pandas-issues-with-multi-indexing-for-panelols-and-fama-macbeth)
+
+- [ ] [python - Panel OLS in statsmodels (because it's deprecated in Pandas?) - Stack Overflow](https://stackoverflow.com/questions/45960849/panel-ols-in-statsmodels-because-its-deprecated-in-pandas)
+
+- [ ] [python - Plot and visualize results of clustering as a network graph - Stack Overflow](https://stackoverflow.com/questions/53162915/plot-and-visualize-results-of-clustering-as-a-network-graph)
+
+- [ ] [python 3.x - When I use Google Colaboratory, how to save image, weights in my Google Drive? - Stack Overflow](https://stackoverflow.com/questions/49031798/when-i-use-google-colaboratory-how-to-save-image-weights-in-my-google-drive)
+
+- [ ] [r - Adding indicator with tq_mutate generates duplicated columns - Stack Overflow](https://stackoverflow.com/questions/48042586/adding-indicator-with-tq-mutate-generates-duplicated-columns)
+
+- [ ] [r - Applying a statistical test on sliding window - Stack Overflow](https://stackoverflow.com/questions/9257143/applying-a-statistical-test-on-sliding-window)
+
+- [ ] [r - Applying a statistical test on sliding window - Stack Overflow](https://stackoverflow.com/questions/9257143/applying-a-statistical-test-on-sliding-window)
+
+- [ ] [r - Backtesting accuracy of regression model through rolling window regression with quantmod - Stack Overflow](https://stackoverflow.com/questions/14825443/backtesting-accuracy-of-regression-model-through-rolling-window-regression-with)
+
+- [ ] [r - Calculating firm specific Fama-French beta coefficients from a rolling 1 year regression - Stack Overflow](https://stackoverflow.com/questions/44352992/calculating-firm-specific-fama-french-beta-coefficients-from-a-rolling-1-year-re)
+
+- [ ] [r - Calculating firm specific Fama-French beta coefficients from a rolling 1 year regression - Stack Overflow](https://stackoverflow.com/questions/44352992/calculating-firm-specific-fama-french-beta-coefficients-from-a-rolling-1-year-re)
+
+- [ ] [r - How do you pass a list of variables to select in tq_mutate (TidyQuant) from within a function? - Stack Overflow](https://stackoverflow.com/questions/53858865/how-do-you-pass-a-list-of-variables-to-select-in-tq-mutate-tidyquant-from-with)
+
+- [ ] [R - plm package error - "system is exactly singular" - Stack Overflow](https://stackoverflow.com/questions/49248152/r-plm-package-error-system-is-exactly-singular)
+
+- [ ] [r - Roll apply to return moving average - Stack Overflow](https://stackoverflow.com/questions/32614554/roll-apply-to-return-moving-average)
+
+- [ ] [r - Rollapply for time series - Stack Overflow](https://stackoverflow.com/questions/13243148/rollapply-for-time-series)
+
+- [ ] [r - Rollapply: what does by.column do? - Stack Overflow](https://stackoverflow.com/questions/32951459/rollapply-what-does-by-column-do)
+
+- [ ] [r - Rolling regression return multiple objects - Stack Overflow](https://stackoverflow.com/questions/14732505/rolling-regression-return-multiple-objects)
+
+- [ ] [r - tq_mutate and a growing window width? - Stack Overflow](https://stackoverflow.com/questions/54754839/tq-mutate-and-a-growing-window-width)
+
+- [ ] [r - tq_mutate() throws error - Loop programming technique - Stack Overflow](https://stackoverflow.com/questions/53320792/tq-mutate-throws-error-loop-programming-technique)
+
+- [ ] [r - use rollapply and zoo to calculate rolling average of a column of variables - Stack Overflow](https://stackoverflow.com/questions/33769770/use-rollapply-and-zoo-to-calculate-rolling-average-of-a-column-of-variables)
+
+- [ ] [r - Value at Risk for a Portfolio Backtest - Stack Overflow](https://stackoverflow.com/questions/55558036/value-at-risk-for-a-portfolio-backtest)
+
+- [ ] [R: how to do rolling regressions for multiple return data at once? with the dependent variable in one data frame and the regressor in the other? - Stack Overflow](https://stackoverflow.com/questions/39438484/r-how-to-do-rolling-regressions-for-multiple-return-data-at-once-with-the-depe)
+
+- [ ] [rollapply - the rolling regression in R using roll apply - Stack Overflow](https://stackoverflow.com/questions/23162937/the-rolling-regression-in-r-using-roll-apply?lq=1)
+
+- [ ] [Spectral Clustering a graph in python - Stack Overflow](https://stackoverflow.com/questions/46258657/spectral-clustering-a-graph-in-python)
+
+- [ ] [statsmodels - Fama-Macbeth in Python - Stack Overflow](https://stackoverflow.com/questions/50656274/fama-macbeth-in-python)
+
+- [ ] [tensorflow - Write out file with google colab - Stack Overflow](https://stackoverflow.com/questions/49675374/write-out-file-with-google-colab)
+
+- [ ] [tidyquant - tq_mutate() and Volume indicators in R - Stack Overflow](https://stackoverflow.com/questions/53014807/tq-mutate-and-volume-indicators-in-r)
+
+- [ ] [time series - ARIMA model selection for Financial data in R - Stack Overflow](https://stackoverflow.com/questions/38004510/arima-model-selection-for-financial-data-in-r)
+
+- [ ] [xts - Using rollapply function for VaR calculation using R - Stack Overflow](https://stackoverflow.com/questions/25045612/using-rollapply-function-for-var-calculation-using-r)
