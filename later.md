@@ -7136,3 +7136,2091 @@ https://www.zhihu.com/question/341466774
 - [ ] [time series - ARIMA model selection for Financial data in R - Stack Overflow](https://stackoverflow.com/questions/38004510/arima-model-selection-for-financial-data-in-r)
 
 - [ ] [xts - Using rollapply function for VaR calculation using R - Stack Overflow](https://stackoverflow.com/questions/25045612/using-rollapply-function-for-var-calculation-using-r)
+
+
+
+
+
+
+---
+
+
+## 12/13/2019
+
+- [ ] [Get the mean and median from a Pandas column in Python](https://erikrood.com/Python_References/pandas_column_average_median_final.html)
+
+- [ ] [numpy.mean() in Python - GeeksforGeeks](https://www.geeksforgeeks.org/numpy-mean-in-python/)
+
+- [ ] [pandas.DataFrame.mean — pandas 0.25.3 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.mean.html)
+
+- [ ] [numpy.mean — NumPy v1.13 Manual](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.mean.html)
+
+- [ ] [4.1 Font color | R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/font-color.html)
+
+- [ ] [Correlation and Linear Regression](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Correlation-Regression/BS704_Correlation-Regression_print.html)
+
+- [ ] [Regression Diagnostics](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R5_Correlation-Regression/R5_Correlation-Regression7.html)
+
+- [ ] [R Tutorials--Simple Linear Regression](https://ww2.coastal.edu/kingw/statistics/R-tutorials/simplelinear.html)
+
+- [ ] [Font Formatting – Coloring and Emphasis](https://edpflager.com/?p=4002)
+
+- [ ] [R regression models workshop notes](http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html)
+
+- [ ] [Tutorial R Markdown](http://www.jacolienvanrij.com/Tutorials/tutorialMarkdown.html)
+
+- [ ] [Chapter 7: Correlation and Simple Linear Regression | Natural Resources Biometrics](https://courses.lumenlearning.com/suny-natural-resources-biometrics/chapter/chapter-7-correlation-and-simple-linear-regression/)
+
+- [ ] [R-exercises – Regression Model Assumptions Tutorial](https://www.r-exercises.com/2017/09/30/regression-model-assumptions-tutorial/?__cf_chl_jschl_tk__=48d2174b67c0f4e8b741eadf54fadda40d86a109-1575331971-0-AfTyqrb_4FTO5dUPfEvdZFYUYnUHGuz_PJ5OoDeY34BN8eX4Sa48tTU3AC40tJ0L7c3aSGpd1nhx76p9FWMI_xBSay-7OS7KX8v9sZQ1uc56lmJUgBQ5dYq5eXtPUgDuJSQq-6bR0bDijvqOCbRIdJIYsztqdWoxRndD6mzr5VpR95PakxCrzgAdd_Er-xDeTJfLOHo6U1-hXUDfsqZnhXOKbJ7YAB6ZYPTQtREdvRvHJc3GXYIrinxIOp0tFIc7bnxejQgcdPcezO3AbQLGBE0QT9v-Krf1Tsd6OdKMKRKlE__yyxlnk1En-9xaqZ74sdpQ0R63X3ohrA2P2JRQmsI)
+
+- [ ] [numpy.zeros — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.zeros.html)
+
+- [ ] [scipy.stats.pearsonr — SciPy v0.14.0 Reference Guide](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.pearsonr.html)
+
+- [ ] [scipy.stats.pearsonr — SciPy v1.3.3 Reference Guide](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html)
+
+- [ ] [Quick-R: Multiple Regression](https://www.statmethods.net/stats/regression.html)
+
+- [ ] [Quick-R: Regression Diagnostics](https://www.statmethods.net/stats/rdiagnostics.html)
+
+- [ ] [Quick-R: Regression Diagnostics](https://www.statmethods.net/stats/rdiagnostics.html)
+
+- [ ] [www.sthda.com/english/articles/39-regression-model-diagnostics/161-linear-regression-assumptions-and-diagnostics-in-r-essentials/](http://www.sthda.com/english/articles/39-regression-model-diagnostics/161-linear-regression-assumptions-and-diagnostics-in-r-essentials/)
+
+- [ ] [Chapter 12: Regression: Basics, Assumptions, & Diagnostics](https://ademos.people.uic.edu/Chapter12.html)
+
+- [ ] [Vik's Blog - Writings on machine learning, data science, and other cool stuff](http://www.vikparuchuri.com/blog/r-regression-diagnostics-part-1/)
+
+- [ ] [Basic normalization using Pandas in Python](https://www.chriswirz.com/software/basic-normalization-using-pandas)
+
+- [ ] [Linux Tips — Python and R Tips](https://cmdlinetips.com/category/linux-tips/)
+
+- [ ] [Pearson and Spearman Correlation in Python — Python and R Tips](https://cmdlinetips.com/2019/08/how-to-compute-pearson-and-spearman-correlation-in-python/)
+
+- [ ] [cmdlinetips.com](https://cmdlinetips.com/category/r/r-tips/)
+
+- [ ] [Resources — Python and R Tips](https://cmdlinetips.com/resources/)
+
+- [ ] [Data Normalization in Python - Data Wrangling | Coursera](https://www.coursera.org/lecture/data-analysis-with-python/data-normalization-in-python-pqNBS)
+
+- [ ] [API — Dask 2.9.0 documentation](https://docs.dask.org/en/latest/dataframe-api.html)
+
+- [ ] [API — Dask 2.9.0 documentation](https://docs.dask.org/en/latest/dataframe-api.html)
+
+- [ ] [Subtracting the mean from columns or rows — Functional MRI methods](https://bic-berkeley.github.io/psych-214-fall-2016/subtract_means.html)
+
+- [ ] [Useful Pandas Snippets](https://gist.github.com/fomightez/ef57387b5d23106fabd4e02dab6819b4)
+
+- [ ] [Preparing data for a machine learning model.](https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/)
+
+- [ ] [Visualize Machine Learning Data in Python With Pandas](https://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/)
+
+- [ ] [www.medcalc.org](https://www.medcalc.org/manual/correlation.php)
+
+- [ ] [[Python]TypeError: unsupported operand type(s) for -: 'str' and 'str' : learnprogramming](https://www.reddit.com/r/learnprogramming/comments/1do20u/pythontypeerror_unsupported_operand_types_for_str/)
+
+- [ ] [TypeError: unsupported operand type(s) for - … - learnpython](https://www.reddit.com/r/learnpython/comments/7k2bz3/typeerror_unsupported_operand_types_for_int_and/)
+
+- [ ] [TypeError: unsupported operand type(s) for + … - learnpython - Reddit](https://www.reddit.com/r/learnpython/comments/5exxtm/typeerror_unsupported_operand_types_for_cell_and/)
+
+- [ ] [(15) What are the functions for calculating partial correlation coefficient in python?](https://www.researchgate.net/post/What_are_the_functions_for_calculating_partial_correlation_coefficient_in_python)
+
+- [ ] [scipy.stats.mstats.pearsonr — SciPy v0.18.1 Reference Guide](https://docs.scipy.org/doc/scipy-0.18.1/reference/generated/scipy.stats.mstats.pearsonr.html)
+
+- [ ] [python - Subtract multiple columns in PANDAS DataFrame by a series (single column) - Code Review Stack Exchange](https://codereview.stackexchange.com/questions/156447/subtract-multiple-columns-in-pandas-dataframe-by-a-series-single-column)
+
+- [ ] [Python IF...ELIF...ELSE Statements - Tutorialspoint](https://www.tutorialspoint.com/python/python_if_else.htm)
+
+- [ ] [scipy.stats.spearmanr — SciPy v0.17.1 Reference Guide](http://lagrange.univ-lyon1.fr/docs/scipy/0.17.1/generated/scipy.stats.spearmanr.html)
+
+- [ ] [scipy.stats.pearsonr — SciPy v1.0.0 Reference Guide](http://pageperso.lif.univ-mrs.fr/~francois.denis/IAAM1/scipy-html-1.0.0/generated/scipy.stats.pearsonr.html)
+
+- [ ] [Pandas: Select all columns, except one given column in a DataFrame - w3resource](https://www.w3resource.com/python-exercises/pandas/python-pandas-data-frame-exercise-58.php)
+
+- [ ] [Heinz H. Bauschke - Google Scholar Citations](https://scholar.google.ca/citations?user=UOm9p_AAAAAJ&hl=en)
+
+- [ ] [scholar.google.com](https://scholar.google.com/citations?user=UOm9p_AAAAAJ)
+
+- [ ] [Google Store for Google Made Devices & Accessories](https://store.google.com/us/?utm_source=hpp&utm_medium=google_oo&utm_campaign=GS104061)
+
+- [ ] [5lP5a16AvOl_xeIuek6aRtfez5xmfk0mfNIGmFx8VlBIurYX_elRKqMxPjA5X5ds7x9PL8JL0s8FzBfbCqis=v0-rw-w1910 (1910×564)](https://lh3.googleusercontent.com/5lP5a16AvOl_xeIuek6aRtfez5xmfk0mfNIGmFx8VlBIurYX_elRKqMxPjA5X5ds7x9PL8JL0s8FzBfbCqis=v0-rw-w1910)
+
+- [ ] [Welcome to Heinz Bauschke's Page](https://people.ok.ubc.ca/bauschke/)
+
+- [ ] [Welcome to Heinz Bauschke's Research Page](https://people.ok.ubc.ca/bauschke/research.html)
+
+- [ ] [www.bsg.ox.ac.uk](https://www.bsg.ox.ac.uk/multimedia/video/mariana-mazzucato-value-everything-rediscovering-purpose-economy)
+
+- [ ] [Final Judgement Report - China Tribunal](https://chinatribunal.com/final-judgement-report/)
+
+- [ ] [873850194-desktop.jpg (1800×1800)](https://www.gettyimages.com.au/sign-in/assets/static_content/getty/873850194-desktop.jpg)
+
+- [ ] [www.gettyimages.com.au](https://www.gettyimages.com.au/sign-in?returnurl=%2Fdetail%2Fnews-photo%2Fbridge-along-fee-lane-near-the-indiana-university-kelley-news-photo%2F1184519665#)
+
+- [ ] [TheMoneyIllusion - powered by FeedBurner](http://feeds.feedburner.com/Themoneyillusion)
+
+- [ ] [The plot thickens for a hypothetical “X17” particle | CERN](https://home.cern/news/news/physics/plot-thickens-hypothetical-x17-particle)
+
+- [ ] [Your neighborhood NYPD officer isn't likely to be your neighbor](https://blog.labsbell.com/blog/NYPDHomeZip)
+
+- [ ] [professional.mit.edu](https://professional.mit.edu/programs/short-programs/short-programs-courses)
+
+- [ ] [Walking the talk | National Affairs](https://www.nationalaffairs.com/blog/detail/findings-a-daily-roundup/walking-the-talk)
+
+- [ ] [Pete Davidson Holds SF Comedy Show–But Makes Attendees Sign $1M Agreement for Entry – NBC Los Angeles](https://www.nbclosangeles.com/news/national-international/pete-davidson-holds-sf-comedy-show-but-makes-attendees-sign-1m-agreement-for-entry/2257352/)
+
+- [ ] [Mariana Mazzucato is on a mission to save capitalism from itself — Quartz](https://qz.com/1669346/mariana-mazzucatos-plan-to-use-governments-to-save-capitalism-from-itself/)
+
+- [ ] [Improving Teaching Effectiveness: Final Report: The Intensive Partnerships for Effective Teaching Through 2015–2016 | RAND](https://www.rand.org/pubs/research_reports/RR2242.html)
+
+- [ ] [www.rasmusen.org/special/2019kerfuffle/provost1.htm](http://www.rasmusen.org/special/2019kerfuffle/provost1.htm)
+
+- [ ] [Vietnam to Introduce Statistics, Probability in 2nd Grade in New Syllabus - Saigoneer](https://saigoneer.com/vietnam-news/17753-vietnam-to-introduce-statistics,-probability-in-2nd-grade-in-new-syllabus)
+
+- [ ] [Affirmative Action, Major Choice, and Long-Run Impacts by Zachary Bleemer :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484530)
+
+- [ ] [Streets vs Avenues: Where to eat in Manhattan. by Alex Bell :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3492794)
+
+- [ ] [Mariana Mazzucato: Government -- investor, risk-taker, innovator | TED Talk](https://www.ted.com/talks/mariana_mazzucato_government_investor_risk_taker_innovator?language=en)
+
+- [ ] [The Browser](https://thebrowser.com/)
+
+- [ ] [TheMoneyIllusion » Give thanks for Progress?](https://www.themoneyillusion.com/give-thanks-for-progress/)
+
+- [ ] [TheMoneyIllusion » Give thanks for Progress?](https://www.themoneyillusion.com/give-thanks-for-progress/)
+
+- [ ] [SciPy — SciPy v0.17.1 Reference Guide](http://lagrange.univ-lyon1.fr/docs/scipy/0.17.1/index.html)
+
+- [ ] [Pandas Standard Deviation - javatpoint](https://www.javatpoint.com/pandas-standard-deviation)
+
+- [ ] [How to measure Variance and Standard Deviation for DataFrame columns in Pandas? - PythonProgramming.in](https://www.pythonprogramming.in/how-to-measure-variance-and-standard-deviation-for-dataframe-columns-in-pandas.html)
+
+- [ ] [Variability of Data with Pandas | Machine Learning, Deep Learning, and Computer Vision](https://www.ritchieng.com/pandas-variability/)
+
+- [ ] [data.library.virginia.edu](https://data.library.virginia.edu/diagnostic-plots/)
+
+- [ ] [Rmarkdown color text - R Markdown - RStudio Community](https://community.rstudio.com/t/rmarkdown-color-text/34382)
+
+- [ ] [Introduction to Computer Science and Programming | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/)
+
+- [ ] [Introductory Programming Courses | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/courses/intro-programming/)
+
+- [ ] [Lecture 1: What is Computation? | Lecture Videos | Introduction to Computer Science and Programming in Python | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/)
+
+- [ ] [500 Internal Privoxy Error](http://nat.hist.museum/)
+
+- [ ] [Homepage - Intelligence Squared](https://www.intelligencesquared.com/)
+
+- [ ] [Pete Davidson Holds SF Comedy Show–But Makes Attendees Sign $1M Agreement for Entry – NBC Los Angeles](https://www.nbclosangeles.com/news/national-international/pete-davidson-holds-sf-comedy-show-but-makes-attendees-sign-1m-agreement-for-entry/2257352/)
+
+- [ ] [Pete Davidson Holds SF Comedy Show–But Makes Attendees Sign $1M Agreement for Entry – NBC Los Angeles](https://www.nbclosangeles.com/news/national-international/pete-davidson-holds-sf-comedy-show-but-makes-attendees-sign-1m-agreement-for-entry/2257352/)
+
+- [ ] [Huawei founder Ren Zhengfei admires Apple and buys iPhones for family - Business Insider](https://www.businessinsider.com/huawei-founder-ren-zhengfei-buys-apple-iphones-2019-5)
+
+- [ ] [Like U.S. lawmakers, Brits raise spying fears over Huawei gear - CNET](https://www.cnet.com/news/like-u-s-lawmakers-brits-raise-spying-fears-over-huawei-gear/)
+
+- [ ] [www.itnews.com.au](https://www.itnews.com.au/news/analysis-who-really-owns-huawei-175946)
+
+- [ ] [Huawei complains about India's security concerns](https://www.computerweekly.com/news/2240089593/Huawei-complains-about-Indias-security-concerns)
+
+- [ ] [Huawei achieves annual revenue of $92.5 bn | DigiAnalysys](https://www.digianalysys.com/huawei-achieves-annual-revenue-of-92-5-bn/)
+
+- [ ] [www.hk01.com](https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/268673/%E8%8F%AF%E7%82%BA%E5%AD%9F%E6%99%9A%E8%88%9F%E8%A2%AB%E6%8D%95-%E6%B3%95%E5%BA%AD%E6%9B%9D%E5%85%89%E6%93%81%E4%B8%AD%E5%9C%8B%E5%8F%8A%E9%A6%99%E6%B8%AF%E8%AD%B7%E7%85%A7-%E6%9B%BE%E6%98%AF%E5%8A%A0%E5%9C%8B%E6%B0%B8%E4%B9%85%E5%B1%85%E6%B0%91)
+
+- [ ] [Board of Directors - About Huawei](https://www.huawei.com/en/about-huawei/corporate-governance/board-of-directors)
+
+- [ ] [Page not found | TIME](https://time.com/time/subscriber/2005/time100/builders/100zhengfei.html)
+
+- [ ] [Mariana Mazzucato on making waves as an economist — and in the pool | Financial Times](https://www.ft.com/content/edc41568-5315-11e8-b24e-cad6aa67e23e)
+
+- [ ] [Economics: The Study of Choice](https://saylordotorg.github.io/text_principles-of-economics-v2.0/s04-economics-the-study-of-choice.html)
+
+- [ ] [Bulletin of the Atomic Scientists - Google Books](https://books.google.com/books?id=8AgAAAAAMBAJ&pg=PA105&lpg=PA105&dq=obvious+ideas+are+much+more+likely+to+be+fully+discounted,+hnece+unlikely+to+offer+any+further+pofit+opportunity&source=bl&ots=l1WE67cz20&sig=ACfU3U0Q9Ikqflo_BHcbbxJWXIHIw8FKIg&hl=en&sa=X&ved=2ahUKEwjD2by33J7mAhUnGqYKHZ4XBaQQ6AEwAXoECGMQAQ#v=onepage&q=obvious%20ideas%20are%20much%20more%20likely%20to%20be%20fully%20discounted%2C%20hnece%20unlikely%20to%20offer%20any%20further%20pofit%20opportunity&f=false)
+
+- [ ] [The Why, What, and How of Management Innovation](https://hbr.org/2006/02/the-why-what-and-how-of-management-innovation)
+
+- [ ] [tp1_m2se](https://www.irit.fr/~Yoann.Pitarch/Docs/M2Stats/2019/tp1_m2se.html)
+
+- [ ] [tp1_m2se_answers](https://www.irit.fr/~Yoann.Pitarch/Docs/M2Stats/2019/tp1_m2se_answers.html)
+
+- [ ] [tp3_m2se](https://www.irit.fr/~Yoann.Pitarch/Docs/M2Stats/2019/tp3_m2se.html)
+
+- [ ] [tp3_m2se_answers](https://www.irit.fr/~Yoann.Pitarch/Docs/M2Stats/2019/tp3_m2se_answers.html)
+
+- [ ] [Y. Pitarch, PhD.](https://www.irit.fr/~Yoann.Pitarch/research.html)
+
+- [ ] [Y. Pitarch, PhD.](https://www.irit.fr/~Yoann.Pitarch/teaching.html)
+
+- [ ] [Chapter 13. Orienting Ideas in Leadership | Section 3. Styles of Leadership | Main Section | Community Tool Box](https://ctb.ku.edu/en/table-of-contents/leadership/leadership-ideas/leadership-styles/main)
+
+- [ ] [Benjamin H. Griswold III, Class of 1933, Center for Economic Policy Studies](https://gceps.princeton.edu/)
+
+- [ ] [The Problem With Inequality, According to Adam Smith - The Atlantic](https://www.theatlantic.com/business/archive/2016/06/the-problem-with-inequality-according-to-adam-smith/486071/)
+
+- [ ] [Pablo Escobar's Brother Roberto Is Releasing A Foldable Smartphone | Digital Trends](https://www.digitaltrends.com/mobile/pablo-escobar-brother-roberto-folding-smartphone/)
+
+- [ ] [scholar.harvard.edu](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/yuhuawang)
+
+- [ ] [Official Strike Notice and Guidelines | HGSU-UAW](http://harvardgradunion.org/strike/officialstrikenotice/)
+
+- [ ] [Welcome to IBV International Vaults - International Bank Vaults](https://www.internationalvaults.com/)
+
+- [ ] [Kittyconomics – An educational excuse to watch cat videos](https://kittyconomics.com/)
+
+- [ ] [Brazil has nearly 60,000 murders a year - here's a map to put that number in perspective - Metrocosm](http://metrocosm.com/homicides-brazil-vs-world/)
+
+- [ ] [Pedestrian Observations | For Walkability and Good Transit, and Against Boondoggles and Pollution](https://pedestrianobservations.com/)
+
+- [ ] [The 100 Best Recordings of 2019](http://www.tedgioia.com/bestalbumsof2019.html)
+
+- [ ] [The 100 Best Recordings of 2019](http://www.tedgioia.com/bestalbumsof2019.html)
+
+- [ ] [Trading Places: Tron soils Poloniex, Coinbase looks to embrace Wall Street again, and other exchange musings - The Block](https://www.theblockcrypto.com/)
+
+- [ ] [Billionaires only, please! London vault for the ultra-rich opens | News | The Guardian](https://www.theguardian.com/news/2019/dec/01/billionaires-only-please-london-vault-for-the-ultra-rich-opens-its-doors?)
+
+- [ ] [New book claims Albert Camus was murdered by the KGB | Books | The Guardian](https://www.theguardian.com/books/2019/dec/05/albert-camus-murdered-by-the-kgb-giovanni-catelli?CMP=Share_iOSApp_Other)
+
+- [ ] [Cats’ Faces Hard to Read, Except for ‘Cat Whisperers,’ U of G Research Finds   | U of G News](https://news.uoguelph.ca/2019/12/cats-faces-hard-to-read-except-for-cat-whisperers-u-of-g-research-finds/)
+
+- [ ] [Airline opening restaurant that only serves plane food – Boston News, Weather, Sports | WHDH 7News](https://whdh.com/news/airline-opening-restaurant-that-only-serves-plane-food/)
+
+- [ ] [Airline opening restaurant that only serves plane food – Boston News, Weather, Sports | WHDH 7News](https://whdh.com/news/airline-opening-restaurant-that-only-serves-plane-food/)
+
+- [ ] [Data Visualization in R with ggplot2](https://altaf-ali.github.io/ggplot_tutorial/scales.html)
+
+- [ ] [Create Awesome HTML Table with knitr::kable and kableExtra](http://haozhu233.github.io/kableExtra/awesome_table_in_html.html)
+
+- [ ] [kableExtra](http://haozhu233.github.io/kableExtra/)
+
+- [ ] [kableExtra and Word](http://haozhu233.github.io/kableExtra/kableExtra_and_word.html)
+
+- [ ] [kableExtra in other rmarkdown HTML themes](http://haozhu233.github.io/kableExtra/kableExtra_in_other_HTML_themes.html)
+
+- [ ] [Use kable in Shiny](http://haozhu233.github.io/kableExtra/use_kable_in_shiny.html)
+
+- [ ] [Use kableExtra with formattable](http://haozhu233.github.io/kableExtra/use_kableExtra_with_formattable.html)
+
+- [ ] [Effects of Immersive Virtual Reality Headset Viewing on Young Children: Visuomotor Function, Postural Stability, and Motion Sickness - American Journal of Ophthalmology](https://www.ajo.com/article/S0002-9394(19)30381-2/fulltext?fbclid=IwAR1CHoyaUumD4QAu68ckrF61cj-BkaoZLOZUHD3o9f9ide7EP2D1cXlr4bM#.XemZeOoRY1U.twitter)
+
+- [ ] [Eric Chyn](http://www.ericchyn.com/)
+
+- [ ] [Eric Chyn](http://www.ericchyn.com/)
+
+- [ ] [Media](http://www.ericchyn.com/media/)
+
+- [ ] [Decision Trees in R – Learn by Marketing](http://www.learnbymarketing.com/tutorials/rpart-decision-trees-in-r/)
+
+- [ ] [Decision Trees in R – Learn by Marketing](http://www.learnbymarketing.com/tutorials/rpart-decision-trees-in-r/)
+
+- [ ] [Episode 2: Eric Chyn — Probable Causation](https://www.probablecausation.com/podcasts/episode-2-eric-chyn)
+
+- [ ] [When the Poor Move, Do They Move Up? - The American Prospect](https://prospect.org/economy/poor-move-move-up/)
+
+- [ ] [Trees with the rpart package | R-bloggers](https://www.r-bloggers.com/trees-with-the-rpart-package/)
+
+- [ ] [predict.rpart: Predictions from a Fitted Rpart Object in rpart: Recursive Partitioning and Regression Trees](https://rdrr.io/cran/rpart/man/predict.rpart.html)
+
+- [ ] [Draw nicer Classification and Regression Trees with the rpart.plot package (Revolutions)](https://blog.revolutionanalytics.com/2013/06/plotting-classification-and-regression-trees-with-plotrpart.html)
+
+- [ ] [Quick-R: Tree-Based Models](https://www.statmethods.net/advstats/cart.html)
+
+- [ ] [A new way to make quadratic equations easy - MIT Technology Review](https://www.technologyreview.com/s/614775/a-new-way-to-make-quadratic-equations-easy/)
+
+- [ ] [Machine learning has revealed exactly how much of a Shakespeare play was written by someone else - MIT Technology Review](https://www.technologyreview.com/s/614742/machine-learning-has-revealed-exactly-how-much-of-a-shakespeare-play-was-written-by-someone/?utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement&utm_source=Twitter#Echobox=1575293995)
+
+- [ ] [TensorFlow Hub](https://www.tensorflow.org/hub)
+
+- [ ] [Washington Post: Breaking News, World, US, DC News & Analysis - The Washington Post](https://www.washingtonpost.com/)
+
+- [ ] [A gentle introduction to decision trees using R | Eight to Late](https://eight2late.wordpress.com/2016/02/16/a-gentle-introduction-to-decision-trees-using-r/)
+
+- [ ] [What Seattle’s WTO Protests Mean 20 Years Later - CityLab](https://www.citylab.com/life/2019/11/seattle-wto-world-trade-organization-protest-riot-1999/602806/?utm_source=facebook&utm_medium=social&utm_campaign=citylab&utm_content=edit-promo-photo&fbclid=IwAR1DE04FDctszhrH4udBtusKJTImEoXD5-Y4VJvhlj4zrRPh2BYXgjttOEk)
+
+- [ ] [Why Climate Strike Protesters Targeted Amazon Go - CityLab](https://www.citylab.com/environment/2019/09/climate-strike-san-francisco-amazon-go-store-signs/598516/)
+
+- [ ] [Classy Vision · An end-to-end framework for image and video classification](https://classyvision.ai/?fbclid=IwAR1CGdB_6P7AIK5BwrvayCoIyl76ts81LmL3bs_5t9_n6N1QoaDNk51d6nM)
+
+- [ ] [What really happened during the Battle in Seattle? | Crosscut](https://crosscut.com/podcast/crosscut-talks/1/28/what-really-happened-during-battle-seattle)
+
+- [ ] [Are freestanding tubs a trend? - Curbed](https://www.curbed.com/2019/12/4/20993584/freestanding-bathtubs-design-trends-cost)
+
+- [ ] [Supervised Learning with scikit-learn | DataCamp](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?fbclid=IwAR2H-vWAyJQ6LPeaDRkcxEuyLwzsf1Rtzfr6pIdfb7nf3DItKjHWeWi7qsU)
+
+- [ ] [Supervised Learning with scikit-learn | DataCamp](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?fbclid=IwAR2o9brTh_a8bzVIcf2r_bC6-ezE8CvODX0K1xDWghSi8Y_WMMhJ6pbA8Ug)
+
+- [ ] [The Mindful Elite: Mobilizing from the Inside Out by Jaime Kucinskas: New 9780190881818 | eBay](https://www.ebay.com/itm/The-Mindful-Elite-Mobilizing-from-the-Inside-Out-by-Jaime-Kucinskas-New-/283258101056)
+
+- [ ] [www.forbes.com](https://www.forbes.com/)
+
+- [ ] [(89) CityLab - 帖子](https://www.facebook.com/thisiscitylab/photos/a.461534327210030/3028163087213795/?type=3&theater)
+
+- [ ] [Section on Altruism Morality and Social Solidarity - NEW BOOK: The Mindful Elite: Mobilizing from the inside Out, by Kucinskas](https://sites.google.com/site/altruismmoralitysolidarity/blog/new-book-the-mindful-elite-mobilizing-from-the-inside-out-by-kucinskas)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/Even%20if%20free%20trade%20remains%20a%20central%20issue%20in%20the%20political%20arena%2C%20today%E2%80%99s%20protest%20movements%20have%20become%20more%20insular%20than%20they%20were%2020%20years%20ago.)
+
+- [ ] [Kucinskas Publishes The Mindful Elite - News - Hamilton College](https://www.hamilton.edu/news/story/meditation-jaime-kucinskas-publishes-the-mindful-elite)
+
+- [ ] [Home - How Equipment Works](https://www.howequipmentworks.com/)
+
+- [ ] [Books — Jaime Kucinskas](https://www.jaimekucinskas.com/books)
+
+- [ ] [Michael Stepner | Job Market Paper](https://michaelstepner.com/jmp/)
+
+- [ ] [Episode 14: Jaime Kucinskas - The Mindful Elite — The Mindful Cranks](http://www.mindfulcranks.com/episode-14-jaime-kucinskas-the-mindful-elite)
+
+- [ ] [The Mindful Elite and Bringing Spirituality to Work - Mindful Leader](https://www.mindfulleader.org/blog/28432-the-mindful-elite-and-bringing)
+
+- [ ] [The Mindful Elite: Mobilizing from the Inside Out | New Books Network](https://newbooksnetwork.com/product/the-mindful-elite-mobilizing-from-the-inside-out/)
+
+- [ ] [Book Review: The Mindful Elite – Organizations, Occupations and Work](https://oowsection.org/2019/06/30/book-review-the-mindful-elite/)
+
+- [ ] [The Spokescouncil: A decision-making process for large groups - Seeds for Change](https://seedsforchange.org.uk/spokescouncil)
+
+- [ ] [The Mindful Elite - Jaime Kucinskas - Oxford University Press](https://global.oup.com/academic/product/the-mindful-elite-9780190881818?cc=us&lang=en&)
+
+- [ ] [Mindful Elite: Mobilizing from the Inside Out - Oxford Scholarship](https://www.oxfordscholarship.com/view/10.1093/oso/9780190881818.001.0001/oso-9780190881818)
+
+- [ ] [The Life and Death of the Infernal Noise Brigade by Making Contact on PRX](https://beta.prx.org/stories/52987-the-life-and-death-of-the-infernal-noise-brigade)
+
+- [ ] [Episode 14 - Jaime Kucinskas - The Mindful Elite - The Mindful Cranks | Podcast on Spotify](https://open.spotify.com/episode/5XoVcaEsVCkGd8tibtcCJ4)
+
+- [ ] [How Black Blocs have changed protest movements around the world](http://theconversation.com/how-black-blocs-have-changed-protest-movements-around-the-world-80856)
+
+- [ ] [file-20170823-13303-qabi61.jpg (1356×668)](https://images.theconversation.com/files/183171/original/file-20170823-13303-qabi61.jpg?ixlib=rb-1.1.0&rect=0%2C76%2C4548%2C2211&q=45&auto=format&w=1356&h=668&fit=crop)
+
+- [ ] [US-China Business Council](https://www.uschina.org/)
+
+- [ ] [The mindful elite : mobilizing from the inside out (Book, 2019) [WorldCat.org]](https://www.worldcat.org/title/mindful-elite-mobilizing-from-the-inside-out/oclc/1040073902)
+
+- [ ] [Python | Difference between two lists - GeeksforGeeks](https://www.geeksforgeeks.org/python-difference-two-lists/)
+
+- [ ] [Python Set | difference() - GeeksforGeeks](https://www.geeksforgeeks.org/python-set-difference/)
+
+- [ ] [8.7. sets — Unordered collections of unique elements — Python 2.7.17 documentation](https://docs.python.org/2/library/sets.html)
+
+- [ ] [numpy.setdiff1d — NumPy v1.13 Manual](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.setdiff1d.html)
+
+- [ ] [https://bookdown.org/lyzhang10/](https://bookdown.org/lyzhang10/)
+
+- [ ] [Aggregating and analyzing data with dplyr](https://datacarpentry.org/dc_zurich/R-ecology/04-dplyr.html)
+
+- [ ] [Chapter 4 Descriptive statistics and data manipulation | Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/descriptive-statistics-and-data-manipulation.html)
+
+- [ ] [Functional programming and unit testing for data munging with R](https://b-rodrigues.github.io/fput/tidyverse.html)
+
+- [ ] [It is Needlessly Difficult to Count Rows Using dplyr | R-bloggers](https://www.r-bloggers.com/it-is-needlessly-difficult-to-count-rows-using-dplyr/)
+
+- [ ] [Data Wrangling Part 4: Summarizing and slicing your data](https://suzan.rbind.io/2018/04/dplyr-tutorial-4/)
+
+- [ ] [tally: Count/tally observations by group in dplyr: A Grammar of Data Manipulation](https://rdrr.io/cran/dplyr/man/tally.html)
+
+- [ ] [Re-Tallying With tally() - tidyverse - RStudio Community](https://community.rstudio.com/t/re-tallying-with-tally/46575)
+
+- [ ] [Count/tally observations by group — tally • dplyr](https://dplyr.tidyverse.org/reference/tally.html)
+
+- [ ] [Final Project Report - Practical Machine Learning](https://rstudio-pubs-static.s3.amazonaws.com/137966_095709c777954b59ba621951ba322ab6.html)
+
+- [ ] [MR: Matches for: MR=1425956](https://mathscinet.ams.org/mathscinet-getitem?mr=1425956)
+
+- [ ] [Alexa Crawls : Free Web : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/alexacrawls)
+
+- [ ] [500 Internal Privoxy Error](http://ect.bell-labs.com/who/tkh/publications/papers/compare.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://ect.bell-labs.com/who/tkh/)
+
+- [ ] [500 Internal Privoxy Error](http://ect.bell-labs.com/who/tkh/publications/papers/df.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://ect.bell-labs.com/who/tkh/publications/papers/odt.pdf)
+
+- [ ] [500 Internal Privoxy Error](http://oz.berkeley.edu/~breiman/)
+
+- [ ] [Random forests - classification description](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
+
+- [ ] [An Intuitive (and Short) Explanation of Bayes’ Theorem – BetterExplained](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
+
+- [ ] [[Notes] SHAP Values · Life is short](https://blog.ceshine.net/post/shap/)
+
+- [ ] [BorutaPy – an all relevant feature selection method | Daniel Homola](http://danielhomola.com/2015/05/08/borutapy-an-all-relevant-feature-selection-method/?source=post_page-----47f187c1a2c3----------------------)
+
+- [ ] [BorutaPy – an all relevant feature selection method | Daniel Homola](http://danielhomola.com/2015/05/08/borutapy-an-all-relevant-feature-selection-method/)
+
+- [ ] [Selecting good features – Part III: random forests | Diving into data](https://blog.datadive.net/selecting-good-features-part-iii-random-forests/)
+
+- [ ] [Gradient Boosting: Visual Conceptualization | Dimensionless Technogolies](https://dimensionless.in/gradient-boosting/)
+
+- [ ] [How is Variable Importance Calculated for a Random Forest? | Displayr](https://www.displayr.com/how-is-variable-importance-calculated-for-a-random-forest/)
+
+- [ ] [Forking into China - Microsoft’s GitHub mulls expansion in China | Business | The Economist](https://amp.economist.com/business/2019/12/06/microsofts-github-mulls-expansion-in-china)
+
+- [ ] [Time to come out! scikit-learn 0.22 – Scikit-Learn](https://scikit-learn.fondation-inria.fr/time-to-come-out/)
+
+- [ ] [Feature Selection with the Boruta Package | Kursa | Journal of Statistical Software](https://www.jstatsoft.org/article/view/v036i11)
+
+- [ ] [revival of the Gini importance? | Bioinformatics | Oxford Academic](https://academic.oup.com/bioinformatics/article/34/21/3711/4994791)
+
+- [ ] [Human Activity Recognition](http://groupware.les.inf.puc-rio.br/har)
+
+- [ ] [Be Aware of Bias in RF Variable Importance Metrics | R-bloggers](https://www.r-bloggers.com/be-aware-of-bias-in-rf-variable-importance-metrics/)
+
+- [ ] [CRAN - Package plotmo](https://cran.r-project.org/web/packages/plotmo/index.html)
+
+- [ ] [(18) (PDF) Random Forests for Poverty Classification](https://www.researchgate.net/publication/264785074_Random_Forests_for_Poverty_Classification/figures?lo=1)
+
+- [ ] [(18) (PDF) Random Multiclass Classification: Generalizing Random Forests to Random MNL and Random NB](https://www.researchgate.net/publication/225175169_Random_Multiclass_Classification_Generalizing_Random_Forests_to_Random_MNL_and_Random_NB)
+
+- [ ] [Understanding random forests with randomForestExplainer](https://cran.rstudio.com/web/packages/randomForestExplainer/vignettes/randomForestExplainer.html)
+
+- [ ] [Stochastic discrimination | Semantic Scholar](https://www.semanticscholar.org/paper/Stochastic-discrimination-Kleinberg/9e17404fbd76d3067a4e31c3309aa5c6333720c2)
+
+- [ ] [Integrating life history traits into predictive phylogeography - Sullivan - 2019 - Molecular Ecology - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15029)
+
+- [ ] [print.rpart function | R Documentation](https://www.rdocumentation.org/packages/rpart/versions/4.1-15/topics/print.rpart)
+
+- [ ] [rpart function | R Documentation](https://www.rdocumentation.org/packages/rpart/versions/4.1-15/topics/rpart)
+
+- [ ] [rpart.control function | R Documentation](https://www.rdocumentation.org/packages/rpart/versions/4.1-15/topics/rpart.control)
+
+- [ ] [rpart.object function | R Documentation](https://www.rdocumentation.org/packages/rpart/versions/4.1-15/topics/rpart.object)
+
+- [ ] [summary.rpart function | R Documentation](https://www.rdocumentation.org/packages/rpart/versions/4.1-15/topics/summary.rpart)
+
+- [ ] [www.appstate.edu/~whiteheadjc/service/logit/intro.htm](http://www.appstate.edu/~whiteheadjc/service/logit/intro.htm)
+
+- [ ] [Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+
+- [ ] [How to Interpret Logistic Regression Coefficients | Displayr](https://www.displayr.com/how-to-interpret-logistic-regression-coefficients/)
+
+- [ ] [Confusion Matrix in Machine Learning - GeeksforGeeks](https://www.geeksforgeeks.org/confusion-matrix-machine-learning/)
+
+- [ ] [Logistic Regression with a Neural Networks Mindset · Sachin Malhotra](https://edorado93.github.io/2018/09/07/Logistic-Regression-with-a-Neural-Networks-Mindset-9b5526c2ed46/)
+
+- [ ] [Google Scholar - Create alert](https://scholar.google.com/scholar_alerts?view_op=alert_captcha&hl=en&user=uZg9l58AAAAJ&citft=1&email_for_op=pengch0308%2Bnlp%40gmail.com)
+
+- [ ] [Machine Learning with Python: Confusion Matrix in Machine Learning with Python](https://www.python-course.eu/confusion_matrix.php)
+
+- [ ] [confusion function | R Documentation](https://www.rdocumentation.org/packages/DAAG/versions/1.22.1/topics/confusion)
+
+- [ ] [Logistic regression and artificial neural network classification models: a methodology review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1532046403000340)
+
+- [ ] [What is the relation between Logistic Regression and Neural Networks and when to use which?](https://sebastianraschka.com/faq/docs/logisticregr-neuralnet.html)
+
+- [ ] [A Beginner's Guide to Logistic Regression For Machine Learning | Skymind](https://skymind.ai/wiki/logistic-regression)
+
+- [ ] [The Stanford Natural Language Processing Group](https://nlp.stanford.edu/)
+
+- [ ] [Stata Journal | Article](https://www.stata-journal.com/article.html?article=st0394)
+
+- [ ] [Explaining Logistic Regression Results to Non-Statistical Audiences - The Analysis Factor](https://www.theanalysisfactor.com/explaining-logistic-regression/)
+
+- [ ] [Interpreting the Intercept in a Regression Model - The Analysis Factor](https://www.theanalysisfactor.com/interpreting-the-intercept-in-a-regression-model/)
+
+- [ ] [FAQ: How do I interpret odds ratios in logistic regression?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
+
+- [ ] [Computational Linguistics I ·](http://www.cs.umd.edu/class/fall2017/cmsc723/)
+
+- [ ] [Why a Neural Network is Always Better than Logistic Regression | James D. McCaffrey](https://jamesmccaffrey.wordpress.com/2018/07/07/why-a-neural-network-is-always-better-than-logistic-regression/)
+
+- [ ] [Preprocessing in Data Science (Part 1) (article) - DataCamp](https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-1-centering-scaling-and-knn)
+
+- [ ] [Understanding Confusion Matrix in R (article) - DataCamp](https://www.datacamp.com/community/tutorials/confusion-matrix-calculation-r)
+
+- [ ] [Course | DSA Foundation - Live](https://practice.geeksforgeeks.org/courses/dsa-foundation-live?utm_source=geeksforgeeks&utm_medium=banner&utm_campaign=GFG_Right_Top_DSAFL)
+
+- [ ] [3.2.4.3.1. sklearn.ensemble.RandomForestClassifier — scikit-learn 0.22 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+
+- [ ] [Google AI Blog: App Discovery with Google Play, Part 1: Understanding Topics](https://ai.googleblog.com/2016/11/app-discovery-with-google-play-part-1.html)
+
+- [ ] [Analyze BigQuery data with Kaggle Kernels notebooks | Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/analyze-bigquery-data-with-kaggle-kernels-notebooks)
+
+- [ ] [Setting Up Kaggle in Google Colab - Towards Data Science](https://towardsdatascience.com/setting-up-kaggle-in-google-colab-ebb281b61463)
+
+- [ ] [nareshkumar66675/Appomania: Andoid and iOS App Store Analysis](https://github.com/nareshkumar66675/Appomania)
+
+- [ ] [Mobile App Store ( 7200 apps) | Kaggle](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps#AppleStore.csv)
+
+- [ ] [Google Play Store Apps | Kaggle](https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore.csv)
+
+- [ ] [Data Science Project: Profitable App Profiles for App Store and Google Play – Dataquest](https://www.dataquest.io/blog/basic-data-science-portfolio-project-tutorial/)
+
+- [ ] [Analysis of Apps in the Google Play Store | NYC Data Science Academy Blog](https://nycdatascience.com/blog/student-works/web-scraping/analysis-of-apps-in-the-google-play-store/)
+
+- [ ] [Google Play Store – Everything that you need to know about the Android market | NYC Data Science Academy Blog](https://nycdatascience.com/blog/student-works/google-play-store-everything-that-you-need-to-know-about-the-android-market/)
+
+- [ ] [Data Science Tutorial: Analysis Of The Google Play Store Dataset](https://medium.com/the-research-nest/data-science-tutorial-analysis-of-the-google-play-store-dataset-c720330d4903)
+
+- [ ] [Self-Learning Data Science.pdf - Google Drive](https://drive.google.com/file/d/1I4iaPYr0N8dolDxOwPi_b_4av0DJV_t3/view?usp=sharing)
+
+- [ ] [drive.google.com](https://drive.google.com/file/d/1I4iaPYr0N8dolDxOwPi_b_4av0DJV_t3/view?usp=sharing)
+
+- [ ] [Linear Regression Possible with this? | Kaggle](https://www.kaggle.com/lava18/google-play-store-apps/discussion/103760)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [Generalized Linear Model (GLM) — H2O 3.26.0.11 documentation](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glm.html)
+
+- [ ] [Logistic Regression in R Tutorial (article) - DataCamp](https://www.datacamp.com/community/tutorials/logistic-regression-R)
+
+- [ ] [Chapter 26 The General Linear Model | Statistical Thinking for the 21st Century](http://statsthinking21.org/the-general-linear-model.html)
+
+- [ ] [Multiple Regression with Many Predictor Variables](https://psychstat3.missouristate.edu/Documents/MultiBook3/Mlt06.htm)
+
+- [ ] [support.sas.com](https://support.sas.com/resources/papers/proceedings/proceedings/sugi29/191-29.pdf)
+
+- [ ] [Regression, Prediction and Shrinkage on JSTOR](https://www.jstor.org/stable/2345402)
+
+- [ ] [JSTOR: Read Online-Journal of the Royal Statistical Society. Series B (Methodological)](https://www.jstor.org/stable/2345402?item_view=read_online)
+
+- [ ] [JSTOR: Read Online-Journal of the Royal Statistical Society. Series B (Methodological)](https://www.jstor.org/stable/2345402?item_view=read_online)
+
+- [ ] [Using regression models for prediction: shrinkage and regression to the mean. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/9261914)
+
+- [ ] [CIS - Regression, prediction and shrinkage (with discussion)](https://www.statindex.org/articles/51808)
+
+- [ ] [Data Science and Predictive Analytics (UMich HS650)](http://www.socr.umich.edu/people/dinov/courses/DSPA_notes/17_RegularizedLinModel_KnockoffFilter.html)
+
+- [ ] [pdfs.semanticscholar.org](https://pdfs.semanticscholar.org/185b/ccb80d34730531c1adeedf1454d66f355d1b.pdf)
+
+- [ ] [arxiv.org](https://arxiv.org/pdf/1509.09169)
+
+- [ ] [res.mdpi.com](https://res.mdpi.com/d_attachment/make/make-01-00021/article_deploy/make-01-00021-v3.pdf)
+
+- [ ] [Alan Agresti Personal Home Page](http://users.stat.ufl.edu/~aa/)
+
+- [ ] [www.guru99.com](https://www.guru99.com/r-generalized-linear-model.html)
+
+- [ ] [Introduction to Generalized Linear Models in R - ODSC - Open Data Science - Medium](https://medium.com/@ODSC/introduction-to-generalized-linear-models-in-r-aa3e46e71a1)
+
+- [ ] [Interpreting Generalized Linear Models | R-bloggers](https://www.r-bloggers.com/interpreting-generalized-linear-models/)
+
+- [ ] [Generalized Linear Models in R](http://plantecology.syr.edu/fridley/bio793/glm.html)
+
+- [ ] [General Linear Models The Basics | R-bloggers](https://www.r-bloggers.com/general-linear-models-the-basics/)
+
+- [ ] [Sow the seeds, know the seeds · Maëlle's R Blog](https://masalmon.eu/2017/04/12/seeds/)
+
+- [ ] [Ecological Models and Data in R | Princeton University Press](https://press.princeton.edu/books/hardcover/9780691125220/ecological-models-and-data-in-r)
+
+- [ ] [seascapemodels](http://www.seascapemodels.org/code.html)
+
+- [ ] [Generalized Linear Models in R | DataCamp](https://www.datacamp.com/courses/generalized-linear-models-in-r)
+
+- [ ] [Generalized Linear Models (GLMs) in R, Part 4: Options, Link Functions, and Interpretation - The Analysis Factor](https://www.theanalysisfactor.com/generalized-linear-models-glm-r-part4/)
+
+- [ ] [Generalized Linear Models in R, Part 6: Poisson Regression for Count Variables - The Analysis Factor](https://www.theanalysisfactor.com/generalized-linear-models-in-r-part-6-poisson-regression-count-variables/)
+
+- [ ] [Generalized Linear Models in R, Part 5: Graphs for Logistic Regression - The Analysis Factor](https://www.theanalysisfactor.com/generalized-linear-models-r-graphs/)
+
+- [ ] [Generalized Linear Models in R, Part 7: Checking for Overdispersion in Count Regression - The Analysis Factor](https://www.theanalysisfactor.com/glm-r-overdispersion-count-regression/)
+
+- [ ] [6.1 - Introduction to Generalized Linear Models | STAT 504](https://newonlinecourses.science.psu.edu/stat504/node/216/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [number of fisher scoring iterations meaning - Google Search](https://www.google.com/search?q=number+of+fisher+scoring+iterations+meaning&oq=Number+of+Fisher+Scoring+iterations+&aqs=chrome.1.69i57j0l7.2575j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [htmlcss.ps8.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://statmath.wu.ac.at/courses/data-analysis/lectures/htmlcss.ps8.pdf)
+
+- [ ] [htmlcss.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://statmath.wu.ac.at/courses/data-analysis/lectures/htmlcss.pdf)
+
+- [ ] [[1402.4293] The Random Forest Kernel and other kernels for big data from random partitions](https://arxiv.org/abs/1402.4293)
+
+- [ ] [[1407.3939] Analysis of purely random forests bias](https://arxiv.org/abs/1407.3939)
+
+- [ ] [Mathematics](https://arxiv.org/archive/math.ST)
+
+- [ ] [Statistics](https://arxiv.org/archive/stat.ML)
+
+- [ ] [Collinearity Diagnostics, Model Fit & Variable Contribution](https://cran.r-project.org/web/packages/olsrr/vignettes/regression_diagnostics.html)
+
+- [ ] [CRAN - Package party](https://cran.r-project.org/web/packages/party/index.html)
+
+- [ ] [CRAN - Package randomForest](https://cran.r-project.org/web/packages/randomForest/index.html)
+
+- [ ] [Modelling the Quality of Attributes in Wikipedia Infoboxes | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-319-26762-3_27)
+
+- [ ] [Quality and Importance of Wikipedia Articles in Different Languages | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-319-46254-7_50)
+
+- [ ] [Random Forests | SpringerLink](https://link.springer.com/article/10.1023%2FA%3A1010933404324)
+
+- [ ] [Tell me more](https://dl.acm.org/citation.cfm?doid=2491055.2491063)
+
+- [ ] [Kleinberg : An overtraining-resistant stochastic modeling method for pattern recognition](https://projecteuclid.org/euclid.aos/1032181157)
+
+- [ ] [Kleinberg : An overtraining-resistant stochastic modeling method for pattern recognition](https://projecteuclid.org/euclid.aos/1032181157)
+
+- [ ] [Randomforest - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/mathematics/randomforest)
+
+- [ ] [www.sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S1062976918301005)
+
+- [ ] [Practical Tutorial on Random Forest and Parameter Tuning in R Tutorials & Notes | Machine Learning | HackerEarth](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/tutorial-random-forest-parameter-tuning-r/tutorial/)
+
+- [ ] [root-01.jpg (1200×901)](https://www.hackerearth.com/blog/wp-content/uploads/2016/12/root-01.jpg)
+
+- [ ] [Classification and interaction in random forests](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5828645/)
+
+- [ ] [Click on image to zoom](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=5828645_pnas.1800256115fig01.jpg)
+
+- [ ] [Active Shape Models with Stasm](http://www.milbo.users.sonic.net/stasm/index.html)
+
+- [ ] [Active Shape Models with Stasm](http://www.milbo.users.sonic.net/stasm/index.html)
+
+- [ ] [Active Shape Models with Stasm](http://www.milbo.users.sonic.net/stasm/index.html)
+
+- [ ] [Graph Gallery](http://www.milbo.users.sonic.net/gallery/index.html)
+
+- [ ] [Graph Gallery](http://www.milbo.users.sonic.net/gallery/index.html)
+
+- [ ] [Multivariate Adaptive Regression Splines](http://www.milbo.users.sonic.net/earth/index.html)
+
+- [ ] [Multivariate Adaptive Regression Splines](http://www.milbo.users.sonic.net/earth/index.html)
+
+- [ ] [Multivariate Adaptive Regression Splines](http://www.milbo.users.sonic.net/earth/index.html)
+
+- [ ] [Ra, the R just-in-time compiler](http://www.milbo.users.sonic.net/ra/index.html)
+
+- [ ] [Landmarked 2D face databases](http://www.milbo.org/muct/other-databases.html)
+
+- [ ] [MUCT Details](http://www.milbo.org/muct/muct-details.html)
+
+- [ ] [The MUCT Face Database](http://www.milbo.org/muct/index.html)
+
+- [ ] [The MUCT Face Database](http://www.milbo.org/muct/index.html)
+
+- [ ] [The MUCT Face Database](http://www.milbo.org/muct/index.html)
+
+- [ ] [‘Variable Importance Plot’ and Variable Selection | Freakonometrics](https://freakonometrics.hypotheses.org/19835)
+
+- [ ] [rpart | Freakonometrics](https://freakonometrics.hypotheses.org/tag/rpart)
+
+- [ ] [Spliting a Node in a Tree | Freakonometrics](https://freakonometrics.hypotheses.org/19458)
+
+- [ ] [[1911.09070] EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
+
+- [ ] [(73) National Committee on U.S.-China Relations: Overview | LinkedIn](https://www.linkedin.com/company/ncuscr/)
+
+- [ ] [(73) Principles for Lifelong Meaningful Relationships | LinkedIn](https://www.linkedin.com/pulse/principles-lifelong-meaningful-relationships-ray-dalio/)
+
+- [ ] [(73) Ray Dalio | LinkedIn](https://www.linkedin.com/in/raydalio/detail/recent-activity/shares/)
+
+- [ ] [(73) Ray Dalio | LinkedIn](https://www.linkedin.com/in/raydalio/detail/recent-activity/shares/)
+
+- [ ] [(73) Ray Dalio | LinkedIn](https://www.linkedin.com/in/raydalio/detail/recent-activity/shares/)
+
+- [ ] [(73) Ray Dalio | LinkedIn](https://www.linkedin.com/in/raydalio/detail/recent-activity/shares/)
+
+- [ ] [(73) Ray Dalio | LinkedIn](https://www.linkedin.com/in/raydalio/detail/recent-activity/shares/)
+
+- [ ] [(73) To have both the money you need and the job you want, you have to be creative and flexible. | LinkedIn](https://www.linkedin.com/pulse/have-both-money-you-need-job-want-creative-flexible-ray-dalio/)
+
+- [ ] [(73) LinkedIn Top Voices 2019: U.S. Influencers | LinkedIn](https://www.linkedin.com/pulse/linkedin-top-voices-2019-us-influencers-daniel-roth/)
+
+- [ ] [(105) Can you explain Bayesian Model Averaging in layman's terms? - Quora](https://www.quora.com/Can-you-explain-Bayesian-Model-Averaging-in-laymans-terms)
+
+- [ ] [(105) Can you explain Bayesian Model Averaging in layman's terms? - Quora](https://www.quora.com/Can-you-explain-Bayesian-Model-Averaging-in-laymans-terms)
+
+- [ ] [(105) Can you explain what a mandelbrot is in layman's terms? - Quora](https://www.quora.com/Can-you-explain-what-a-mandelbrot-is-in-laymans-terms)
+
+- [ ] [(105) How do you explain ‘mean decrease accuracy’ and ‘mean decrease gini’ in layman’s terms? - Quora](https://www.quora.com/How-do-you-explain-%E2%80%98mean-decrease-accuracy%E2%80%99-and-%E2%80%98mean-decrease-gini%E2%80%99-in-layman%E2%80%99s-terms)
+
+- [ ] [(105) How do you explain Bayesian Nonparametrics in layman's term? - Quora](https://www.quora.com/How-do-you-explain-Bayesian-Nonparametrics-in-laymans-term)
+
+- [ ] [(105) How do you explain Bayesian Nonparametrics in layman's term? - Quora](https://www.quora.com/How-do-you-explain-Bayesian-Nonparametrics-in-laymans-term)
+
+- [ ] [(105) How would you explain the Shapley value in layman’s terms? - Quora](https://www.quora.com/How-would-you-explain-the-Shapley-value-in-layman%E2%80%99s-terms)
+
+- [ ] [(105) What do Ramsey's theorem & Bayes' theorem mean in layman's terms? - Quora](https://www.quora.com/What-do-Ramseys-theorem-Bayes-theorem-mean-in-laymans-terms)
+
+- [ ] [(105) What does Bell's inequality mean, in layman's terms? - Quora](https://www.quora.com/What-does-Bells-inequality-mean-in-laymans-terms)
+
+- [ ] [(105) What does support vector machine (SVM) mean in layman's terms? - Quora](https://www.quora.com/What-does-support-vector-machine-SVM-mean-in-laymans-terms)
+
+- [ ] [(105) What is an intuitive explanation for the expectation maximization (EM) algorithm? - Quora](https://www.quora.com/What-is-an-intuitive-explanation-for-the-expectation-maximization-EM-algorithm)
+
+- [ ] [(105) What is GARCH in layman's terms? - Quora](https://www.quora.com/What-is-GARCH-in-laymans-terms)
+
+- [ ] [(105) What is the difference between the mean decrease accuracy and the Gini index? - Quora](https://www.quora.com/What-is-the-difference-between-the-mean-decrease-accuracy-and-the-Gini-index)
+
+- [ ] [(105) What is the difference between the mean decrease accuracy and the Gini index? - Quora](https://www.quora.com/What-is-the-difference-between-the-mean-decrease-accuracy-and-the-Gini-index)
+
+- [ ] [(109) Is it worth using neural networks to approach binary classification problems, or is it better to use logistic regression? - Quora](https://www.quora.com/Is-it-worth-using-neural-networks-to-approach-binary-classification-problems-or-is-it-better-to-use-logistic-regression)
+
+- [ ] [(109) Le Khoi Phong - Quora](https://www.quora.com/profile/Le-Khoi-Phong)
+
+- [ ] [(109) What is the difference between neural network and logistic regression? - Quora](https://www.quora.com/What-is-the-difference-between-neural-network-and-logistic-regression)
+
+- [ ] [(109) When should we use logistic regression and Neural Network? - Quora](https://www.quora.com/When-should-we-use-logistic-regression-and-Neural-Network)
+
+- [ ] [CS124 - From Languages to Information (Winter 2020)](http://web.stanford.edu/class/cs124/)
+
+- [ ] [Dan Jurafsky's Language of Food Publications](http://web.stanford.edu/~jurafsky/foodpubs.html)
+
+- [ ] [Dan Jurafsky's Publications](http://web.stanford.edu/~jurafsky/media.html)
+
+- [ ] [LINGUIST 197 - Undergraduate Research Seminar (Winter 2019)](http://web.stanford.edu/class/linguist197a/)
+
+- [ ] [LINGUIST 62N: The Language of Food](http://web.stanford.edu/class/linguist62n/)
+
+- [ ] [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
+
+- [ ] [Speech and Language Processing](http://web.stanford.edu/~jurafsky/slp3/)
+
+- [ ] [The Language of Food: A Linguist Reads the Menu](http://web.stanford.edu/~jurafsky/thelanguageoffood.html)
+
+- [ ] [The Language of Food: A Linguist Reads the Menu](http://web.stanford.edu/~jurafsky/thelanguageoffood.html)
+
+- [ ] [The Language of Food: A Linguist Reads the Menu](http://web.stanford.edu/~jurafsky/thelanguageoffood.html)
+
+- [ ] [web.stanford.edu/~jurafsky/NLPCourseraSlides.html](http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
+
+- [ ] [Where's Dan: Conference and Grant Deadlines](http://web.stanford.edu/~jurafsky/deadlines.html)
+
+- [ ] [The Language of Food: A Linguist Reads the Menu](http://web.stanford.edu/~jurafsky/thelanguageoffood.html)
+
+- [ ] [The Language of Food](http://languageoffood.blogspot.com/)
+
+- [ ] [The Language of Food: Tea if by Sea](http://languageoffood.blogspot.com/2014/08/tea-if-by-sea.html)
+
+- [ ] [On Biostatistics and Clinical Trials: How to interpret odds ratios that are smaller than 1?](http://onbiostatistics.blogspot.com/2012/02/how-to-interpret-odds-ratios-that-are.html)
+
+- [ ] [[Notes] SHAP Values - Ceshine Lee - Medium](https://medium.com/@ceshine/notes-shap-values-a5fc8c844c9a)
+
+- [ ] [52 things I learned in 2019 - Fluxx Studio Notes - Medium](https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2019-8ee483e6c816)
+
+- [ ] [A step-by-step tutorial on coding Neural Network Logistic Regression model from scratch](https://medium.com/@opetundeadepoju/a-step-by-step-tutorial-on-coding-neural-network-logistic-regression-model-from-scratch-5f9025bd3d6)
+
+- [ ] [Daron Acemoglu on the Struggle Between State and Society (Ep. 81)](https://medium.com/conversations-with-tyler/tyler-cowen-daron-acemoglu-history-economics-db440127ba6a?)
+
+- [ ] [David Siegel – Medium](https://medium.com/@pullnews)
+
+- [ ] [David Siegel’s Chocolate Porn - David Siegel - Medium](https://medium.com/@pullnews/david-siegels-chocolate-porn-156f648a69ab)
+
+- [ ] [David Siegel’s Chocolate Porn - David Siegel - Medium](https://medium.com/@pullnews/david-siegels-chocolate-porn-156f648a69ab)
+
+- [ ] [Endogenous Money — Q&A - Val Popov - Medium](https://medium.com/@hpublius/endogenous-money-q-a-725db7f4ed07?)
+
+- [ ] [Feature Importance Measures for Tree Models — Part I](https://medium.com/the-artificial-impostor/feature-importance-measures-for-tree-models-part-i-47f187c1a2c3)
+
+- [ ] [Hidden features of Google Colaboratory - Keshav Aggarwal - Medium](https://medium.com/@Keshav31/colab-features-download-and-upload-e1ec537a83df)
+
+- [ ] [Import Data into Google Colaboratory - Snehal Gharat - Medium](https://medium.com/@snaily16/import-data-into-google-colaboratory-fe80b82e9306)
+
+- [ ] [Joining data with dplyr in R - Holly Emblem - Medium](https://medium.com/@HollyEmblem/joining-data-with-dplyr-in-r-874698eb8898)
+
+- [ ] [Monte Carlo Simulation of Value at Risk in Python - quaintitative - Medium](https://medium.com/quaintitative/monte-carlo-simulation-of-value-at-risk-in-python-c4da3ffe0f18)
+
+- [ ] [The most insightful stories about Gradient Boosting – Medium](https://medium.com/tag/gradient-boosting)
+
+- [ ] [The most insightful stories about Machine Learning – Medium](https://medium.com/tag/machine-learning)
+
+- [ ] [The most insightful stories about Random Forest – Medium](https://medium.com/tag/random-forest)
+
+- [ ] [Bernie Sanders: a linguistic analysis - Vox](https://www.vox.com/2016/2/18/11046650/bernie-sanders-accent)
+
+- [ ] [Supreme Court considers a $12 billion plan to sabotage Obamacare - Vox](https://www.vox.com/2019/12/6/20995871/supreme-court-obamacare-maine-community-moda-health-land-of-lincoln)
+
+- [ ] [Stanford Searchable Map](https://campus-map.stanford.edu/index.cfm?ID=01-460)
+
+- [ ] [Structuring Machine Learning Projects - Home | Coursera](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+
+- [ ] [What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/)
+
+- [ ] [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/chap2.html)
+
+- [ ] [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/chap2.html)
+
+- [ ] [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/optimization-2/)
+
+- [ ] [Home - Keras Documentation](https://keras.io/)
+
+- [ ] [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent) - i am trask](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+
+- [ ] [Quick-R: Home Page](https://www.statmethods.net/)
+
+- [ ] [Statistics How To: Elementary Statistics for the rest of us!](https://www.statisticshowto.datasciencecentral.com/)
+
+- [ ] [Random Trees Ensemble Method Example | solver](https://www.solver.com/random-trees-ensemble-method-example)
+
+- [ ] [Random Forest classification in Excel tutorial | XLSTAT Support Center](https://help.xlstat.com/s/article/random-forest-classification-in-excel-tutorial?language=en_US)
+
+- [ ] [[1200+ Share] What is Random Forest & Learn Random Forest using Excel](https://www.newtechdojo.com/learn-random-forest-using-excel/)
+
+- [ ] [Demystifying Object Detection and Instance Segmentation for Data Scientists](https://mlwhiz.com/blog/2019/12/05/od/)
+
+- [ ] [The Case for Making Artificial Intelligence Conscious](http://nautil.us/issue/47/consciousness/we-need-conscious-robots)
+
+- [ ] [ML@B](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
+
+- [ ] [ML@B](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
+
+- [ ] [5 Reasons “Logistic Regression” should be the first thing you learn when becoming a Data Scientist](https://towardsdatascience.com/5-reasons-logistic-regression-should-be-the-first-thing-you-learn-when-become-a-data-scientist-fcaae46605c4)
+
+- [ ] [Another Twitter sentiment analysis with Python — Part 4 (Count vectorizer, confusion matrix)](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5)
+
+- [ ] [Applied Deep Learning - Part 1: Artificial Neural Networks](https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
+
+- [ ] [Linear regression: Modeling and Assumptions - Towards Data Science](https://towardsdatascience.com/linear-regression-modeling-and-assumptions-dcd7a201502a)
+
+- [ ] [Random Forest Learning-Essential Understanding - Towards Data Science](https://towardsdatascience.com/random-forest-learning-essential-understanding-1ca856a963cb)
+
+- [ ] [Random Forest Learning-Essential Understanding - Towards Data Science](https://towardsdatascience.com/random-forest-learning-essential-understanding-1ca856a963cb)
+
+- [ ] [Scale, Standardize, or Normalize with Scikit-Learn - Towards Data Science](https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02)
+
+- [ ] [Understanding Confusion Matrix - Towards Data Science](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
+
+- [ ] [Verifying the Assumptions of Linear Regression in Python and R](https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0)
+
+- [ ] [Adjacency matrix clustering using spectral (cluster) network in Python - Stack Overflow](https://stackoverflow.com/questions/23117712/adjacency-matrix-clustering-using-spectral-cluster-network-in-python)
+
+- [ ] [Combine two tables in R - Stack Overflow](https://stackoverflow.com/questions/49704652/combine-two-tables-in-r)
+
+- [ ] [Error in zero inflated Poisson regression in R - Stack Overflow](https://stackoverflow.com/questions/16457968/error-in-zero-inflated-poisson-regression-in-r)
+
+- [ ] [finance - Backtesting stock returns for Moving Average rule in r - Stack Overflow](https://stackoverflow.com/questions/43162679/backtesting-stock-returns-for-moving-average-rule-in-r)
+
+- [ ] [google colaboratory - How to download a file from GoogleColab in python script? - Stack Overflow](https://stackoverflow.com/questions/54235787/how-to-download-a-file-from-googlecolab-in-python-script)
+
+- [ ] [graph - Network clustering and python - Stack Overflow](https://stackoverflow.com/questions/10782345/network-clustering-and-python)
+
+- [ ] [grouping - What does n=n( ) mean in R? - Stack Overflow](https://stackoverflow.com/questions/25869378/what-does-n-n-mean-in-r)
+
+- [ ] [How to create a Minimal, Reproducible Example - Help Center - Stack Overflow](https://stackoverflow.com/help/minimal-reproducible-example)
+
+- [ ] [How to download file created in Colaboratory workspace? - Stack Overflow](https://stackoverflow.com/questions/48774285/how-to-download-file-created-in-colaboratory-workspace)
+
+- [ ] [How to download file created in Colaboratory workspace? - Stack Overflow](https://stackoverflow.com/questions/48774285/how-to-download-file-created-in-colaboratory-workspace)
+
+- [ ] [how to find clusters with a network based on density and weight of edges in python - networkx package - Stack Overflow](https://stackoverflow.com/questions/41414545/how-to-find-clusters-with-a-network-based-on-density-and-weight-of-edges-in-pyth)
+
+- [ ] [How to merge tables in R? - Stack Overflow](https://stackoverflow.com/questions/12897220/how-to-merge-tables-in-r)
+
+- [ ] [knitr - How to combine two tables in R? - Stack Overflow](https://stackoverflow.com/questions/27174469/how-to-combine-two-tables-in-r)
+
+- [ ] [latex - Conditional font color R Markdown - Stack Overflow](https://stackoverflow.com/questions/40344407/conditional-font-color-r-markdown)
+
+- [ ] [latex - Getting R printed texts to have color esp. in R markdown knits? - Stack Overflow](https://stackoverflow.com/questions/47298106/getting-r-printed-texts-to-have-color-esp-in-r-markdown-knits)
+
+- [ ] [math - How do I calculate r-squared using Python and Numpy? - Stack Overflow](https://stackoverflow.com/questions/893657/how-do-i-calculate-r-squared-using-python-and-numpy)
+
+- [ ] [math - R optim(){fExtremes} gets 0 hessian matrix - Stack Overflow](https://stackoverflow.com/questions/39111048/r-optimfextremes-gets-0-hessian-matrix)
+
+- [ ] [Mean of each column of multiple dataframes to a dataframe - Python pandas - Stack Overflow](https://stackoverflow.com/questions/47514858/mean-of-each-column-of-multiple-dataframes-to-a-dataframe-python-pandas)
+
+- [ ] [merge - Merging multiple tables in R - Stack Overflow](https://stackoverflow.com/questions/38568291/merging-multiple-tables-in-r)
+
+- [ ] [Merge two tables together in R - Stack Overflow](https://stackoverflow.com/questions/44680722/merge-two-tables-together-in-r)
+
+- [ ] [numpy - Calculating Pearson correlation and significance in Python - Stack Overflow](https://stackoverflow.com/questions/3949226/calculating-pearson-correlation-and-significance-in-python)
+
+- [ ] [numpy - Python How to find average of columns using dataframes apply method - Stack Overflow](https://stackoverflow.com/questions/29500650/python-how-to-find-average-of-columns-using-dataframes-apply-method)
+
+- [ ] [optimization - R solve:system is exactly singular - Stack Overflow](https://stackoverflow.com/questions/6572119/r-solvesystem-is-exactly-singular)
+
+- [ ] [Partial regression plot in R - Stack Overflow](https://stackoverflow.com/questions/43037794/partial-regression-plot-in-r)
+
+- [ ] [Partial residual plot based on model average coefficients in R - Stack Overflow](https://stackoverflow.com/questions/28633537/partial-residual-plot-based-on-model-average-coefficients-in-r)
+
+- [ ] [python - Any faster way to get the same results? - Stack Overflow](https://stackoverflow.com/questions/27649503/any-faster-way-to-get-the-same-results)
+
+- [ ] [python - Calculating Pearson correlation - Stack Overflow](https://stackoverflow.com/questions/13648318/calculating-pearson-correlation)
+
+- [ ] [python - Calculating Slopes in Numpy (or Scipy) - Stack Overflow](https://stackoverflow.com/questions/9538525/calculating-slopes-in-numpy-or-scipy)
+
+- [ ] [python - Can't delete "\r\n" from a string - Stack Overflow](https://stackoverflow.com/questions/45383938/cant-delete-r-n-from-a-string)
+
+- [ ] [python - Correlation coefficients and p values for all pairs of rows of a matrix - Stack Overflow](https://stackoverflow.com/questions/24432101/correlation-coefficients-and-p-values-for-all-pairs-of-rows-of-a-matrix)
+
+- [ ] [python - Exporting Data from google colab to local machine - Stack Overflow](https://stackoverflow.com/questions/49394737/exporting-data-from-google-colab-to-local-machine)
+
+- [ ] [python - Fast spearman correlation between two pandas dataframes - Stack Overflow](https://stackoverflow.com/questions/52371329/fast-spearman-correlation-between-two-pandas-dataframes)
+
+- [ ] [python - Finding the correlation matrix - Stack Overflow](https://stackoverflow.com/questions/3437513/finding-the-correlation-matrix)
+
+- [ ] [python - Fixed effect in Pandas or Statsmodels - Stack Overflow](https://stackoverflow.com/questions/24195432/fixed-effect-in-pandas-or-statsmodels)
+
+- [ ] [python - Get difference between two lists - Stack Overflow](https://stackoverflow.com/questions/3462143/get-difference-between-two-lists)
+
+- [ ] [python - How to calculate mean values grouped on another column in Pandas - Stack Overflow](https://stackoverflow.com/questions/30482071/how-to-calculate-mean-values-grouped-on-another-column-in-pandas)
+
+- [ ] [python - Normalize columns of pandas data frame - Stack Overflow](https://stackoverflow.com/questions/26414913/normalize-columns-of-pandas-data-frame)
+
+- [ ] [python - Normalize data in pandas - Stack Overflow](https://stackoverflow.com/questions/12525722/normalize-data-in-pandas)
+
+- [ ] [python - Normalize DataFrame by group - Stack Overflow](https://stackoverflow.com/questions/26046208/normalize-dataframe-by-group)
+
+- [ ] [python - NumPy version of "Exponential weighted moving average", equivalent to pandas.ewm().mean() - Stack Overflow](https://stackoverflow.com/questions/42869495/numpy-version-of-exponential-weighted-moving-average-equivalent-to-pandas-ewm)
+
+- [ ] [python - pandas get column average/mean - Stack Overflow](https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean)
+
+- [ ] [Python - Pandas: issues with multi-indexing for PanelOLS and Fama-Macbeth - Stack Overflow](https://stackoverflow.com/questions/31739979/python-pandas-issues-with-multi-indexing-for-panelols-and-fama-macbeth)
+
+- [ ] [python - Panel OLS in statsmodels (because it's deprecated in Pandas?) - Stack Overflow](https://stackoverflow.com/questions/45960849/panel-ols-in-statsmodels-because-its-deprecated-in-pandas)
+
+- [ ] [python - Plot and visualize results of clustering as a network graph - Stack Overflow](https://stackoverflow.com/questions/53162915/plot-and-visualize-results-of-clustering-as-a-network-graph)
+
+- [ ] [python - TypeError: unsupported operand type(s) for /: 'str' and 'float' - Stack Overflow](https://stackoverflow.com/questions/43106154/typeerror-unsupported-operand-types-for-str-and-float)
+
+- [ ] [python - Unsupported operand type(s) for +: 'float' and 'str' error - Stack Overflow](https://stackoverflow.com/questions/35393303/unsupported-operand-types-for-float-and-str-error?rq=1)
+
+- [ ] [python - Unsupported operand type(s) for +: 'float' and 'str' error - Stack Overflow](https://stackoverflow.com/questions/35393303/unsupported-operand-types-for-float-and-str-error)
+
+- [ ] [python - What is the fastest way to output large DataFrame into a CSV file? - Stack Overflow](https://stackoverflow.com/questions/15417574/what-is-the-fastest-way-to-output-large-dataframe-into-a-csv-file)
+
+- [ ] [python 3.x - When I use Google Colaboratory, how to save image, weights in my Google Drive? - Stack Overflow](https://stackoverflow.com/questions/49031798/when-i-use-google-colaboratory-how-to-save-image-weights-in-my-google-drive)
+
+- [ ] [python find difference between two lists - Stack Overflow](https://stackoverflow.com/questions/22559627/python-find-difference-between-two-lists)
+
+- [ ] [Python pandas: Best way to normalize data? - Stack Overflow](https://stackoverflow.com/questions/40197156/python-pandas-best-way-to-normalize-data)
+
+- [ ] [Python TypeError: unsupported operand type(s) for /: 'str' and 'float' - Stack Overflow](https://stackoverflow.com/questions/19480060/python-typeerror-unsupported-operand-types-for-str-and-float)
+
+- [ ] [Python, compute list difference - Stack Overflow](https://stackoverflow.com/questions/6486450/python-compute-list-difference)
+
+- [ ] [Python: Scaling numbers column by column with pandas - Stack Overflow](https://stackoverflow.com/questions/21764475/python-scaling-numbers-column-by-column-with-pandas)
+
+- [ ] [Python: using setdiff to assign to a numpy array - Stack Overflow](https://stackoverflow.com/questions/49374047/python-using-setdiff-to-assign-to-a-numpy-array)
+
+- [ ] [r - Adding indicator with tq_mutate generates duplicated columns - Stack Overflow](https://stackoverflow.com/questions/48042586/adding-indicator-with-tq-mutate-generates-duplicated-columns)
+
+- [ ] [r - Applying a statistical test on sliding window - Stack Overflow](https://stackoverflow.com/questions/9257143/applying-a-statistical-test-on-sliding-window)
+
+- [ ] [r - Applying a statistical test on sliding window - Stack Overflow](https://stackoverflow.com/questions/9257143/applying-a-statistical-test-on-sliding-window)
+
+- [ ] [r - Backtesting accuracy of regression model through rolling window regression with quantmod - Stack Overflow](https://stackoverflow.com/questions/14825443/backtesting-accuracy-of-regression-model-through-rolling-window-regression-with)
+
+- [ ] [r - Calculating firm specific Fama-French beta coefficients from a rolling 1 year regression - Stack Overflow](https://stackoverflow.com/questions/44352992/calculating-firm-specific-fama-french-beta-coefficients-from-a-rolling-1-year-re)
+
+- [ ] [r - Calculating firm specific Fama-French beta coefficients from a rolling 1 year regression - Stack Overflow](https://stackoverflow.com/questions/44352992/calculating-firm-specific-fama-french-beta-coefficients-from-a-rolling-1-year-re)
+
+- [ ] [r - Count subgroups in group_by with dplyr - Stack Overflow](https://stackoverflow.com/questions/43690920/count-subgroups-in-group-by-with-dplyr)
+
+- [ ] [r - Extract the first (or last) n characters of a string - Stack Overflow](https://stackoverflow.com/questions/15897236/extract-the-first-or-last-n-characters-of-a-string)
+
+- [ ] [r - How do you pass a list of variables to select in tq_mutate (TidyQuant) from within a function? - Stack Overflow](https://stackoverflow.com/questions/53858865/how-do-you-pass-a-list-of-variables-to-select-in-tq-mutate-tidyquant-from-with)
+
+- [ ] [r - How to change the font color? - Stack Overflow](https://stackoverflow.com/questions/29067541/how-to-change-the-font-color)
+
+- [ ] [R - how to use rpart? - Stack Overflow](https://stackoverflow.com/questions/23391745/r-how-to-use-rpart)
+
+- [ ] [r - Multiple linear regression: Plot a straight line with confidence intervals - Stack Overflow](https://stackoverflow.com/questions/51147938/multiple-linear-regression-plot-a-straight-line-with-confidence-intervals)
+
+- [ ] [r - Partial regression plot of results from the np package - Stack Overflow](https://stackoverflow.com/questions/13347202/partial-regression-plot-of-results-from-the-np-package)
+
+- [ ] [r - Partial residual plots for linear model including an interaction term - Stack Overflow](https://stackoverflow.com/questions/24957818/partial-residual-plots-for-linear-model-including-an-interaction-term)
+
+- [ ] [R - plm package error - "system is exactly singular" - Stack Overflow](https://stackoverflow.com/questions/49248152/r-plm-package-error-system-is-exactly-singular)
+
+- [ ] [r - RMarkdown - Change Inline Code Color - Stack Overflow](https://stackoverflow.com/questions/50727217/rmarkdown-change-inline-code-color)
+
+- [ ] [r - Roll apply to return moving average - Stack Overflow](https://stackoverflow.com/questions/32614554/roll-apply-to-return-moving-average)
+
+- [ ] [r - Rollapply for time series - Stack Overflow](https://stackoverflow.com/questions/13243148/rollapply-for-time-series)
+
+- [ ] [r - Rollapply: what does by.column do? - Stack Overflow](https://stackoverflow.com/questions/32951459/rollapply-what-does-by-column-do)
+
+- [ ] [r - Rolling regression return multiple objects - Stack Overflow](https://stackoverflow.com/questions/14732505/rolling-regression-return-multiple-objects)
+
+- [ ] [r - tq_mutate and a growing window width? - Stack Overflow](https://stackoverflow.com/questions/54754839/tq-mutate-and-a-growing-window-width)
+
+- [ ] [r - tq_mutate() throws error - Loop programming technique - Stack Overflow](https://stackoverflow.com/questions/53320792/tq-mutate-throws-error-loop-programming-technique)
+
+- [ ] [r - Understanding tally(sort = TRUE) - Stack Overflow](https://stackoverflow.com/questions/24853601/understanding-tallysort-true)
+
+- [ ] [r - use rollapply and zoo to calculate rolling average of a column of variables - Stack Overflow](https://stackoverflow.com/questions/33769770/use-rollapply-and-zoo-to-calculate-rolling-average-of-a-column-of-variables)
+
+- [ ] [r - Value at Risk for a Portfolio Backtest - Stack Overflow](https://stackoverflow.com/questions/55558036/value-at-risk-for-a-portfolio-backtest)
+
+- [ ] [R: how to do rolling regressions for multiple return data at once? with the dependent variable in one data frame and the regressor in the other? - Stack Overflow](https://stackoverflow.com/questions/39438484/r-how-to-do-rolling-regressions-for-multiple-return-data-at-once-with-the-depe)
+
+- [ ] [regex - javascript replace() not replacing text containing literal \r\n strings - Stack Overflow](https://stackoverflow.com/questions/20023625/javascript-replace-not-replacing-text-containing-literal-r-n-strings)
+
+- [ ] [rollapply - the rolling regression in R using roll apply - Stack Overflow](https://stackoverflow.com/questions/23162937/the-rolling-regression-in-r-using-roll-apply?lq=1)
+
+- [ ] [scikit learn - How are feature_importances in RandomForestClassifier determined? - Stack Overflow](https://stackoverflow.com/questions/15810339/how-are-feature-importances-in-randomforestclassifier-determined)
+
+- [ ] [Spectral Clustering a graph in python - Stack Overflow](https://stackoverflow.com/questions/46258657/spectral-clustering-a-graph-in-python)
+
+- [ ] [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
+
+- [ ] [statsmodels - Fama-Macbeth in Python - Stack Overflow](https://stackoverflow.com/questions/50656274/fama-macbeth-in-python)
+
+- [ ] [Subtract every column in dataframe with the mean of that column with Python - Stack Overflow](https://stackoverflow.com/questions/35169368/subtract-every-column-in-dataframe-with-the-mean-of-that-column-with-python)
+
+- [ ] [tensorflow - Write out file with google colab - Stack Overflow](https://stackoverflow.com/questions/49675374/write-out-file-with-google-colab)
+
+- [ ] [tidyquant - tq_mutate() and Volume indicators in R - Stack Overflow](https://stackoverflow.com/questions/53014807/tq-mutate-and-volume-indicators-in-r)
+
+- [ ] [time series - ARIMA model selection for Financial data in R - Stack Overflow](https://stackoverflow.com/questions/38004510/arima-model-selection-for-financial-data-in-r)
+
+- [ ] [TypeError: unsupported operand type(s) for -: 'str' and 'float' python pandas - Stack Overflow](https://stackoverflow.com/questions/51938781/typeerror-unsupported-operand-types-for-str-and-float-python-pandas)
+
+- [ ] [xts - Using rollapply function for VaR calculation using R - Stack Overflow](https://stackoverflow.com/questions/25045612/using-rollapply-function-for-var-calculation-using-r)
+
+- [ ] [Apple’s China woes may worsen as Huawei ban nudges die-hard iPhone fans to switch sides | South China Morning Post](https://www.scmp.com/tech/apps-social/article/3011126/apples-china-woes-may-worsen-huawei-ban-nudges-die-hard-iphone)
+
+- [ ] [Explosive claims of ‘Chinese spy’ Wang Liqiang seem more fiction than fact | South China Morning Post](https://www.scmp.com/week-asia/opinion/article/3039819/explosive-claims-chinese-spy-wang-liqiang-seem-more-fiction-fact)
+
+- [ ] [From protests to riots to lone wolf attacks. What next, Hong Kong? | South China Morning Post](https://www.scmp.com/week-asia/opinion/article/3037919/protests-riots-lone-wolf-attacks-what-next-hong-kong)
+
+- [ ] [Hong Kong protests | South China Morning Post](https://www.scmp.com/topics/hong-kong-protests)
+
+- [ ] [Open, friendly and rich. Modern China can learn from ancient Emperor Taizong | South China Morning Post](https://www.scmp.com/week-asia/opinion/article/3036978/open-friendly-and-rich-modern-china-can-learn-ancient-emperor)
+
+- [ ] [Taiwan elections 2020 | South China Morning Post](https://www.scmp.com/topics/taiwan-elections-2020)
+
+- [ ] [Tsai Ing-wen | South China Morning Post](https://www.scmp.com/topics/tsai-ing-wen-0)
+
+- [ ] [Why Beijing’s best option is to wait for Hong Kong to appeal mask ban | South China Morning Post](https://www.scmp.com/week-asia/opinion/article/3038822/why-beijings-best-option-wait-hong-kong-appeal-mask-ban)
+
+- [ ] [Why Beijing’s best option is to wait for Hong Kong to appeal mask ban | South China Morning Post](https://www.scmp.com/week-asia/opinion/article/3038822/why-beijings-best-option-wait-hong-kong-appeal-mask-ban)
+
+- [ ] [www.scmp.com](https://www.scmp.com/lifestyle/article/2176660/why-two-daughters-huawei-founder-have-different-names-and-not-their)
+
+- [ ] [An Engineer's Life in the CFA Program | luminouslogic.com](https://web.archive.org/web/20120606073634/http://luminouslogic.com/)
+
+- [ ] [Blog](https://web.archive.org/web/20120621200747/http://currencysecrets.com/category/blog)
+
+- [ ] [Blog](https://web.archive.org/web/20120621200747/http://currencysecrets.com/category/blog)
+
+- [ ] [Feature Importance in Random Forests,](https://web.archive.org/web/20160213150902/http://alexperrier.github.io/jekyll/update/2015/08/27/feature-importance-random-forests-gini-accuracy.html)
+
+- [ ] [Forums](https://web.archive.org/web/20120727080306/http://currencysecrets.com/forums/)
+
+- [ ] [Patrick's CFA and Trading Blog](https://web.archive.org/web/20110824043629/http://pcweicfa.blogspot.com/)
+
+- [ ] [Patrick's CFA and Trading Blog](https://web.archive.org/web/20120114191400/http://pcweicfa.blogspot.com/)
+
+- [ ] [Patrick's CFA and Trading Blog: R Implementation of the Ornstein-Uhlenbeck Formula](https://web.archive.org/web/20110824044210/http://pcweicfa.blogspot.com/2010/08/r-implementation-of-ornstein-uhlenbeck.html)
+
+- [ ] [Trading Results 2012 (February onwards)](https://web.archive.org/web/20120628203217/http://currencysecrets.com/trading-results-2012-february-onwards)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20190609224744/http://iyfsearch.com/?dn=currencysecrets.com&pid=9PO755G95)
+
+- [ ] [Wayback Machine](https://web.archive.org/web/20160313083611/http://luminouslogic.com/wp-content/uploads/2012/05/wife_amma.jpg)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/1159000/76ecbf00b3b4c5a05082f1382109119b/Boye%20Lafayette%20De%20Mente%20-%20The%20Korean%20Way%20In%20Business_%20Understanding%20and%20Dealing%20with%20the%20South%20Koreans%20in%20Business-Tuttle%20Publishing%20%282014%29.epub)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/687000/0e25109f81244d81ff5ac1a36dd9051d/Daniel%20Jurafsky%2C%20James%20H.%20Martin%20-%20Speech%20and%20Language%20Processing_%20An%20Introduction%20to%20Natural%20Language%20Processing%2C%20Computational%20Linguistics%2C%20and%20Speech%20Recognition-Prentice%20Hall%20%282008%29.pdf)
+
+- [ ] [503 Service Temporarily Unavailable](http://93.174.95.29/main/2243000/8338888b85e90f0e2c8abc8ae178c32e/Daniel%20Jurafsky%2C%20James%20H.%20Martin%20-%20Speech%20and%20Language%20Processing%20%5Bdraft%5D-Prentice%20Hall%20%282008%29.pdf)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/71059F23ABD8724285D624FCF74C7211)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F8DA5902AE42B10F6A43823AF64ACE76)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/0E43129E8166568B7350DF0BBF4D9C3A)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/165FE3D6167B1E6483B6CD9BD373AD4B)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/B4BB77714FB41473F33E827948611827)
+
+- [ ] [Library Genesis](http://93.174.95.29/_ads/F7CE24BABB0917E132D8793D165D984B)
+
+- [ ] [*The Great Reversal: How America Gave Up on Free Markets* - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/07/the-great-reversal-how-america-gave-up-on-free-markets.html)
+
+- [ ] [*The Korean Mind: Understanding Contemporary Korean Culture* - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/the-korean-mind-understanding-contemporary-korean-culture.html)
+
+- [ ] [Airline markets in everything - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/airline-markets-in-everything.html)
+
+- [ ] [Are we undermeasuring productivity gains from the internet? part I - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/are-we-undermeasuring-productivity-gains-from-the-internet-part-i.html)
+
+- [ ] [Books Archives - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/category/books)
+
+- [ ] [Germany fact of the day - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/germany-fact-of-the-day-9.html)
+
+- [ ] [How to Buy Contact Lenses in Lithuania - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/how-to-buy-contact-lenses-in-lithuania.html)
+
+- [ ] [Income Share Agreements - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/income-share-agreements.html)
+
+- [ ] [Is Cebu the most typical city in the world? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/is-cebu-the-most-typical-city-in-the-world.html)
+
+- [ ] [Is the inequality of intelligence increasing? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/is-the-inequality-of-intelligence-increasing.html)
+
+- [ ] [Is the rate of scientific progress slowing down? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/is-the-rate-of-scientific-progress-slowing-down.html)
+
+- [ ] [Markets and comedic performance bonds in everything - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/markets-and-comedic-performance-bonds-in-everything.html)
+
+- [ ] [My Conversation with Daron Acemoglu - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/my-conversation-with-daron-acemoglu.html)
+
+- [ ] [My Stanford talk on all the problems with my arguments in *Stubborn Attachments* - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/my-stanford-talk-on-all-the-problems-with-my-arguments-in-stubborn-attachments.html)
+
+- [ ] [Nigeria and other Japan-Congo facts of the day - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/nigeria-and-other-japan-congo-facts-of-the-day.html)
+
+- [ ] [Principles for Amazon (and other?) censorship - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/principles-for-amazon-censorship.html)
+
+- [ ] [Streets Vs Avenues Where to go to dinner in Manhattan model this - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/streets-vs-avenues-where-to-go-to-dinner-in-manhattan.html)
+
+- [ ] [Superstar firms and market concentration - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/superstar-firms-and-market-concentration.html)
+
+- [ ] [The Optometry Racket - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/11/the-optometry-racket.html)
+
+- [ ] [The Reversal of the Latitude-Income Correlation - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2014/11/the-reversal-of-the-latitude-income-correlation.html)
+
+- [ ] [Wednesday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/wednesday-assorted-links-225.html)
+
+- [ ] [What I've been reading - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/what-ive-been-reading-155.html)
+
+- [ ] [Why Don't We Know More About the Subway Cost Disease? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/why-dont-we-know-more-about-subway-infrastructure-costs.html)
+
+- [ ] [Why Don't We Know More About the Subway Cost Disease? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/why-dont-we-know-more-about-subway-infrastructure-costs.html)
+
+- [ ] [Why Don't We Know More About the Subway Cost Disease? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/why-dont-we-know-more-about-subway-infrastructure-costs.html)
+
+- [ ] [You searched for income contingent loans - Marginal REVOLUTION](https://marginalrevolution.com/?s=income+contingent+loans)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/Since%201948%20the%20government%20in%20North%20Korea%20has%20been%20dominated%20by%20people%20from%20North%20Hamkyong%20Province%2C%20where%20the%20late%20Il%20Sung%20Kim%2C%20founder%20of%20the%20North%20Korean%20regime%2C%20was%20active%20as%20a%20guerrilla%20leader%20during%20World%20War%20II.%C2%A0%20Since%20that%20time%20people%20from%20the%20North%20Korean%20provinces%20of%20Hwanghae%20and%20Kangwon%2C%20which%20are%20the%20closest%20to%20South%20Korea%2C%20have%20been%20virtually%20banned%20from%20high%20government%20offices%20because%20they%20are%20considered%20untrustworthy%20and%20unfit.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/%E2%80%A6Ongoing%20competition%20and%20conflicts%20between%20people%20from%20Cholla%20and%20Kyongsang%20Provinces%20are%20said%20to%20be%20serious%20enough%20that%20they%20have%20significant%20negative%20impact%20on%20national%20politics%2C%20the%20economy%2C%20and%20life%20in%20general.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/Sex%20and%20the%20Japanese%20provides%20a%20broad%20look%20at%20the%20changing%20concepts%20of%20sexuality%20in%20Japanese%20culture.%20From%20the%20days%20of%20concubines%20and%20geishas%20to%20the%20present%2C%20sex%20and%20sexuality%20in%20Japan%20have%20been%20more%20openly%20discussed%20and%20available%20than%20in%20the%20West-due%20for%20the%20most%20part%20to%20Shinto%2C%20the%20native%20religion%20of%20Japan%20that%20recognizes%2C%20celebrates%20and%20respects%20the%20sensual%20side%20of%20life.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/tally)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/The%20author%20is%20Boye%20Lafayette%20de%20Mente%2C%20and%20he%20seems%20to%20know%20a%20lot%20about%20Korean%20bowing.%C2%A0%20Do%20note%20the%20book%20is%20mainly%20about%20South%20Korea.%C2%A0%20Reviewers%2C%20by%20the%20way%2C%20complain%20that%20there%20are%20significant%20mistakes%20in%20the%20Korean%20characters.%C2%A0%20Recommended%20nonetheless%2C%20albeit%20with%20caveats%2C%20you%20can%20buy%20it%20here.)
+
+- [ ] [Adam Sandler’s Everlasting Shtick - The New York Times](https://www.nytimes.com/2019/11/27/magazine/adam-sandler-movies-uncut-gems.html)
+
+- [ ] [Biased Algorithms Are Easier to Fix Than Biased People - The New York Times](https://www.nytimes.com/2019/12/06/business/algorithm-bias-fix.html#click=https://t.co/lkLEpfDwF9)
+
+- [ ] [D.C. Fontana, First Female ‘Star Trek’ Writer, Dies at 80 - The New York Times](https://www.nytimes.com/2019/12/03/arts/dc-fontana-star-trek.html?action=click&module=Latest&pgtype=Homepage)
+
+- [ ] [How Chinese Sci-Fi Conquered America - The New York Times](https://www.nytimes.com/2019/12/03/magazine/ken-liu-three-body-problem-chinese-science-fiction.html)
+
+- [ ] [Huawei C.F.O. Is Arrested in Canada for Extradition to the U.S. - The New York Times](https://www.nytimes.com/2018/12/05/business/huawei-cfo-arrest-canada-extradition.html)
+
+- [ ] [Opinion | I Was Once a Socialist. Then I Saw How It Worked. - The New York Times](https://www.nytimes.com/2019/12/05/opinion/socialism-capitalism.html)
+
+- [ ] [When a Disappointment Helped Lead to a Nobel Prize - The New York Times](https://www.nytimes.com/2019/11/29/business/economics-nobel.html)
+
+- [ ] [www.nytimes.com](https://www.nytimes.com/2018/12/05/business/huawei-cfo-arrest-canada-extradition.html)
+
+- [ ] [Greta Thunberg: New beetle named after climate activist - BBC News](https://www.bbc.com/news/world-europe-50182815)
+
+- [ ] [Huawei finance chief Meng Wanzhou arrested in Canada - BBC News](https://www.bbc.com/news/business-46462858)
+
+- [ ] [A quick guide to the US-China trade war - BBC News](https://www.bbc.com/news/business-45899310)
+
+- [ ] [Huawei: Why has UK not blocked Chinese firm's 5G kit? - BBC News](https://www.bbc.com/news/technology-46370014)
+
+- [ ] [Final Project Report - Practical Machine Learning](http://rstudio-pubs-static.s3.amazonaws.com/137966_095709c777954b59ba621951ba322ab6.html)
+
+- [ ] [Human Activity Recognition](http://groupware.les.inf.puc-rio.br/har)
+
+- [ ] [Measuring the 1% - Economists are rethinking the numbers on inequality | Briefing | The Economist](https://www.economist.com/briefing/2019/11/28/economists-are-rethinking-the-numbers-on-inequality)
+
+- [ ] [Over here - Turkey’s Syria move highlights America’s tactical nukes in Europe | Europe | The Economist](https://www.economist.com/europe/2019/11/28/turkeys-syria-move-highlights-americas-tactical-nukes-in-europe)
+
+- [ ] [Longform - Curbed](https://www.curbed.com/longform)
+
+- [ ] [(81) Woebot - 帖子](https://www.facebook.com/HiWoebot/photos/a.1326185470833651/2613500342102151/?type=3&theater)
+
+- [ ] [(81) James Clear - 帖子](https://www.facebook.com/jamesclear/photos/a.1565100397138041/2404621789852560/?type=3&theater)
+
+- [ ] [(81) James Clear - 帖子](https://www.facebook.com/jamesclear/photos/a.1565100397138041/2404621789852560/?type=3&theater)
+
+- [ ] [Calculating the Standard Deviation by category using Python - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/22233/calculating-the-standard-deviation-by-category-using-python)
+
+- [ ] [滴滴的AI和自动驾驶-亿欧](https://www.iyiou.com/p/62969.html)
+
+- [ ] [苹果在WWDC大会上透露，iOS用户可以在苹果地图和Siri里直接打滴滴_36氪](https://36kr.com/p/5048099)
+
+- [ ] [网约车现外挂软件:自动抢单随意更改行程费用_经济频道_央视网(cctv.com)](http://jingji.cctv.com/2018/08/28/ARTIivYPvL2oW3G1rGmWL3cC180828.shtml)
+
+- [ ] [iOS 开发之如何在项目中接入滴滴打车功能？ - iOS - 掘金](https://juejin.im/entry/575154af5bbb5000642f73ad)
+
+- [ ] [嘿,Siri,帮我叫滴滴出行](http://www.sohu.com/a/114391211_118680)
+
+- [ ] [如何用Python爬数据？（一）网页抓取 - 简书](https://www.jianshu.com/p/ba02079ecd2f)
+
+- [ ] [(29 封私信 / 64 条消息) 你是如何使用tasker的？ - 知乎](https://www.zhihu.com/question/20542271)
+
+- [ ] [Python自动轨迹绘制](https://www.okcode.net/article/36838)
+
+- [ ] [使用Python和Mask R-CNN自动寻找停车位，这是什么神操作？ | 机器之心](https://www.jiqizhixin.com/articles/2019-02-05)
+
+- [ ] [美团打车席卷上海，滴滴司机纷纷“跳槽”，前期月入超2万！_Python爱好者社区_瞅啥网](http://www.gzhshoulu.wang/article/1853090)
+
+- [ ] [机器学习练习：出租车车费预测的挑战 -ATYUN](http://www.atyun.com/29583.html)
+
+- [ ] [用Excel对纽约市出租车费数据探索性分析 - 知乎](https://zhuanlan.zhihu.com/p/57673241)
+
+- [ ] [开发一个打车软件需要投入多少资金？-CSDN论坛](https://bbs.csdn.net/topics/391059238?list=53048361)
+
+- [ ] [开发一个打车软件需要投入多少资金？-CSDN论坛](https://bbs.csdn.net/topics/391059238)
+
+- [ ] [Cebu: This Philippine City Is the Most Typical Place in the World - Bloomberg](https://www.bloomberg.com/opinion/articles/2019-12-02/cebu-this-philippine-city-is-the-most-typical-place-in-the-world?cmpid%3D=socialflow-twitter-view&utm_campaign=socialflow-organic&utm_medium=social&utm_source=twitter&utm_content=view)
+
+- [ ] [Huawei Loser in SoftBank-Sprint Deal Over Alleged Spying - Bloomberg](https://www.bloomberg.com/news/articles/2013-05-29/huawei-loser-in-softbank-sprint-deal-over-alleged-spying)
+
+- [ ] [Antitrust Zealots, Beware. Big Companies Are More Productive. - Bloomberg](https://www.bloomberg.com/opinion/articles/2019-12-02/antitrust-zealots-beware-big-companies-are-more-productive)
+
+- [ ] [My debate with Žižek - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/my-debate-with-zizek.html)
+
+- [ ] [(92) Michael Shermer with Dr. Debra Lieberman — Objection: Disgust, Morality and the Law - YouTube](https://www.youtube.com/watch?v=tyBksb89d70)
+
+- [ ] [Claims about polarization - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2019/12/claims-about-polarization.html)
+
+- [ ] [— Delia Baldassarri](http://deliabaldassarri.org/research/2018/12/1/h29cyp99ttt2wuru2arp4n2u53vale)
+
+- [ ] [Research — Delia Baldassarri](http://deliabaldassarri.org/research1)
+
+- [ ] [Articles — Delia Baldassarri](http://deliabaldassarri.org/test-articles)
+
+- [ ] [Books — Delia Baldassarri](http://deliabaldassarri.org/books)
+
+- [ ] [News — Delia Baldassarri](http://deliabaldassarri.org/home)
+
+- [ ] [Barum Park | Predicted Probabilities from Ordered Logit Models](https://barumpark.com/blog/2019/Ologit-Predict/)
+
+- [ ] [Barum Park](https://barumpark.com/)
+
+- [ ] [Barum Park](https://barumpark.com/misc_pages/abstracts/2019_abstract_wtcw/)
+
+- [ ] [How Are We Apart? Continuity and Change in the Structure of Ideological Disagreement in the American Public, 1980–2012 | Social Forces | Oxford Academic](https://academic.oup.com/sf/article/96/4/1757/4781058?guestAccessKey=f1e6062d-22ab-44a9-9b0c-be03e631d786)
+
+- [ ] [Barum Park](https://barumpark.com/misc_pages/abstracts/2018_abstract_hawa/)
+
+- [ ] [Barum Park](https://barumpark.com/blog/)
+
+- [ ] [BrainChip patents dynamic neural network model enabling edge biometrics and AI applications | Biometric Update](https://www.biometricupdate.com/201911/brainchip-patents-dynamic-neural-network-model-enabling-edge-biometrics-and-ai-applications)
+
+- [ ] [Scaling Streams with Google | DeepMind](https://deepmind.com/blog/announcements/scaling-streams-google)
+
+- [ ] [DeepMind - YouTube](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/channels)
+
+- [ ] [view-source:https://deepmind.com/blog/announcements/scaling-streams-google](view-source:https://deepmind.com/blog/announcements/scaling-streams-google)
+
+- [ ] [nbdev: use Jupyter Notebooks for everything · fast.ai](https://www.fast.ai/2019/12/02/nbdev/)
+
+- [ ] [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
+
+- [ ] [Applied-Deep-Learning-with-Keras/Part 1 - Artificial Neural Networks.ipynb at master · ardendertat/Applied-Deep-Learning-with-Keras](https://github.com/ardendertat/Applied-Deep-Learning-with-Keras/blob/master/notebooks/Part%201%20-%20Artificial%20Neural%20Networks.ipynb)
+
+- [ ] [Applied-Deep-Learning-with-Keras/Part 1 - Artificial Neural Networks.ipynb at master · ardendertat/Applied-Deep-Learning-with-Keras](https://github.com/ardendertat/Applied-Deep-Learning-with-Keras/blob/master/notebooks/Part%201%20-%20Artificial%20Neural%20Networks.ipynb)
+
+- [ ] [atkio/TwitterSelfieCollocter](https://github.com/atkio/TwitterSelfieCollocter)
+
+- [ ] [baruuum / Projects](https://github.com/baruuum?tab=projects)
+
+- [ ] [cran/rpart:  This is a read-only mirror of the CRAN R package repository. rpart — Recursive Partitioning and Regression Trees. Homepage: https://github.com/bethatkinson/rpart, https://cran.r-project.org/package=rpart Report bugs for this package: https://github.com/bethatkinson/rpart/issues](https://github.com/cran/rpart)
+
+- [ ] [deep_learning_by_andrew_ng_coursera/Logistic+Regression+with+a+Neural+Network+mindset+v5.ipynb at master · brightmart/deep_learning_by_andrew_ng_coursera](https://github.com/brightmart/deep_learning_by_andrew_ng_coursera/blob/master/Logistic+Regression+with+a+Neural+Network+mindset+v5.ipynb?short_path=9cb83fb)
+
+- [ ] [deep-learning-coursera/Logistic Regression with a Neural Network mindset.ipynb at master · Kulbear/deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
+
+- [ ] [dplyr/count-tally.R at master · tidyverse/dplyr](https://github.com/tidyverse/dplyr/blob/master/R/count-tally.R)
+
+- [ ] [JohnCanessa/Logistic-Regression-with-a-Neural-Network: Basic neural network implementing logistic regression.](https://github.com/JohnCanessa/Logistic-Regression-with-a-Neural-Network)
+
+- [ ] [marcotcr/lime: Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime?fbclid=IwAR3Zc8WKKfecT4-n1qxpQ3xsiV3uyTbXP7qQbxByZz5rEC7MGkK1s0eSZyE)
+
+- [ ] [Replication_Code/2019_WTCW at master · baruuum/Replication_Code](https://github.com/baruuum/Replication_Code/tree/master/2019_WTCW)
+
+- [ ] [scipy/stats.py at v0.17.1 · scipy/scipy](https://github.com/scipy/scipy/blob/v0.17.1/scipy/stats/stats.py#L3152-L3289)
+
+- [ ] [sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat)
+
+- [ ] [smbache/import: An Import Mechanism For R](https://github.com/smbache/import)
+
+- [ ] [stats.pearsonr: Potential division by zero for dataset of length 2 · Issue #7730 · scipy/scipy](https://github.com/scipy/scipy/issues/7730)
+
+- [ ] [stats.pearsonr: Potential division by zero for dataset of length 2 · Issue #7730 · scipy/scipy](https://github.com/scipy/scipy/issues/7730)
+
+- [ ] [tensorflow/hub: A library for transfer learning by reusing parts of TensorFlow models.](https://github.com/tensorflow/hub)
+
+- [ ] [tthustla/luigi_spotify: Get Spotify Discover Weekly emailed](https://github.com/tthustla/luigi_spotify)
+
+- [ ] [yiyuezhuo/cangqiong-scratch: 苍穹滴滴快的智能出行平台数据获取器](https://github.com/yiyuezhuo/cangqiong-scratch)
+
+- [ ] [yyfhust/Logistic-Regression-with-a-Neural-Network-mindset: first image recognition algorithm. build a cat classifier that recognizes cats with 70% accuracy!](https://github.com/yyfhust/Logistic-Regression-with-a-Neural-Network-mindset)
+
+- [ ] [ziggear/shadowsocks: backup of https://github.com/shadowsocks/shadowsocks](https://github.com/ziggear/shadowsocks)
+
+- [ ] [(78) Pearson's r Correlation - YouTube](https://www.youtube.com/watch?v=2B_UW-RweSE)
+
+- [ ] [(79) Is Economic Growth a Moral Imperative? Lecture by Tyler Cowen - YouTube](https://www.youtube.com/watch?v=EO5jJFpbJvg)
+
+- [ ] [(80) Yuval Noah Harari and Jared Diamond in conversation - YouTube](https://www.youtube.com/watch?v=VLXHnGVp7ZU&list=TLPQMDMxMjIwMTlpWxkuoaKnow&index=5)
+
+- [ ] [(89) Confusion Matrix ll Accuracy,Error Rate,Precision,Recall Explained with Solved Example in Hindi - YouTube](https://www.youtube.com/watch?v=AyP85ocS-8Y)
+
+- [ ] [(89) Decision Tree with R | Complete Example - YouTube](https://www.youtube.com/watch?v=tU3Adlru1Ng)
+
+- [ ] [(89) dplyr tutorial | what is tally function and how to use it | R Programming tutorial - YouTube](https://www.youtube.com/watch?v=GUcTm4nJFyQ)
+
+- [ ] [(89) Hands-on dplyr tutorial for faster data manipulation in R - YouTube](https://www.youtube.com/watch?v=jWjqLW-u3hc)
+
+- [ ] [(89) Hands-on dplyr tutorial for faster data manipulation in R - YouTube](https://www.youtube.com/watch?v=jWjqLW-u3hc)
+
+- [ ] [(89) Introduction to the Confusion Matrix in Classification - YouTube](https://www.youtube.com/watch?v=wpp3VfzgNcI)
+
+- [ ] [(89) Kissinger and Dalio on Chinese-American Relations - YouTube](https://www.youtube.com/playlist?list=PLykIL_1_MFWlMnsHknYc4HUeRvb3ak7MZ)
+
+- [ ] [(89) Log odds interpretation of logistic regression - YouTube](https://www.youtube.com/watch?v=fJ53tIDbvTM)
+
+- [ ] [(89) Logistic Regression Details Pt1: Coefficients - YouTube](https://www.youtube.com/watch?v=vN5cNN2-HWE)
+
+- [ ] [(89) Machine Learning Fundamentals: The Confusion Matrix - YouTube](https://www.youtube.com/watch?v=Kdsp6soqA7o)
+
+- [ ] [(89) Pearson Correlation - Parametric Methods in Pandas and Scipy in Python - Tutorial 14 - YouTube](https://www.youtube.com/watch?v=sCkS-0kIRCE)
+
+- [ ] [(89) R - Classification Trees (part 2 using rpart) - YouTube](https://www.youtube.com/watch?v=XLNsl1Da5MA)
+
+- [ ] [(89) R - Regression Trees - CART - YouTube](https://www.youtube.com/watch?v=MoBw5PiW56k)
+
+- [ ] [(89) R 2.3 - if() Statements, Logical Operators, and the which() Function - YouTube](https://www.youtube.com/watch?v=eVEx_pBEkRI)
+
+- [ ] [(89) Rpart Decision Tree Tuning - YouTube](https://www.youtube.com/watch?v=1rNclbWruI0)
+
+- [ ] [(89) Rpart Decision Tree Tuning - YouTube](https://www.youtube.com/watch?v=1rNclbWruI0)
+
+- [ ] [(89) Scikit Learn : Confusion Matrix, Accuracy, Precision and Recall - YouTube](https://www.youtube.com/watch?v=TtIjAiSojFE)
+
+- [ ] [(89) SEAN HANNITY LIVE - YouTube](https://www.youtube.com/channel/UCfGp5tr2rRZCWhALrp9BBkw)
+
+- [ ] [(89) SPSS for newbies: Interpreting the coefficients of a logistic regression - YouTube](https://www.youtube.com/watch?v=PJxP4tNHIEA)
+
+- [ ] [(89) There is No Algorithm for Truth - with Tom Scott - YouTube](https://www.youtube.com/watch?v=leX541Dr2rU)
+
+- [ ] [(89) YouTube](https://www.youtube.com/)
+
+- [ ] [#qholberg - YouTube](https://www.youtube.com/results?search_query=%23qholberg)
+
+- [ ] [(92) From Languages to Information - YouTube](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/playlists)
+
+- [ ] [(92) From Languages to Information - YouTube](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA)
+
+- [ ] [(92) Handwritten Digits Classification: Logistic Regression from Scratch in Python - YouTube](https://www.youtube.com/watch?v=VdV96TpnnL4)
+
+- [ ] [(92) Lecture 3 | Loss Functions and Optimization - YouTube](https://www.youtube.com/watch?v=h7iBpEHGVNc)
+
+- [ ] [(92) Logistic regression with a Neural Network mindset (prepare data) part 4 - YouTube](https://www.youtube.com/watch?v=2OUMaahyxic)
+
+- [ ] [(92) Machine Learning Tutorial Python - 8 Logistic Regression (Multiclass Classification) - YouTube](https://www.youtube.com/watch?v=J5bXOOmkopc)
+
+- [ ] [(92) Natural Language Processing with Dan Jurafsky and Chris Manning, 2012 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true)
+
+- [ ] [(92) PyTorch Lecture 06: Logistic Regression - YouTube](https://www.youtube.com/watch?v=GAKTBQn7yKo)
+
+- [ ] [Slavoj Žižek: "Why I Am Still A Communist". The 2019 Holberg Debate with Slavoj Žižek & Tyler Cowen. - YouTube](https://www.youtube.com/watch?v=bgPqk8-HPGQ&feature=emb_logo)
+
+- [ ] [Confusion Matrix - Model Building and Validation - YouTube](https://www.youtube.com/watch?v=AOIkPnKu0YA)
+
+- [ ] [Confusion Matrix - YouTube](https://www.youtube.com/watch?v=nkpPcDTBERk)
+
+- [ ] [Confusion Matrix | How to Implement Confusion Matrix In R | Intellipaat - YouTube](https://www.youtube.com/watch?v=CuJc1MFY23k)
+
+- [ ] [Confusion Matrix | How to Implement Confusion Matrix In R | Intellipaat - YouTube](https://www.youtube.com/watch?v=CuJc1MFY23k)
+
+- [ ] [Create confusion matrix for predictions from Keras model - YouTube](https://www.youtube.com/watch?v=km7pxKy4UHU)
+
+- [ ] [Decision Tree Analysis in R Example Tutorial - YouTube](https://www.youtube.com/watch?v=bJC5S_ViRCo)
+
+- [ ] [Decision Tree Classification in R - YouTube](https://www.youtube.com/watch?v=JFJIQ0_2ijg)
+
+- [ ] [Evaluating Classifiers: Understaning the Confusion Matrix 1/2 - YouTube](https://www.youtube.com/watch?v=zrr4eu29uww)
+
+- [ ] [Evaluating Classifiers: Understaning the Confusion Matrix 1/2 - YouTube](https://www.youtube.com/watch?v=zrr4eu29uww)
+
+- [ ] [Handwritten Digits Classification: Logistic Regression from Scratch in Python - YouTube](https://www.youtube.com/watch?v=VdV96TpnnL4)
+
+- [ ] [Interview with Mariana Mazzucato - ALLEA 2019 General Assembly - YouTube](https://www.youtube.com/watch?v=AdhnEOTXHO0)
+
+- [ ] [Interview with Mariana Mazzucato - ALLEA 2019 General Assembly - YouTube](https://www.youtube.com/watch?v=AdhnEOTXHO0)
+
+- [ ] [Machine Learning Fundamentals: The Confusion Matrix - YouTube](https://www.youtube.com/watch?v=Kdsp6soqA7o)
+
+- [ ] [Making sense of the confusion matrix - YouTube](https://www.youtube.com/watch?v=8Oog7TXHvFY)
+
+- [ ] [Mariana Mazzucato - How your iPhone got smart and public sector innovation, 2018 Summit - YouTube](https://www.youtube.com/watch?v=B3_-o4J_8sE)
+
+- [ ] [Mariana Mazzucato - YouTube](https://www.youtube.com/user/MarianaMazzucato)
+
+- [ ] [Mariana Mazzucato: The value of everything: rediscovering purpose in the economy - YouTube](https://www.youtube.com/watch?v=lCLSvojyJoI)
+
+- [ ] [Pandas with Python 2.7 Part 8 - Standard Deviation - YouTube](https://www.youtube.com/watch?v=iFZscnDwcbw)
+
+- [ ] [Python Pandas || Moving Averages and Rolling Window Statistics for Stock Prices - YouTube](https://www.youtube.com/watch?v=T2mQiesnx8s)
+
+- [ ] [R Classification Trees - rpart - YouTube](https://www.youtube.com/watch?v=m3mLNpeke0I)
+
+- [ ] [R tutorial: Cross-validation - YouTube](https://www.youtube.com/watch?v=OwPQHmiJURI)
+
+- [ ] [R tutorial: Data splitting and confusion matrices - YouTube](https://www.youtube.com/watch?v=Gx3_o1JVkPE)
+
+- [ ] [Ray Dalio: Principles, the Economic Machine, Artificial Intelligence & the Arc of Life | AI Podcast - YouTube](https://www.youtube.com/watch?v=M95m2EFb7IQ)
+
+- [ ] [Redefining Economic Value | Mariana Mazzucato | RSA Replay - YouTube](https://www.youtube.com/watch?v=xJgjLfx-Bcs)
+
+- [ ] [ROC and AUC in R - YouTube](https://www.youtube.com/watch?v=qcvAqAH60Yw)
+
+- [ ] [ROC Curve & Area Under Curve (AUC) with R - Application Example - YouTube](https://www.youtube.com/watch?v=ypO1DPEKYFo)
+
+- [ ] [The Value of Everything | Mariana Mazzucato - YouTube](https://www.youtube.com/watch?v=jmRqT0-jB14)
+
+- [ ] [The Value of Everything with Mariana Mazzucato - YouTube](https://www.youtube.com/watch?v=apuj2SpwqIk)
+
+- [ ] [Unit Tests in Python || Python Tutorial || Learn Python Programming - YouTube](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
+
+- [ ] [Video 8: Logistic Regression - Interpretation of Coefficients and Forecasting - YouTube](https://www.youtube.com/watch?v=eX2sY2La4Ew)
+
+- [ ] [DeepMind’s Mustafa Suleyman joins Google AI](https://thenextweb.com/artificial-intelligence/2019/12/06/deepminds-mustafa-suleyman-joins-google-ai/)
+
+- [ ] [Google founders Larry Page and Sergey Brin step aside as Pichai becomes Alphabet CEO](https://thenextweb.com/google/2019/12/03/google-founders-larry-page-and-sergey-brin-step-aside-as-pichai-becomes-alphabet-ceo/)
+
+- [ ] [Google wants to create the ultimate medical record search tool for doctors](https://thenextweb.com/google/2019/11/04/google-wants-to-create-the-ultimate-medical-record-search-tool-for-doctors/)
+
+- [ ] [Google's ethical black hole swallows Deepmind's best intentions](https://thenextweb.com/artificial-intelligence/2018/11/14/googles-ethical-black-hole-swallows-deepminds-best-intentions/)
+
+- [ ] [Google's ethical black hole swallows Deepmind's best intentions](https://thenextweb.com/artificial-intelligence/2018/11/14/googles-ethical-black-hole-swallows-deepminds-best-intentions/)
+
+- [ ] [Google's principles for developing AI aren't good enough](https://thenextweb.com/artificial-intelligence/2018/06/08/googles-ai-principles-7-shades-of-gray-area/)
+
+- [ ] [DeepMind co-founder moves to Google as the AI lab positions itself for the future - The Verge](https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai)
+
+- [ ] [Why Alphabet’s days could be numbered under its new CEO - The Verge](https://www.theverge.com/interface/2019/12/5/20995520/alphabet-obsolete-sundar-pichai-ceo-page-brin)
+
+- [ ] [Why Alphabet’s days could be numbered under its new CEO - The Verge](https://www.theverge.com/interface/2019/12/5/20995520/alphabet-obsolete-sundar-pichai-ceo-page-brin)
+
+- [ ] [Sociology Department Talk: Barum Park | Sociology](https://sociology.stanford.edu/events/sociology-department-talk-barum-park)
+
+- [ ] [Bal des débutantes - Wikipedia](https://en.wikipedia.org/wiki/Bal_des_d%C3%A9butantes)
+
+- [ ] [Bal des débutantes - Wikipedia](https://en.wikipedia.org/wiki/Bal_des_d%C3%A9butantes)
+
+- [ ] [Book sources - Wikipedia](https://en.wikipedia.org/wiki/Special:BookSources/9781450318525)
+
+- [ ] [Boosting (machine learning) - Wikipedia](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
+
+- [ ] [Bootstrap aggregating - Wikipedia](https://en.wikipedia.org/wiki/Bootstrap_aggregating)
+
+- [ ] [Chris Lattner - Wikipedia](https://en.wikipedia.org/wiki/Chris_Lattner)
+
+- [ ] [Confusion matrix - Wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix)
+
+- [ ] [Decision tree learning - Wikipedia](https://en.wikipedia.org/wiki/Decision_tree_learning)
+
+- [ ] [Differentiable function - Wikipedia](https://en.wikipedia.org/wiki/Differentiable_function)
+
+- [ ] [Ensemble learning - Wikipedia](https://en.wikipedia.org/wiki/Ensemble_learning)
+
+- [ ] [Gradient boosting - Wikipedia](https://en.wikipedia.org/wiki/Gradient_boosting)
+
+- [ ] [Huawei - Wikipedia](https://en.wikipedia.org/wiki/Huawei)
+
+- [ ] [Loss function - Wikipedia](https://en.wikipedia.org/wiki/Loss_function)
+
+- [ ] [Meng Wanzhou - Wikipedia](https://en.wikipedia.org/wiki/Meng_Wanzhou)
+
+- [ ] [Monotonic function - Wikipedia](https://en.wikipedia.org/wiki/Monotonic_function)
+
+- [ ] [Nonparametric statistics - Wikipedia](https://en.wikipedia.org/wiki/Nonparametric_statistics)
+
+- [ ] [Random forest - Wikipedia](https://en.wikipedia.org/wiki/Random_forest#cite_note-kleinberg1990-4)
+
+- [ ] [Random subspace method - Wikipedia](https://en.wikipedia.org/wiki/Random_subspace_method)
+
+- [ ] [Randomized algorithm - Wikipedia](https://en.wikipedia.org/wiki/Randomized_algorithm)
+
+- [ ] [Regression analysis - Wikipedia](https://en.wikipedia.org/wiki/Regression_analysis)
+
+- [ ] [scikit-learn - Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
+
+- [ ] [Statistical classification - Wikipedia](https://en.wikipedia.org/wiki/Statistical_classification)
+
+- [ ] [Tin Kam Ho - Wikipedia](https://en.wikipedia.org/wiki/Tin_Kam_Ho)
+
+- [ ] [Year zero - Wikipedia](https://en.wikipedia.org/wiki/Year_zero)
+
+- [ ] [(1) @rnadworny/Top Professors on Twitter / Twitter](https://twitter.com/rnadworny/lists/top-professors)
+
+- [ ] [(1) @TensorFlo/>100,000xさんはTwitterを利用しています / Twitter](https://twitter.com/TensorFlo/lists/100-000x1)
+
+- [ ] [(1) #EconTwitter - Twitter検索 / Twitter](https://twitter.com/hashtag/EconTwitter?src=hashtag_click)
+
+- [ ] [(1) Alex Bell (@Alex_Bell86) / Twitter](https://twitter.com/alex_bell86)
+
+- [ ] [(1) Alice Evans on Twitter: "Communists are actually MORE competitive? Women who grew up in communist Beijing are more competitive than post-reform cohorts, &amp; their counterparts in Taipei. https://t.co/iRy7DiZs9D Fascinating study. My only query is the mechanism. Is it exposure to teachings or high FLFP? https://t.co/71rWHfaAv4" / Twitter](https://twitter.com/_alice_evans/status/1200470796172505088)
+
+- [ ] [(1) DeepMind (@DeepMindAI) / Twitter](https://twitter.com/DeepMindAI)
+
+- [ ] [(1) Elira Kuka（@EliraKuka）さん / Twitter](https://twitter.com/EliraKuka)
+
+- [ ] [(1) Eric Chyn（@EricChyn）さん / Twitter](https://twitter.com/EricChyn)
+
+- [ ] [(1) Georgina Cosma（@gcosma1）さん / Twitter](https://twitter.com/gcosma1)
+
+- [ ] [(1) Julia Powles (@juliapowles) / Twitter](https://twitter.com/juliapowles?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1062417183404445696&ref_url=https%3A%2F%2Fthenextweb.com%2Fartificial-intelligence%2F2019%2F12%2F06%2Fdeepminds-mustafa-suleyman-joins-google-ai%2F)
+
+- [ ] [(1) Laurie Macfarlane (@L__Macfarlane) / Twitter](https://twitter.com/L__Macfarlane)
+
+- [ ] [(1) Martha Bailey（@martha_j_bailey）さん / Twitter](https://twitter.com/martha_j_bailey)
+
+- [ ] [(1) Michael Stepner（@michaelstepner）さん / Twitter](https://twitter.com/michaelstepner)
+
+- [ ] [(1) Mohammed VI Polytechnic University（@UM6P_officiel）さん / Twitter](https://twitter.com/UM6P_officiel)
+
+- [ ] [(1) Profile / Twitter](https://twitter.com/kanair)
+
+- [ ] [(1) Robert Dur（@DurRobert）さん / Twitter](https://twitter.com/DurRobert)
+
+- [ ] [(1) Siddharth George（@siddyg88）さん / Twitter](https://twitter.com/siddyg88)
+
+- [ ] [(1) Tim Vieira @ NeurIPS (@xtimv) / Twitter](https://twitter.com/xtimv)
+
+- [ ] [(1) Zico Kolter (@zicokolter) / Twitter](https://twitter.com/zicokolter)
+
+- [ ] [(2) Alice EvansさんはTwitterを使っています: 「Communists are actually MORE competitive? Women who grew up in communist Beijing are more competitive than post-reform cohorts, &amp; their counterparts in Taipei. https://t.co/iRy7DiZs9D Fascinating study. My only query is the mechanism. Is it exposure to teachings or high FLFP? https://t.co/71rWHfaAv4」 / Twitter](https://twitter.com/_alice_evans/status/1200470796172505088)
+
+- [ ] [(2) Arden Dertat（@ardendertat）さん / Twitter](https://twitter.com/ardendertat)
+
+- [ ] [(2) Auschwitz MemorialさんはTwitterを使っています: 「Selling "Christmas ornaments" with images of Auschwitz does not seem appropriate. Auschwitz on a bottle opener is rather disturbing and disrespectful. We ask @amazon to remove the items of those suppliers. https://t.co/0uG2JG558e https://t.co/ucZoTWPk1W」 / Twitter](https://twitter.com/AuschwitzMuseum/status/1201069830553649153)
+
+- [ ] [(2) Carl MinznerさんはTwitterを使っています: 「(1/x) This is very *big*. And certain to get overlooked amid daily coverage of US-China relations/trade war/impeachment stuff. But let me try to drill down on why this is absolutely crucial. (with h/t to @stuartbasten, whose book is a must-read on this subject.) https://t.co/OiZFlgZf1R」 / Twitter](https://twitter.com/CarlMinzner/status/1201289127678726144)
+
+- [ ] [(2) Dan Jurafsky（@jurafsky）さん / Twitter](https://twitter.com/jurafsky)
+
+- [ ] [(2) OpenClassrooms（@OpenClassrooms）さん / Twitter](https://twitter.com/openclassrooms)
+
+- [ ] [(2) QuickTake by Bloomberg（@QuickTake）さん / Twitter](https://twitter.com/QuickTake)
+
+- [ ] [(2) Serge Belongie（@SergeBelongie）さん / Twitter](https://twitter.com/SergeBelongie)
+
+- [ ] [(2) Tomasz Malisiewicz（@quantombone）さん / Twitter](https://twitter.com/quantombone)
+
+- [ ] [@HouseGOP/House RepublicansさんはTwitterを利用しています / Twitter](https://twitter.com/HouseGOP/lists/house-republicans)
+
+- [ ] [@neweconforum/Reporting at NEF 2018さんはTwitterを利用しています / Twitter](https://twitter.com/neweconforum/lists/reporting-at-nef-2018)
+
+- [ ] [@TensorFlo/TensorFlow 1さんはTwitterを利用しています / Twitter](https://twitter.com/TensorFlo/lists/tensorflow-1)
+
+- [ ] [@wwwyq9994319557/推荐关注的さんはTwitterを利用しています / Twitter](https://twitter.com/wwwyq9994319557/lists/list)
+
+- [ ] [Alexey GuzeyさんはTwitterを使っています: 「Collected all of @gwern's most important writing in one place: https://t.co/DqtkEXZdb3」 / Twitter](https://twitter.com/alexeyguzey/status/1200828159849050112)
+
+- [ ] [Andreas Vlachos (@vlachos_nlp) / Twitter](https://twitter.com/vlachos_nlp)
+
+- [ ] [Chris Allen (@allen_chris77) / Twitter](https://twitter.com/allen_chris77)
+
+- [ ] [Clément Farabet（@clmt）さん / Twitter](https://twitter.com/clmt)
+
+- [ ] [Cleveland SEO Consulting (@seoagencyllc) / Twitter](https://twitter.com/seoagencyllc)
+
+- [ ] [Daniele Paserman（@DanielePaserman）さん / Twitter](https://twitter.com/DanielePaserman)
+
+- [ ] [David Mihalyi (@davidmihalyi) / Twitter](https://twitter.com/davidmihalyi)
+
+- [ ] [École polytechnique（@Polytechnique）さん / Twitter](https://twitter.com/Polytechnique)
+
+- [ ] [Fernando Pereira（@earnmyturns）さん / Twitter](https://twitter.com/earnmyturns)
+
+- [ ] [Gabriel Synnaeve 📎（@syhw）さん / Twitter](https://twitter.com/syhw)
+
+- [ ] [Graham Neubig (@gneubig) / Twitter](https://twitter.com/gneubig)
+
+- [ ] [Home / Twitter](https://twitter.com/home)
+
+- [ ] [https://twitter.com/JossFong](https://twitter.com/JossFong)
+
+- [ ] [Jamin Speer（@JaminSpeer）さん / Twitter](https://twitter.com/JaminSpeer)
+
+- [ ] [Julia Powles (@juliapowles) / Twitter](https://twitter.com/juliapowles?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1062417183404445696&ref_url=https%3A%2F%2Fthenextweb.com%2Fartificial-intelligence%2F2019%2F12%2F06%2Fdeepminds-mustafa-suleyman-joins-google-ai%2F)
+
+- [ ] [Julia Powles on Twitter: "This is TOTALLY unacceptable. DeepMind repeatedly, unconditionally promised to *never* connect people's intimate, identifiable health data to Google. Now it's announced...exactly that. This isn't transparency, it's trust demolition https://t.co/EWM7lxKSET (grabs: Powles &amp; Hodson) https://t.co/3BLQvH3dg1" / Twitter](https://twitter.com/juliapowles/status/1062417183404445696?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1062417183404445696&ref_url=https%3A%2F%2Fthenextweb.com%2Fartificial-intelligence%2F2019%2F12%2F06%2Fdeepminds-mustafa-suleyman-joins-google-ai%2F)
+
+- [ ] [Kent Walker (@Kent_Walker) / Twitter](https://twitter.com/Kent_Walker?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1202635124745154562&ref_url=https%3A%2F%2Fthenextweb.com%2Fartificial-intelligence%2F2019%2F12%2F06%2Fdeepminds-mustafa-suleyman-joins-google-ai%2F)
+
+- [ ] [Kent Walker (@Kent_Walker) / Twitter](https://twitter.com/Kent_Walker?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1202635124745154562&ref_url=https%3A%2F%2Fthenextweb.com%2Fartificial-intelligence%2F2019%2F12%2F06%2Fdeepminds-mustafa-suleyman-joins-google-ai%2F)
+
+- [ ] [Krish RaghavさんはTwitterを使っています: 「Some semi-useful lessons learned from five years in a small music company in Beijing: 1. The sites of progressive / radical values in China are not where you expect. Not all punk rockers and club heads are activists - they're just as likely to be Han supremacist nationalists.」 / Twitter](https://twitter.com/krishraghav/status/1200349865168949248)
+
+- [ ] [Morten O. RavnさんはTwitterを使っています: 「Confession: I am a macro economist. But I also love applied micro, micro theory and econometrics. I admire the care of identification in reduced form applied micro, the careful modeling in structural micro and in economic theory, and the depth of analysis in metrics. 1/n」 / Twitter](https://twitter.com/MortenORavn/status/1201187120876011521)
+
+- [ ] [Mustafa Suleyman (@mustafasuleymn) / Twitter](https://twitter.com/mustafasuleymn?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1202635124745154562&ref_url=https%3A%2F%2Fthenextweb.com%2Fartificial-intelligence%2F2019%2F12%2F06%2Fdeepminds-mustafa-suleyman-joins-google-ai%2F)
+
+- [ ] [Mustafa Suleyman on Twitter: "After a wonderful decade at DeepMind, I’m very excited to announce that I’ll be joining @Kent_Walker, @JeffDean and the fantastic team at Google to work on opportunities &amp; impacts of applied AI technologies. Can't wait to get going! More in Jan as I start the new job!" / Twitter](https://twitter.com/mustafasuleymn/status/1202635124745154562?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1202635124745154562&ref_url=https%3A%2F%2Fthenextweb.com%2Fartificial-intelligence%2F2019%2F12%2F06%2Fdeepminds-mustafa-suleyman-joins-google-ai%2F)
+
+- [ ] [Mustafa Suleyman on Twitter: "After a wonderful decade at DeepMind, I’m very excited to announce that I’ll be joining @Kent_Walker, @JeffDean and the fantastic team at Google to work on opportunities &amp; impacts of applied AI technologies. Can't wait to get going! More in Jan as I start the new job!" / Twitter](https://twitter.com/mustafasuleymn/status/1202635124745154562?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1202635124745154562&ref_url=https%3A%2F%2Fthenextweb.com%2Fartificial-intelligence%2F2019%2F12%2F06%2Fdeepminds-mustafa-suleyman-joins-google-ai%2F)
+
+- [ ] [Mustafa Suleyman on Twitter: "After a wonderful decade at DeepMind, I’m very excited to announce that I’ll be joining @Kent_Walker, @JeffDean and the fantastic team at Google to work on opportunities &amp; impacts of applied AI technologies. Can't wait to get going! More in Jan as I start the new job!" / Twitter](https://twitter.com/mustafasuleymn/status/1202635124745154562?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1202635124745154562&ref_url=https%3A%2F%2Fthenextweb.com%2Fartificial-intelligence%2F2019%2F12%2F06%2Fdeepminds-mustafa-suleyman-joins-google-ai%2F)
+
+- [ ] [(1) Mike Rosenwald (@mikerosenwald) / Twitter](https://twitter.com/mikerosenwald)
+
+- [ ] [Ryota Kanai (@kanair) / Twitter](https://twitter.com/kanair)
+
+- [ ] [Sasha Rush（@srush_nlp）さん / Twitter](https://twitter.com/srush_nlp)
+
+- [ ] [Scott Schaefer (@ScottSchaefer22) / Twitter](https://twitter.com/ScottSchaefer22)
+
+- [ ] [Tatyana Deryugina（@TDeryugina）さん / Twitter](https://twitter.com/TDeryugina)
+
+- [ ] [Ted Gioia（@tedgioia）さん / Twitter](https://twitter.com/tedgioia)
+
+- [ ] [Ted Gioia（@tedgioia）さん / Twitter](https://twitter.com/tedgioia)
+
+- [ ] [TelecomPTech（@TelecomPTech）さん / Twitter](https://twitter.com/TelecomPTech)
+
+- [ ] [UCL Institute for Innovation and Public Purpose（@IIPP_UCL）さん / Twitter](https://twitter.com/IIPP_UCL)
+
+- [ ] [(1) VoxEU (@voxeu) / Twitter](https://twitter.com/voxeu)
+
+- [ ] [Yoav Artzi（@yoavartzi）さん / Twitter](https://twitter.com/yoavartzi)
+
+- [ ] [プロフィール / Twitter](https://twitter.com/haldaume3)
+
+- [ ] [ホーム / Twitter](https://twitter.com/MazzucatoM/header_photo)
+
+- [ ] [ホーム / Twitter](https://twitter.com/alexip/header_photo)
+
+- [ ] [D2C 101: Why the Future of Retail is Vertical Commerce and D2C Brands - By Pranavi Cheemakurti](https://hackernoon.com/d2c-101-why-the-future-of-retail-is-vertical-commerce-and-d2c-brands-z9s3z2i)
+
+- [ ] [Interview with Deep Learning Researcher at fast.ai: Sylvain Gugger - By Sanyam Bhutani](https://hackernoon.com/interview-with-deep-learning-researcher-at-fast-ai-sylvain-gugger-7cb08fe2ff53)
+
+- [ ] [social-media-strategy - Hacker Noon](https://hackernoon.com/tagged/social-media-strategy)
+
+- [ ] [Using Data to Predict Bike Share Demand In London Without Code - By Jack Riewe](https://hackernoon.com/using-data-to-predict-bike-share-demand-in-london-fm11369b)
+
+- [ ] [Data visualizations and Sentiment analysis | Kaggle](https://www.kaggle.com/swarajp/data-visualizations-and-sentiment-analysis)
+
+- [ ] [EDA of Google Play Store Apps | Kaggle](https://www.kaggle.com/nilanml/eda-of-google-play-store-apps)
+
+- [ ] [Google App Rating | Kaggle](https://www.kaggle.com/raj1511/google-app-rating)
+
+- [ ] [Google Play Store Apps | Kaggle](https://www.kaggle.com/lava18/google-play-store-apps)
+
+- [ ] [Google Play Store EDA (plotting with Highcharts) | Kaggle](https://www.kaggle.com/danilodiogo/google-play-store-eda-plotting-with-highcharts)
+
+- [ ] [How to normalize dataframe pandas | Kaggle](https://www.kaggle.com/parasjindal96/how-to-normalize-dataframe-pandas)
+
+- [ ] [Machine Learning to predict app ratings | Kaggle](https://www.kaggle.com/jemseow/machine-learning-to-predict-app-ratings)
+
+- [ ] [ML to Visualization & Prediction of App Ratings | Kaggle](https://www.kaggle.com/rajeshjnv/ml-to-visualization-prediction-of-app-ratings)
+
+- [ ] [Noise analysis of Porto Seguro's features | Kaggle](https://www.kaggle.com/ogrellier/noise-analysis-of-porto-seguro-s-features)
+
+- [ ] [Noise analysis of Porto Seguro's features | Kaggle](https://www.kaggle.com/ogrellier/noise-analysis-of-porto-seguro-s-features)
+
+- [ ] [Rigorous analysis of google apps | Kaggle](https://www.kaggle.com/amrmahmoud123/rigorous-analysis-of-google-apps)
+
+- [ ] [Tic-Tac-Toe Machine Learning dataset | Kaggle](https://www.kaggle.com/fabdelja/tictactoe)
+
+- [ ] [Visualization Bokeh Tutorial for Beginners | Kaggle](https://www.kaggle.com/kralmachine/visualization-bokeh-tutorial-for-beginners)
+
+- [ ] [Visualization Bokeh Tutorial for Beginners | Kaggle](https://www.kaggle.com/kralmachine/visualization-bokeh-tutorial-for-beginners)
+
+- [ ] [032918_1106_Generalized16.png (717×305)](https://www.guru99.com/images/r_programming/032918_1106_Generalized16.png)
+
+- [ ] [Alex Bell - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR1qxTHB_N4ngAzuwtJWKF7kHpzsg:1575374685944&q=Alex+Bell&stick=H4sIAAAAAAAAAONgFuLRT9c3zEguyk4vyDBVQuFpCWcnW-kn5-fm5udZFWempJYnVhYvYuV0zEmtUHBKzcnZwcoIAIZYmI9CAAAA&sa=X&ved=2ahUKEwjFuayEuJnmAhXYwosBHdOvD94QzTooATB-egQIZhAC)
+
+- [ ] [Alex Bell - Google Search](https://www.google.com/search?q=Alex+Bell&oq=Alex+Bell&aqs=chrome..69i57j69i61l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [ann classification model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=ann%20classification%20model&ved=2ahUKEwjP8pfK_aLmAhUvGqYKHUUwAwsQsKwBKAJ6BAgAEAM&biw=1920&bih=899)
+
+- [ ] [ann classification model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=ann%20classification%20model&ved=2ahUKEwj9nJfM_aLmAhVZIqYKHRS7C1AQsKwBKAB6BAgBEAE)
+
+- [ ] [cachesweave - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=cachesweave&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAN6BAgAEAQ)
+
+- [ ] [calculate logistic regression coefficients - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPoyk1H1-gfb7367d5n42rJ9mAPw%3A1575645555264&lei=c3HqXbjfD8uQr7wPppe-gAs&q=calculate%20logistic%20regression%20coefficients&ved=2ahUKEwiHiq6OqaHmAhXNyosBHc_7A60QsKwBKAV6BAgBEAY)
+
+- [ ] [can you convert odds ratio to percentage? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPoyk1H1-gfb7367d5n42rJ9mAPw%3A1575645555264&lei=c3HqXbjfD8uQr7wPppe-gAs&q=can%20you%20convert%20odds%20ratio%20to%20percentage%3F&ved=2ahUKEwiHiq6OqaHmAhXNyosBHc_7A60QsKwBKAV6BAgAEAY)
+
+- [ ] [confusion matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw:1575643453004&q=confusion+matrix&tbm=isch&source=univ&sa=X&ved=2ahUKEwi5_7uioaHmAhU6L6YKHe7xAnQQiR56BAgLEBA)
+
+- [ ] [confusion matrix - Google Search](https://www.google.com/search?q=confusion+matrix&newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw:1575643453004&tbm=isch&source=iu&ictx=1&fir=ZH8M9hQ__uqDXM%253A%252Cj5uYZDebx1HmNM%252C_&vet=1&usg=AI4_-kQVYjgu9UlDItlxxWwbOv-6b8OlHA&sa=X&ved=2ahUKEwi5_7uioaHmAhU6L6YKHe7xAnQQ9QEwAHoECAgQAw#imgrc=ZH8M9hQ__uqDXM:)
+
+- [ ] [confusion matrix 3x3 example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw:1575643453004&q=confusion+matrix+3x3+example&sa=X&ved=2ahUKEwi5_7uioaHmAhU6L6YKHe7xAnQQ1QIoB3oECG0QCA)
+
+- [ ] [confusion matrix for decision tree in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA%3A1575643347169&lei=02jqXd6ACo_U0gSTlLmgBQ&q=confusion%20matrix%20for%20decision%20tree%20in%20r&ved=2ahUKEwiqr8_woKHmAhXky4sBHT2DCUEQsKwBKAJ6BAgBEAM)
+
+- [ ] [confusion matrix for multiple classes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw%3A1575643453004&lei=PGnqXbnxPLremAXu44ugBw&q=confusion%20matrix%20for%20multiple%20classes&ved=2ahUKEwjj1IeloaHmAhVjHKYKHdCqA9sQsKwBKAJ6BAgBEAM)
+
+- [ ] [confusion matrix in r caret - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA%3A1575643347169&lei=02jqXd6ACo_U0gSTlLmgBQ&q=confusion%20matrix%20in%20r%20caret&ved=2ahUKEwiqr8_woKHmAhXky4sBHT2DCUEQsKwBKAN6BAgBEAQ)
+
+- [ ] [confusion matrix in r logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA%3A1575643347169&lei=02jqXd6ACo_U0gSTlLmgBQ&q=confusion%20matrix%20in%20r%20logistic%20regression&ved=2ahUKEwiqr8_woKHmAhXky4sBHT2DCUEQsKwBKAR6BAgBEAU)
+
+- [ ] [confusion matrix in r logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA:1575643347169&q=confusion+matrix+in+r+logistic+regression&sa=X&ved=2ahUKEwietoDwoKHmAhUPqpQKHRNKDlQQ1QIoBXoECGQQBg)
+
+- [ ] [confusion matrix in r random forest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA%3A1575643347169&lei=02jqXd6ACo_U0gSTlLmgBQ&q=confusion%20matrix%20in%20r%20random%20forest&ved=2ahUKEwiqr8_woKHmAhXky4sBHT2DCUEQsKwBKAF6BAgBEAI)
+
+- [ ] [confusion matrix in r stack overflow - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA:1575643347169&q=confusion+matrix+in+r+stack+overflow&sa=X&ved=2ahUKEwietoDwoKHmAhUPqpQKHRNKDlQQ1QIoBnoECGQQBw)
+
+- [ ] [confusion matrix intuituion - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw%3A1575643453004&ei=PGnqXbnxPLremAXu44ugBw&q=confusion+matrix+intuituion&oq=confusion+matrix+intuituion&gs_l=psy-ab.3..0i71l8.62747.64127..64383...0.2..0.0.0.......0....1..gws-wiz.19xzaVhSJQQ&ved=0ahUKEwi5_7uioaHmAhU6L6YKHe7xAnQQ4dUDCAs&uact=5)
+
+- [ ] [confusion matrix matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw:1575643453004&q=confusion+matrix+matlab&sa=X&ved=2ahUKEwi5_7uioaHmAhU6L6YKHe7xAnQQ1QIoBHoECG0QBQ)
+
+- [ ] [confusion matrix precision recall - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaJBBvNerzZk_fYWJBPE4rubZTIg%3A1575643407344&lei=D2nqXeW3FMCKr7wP2KOrwAQ&q=confusion%20matrix%20precision%20recall&ved=2ahUKEwifub2NoaHmAhXPG6YKHZOZBKwQsKwBKAN6BAgBEAQ)
+
+- [ ] [confusion matrix precision recall - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw%3A1575643453004&lei=PGnqXbnxPLremAXu44ugBw&q=confusion%20matrix%20precision%20recall&ved=2ahUKEwjj1IeloaHmAhVjHKYKHdCqA9sQsKwBKAN6BAgBEAQ)
+
+- [ ] [confusion matrix python without library - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaJBBvNerzZk_fYWJBPE4rubZTIg%3A1575643407344&lei=D2nqXeW3FMCKr7wP2KOrwAQ&q=confusion%20matrix%20python%20without%20library&ved=2ahUKEwifub2NoaHmAhXPG6YKHZOZBKwQsKwBKAJ6BAgBEAM)
+
+- [ ] [confusion matrix sklearn - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw:1575643453004&q=confusion+matrix+sklearn&sa=X&ved=2ahUKEwi5_7uioaHmAhU6L6YKHe7xAnQQ1QIoAHoECG0QAQ)
+
+- [ ] [convert neural network to logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=convert%20neural%20network%20to%20logistic%20regression&ved=2ahUKEwjP8pfK_aLmAhUvGqYKHUUwAwsQsKwBKAR6BAgAEAU)
+
+- [ ] [cost cutting ideas for large companies - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=939&sxsrf=ACYBGNTb27takBKH4Pw6WBYkVjdCITkK2Q:1575556262064&q=cost+cutting+ideas+for+large+companies&sa=X&ved=2ahUKEwjDt8u63J7mAhUEK6YKHeJ5CngQ1QIoAHoECGQQAQ&cshid=1575556271154528)
+
+- [ ] [could not find function "confusionmatrix" - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA%3A1575643347169&lei=02jqXd6ACo_U0gSTlLmgBQ&q=could%20not%20find%20function%20%22confusionmatrix%22&ved=2ahUKEwiqr8_woKHmAhXky4sBHT2DCUEQsKwBKAV6BAgBEAY)
+
+- [ ] [could not find function "rpart" - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=could%20not%20find%20function%20%22rpart%22&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAJ6BAgAEAM)
+
+- [ ] [ctree plot interpretation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=ctree%20plot%20interpretation&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAF6BAgIEAI)
+
+- [ ] [Debra Lieberman - Google Search](https://www.google.com/search?q=Debra+Lieberman&oq=Debra+Lieberman&aqs=chrome..69i57j69i61l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [decision tree classification using excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSUyCybm-Q2S_u6kSAFhDycyini3w%3A1575703634789&lei=UlTrXYnYL9-Xr7wPzraQ0A0&q=decision%20tree%20classification%20using%20excel&ved=2ahUKEwjLuKm8gaPmAhU4yIsBHQ8ZCW8QsKwBKAB6BAgAEAE)
+
+- [ ] [decision tree in excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSUyCybm-Q2S_u6kSAFhDycyini3w%3A1575703634789&lei=UlTrXYnYL9-Xr7wPzraQ0A0&q=decision%20tree%20in%20excel&ved=2ahUKEwjLuKm8gaPmAhU4yIsBHQ8ZCW8QsKwBKAV6BAgAEAY)
+
+- [ ] [difference between writing and publishing - Google Search](https://www.google.com/search?q=difference+between+writing+and+publishing&oq=differnce+between+writing+and+publish&aqs=chrome.1.69i57j0l4j69i64l3.11321j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [dplyr count distinct - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSL1uDsPzXm7Fmb8el0Z25fqu2-8w%3A1575644199266&lei=J2zqXfftD4ymmAWOvIXAAg&q=dplyr%20count%20distinct&ved=2ahUKEwi-_5aHpKHmAhVzyosBHdq3BlYQsKwBKAB6BAgCEAE)
+
+- [ ] [dplyr group by not working - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSL1uDsPzXm7Fmb8el0Z25fqu2-8w%3A1575644199266&lei=J2zqXfftD4ymmAWOvIXAAg&q=dplyr%20group%20by%20not%20working&ved=2ahUKEwi-_5aHpKHmAhVzyosBHdq3BlYQsKwBKAV6BAgCEAY)
+
+- [ ] [dplyr summarise tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSL1uDsPzXm7Fmb8el0Z25fqu2-8w%3A1575644199266&lei=J2zqXfftD4ymmAWOvIXAAg&q=dplyr%20summarise%20tutorial&ved=2ahUKEwi-_5aHpKHmAhVzyosBHdq3BlYQsKwBKAJ6BAgCEAM)
+
+- [ ] [feature importance paper - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA%3A1575647749163&lei=BXrqXaPICb2Lr7wPp9G06AU&q=feature%20importance%20paper&ved=2ahUKEwj-wvWksaHmAhXPG6YKHZOZBKwQsKwBKAN6BAgDEAQ)
+
+- [ ] [fit is not a tree, just a root - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=fit%20is%20not%20a%20tree%2C%20just%20a%20root&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAN6BAgCEAQ)
+
+- [ ] [fit is not a tree, just a root - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=fit%20is%20not%20a%20tree%2C%20just%20a%20root&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAR6BAgAEAU)
+
+- [ ] [generalized linear model - Google Search](https://www.google.com/search?q=generalized+linear+model&oq=generalized+linear+model&aqs=chrome..69i57j69i59j69i65&sourceid=chrome&ie=UTF-8)
+
+- [ ] [generalized linear model in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR5fhwDZcRFSUFb4OrOKNJtr712Yw:1575902027199&q=generalized+linear+model+in+r&tbm=isch&source=univ&sa=X&ved=2ahUKEwiirqDE5KjmAhUIy4sBHXBMAcEQsAR6BAgFEAE&cshid=1575902029082777)
+
+- [ ] [generalized linear model in r explanation power - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR5fhwDZcRFSUFb4OrOKNJtr712Yw%3A1575902027199&ei=S1vuXeLcC4iWr7wP8JiFiAw&q=generalized+linear+model+in+r+explanation+power&oq=generalized+linear+model+in+r+explanation+power&gs_l=psy-ab.3..0i71l8.910833.922135..922350...0.2..0.0.0.......0....1..gws-wiz.6x8rMp6XvUE&ved=0ahUKEwiirqDE5KjmAhUIy4sBHXBMAcEQ4dUDCAs&uact=5)
+
+- [ ] [ggplot log axis r - Google Search](https://www.google.com/search?q=ggplot+log+axis+r&oq=ggplot+log+axis+r+&aqs=chrome..69i57j0l7.12985j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [gini importance wiki - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA%3A1575647749163&lei=BXrqXaPICb2Lr7wPp9G06AU&q=gini%20importance%20wiki&ved=2ahUKEwj-wvWksaHmAhXPG6YKHZOZBKwQsKwBKAF6BAgFEAI)
+
+- [ ] [gini index random forest formula - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA%3A1575647749163&lei=BXrqXaPICb2Lr7wPp9G06AU&q=gini%20index%20random%20forest%20formula&ved=2ahUKEwj-wvWksaHmAhXPG6YKHZOZBKwQsKwBKAF6BAgDEAI)
+
+- [ ] [gini index random forest python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA%3A1575647749163&lei=BXrqXaPICb2Lr7wPp9G06AU&q=gini%20index%20random%20forest%20python&ved=2ahUKEwj-wvWksaHmAhXPG6YKHZOZBKwQsKwBKAJ6BAgDEAM)
+
+- [ ] [glm function in r logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR5fhwDZcRFSUFb4OrOKNJtr712Yw:1575902027199&q=glm+function+in+r+logistic+regression&sa=X&ved=2ahUKEwiirqDE5KjmAhUIy4sBHXBMAcEQ1QIoBHoECGcQBQ&cshid=1575902029082777)
+
+- [ ] [google play download kaggle linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT5m_ffUiGuHanSaf3rncRqKCjQoA%3A1575900584776&ei=qFXuXc6ML5mKr7wP2u-IOA&q=google+play+download+kaggle+linear+regression&oq=google+play+download+kaggle+linear+regression&gs_l=psy-ab.3...545538.548814..549418...0.3..1.991.3892.0j3j0j1j1j0j3......0....1..gws-wiz.......0i71.OLvy7NoXxQw&ved=0ahUKEwjOgLqU36jmAhUZxYsBHdo3AgcQ4dUDCAs&uact=5)
+
+- [ ] [how to calculate mean decrease accuracy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA:1575647749163&q=how+to+calculate+mean+decrease+accuracy&sa=X&ved=2ahUKEwjj3oSjsaHmAhW9xYsBHacoDV0Q1QIoA3oECGMQBA)
+
+- [ ] [how to calculate the correlation coefficient for data frame fatest python - Google Search](https://www.google.com/search?q=how+to+calculate+the+correlation+coefficient+for+data+frame+fatest+python&oq=how+to+calculate+the+correlation+coefficient+for+data+frame+fatest+python&aqs=chrome..69i57.16958j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [how to interpret variable importance in random forest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA:1575647749163&q=how+to+interpret+variable+importance+in+random+forest&sa=X&ved=2ahUKEwjj3oSjsaHmAhW9xYsBHacoDV0Q1QIoAnoECGMQAw)
+
+- [ ] [intercept logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPoyk1H1-gfb7367d5n42rJ9mAPw%3A1575645555264&lei=c3HqXbjfD8uQr7wPppe-gAs&q=intercept%20logistic%20regression&ved=2ahUKEwiHiq6OqaHmAhXNyosBHc_7A60QsKwBKAJ6BAgBEAM)
+
+- [ ] [interpreting glm output in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR5fhwDZcRFSUFb4OrOKNJtr712Yw:1575902027199&q=interpreting+glm+output+in+r&sa=X&ved=2ahUKEwiirqDE5KjmAhUIy4sBHXBMAcEQ1QIoAnoECGcQAw&cshid=1575902029082777)
+
+- [ ] [cran.r-project.org](https://cran.r-project.org/web/packages/HSAUR/vignettes/Ch_logistic_regression_glm.pdf)
+
+- [ ] [interpreting logit coefficients stata - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPoyk1H1-gfb7367d5n42rJ9mAPw%3A1575645555264&lei=c3HqXbjfD8uQr7wPppe-gAs&q=interpreting%20logit%20coefficients%20stata&ved=2ahUKEwiHiq6OqaHmAhXNyosBHc_7A60QsKwBKAB6BAgBEAE)
+
+- [ ] [QMIN09-GLMIntro.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://psych.colorado.edu/~carey/qmin/qminChapters/QMIN09-GLMIntro.pdf)
+
+- [ ] [interpreting odds ratio less than 1 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPoyk1H1-gfb7367d5n42rJ9mAPw%3A1575645555264&lei=c3HqXbjfD8uQr7wPppe-gAs&q=interpreting%20odds%20ratio%20less%20than%201&ved=2ahUKEwiHiq6OqaHmAhXNyosBHc_7A60QsKwBKAB6BAgAEAE)
+
+- [ ] [it for multi-class classification via the One-vs-All or One-vs-One approaches (or do related softmax regression / multinomial logistic regression); - Google Search](https://www.google.com/search?q=it+for+multi-class+classification+via+the+One-vs-All+or+One-vs-One+approaches+(or+do+related+softmax+regression+%2F+multinomial+logistic+regression)%3B&oq=it+for+multi-class+classification+via+the+One-vs-All+or+One-vs-One+approaches+(or+do+related+softmax+regression+%2F+multinomial+logistic+regression)%3B&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Kleinberg E - Google Search](https://www.google.com/search?q=Kleinberg+E&oq=Kleinberg+E&aqs=chrome..69i57j69i60l3&sourceid=chrome&ie=UTF-8)
+
+- [ ] [linear regression odds ratio - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPoyk1H1-gfb7367d5n42rJ9mAPw%3A1575645555264&lei=c3HqXbjfD8uQr7wPppe-gAs&q=linear%20regression%20odds%20ratio&ved=2ahUKEwiHiq6OqaHmAhXNyosBHc_7A60QsKwBKAF6BAgAEAI)
+
+- [ ] [Liu Xiaozong - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQm1RPgSi9wowYdIdC9hJW_dXMxFw:1575377217139&q=Liu+Xiaozong&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEzLMjYyT7E0UoJxzbNyU_KytCSyk630C1LzC3JSgVRRcX6eVXFBfmlx6iJWHp_MUoWIzMT8qvy8dADTHd6ESQAAAA&sa=X&ved=2ahUKEwiKr6i7wZnmAhX-yosBHTvPAlgQmxMoATBxegQIZxAc)
+
+- [ ] [log odds to probability calculator - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPoyk1H1-gfb7367d5n42rJ9mAPw%3A1575645555264&lei=c3HqXbjfD8uQr7wPppe-gAs&q=log%20odds%20to%20probability%20calculator&ved=2ahUKEwiHiq6OqaHmAhXNyosBHc_7A60QsKwBKAN6BAgAEAQ)
+
+- [ ] [logistic regression architecture - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=logistic%20regression%20architecture&ved=2ahUKEwjP8pfK_aLmAhUvGqYKHUUwAwsQsKwBKAB6BAgAEAE)
+
+- [ ] [logistic regression as a neural network github - Google Search](https://www.google.com/search?q=logistic+regression+as+a+neural+network+github&oq=logistic+regression+as+neural+network+&aqs=chrome.1.69i59j0l7.1476j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [logistic regression as neural network - Google Search](https://www.google.com/search?q=logistic+regression+as+neural+network&oq=logistic-regression++as+neural+&aqs=chrome.1.69i57j0l7.3552j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [logistic regression hidden units - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=logistic%20regression%20hidden%20units&ved=2ahUKEwjP8pfK_aLmAhUvGqYKHUUwAwsQsKwBKAF6BAgAEAI)
+
+- [ ] [logistic regression intercept and coefficient - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPoyk1H1-gfb7367d5n42rJ9mAPw%3A1575645555264&lei=c3HqXbjfD8uQr7wPppe-gAs&q=logistic%20regression%20intercept%20and%20coefficient&ved=2ahUKEwiHiq6OqaHmAhXNyosBHc_7A60QsKwBKAR6BAgBEAU)
+
+- [ ] [logistic regression large coefficients - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPoyk1H1-gfb7367d5n42rJ9mAPw%3A1575645555264&lei=c3HqXbjfD8uQr7wPppe-gAs&q=logistic%20regression%20large%20coefficients&ved=2ahUKEwiHiq6OqaHmAhXNyosBHc_7A60QsKwBKAR6BAgAEAU)
+
+- [ ] [logistic regression large coefficients - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSPoyk1H1-gfb7367d5n42rJ9mAPw%3A1575645555264&lei=c3HqXbjfD8uQr7wPppe-gAs&q=logistic%20regression%20large%20coefficients&ved=2ahUKEwiHiq6OqaHmAhXNyosBHc_7A60QsKwBKAF6BAgBEAI)
+
+- [ ] [logistic regression machine learning - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=logistic%20regression%20machine%20learning&ved=2ahUKEwj9nJfM_aLmAhVZIqYKHRS7C1AQsKwBKAF6BAgBEAI&biw=1920&bih=899)
+
+- [ ] [logistic regression neural network classifier - Google Search](https://www.google.com/search?q=logistic+regression+neural+network+classifier&oq=logistic+regression+as+neural+network+&aqs=chrome.4.69i59l3j0l5.1901j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [logistic regression neural network classifier - Google Search](https://www.google.com/search?q=logistic+regression+neural+network+classifier&oq=logistic+regression+as+neural+network+&aqs=chrome.4.69i59l3j0l5.1901j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [logistic regression neural network python - Google Search](https://www.google.com/search?q=logistic+regression+neural+network+python&oq=logistic+regression+as+neural+network&aqs=chrome.3.69i57j69i59l2j0l5.1823j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [logistic regression slope interpretation - Google Search](https://www.google.com/search?q=logistic+regression+slope+interpretation&oq=logestic+regression+sl&aqs=chrome.3.69i57j0l7.10601j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [logistic-regression - Google Search](https://www.google.com/search?q=logistic-regression&oq=logistic-regression&aqs=chrome..69i57j69i65l3j69i60l2j69i64j69i60.764j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [loss matrix decision tree - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=loss%20matrix%20decision%20tree&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAV6BAgGEAY)
+
+- [ ] [mariana mazzucato - Google Search](https://www.google.com/search?q=mariana+mazzucato&oq=Mariana+Mazzucato&aqs=chrome.0.0j46j0l4j69i61l2.718j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Mariana Mazzucato - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQYNecUYsR6esnbl1I3GTZSmOLnUg:1575374399111&q=Mariana+Mazzucato&stick=H4sIAAAAAAAAAONgFuLSz9U3SM9KKi7PVkJia0llJ1vpF6TmF-SkAqmi4vw8q-LMlNTyxMriRayCvolFmYl5iQq-iVVVpcmJJfk7WBkBvE28C00AAAA&sa=X&ved=2ahUKEwi708n7tpnmAhWnBKYKHZVCBwcQzTooATCAAXoECGgQAg)
+
+- [ ] [mariana mazzucato aoc - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQYNecUYsR6esnbl1I3GTZSmOLnUg%3A1575374399111&lei=P07mXfu3BqeJmAWVhZ04&q=mariana%20mazzucato%20aoc&ved=2ahUKEwiri6f9tpnmAhU6yYsBHZoXDcQQsKwBKAR6BAgEEAU)
+
+- [ ] [mariana mazzucato books - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQYNecUYsR6esnbl1I3GTZSmOLnUg:1575374399111&q=mariana+mazzucato+books&stick=H4sIAAAAAAAAAONgFuLSz9U3SM9KKi7PVkJia0llJ1vpJ-XnZ-snlpZk5BdZgdjFCvl5OZWLWMVzE4syE_MSFXITq6pKkxNL8hXA0jtYGQEscsWMUwAAAA&sa=X&ved=2ahUKEwi708n7tpnmAhWnBKYKHZVCBwcQzTooATB-egQIZBAC)
+
+- [ ] [mariana mazzucato quartz - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQYNecUYsR6esnbl1I3GTZSmOLnUg%3A1575374399111&lei=P07mXfu3BqeJmAWVhZ04&q=mariana%20mazzucato%20quartz&ved=2ahUKEwiri6f9tpnmAhU6yYsBHZoXDcQQsKwBKAJ6BAgEEAM)
+
+- [ ] [matrix minus vector - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT1tTt76UDgFDm4tUDjQgLQndtb0g%3A1575286994761&lei=0vjkXd-ULs6zmAXLx7GQCw&q=matrix%20minus%20vector&ved=2ahUKEwit6Oav8ZbmAhWMxYsBHed7AU4QsKwBKAR6BAgEEAU)
+
+- [ ] [mean decrease accuracy explained - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA:1575647749163&q=mean+decrease+accuracy+explained&sa=X&ved=2ahUKEwjj3oSjsaHmAhW9xYsBHacoDV0Q1QIoBHoECGMQBQ)
+
+- [ ] [mean decrease accuracy random forest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA:1575647749163&q=mean+decrease+accuracy+random+forest&sa=X&ved=2ahUKEwjj3oSjsaHmAhW9xYsBHacoDV0Q1QIoAXoECGMQAg)
+
+- [ ] [mean decrease accuracy random forest python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA:1575647749163&q=mean+decrease+accuracy+random+forest+python&sa=X&ved=2ahUKEwjj3oSjsaHmAhW9xYsBHacoDV0Q1QIoBXoECGMQBg)
+
+- [ ] [Michael Shermer - Google Search](https://www.google.com/search?q=Michael+Shermer&oq=Michael+Shermer&aqs=chrome..69i57j69i61l2&sourceid=chrome&ie=UTF-8)
+
+- [ ] [mit computer science crash course - Google Search](https://www.google.com/search?q=mit+computer+science+crash+course&oq=mit+computer+science+crash+course&aqs=chrome..69i57j33l2.9287j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [multi class confusion matrix calculator - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw%3A1575643453004&lei=PGnqXbnxPLremAXu44ugBw&q=multi%20class%20confusion%20matrix%20calculator&ved=2ahUKEwjj1IeloaHmAhVjHKYKHdCqA9sQsKwBKAF6BAgIEAI)
+
+- [ ] [multiclass confusion matrix python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw:1575643453004&q=multiclass+confusion+matrix+python&sa=X&ved=2ahUKEwi5_7uioaHmAhU6L6YKHe7xAnQQ1QIoBnoECG0QBw)
+
+- [ ] [multiple linear regression vs neural network - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=multiple%20linear%20regression%20vs%20neural%20network&ved=2ahUKEwjP8pfK_aLmAhUvGqYKHUUwAwsQsKwBKAV6BAgAEAY)
+
+- [ ] [multiple regression basics - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5HQu_25BA7WQEAc2JRto1LQWx9A%3A1575331632110&lei=MKflXcasBovdmAXp6YIg&q=multiple%20regression%20basics&ved=2ahUKEwjlgc_Tl5jmAhVWyYsBHYVrC30QsKwBKAB6BAgAEAE)
+
+- [ ] [multiple regression questions and answers pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5HQu_25BA7WQEAc2JRto1LQWx9A%3A1575331632110&lei=MKflXcasBovdmAXp6YIg&q=multiple%20regression%20questions%20and%20answers%20pdf&ved=2ahUKEwjlgc_Tl5jmAhVWyYsBHYVrC30QsKwBKAV6BAgAEAY)
+
+- [ ] [n() r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSL1uDsPzXm7Fmb8el0Z25fqu2-8w%3A1575644199266&lei=J2zqXfftD4ymmAWOvIXAAg&q=n()%20r&ved=2ahUKEwi-_5aHpKHmAhVzyosBHdq3BlYQsKwBKAV6BAgEEAY&biw=1920&bih=948)
+
+- [ ] [neural network regression vs classification - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=neural%20network%20regression%20vs%20classification&ved=2ahUKEwj9nJfM_aLmAhVZIqYKHRS7C1AQsKwBKAV6BAgCEAY)
+
+- [ ] [neural network vs linear regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=neural%20network%20vs%20linear%20regression&ved=2ahUKEwj9nJfM_aLmAhVZIqYKHRS7C1AQsKwBKAJ6BAgCEAM)
+
+- [ ] [node impurity - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA%3A1575647749163&lei=BXrqXaPICb2Lr7wPp9G06AU&q=node%20impurity&ved=2ahUKEwj-wvWksaHmAhXPG6YKHZOZBKwQsKwBKAB6BAgDEAE)
+
+- [ ] [node impurity random forest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA%3A1575647749163&lei=BXrqXaPICb2Lr7wPp9G06AU&q=node%20impurity%20random%20forest&ved=2ahUKEwj-wvWksaHmAhXPG6YKHZOZBKwQsKwBKAJ6BAgFEAM)
+
+- [ ] [numpy norm linalg - Google Search](https://www.google.com/search?q=numpy+norm+linalg&oq=numpy+norm+lin&aqs=chrome.0.0j69i57j0l6.6302j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [package required for confusion matrix in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA:1575643347169&q=package+required+for+confusion+matrix+in+r&sa=X&ved=2ahUKEwietoDwoKHmAhUPqpQKHRNKDlQQ1QIoAHoECGQQAQ)
+
+- [ ] [pandas get average of all rows - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBW60U_PPQGCORqXBj4-KZ3WShRA%3A1575287954669&lei=kvzkXfS0KICVr7wPsPmhEA&q=pandas%20get%20average%20of%20all%20rows&ved=2ahUKEwjWxqr79JbmAhX7IaYKHfIOC_4QsKwBKAV6BAgFEAY)
+
+- [ ] [pandas groupby mean ignore nan - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBW60U_PPQGCORqXBj4-KZ3WShRA%3A1575287954669&lei=kvzkXfS0KICVr7wPsPmhEA&q=pandas%20groupby%20mean%20ignore%20nan&ved=2ahUKEwjWxqr79JbmAhX7IaYKHfIOC_4QsKwBKAJ6BAgFEAM)
+
+- [ ] [pandas mean by group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBW60U_PPQGCORqXBj4-KZ3WShRA%3A1575287954669&lei=kvzkXfS0KICVr7wPsPmhEA&q=pandas%20mean%20by%20group&ved=2ahUKEwjWxqr79JbmAhX7IaYKHfIOC_4QsKwBKAF6BAgFEAI)
+
+- [ ] [pandas series mean - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBW60U_PPQGCORqXBj4-KZ3WShRA%3A1575287954669&lei=kvzkXfS0KICVr7wPsPmhEA&q=pandas%20series%20mean&ved=2ahUKEwjWxqr79JbmAhX7IaYKHfIOC_4QsKwBKAB6BAgFEAE)
+
+- [ ] [pandas standard deviation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBW60U_PPQGCORqXBj4-KZ3WShRA%3A1575287954669&lei=kvzkXfS0KICVr7wPsPmhEA&q=pandas%20standard%20deviation&ved=2ahUKEwjWxqr79JbmAhX7IaYKHfIOC_4QsKwBKAR6BAgFEAU)
+
+- [ ] [pandas standard deviation of column - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBW60U_PPQGCORqXBj4-KZ3WShRA:1575287954669&q=pandas+standard+deviation+of+column&sa=X&ved=2ahUKEwj0xdP39JbmAhWAyosBHbB8CAIQ1QIoB3oECGYQCA)
+
+- [ ] [pandas weighted mean - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSBW60U_PPQGCORqXBj4-KZ3WShRA%3A1575287954669&lei=kvzkXfS0KICVr7wPsPmhEA&q=pandas%20weighted%20mean&ved=2ahUKEwjWxqr79JbmAhX7IaYKHfIOC_4QsKwBKAN6BAgFEAQ)
+
+- [ ] [partial regression plot r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5HQu_25BA7WQEAc2JRto1LQWx9A%3A1575331632110&lei=MKflXcasBovdmAXp6YIg&q=partial%20regression%20plot%20r&ved=2ahUKEwjlgc_Tl5jmAhVWyYsBHYVrC30QsKwBKAJ6BAgAEAM)
+
+- [ ] [partial regression plots - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQ5HQu_25BA7WQEAc2JRto1LQWx9A%3A1575331632110&lei=MKflXcasBovdmAXp6YIg&q=partial%20regression%20plots&ved=2ahUKEwjlgc_Tl5jmAhVWyYsBHYVrC30QsKwBKAF6BAgAEAI)
+
+- [ ] [partial spearman correlation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3TYZr8igL3qcFkKyWC0a4Q66MgQ%3A1575286446769&lei=rvbkXdvDLsS2mAWQoKaICQ&q=partial%20spearman%20correlation&ved=2ahUKEwjU2IOq75bmAhUKGqYKHV__Dg8QsKwBKAN6BAgAEAQ)
+
+- [ ] [pd.crosstab confusion matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaJBBvNerzZk_fYWJBPE4rubZTIg%3A1575643407344&lei=D2nqXeW3FMCKr7wP2KOrwAQ&q=pd.crosstab%20confusion%20matrix&ved=2ahUKEwifub2NoaHmAhXPG6YKHZOZBKwQsKwBKAV6BAgBEAY)
+
+- [ ] [pearson correlation implementation python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3TYZr8igL3qcFkKyWC0a4Q66MgQ%3A1575286446769&lei=rvbkXdvDLsS2mAWQoKaICQ&q=pearson%20correlation%20implementation%20python&ved=2ahUKEwjU2IOq75bmAhUKGqYKHV__Dg8QsKwBKAV6BAgAEAY)
+
+- [ ] [pearsonr scipy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT3TYZr8igL3qcFkKyWC0a4Q66MgQ%3A1575286446769&lei=rvbkXdvDLsS2mAWQoKaICQ&q=pearsonr%20scipy&ved=2ahUKEwjU2IOq75bmAhUKGqYKHV__Dg8QsKwBKAR6BAgAEAU)
+
+- [ ] [pycm github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw%3A1575643453004&lei=PGnqXbnxPLremAXu44ugBw&q=pycm%20github&ved=2ahUKEwjj1IeloaHmAhVjHKYKHdCqA9sQsKwBKAR6BAgIEAU)
+
+- [ ] [r codes linear assumptions in liner regression - Google Search](https://www.google.com/search?newwindow=1&biw=1920&bih=899&sxsrf=ACYBGNQNsBPFEWpeKhiKXE4JnxWM90Vosg%3A1575331682683&ei=YqflXdyzKZG5mAWF3ayoCw&q=r+codes+linear+assumptions+in+liner+regression&oq=r+codes+linear+assumptions+in+liner+regression&gs_l=psy-ab.3..33i22i10i29i30.14820.23284..23559...0.5..1.264.5682.9j32j5......0....1..gws-wiz.......0i71j35i39j0i67j0i273j0i131j0j0i131i67j0i131i20i263j0i22i30j33i22i29i30j33i10j33i160j33i299.V4y_EhbxCC8&ved=0ahUKEwjc7OXql5jmAhWRHKYKHYUuC7UQ4dUDCAs&uact=5)
+
+- [ ] [r confusion matrix plot - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA%3A1575643347169&lei=02jqXd6ACo_U0gSTlLmgBQ&q=r%20confusion%20matrix%20plot&ved=2ahUKEwiqr8_woKHmAhXky4sBHT2DCUEQsKwBKAB6BAgBEAE)
+
+- [ ] [r count by group dplyr - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSL1uDsPzXm7Fmb8el0Z25fqu2-8w:1575644199266&q=r+count+by+group+dplyr&sa=X&ved=2ahUKEwi3naiGpKHmAhUME6YKHQ5eASgQ1QIoA3oECGAQBA)
+
+- [ ] [r count number of occurrences in column - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSL1uDsPzXm7Fmb8el0Z25fqu2-8w%3A1575644199266&lei=J2zqXfftD4ymmAWOvIXAAg&q=r%20count%20number%20of%20occurrences%20in%20column&ved=2ahUKEwi-_5aHpKHmAhVzyosBHdq3BlYQsKwBKAN6BAgCEAQ)
+
+- [ ] [r count observations by group - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSL1uDsPzXm7Fmb8el0Z25fqu2-8w:1575644199266&q=r+count+observations+by+group&sa=X&ved=2ahUKEwi3naiGpKHmAhUME6YKHQ5eASgQ1QIoAXoECGAQAg)
+
+- [ ] [r filter by count - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSL1uDsPzXm7Fmb8el0Z25fqu2-8w%3A1575644199266&lei=J2zqXfftD4ymmAWOvIXAAg&q=r%20filter%20by%20count&ved=2ahUKEwi-_5aHpKHmAhVzyosBHdq3BlYQsKwBKAR6BAgCEAU)
+
+- [ ] [r rpart cptable - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=r%20rpart%20cptable&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAB6BAgGEAE)
+
+- [ ] [r tree weights - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=r%20tree%20weights&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAN6BAgGEAQ)
+
+- [ ] [r tree weights - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=r%20tree%20weights&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAR6BAgHEAU)
+
+- [ ] [random forest in spreadseet - Google Search](https://www.google.com/search?q=random+forest+in+spreadseet&oq=random+forest+in+spreadseet&aqs=chrome..69i57j69i64.9687j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [ranking feature importance information gain - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA%3A1575647749163&lei=BXrqXaPICb2Lr7wPp9G06AU&q=ranking%20feature%20importance%20information%20gain&ved=2ahUKEwj-wvWksaHmAhXPG6YKHZOZBKwQsKwBKAV6BAgDEAY)
+
+- [ ] [recursive partitioning and regression trees - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=recursive%20partitioning%20and%20regression%20trees&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAV6BAgHEAY)
+
+- [ ] [recursive partitioning and regression trees - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=recursive%20partitioning%20and%20regression%20trees&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAV6BAgAEAY)
+
+- [ ] [Ren Zhengfei - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQm1RPgSi9wowYdIdC9hJW_dXMxFw:1575377217139&q=Ren+Zhengfei&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzLMjYyT7E0UuLUz9U3sKwySsnT4gtILSrOzwvOTEktT6wsXsTKE5SapxCVkZqXnpaaCQCw6RxuOwAAAA&sa=X&ved=2ahUKEwiKr6i7wZnmAhX-yosBHTvPAlgQxA0wdnoECGcQMw)
+
+- [ ] [rpart cp - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=rpart%20cp&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAF6BAgAEAI)
+
+- [ ] [rpart github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=rpart%20github&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAR6BAgCEAU)
+
+- [ ] [rpart in r - Google Search](https://www.google.com/search?q=rpart+in+r&oq=rpart+&aqs=chrome.1.69i57j0l7.1733j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [rpart minbucket - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=rpart%20minbucket&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAR6BAgGEAU)
+
+- [ ] [rpart predict - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=rpart%20predict&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAB6BAgAEAE)
+
+- [ ] [rpart variable importance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=rpart%20variable%20importance&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAF6BAgCEAI)
+
+- [ ] [rpart.plot in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNR0rxRoMTQlXdrBHdt_LJghiduLzg%3A1575642918631&lei=JmfqXfOMJpK5mAXskK7ABA&q=rpart.plot%20in%20r&ved=2ahUKEwiH1rmln6HmAhWqyIsBHUlZAHQQsKwBKAJ6BAgHEAM)
+
+- [ ] [scraping google play store - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT5m_ffUiGuHanSaf3rncRqKCjQoA%3A1575900584776&lei=qFXuXc6ML5mKr7wP2u-IOA&q=scraping%20google%20play%20store&ved=2ahUKEwiglMGV36jmAhXpGaYKHRXfC-8QsKwBKAF6BAgAEAI)
+
+- [ ] [seaborn confusion matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaJBBvNerzZk_fYWJBPE4rubZTIg%3A1575643407344&lei=D2nqXeW3FMCKr7wP2KOrwAQ&q=seaborn%20confusion%20matrix&ved=2ahUKEwifub2NoaHmAhXPG6YKHZOZBKwQsKwBKAF6BAgBEAI)
+
+- [ ] [sensitivity formula from confusion matrix - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw%3A1575643453004&lei=PGnqXbnxPLremAXu44ugBw&q=sensitivity%20formula%20from%20confusion%20matrix&ved=2ahUKEwjj1IeloaHmAhVjHKYKHdCqA9sQsKwBKAV6BAgIEAY)
+
+- [ ] [sentiment analysis with tensorflow - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaJBBvNerzZk_fYWJBPE4rubZTIg%3A1575643407344&lei=D2nqXeW3FMCKr7wP2KOrwAQ&q=sentiment%20analysis%20with%20tensorflow&ved=2ahUKEwifub2NoaHmAhXPG6YKHZOZBKwQsKwBKAJ6BAgDEAM&biw=1920&bih=948)
+
+- [ ] [setdiff python - Google Search](https://www.google.com/search?q=setdiff+python&oq=setdiff+python&aqs=chrome..69i57j69i59l2.4519j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [setdiff r - Google Search](https://www.google.com/search?q=setdiff+r&oq=setdiff+r&aqs=chrome..69i57j0l7.4670j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [sklearn classification report - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNRaJBBvNerzZk_fYWJBPE4rubZTIg%3A1575643407344&lei=D2nqXeW3FMCKr7wP2KOrwAQ&q=sklearn%20classification%20report&ved=2ahUKEwifub2NoaHmAhXPG6YKHZOZBKwQsKwBKAR6BAgBEAU)
+
+- [ ] [skymind logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=skymind%20logistic%20regression&ved=2ahUKEwj9nJfM_aLmAhVZIqYKHRS7C1AQsKwBKAF6BAgCEAI)
+
+- [ ] [skymind logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=skymind%20logistic%20regression&ved=2ahUKEwjP8pfK_aLmAhUvGqYKHUUwAwsQsKwBKAN6BAgAEAQ)
+
+- [ ] [subtract one array from another python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNT1tTt76UDgFDm4tUDjQgLQndtb0g%3A1575286994761&lei=0vjkXd-ULs6zmAXLx7GQCw&q=subtract%20one%20array%20from%20another%20python&ved=2ahUKEwit6Oav8ZbmAhWMxYsBHed7AU4QsKwBKAV6BAgEEAY)
+
+- [ ] [summarise n count - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSL1uDsPzXm7Fmb8el0Z25fqu2-8w%3A1575644199266&lei=J2zqXfftD4ymmAWOvIXAAg&q=summarise%20n%20count&ved=2ahUKEwi-_5aHpKHmAhVzyosBHdq3BlYQsKwBKAF6BAgCEAI)
+
+- [ ] [supervised learning stanford - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=supervised%20learning%20stanford&ved=2ahUKEwj9nJfM_aLmAhVZIqYKHRS7C1AQsKwBKAR6BAgCEAU)
+
+- [ ] [tally in r example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNSL1uDsPzXm7Fmb8el0Z25fqu2-8w:1575644199266&q=tally+in+r+example&sa=X&ved=2ahUKEwi3naiGpKHmAhUME6YKHQ5eASgQ1QIoAnoECGAQAw)
+
+- [ ] [tally() r - Google Search](https://www.google.com/search?q=tally()+r&oq=tally()+r&aqs=chrome..69i57j46j0l3j46j0l2.3999j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Torsten Bell, - Google Search](https://www.google.com/search?q=Torsten+Bell%2C&oq=Torsten+Bell%2C&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [true positive graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTnTlMpwPRPmIa2-jf1Yhrc3mS2Uw%3A1575643453004&lei=PGnqXbnxPLremAXu44ugBw&q=true%20positive%20graph&ved=2ahUKEwjj1IeloaHmAhVjHKYKHdCqA9sQsKwBKAJ6BAgIEAM)
+
+- [ ] [unsupervised logistic regression - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQBxpTnNfq70cIsdN3hTkdKRdnxFA%3A1575702590020&lei=PlDrXbhxzLKYBe6pn8gH&q=unsupervised%20logistic%20regression&ved=2ahUKEwj9nJfM_aLmAhVZIqYKHRS7C1AQsKwBKAN6BAgCEAQ)
+
+- [ ] [variable importance plot interpretation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA%3A1575647749163&lei=BXrqXaPICb2Lr7wPp9G06AU&q=variable%20importance%20plot%20interpretation&ved=2ahUKEwj-wvWksaHmAhXPG6YKHZOZBKwQsKwBKAR6BAgDEAU)
+
+- [ ] [variable importance random forest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA:1575647749163&q=variable+importance+random+forest&sa=X&ved=2ahUKEwjj3oSjsaHmAhW9xYsBHacoDV0Q1QIoBnoECGMQBw)
+
+- [ ] [variable importance random forest r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA%3A1575647749163&lei=BXrqXaPICb2Lr7wPp9G06AU&q=variable%20importance%20random%20forest%20r&ved=2ahUKEwj-wvWksaHmAhXPG6YKHZOZBKwQsKwBKAB6BAgFEAE)
+
+- [ ] [variable selection using mean decrease accuracy and mean decrease gini based on random forest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQs5ic4DxbzzKeWTDsBNA1UhqhYFA:1575647749163&q=variable+selection+using+mean+decrease+accuracy+and+mean+decrease+gini+based+on+random+forest&sa=X&ved=2ahUKEwjj3oSjsaHmAhW9xYsBHacoDV0Q1QIoAHoECGMQAQ)
+
+- [ ] [What is confusion matrix in logistic regression? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA:1575643347169&q=What+is+confusion+matrix+in+logistic+regression%3F&sa=X&ved=2ahUKEwietoDwoKHmAhUPqpQKHRNKDlQQzmd6BAhlEBc)
+
+- [ ] [What is confusion matrix in R? - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQCDuu89MNWJmp9kj839rWE16AjPA:1575643347169&q=What+is+confusion+matrix+in+R%3F&sa=X&ved=2ahUKEwietoDwoKHmAhUPqpQKHRNKDlQQzmd6BAhlEAw)
+
+- [ ] [Which variable has the biggest mean decrease in Gini coefficient randomforest r - Google Search](https://www.google.com/search?q=Which+variable+has+the+biggest+mean+decrease+in+Gini+coefficient+randomforest+r&oq=Which+variable+has+the+biggest+mean+decrease+in+Gini+coefficient+randomforest+r&aqs=chrome..69i57.4155j1j7&sourceid=chrome&ie=UTF-8)
+
+- [ ] [www.google.com](https://www.google.com/search?q=ggplot%20set%20axis%20font%20size)
+
+- [ ] [九死一生的坚持 - Google Search](https://www.google.com/search?q=%E4%B9%9D%E6%AD%BB%E4%B8%80%E7%94%9F%E7%9A%84%E5%9D%9A%E6%8C%81&oq=%E4%B9%9D%E6%AD%BB%E4%B8%80%E7%94%9F%E7%9A%84%E5%9D%9A%E6%8C%81&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [孟晚舟国籍 - Google Search](https://www.google.com/search?q=%E5%AD%9F%E6%99%9A%E8%88%9F%E5%9B%BD%E7%B1%8D&oq=%E5%AD%9F&aqs=chrome.2.69i57j0l7.7859j1j4&sourceid=chrome&ie=UTF-8)
+
+- [ ] [(6) Cross Validated](https://stats.stackexchange.com/)
+
+- [ ] [Analyzing logistic regression coefficients - Cross Validated](https://stats.stackexchange.com/questions/24405/analyzing-logistic-regression-coefficients)
+
+- [ ] [classification - How to measure/rank "variable importance" when using CART? (specifically using {rpart} from R) - Cross Validated](https://stats.stackexchange.com/questions/6478/how-to-measure-rank-variable-importance-when-using-cart-specifically-using)
+
+- [ ] [correlation - Does scipy.stats.pearsonr() have assumption of continuous value? - Cross Validated](https://stats.stackexchange.com/questions/430661/does-scipy-stats-pearsonr-have-assumption-of-continuous-value)
+
+- [ ] [data transformation - How to get exponential regression equation after performing linear regression on the log transformed equation? - Cross Validated](https://stats.stackexchange.com/questions/324564/how-to-get-exponential-regression-equation-after-performing-linear-regression-on)
+
+- [ ] [Good introductions to time series (with R) - Cross Validated](https://stats.stackexchange.com/questions/6275/good-introductions-to-time-series-with-r)
+
+- [ ] [interpretation - Intercept term in logistic regression - Cross Validated](https://stats.stackexchange.com/questions/92903/intercept-term-in-logistic-regression)
+
+- [ ] [Interpretation of R's output for binomial regression - Cross Validated](https://stats.stackexchange.com/questions/86351/interpretation-of-rs-output-for-binomial-regression)
+
+- [ ] [Interpreting intercept in logistic regression when there is more than one categorical variable - Cross Validated](https://stats.stackexchange.com/questions/230839/interpreting-intercept-in-logistic-regression-when-there-is-more-than-one-catego)
+
+- [ ] [Logistic regression intercept representing baseline probability - Cross Validated](https://stats.stackexchange.com/questions/176341/logistic-regression-intercept-representing-baseline-probability)
+
+- [ ] [neural networks - Estimating importance of variables in a multilayer perceptron - Cross Validated](https://stats.stackexchange.com/questions/166767/estimating-importance-of-variables-in-a-multilayer-perceptron)
+
+- [ ] [probability - logit - interpreting coefficients as probabilities - Cross Validated](https://stats.stackexchange.com/questions/363791/logit-interpreting-coefficients-as-probabilities)
+
+- [ ] [r - How to interpret Mean Decrease in Accuracy and Mean Decrease GINI in Random Forest models - Cross Validated](https://stats.stackexchange.com/questions/197827/how-to-interpret-mean-decrease-in-accuracy-and-mean-decrease-gini-in-random-fore)
+
+- [ ] [r - Interpreting glm model output, assessing quality of fit - Cross Validated](https://stats.stackexchange.com/questions/187100/interpreting-glm-model-output-assessing-quality-of-fit)
+
+- [ ] [r - Logit-link GLM Summary Interpretation - Cross Validated](https://stats.stackexchange.com/questions/82532/logit-link-glm-summary-interpretation)
+
+- [ ] [r - rpart complexity parameter confusion - Cross Validated](https://stats.stackexchange.com/questions/117908/rpart-complexity-parameter-confusion)
+
+- [ ] [r - Standard partial regression plot vs. effect plot from 'effects' package - Cross Validated](https://stats.stackexchange.com/questions/396769/standard-partial-regression-plot-vs-effect-plot-from-effects-package)
+
+- [ ] [r - What does -1 mean in glm model specification mean? - Cross Validated](https://stats.stackexchange.com/questions/311542/what-does-1-mean-in-glm-model-specification-mean)
+
+- [ ] [7.6 XML](http://statmath.wu.ac.at/courses/data-analysis/itdtHTML/node57.html#SECTION001162300000000000000)
+
+- [ ] [A Minimal HTML Document](http://statmath.wu.ac.at/courses/data-analysis/week1/minimal.html)
+
+- [ ] [Analysis and Linear Algebra](http://statmath.wu.ac.at/courses/wimath/)
+
+- [ ] [Courses (Institute for Statistics and Mathematics)](http://statmath.wu.ac.at/courses/)
+
+- [ ] [Data Sets](http://statmath.wu.ac.at/data/)
+
+- [ ] [Data Technologies Assignment 1](http://statmath.wu.ac.at/courses/data-analysis/ass1/ass1.html)
+
+- [ ] [Data Technologies Assignment 6](http://statmath.wu.ac.at/courses/data-analysis/ass6/ass6.html)
+
+- [ ] [Index of /courses/StatisticalLearning](http://statmath.wu.ac.at/courses/StatisticalLearning/)
+
+- [ ] [Introduction to Generalized Linear Models](http://statmath.wu.ac.at/courses/heather_turner/)
+
+- [ ] [LCG -- Random numbers for LaTeX](http://statmath.wu.ac.at/software/lcg/)
+
+- [ ] [Mathemacs 1 for Ecomonics (Science Track)](http://statmath.wu.ac.at/courses/mvw_math1/)
+
+- [ ] [Mathemacs 1 for Ecomonics (Science Track)](http://statmath.wu.ac.at/courses/mvw_math1/)
+
+- [ ] [Mathemacs 1 for Ecomonics (Science Track)](http://statmath.wu.ac.at/courses/mvw_math1/)
+
+- [ ] [Mathemacs 2 for Ecomonics](http://statmath.wu.ac.at/courses/mvw_math2/)
+
+- [ ] [Mathematical Methods (Foundation of Economics)](http://statmath.wu.ac.at/courses/MEC_MM/)
+
+- [ ] [Mathematical Methods (Foundation of Economics)](http://statmath.wu.ac.at/courses/MEC_MM/)
+
+- [ ] [Mathematical Methods (Foundations of Economics)](http://statmath.wu.ac.at/courses/MEC_MM/download/handouts/index.html)
+
+- [ ] [Mathematics for Ecomonics](http://statmath.wu.ac.at/courses/MEC_bridgingmath/)
+
+- [ ] [Maxima for Economics](http://statmath.wu.ac.at/~leydold/maxima/)
+
+- [ ] [Maxima for Economics](http://statmath.wu.ac.at/~leydold/maxima/)
+
+- [ ] [Psychometric Methods](http://statmath.wu.ac.at/courses/psychometrics/)
+
+- [ ] [Quantitative Research Methods Salzberger](http://statmath.wu.ac.at/courses/m1bw/m1bw_en.html)
+
+- [ ] [Research Seminar: Statistical Natural Language Processing](http://statmath.wu.ac.at/courses/SNLP/)
+
+- [ ] [statmath.wu.ac.at/courses/data-analysis/week1/demoR2HTML.R](http://statmath.wu.ac.at/courses/data-analysis/week1/demoR2HTML.R)
+
+- [ ] [statmath.wu.ac.at/courses/data-analysis/week2.html](http://statmath.wu.ac.at/courses/data-analysis/week2.html)
+
+- [ ] [statmath.wu.ac.at/courses/data-analysis/week3.html](http://statmath.wu.ac.at/courses/data-analysis/week3.html)
+
+- [ ] [statmath.wu.ac.at/courses/data-analysis/week4.html](http://statmath.wu.ac.at/courses/data-analysis/week4.html)
+
+- [ ] [statmath.wu.ac.at/courses/data-analysis/week5.html](http://statmath.wu.ac.at/courses/data-analysis/week5.html)
+
+- [ ] [Summary of the Nile](http://statmath.wu.ac.at/courses/data-analysis/ass1/ass1model.Rnw)
