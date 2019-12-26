@@ -77,3 +77,27 @@
 > 
 > > The commoditization of trust is far more injurious to hotels than you might think…In the pre-Airbnb days travelers — and sublessors — justifiably prioritized trust above all else. In other words, the implication of Airbnb building a platform of trust is not that a homestay is now more trustworthy than a hotel; rather, it’s that the trust advantage of a hotel has been neutralized, allowing homestays to compete on new vectors, including convenience, cost, and environmental factors.
 
+
+
+
+[Netflix and the Conservation of Attractive Profits – Stratechery by Ben Thompson](https://stratechery.com/2015/netflix-and-the-conservation-of-attractive-profits/)
+
+> For what it’s worth, I’m actually not certain this strategy is optimal for any one given show: I suspect there is a lot of value in the “buzz” created around appointment viewing, live Twitter reactions, and day-after write-ups. On the other hand, Netflix’s absolute embrace of the commoditization of time sends an important message to both content creators _and_ content consumers that the service is first and foremost committed to connecting each side of the content equation as efficiently as possible.
+
+
+
+NETFLIX
+
+x and the Conservation of Attractive Profits – Stratechery by Ben Thompson](https://stratechery.com/2015/netflix-and-the-conservation-of-attractive-profits/)
+
+> [As I’ve noted](https://stratechery.com/2015/apples-new-market/), the iPhone is in fact modular at the component level; the integration is between the completed phone and the software. Not appreciating that the point of integration (or modularity) can be anywhere in the value chain is, I believe, at the root of a lot of mistaken analysis about the iPhone in particular
+
+
+
+
+1. [Netflix and the Conservation of Attractive Profits – Stratechery by Ben Thompson](https://stratechery.com/2015/netflix-and-the-conservation-of-attractive-profits/)
+
+> Note the common element to all three of these companies: all have managed to modularize the production/delivery of their service which has allowed them to move closer to the customer. To put it another way, all of this new value is being created by specialized CRM companies: Airbnb for travelers, Uber for commuters, and Netflix for the bored.
+
+
+
