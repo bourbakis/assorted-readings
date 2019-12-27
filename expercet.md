@@ -101,3 +101,5 @@ x and the Conservation of Attractive Profits – Stratechery by Ben Thompson](ht
 
 
 
+
+

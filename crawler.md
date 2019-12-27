@@ -228,3 +228,276 @@ http://93.174.95.29/_ads/A6EC879F7D65CF3579DBBF45D27A71BB
 Library Genesis
 http://93.174.95.29/_ads/B0700DFC8F58655A18815F68BEA9ACFB
 
+
+
+
+
+Library Genesis
+http://93.174.95.29/_ads/025B84AE466D1C10E6BDBC086FACD699
+
+Library Genesis
+http://93.174.95.29/_ads/3A12195F48E6484A34454A5722D2B461
+
+Library Genesis
+http://93.174.95.29/_ads/8192B7EBA7FFCE9194F8D751D37629C0
+
+Library Genesis
+http://93.174.95.29/_ads/3711E6FD58F68CC1384A7CE839D922A5
+
+Library Genesis
+http://93.174.95.29/_ads/ECF25F0C61C2F1748DD80387500155A6
+
+Library Genesis: 王汎森 - 执拗的低音: 一些历史思考方式的反思
+http://libgen.is/book/index.php?md5=C8ED9DB02FB758BB6818FB9CA0A1C008
+
+Library Genesis
+http://93.174.95.29/_ads/E586BA5DC1BDD35BBF2F0FF6CAE86563
+
+Library Genesis
+http://93.174.95.29/_ads/2C6A32BFF92A86D3468925F2284B8705
+
+Library Genesis
+http://93.174.95.29/_ads/0937FD22305F030AE2C2F761967205BC
+
+Library Genesis
+http://93.174.95.29/_ads/CE54D09C258AC3F4E6844D0FD81FCD57
+
+Library Genesis
+http://93.174.95.29/_ads/61D3BF0D790E371869E235D7A22E3BBC
+
+Library Genesis
+http://93.174.95.29/_ads/C8410D8280352E54BF21BFB3DA90D5F3
+
+Library Genesis
+http://93.174.95.29/_ads/E5DA0EEEF314A270B63658BC4FAFCE56
+
+Library Genesis
+http://93.174.95.29/_ads/80B909F77465B50FF00D2AFE23DF09ED
+
+
+
+Library Genesis
+http://93.174.95.29/_ads/05ABCD1C1B117CD0239F2A1C63D74E97
+
+how to download book by crawler ruby - 国际版 Bing
+https://cn.bing.com/search?q=how+to+download+book+by+crawler+ruby&pc=MOZI&form=MOZLBR
+
+Working 9 to 5, not the way to make an academic living: observational analysis of manuscript and peer review submissions over time | The BMJ
+https://www.bmj.com/content/367/bmj.l6460
+
+Library Genesis
+http://libgen.is/search.php?&res=100&req=P.+G.+Ciarlet&phrase=1&view=simple&column=author&sort=year&sortmode=DESC
+
+Library Genesis
+http://libgen.is/search.php?req=+Philippe+G.+Ciarlet&column=author
+
+Library Genesis
+http://93.174.95.29/_ads/09119F25A4A02C5C294F88491BACFEDE
+
+Library Genesis: Ahmed Lesfari - Introduction à la géométrie algébrique complexe
+http://libgen.is/book/index.php?md5=3A0F19DE95CE0514C92EAF19D739421F
+
+Library Genesis: Ahmed Lesfari - Introduction à la géométrie algébrique complexe
+http://libgen.is/book/index.php?md5=FB94AF27A32D44E21699B9B84B9C2A8C
+
+Library Genesis
+http://libgen.is/search.php?req=Claude+Wagschal&column=author
+
+Library Genesis
+http://93.174.95.29/_ads/9AA3A8E14B9EBE4E0CF7D4629416A823
+
+Library Genesis: Hervé Moulin - Fair Division and Collective Welfare
+http://libgen.is/book/index.php?md5=4259D011A94DC427E843299AD6912A62
+
+Library Genesis: Hervé Moulin - Cooperative microeconomics : a game-theoretic introduction
+http://libgen.is/book/index.php?md5=6056A18AABBB01EC29E78E7CAFF9CDE3
+
+Library Genesis: Hervé Moulin - Axioms of Cooperative Decision Making
+http://libgen.is/book/index.php?md5=9FA5208F8B1F46F566ED0A9F9C31A8DF
+
+Library Genesis: Herve Moulin - Game Theory for the Social Sciences
+http://libgen.is/book/index.php?md5=71FB47CA806B3B3856BDCE368917798B
+
+Library Genesis: Hervé Moulin - The Strategy of Social Choice
+http://libgen.is/book/index.php?md5=462683BB55C4F89FE6AA317D46D181C5
+
+Library Genesis: Hervé Moulin - Théorie des jeux pour l'économie et la politique
+http://libgen.is/book/index.php?md5=E562B2828B7F29855ED11DB6EA7419D1
+
+Library Genesis: Hervé Moulin, Françoise Fogelman-Soulié - La convexité dans les mathématiques de la décision: Optimisation et théorie micro-économique
+http://libgen.is/book/index.php?md5=11F819E944CC8C022603CE71A7079B88
+
+Library Genesis: Jean-Pierre Aubin, Bernard Cornet, Herve Moulin - Applied Abstract Analysis
+http://libgen.is/book/index.php?md5=3CCDCBFEF6BEBAD8D6F04AB389D38A85
+
+Library Genesis: Laura Angeloni, Bernard Cornet (auth.), Shigeo Kusuoka, Akira Yamazaki (eds.) - Advances in Mathematical Economics
+http://libgen.is/book/index.php?md5=52A804AF27BCDB45AD4C48619620D479
+
+Library Genesis: Laurent Schwartz - Analyse : Topologie générale et analyse fonctionnelle
+http://libgen.is/book/index.php?md5=E1AEF332F93B1D9759BEA683A12B81DE
+
+Library Genesis: Laurent Schwartz - Analyse : Topologie générale et analyse fonctionnelle
+http://libgen.is/book/index.php?md5=A2327A15C65D0772A4ACC72EA54E9120
+
+Library Genesis
+http://93.174.95.29/_ads/ED24C6C0C6CE6169ABD410C0018878AB
+
+Library Genesis: Jean-Pierre Serre - Représentations linéaires des groupes finis
+http://libgen.is/book/index.php?md5=F93AE272E02DCCCADB321876DE2B9F44
+
+Library Genesis
+http://93.174.95.29/_ads/DE19C23071F0F776337D91FE8FB1BA40
+
+Library Genesis: Michel Weber - Entropie métrique et convergence presque partout
+http://libgen.is/book/index.php?md5=7EDB50C93E813F4EB5D45BD4D0A66C53
+
+Library Genesis: Michel Weber - Entropie métrique et convergence presque partout
+http://libgen.is/book/index.php?md5=0E66D3791A636C20FFFB034ED25E2DF9
+
+Library Genesis: I Ekeland - Analyse convexe et problemes variationnels
+http://libgen.is/book/index.php?md5=B573F05E1B60452FA39D9A553749EB63
+
+Library Genesis: I Ekeland - Éléments d'économie mathématique
+http://libgen.is/book/index.php?md5=728F4410AC6777582A34370199D68BC1
+
+Library Genesis: I Ekeland - Éléments d'économie mathématique
+http://libgen.is/book/index.php?md5=92C288E02E799218EF9F32C93A537E03
+
+Library Genesis: Jean Pierre Serre - Corps locaux
+http://libgen.is/book/index.php?md5=CC2DC869CCBBE4BF06AA64699768CC1F
+
+Library Genesis: Elie Cartan - La méthode du repère mobile, la théorie des groupes continus et les espaces généralisés
+http://libgen.is/book/index.php?md5=802A49CE1BC25293A2F37408F70EFBC3
+
+Library Genesis: Moïse Sibony; Jean-Claude Mardon - Approximations et équations différentielles.
+http://libgen.is/book/index.php?md5=82EEE9CA4C9442595F884712F56F9F25
+
+Library Genesis: Hervé Moulin - Fondation de la theorie des jeux
+http://libgen.is/book/index.php?md5=3607761995D2B1B3479D6721D9BF9B73
+
+Library Genesis: Jean Pierre Lafon - Algebre commutative: Langages geometrique et algebrique
+http://libgen.is/book/index.php?md5=A272E3FD0BB6D4056341830C3F6971B7
+
+Library Genesis: Jean Pierre Lafon - Algebre commutative: Langages geometrique et algebrique
+http://libgen.is/book/index.php?md5=CF0F818CFF7724CE06A82BF7D657B6FE
+
+Library Genesis
+http://93.174.95.29/_ads/2987A5ECAC45EF268905922334A6FA56
+
+Library Genesis
+http://93.174.95.29/_ads/8F4F310004ADCD3599F33C6C5A188FCC
+
+Library Genesis
+http://93.174.95.29/_ads/1096794B8BC3CEED46BE02F3EBA33F3C
+
+Library Genesis: Schwartz, Laurent - Analyse. II, Calcul différentiel et équations différentielles
+http://libgen.is/book/index.php?md5=93DFAA0C1B2DB7D28AC4207F25490A9F
+
+Library Genesis: Schwartz, Laurent - Analyse III - Calcul intégral
+http://libgen.is/book/index.php?md5=4DB0ADDA1E25687FCAE53EF9B6618976
+
+Library Genesis: Moulin H., Fogelman-Soulie F. - La convexite dans les mathematiques de la decision
+http://libgen.is/book/index.php?md5=36E9370A0049C6303F2173ECA98965E6
+
+Library Genesis: Nicolas Lusin - Sur les suites stationnaires
+http://libgen.is/book/index.php?md5=8164F32DA4C122EDF954748A3D8DC8E4
+
+Library Genesis: Kacimi Alaoui, Aziz El el - Eléments d’intégration et d’analyse fonctionnelle
+http://libgen.is/book/index.php?md5=ECED8BCCD27DEABCC60FB2A10B50C0F6
+
+Library Genesis
+http://93.174.95.29/_ads/E6DA70D31CA50B686A8B21A7DA194252
+
+Library Genesis
+http://93.174.95.29/_ads/0CB5996EA294E27EA08EFC31B7A79A49
+
+Library Genesis
+http://93.174.95.29/_ads/A4B995CEF971998C6CE80FA686AA303C
+
+Library Genesis
+http://93.174.95.29/_ads/B512417E47BB3A7406B3F269826ABC7D
+
+Library Genesis: Ernst Kunz - Introduction to commutative algebra and algebraic geometry
+http://libgen.is/book/index.php?md5=F4A56EBC7E14A05C008293DDBA2480AA
+
+Library Genesis: Hans Riesel - Prime numbers and computer methods for factorization
+http://libgen.is/book/index.php?md5=21A7227E4C7800BA777A5721B9988595
+
+Library Genesis
+http://93.174.95.29/_ads/835B46CEA5BDE1C7B21440D02B382B20
+
+Library Genesis
+http://93.174.95.29/_ads/B1D63A9C70EC982310F48C9747F124B5
+
+Library Genesis
+http://93.174.95.29/_ads/EA821DA0ECC598A967E6AA11B6DD2605
+
+Library Genesis
+http://93.174.95.29/_ads/07C6A8FC37836908011BB68C1371B494
+
+Library Genesis
+http://93.174.95.29/_ads/298C65C1273BE2FE56D5328FA90A848D
+
+Library Genesis: Jean-Pierre Aubin (Eds.) - Mathematical Methods of Game and Economic Theory
+http://libgen.is/book/index.php?md5=6990DF3709F8F760A6FBC2DBE64A7C37
+
+Library Genesis
+http://93.174.95.29/_ads/4839E869CAF87AE6C0E1AE2E22068E92
+
+Library Genesis
+http://93.174.95.29/_ads/583A64A1C65C0082792EE1C9B16072A5
+
+Library Genesis: A. A. Kirillov - Lectures on the Orbit Method
+http://libgen.is/book/index.php?md5=E6FDD085AFEF9E2436FFBEDA2FB5981B
+
+Library Genesis: Larry Guth - Polynomial Methods in Combinatorics
+http://libgen.is/book/index.php?md5=A0C327FFA78BAA1B2274542F3BC97349
+
+Library Genesis: Araki H., et al. (eds.) - Mathematical horizons for quantum physics
+http://libgen.is/book/index.php?md5=2063C32FFDFF94D6062ADBBED60850E7
+
+Library Genesis: A. Ya. Helemskii - Quantum Functional Analysis: Non-coordinate Approach
+http://libgen.is/book/index.php?md5=E3123ECA4804E361D63009EE629C61C5
+
+Library Genesis
+http://libgen.is/search.php?req=A.+Ya.+Helemskii&column=author
+
+Library Genesis
+http://libgen.is/search.php?req=Aleksandr+Jakovlevic%CC%8C+Chelemskij+&column=author
+
+Library Genesis: Kolmogorov A., Fomine S. - Elements de la theorie des fonctions et d’analyse fonctionnelle
+http://libgen.is/book/index.php?md5=E97940DCE183ACCE15BFE18F62D6BEA5
+
+Library Genesis: Haim Brezis - Analyse fonctionnelle
+http://libgen.is/book/index.php?md5=C4EEC5CAD5F2B7A01523E6E3473D468A
+
+Library Genesis: Paul Levy - Lecons d'analyse fonctionnelle, professes au College de France, par Paul Levy,... avec une preface de M. J. Hadamard
+http://libgen.is/book/index.php?md5=897ADCCC31F3D1F79550F1391232730F
+
+Library Genesis
+http://93.174.95.29/_ads/48AD2A10176D789D8A3DD39509475E36
+
+Library Genesis
+http://93.174.95.29/_ads/2CCEA3F291E59A3D5F3B099E53FBF316
+
+Library Genesis: Jacques Hadamard - An essay on the psychology of invention in the mathematical field
+http://libgen.is/book/index.php?md5=1B0AF3745033422595B097E0E3C7F785
+
+Library Genesis: Jacques Hadamard - Lectures on Cauchy's Problem in Linear Partial Differential Equations
+http://libgen.is/book/index.php?md5=95B0B3C0D7819ED087562D109300C5D3
+
+Library Genesis: Jacques Hadamard - Leçons de géométrie élémentaire II (géométrie dans l'espace)
+http://libgen.is/book/index.php?md5=150FC6858F528814A69320909B3227DA
+
+Library Genesis: Jacques Hadamard - Leçons de géométrie élémentaire I (géométrie plane)
+http://libgen.is/book/index.php?md5=B462A4AB9960B6FEFA997CE1720BE92F
+
+Library Genesis
+http://93.174.95.29/_ads/F7B24974577AD8A09B5206582B25A145
+
+Library Genesis
+http://93.174.95.29/_ads/29CDF7FD2B6B6B40FDFAD747DC84E27E
+
+Library Genesis
+http://93.174.95.29/_ads/7A18EB915DAA0286CAF845B73F4046EF
+
