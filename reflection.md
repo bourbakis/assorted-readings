@@ -17,3 +17,12 @@ https://yagisanatode.com/
 Bayes probablity,  bayes neural network learning
 
 Causual reasoning
+
+
+
+
+# 2019/12/30
+
+It's very important 
+
+study and re-search about the behavior of developed countries like US, northen eeurope and Japan. And what opportunities we can derivate from their history?
