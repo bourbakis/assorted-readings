@@ -1055,4 +1055,48 @@ https://github.com/tensorflow/neural-structured-learning
 
 - [ ] [The Most Interesting Take On Socrates? (Agnes Callard) - YouTube](https://www.youtube.com/watch?v=ThlE2OvdVng)
 
+
+
+## 3/18/2020
+
+- [ ] [Getting Started With Jupyter Notebook for Python - YouTube](https://www.youtube.com/watch?v=CwFq3YDU6_Y)
+
+- [ ] [Getting Started With Jupyter Notebook for Python - YouTube](https://www.youtube.com/watch?v=CwFq3YDU6_Y)
+
+- [ ] [(2726) Introduction to WinBUGS: Sample Program - YouTube](https://www.youtube.com/watch?v=8D9r-HEMSBw)
+
+- [ ] [Jupyter Notebook Install on Windows 10 - YouTube](https://www.youtube.com/watch?v=ZKp4vih2jhU)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=3C9E2yPBw7s)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=oJ-mvkA__Yc)
+
+- [ ] [(2725) How to install WinBUGS (Windows) - YouTube](https://www.youtube.com/watch?v=yQakCAQd8To)
+
+- [ ] [(2725) Why Raindrops Are Mathematically Impossible - YouTube](https://www.youtube.com/watch?v=8lBvC7aFB40)
+
+- [ ] [(2725) WinBUGS tutorial for beginners in ~6 mins: Bayesian Data Analysis Software - YouTube](https://www.youtube.com/watch?v=t7lngTuC22Q)
+
+- [ ] [(2726) Identifying the Transformation (Rotation, Reflection, Translation, or Glide Reflection) - YouTube](https://www.youtube.com/watch?v=8Ro89sGlEoE)
+
+- [ ] [Getting Started with Google Colab - YouTube](https://www.youtube.com/watch?v=Qcxp2NT0z6c)
+
+- [ ] [How to Install Julia Programming Language in Google Colab - YouTube](https://www.youtube.com/watch?v=xpZo3L2dYTY)
+
+- [ ] [JuliaCon 2018 | Visual Studio Code Julia extension | David Anthoff - YouTube](https://www.youtube.com/watch?v=MYbl_za-x9U)
+
+- [ ] [Jupyter on the web with Colab (AI Adventures) - YouTube](https://www.youtube.com/watch?v=yEIc9z-Ad3k)
+
+- [ ] [Python - Installing Add-Ons for Jupyter (Mac) - YouTube](https://www.youtube.com/watch?v=B996OAd1VBg)
+
+- [ ] [Why Raindrops Are Mathematically Impossible - YouTube](https://www.youtube.com/watch?v=8lBvC7aFB40)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=xpZo3L2dYTY)
+- [ ] [YouTube](https://www.youtube.comddddD
+- [ ] [YouTube](https://www.youtube.comddddD
+- [ ] [YouTube](https://www.youtube.comddddD
+- [ ] [YouTube](https://www.youtube.comddddD
+- [ ] [YouTube](https://www.youtube.comddddD
+- [ ] [YouTube](https://www.youtube.comdd
+- [ ] [YouTube](https://www.youtube.comdd
 - [ ] [YouTube](https://www.youtube.com/)

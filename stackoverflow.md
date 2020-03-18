@@ -1211,3 +1211,53 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [time series - What is the difference the zoo object and ts object in R? - Stack Overflow](https://stackoverflow.com/questions/33714660/what-is-the-difference-the-zoo-object-and-ts-object-in-r)
 
 - [ ] [zoo - How to convert dataframe with YearMonth column to times series in R - Stack Overflow](https://stackoverflow.com/questions/49952869/how-to-convert-dataframe-with-yearmonth-column-to-times-series-in-r)
+
+
+
+## 3/18/2020
+
+- [ ] [Can somebody help me make Visual Studio Code with Julia ? - Stack Overflow](https://stackoverflow.com/questions/51115343/can-somebody-help-me-make-visual-studio-code-with-julia)
+
+- [ ] [Converting R matrix into LaTeX matrix in the math or equation environment - Stack Overflow](https://stackoverflow.com/questions/20749444/converting-r-matrix-into-latex-matrix-in-the-math-or-equation-environment)
+
+- [ ] [Converting R matrix into LaTeX matrix in the math or equation environment - Stack Overflow](https://stackoverflow.com/questions/20749444/converting-r-matrix-into-latex-matrix-in-the-math-or-equation-environment)
+
+- [ ] [Converting R matrix into LaTeX matrix in the math or equation environment - Stack Overflow](https://stackoverflow.com/questions/20749444/converting-r-matrix-into-latex-matrix-in-the-math-or-equation-environment/20751549?noredirect=1#20751549)
+
+- [ ] [Creating a latex matrix in R-markdown - Stack Overflow](https://stackoverflow.com/questions/49183927/creating-a-latex-matrix-in-r-markdown)
+
+- [ ] [Creating lists and sub items in R markdown not working any longer? - Stack Overflow](https://stackoverflow.com/questions/45541361/creating-lists-and-sub-items-in-r-markdown-not-working-any-longer)
+
+- [ ] [datatables - How to create and export a Matrix (after analysis) as a Table using r and Latex? - Stack Overflow](https://stackoverflow.com/questions/57686271/how-to-create-and-export-a-matrix-after-analysis-as-a-table-using-r-and-latex)
+
+- [ ] [google colab multiple session is allowed in one computer? - Stack Overflow](https://stackoverflow.com/questions/60632028/google-colab-multiple-session-is-allowed-in-one-computer)
+
+- [ ] [gpu - Julia in Google Colab - Stack Overflow](https://stackoverflow.com/questions/58270424/julia-in-google-colab)
+
+- [ ] [How to open WinBUGS odc file in R? - Stack Overflow](https://stackoverflow.com/questions/10169575/how-to-open-winbugs-odc-file-in-r)
+
+- [ ] [julia - How to mount google drive when using IJulia in google colab? - Stack Overflow](https://stackoverflow.com/questions/59717683/how-to-mount-google-drive-when-using-ijulia-in-google-colab)
+
+- [ ] [julia - One-liner or short script to run the code inside a Jupyter notebook? - Stack Overflow](https://stackoverflow.com/questions/30248783/one-liner-or-short-script-to-run-the-code-inside-a-jupyter-notebook)
+
+- [ ] [Knitr: R code within LaTeX environment in a Markdown document - Stack Overflow](https://stackoverflow.com/questions/20759444/knitr-r-code-within-latex-environment-in-a-markdown-document)
+
+- [ ] [Making Sense of the Metadata: Clustering 4,000 Stack Overflow tags with BigQuery k-means - Stack Overflow Blog](https://stackoverflow.blog/2019/07/24/making-sense-of-the-metadata-clustering-4000-stack-overflow-tags-with-bigquery-k-means/)
+
+- [ ] [matrix by matrix in R markdown - Stack Overflow](https://stackoverflow.com/questions/32566089/matrix-by-matrix-in-r-markdown)
+
+- [ ] [Newest 'jupyter' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/jupyter)
+
+- [ ] [Newest 'jupyter' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/jupyter)
+
+- [ ] [python - Colaboratory: How to install and use on local machine? - Stack Overflow](https://stackoverflow.com/questions/50194637/colaboratory-how-to-install-and-use-on-local-machine)
+
+- [ ] [python - ipynb import another ipynb file - Stack Overflow](https://stackoverflow.com/questions/20186344/ipynb-import-another-ipynb-file)
+
+- [ ] [python - ipython notebook clear cell output in code - Stack Overflow](https://stackoverflow.com/questions/24816237/ipython-notebook-clear-cell-output-in-code)
+
+- [ ] [r - dplyr error - could not find function "%>%" - Stack Overflow](https://stackoverflow.com/questions/56355844/dplyr-error-could-not-find-function)
+
+- [ ] [r - dplyr error - could not find function "%>%" - Stack Overflow](https://stackoverflow.com/questions/56355844/dplyr-error-could-not-find-function)
+
+- [ ] [r markdown - R: How to make second level indented bullet points using RMarkdown ioslides? - Stack Overflow](https://stackoverflow.com/questions/26666839/r-how-to-make-second-level-indented-bullet-points-using-rmarkdown-ioslides)

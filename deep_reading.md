@@ -100,3 +100,109 @@ rpt from "Xi Jinping: The Backlash" by Richard McGregor](https://sinocism.com/p/
 - [ ] [Portfolio optimization based on GARCH-EVT-Copula forecasting models - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0169207018300396)
 
 - [ ] [Trends in Cognitive Sciences | Special issue: Probabilistic models of cognition | ScienceDirect.com](https://www.sciencedirect.com/journal/trends-in-cognitive-sciences/vol/10/issue/7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### FT
+
+
+## 3/18/2020
+
+- [ ] [5c95fe84-53fa-11ea-a1ef-da1721a0541e (1067×600)](https://www.ft.com/__origami/service/image/v2/images/raw/http://prod-upp-image-read.ft.com/5c95fe84-53fa-11ea-a1ef-da1721a0541e?source=next&fit=scale-down&quality=highest&width=1067)
+
+- [ ] [Bernie Sanders | Financial Times](https://www.ft.com/topics/people/Bernie_Sanders)
+
+- [ ] [California identifies second local coronavirus case | Financial Times](https://www.ft.com/content/71fbbda4-5a8f-11ea-a528-dd0f971febbc)
+
+- [ ] [China factory index hits record low on coronavirus | Financial Times](https://www.ft.com/content/749c9ed4-5ab7-11ea-a528-dd0f971febbc)
+
+- [ ] [Coronavirus | Financial Times](https://www.ft.com/coronavirus?segmentId=b41069b9-318d-a6a9-2ccc-5b9ed73acf45)
+
+- [ ] [Coronavirus: how far will it spread? | Financial Times](https://www.ft.com/video/a9e5b64c-2fc4-41d7-94bc-3a3923aa134f)
+
+- [ ] [Coronavirus: how the outbreak is changing global politics | Financial Times](https://www.ft.com/content/fd8bfd8a-5a25-11ea-abe5-8e03987b7b20)
+
+- [ ] [Coronavirus: how the outbreak is changing global politics | Financial Times](https://www.ft.com/content/fd8bfd8a-5a25-11ea-abe5-8e03987b7b20)
+
+- [ ] [Coronavirus: tracking the latest figures as the outbreak spreads  | Financial Times](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441)
+
+- [ ] [Court rules Trump lawyer can ignore congressional subpoena | Financial Times](https://www.ft.com/content/57847a6a-5a76-11ea-a528-dd0f971febbc)
+
+- [ ] [Donald Trump taps John Ratcliffe as US intelligence chief nominee | Financial Times](https://www.ft.com/content/b8e30ba0-5a7b-11ea-a528-dd0f971febbc)
+
+- [ ] [Elliott looks to remove Jack Dorsey as Twitter chief executive | Financial Times](https://www.ft.com/content/747f6c62-5aab-11ea-a528-dd0f971febbc)
+
+- [ ] [Federal Reserve to ‘act as appropriate’ to support economy | Financial Times](https://www.ft.com/content/9b0ccfec-5a5f-11ea-abe5-8e03987b7b20)
+
+- [ ] [Holly Peterson | Financial Times](https://www.ft.com/holly-peterson)
+
+- [ ] [Jack Dorsey | Financial Times](https://www.ft.com/topics/people/Jack_Dorsey)
+
+- [ ] [Katherine Johnson, pioneering Nasa mathematician, 1918-2020 | Financial Times](https://www.ft.com/content/8727b506-5a09-11ea-abe5-8e03987b7b20)
+
+- [ ] [Lex | Financial Times](https://www.ft.com/lex)
+
+- [ ] [Lloyd Blankfein fires back at Elizabeth Warren over wealth tax video | Financial Times](https://www.ft.com/content/1e477dda-070e-11ea-9afa-d9e2401fa7ca)
+
+- [ ] [Lloyd Blankfein: ‘I might find it harder to vote for Bernie than for Trump’ | Financial Times](https://www.ft.com/content/b8961936-51a6-11ea-8841-482eed0038b1)
+
+- [ ] [Michael Mackenzie | Financial Times](https://www.ft.com/michael-mackenzie)
+
+- [ ] [Sanders fires up his base and inflames his party | Financial Times](https://www.ft.com/content/2aa34794-55ec-11ea-a528-dd0f971febbc)
+
+- [ ] [Social Media | Financial Times](https://www.ft.com/stream/03711791-2306-46a4-a5f5-1d79e57bd21d)
+
+- [ ] [Tax | Financial Times](https://www.ft.com/personal-finance/tax)
+
+- [ ] [The bigger lessons of the coronavirus shock | Financial Times](https://www.ft.com/content/a17a5a96-4c06-11ea-95a0-43d18ec715f5)
+
+- [ ] [The coronavirus alarm points to broader credit shakeout | Financial Times](https://www.ft.com/content/e753ab3a-58a9-11ea-abe5-8e03987b7b20)
+
+- [ ] [The Long View | Financial Times](https://www.ft.com/markets/the-long-view)
+
+- [ ] [The world must wake up to the challenge of longer lifespans | Financial Times](https://www.ft.com/content/b517135e-5981-11ea-abe5-8e03987b7b20)
+
+- [ ] [Tony Xu, the steady hand steering DoorDash’s delivery empire | Financial Times](https://www.ft.com/content/53e32708-59ea-11ea-a528-dd0f971febbc)
+
+- [ ] [Turkey turns blind eye as refugees head for border | Financial Times](https://www.ft.com/content/ce21d7ba-5a4b-11ea-abe5-8e03987b7b20)
+
+- [ ] [Twitter: public works  | Financial Times](https://www.ft.com/content/2b8ce3e7-578a-46be-9e70-baccc7006f2b)
+
+- [ ] [Twitter’s quarterly revenue tops $1bn for first time | Financial Times](https://www.ft.com/content/bc7c151e-48dc-11ea-aeb3-955839e06441)
+
+- [ ] [US economy | Financial Times](https://www.ft.com/us-economy)
+
+- [ ] [US presidential election | Financial Times](https://www.ft.com/us-presidential-election)
+
+- [ ] [US stocks close lower again for worst week since 2008 | Financial Times](https://www.ft.com/content/4b23a140-59d3-11ea-a528-dd0f971febbc)
+
+- [ ] [Wall Street weighs up Bernie Sanders’ financial plans | Financial Times](https://www.ft.com/content/a9c2be38-58cb-11ea-abe5-8e03987b7b20#annotations:kaMq0lrSEeqrLhMm15xdXg)
+
+- [ ] [Wall Street weighs up Bernie Sanders’ financial plans | Financial Times](https://www.ft.com/content/a9c2be38-58cb-11ea-abe5-8e03987b7b20)
+
+- [ ] [What does coronavirus do if you catch it? | Financial Times](https://www.ft.com/content/4d32f442-49c8-11ea-aeb3-955839e06441)

@@ -1340,3 +1340,68 @@ https://drive.google.com/drive/u/0/my-drive
 - [ ] [rtqichen/ffjord: code for "FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models".](https://github.com/rtqichen/ffjord/)
 
 - [ ] [rtqichen/torchdiffeq: Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.](https://github.com/rtqichen/torchdiffeq/)
+
+
+
+
+## 3/18/2020
+
+- [ ] [adscib/monad-bayes: A library for probabilistic programming in Haskell.](https://github.com/adscib/monad-bayes)
+
+- [ ] [Binder Examples](https://github.com/binder-examples)
+
+- [ ] [binder-examples/jupyterlab: Demonstrating how to get JupyterLab working with Binder](https://github.com/binder-examples/jupyterlab)
+
+- [ ] [binder-examples/latex: Using `apt.txt` to install latex for use in notebooks.](https://github.com/binder-examples/latex)
+
+- [ ] [binder-examples/r_with_python: Minimal working example for a binder with both R and Python Jupyter and RMarkdown notebooks](https://github.com/binder-examples/r_with_python)
+
+- [ ] [docker · GitHub Topics](https://github.com/topics/docker)
+
+- [ ] [dpsanders/simplejl: simple julia test](https://github.com/dpsanders/simplejl)
+
+- [ ] [Dsantra92/Julia-on-Colab: Notebook for running Julia on Google Colab](https://github.com/Dsantra92/Julia-on-Colab)
+
+- [ ] [Feature Request: pillar.round = FALSE · Issue #97 · r-lib/pillar](https://github.com/r-lib/pillar/issues/97)
+
+- [ ] [File Finder](https://github.com/JuliaLang/IJulia.jl/find/master)
+
+- [ ] [Julia on Google Colab · Issue #4 · demarley/figment](https://github.com/demarley/figment/issues/4)
+
+- [ ] [julia-python/julia.ipynb at master · binder-examples/julia-python](https://github.com/binder-examples/julia-python/blob/master/julia.ipynb)
+
+- [ ] [julia-vscode/julia-vscode: Julia extension for Visual Studio Code](https://github.com/julia-vscode/julia-vscode)
+
+- [ ] [jupyter · GitHub Topics](https://github.com/topics/jupyter)
+
+- [ ] [jupyter · GitHub Topics](https://github.com/topics/jupyter)
+
+- [ ] [jupyter-on-openshift/jupyter-notebooks: OpenShift compatible S2I builder for basic notebook images.](https://github.com/jupyter-on-openshift/jupyter-notebooks)
+
+- [ ] [jupyter/docker-stacks: Ready-to-run Docker images containing Jupyter applications](https://github.com/jupyter/docker-stacks)
+
+- [ ] [jupyter/docker-stacks: Ready-to-run Docker images containing Jupyter applications](https://github.com/jupyter/docker-stacks)
+
+- [ ] [jupyter/repo2docker: Turn repositories into Jupyter enabled Docker Images](https://github.com/jupyter/repo2docker)
+
+- [ ] [jupyterhub · GitHub Topics](https://github.com/topics/jupyterhub)
+
+- [ ] [Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+- [ ] [microsoft/vscode-python: Python extension for Visual Studio Code](https://github.com/Microsoft/vscode-python)
+
+- [ ] [notebook · GitHub Topics](https://github.com/topics/notebook)
+
+- [ ] [openshift/source-to-image: A tool for building artifacts from source and injecting into container images](https://github.com/openshift/source-to-image)
+
+- [ ] [Print matrices as tables by default · Issue #484 · yihui/knitr](https://github.com/yihui/knitr/issues/484)
+
+- [ ] [Project Jupyter](https://github.com/jupyter)
+
+- [ ] [Thousand separator with color? · Issue #78 · r-lib/pillar](https://github.com/r-lib/pillar/issues/78)
+
+- [ ] [Trailing insignificant digits not printed? · Issue #40 · r-lib/pillar](https://github.com/r-lib/pillar/issues/40)
+
+
+
+
