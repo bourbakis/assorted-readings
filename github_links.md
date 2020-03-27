@@ -1405,3 +1405,69 @@ https://drive.google.com/drive/u/0/my-drive
 
 
 
+## 3/20/2020
+
+- [ ] [haskell/fgl: A Functional Graph Library for Haskell](https://github.com/haskell/fgl)
+
+- [ ] [haskell/fgl: A Functional Graph Library for Haskell](https://github.com/haskell/fgl)
+
+
+
+## 3/27/2020
+
+- [ ] [3b1b/manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
+
+- [ ] [3b1b/perseus: Perseus is Khan Academy's new exercise question editor and renderer.](https://github.com/3b1b/perseus)
+
+- [ ] [Atarity/deploy-your-own-saas: List of "only yours" cloud services for everyday needs](https://github.com/Atarity/deploy-your-own-saas)
+
+- [ ] [bourbakis/RCodes](https://github.com/bourbakis/RCodes)
+
+- [ ] [bourbakis/Stochastic-Computatioanl-Finance](https://github.com/bourbakis/Stochastic-Computatioanl-Finance)
+
+- [ ] [Commits · jgm/pandoc](https://github.com/jgm/pandoc/commits?author=dchenbecker)
+
+- [ ] [GitHub](https://github.com/)
+
+- [ ] [hadley/highlight](https://github.com/hadley/highlight)
+
+- [ ] [haskell · GitHub Topics](https://github.com/topics/haskell)
+
+- [ ] [highlight `{{` in code chunk (such as C++) in `.Rmd` would cause hugo error: template for shortcode "span" not found · Issue #352 · rstudio/blogdown](https://github.com/rstudio/blogdown/issues/352)
+
+- [ ] [input-output-hk/cardano-sl: Cryptographic currency implementing Ouroboros PoS protocol](https://github.com/input-output-hk/cardano-sl)
+
+- [ ] [jameysharp/corrode: C to Rust translator](https://github.com/jameysharp/corrode)
+
+- [ ] [jez/pandoc-sidenote: Convert Pandoc Markdown-style footnotes into sidenotes](https://github.com/jez/pandoc-sidenote)
+
+- [ ] [JuliaArrays/LazyArrays.jl: Lazy arrays and linear algebra in Julia](https://github.com/JuliaArrays/LazyArrays.jl)
+
+- [ ] [kirel/detexify-hs-backend: Detexify Backend written in Haskell](https://github.com/kirel/detexify-hs-backend)
+
+- [ ] [koalaman/shellcheck: ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
+
+- [ ] [markdown · GitHub Topics](https://github.com/topics/markdown)
+
+- [ ] [maxheld83/pandoc-action: github action to run pandoc, soft-deprecated ->](https://github.com/maxheld83/pandoc-action)
+
+- [ ] [pandoc-scholar/pandoc-scholar: Create beautiful and semantically meaningful articles with pandoc.](https://github.com/pandoc-scholar/pandoc-scholar)
+
+- [ ] [pandoc/Class.hs at master · jgm/pandoc](https://github.com/jgm/pandoc/blob/master/src/Text/Pandoc/Class.hs)
+
+- [ ] [pandoc/Pandoc.hs at master · jgm/pandoc](https://github.com/jgm/pandoc/blob/master/src/Text/Pandoc.hs)
+
+- [ ] [Search · cpp finance](https://github.com/search?type=Code&utf8=%E2%9C%93&q=cpp%20finance)
+
+- [ ] [tarleb (Albert Krewinkel) / Following](https://github.com/tarleb?tab=following)
+
+- [ ] [tarleb/talks: Presentation slide decks](https://github.com/tarleb/talks)
+
+- [ ] [yihui/highr: Syntax Highlighting for R Source Code](https://github.com/yihui/highr)
+
+- [ ] [Zettlr/Zettlr: A Markdown Editor for the 21st century.](https://github.com/Zettlr/Zettlr)
+
+- [ ] [Zettlr/Zettlr: A Markdown Editor for the 21st century.](https://github.com/Zettlr/Zettlr)
+
+
+

@@ -1100,3 +1100,47 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [YouTube](https://www.youtube.comdd
 - [ ] [YouTube](https://www.youtube.comdd
 - [ ] [YouTube](https://www.youtube.com/)
+
+
+
+
+
+
+
+## 3/20/2020
+
+- [ ] [(2983) Graph Theory Example 1.019 GATE CS 2003 Perfect Matching - YouTube](https://www.youtube.com/watch?v=m7rQIhHyABw)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=yTCbxAJqTvw)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=jFZsDDB0-vo)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=tKcf2qRjK6c)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=tKcf2qRjK6c)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=F6oYjQc_tNM)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=mFqBM2lpLjU)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=nI0dT288VLs)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=UHCZF_oP3QU)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=WvR9voi0y2I)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=0XgVhsMOcQM)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=KiCBXu4P-2Y)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=hettiSrJjM4)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=hettiSrJjM4)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=oEdudqat9PI)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=HlcpVDCAZFM)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=KRYdrxTl40A)
+
+- [ ] [YouTube](https://www.youtube.com/watch?v=ahxThTOi8Jw)

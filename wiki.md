@@ -306,3 +306,77 @@ https://en.wikipedia.org/wiki/Category:Theorems_in_Fourier_analysis
 - [ ] [Stanley Reiter - Wikipedia](https://en.wikipedia.org/wiki/Stanley_Reiter)
 
 - [ ] [Tjalling Koopmans - Wikipedia](https://en.wikipedia.org/wiki/Tjalling_Koopmans)
+
+
+
+## 3/20/2020
+
+- [ ] [Almost all - Wikipedia](https://en.wikipedia.org/wiki/Almost_all)
+
+- [ ] [Antimatroid - Wikipedia](https://en.wikipedia.org/wiki/Antimatroid)
+
+- [ ] [Bipartite graph - Wikipedia](https://en.wikipedia.org/wiki/Bipartite_graph)
+
+- [ ] [Bipartite graph - Wikipedia](https://en.wikipedia.org/wiki/Bipartite_graph)
+
+- [ ] [Chordal graph - Wikipedia](https://en.wikipedia.org/wiki/Chordal_graph)
+
+- [ ] [Chordal graph - Wikipedia](https://en.wikipedia.org/wiki/Chordal_graph)
+
+- [ ] [Clique - Wikipedia](https://en.wikipedia.org/wiki/Clique)
+
+- [ ] [Clique (graph theory) - Wikipedia](https://en.wikipedia.org/wiki/Clique_(graph_theory))
+
+- [ ] [Cocoloring - Wikipedia](https://en.wikipedia.org/wiki/Cocoloring)
+
+- [ ] [Complement graph - Wikipedia](https://en.wikipedia.org/wiki/Complement_graph)
+
+- [ ] [Complement graph - Wikipedia](https://en.wikipedia.org/wiki/Complement_graph)
+
+- [ ] [CRC Concise Encyclopedia of Mathematics - Wikipedia](https://en.wikipedia.org/wiki/CRC_Concise_Encyclopedia_of_Mathematics)
+
+- [ ] [Eric W. Weisstein - Wikipedia](https://en.wikipedia.org/wiki/Eric_W._Weisstein)
+
+- [ ] [Forbidden graph characterization - Wikipedia](https://en.wikipedia.org/wiki/Forbidden_graph_characterization)
+
+- [ ] [Graph coloring - Wikipedia](https://en.wikipedia.org/wiki/Graph_coloring)
+
+- [ ] [Graph coloring - Wikipedia](https://en.wikipedia.org/wiki/Graph_coloring)
+
+- [ ] [Graph sandwich problem - Wikipedia](https://en.wikipedia.org/wiki/Graph_sandwich_problem)
+
+- [ ] [Independent set (graph theory) - Wikipedia](https://en.wikipedia.org/wiki/Independent_set_(graph_theory))
+
+- [ ] [Induced subgraph - Wikipedia](https://en.wikipedia.org/wiki/Induced_subgraph)
+
+- [ ] [Intersection graph - Wikipedia](https://en.wikipedia.org/wiki/Intersection_graph)
+
+- [ ] [Lexicographic breadth-first search - Wikipedia](https://en.wikipedia.org/wiki/Lexicographic_breadth-first_search)
+
+- [ ] [MathWorld - Wikipedia](https://en.wikipedia.org/wiki/MathWorld)
+
+- [ ] [Perfect graph - Wikipedia](https://en.wikipedia.org/wiki/Perfect_graph)
+
+- [ ] [Peter L. Hammer - Wikipedia](https://en.wikipedia.org/wiki/Peter_L._Hammer)
+
+- [ ] [Skew-merged permutation - Wikipedia](https://en.wikipedia.org/wiki/Skew-merged_permutation)
+
+- [ ] [Split graph - Wikipedia](https://en.wikipedia.org/wiki/Split_graph)
+
+- [ ] [Split graph - Wikipedia](https://en.wikipedia.org/wiki/Split_graph#CITEREFChudnovskyRobertsonSeymourThomas2006)
+
+- [ ] [Split graph - Wikipedia](https://en.wikipedia.org/wiki/Split_graph#cite_note-5)
+
+- [ ] [Split graph - Wikipedia](https://en.wikipedia.org/wiki/Split_graph#CITEREFF%C3%B6ldesHammer1977a)
+
+- [ ] [Split graph - Wikipedia](https://en.wikipedia.org/wiki/Split_graph#CITEREFGolumbic1980)
+
+- [ ] [Split graph - Wikipedia](https://en.wikipedia.org/wiki/Split_graph)
+
+- [ ] [Split graph - Wikipedia](https://en.wikipedia.org/wiki/Split_graph#CITEREFBrandst%C3%A4dtLeSpinrad1999)
+
+- [ ] [Star (graph theory) - Wikipedia](https://en.wikipedia.org/wiki/Star_(graph_theory))
+
+- [ ] [Strong perfect graph theorem - Wikipedia](https://en.wikipedia.org/wiki/Strong_perfect_graph_theorem)
+
+- [ ] [Trivially perfect graph - Wikipedia](https://en.wikipedia.org/wiki/Trivially_perfect_graph)

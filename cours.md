@@ -499,4 +499,22 @@
 
 - [ ] [Videos | Policonomics](https://policonomics.com/videos/)
 
-- [ ] [Settings - About Chrome](chrome://settings/help)
+- [ ] [Settings - About Chrome](chrome://settings/help
+
+
+
+
+
+
+
+
+
+## 3/21/2020
+
+- [ ] [Finding Elimination Orderings - Variable Elimination | Coursera](https://www.coursera.org/lecture/probabilistic-graphical-models-2-inference/finding-elimination-orderings-ckOIz)
+
+- [ ] [One way model using JAGS - Common statistical models | Coursera](https://www.coursera.org/lecture/mcmc-bayesian-statistics/one-way-model-using-jags-z4AHf)
+
+- [ ] [Random walk example, Part 1 - Markov chain Monte Carlo (MCMC) | Coursera](https://www.coursera.org/lecture/mcmc-bayesian-statistics/random-walk-example-part-1-H5PDE)
+
+- [ ] [Random walk example, Part 1 - Markov chain Monte Carlo (MCMC) | Coursera](https://www.coursera.org/lecture/mcmc-bayesian-statistics/random-walk-example-part-1-H5PDE)

@@ -206,3 +206,28 @@ rpt from "Xi Jinping: The Backlash" by Richard McGregor](https://sinocism.com/p/
 - [ ] [Wall Street weighs up Bernie Sanders’ financial plans | Financial Times](https://www.ft.com/content/a9c2be38-58cb-11ea-abe5-8e03987b7b20)
 
 - [ ] [What does coronavirus do if you catch it? | Financial Times](https://www.ft.com/content/4d32f442-49c8-11ea-aeb3-955839e06441)
+
+
+## 3/20/2020
+
+- [ ] [[Excerpt] Language vs Communication | Fewer Lacunae](https://kevinbinz.com/2019/07/01/excerpt-language-vs-communication/)
+
+- [ ] [[Excerpt] The Evolution of Abortion | Fewer Lacunae](https://kevinbinz.com/2020/03/03/excerpt-the-evolution-of-abortion/)
+
+- [ ] [Consciousness as a Learning Device | Fewer Lacunae](https://kevinbinz.com/2019/11/27/consciousness-as-a-learning-device/)
+
+- [ ] [Deep Homology: our shared genetic toolkit | Fewer Lacunae](https://kevinbinz.com/2019/06/07/deep-homology/)
+
+- [ ] [Intrinsic Connectivity Networks | Fewer Lacunae](https://kevinbinz.com/2020/01/01/intrinsic-connectivity-networks/)
+
+- [ ] [Intro to Continental Drift | Fewer Lacunae](https://kevinbinz.com/2019/06/28/intro-to-continental-drift/)
+
+- [ ] [Intro to Regularization | Fewer Lacunae](https://kevinbinz.com/2019/06/09/regularization/)
+
+- [ ] [perfect elimination ordering | Fewer Lacunae](https://kevinbinz.com/tag/perfect-elimination-ordering/)
+
+- [ ] [Strangers To Ourselves | Fewer Lacunae](https://kevinbinz.com/2020/02/15/strangers-to-ourselves/)
+
+- [ ] [The Domestication of Sapiens | Fewer Lacunae](https://kevinbinz.com/2020/02/22/the-domestication-of-sapiens/)
+
+- [ ] [The Mindreading System | Fewer Lacunae](https://kevinbinz.com/2020/01/20/two-mindreading-systems/)
