@@ -1,0 +1,95 @@
+## 2/28/2020
+
+- [ ] [Autoregressive integrated moving average - Wikipedia](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
+
+- [ ] [Bad title - Wikipedia](https://en.wikipedia.org/wiki/New_Citizens%2527_Movement)
+
+- [ ] [Bad title - Wikipedia](https://en.wikipedia.org/wiki/New_Citizens%2527_Movement)
+
+- [ ] [Canny edge detector - Wikipedia](https://en.wikipedia.org/wiki/Canny_edge_detector)
+
+- [ ] [Capital structure - Wikipedia](https://en.wikipedia.org/wiki/Capital_structure)
+
+- [ ] [Capitalization rate - Wikipedia](https://en.wikipedia.org/wiki/Capitalization_rate)
+
+- [ ] [Colour banding - Wikipedia](https://en.wikipedia.org/wiki/Colour_banding)
+
+- [ ] [Convolution - Wikipedia](https://en.wikipedia.org/w/index.php?title=Convolution&action=watch)
+
+- [ ] [Cyclically adjusted price-to-earnings ratio - Wikipedia](https://en.wikipedia.org/wiki/Cyclically_adjusted_price-to-earnings_ratio)
+
+- [ ] [en.wikipedia.org](https://en.wikipedia.org/wiki/Tixati)
+
+- [ ] [Interactive Webapps 💻 with Shiny ✨](https://flor14.github.io/rladies_shiny_meetup_2020/rladies_shiny_2020#39)
+
+- [ ] [Estimation of covariance matrices - Wikipedia](https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices)
+
+- [ ] [Exchange rate - Wikipedia](https://en.wikipedia.org/wiki/Exchange_rate)
+
+- [ ] [Feature detection (computer vision) - Wikipedia](https://en.wikipedia.org/wiki/Feature_detection_(computer_vision))
+
+- [ ] [Feature extraction - Wikipedia](https://en.wikipedia.org/wiki/Feature_extraction)
+
+- [ ] [Feature extraction - Wikipedia](https://en.wikipedia.org/wiki/Feature_extraction)
+
+- [ ] [FTCS scheme - Wikipedia](https://en.wikipedia.org/wiki/FTCS_scheme)
+
+- [ ] [Google Flu Trends - Wikipedia](https://en.wikipedia.org/wiki/Google_Flu_Trends)
+
+- [ ] [Gradient-domain image processing - Wikipedia](https://en.wikipedia.org/wiki/Gradient-domain_image_processing)
+
+- [ ] [Heat equation - Wikipedia](https://en.wikipedia.org/wiki/Heat_equation)
+
+- [ ] [Huang Kunming - Wikipedia](https://en.wikipedia.org/wiki/Huang_Kunming)
+
+- [ ] [Image derivatives - Wikipedia](https://en.wikipedia.org/wiki/Image_derivatives)
+
+- [ ] [Image gradient - Wikipedia](https://en.wikipedia.org/wiki/Image_gradient)
+
+- [ ] [Image gradient - Wikipedia](https://en.wikipedia.org/w/index.php?title=Image_gradient&action=watch)
+
+- [ ] [Laplace operator - Wikipedia](https://en.wikipedia.org/wiki/Laplace_operator)
+
+- [ ] [Martin Jacques - Wikipedia](https://en.wikipedia.org/wiki/Martin_Jacques)
+
+- [ ] [Medical image computing - Wikipedia](https://en.wikipedia.org/wiki/Medical_image_computing)
+
+- [ ] [Out-of-bag error - Wikipedia](https://en.wikipedia.org/wiki/Out-of-bag_error)
+
+- [ ] [Posterization - Wikipedia](https://en.wikipedia.org/wiki/Posterization)
+
+- [ ] [Prewitt operator - Wikipedia](https://en.wikipedia.org/wiki/Prewitt_operator)
+
+- [ ] [Publicity Department of the Communist Party of China - Wikipedia](https://en.wikipedia.org/wiki/Publicity_Department_of_the_Communist_Party_of_China)
+
+- [ ] [Purchasing power parity - Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
+
+- [ ] [Purchasing power parity - Wikipedia](https://en.wikipedia.org/wiki/Purchasing_power_parity)
+
+- [ ] [Relative purchasing power parity - Wikipedia](https://en.wikipedia.org/wiki/Relative_purchasing_power_parity)
+
+- [ ] [Relative purchasing power parity - Wikipedia](https://en.wikipedia.org/w/index.php?title=Relative_purchasing_power_parity&action=watch)
+
+- [ ] [Residual income valuation - Wikipedia](https://en.wikipedia.org/wiki/Residual_income_valuation)
+
+- [ ] [Semantic search - Wikipedia](https://en.wikipedia.org/wiki/Semantic_search)
+
+- [ ] [Social accounting - Wikipedia](https://en.wikipedia.org/wiki/Social_accounting)
+
+- [ ] [Support-vector machine - Wikipedia](https://en.wikipedia.org/wiki/Support-vector_machine)
+
+- [ ] [Support-vector machine - Wikipedia](https://en.wikipedia.org/wiki/Support-vector_machine)
+
+- [ ] [Time-weighted return - Wikipedia](https://en.wikipedia.org/wiki/Time-weighted_return)
+
+- [ ] [Time-weighted return - Wikipedia](https://en.wikipedia.org/wiki/Time-weighted_return)
+
+- [ ] [Uncertainty coefficient - Wikipedia](https://en.wikipedia.org/wiki/Uncertainty_coefficient)
+
+- [ ] [Weighted average cost of capital - Wikipedia](https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital)
+
+- [ ] [When China Rules the World - Wikipedia](https://en.wikipedia.org/wiki/When_China_Rules_the_World)
+
+- [ ] [Wold's theorem - Wikipedia](https://en.wikipedia.org/wiki/Wold%27s_theorem)
+
+- [ ] [Wold's theorem - Wikipedia](https://en.wikipedia.org/wiki/Wold%27s_theorem)
