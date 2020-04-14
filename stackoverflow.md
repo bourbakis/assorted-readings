@@ -1211,3 +1211,179 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - [ ] [time series - What is the difference the zoo object and ts object in R? - Stack Overflow](https://stackoverflow.com/questions/33714660/what-is-the-difference-the-zoo-object-and-ts-object-in-r)
 
 - [ ] [zoo - How to convert dataframe with YearMonth column to times series in R - Stack Overflow](https://stackoverflow.com/questions/49952869/how-to-convert-dataframe-with-yearmonth-column-to-times-series-in-r)
+
+
+
+## 3/18/2020
+
+- [ ] [Can somebody help me make Visual Studio Code with Julia ? - Stack Overflow](https://stackoverflow.com/questions/51115343/can-somebody-help-me-make-visual-studio-code-with-julia)
+
+- [ ] [Converting R matrix into LaTeX matrix in the math or equation environment - Stack Overflow](https://stackoverflow.com/questions/20749444/converting-r-matrix-into-latex-matrix-in-the-math-or-equation-environment)
+
+- [ ] [Converting R matrix into LaTeX matrix in the math or equation environment - Stack Overflow](https://stackoverflow.com/questions/20749444/converting-r-matrix-into-latex-matrix-in-the-math-or-equation-environment)
+
+- [ ] [Converting R matrix into LaTeX matrix in the math or equation environment - Stack Overflow](https://stackoverflow.com/questions/20749444/converting-r-matrix-into-latex-matrix-in-the-math-or-equation-environment/20751549?noredirect=1#20751549)
+
+- [ ] [Creating a latex matrix in R-markdown - Stack Overflow](https://stackoverflow.com/questions/49183927/creating-a-latex-matrix-in-r-markdown)
+
+- [ ] [Creating lists and sub items in R markdown not working any longer? - Stack Overflow](https://stackoverflow.com/questions/45541361/creating-lists-and-sub-items-in-r-markdown-not-working-any-longer)
+
+- [ ] [datatables - How to create and export a Matrix (after analysis) as a Table using r and Latex? - Stack Overflow](https://stackoverflow.com/questions/57686271/how-to-create-and-export-a-matrix-after-analysis-as-a-table-using-r-and-latex)
+
+- [ ] [google colab multiple session is allowed in one computer? - Stack Overflow](https://stackoverflow.com/questions/60632028/google-colab-multiple-session-is-allowed-in-one-computer)
+
+- [ ] [gpu - Julia in Google Colab - Stack Overflow](https://stackoverflow.com/questions/58270424/julia-in-google-colab)
+
+- [ ] [How to open WinBUGS odc file in R? - Stack Overflow](https://stackoverflow.com/questions/10169575/how-to-open-winbugs-odc-file-in-r)
+
+- [ ] [julia - How to mount google drive when using IJulia in google colab? - Stack Overflow](https://stackoverflow.com/questions/59717683/how-to-mount-google-drive-when-using-ijulia-in-google-colab)
+
+- [ ] [julia - One-liner or short script to run the code inside a Jupyter notebook? - Stack Overflow](https://stackoverflow.com/questions/30248783/one-liner-or-short-script-to-run-the-code-inside-a-jupyter-notebook)
+
+- [ ] [Knitr: R code within LaTeX environment in a Markdown document - Stack Overflow](https://stackoverflow.com/questions/20759444/knitr-r-code-within-latex-environment-in-a-markdown-document)
+
+- [ ] [Making Sense of the Metadata: Clustering 4,000 Stack Overflow tags with BigQuery k-means - Stack Overflow Blog](https://stackoverflow.blog/2019/07/24/making-sense-of-the-metadata-clustering-4000-stack-overflow-tags-with-bigquery-k-means/)
+
+- [ ] [matrix by matrix in R markdown - Stack Overflow](https://stackoverflow.com/questions/32566089/matrix-by-matrix-in-r-markdown)
+
+- [ ] [Newest 'jupyter' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/jupyter)
+
+- [ ] [Newest 'jupyter' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/jupyter)
+
+- [ ] [python - Colaboratory: How to install and use on local machine? - Stack Overflow](https://stackoverflow.com/questions/50194637/colaboratory-how-to-install-and-use-on-local-machine)
+
+- [ ] [python - ipynb import another ipynb file - Stack Overflow](https://stackoverflow.com/questions/20186344/ipynb-import-another-ipynb-file)
+
+- [ ] [python - ipython notebook clear cell output in code - Stack Overflow](https://stackoverflow.com/questions/24816237/ipython-notebook-clear-cell-output-in-code)
+
+- [ ] [r - dplyr error - could not find function "%>%" - Stack Overflow](https://stackoverflow.com/questions/56355844/dplyr-error-could-not-find-function)
+
+- [ ] [r - dplyr error - could not find function "%>%" - Stack Overflow](https://stackoverflow.com/questions/56355844/dplyr-error-could-not-find-function)
+
+- [ ] [r markdown - R: How to make second level indented bullet points using RMarkdown ioslides? - Stack Overflow](https://stackoverflow.com/questions/26666839/r-how-to-make-second-level-indented-bullet-points-using-rmarkdown-ioslides)
+
+
+
+
+
+
+
+## 3/20/2020
+
+- [ ] [algorithms - Average length of s-t (simple) paths in a directed graph - Computer Science Stack Exchange](https://cs.stackexchange.com/questions/11146/average-length-of-s-t-simple-paths-in-a-directed-graph?noredirect=1&lq=1)
+
+- [ ] [algorithms - Given a chordal graph $G$, what is the complexity of computing the reduced clique graph $C_r(G)$? - Computer Science Stack Exchange](https://cs.stackexchange.com/questions/10979/given-a-chordal-graph-g-what-is-the-complexity-of-computing-the-reduced-cliqu?rq=1)
+
+- [ ] [algorithms - Retrieving the shortest path of a dynamic graph - Computer Science Stack Exchange](https://cs.stackexchange.com/questions/7250/retrieving-the-shortest-path-of-a-dynamic-graph)
+
+- [ ] [combinatorics - What is the maximum number of shortest paths between any pair of vertices in a chordal graph? - Computer Science Stack Exchange](https://cs.stackexchange.com/questions/10438/what-is-the-maximum-number-of-shortest-paths-between-any-pair-of-vertices-in-a-c)
+
+
+
+
+
+
+
+## 3/21/2020
+
+- [ ] [algorithm - How to find the shortest directed cycle in a directed graph? - Stack Overflow](https://stackoverflow.com/questions/51006682/how-to-find-the-shortest-directed-cycle-in-a-directed-graph)
+
+- [ ] [algorithm - How to find the shortest directed cycle in a directed graph? - Stack Overflow](https://stackoverflow.com/questions/51006682/how-to-find-the-shortest-directed-cycle-in-a-directed-graph)
+
+- [ ] [Best algorithm for detecting cycles in a directed graph - Stack Overflow](https://stackoverflow.com/questions/261573/best-algorithm-for-detecting-cycles-in-a-directed-graph)
+
+- [ ] [c++ - Cycles in family tree software - Stack Overflow](https://stackoverflow.com/questions/6163683/cycles-in-family-tree-software)
+
+- [ ] [c++ - Shortest path between vertices of an edge in a graph which should not be the edge itself - Stack Overflow](https://stackoverflow.com/questions/11888452/shortest-path-between-vertices-of-an-edge-in-a-graph-which-should-not-be-the-edg)
+
+- [ ] [ggplot2 - R - ggplot - labs(subtitle=... and caption=...) not working - Stack Overflow](https://stackoverflow.com/questions/53450097/r-ggplot-labssubtitle-and-caption-not-working)
+
+- [ ] [How can I save a JAGS model object in R? - Stack Overflow](https://stackoverflow.com/questions/25425017/how-can-i-save-a-jags-model-object-in-r)
+
+- [ ] [How do I replace NA values with zeros in an R dataframe? - Stack Overflow](https://stackoverflow.com/questions/8161836/how-do-i-replace-na-values-with-zeros-in-an-r-dataframe/37334491#37334491)
+
+- [ ] [How do I replace NA values with zeros in an R dataframe? - Stack Overflow](https://stackoverflow.com/questions/8161836/how-do-i-replace-na-values-with-zeros-in-an-r-dataframe/37334491#37334491)
+
+- [ ] [How do I replace NA values with zeros in an R dataframe? - Stack Overflow](https://stackoverflow.com/questions/8161836/how-do-i-replace-na-values-with-zeros-in-an-r-dataframe?noredirect=1&lq=1)
+
+- [ ] [How to unload a package without restarting R - Stack Overflow](https://stackoverflow.com/questions/6979917/how-to-unload-a-package-without-restarting-r?rq=1)
+
+- [ ] [https://stackoverflow.com/questions/6979917/how-to-unload-a-package-without-restarting-r?rq=1](https://stackoverflow.com/questions/6979917/how-to-unload-a-package-without-restarting-r?rq=1)
+
+- [ ] [Plot two graphs in same plot in R - Stack Overflow](https://stackoverflow.com/questions/2564258/plot-two-graphs-in-same-plot-in-r?rq=1)
+
+- [ ] [Plot two graphs in same plot in R - Stack Overflow](https://stackoverflow.com/questions/2564258/plot-two-graphs-in-same-plot-in-r?noredirect=1&lq=1)
+
+- [ ] [python - Algorithm for generating a tree decomposition - Stack Overflow](https://stackoverflow.com/questions/23737690/algorithm-for-generating-a-tree-decomposition)
+
+- [ ] [r - Add dynamic subtitle using ggplot - Stack Overflow](https://stackoverflow.com/questions/19957536/add-dynamic-subtitle-using-ggplot)
+
+- [ ] [r - Adding color code (fill) to vis_miss plot - Stack Overflow](https://stackoverflow.com/questions/57914461/adding-color-code-fill-to-vis-miss-plot?noredirect=1&lq=1)
+
+- [ ] [r - Adding color code (fill) to vis_miss plot - Stack Overflow](https://stackoverflow.com/questions/57914461/adding-color-code-fill-to-vis-miss-plot?noredirect=1&lq=1)
+
+- [ ] [r - Aligning title, subtitle and caption for horizontal ggplot barchart - Stack Overflow](https://stackoverflow.com/questions/41105759/aligning-title-subtitle-and-caption-for-horizontal-ggplot-barchart)
+
+- [ ] [r - Diagnostics using coda samples in rjags - Stack Overflow](https://stackoverflow.com/questions/23895444/diagnostics-using-coda-samples-in-rjags)
+
+- [ ] [r - Differences between rjags and r2jags - Stack Overflow](https://stackoverflow.com/questions/50758693/differences-between-rjags-and-r2jags)
+
+- [ ] [r - Discrepancies in Benchmark and Processing Time Results - Stack Overflow](https://stackoverflow.com/questions/41604711/discrepancies-in-benchmark-and-processing-time-results/41633258#41633258)
+
+- [ ] [r - Discrepancies in Benchmark and Processing Time Results - Stack Overflow](https://stackoverflow.com/questions/41604711/discrepancies-in-benchmark-and-processing-time-results)
+
+- [ ] [r - geom_raster to visualize missing values with additional colorcode - Stack Overflow](https://stackoverflow.com/questions/57962514/geom-raster-to-visualize-missing-values-with-additional-colorcode)
+
+- [ ] [r - geom_raster to visualize missing values with additional colorcode - Stack Overflow](https://stackoverflow.com/questions/57962514/geom-raster-to-visualize-missing-values-with-additional-colorcode)
+
+- [ ] [r - geom_raster to visualize missing values with additional colorcode - Stack Overflow](https://stackoverflow.com/questions/57962514/geom-raster-to-visualize-missing-values-with-additional-colorcode?noredirect=1&lq=1)
+
+- [ ] [r - ggplot - Multiple legends arrangement - Stack Overflow](https://stackoverflow.com/questions/52060601/ggplot-multiple-legends-arrangement?noredirect=1&lq=1)
+
+- [ ] [r - ggplot2: how to add text to multiple vertical lines (geom_vlines) on a time x-axis? - Stack Overflow](https://stackoverflow.com/questions/41231903/ggplot2-how-to-add-text-to-multiple-vertical-lines-geom-vlines-on-a-time-x-ax?rq=1)
+
+- [ ] [r - ggplot2() plotting one variable against itself by factor? - Stack Overflow](https://stackoverflow.com/questions/53765586/ggplot2-plotting-one-variable-against-itself-by-factor?rq=1)
+
+- [ ] [r - Highlight tiles with ggplot2 geom_tile() + geom_point() - Stack Overflow](https://stackoverflow.com/questions/16351518/highlight-tiles-with-ggplot2-geom-tile-geom-point)
+
+- [ ] [r - How can I view the source code for a function? - Stack Overflow](https://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function?rq=1)
+
+- [ ] [r - How can we make xkcd style graphs? - Stack Overflow](https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs?rq=1)
+
+- [ ] [r - How make a counter rjags coda.samples - Stack Overflow](https://stackoverflow.com/questions/56580660/how-make-a-counter-rjags-coda-samples)
+
+- [ ] [r - How to add a ggplot2 subtitle with different size and colour? - Stack Overflow](https://stackoverflow.com/questions/11724311/how-to-add-a-ggplot2-subtitle-with-different-size-and-colour)
+
+- [ ] [r - How to add a ggplot2 subtitle with different size and colour? - Stack Overflow](https://stackoverflow.com/questions/11724311/how-to-add-a-ggplot2-subtitle-with-different-size-and-colour)
+
+- [ ] [r - How to add a ggplot2 subtitle with different size and colour? - Stack Overflow](https://stackoverflow.com/questions/11724311/how-to-add-a-ggplot2-subtitle-with-different-size-and-colour)
+
+- [ ] [r - How to convert a factor to integer\numeric without loss of information? - Stack Overflow](https://stackoverflow.com/questions/3418128/how-to-convert-a-factor-to-integer-numeric-without-loss-of-information?rq=1)
+
+- [ ] [r - How to convert a factor to integer\numeric without loss of information? - Stack Overflow](https://stackoverflow.com/questions/3418128/how-to-convert-a-factor-to-integer-numeric-without-loss-of-information?rq=1)
+
+- [ ] [r - How to convert a Shiny app consisting of multiple files into an easily shareable and reproducible Shiny example? - Stack Overflow](https://stackoverflow.com/questions/48343080/how-to-convert-a-shiny-app-consisting-of-multiple-files-into-an-easily-shareable?rq=1)
+
+- [ ] [r - How to join (merge) data frames (inner, outer, left, right) - Stack Overflow](https://stackoverflow.com/questions/1299871/how-to-join-merge-data-frames-inner-outer-left-right?rq=1)
+
+- [ ] [r - How to join (merge) data frames (inner, outer, left, right) - Stack Overflow](https://stackoverflow.com/questions/1299871/how-to-join-merge-data-frames-inner-outer-left-right?rq=1)
+
+- [ ] [r - How to sort a dataframe by multiple column(s) - Stack Overflow](https://stackoverflow.com/questions/1296646/how-to-sort-a-dataframe-by-multiple-columns?rq=1)
+
+- [ ] [r - Line plot using ggplot2 with manual line/fill color independent of group aesthetic - Stack Overflow](https://stackoverflow.com/questions/29519273/line-plot-using-ggplot2-with-manual-line-fill-color-independent-of-group-aesthet?rq=1)
+
+- [ ] [r - Omitting a Missing x-axis Value in ggplot2 (Convert range to categorical variable) - Stack Overflow](https://stackoverflow.com/questions/7861771/omitting-a-missing-x-axis-value-in-ggplot2-convert-range-to-categorical-variabl)
+
+- [ ] [r - Plot multiple frequencies over time using ggplot2 - Stack Overflow](https://stackoverflow.com/questions/37402440/plot-multiple-frequencies-over-time-using-ggplot2?rq=1)
+
+- [ ] [r - Preferences for jags.samples vs coda.samples - Stack Overflow](https://stackoverflow.com/questions/56722029/preferences-for-jags-samples-vs-coda-samples)
+
+- [ ] [r - Remove rows with all or some NAs (missing values) in data.frame - Stack Overflow](https://stackoverflow.com/questions/4862178/remove-rows-with-all-or-some-nas-missing-values-in-data-frame?rq=1)
+
+- [ ] [r - Remove rows with all or some NAs (missing values) in data.frame - Stack Overflow](https://stackoverflow.com/questions/4862178/remove-rows-with-all-or-some-nas-missing-values-in-data-frame?rq=1)
+
+- [ ] [r - Show missing values in multiple time-series on one plot - Stack Overflow](https://stackoverflow.com/questions/45720148/show-missing-values-in-multiple-time-series-on-one-plot#)
+
+- [ ] [r - vis_miss make column titles vertical - Stack Overflow](https://stackoverflow.com/questions/52146856/vis-miss-make-column-titles-vertical?noredirect=1&lq=1)
+
+- [ ] [r - vis_miss make column titles vertical - Stack Overflow](https://stackoverflow.com/questions/52146856/vis-miss-make-column-titles-vertical)

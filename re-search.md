@@ -5225,6 +5225,229 @@ https://www.google.com/search?client=firefox-b-d&q=Metropolis-Hastings+MH+ratio
 
 - [ ] [résumé virtues - Google Search](https://www.google.com/search?q=r%C3%A9sum%C3%A9+virtues&oq=r%C3%A9sum%C3%A9+virtues&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 
+
+
+
+
+
+
+
+
+
+
+
+## 3/21/2020
+
+- [ ] [a player involved in a one-shot game will: - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01cA4mXq1AG840n6bVkRCRT6e1WQg%3A1584702743072&lei=F6V0XpqCBJGImAWAq7uICg&q=a%20player%20involved%20in%20a%20one-shot%20game%20will%3A&ved=2ahUKEwidhMft9ajoAhVkyYsBHRkLDPUQsKwBKAV6BAgBEAY)
+
+- [ ] [Algorithmic game theory - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01m9-2Q77a9t3cImRh8vPIjo3E0cw:1584703227566&q=Algorithmic+game+theory&stick=H4sIAAAAAAAAAONgecTYysgt8PLHPWGpmklrTl5jLOPiCs7IL3fNK8ksqRTS4GKDsuS4-KS49HP1DYwLk-ONsjUYpHi4kPhKdkZGuy5NO8emI2jHu7tx99cwBykRJSEuds9in_zkxBxBBiD4-_-9vRInJ5B1YKLOO3sthqZ9Kw6xsXAwCjDwLGIVd8xJzy_KLMnIzUxWSE_MTVUoyUjNL6oEAC3VA8SlAAAA&sa=X&ved=2ahUKEwj188_H96joAhUQE6YKHdeFDUcQ6RMwb3oECGUQBA)
+
+- [ ] [Algorithmic Game Theory Noam Nisan - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01m9-2Q77a9t3cImRh8vPIjo3E0cw:1584703227566&q=Algorithmic+Game+Theory+Noam+Nisan&stick=H4sIAAAAAAAAAONgecSYzy3w8sc9Yam0SWtOXmNM4OIKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNzIwqsrKyNRikeLiQ-EoaRjK7Lk07xyYm-F4wv4RzYZCDEicnAwPDAUO3VfZaDE37VhxiY-FgFGDgWcSq5JiTnl-UWZKRm5ms4J6Ym6oQkpGaX1Sp4JefmKvgl1mcmAcABEDgt5kAAAA&sa=X&ved=2ahUKEwj188_H96joAhUQE6YKHdeFDUcQ6RMwcXoECGUQDQ&biw=1920&bih=948)
+
+- [ ] [Algorithmic Game Theory Noam Nisan - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01m9-2Q77a9t3cImRh8vPIjo3E0cw:1584703227566&q=Algorithmic+Game+Theory+Noam+Nisan&stick=H4sIAAAAAAAAAONgecRYyi3w8sc9YamcSWtOXmNM4-IKzsgvd80rySypFNLjYoOyVLgEpXj10_UNDZOLDcwMKzMqNBik-LlQhZQ0jGR2XZp2jk1McEncq64li4IdlDg5GRgYDjx1PGavxdC0b8UhNhYORgEGnkWsSo456flFmSUZuZnJCu6JuakKIRmp-UWVCn75ibkKfpnFiXkAosod658AAAA&sa=X&ved=2ahUKEwj188_H96joAhUQE6YKHdeFDUcQ6RMwcHoECGUQCA)
+
+- [ ] [Algorithmic Game Theory Noam Nisan - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01m9-2Q77a9t3cImRh8vPIjo3E0cw:1584703227566&q=Algorithmic+Game+Theory+Noam+Nisan&stick=H4sIAAAAAAAAAONgecSYzy3w8sc9Yam0SWtOXmNM4OIKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNzIwqsrKyNRikeLiQ-EoaRjK7Lk07xyYm-F4wv4RzYZCDEicnAwPDAUO3VfZaDE37VhxiY-FgFGDgWcSq5JiTnl-UWZKRm5ms4J6Ym6oQkpGaX1Sp4JefmKvgl1mcmAcABEDgt5kAAAA&sa=X&ved=2ahUKEwj188_H96joAhUQE6YKHdeFDUcQ6RMwcXoECGUQDQ)
+
+- [ ] [anna r karlin - Google Search](https://www.google.com/search?q=anna%20r%20karlin)
+
+- [ ] [Artificial intelligence - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk021Ke60oWtPY3T04-vd40cPak208Q:1584703196005&q=Artificial+intelligence&stick=H4sIAAAAAAAAAONgFuLSz9U3MDE0STbKUmIHsXOzq7T4nPNzc_PzgjNTUssTK4sXsYo7FpVkpmUmZybmKGTmlaTm5GSmp-Ylp-5gZQQAa6RBM0QAAAA&sa=X&ved=2ahUKEwiW28m496joAhWkKqYKHQbVDOYQxA0wfXoECGYQBQ)
+
+- [ ] [bipartite graph - Google Search](https://www.google.com/search?q=bipartite+graph&oq=Bipartite+graph&aqs=chrome.0.0l8.665j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [breadth first pathfinding - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02OgqbHX-R0hB6bVzSNGCXCkp0Ghg:1584622315001&q=breadth+first+pathfinding&sa=X&ved=2ahUKEwjV8sCRyqboAhWey4sBHQt1CEwQ1QIoBnoECEoQBw&biw=1920&bih=948)
+
+- [ ] [breadth first pathfinding - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02OgqbHX-R0hB6bVzSNGCXCkp0Ghg:1584622315001&q=breadth+first+pathfinding&sa=X&ved=2ahUKEwjV8sCRyqboAhWey4sBHQt1CEwQ1QIoBnoECEoQBw)
+
+- [ ] [breadth vs depth search - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02OgqbHX-R0hB6bVzSNGCXCkp0Ghg:1584622315001&q=breadth+vs+depth+search&sa=X&ved=2ahUKEwjV8sCRyqboAhWey4sBHQt1CEwQ1QIoB3oECEoQCA)
+
+- [ ] [car normal openbugs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01lr3tcAXdK11_s__tEjFC9X9YM4w:1584712994417&q=car+normal+openbugs&sa=X&ved=2ahUKEwjqi-n4m6noAhXZE4gKHcD2Av8Q1QIoBXoECGIQBg)
+
+- [ ] [car.normal winbugs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02q0H3T22TJOUouBZu1Sn9cCYCqbw:1584712989272&q=car.normal+winbugs&sa=X&ved=2ahUKEwjX9q72m6noAhXG7WEKHbeGCW8Q1QIoA3oECGMQBA)
+
+- [ ] [chordal extension - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03OoId7NFayG_METfdCPI2Mw1LAgg:1584625101214&q=chordal+extension&sa=X&ved=2ahUKEwiQ-YnC1KboAhVKwosBHc-UBL4Q1QIoBHoECGEQBQ)
+
+- [ ] [clique - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03OoId7NFayG_METfdCPI2Mw1LAgg%3A1584625101214&lei=zXVzXtDeDMqEr7wPz6mS8As&q=clique&ved=2ahUKEwi-l7yH1aboAhUbVpQKHdzZCG4QsKwBKAJ6BAgBEAM)
+
+- [ ] [Clique (TV series) - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01dBo9Qu6btoM154AG9v9oxM0ZOjQ:1584625703497&q=Clique+(TV+series)&stick=H4sIAAAAAAAAAONgecTYw8gt8PLHPWGpJsZJa05eY6zh4grOyC93zSvJLKkU0uNig7JUuASlePXT9Q0N083ysszSq5I0GKT4uVCFlOyMjHZdmnaOTUfwaHyOv3tosIOUiJIQF7tnsU9-cmKOYOuDP_Fpv9_bK3FyMjAwLJjAv99ei6Fp34pDbCwcjAIMPItYhZxzMgtLUxU0QsIUilOLMlOLNQGW9UkYpwAAAA&sa=X&ved=2ahUKEwjxq6Lh1qboAhURCpQKHatPBkUQ6RMwdnoECGoQBA)
+
+- [ ] [coda samples - Google Search](https://www.google.com/search?q=coda+samples&oq=coda+samples+&aqs=chrome..69i57j0l6.6647j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [combinatorial game strategy solution answer - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00zWeEXC2M3hWupwyGQFwNNBdBSXg:1584718601330&q=combinatorial+game+strategy+solution+answer&stick=H4sIAAAAAAAAAOOQMZJLzs9NysxLLMkvykzMUUhPzE1VKMlIzS-qVEjKz8-O0sYiX1xSlFiSml6pUJyfU1qSmZ-nkJhXXJ5adIqRRz9d39DIrDwtuaDC6BQjp36uvoFhTrqpKYxtZm6ecYqRF6TMMNmwKD29wLISpi0ptyStxAiJa5FhbFoGU51uEW9omVZsCZeuykjPMClCGFaRZ2CabYbQnWRaYm7-i1HOGa8HF7GS4kMA5X2hwjEBAAA&sa=X&ved=2ahUKEwithbTqsKnoAhUxBKYKHa_hD7cQzTooADBlegQIYxAC)
+
+- [ ] [combinatorial game theory book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00zWeEXC2M3hWupwyGQFwNNBdBSXg:1584718601330&q=combinatorial+game+theory+book&sa=X&ved=2ahUKEwithbTqsKnoAhUxBKYKHa_hD7cQ1QIoAnoECGIQAw)
+
+- [ ] [comniantorial game strategy solution OR answoer - Google Search](https://www.google.com/search?q=comniantorial+game+strategy+solution+OR+answoer&oq=comniantorial+game+strategy+solution+OR+answoer&aqs=chrome..69i57j33l2.13756j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [complement - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01DGbBmLN3K2Y8m32eHiSEDWqwc4w%3A1584574563142&ei=Y7ByXpGDCLaKr7wPpbmTGA&q=complement&oq=compliment&gs_l=psy-ab.1.1.0i273j0i10l2j0j0i10l2j0l2j0i10j0.14800.14800..17114...0.4..0.123.123.0j1......0....2j1..gws-wiz.......0i71.TadOh9U74To)
+
+- [ ] [Complexity - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02FqdcTZPnCSMm1pI5ULduRZfauWA:1584703187565&q=Complexity&stick=H4sIAAAAAAAAAONgecTYyMgt8PLHPWGpiklrTl5jLOLiCs7IL3fNK8ksqRRS4WKDsqS4eKQ49HP1DYyMirI0GKS4uOA8JTsjo12Xpp1j0xFsq4iRLd8S5iAloiTExe5Z7JOfnJgjmCX-x37qz_f2SpycDAwMDS4XX9trMTTtW3GIjYWDUYCBZxErl3N-bkFOagXQJgDsCCAelAAAAA&sa=X&ved=2ahUKEwjHwsa096joAhXtwosBHSilBTIQ6RMwkAF6BAhoEAQ&biw=1920&bih=948)
+
+- [ ] [constant sum game - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk001-TlglSn_eQjJN6eC1J1wvFMdBQ:1584722042201&q=constant+sum+game&sa=X&ved=2ahUKEwjRmpLTvanoAhULHaYKHVP6CHMQ1QIoBXoECGcQBg)
+
+- [ ] [Cycle decomposition (graph theory) - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ALeKk02LmXcMZxZg-ykVAuWdj2J8muw1CA:1584623567459&q=Cycle+decomposition+(graph+theory)&stick=H4sIAAAAAAAAAONgecRYyC3w8sc9YamMSWtOXmNM4uIKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNksrTKsvSNBikeLiQ-EpaRjK7Lk07xyYmuGf7itytDqEOSpycDGDwwF6LwYGxad-KQ2wsHIwCDDyLWJWcK5NzUhVSUpPzcwvyizNLMvPzFDTSixILMhRKMlLziyo1AXe_nEibAAAA&ved=2ahUKEwiD59zmzqboAhUECqYKHahCCGcQ6RMwd3oECGUQBA)
+
+- [ ] [decomposable graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk035_rTUy371WcJpRka1UlffcFrbcA%3A1584620881101&lei=UWVzXtneBZHVmAXc67KwAg&q=decomposable%20graph&ved=2ahUKEwjJkMrmxKboAhUyK6YKHUYDC74QsKwBKAB6BAgAEAE)
+
+- [ ] [definition of split graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02DbHX4S5X2GrtAdIu3twfoh3d0HA:1584540894475&q=definition+of+split+graph&stick=H4sIAAAAAAAAAOOQMZIvqSxILVbIT1NIL0osyChWyMyDsBRKMlLziyqjJFNS0zLzMksy8_NAqooLcjJLICpOMXLq5-obGOVkm8HYhtkpxUmnGDlA7JyiYoNTjFwgpklufG6SCUxNcpVZPIxdbpybe4qRRz9d39DIND6rLLfAEiplnGOckgVlm5rnlSTDjS2x_MUoH4Lf2YtYcbsbADua4R72AAAA&sa=X&ved=2ahUKEwiaqJbpmqToAhV4wYsBHVn5AQ8QzTooADBuegQIZRAC)
+
+- [ ] [definiton of stable set - Google Search](https://www.google.com/search?q=definiton+of+stable+set&oq=definiton+of++stable+set&aqs=chrome..69i57.7532j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [deviance winbugs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03zsCUaCQZnkL0JOheExxeTcTHlzw:1584712949949&q=deviance+winbugs&sa=X&ved=2ahUKEwjkiM_jm6noAhUCzmEKHV5vAqMQ1QIoBXoECGUQBg)
+
+- [ ] [Dimension (graph theory) - Google Search](https://www.google.com/search?newwindow=1&sa=X&sxsrf=ALeKk02VpJ_7sYvKAp9twHRo8OrJ9GsZJg:1584623566518&q=Dimension+(graph+theory)&stick=H4sIAAAAAAAAAONgecSYzy3w8sc9Yam0SWtOXmNM4OIKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNyirSzXKyNBikeLiQ-EoaRjK7Lk07xyYmaMzNfXQDd7CDEicnAwODwtJLm-y1GJr2rTjExsLBKMDAs4hVwiUzNzWvODM_T0EjvSixIEOhJCM1v6hSEwDhQIkPjwAAAA&ved=2ahUKEwi6tqPmzqboAhWKwJQKHUeBD54Q6RMwdHoECF8QBA)
+
+- [ ] [dwish winbugs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03zsCUaCQZnkL0JOheExxeTcTHlzw:1584712949949&q=dwish+winbugs&sa=X&ved=2ahUKEwjkiM_jm6noAhUCzmEKHV5vAqMQ1QIoB3oECGUQCA)
+
+- [ ] [exam questions and answers on game theory - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01cA4mXq1AG840n6bVkRCRT6e1WQg%3A1584702743072&lei=F6V0XpqCBJGImAWAq7uICg&q=exam%20questions%20and%20answers%20on%20game%20theory&ved=2ahUKEwidhMft9ajoAhVkyYsBHRkLDPUQsKwBKAR6BAgBEAU)
+
+- [ ] [example of chordal graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02mGwNcOEMRw8ZuK0cFQtKFJwOt4w:1584623396390&q=example+of+chordal+graph&sa=X&ved=2ahUKEwjT0ZOVzqboAhUBGKYKHVhRBrwQ1QIoAHoECF0QAQ)
+
+- [ ] [find nash equilibrium 3x3 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02biv5LttT8Fmb_maRd6e6AvXxlpw%3A1584720656401&lei=EOt0XuCOGIyTr7wPp5qLkAg&q=find%20nash%20equilibrium%203x3&ved=2ahUKEwiunJa_uKnoAhV0IqYKHW2HDSsQsKwBKAN6BAgAEAQ)
+
+- [ ] [find the value fo the game for zero0sum games - Google Search](https://www.google.com/search?q=find+the+value+fo+the+game+for+zero0sum+games&oq=find+the+value+fo+the+game+for+zero0sum+games&aqs=chrome..69i57.14119j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [fit random wark winbugs - Google Search](https://www.google.com/search?q=fit%20random%20wark%20winbugs)
+
+- [ ] [fundamental theorem of combinatorial games - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00zWeEXC2M3hWupwyGQFwNNBdBSXg:1584718601330&q=fundamental+theorem+of+combinatorial+games&sa=X&ved=2ahUKEwithbTqsKnoAhUxBKYKHa_hD7cQ1QIoBnoECGIQBw)
+
+- [ ] [G split if and only if G chordal - Google Search](https://www.google.com/search?q=G+split+if+and+only+if+G+chordal&oq=G+split+if+and+only+if+G+chordal&aqs=chrome..69i57j69i64l3.18015j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [game theory "answers" of exam - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03KBHVHk_5W_FrTmoIafavls32prw%3A1584702753418&ei=IaV0Xu2KGaiymAXL5LDADQ&q=game+theory+%22answers%22+of+exam&oq=game+theory+%22answers%22+of+exam&gs_l=psy-ab.3..35i39.21889.24347..24744...0.3..0.131.242.0j2......0....1..gws-wiz.......0i71.NNBYUYCGnNU&ved=0ahUKEwitn8Tl9ajoAhUoGaYKHUsyDNgQ4dUDCAs&uact=5)
+
+- [ ] [game theory alive - Google Search](https://www.google.com/search?q=game%20theory%20alive)
+
+- [ ] [game theory exam - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01cA4mXq1AG840n6bVkRCRT6e1WQg%3A1584702743072&lei=F6V0XpqCBJGImAWAq7uICg&q=game%20theory%20exam&ved=2ahUKEwidhMft9ajoAhVkyYsBHRkLDPUQsKwBKAN6BAgBEAQ)
+
+- [ ] [game theory lect notes - Google Search](https://www.google.com/search?q=game+theory+lect+notes&oq=game+theory+lect+notes&aqs=chrome..69i57j0l7.3883j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [game theory problem set - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01cA4mXq1AG840n6bVkRCRT6e1WQg%3A1584702743072&lei=F6V0XpqCBJGImAWAq7uICg&q=game%20theory%20problem%20set&ved=2ahUKEwidhMft9ajoAhVkyYsBHRkLDPUQsKwBKAB6BAgBEAE)
+
+- [ ] [game theory through examples pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01cA4mXq1AG840n6bVkRCRT6e1WQg%3A1584702743072&lei=F6V0XpqCBJGImAWAq7uICg&q=game%20theory%20through%20examples%20pdf&ved=2ahUKEwidhMft9ajoAhVkyYsBHRkLDPUQsKwBKAJ6BAgBEAM)
+
+- [ ] [gg_miss_var - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02oOTwVtF0-LZ4W3XQl0rksN7n04g%3A1584709667182&lei=I8B0XuLZCpLahwP6wZyoBQ&q=gg_miss_var&ved=2ahUKEwi73KjHj6noAhUOc3AKHVvuAfwQsKwBKAF6BAgAEAI)
+
+- [ ] [ggplot caption wrap - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01euL2BqCucNrAn41SYubCPQma3QQ%3A1584712377080&lei=ucp0XrqpBMnahwP1i6aoBg&q=ggplot%20caption%20wrap&ved=2ahUKEwjxiLTTmanoAhUOH3AKHZfvDFMQsKwBKAF6BAgAEAI)
+
+- [ ] [ggplot r adding subtitle - Google Search](https://www.google.com/search?q=ggplot%20r%20adding%20subtitle)
+
+- [ ] [ggplot r how to highlight missing values - Google Search](https://www.google.com/search?q=ggplot+r+how+to+highlight+missing+values&oq=ggplot+r+how+to+hilight+missing+v&aqs=chrome.1.69i57j33.14557j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [gibbons game theory solutions - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01cA4mXq1AG840n6bVkRCRT6e1WQg%3A1584702743072&lei=F6V0XpqCBJGImAWAq7uICg&q=gibbons%20game%20theory%20solutions&ved=2ahUKEwidhMft9ajoAhVkyYsBHRkLDPUQsKwBKAF6BAgBEAI&biw=1920&bih=948)
+
+- [ ] [gibbons game theory solutions - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01cA4mXq1AG840n6bVkRCRT6e1WQg%3A1584702743072&lei=F6V0XpqCBJGImAWAq7uICg&q=gibbons%20game%20theory%20solutions&ved=2ahUKEwidhMft9ajoAhVkyYsBHRkLDPUQsKwBKAF6BAgBEAI)
+
+- [ ] [gibbs sampling r jags behind the scenes - Google Search](https://www.google.com/search?q=gibbs+sampling+r+jags+behind+the+scenes&oq=gibbs+sampling+r+JAGS+&aqs=chrome.1.69i57j33.10335j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [graph decomposition - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02mGwNcOEMRw8ZuK0cFQtKFJwOt4w:1584623396390&q=graph+decomposition&sa=X&ved=2ahUKEwjT0ZOVzqboAhUBGKYKHVhRBrwQ1QIoBHoECF0QBQ)
+
+- [ ] [graph split chordal - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02DbHX4S5X2GrtAdIu3twfoh3d0HA%3A1584540894475&ei=3ixyXprBHPiCr7wP2fKHeA&q=graph+split+chordal)
+
+- [ ] [graph triangulation - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk035_rTUy371WcJpRka1UlffcFrbcA%3A1584620881101&lei=UWVzXtneBZHVmAXc67KwAg&q=graph%20triangulation&ved=2ahUKEwjJkMrmxKboAhUyK6YKHUYDC74QsKwBKAJ6BAgAEAM)
+
+- [ ] [graph width - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02mGwNcOEMRw8ZuK0cFQtKFJwOt4w:1584623396390&q=graph+width&sa=X&ved=2ahUKEwjT0ZOVzqboAhUBGKYKHVhRBrwQ1QIoAXoECF0QAg)
+
+- [ ] [how to determine the convergence of parameter JAGS - Google Search](https://www.google.com/search?q=how%20to%20determine%20the%20convergence%20of%20parameter%20JAGS)
+
+- [ ] [how to insert pic in rstudio rmarkdown pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02FaiZrAfK-o97TPzIzIyqkjy7BUQ%3A1584748591774&ei=L1h1XsXzLoKemAWmioagDg&q=how+to+insert+pic+in+rstudio+rmarkdown+pdf&oq=how+to+insert+pic+in+rstudio+rmarkdown+pdf&gs_l=psy-ab.3...1603.1603..1966...0.2..0.95.95.1......0....1..gws-wiz.......0i71.fOS_uOauD_Y&ved=0ahUKEwiFx_vGoKroAhUCD6YKHSaFAeQQ4dUDCAs&uact=5)
+
+- [ ] [how to solve two-person zero-sum game - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02biv5LttT8Fmb_maRd6e6AvXxlpw%3A1584720656401&lei=EOt0XuCOGIyTr7wPp5qLkAg&q=how%20to%20solve%20two-person%20zero-sum%20game&ved=2ahUKEwiunJa_uKnoAhV0IqYKHW2HDSsQsKwBKAF6BAgBEAI)
+
+- [ ] [how to solve zero sum game with given payoff matrix - Google Search](https://www.google.com/search?q=how+to+solve+zero+sum+game+with+given+payoff+matrix&oq=how+to+solve+zero+sum+game+with+given+payoff+matrix&aqs=chrome..69i57.12518j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [induced path - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02mGwNcOEMRw8ZuK0cFQtKFJwOt4w:1584623396390&q=induced+path&sa=X&ved=2ahUKEwjT0ZOVzqboAhUBGKYKHVhRBrwQ1QIoAnoECF0QAw)
+
+- [ ] [interval graphs are perfect - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02mGwNcOEMRw8ZuK0cFQtKFJwOt4w:1584623396390&q=interval+graphs+are+perfect&sa=X&ved=2ahUKEwjT0ZOVzqboAhUBGKYKHVhRBrwQ1QIoBnoECF0QBw)
+
+- [ ] [lex BFS-orderins - Google Search](https://www.google.com/search?q=lex+BFS-orderins&oq=lex+BFS-orderins&aqs=chrome..69i57j69i60l4.8038j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [LexBFS-orderings - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02OgqbHX-R0hB6bVzSNGCXCkp0Ghg:1584622315001&q=LexBFS-orderings&tbm=isch&source=univ&sa=X&ved=2ahUKEwjV8sCRyqboAhWey4sBHQt1CEwQsAR6BAgGEAE)
+
+- [ ] [maximal cliques of chordal graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03OoId7NFayG_METfdCPI2Mw1LAgg:1584625101214&q=maximal+cliques+of+chordal+graph&sa=X&ved=2ahUKEwiQ-YnC1KboAhVKwosBHc-UBL4Q1QIoA3oECGEQBA)
+
+- [ ] [maximum cardinality matching - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01IrmGzCnd4ZIckQOSUskfMYVN1Jw:1584625702287&q=maximum+cardinality+matching&sa=X&ved=2ahUKEwjoq9jg1qboAhVQHKYKHU1cBvYQ1QIoAXoECGIQAg)
+
+- [ ] [maximum cardinality search - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03OoId7NFayG_METfdCPI2Mw1LAgg%3A1584625101214&lei=zXVzXtDeDMqEr7wPz6mS8As&q=maximum%20cardinality%20search&ved=2ahUKEwi-l7yH1aboAhUbVpQKHdzZCG4QsKwBKAB6BAgBEAE)
+
+- [ ] [Minimax - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk001-TlglSn_eQjJN6eC1J1wvFMdBQ:1584722042201&q=Minimax&stick=H4sIAAAAAAAAAOOQUeLQz9U3MKnMqjKSSk_MTVUoyUjNL6pUKKksSC1WyE9TAAkWR0lXpRblKxSX5oL5CgWJlflpaQq5iSVFmRWnGHn10_UNDZOzqlIq04yMTzFygsw0NTQ3MoOyDcuys4HqwHaZZ1caQYXNTauSDKDCICf8YpRyx-mGRazsvpl5mbmJFQC7hmVetgAAAA&sa=X&ved=2ahUKEwjRmpLTvanoAhULHaYKHVP6CHMQxA0wcXoECGUQDg)
+
+- [ ] [Minimax theorem - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk001-TlglSn_eQjJN6eC1J1wvFMdBQ:1584722042201&q=Minimax+theorem&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzOqkqpTDMyNpJKT8xNVSjJSM0vqlQoqSxILVbIT1MACRZHSVelFuUrFJfmgvkKBYmV-WlpCrmJJUWZFacYUQ06xcipn6tvYGpobmQGZRuWZWcD1XGA2ObZlUZQYXPTqiQDqLBJZVbVL0Ypd5xuWMTK75uZl5mbWAGRT80FAGZzowTDAAAA&sa=X&ved=2ahUKEwjRmpLTvanoAhULHaYKHVP6CHMQxA0wcXoECGUQBA)
+
+- [ ] [network science - Google Search](https://www.google.com/search?q=network%20science)
+
+- [ ] [Network science - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk021Ke60oWtPY3T04-vd40cPak208Q:1584703196005&q=Network+science&stick=H4sIAAAAAAAAAONgFuLSz9U3MDE0STbKUkJiawlnJ1vpJ-fn5ubnWRVnpqSWJ1YWL2Ll90stKc8vylYoTs5MzUtO3cHKCACcI0KORAAAAA&sa=X&ved=2ahUKEwiW28m496joAhWkKqYKHQbVDOYQzTooATB9egQIZhAC)
+
+- [ ] [Network Science Albert-László Barabási - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk021Ke60oWtPY3T04-vd40cPak208Q:1584703196005&q=Network+Science+Albert-L%C3%A1szl%C3%B3+Barab%C3%A1si&stick=H4sIAAAAAAAAAONgecTYw8gt8PLHPWGpJsZJa05eY6zh4grOyC93zSvJLKkU0uNig7JUuASlePXT9Q0Nk8orC7IqK7M0GKT4uVCFlOyMjHZdmnaOTUfQq3mtZYR6gIOUiJIQF7tnsU9-cmKOoDALA8PN_-_tlTg5GRgYHtxZGGWvxdC0b8UhNhYORgEGnkWsmn6pJeX5RdkKwcmZqXnJqQqOOUmpRSW6PocXFlflHN6s4JRYlJgE5GQCAM_CUQ2-AAAA&sa=X&ved=2ahUKEwiW28m496joAhWkKqYKHQbVDOYQ6RMwf3oECG0QBA)
+
+- [ ] [p3 graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02mGwNcOEMRw8ZuK0cFQtKFJwOt4w:1584623396390&q=p3+graph&sa=X&ved=2ahUKEwjT0ZOVzqboAhUBGKYKHVhRBrwQ1QIoA3oECF0QBA)
+
+- [ ] [perfect elimination ordering - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01IrmGzCnd4ZIckQOSUskfMYVN1Jw:1584625702287&q=perfect+elimination+ordering&sa=X&ved=2ahUKEwjoq9jg1qboAhVQHKYKHU1cBvYQ1QIoAHoECGIQAQ)
+
+- [ ] [perfect elimination ordering example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk035_rTUy371WcJpRka1UlffcFrbcA%3A1584620881101&lei=UWVzXtneBZHVmAXc67KwAg&q=perfect%20elimination%20ordering%20example&ved=2ahUKEwjJkMrmxKboAhUyK6YKHUYDC74QsKwBKAF6BAgAEAI)
+
+- [ ] [plot missing values python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02oOTwVtF0-LZ4W3XQl0rksN7n04g%3A1584709667182&lei=I8B0XuLZCpLahwP6wZyoBQ&q=plot%20missing%20values%20python&ved=2ahUKEwi73KjHj6noAhUOc3AKHVvuAfwQsKwBKAR6BAgAEAU)
+
+- [ ] [plot_missing in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02oOTwVtF0-LZ4W3XQl0rksN7n04g%3A1584709667182&lei=I8B0XuLZCpLahwP6wZyoBQ&q=plot_missing%20in%20r&ved=2ahUKEwi73KjHj6noAhUOc3AKHVvuAfwQsKwBKAJ6BAgAEAM)
+
+- [ ] [rationalizable strategy calculator - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02biv5LttT8Fmb_maRd6e6AvXxlpw%3A1584720656401&lei=EOt0XuCOGIyTr7wPp5qLkAg&q=rationalizable%20strategy%20calculator&ved=2ahUKEwiunJa_uKnoAhV0IqYKHW2HDSsQsKwBKAF6BAgAEAI)
+
+- [ ] [simplicial elimination ordering graph existence - Google Search](https://www.google.com/search?q=simplicial+elimination+ordering+graph+existence&oq=simplicial+elimination+ordering+graph+existence&aqs=chrome..69i57.16775j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [solving 3x3 zero sum game - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02biv5LttT8Fmb_maRd6e6AvXxlpw%3A1584720656401&lei=EOt0XuCOGIyTr7wPp5qLkAg&q=solving%203x3%20zero%20sum%20game&ved=2ahUKEwiunJa_uKnoAhV0IqYKHW2HDSsQsKwBKAB6BAgAEAE)
+
+- [ ] [split graph characterization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02DOsqbdv7js-yO32tZIs6Nm1CQcg:1584542357688&q=split+graph+characterization&sa=X&ved=2ahUKEwjp5PGioKToAhUByIsBHZfrCsgQ1QIoAXoECF8QAg)
+
+- [ ] [Strategic dominance - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk001-TlglSn_eQjJN6eC1J1wvFMdBQ:1584722042201&q=Strategic+dominance&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDetSjIwkkpPzE1VKMlIzS-qVCipLEgtVshPUwAJFkdJV6UW5SsUl-aC-QoFiZX5aWkKuYklRZkVpxh59dP1DQ2Ts6pSKtOMjE8xgg01NTQ3MoOyDcuys4HqOMCWZVcaQYXB9kKFTSqzqn4xSrnjdMMiVuHgkqLEktT0zGSFlPzczLzEvORUAJc_Xc3DAAAA&sa=X&ved=2ahUKEwjRmpLTvanoAhULHaYKHVP6CHMQxA0wcXoECGUQDA)
+
+- [ ] [Strategy (game theory) - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk001-TlglSn_eQjJN6eC1J1wvFMdBQ:1584722042201&q=Strategy+(game+theory)&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDU0NzIzkkpPzE1VKMlIzS-qVCipLEgtVshPUwAJFkdJV6UW5SsUl-aC-QoFiZX5aWkKuYklRZkVpxh59dP1DQ2Ts6pSKtOMjE8xIgyFsg3LsrOB6jhAbPPsSiOosLlpVZIBVNikMqvqF6OUO043LGIVCy4pSixJTa9U0EByqiYADOoVB8YAAAA&sa=X&ved=2ahUKEwjRmpLTvanoAhULHaYKHVP6CHMQxA0wcXoECGUQBg)
+
+- [ ] [Time complexity - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02FqdcTZPnCSMm1pI5ULduRZfauWA:1584703187565&q=Time+complexity&stick=H4sIAAAAAAAAAONgecSYzS3w8sc9YamkSWtOXmOM4eIKzsgvd80rySypFFLhYoOypLh4pDj0c_UNkk3SKzUYpLi44DwlDSOZXZemnWMTE2TmdODnzvN3UOLkZGBgeOCbFGCvxdC0b8UhNhYORgEGnkWs_CGZuakKyfm5BTmpFUCDAa1_UD6CAAAA&sa=X&ved=2ahUKEwjHwsa096joAhXtwosBHSilBTIQ6RMwkQF6BAhoEAg)
+
+- [ ] [Tragedy of the commons - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk001-TlglSn_eQjJN6eC1J1wvFMdBQ:1584722042201&q=Tragedy+of+the+commons&stick=H4sIAAAAAAAAAOOQUeLQz9U3MM-uNDKSSk_MTVUoyUjNL6pUKKksSC1WyE9TAAkWR0lXpRblKxSX5oL5CgWJlflpaQq5iSVFmRWnGHn10_UNDZOzqlIq04yMTzFygsw0NTQ3MoOyDcuys4Hq4HZBhc1Nq5IMoMImlVlVvxil3HG6YRGrWEhRYnpqSiVICKhEITk_Nzc_rxgAdofqgsUAAAA&sa=X&ved=2ahUKEwjRmpLTvanoAhULHaYKHVP6CHMQxA0wcXoECGUQCg)
+
+- [ ] [tree perfect graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02mGwNcOEMRw8ZuK0cFQtKFJwOt4w:1584623396390&q=tree+perfect+graph&sa=X&ved=2ahUKEwjT0ZOVzqboAhUBGKYKHVhRBrwQ1QIoBXoECF0QBg&biw=958&bih=919)
+
+- [ ] [tree perfect graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02mGwNcOEMRw8ZuK0cFQtKFJwOt4w:1584623396390&q=tree+perfect+graph&sa=X&ved=2ahUKEwjT0ZOVzqboAhUBGKYKHVhRBrwQ1QIoBXoECF0QBg)
+
+- [ ] [two-person zero-sum game in operation research - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk001-TlglSn_eQjJN6eC1J1wvFMdBQ:1584722042201&q=two-person+zero-sum+game+in+operation+research&sa=X&ved=2ahUKEwjRmpLTvanoAhULHaYKHVP6CHMQ1QIoB3oECGcQCA)
+
+- [ ] [two-person zero-sum game ppt - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk001-TlglSn_eQjJN6eC1J1wvFMdBQ:1584722042201&q=two-person+zero-sum+game+ppt&sa=X&ved=2ahUKEwjRmpLTvanoAhULHaYKHVP6CHMQ1QIoBnoECGcQBw)
+
+- [ ] [vim missing data pattern - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02oOTwVtF0-LZ4W3XQl0rksN7n04g%3A1584709667182&lei=I8B0XuLZCpLahwP6wZyoBQ&q=vim%20missing%20data%20pattern&ved=2ahUKEwi73KjHj6noAhUOc3AKHVvuAfwQsKwBKAN6BAgAEAQ)
+
+- [ ] [vis_miss - Google Search](https://www.google.com/search?q=vis_miss&oq=vis_miss&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [weakly chordal graphs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02DOsqbdv7js-yO32tZIs6Nm1CQcg:1584542357688&q=weakly+chordal+graphs&sa=X&ved=2ahUKEwjp5PGioKToAhUByIsBHZfrCsgQ1QIoBHoECF8QBQ)
+
+- [ ] [weakly chordal graphs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03OoId7NFayG_METfdCPI2Mw1LAgg:1584625101214&q=weakly+chordal+graphs&sa=X&ved=2ahUKEwiQ-YnC1KboAhVKwosBHc-UBL4Q1QIoAnoECGEQAw)
+
+- [ ] [winbugs ddirch - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03zsCUaCQZnkL0JOheExxeTcTHlzw:1584712949949&q=winbugs+ddirch&sa=X&ved=2ahUKEwjkiM_jm6noAhUCzmEKHV5vAqMQ1QIoBnoECGUQBw)
+
+- [ ] [winbugs examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03zsCUaCQZnkL0JOheExxeTcTHlzw:1584712949949&q=winbugs+examples&sa=X&ved=2ahUKEwjkiM_jm6noAhUCzmEKHV5vAqMQ1QIoAHoECGUQAQ)
+
+- [ ] [winbugs examples - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02q0H3T22TJOUouBZu1Sn9cCYCqbw:1584712989272&q=winbugs+examples&sa=X&ved=2ahUKEwjX9q72m6noAhXG7WEKHbeGCW8Q1QIoAHoECGMQAQ)
+
+- [ ] [winbugs manual - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03zsCUaCQZnkL0JOheExxeTcTHlzw:1584712949949&q=winbugs+manual&sa=X&ved=2ahUKEwjkiM_jm6noAhUCzmEKHV5vAqMQ1QIoAXoECGUQAg)
+
+- [ ] [winbugs mixture model - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03zsCUaCQZnkL0JOheExxeTcTHlzw:1584712949949&q=winbugs+mixture+model&sa=X&ved=2ahUKEwjkiM_jm6noAhUCzmEKHV5vAqMQ1QIoBHoECGUQBQ)
+
+- [ ] [winbugs step function - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01lr3tcAXdK11_s__tEjFC9X9YM4w:1584712994417&q=winbugs+step+function&sa=X&ved=2ahUKEwjqi-n4m6noAhXZE4gKHcD2Av8Q1QIoBHoECGIQBQ)
+
+- [ ] [winbugs tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03zsCUaCQZnkL0JOheExxeTcTHlzw:1584712949949&q=winbugs+tutorial&sa=X&ved=2ahUKEwjkiM_jm6noAhUCzmEKHV5vAqMQ1QIoAnoECGUQAw)
+
+- [ ] [winbugs tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02q0H3T22TJOUouBZu1Sn9cCYCqbw:1584712989272&q=winbugs+tutorial&sa=X&ved=2ahUKEwjX9q72m6noAhXG7WEKHbeGCW8Q1QIoAnoECGMQAw)
+
+- [ ] [winning strategy for cominatorial game on graph - Google Search](https://www.google.com/search?q=winning%20strategy%20for%20cominatorial%20game%20on%20graph)
+
+- [ ] [www.google.com](https://www.google.com/search?q=visdat&oq=visdat&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [yuval peres - Google Search](https://www.google.com/search?q=yuval%20peres)
+
+- [ ] [zero sum game example matrix - Google Search](https://www.google.com/search?q=zero+sum+game+example+matrix&oq=zero+sum+game+matrix+&aqs=chrome.3.69i57j0l4j69i61l3.6157j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [zero sum game payoff matrix - Google Search](https://www.google.com/search?q=zero+sum+game+payoff+matrix&oq=zero+sum+payoff&aqs=chrome.2.69i57j0l2j69i60l2j69i61l3.17286j1j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [zero-sum game in international relations - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk001-TlglSn_eQjJN6eC1J1wvFMdBQ:1584722042201&q=zero-sum+game+in+international+relations&sa=X&ved=2ahUKEwjRmpLTvanoAhULHaYKHVP6CHMQ1QIoBHoECGcQBQ)
+
 - [ ] [rmgarch example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNTqpnrJF7JVUzgXwSUgQIJX5Fg0Dg%3A1575107350925&lei=FjviXeiEOIr70gTVzLmoCQ&q=rmgarch%20example&ved=2ahUKEwi4p6-S1JHmAhVdy4sBHfx-CAgQsKwBKAF6BAgBEAI)
 
 - [ ] [rugarch - Google Search](https://www.google.com/search?q=rugarch&oq=rugarch&aqs=chrome..69i57j69i59j0j69i60l5.558j0j1&sourceid=chrome&ie=UTF-8)

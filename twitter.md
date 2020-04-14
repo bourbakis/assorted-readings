@@ -1094,3 +1094,201 @@ Administrator@WIN10-901122121 ~/assorted-readin
 - [ ] [Fabio Votta📊🦉 (@favstats) / Twitter](https://twitter.com/favstats)
 
 - [ ] [(1) Marc Deisenroth 🏳️‍🌈 (@mpd37) / Twitter](https://twitter.com/mpd37)
+
+
+
+## 2/20/2020
+
+- [ ] [(∞,n)-Homo(f,g)さん (@Category_Fury) / Twitter](https://twitter.com/Category_Fury)
+
+- [ ] [(∞,n)-Homo(f,g)さん (@Category_Fury) / Twitter](https://twitter.com/Category_Fury)
+
+- [ ] [(1) Amir Salihefendićさん (@amix3k) / Twitter](https://twitter.com/amix3k)
+
+- [ ] [(1) Donald J. TrumpさんはTwitterを使っています 「Two months in jail for a Swamp Creature, yet 9 years recommended for Roger Stone (who was not even working for the Trump Campaign). Gee, that sounds very fair! Rogue prosecutors maybe? The Swamp! @foxandfriends @TuckerCarlson」 / Twitter](https://twitter.com/realDonaldTrump/status/1227564604177469441)
+
+- [ ] [(1) Edward Z. YangさんはTwitterを使っています 「Unannotated slides for my PyTorch Internals talk at the PyTorch NYC meetup yesterday are at https://t.co/sSsycxoVQk (I'm also planning to write a longform version with text.)」 / Twitter](https://twitter.com/ezyang/status/1128664089813757953)
+
+- [ ] [(1) Hiten Shahさん (@hnshah) / Twitter](https://twitter.com/hnshah)
+
+- [ ] [(1) Money on the Left (@moneyontheleft) / Twitter](https://twitter.com/moneyontheleft)
+
+- [ ] [(1) Rush Doshi (@RushDoshi) / Twitter](https://twitter.com/RushDoshi)
+
+- [ ] [(1) Scott Hanselmanさん (@shanselman) / Twitter](https://twitter.com/shanselman)
+
+- [ ] [(1) Shaun Walker (@shaunwalker7) / Twitter](https://twitter.com/shaunwalker7)
+
+- [ ] [(1) TWICE JAPAN OFFICIAL on Twitter: "TWICE WORLD TOUR 2019 ‘TWICELIGHTS’ IN JAPAN@福岡2日目！2年ぶりの福岡熱かったです🔥 やはりTWICEとONCEは、一致団結しましたね！ステキな2日間をありがとうございます💖 また会いましょう🌙 #TWICE #TWICEWORLDTOUR2019 #TWICELIGHTS https://t.co/NS7ClOAUC3" / Twitter](https://twitter.com/JYPETWICE_JAPAN/status/1227593721631260673?fbclid=IwAR25K4Nb_v7eI89izAE5I7Cm546aVHjfIzLsRhHqRUCF0wvRNsCNZOcV8-c)
+
+- [ ] [(2) @chrisboden/River of Neuro/AI/RobotsさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/210270244)
+
+- [ ] [(2) @mocobt/SummaryさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1160451292495400960)
+
+- [ ] [(2) @mr_k0walski/Math and physicsさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1228752904850477059)
+
+- [ ] [(2) @radgeness/ScienceさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/3508108)
+
+- [ ] [(2) Alan Wolfeさん (@Atrix256) / Twitter](https://twitter.com/Atrix256)
+
+- [ ] [(2) Bryan Caplanさん (@bryan_caplan) / Twitter](https://twitter.com/bryan_caplan)
+
+- [ ] [(2) Charles Murrayさん (@charlesmurray) / Twitter](https://twitter.com/charlesmurray)
+
+- [ ] [(2) Conor SenさんはTwitterを使っています 「Millennial NIMBY’s will do this the appropriate way, with memes/gif’s. https://t.co/UNzkcDqpiw」 / Twitter](https://twitter.com/conorsen/status/1228381469845966849)
+
+- [ ] [(2) Eli Douradoさん (@elidourado) / Twitter](https://twitter.com/elidourado)
+
+- [ ] [@aier/EconomicsさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1053422393274875904)
+
+- [ ] [@aier/Liberty & CapitalismさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1053417143319040000)
+
+- [ ] [@amado_tech/TechnologyさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1210363236710699008)
+
+- [ ] [@barr_e/EconomistsさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1222446879620980737)
+
+- [ ] [@cedric_chee/Machine LearningさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/727424336894656513)
+
+- [ ] [@chrisboden/Essential dailyさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/730887882718642176)
+
+- [ ] [@DavidXFlannery/AI / Cogsci / PhilMindさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/64965586)
+
+- [ ] [@edchristiand/Tech InfluencerさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1204448196329533440)
+
+- [ ] [@iamecono/Economists -Heavy WeightsさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1224447769823154177)
+
+- [ ] [@icaroferracini/Game StudiesさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/926907997959393280)
+
+- [ ] [@jhoeforth/techさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/963066389278834688)
+
+- [ ] [@karmashagya/Computer ScienceさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1183916050720509952)
+
+- [ ] [@kjsokolowski/_INBOXさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1098359744568397826)
+
+- [ ] [@Koshdukai/InterestingYouTubersさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1539502)
+
+- [ ] [@LincolnCannon/SuperintelligenceさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/198938757)
+
+- [ ] [@litgensteinさんが追加されているリスト / Twitter](https://twitter.com/litgenstein/lists/memberships)
+
+- [ ] [@loopuleasa/Top AI Influencer BubbleさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1118823720074842112)
+
+- [ ] [@maxgenkin/CS:HW/SWさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1015415833223364609)
+
+- [ ] [@maxgenkin/Physics Engineering MechさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1015414853438189568)
+
+- [ ] [@Milko_Rodriguez/code teachersさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1103348109965438976)
+
+- [ ] [@Milko_Rodriguez/code teachersさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1103348109965438976)
+
+- [ ] [@mocobt/GraphicsさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1179537922237665280)
+
+- [ ] [@MomachiPabrai/@naval / @TwubblerさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1223046618166984705)
+
+- [ ] [@MomachiPabrai/@naval / @TwubblerさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1223063474227621888)
+
+- [ ] [@MomachiPabrai/@naval / @TwubblerさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1223281150061359105)
+
+- [ ] [@MomachiPabrai/@naval / @TwubblerさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1223063474227621888)
+
+- [ ] [@RohitKumarB4U/FunさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1221020369710006273)
+
+- [ ] [@siggraph/Research & EducationさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/950467128901193728)
+
+- [ ] [@simardcasanova/ECON-US - ResearchersさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1055413086893543425)
+
+- [ ] [@svakulenk0/MachineLearningResearchさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/797030318750498816)
+
+- [ ] [@svakulenk0/nips2016さんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/789951146282586112)
+
+- [ ] [@uigarage/Design FellowsさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/783551789211713540)
+
+- [ ] [@univrses/AI & DLさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1052107558998212608)
+
+- [ ] [@Yorimititakeshi/Technologyの2番さんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1101328283709300736)
+
+- [ ] [@ysulaiman/AI & ML PeopleさんはTwitterを利用しています / Twitter](https://twitter.com/i/lists/1010122257635643394)
+
+- [ ] [🇬🇧 Lewpenさん (@Lewpen) / Twitter](https://twitter.com/Lewpen)
+
+- [ ] [🇬🇧 Lewpenさん (@Lewpen) / Twitter](https://twitter.com/Lewpen)
+
+- [ ] [Aaron Novickさん (@AmneMachin) / Twitter](https://twitter.com/AmneMachin)
+
+- [ ] [Al Leong, Marketing RegTech, Blockchain, Fintechさん (@iDesignStrategy) / Twitter](https://twitter.com/iDesignStrategy)
+
+- [ ] [Alan Wolfeさん (@Atrix256) / Twitter](https://twitter.com/Atrix256)
+
+- [ ] [American Institute for Economic Research (AIER)さん (@aier) / Twitter](https://twitter.com/aier)
+
+- [ ] [AMTI (@AsiaMTI) / Twitter](https://twitter.com/AsiaMTI)
+
+- [ ] [Andrew Erickson 艾立信 (@AndrewSErickson) / Twitter](https://twitter.com/AndrewSErickson)
+
+- [ ] [Andrew Marinopoulos 🎓さん (@AnMarinopoulos) / Twitter](https://twitter.com/AnMarinopoulos)
+
+- [ ] [Derek J. Grossman (@DerekJGrossman) / Twitter](https://twitter.com/DerekJGrossman)
+
+- [ ] [dog eggsonさん (@tsxjs) / Twitter](https://twitter.com/tsxjs)
+
+- [ ] [Donald J. TrumpさんはTwitterを使っています 「Congratulations to Attorney General Bill Barr for taking charge of a case that was totally out of control and perhaps should not have even been brought. Evidence now clearly shows that the Mueller Scam was improperly brought &amp; tainted. Even Bob Mueller lied to Congress!」 / Twitter](https://twitter.com/realDonaldTrump/status/1227561237782855680)
+
+- [ ] [Donald J. TrumpさんはTwitterを使っています 「This is a horrible and very unfair situation. The real crimes were on the other side, as nothing happens to them. Cannot allow this miscarriage of justice! https://t.co/rHPfYX6Vbv」 / Twitter](https://twitter.com/realDonaldTrump/status/1227122206783811585)
+
+- [ ] [Econlibさん (@Econlib) / Twitter](https://twitter.com/Econlib)
+
+- [ ] [Eli Douradoさん (@elidourado) / Twitter](https://twitter.com/elidourado)
+
+- [ ] [Ely Ratner (@elyratner) / Twitter](https://twitter.com/elyratner)
+
+- [ ] [Eric Hainesさん (@pointinpolygon) / Twitter](https://twitter.com/pointinpolygon)
+
+- [ ] [Imad Dabburaさん (@ImadPhd) / Twitter](https://twitter.com/ImadPhd)
+
+- [ ] [Jake Archibaldさん (@jaffathecake) / Twitter](https://twitter.com/jaffathecake)
+
+- [ ] [Joel Spolskyさん (@spolsky) / Twitter](https://twitter.com/spolsky)
+
+- [ ] [Johnさん (@ErrorTheorist) / Twitter](https://twitter.com/ErrorTheorist)
+
+- [ ] [Kevin J.S. Zollmanさん (@KevinZollman) / Twitter](https://twitter.com/KevinZollman)
+
+- [ ] [Kostas Anagnostouさん (@KostasAAA) / Twitter](https://twitter.com/KostasAAA)
+
+- [ ] [Liam Brightさん (@lastpositivist) / Twitter](https://twitter.com/lastpositivist)
+
+- [ ] [Marc Piresさん (@MarcPires5) / Twitter](https://twitter.com/MarcPires5)
+
+- [ ] [Miguel de Icazaさん (@migueldeicaza) / Twitter](https://twitter.com/migueldeicaza)
+
+- [ ] [Mike Davidsonさん (@mikeindustries) / Twitter](https://twitter.com/mikeindustries)
+
+- [ ] [Mohamed Ounさん (@Mohamed3on) / Twitter](https://twitter.com/Mohamed3on)
+
+- [ ] [Nadège Rolland (@RollandNadege) / Twitter](https://twitter.com/RollandNadege)
+
+- [ ] [Patrick Heizerさん (@PatrickHeizer) / Twitter](https://twitter.com/PatrickHeizer)
+
+- [ ] [Peter Cooperさん (@peterc) / Twitter](https://twitter.com/peterc)
+
+- [ ] [Scott Hanselmanさん (@shanselman) / Twitter](https://twitter.com/shanselman)
+
+- [ ] [Seanさん (@cyanhex) / Twitter](https://twitter.com/cyanhex)
+
+- [ ] [TWICE JAPAN OFFICIAL on Twitter: "TWICE WORLD TOUR 2019 ‘TWICELIGHTS’ IN JAPAN@福岡2日目！2年ぶりの福岡熱かったです🔥 やはりTWICEとONCEは、一致団結しましたね！ステキな2日間をありがとうございます💖 また会いましょう🌙 #TWICE #TWICEWORLDTOUR2019 #TWICELIGHTS https://t.co/NS7ClOAUC3" / Twitter](https://twitter.com/JYPETWICE_JAPAN/status/1227593721631260673?fbclid=IwAR25K4Nb_v7eI89izAE5I7Cm546aVHjfIzLsRhHqRUCF0wvRNsCNZOcV8-c)
+
+- [ ] [Twitter #OneTeamさん (@TwitterOneTeam) / Twitter](https://twitter.com/TwitterOneTeam)
+
+- [ ] [Uncle Bob Martinさん (@unclebobmartin) / Twitter](https://twitter.com/unclebobmartin)
+
+- [ ] [Xander Steenbruggeさん (@xsteenbrugge) / Twitter](https://twitter.com/xsteenbrugge)
+
+- [ ] [Yermi Brennerさん (@yermibrenner) / Twitter](https://twitter.com/yermibrenner)
+
+- [ ] [Za'e Johnson 💌さん (@Zae_Johnson) / Twitter](https://twitter.com/Zae_Johnson)
+
+- [ ] [海嵎猫😷さん (@haiyumao) / Twitter](https://twitter.com/haiyumao)
+
+- [ ] [海嵎猫😷さん (@haiyumao) / Twitter](https://twitter.com/haiyumao)
+
+- [ ] [無業遊民-行水さん (@shuzhexingshui) / Twitter](https://twitter.com/shuzhexingshui)

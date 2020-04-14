@@ -1,0 +1,921 @@
+## 3/6/2020
+
+- [ ] [Unit Root Testing — arch 4.13+2.gccbb460e documentation](https://arch.readthedocs.io/en/latest/unitroot/unitroot_examples.html)
+
+- [ ] [time series - Using variance ratios to test for mean reversion - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/7666/using-variance-ratios-to-test-for-mean-reversion)
+
+- [ ] [Some code from Ernie Chan's new book implemented in Python](https://www.quantopian.com/posts/some-code-from-ernie-chans-new-book-implemented-in-python)
+
+- [ ] [17 Statistical Hypothesis Tests in Python (Cheat Sheet)](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
+
+- [ ] [3.1. Statistics in Python — Scipy lecture notes](https://scipy-lectures.org/packages/statistics/index.html)
+
+- [ ] [Mean Reversion Test – Practical Example | Algo Trading](https://web.archive.org/web/20140612040843/http://drtomstarke.com/index.php/mean-reversion-test-practical-example/)
+
+- [ ] [Variance Ratio Test - Lo and MacKinlay (1988) | Mingze Gao](https://mingze-gao.com/measures/lomackinlay1988/)
+
+- [ ] [Downloads](chrome://downloads/)
+
+- [ ] [Downloads](chrome://downloads/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [New Tab](chrome://newtab/)
+
+- [ ] [blob:null/e094a570-87dd-40db-88a0-4fe9ba008668](blob:null/e094a570-87dd-40db-88a0-4fe9ba008668)
+
+- [ ] [自定义样式 - 简悦 · 选项页](chrome-extension://ijllcpnolfcooahcekpamkbidhejabll/options/custom.html)
+
+- [ ] [93nv.com](https://93nv.com/archives/222)
+
+- [ ] [ARKit 3 features restricted to devices powered by Apple's latest A12 processors - 9to5Mac](https://9to5mac.com/2019/06/04/arkit-3-device-support/)
+
+- [ ] [500 Internal Privoxy Error](http://ir.amu.ac.in/1313/1/T%206506.pdf)
+
+- [ ] [Home page of Ajit A Diwan](https://www.cse.iitb.ac.in/~aad/)
+
+- [ ] [www.cse.iitd.ac.in](https://www.cse.iitd.ac.in/~naveen/courses/CSL851/uwaterloo.pdf)
+
+- [ ] [::: Dr. Bhawani Sankar Panda Professor :::](http://web.iitd.ac.in/~bspanda/)
+
+- [ ] [algorithms.leeds.ac.uk](https://algorithms.leeds.ac.uk/wp-content/uploads/sites/117/2017/09/capcolorCW-pub.pdf)
+
+- [ ] [algorithms.leeds.ac.uk](https://algorithms.leeds.ac.uk/wp-content/uploads/sites/117/2017/09/capcolorCW-pub.pdf)
+
+- [ ] [Module and Programme Catalogue](http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201617&F=P&M=COMP-5940M)
+
+- [ ] [Erez Petrank](http://www.cs.technion.ac.il/~erez/)
+
+- [ ] [Airlist - A special outliner for your dreams, ideas, lists, and projects](https://airlist.app/)
+
+- [ ] [The Algorithm Design Manual](http://www.algorist.com/)
+
+- [ ] [algorithmdesign.net](http://www1.algorithmdesign.net/?tm=1&subid4=1583253437.0029210004&kw=Algorithm+Design+Book&KW1=Algorithm%20Design%20Book%20Online%20Ecommerce%20Store&KW2=Javascript%20Programming%20Course&KW3=Best%20Book%20For%20Data%20Structures&searchbox=0&domainname=0&backfill=0)
+
+- [ ] [Amazon.com: Greg](https://www.amazon.com/s?k=Greg&ref=nb_sb_noss)
+
+- [ ] [Amazon.com: martin.gale@caomsacid.onmicrosoft.com](https://www.amazon.com/s?k=martin.gale%40caomsacid.onmicrosoft.com&ref=nb_sb_noss)
+
+- [ ] [Amazon.com: martin.gale@caomsacid.onmicrosoft.com](https://www.amazon.com/s?k=martin.gale%40caomsacid.onmicrosoft.com&ref=nb_sb_noss)
+
+- [ ] [Amazon.com: martin.gale@caomsacid.onmicrosoft.com](https://www.amazon.com/s?k=martin.gale%40caomsacid.onmicrosoft.com&ref=nb_sb_noss)
+
+- [ ] [Apple design chief Jony Ive to depart later this year, create new studio with Apple as client](https://appleinsider.com/articles/19/06/27/apple-design-chief-jony-ive-to-depart-later-this-year-create-new-studio-with-apple-as-client)
+
+- [ ] [31742-53539-28377-43958-Jony-Ive-in-2017-l-l.jpg (660×439)](https://photos5.appleinsider.com/gallery/31742-53539-28377-43958-Jony-Ive-in-2017-l-l.jpg)
+
+- [ ] [Internet Archive Search: http://www.leinenbock.com/variance-ratio-test/](https://archive.org/search.php?query=http%3A%2F%2Fwww.leinenbock.com%2Fvariance-ratio-test%2F)
+
+- [ ] [ENH: Johansen's Cointegration test, with tests, based on LeSage · josef-pkt/statsmodels@bf79e8e · GitHub](https://web.archive.org/web/20151006155617/https://github.com/josef-pkt/statsmodels/commit/bf79e8ecb12d946f1113213692db6dac5df2b6e9#L0R67)
+
+- [ ] [Pandas: How To Turn A Yahoo File Into A Data Frame | Dr Tom Starke](https://web.archive.org/web/20141018130330/http://drtomstarke.com/index.php/pandas-how-to-turn-a-yahoo-file-into-a-data-frame/)
+
+- [ ] [Variance Ratio Test | Algo Trading](https://web.archive.org/web/20140612041028/http://drtomstarke.com/index.php/variance-ratio-test/)
+
+- [ ] [Variance Ratio Test | Leinenbock](https://web.archive.org/web/20140612065038/http://www.leinenbock.com/variance-ratio-test/)
+
+- [ ] [arxiv.org](https://arxiv.org/pdf/math/9807022)
+
+- [ ] [arxiv.org](https://arxiv.org/pdf/1704.05115)
+
+- [ ] [403 Forbidden](http://www.aw-bc.com/info/kleinberg/)
+
+- [ ] [windows xp电脑开机密码忘记了怎么办图解_百度知道](https://zhidao.baidu.com/question/1702787627446343380.html)
+
+- [ ] [500 Internal Privoxy Error](http://plan9.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf)
+
+- [ ] [Home Page For Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/)
+
+- [ ] [Billy Fang](https://www.stat.berkeley.edu/~blfang/)
+
+- [ ] [STAT 134 (Concepts of Probability), Summer 2016 | Billy Fang](https://www.stat.berkeley.edu/~blfang/teaching/2016_stat134/)
+
+- [ ] [STAT 134 (Concepts of Probability), Summer 2018 | Billy Fang](https://www.stat.berkeley.edu/~blfang/teaching/2018_stat134/)
+
+- [ ] [STAT 151A (Linear Modeling), Fall 2017 | Billy Fang](https://www.stat.berkeley.edu/~blfang/teaching/2017_stat151a/)
+
+- [ ] [Homoscedasticity - Handbook of Biological Statistics](http://www.biostathandbook.com/homoscedasticity.html)
+
+- [ ] [Adaptive Market Hypothesis - Breaking Down Finance](https://breakingdownfinance.com/finance-topics/behavioral-finance/adaptive-market-hypothesis/)
+
+- [ ] [Variance Ratio Test - Breaking Down Finance](https://breakingdownfinance.com/finance-topics/finance-basics/variance-ratio-test/)
+
+- [ ] [「404」之前，这 7 种方法帮你备份](https://posts.careerengine.us/p/5e37a0db1c88984ebeee736d)
+
+- [ ] [Cedrick Argueta](https://www.cedrick.ai/)
+
+- [ ] [Home Page of Mahdi Cheraghchi](https://mahdi.cheraghchi.info/)
+
+- [ ] [华为云 WeLinK - Chrome插件(谷歌浏览器插件)](https://chromecj.com/software/2020-02/3086.html)
+
+- [ ] [Download the PDF « Analysis of Boolean Functions](http://www.contrib.andrew.cmu.edu/~ryanod/?page_id=2334)
+
+- [ ] [15-859T: A Theorist's Toolkit 2013](http://www.cs.cmu.edu/~odonnell/toolkit13/)
+
+- [ ] [Carnegie Mellon School of Computer Science |](https://www.cs.cmu.edu/)
+
+- [ ] [Information Theory and its applications in theory of computation, Spring 2013.](http://www.cs.cmu.edu/~venkatg/teaching/ITCS-spr2013/#psets)
+
+- [ ] [Information Theory and its applications in theory of computation, Spring 2013.](http://www.cs.cmu.edu/~venkatg/teaching/ITCS-spr2013/#refs)
+
+- [ ] [Information Theory and its applications in theory of computation, Spring 2013.](http://www.cs.cmu.edu/~venkatg/teaching/ITCS-spr2013/)
+
+- [ ] [Information Theory and its applications in theory of computation, Spring 2013.](http://www.cs.cmu.edu/~venkatg/teaching/ITCS-spr2013/)
+
+- [ ] [Introduction to Coding Theory, Winter 2010.](http://www.cs.cmu.edu/~venkatg/teaching/au18-coding-theory/)
+
+- [ ] [Ryan O'Donnell](http://www.cs.cmu.edu/~odonnell/)
+
+- [ ] [How to read data from a file in reverse order? (I/O and Streams forum at Coderanch)](https://coderanch.com/t/609307/java/read-data-file-reverse-order)
+
+- [ ] [Christos Papadimitriou | Columbia Engineering](https://engineering.columbia.edu/faculty/christos-papadimitriou)
+
+- [ ] [Clifford Stein](http://www.columbia.edu/~cs2035/)
+
+- [ ] [微PE工具箱 - 最好用的WinPE装机维护工具](http://www.wepe.com.cn/)
+
+- [ ] [Networks Fall 2017 (Econ/Soc/CS/Info, David Easley and Jon Kleinberg)](https://courses.cit.cornell.edu/info2040_2017fa/)
+
+- [ ] [Networks Fall 2017 (Econ/Soc/CS/Info, David Easley and Jon Kleinberg)](https://courses.cit.cornell.edu/info2040_2017fa/)
+
+- [ ] [Algorithms (CS 6820, Jon Kleinberg)](http://www.cs.cornell.edu/courses/cs6820/2009fa/)
+
+- [ ] [Jon Kleinberg's Homepage](http://www.cs.cornell.edu/home/kleinber/)
+
+- [ ] [Networks, Crowds, and Markets: A Book by David Easley and Jon Kleinberg](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+
+- [ ] [The Structure of Information Networks (Jon Kleinberg)](http://www.cs.cornell.edu/courses/cs6850/2018sp/)
+
+- [ ] [Untitled Document](http://www.cs.cornell.edu/~eva/)
+
+- [ ] [Homework1_MSE448_2018 (1).pdf - MS&E 448 Homework#1 1 Cullity 1 1 2 Cullity 1 8 3 Cullity 1 9 4 Cullity 1 14 5 Cullity 1 16 Due Wednesday October 10th](https://www.coursehero.com/file/34537221/Homework1-MSE448-2018-1pdf/)
+
+- [ ] [Coursera | Build Skills with Online Courses from Top Institutions](https://www.coursera.org/)
+
+- [ ] [Windows快捷操作 notion使用_运维_pangbohan1的博客-CSDN博客](https://blog.csdn.net/pangbohan1/article/details/101459279)
+
+- [ ] [新浪微博爬虫分享（一天可抓取 1300 万条数据）_Python_freeking101的博客-CSDN博客](https://blog.csdn.net/freeking101/article/details/81450624)
+
+- [ ] [Thomas H. Cormen](https://www.cs.dartmouth.edu/~thc/)
+
+- [ ] [How To Build A Mean Reversion Trading Strategy • Decoding Markets](https://decodingmarkets.com/mean-reversion-trading-strategy/)
+
+- [ ] [DEX 周刊](https://news.dex.group/f3b9324ec1c545f3a7ad31d71da1fc38?v=13a31b332fd8465a9bb81d92748643b4)
+
+- [ ] [6种破解Windows XP管理员密码的方法-万兴恢复专家](https://www.diyihuifu.com/windows-xp-password-cracker.html)
+
+- [ ] [MEng, BSc Applied Computer Science - PDF Free Download](https://docplayer.net/amp/16327944-Meng-bsc-applied-computer-science.html)
+
+- [ ] [驱动精灵_驱动更全、匹配更准、下载更快！](http://www.drivergenius.com/)
+
+- [ ] [驱动精灵usb万能驱动For WinXP_下载_热门驱动_驱动精灵](http://www.drivergenius.com/drv/hotdrivers/ht23.shtml)
+
+- [ ] [驱动精灵离线装机版 - 包含万能驱动 一键离线安装 - 万能驱动|驱动精灵离线版|U盘|重装系统|绿色版|免安装](http://www.drivergenius.com/zhuangji.asp)
+
+- [ ] [404 Not Found](https://www2.polyu.edu.hk/ar/Polyu/PGSH/88004.pdf)
+
+- [ ] [课程 | INFO2040x | edX](https://courses.edx.org/courses/course-v1:CornellX+INFO2040x+1T2016/course/)
+
+- [ ] [edX | Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
+
+- [ ] [EViews Help: Variance Ratio Test](http://www.eviews.com/help/helpintro.html#page/content/advtimeser-Variance_Ratio_Test.html)
+
+- [ ] [LEVEL 3 and 5M taught MATH modules - University of 3 and 5M taught MATH modules offered in 17/18, and provisional plans for 18/19 (project modules are not included) MMath students are encouraged to think about their plans for Year 4 when choosing modules for Year 3 ... - [PDF Document]](https://fdocuments.in/document/level-3-and-5m-taught-math-modules-university-of-3-and-5m-taught-math-modules.html)
+
+- [ ] [Mean Reversion Strategies - Finance Train](https://financetrain.com/mean-reversion-strategies/)
+
+- [ ] [Why Mean Reversion In Equities Is Coming](https://www.forbes.com/sites/oliviergarret/2018/05/01/why-mean-reversion-in-equities-is-coming/#18fe4d5b4979)
+
+- [ ] [Exam P [FSU Math]](https://www.math.fsu.edu/~paris/Pexam/)
+
+- [ ] [Minicourse on Structural Graph Theory](https://people.math.gatech.edu/~thomas/SLIDE/EIDMA/)
+
+- [ ] [Privacy error](https://people.math.gatech.edu/~thomas/SLIDE/EIDMA/)
+
+- [ ] [Evidence for Mean Reversion in Equity Prices](https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/pp-do/Pages/mnrv.aspx)
+
+- [ ] [全能型工具 Notion：笔记应用的终结者 | 极客公园](https://www.geekpark.net/news/239105)
+
+- [ ] [全能型工具 Notion：笔记应用的终结者 | 极客公园](https://www.geekpark.net/news/239105)
+
+- [ ] [Python | Pandas dataframe.rolling() - GeeksforGeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-rolling/)
+
+- [ ] [Mayne's Blog - JAMStack 实践：使用 Gatsby & Notion 构建站点](https://gine.me/posts/85fbf8a72d3841bda4fba4e82efc360b/)
+
+- [ ] [GitHub - dataabc/weiboSpider: 新浪微博爬虫，用python爬取新浪微博数据](https://github.com/dataabc/weiboSpider)
+
+- [ ] [Issues · foooomio/view-background-image · GitHub](https://github.com/foooomio/view-background-image/issues)
+
+- [ ] [jctags (Joseph Taglic) · GitHub](https://github.com/jctags)
+
+- [ ] [Pandas read_excel: only read first few lines · Issue #16645 · pandas-dev/pandas · GitHub](https://github.com/pandas-dev/pandas/issues/16645)
+
+- [ ] [arch.unitroot.unitroot — arch 4.13+9.g868f5b4 documentation](https://bashtage.github.io/arch/doc/_modules/arch/unitroot/unitroot.html)
+
+- [ ] [Perfect Graph Theorem](https://clever-geek.github.io/articles/6913782/index.html)
+
+- [ ] [Information-Theoretic Cryptography Conference](https://itcrypto.github.io/2020.html)
+
+- [ ] [books.google.com](https://books.google.com/books?id=cMfADwAAQBAJ&pg=SA5-PA45&lpg=SA5-PA45&dq=Prove+that+chordal+graphs+are+perfect+(+without+using+the+strong+perfect+graph+theorem&source=bl&ots=yHbpRuSMmB&sig=ACfU3U0y8p-RS-CBVpHVtJO0Q2zJzbH2IA&hl=en&sa=X&ved=2ahUKEwjdgavcvv7nAhXrGaYKHbeuC0wQ6AEwHXoECGYQAQ)
+
+- [ ] [Decoding the Chinese Internet: A Glossary of Political Slang - China Digital Times - Google Books](https://books.google.com/books?id=B60yCgAAQBAJ&pg=PA37&lpg=PA37&dq=%E5%A6%82%E4%BD%95%E6%8A%93%E5%8F%96%E5%BE%AE%E5%8D%9A%E5%86%85%E5%AE%B9%E5%88%B0notion&source=bl&ots=89ihU5NrXf&sig=ACfU3U3E-NAZFW4zpZ5YpyQJ5RTaOB2IDA&hl=en&sa=X&ved=2ahUKEwiD5YHyoIPoAhWYwYsBHaaGCUkQ6AEwBnoECDMQAQ#v=onepage&q=%E5%A6%82%E4%BD%95%E6%8A%93%E5%8F%96%E5%BE%AE%E5%8D%9A%E5%86%85%E5%AE%B9%E5%88%B0notion&f=false)
+
+- [ ] [Social Networks in China - Xianhui Che, Barry Ip - Google Books](https://books.google.com/books?id=ri5HDgAAQBAJ&pg=PA32&lpg=PA32&dq=%E5%A6%82%E4%BD%95%E6%8A%93%E5%8F%96%E5%BE%AE%E5%8D%9A%E5%86%85%E5%AE%B9%E5%88%B0notion&source=bl&ots=FjDh0RX6ev&sig=ACfU3U2C9ndgycTAAqZDhRo4iE9JwV-fxQ&hl=en&sa=X&ved=2ahUKEwiD5YHyoIPoAhWYwYsBHaaGCUkQ6AEwAnoECC4QAQ#v=onepage&q=%E5%A6%82%E4%BD%95%E6%8A%93%E5%8F%96%E5%BE%AE%E5%8D%9A%E5%86%85%E5%AE%B9%E5%88%B0notion&f=false)
+
+- [ ] [Inbox (15) - martin.gale@alumni.usc.edu - USC Alumni Association Mail](https://mail.google.com/mail/u/1/#inbox)
+
+- [ ] [For you - Google Photos](https://photos.google.com/u/2/foryou)
+
+- [ ] [External data: Local Files, Drive, Sheets, and Cloud Storage - Colaboratory](https://colab.research.google.com/notebooks/io.ipynb)
+
+- [ ] [External data: Local Files, Drive, Sheets, and Cloud Storage - Colaboratory](https://colab.research.google.com/notebooks/io.ipynb)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/%E8%AE%A9%E4%BD%A0%E7%9E%AC%E9%97%B4%E8%BF%9B%E5%85%A5%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%98%85%E8%AF%BB%E7%9A%84%20Chrome%20%E6%89%A9%E5%B1%95%EF%BC%8C%E7%B1%BB%E4%BC%BC%20Safari%20%E7%9A%84%E9%98%85%E8%AF%BB%E6%A8%A1%E5%BC%8F%20%E9%A9%AC%E4%B8%8A%E4%BD%BF%E7%94%A8)
+
+- [ ] [a multifractal walk down wall street - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=a%20multifractal%20walk%20down%20wall%20street&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAR6BAgCEAU)
+
+- [ ] [aep and source coding - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00MHT4nm30OEBzASAh6AbWW4jOmXw:1583322790021&q=aep+and+source+coding&sa=X&ved=2ahUKEwil4NqD4YDoAhVLyYsBHYW6C8QQ1QIoA3oECGQQBA)
+
+- [ ] [alexander grothendieck - Google Search](https://www.google.com/search?q=alexander+grothendieck&oq=alexander+groe&aqs=chrome.2.69i57j0l11.14134j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [applications of perfect graphs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03PluDPXPlaPZeEbwRC93pAKx1G3w%3A1583244861168&lei=PWZeXp3vCeuzmAW33a7gBA&q=applications%20of%20perfect%20graphs&ved=2ahUKEwifrqjnvv7nAhWCBKYKHfV9ChsQsKwBKAB6BAgAEAE&biw=1920&bih=948)
+
+- [ ] [arch package python github - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=arch%20package%20python%20github&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAR6BAgAEAU)
+
+- [ ] [augmented dickey-fuller unit root test - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=augmented%20dickey-fuller%20unit%20root%20test&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAB6BAgAEAE)
+
+- [ ] [autolag aic - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=autolag%20aic&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAF6BAgAEAI)
+
+- [ ] [berge math - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03PluDPXPlaPZeEbwRC93pAKx1G3w%3A1583244861168&lei=PWZeXp3vCeuzmAW33a7gBA&q=berge%20math&ved=2ahUKEwifrqjnvv7nAhWCBKYKHfV9ChsQsKwBKAB6BAgBEAE)
+
+- [ ] [blocks of decomposition by a clique cutset S - Google Search](https://www.google.com/search?q=blocks+of+decomposition+by+a+clique+cutset+S&oq=blocks+of+decomposition+by+a+clique+cutset+S&aqs=chrome..69i57.758j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [chordal extension - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01d-Z6mdhbFNMghnoGdXmDQmgkpCQ:1583245008016&q=chordal+extension&sa=X&ved=2ahUKEwjZ662iv_7nAhV-yIsBHdKxAh4Q1QIoBnoECGUQBw)
+
+- [ ] [convergence in probability example problems - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk037uAY9ACJMJYslibqfG0IRlOUcww:1583323562389&q=convergence+in+probability+example+problems&sa=X&ved=2ahUKEwjipID044DoAhWKyYsBHcySCxMQ1QIoAHoECGAQAQ)
+
+- [ ] [convergence in probability sum of two random variables - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk037uAY9ACJMJYslibqfG0IRlOUcww:1583323562389&q=convergence+in+probability+sum+of+two+random+variables&sa=X&ved=2ahUKEwjipID044DoAhWKyYsBHcySCxMQ1QIoAnoECGAQAw)
+
+- [ ] [convergence of random variables pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk037uAY9ACJMJYslibqfG0IRlOUcww:1583323562389&q=convergence+of+random+variables+pdf&sa=X&ved=2ahUKEwjipID044DoAhWKyYsBHcySCxMQ1QIoA3oECGAQBA)
+
+- [ ] [dfs topcoder - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg%3A1583244152611&lei=eGNeXvv2JKnWmAXVm4kQ&q=dfs%20topcoder&ved=2ahUKEwjdpIKWvP7nAhUpy4sBHa7hAjIQsKwBKAB6BAgAEAE)
+
+- [ ] [directed graph in data structure - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg:1583244152611&q=directed+graph+in+data+structure&sa=X&ved=2ahUKEwj7kryKvP7nAhUpK6YKHdVNAgIQ1QIoBXoECBEQBg&biw=1567&bih=595)
+
+- [ ] [directed graph in data structure - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg:1583244152611&q=directed+graph+in+data+structure&sa=X&ved=2ahUKEwj7kryKvP7nAhUpK6YKHdVNAgIQ1QIoBXoECBEQBg)
+
+- [ ] [elementary graph algorithms - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg:1583244152611&q=elementary+graph+algorithms&sa=X&ved=2ahUKEwj7kryKvP7nAhUpK6YKHdVNAgIQ1QIoA3oECBEQBA)
+
+- [ ] [erdos faber lovasz conjecture - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03PluDPXPlaPZeEbwRC93pAKx1G3w%3A1583244861168&lei=PWZeXp3vCeuzmAW33a7gBA&q=erdos%20faber%20lovasz%20conjecture&ved=2ahUKEwifrqjnvv7nAhWCBKYKHfV9ChsQsKwBKAF6BAgBEAI)
+
+- [ ] [finite forbidden subgraph characterization - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03PluDPXPlaPZeEbwRC93pAKx1G3w%3A1583244861168&lei=PWZeXp3vCeuzmAW33a7gBA&q=finite%20forbidden%20subgraph%20characterization&ved=2ahUKEwifrqjnvv7nAhWCBKYKHfV9ChsQsKwBKAV6BAgBEAY)
+
+- [ ] [fractal market hypothesis - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=fractal%20market%20hypothesis&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAB6BAgCEAE)
+
+- [ ] [google colab upload files from local - Google Search](https://www.google.com/search?q=google+colab+upload+files+from+local&oq=google+colab+upload+files+from+local&aqs=chrome..69i57j69i64l3.13115j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [graph algorithms python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg:1583244152611&q=graph+algorithms+python&sa=X&ved=2ahUKEwj7kryKvP7nAhUpK6YKHdVNAgIQ1QIoAXoECBEQAg)
+
+- [ ] [graph and its types in data structure - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg:1583244152611&q=graph+and+its+types+in+data+structure&sa=X&ved=2ahUKEwj7kryKvP7nAhUpK6YKHdVNAgIQ1QIoB3oECBEQCA)
+
+- [ ] [graph problems codeforces - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg%3A1583244152611&lei=eGNeXvv2JKnWmAXVm4kQ&q=graph%20problems%20codeforces&ved=2ahUKEwjdpIKWvP7nAhUpy4sBHa7hAjIQsKwBKAR6BAgAEAU)
+
+- [ ] [graph problems hackerearth - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg%3A1583244152611&lei=eGNeXvv2JKnWmAXVm4kQ&q=graph%20problems%20hackerearth&ved=2ahUKEwjdpIKWvP7nAhUpy4sBHa7hAjIQsKwBKAJ6BAgAEAM)
+
+- [ ] [graph searching - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg%3A1583244152611&lei=eGNeXvv2JKnWmAXVm4kQ&q=graph%20searching&ved=2ahUKEwjdpIKWvP7nAhUpy4sBHa7hAjIQsKwBKAV6BAgAEAY)
+
+- [ ] [graph theory for competitive programming - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg:1583244152611&q=graph+theory+for+competitive+programming&sa=X&ved=2ahUKEwj7kryKvP7nAhUpK6YKHdVNAgIQ1QIoBHoECBEQBQ)
+
+- [ ] [graph theory geeksforgeeks - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg:1583244152611&q=graph+theory+geeksforgeeks&sa=X&ved=2ahUKEwj7kryKvP7nAhUpK6YKHdVNAgIQ1QIoAnoECBEQAw)
+
+- [ ] [graph theory tutorial - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg:1583244152611&q=graph+theory+tutorial&sa=X&ved=2ahUKEwj7kryKvP7nAhUpK6YKHdVNAgIQ1QIoAHoECBEQAQ)
+
+- [ ] [high frequency statistical arbitrage - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=high%20frequency%20statistical%20arbitrage&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAN6BAgBEAQ)
+
+- [ ] [how many induced subgraphs does g have - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03PluDPXPlaPZeEbwRC93pAKx1G3w%3A1583244861168&lei=PWZeXp3vCeuzmAW33a7gBA&q=how%20many%20induced%20subgraphs%20does%20g%20have&ved=2ahUKEwifrqjnvv7nAhWCBKYKHfV9ChsQsKwBKAR6BAgBEAU)
+
+- [ ] [how to clip page cotent into notion app - Google Search](https://www.google.com/search?q=how+to+clip+page+cotent+into+notion+app&oq=how+to+clip+page+cotent+into+notion+app&aqs=chrome..69i57.9621j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [how to remove NA value in python - Google Search](https://www.google.com/search?q=how+to+remove+NA+value+in+python&oq=how+to+remove+NA+value+in+python&aqs=chrome..69i57.10828j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [hurst exponent trading strategy - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=hurst%20exponent%20trading%20strategy&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAV6BAgCEAY)
+
+- [ ] [if xn is any sequence of random variables there are constants cn → ∞ so that xn cn → 0 as - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk037uAY9ACJMJYslibqfG0IRlOUcww:1583323562389&q=if+xn+is+any+sequence+of+random+variables+there+are+constants+cn+%E2%86%92+%E2%88%9E+so+that+xn+cn+%E2%86%92+0+as&sa=X&ved=2ahUKEwjipID044DoAhWKyYsBHcySCxMQ1QIoBnoECGAQBw)
+
+- [ ] [interval graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01d-Z6mdhbFNMghnoGdXmDQmgkpCQ:1583245008016&q=interval+graph&sa=X&ved=2ahUKEwjZ662iv_7nAhV-yIsBHdKxAh4Q1QIoBXoECGUQBg)
+
+- [ ] [intraday pairs trading - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=intraday%20pairs%20trading&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAF6BAgAEAI)
+
+- [ ] [lo and mackinlay - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=lo%20and%20mackinlay&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAR6BAgCEAU)
+
+- [ ] [mandelbrot cotton prices - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=mandelbrot%20cotton%20prices&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAN6BAgCEAQ)
+
+- [ ] [marginal distributions - Google Search](https://www.google.com/search?q=marginal+distributions&oq=marginal+distributions&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [maximum cardinality search - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01d-Z6mdhbFNMghnoGdXmDQmgkpCQ:1583245008016&q=maximum+cardinality+search&sa=X&ved=2ahUKEwjZ662iv_7nAhV-yIsBHdKxAh4Q1QIoBHoECGUQBQ)
+
+- [ ] [mean reversion medium - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=mean%20reversion%20medium&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAV6BAgAEAY)
+
+- [ ] [mean reversion strategy zerodha - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=mean%20reversion%20strategy%20zerodha&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAR6BAgAEAU)
+
+- [ ] [modulenotfounderror: no module named 'arch' - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=modulenotfounderror%3A%20no%20module%20named%20%27arch%27&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAV6BAgAEAY)
+
+- [ ] [ms&e 448 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=ms%26e%20448&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAJ6BAgBEAM)
+
+- [ ] [multivariate delta method example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk037uAY9ACJMJYslibqfG0IRlOUcww:1583323562389&q=multivariate+delta+method+example&sa=X&ved=2ahUKEwjipID044DoAhWKyYsBHcySCxMQ1QIoAXoECGAQAg)
+
+- [ ] [normal distribution p value python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01nUWHGHsDoEqaJKqfHbTG17KAecQ%3A1583197119806&ei=v6tdXsPBMOOTr7wPrYWLwAs&q=normal+distribution+p+value+python&oq=normal+distribution+p+value+python&gs_l=psy-ab.12...32.8758..22316...0.0..0.0.0.......0....1..gws-wiz.w0mnWnfJIEI&ved=0ahUKEwiDnb3vjP3nAhXjyYsBHa3CArgQ4dUDCAs)
+
+- [ ] [notion中文搜索 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01iNNOQ430A1Rm_sRPV2uWA_jWnZg%3A1583408672867&lei=IOZgXu-vNNyWr7wPmd242A0&q=notion%E4%B8%AD%E6%96%87%E6%90%9C%E7%B4%A2&ved=2ahUKEwj_j7CLoYPoAhXpFqYKHf4aCVAQsKwBKAR6BAgAEAU)
+
+- [ ] [notion全局搜索 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01iNNOQ430A1Rm_sRPV2uWA_jWnZg%3A1583408672867&lei=IOZgXu-vNNyWr7wPmd242A0&q=notion%E5%85%A8%E5%B1%80%E6%90%9C%E7%B4%A2&ved=2ahUKEwj_j7CLoYPoAhXpFqYKHf4aCVAQsKwBKAV6BAgAEAY)
+
+- [ ] [notion数学公式 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01iNNOQ430A1Rm_sRPV2uWA_jWnZg:1583408672867&q=notion%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F&sa=X&ved=2ahUKEwjvv-v7oIPoAhVcy4sBHZkuDtsQ1QIoBnoECDgQBw&cshid=1583408693566462)
+
+- [ ] [notion无限block - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01iNNOQ430A1Rm_sRPV2uWA_jWnZg:1583408672867&q=notion%E6%97%A0%E9%99%90block&sa=X&ved=2ahUKEwjvv-v7oIPoAhVcy4sBHZkuDtsQ1QIoCXoECDgQCg&cshid=1583408693566462)
+
+- [ ] [notion行内公式 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01iNNOQ430A1Rm_sRPV2uWA_jWnZg:1583408672867&q=notion%E8%A1%8C%E5%86%85%E5%85%AC%E5%BC%8F&sa=X&ved=2ahUKEwjvv-v7oIPoAhVcy4sBHZkuDtsQ1QIoB3oECDgQCA&cshid=1583408693566462)
+
+- [ ] [np reverse the array python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk006Ksbh6YIyAuVbP6f5KAdwh3-YTg%3A1583196407769&ei=96hdXu21LqHHmAWk9oToCA&q=np+reverse+the+array+python&oq=np+reverse+the+array+python&gs_l=psy-ab.3..35i362i39l10.8633.22069..22308...3.3..0.0.0.......0....1..gws-wiz.....10..0i71.gkukJ3INgKk&ved=0ahUKEwitjfqbiv3nAhWhI6YKHSQ7AY0Q4dUDCAs&uact=5)
+
+- [ ] [np rolling sums python - Google Search](https://www.google.com/search?q=np+rolling+sums+python&oq=np+rolling+sums++python&aqs=chrome..69i57.11786j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [np.cumsum - Google Search](https://www.google.com/search?q=np.cumsum&oq=np.cumsum&aqs=chrome..69i57j0l11.3415j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [numpy rolling windows sum - Google Search](https://www.google.com/search?q=numpy+rolling+windows+sum&oq=numpy+rolling+windows+sum&aqs=chrome..69i57.5542j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [order book pressure - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=order%20book%20pressure&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAR6BAgBEAU)
+
+- [ ] [pd.read_excel the first row as column names - Google Search](https://www.google.com/search?q=pd.read_excel+the+first+row+as+column+names&oq=pd.read_excel+the+first+row+as+column+names&aqs=chrome..69i57.20383j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [perfect elimination ordering - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01d-Z6mdhbFNMghnoGdXmDQmgkpCQ:1583245008016&q=perfect+elimination+ordering&sa=X&ved=2ahUKEwjZ662iv_7nAhV-yIsBHdKxAh4Q1QIoAHoECGUQAQ)
+
+- [ ] [perfect graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01d-Z6mdhbFNMghnoGdXmDQmgkpCQ:1583245008016&q=perfect+graph&sa=X&ved=2ahUKEwjZ662iv_7nAhV-yIsBHdKxAh4Q1QIoAnoECGUQAw)
+
+- [ ] [proper subgraph in graph theory - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03PluDPXPlaPZeEbwRC93pAKx1G3w%3A1583244861168&lei=PWZeXp3vCeuzmAW33a7gBA&q=proper%20subgraph%20in%20graph%20theory&ved=2ahUKEwifrqjnvv7nAhWCBKYKHfV9ChsQsKwBKAN6BAgBEAQ)
+
+- [ ] [Prove that a graph G is chordal if and only if the blocks of decomposition by a clique cutset are chordal. - Google Search](https://www.google.com/search?q=Prove+that+a+graph+G+is+chordal+if+and+only+if+the+blocks+of+decomposition+by+a+clique+cutset+are+chordal.&oq=Prove+that+a+graph+G+is+chordal+if+and+only+if+the+blocks+of+decomposition+by+a+clique+cutset+are+chordal.&aqs=chrome..69i57.619j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [python backtest - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=python%20backtest&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAB6BAgAEAE)
+
+- [ ] [python garch library - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=python%20garch%20library&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAN6BAgAEAQ)
+
+- [ ] [python read xlsx - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00FmsoW26lyLYle8_rlt1eZpoBk9Q%3A1583187259231&ei=O4VdXpjGDdaFr7wPutyR6AQ&q=python+read+xlsx&oq=python+read+xls&gs_l=psy-ab.3.0.0l10.1704.3113..4608...0.2..0.286.1624.2-6......0....1..gws-wiz.......0i71j35i39j0i67j0i20i263.mEx15S7TuMQ)
+
+- [ ] [python爬取微博粉丝 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00r4vfYLpa7vFJNoVfEuEcsOoycAg:1583408652257&q=python%E7%88%AC%E5%8F%96%E5%BE%AE%E5%8D%9A%E7%B2%89%E4%B8%9D&sa=X&ved=2ahUKEwiD5YHyoIPoAhWYwYsBHaaGCUkQ1QIoB3oECCkQCA)
+
+- [ ] [quantconnect mean reversion - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=quantconnect%20mean%20reversion&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAN6BAgAEAQ)
+
+- [ ] [reverse the order of array np python - Google Search](https://www.google.com/search?q=reverse+the+order+of+array+np+python&oq=reverse+the+order+of+array+np+python&aqs=chrome..69i57.10933j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [scrapy微博 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00r4vfYLpa7vFJNoVfEuEcsOoycAg:1583408652257&q=scrapy%E5%BE%AE%E5%8D%9A&sa=X&ved=2ahUKEwiD5YHyoIPoAhWYwYsBHaaGCUkQ1QIoBnoECCkQBw&biw=1920&bih=948)
+
+- [ ] [setting an array element with a sequence. - Google Search](https://www.google.com/search?q=setting+an+array+element+with+a+sequence.&oq=setting+an+array+element+with+a+sequence.&aqs=chrome..69i57.605j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [show that the minimum order statistic converges in probability to 0 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk037uAY9ACJMJYslibqfG0IRlOUcww:1583323562389&q=show+that+the+minimum+order+statistic+converges+in+probability+to+0&sa=X&ved=2ahUKEwjipID044DoAhWKyYsBHcySCxMQ1QIoB3oECGAQCA)
+
+- [ ] [statistical arbitrage notes - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=statistical%20arbitrage%20notes&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAF6BAgBEAI)
+
+- [ ] [statistical arbitrage pca - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=statistical%20arbitrage%20pca&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAB6BAgBEAE)
+
+- [ ] [statsmodels - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=statsmodels&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAJ6BAgAEAM)
+
+- [ ] [strongly chordal graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01d-Z6mdhbFNMghnoGdXmDQmgkpCQ:1583245008016&q=strongly+chordal+graph&sa=X&ved=2ahUKEwjZ662iv_7nAhV-yIsBHdKxAh4Q1QIoB3oECGUQCA)
+
+- [ ] [subgraph in graph theory - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03PluDPXPlaPZeEbwRC93pAKx1G3w:1583244861168&q=subgraph+in+graph+theory&sa=X&ved=2ahUKEwjdgavcvv7nAhXrGaYKHbeuC0wQ1QIoBnoECGAQBw)
+
+- [ ] [sum of rollign windwos in python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01dGjrgyLa2RHBlnZIjrbIhgg12zg%3A1583192323996&ei=A5ldXs2qPOeTr7wP6_anuAI&q=sum+of+rollign+windwos+in+python&oq=sum+of+rollign+windwos+in+python&gs_l=psy-ab.3..33i22i10i29i30l3.223.1504..1795...0.0..0.475.1185.3-2j1......0....1..gws-wiz.......35i304i39.x8DrZQs2QMY&ved=0ahUKEwiNuNSA-_znAhXnyYsBHWv7CScQ4dUDCAs&uact=5)
+
+- [ ] [test if US equity returns are mean reverting python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03dUhVDJ9qvqqA_LTj5tWJv1qjtTA%3A1583185887368&ei=339dXpGIFuG3mAWij46oBw&q=test+if+US+equity+returns+are+mean+reverting+python&oq=test+if+US+equity+returns+are+mean+reverting+python&gs_l=psy-ab.3..35i39.34185.36074..39894...0.0..0.422.740.3-1j1......0....1..gws-wiz.wcApWYl4Q5w&ved=0ahUKEwjR87eD4_znAhXhG6YKHaKHA3UQ4dUDCAs&uact=5)
+
+- [ ] [topcoder shortest path - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg%3A1583244152611&lei=eGNeXvv2JKnWmAXVm4kQ&q=topcoder%20shortest%20path&ved=2ahUKEwjdpIKWvP7nAhUpy4sBHa7hAjIQsKwBKAF6BAgAEAI)
+
+- [ ] [topcoder tutorials dynamic programming - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg%3A1583244152611&lei=eGNeXvv2JKnWmAXVm4kQ&q=topcoder%20tutorials%20dynamic%20programming&ved=2ahUKEwjdpIKWvP7nAhUpy4sBHa7hAjIQsKwBKAN6BAgAEAQ)
+
+- [ ] [typical set berkeley - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00MHT4nm30OEBzASAh6AbWW4jOmXw:1583322790021&q=typical+set+berkeley&sa=X&ved=2ahUKEwil4NqD4YDoAhVLyYsBHYW6C8QQ1QIoBnoECGQQBw)
+
+- [ ] [typical set mcmc - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00MHT4nm30OEBzASAh6AbWW4jOmXw:1583322790021&q=typical+set+mcmc&sa=X&ved=2ahUKEwil4NqD4YDoAhVLyYsBHYW6C8QQ1QIoBXoECGQQBg&biw=1920&bih=948)
+
+- [ ] [typical sets and divergence - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00MHT4nm30OEBzASAh6AbWW4jOmXw:1583322790021&q=typical+sets+and+divergence&sa=X&ved=2ahUKEwil4NqD4YDoAhVLyYsBHYW6C8QQ1QIoAnoECGQQAw)
+
+- [ ] [uncorrelated and homoscedastic Test Variance Ratio Statistical Significance p value - Google Search](https://www.google.com/search?q=uncorrelated+and+homoscedastic+Test+Variance+Ratio+Statistical+Significance+p+value&oq=uncorrelated+and+homoscedastic+Test++Variance+Ratio+Statistical+Significance+p+value&aqs=chrome..69i57.16231j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [variance ratio test excel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=variance%20ratio%20test%20excel&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAF6BAgEEAI)
+
+- [ ] [variance ratio test f test - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=variance%20ratio%20test%20f%20test&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAB6BAgCEAE)
+
+- [ ] [variance ratio test in r - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=variance%20ratio%20test%20in%20r&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAF6BAgCEAI)
+
+- [ ] [variance ratio test matlab - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03fj-m3Yti7jBh4oGXCipp4Yk1mKg%3A1583186150950&lei=5oBdXp_KOcaKr7wP9IWB0AU&q=variance%20ratio%20test%20matlab&ved=2ahUKEwiMiaOC5PznAhU-yYsBHVLUBxoQsKwBKAJ6BAgCEAM)
+
+- [ ] [variance ratio test python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01ahOeneQ941zKC8_U5XdCI8_vHyg%3A1583189759123&ei=_45dXryMB5KImAX19biIDQ&q=variance+ratio+test+python&oq=Variance+Ratio+Tests&gs_l=psy-ab.1.1.0i71l8.0.0..10755...0.2..0.0.0.......0......gws-wiz.4-fTjUK4tmA)
+
+- [ ] [variance ratio test stock mean reversion python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02lYrZ3OQTcuEF12aVIw6-Okzui9Q%3A1583192682613&ei=appdXpmEJb-Nr7wPhKmk0A8&q=variance+ratio+test+stock+mean+reversion+python+&oq=variance+ratio+test+stock+mean+reversion+python+&gs_l=psy-ab.3..33i160.35084.47444..48537...5.3..1.834.9387.2-15j4j3j3j1......0....1..gws-wiz.......0i71j35i39j0j0i22i30j33i299j0i333j33i22i29i30.qBS6EbXaS_4&ved=0ahUKEwiZ4dSr_PznAhW_xosBHYQUCfoQ4dUDCAs&uact=5)
+
+- [ ] [Variance Ratio Tests python - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00E-EFcx5VWP3yPzM2dtCU0lfZ6lQ%3A1583186144889&ei=4IBdXsjZNZHWmAWtoI_wCw&q=Variance+Ratio+Tests+python&oq=Variance+Ratio+Tests+python&gs_l=psy-ab.3..0i22i30j0i333l2.1184.2778..3375...0.2..1.594.2254.2-1j3j1j1......0....1..gws-wiz.......0i71j0.VsfWIRthGqI&ved=0ahUKEwjIyZ3-4_znAhURK6YKHS3QA74Q4dUDCAs&uact=5)
+
+- [ ] [vetex - Google Search](https://www.google.com/search?q=vetex&oq=vetex&aqs=chrome..69i57.1686j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [weakly chordal graphs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01d-Z6mdhbFNMghnoGdXmDQmgkpCQ:1583245008016&q=weakly+chordal+graphs&sa=X&ved=2ahUKEwjZ662iv_7nAhV-yIsBHdKxAh4Q1QIoAXoECGUQAg)
+
+- [ ] [weakly perfect graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03PluDPXPlaPZeEbwRC93pAKx1G3w:1583244861168&q=weakly+perfect+graph&sa=X&ved=2ahUKEwjdgavcvv7nAhXrGaYKHbeuC0wQ1QIoBXoECGAQBg)
+
+- [ ] [weighted graph in data structure - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03bWELEWNFQcFwrmaODUJR2P47DPg:1583244152611&q=weighted+graph+in+data+structure&sa=X&ved=2ahUKEwj7kryKvP7nAhUpK6YKHdVNAgIQ1QIoBnoECBEQBw)
+
+- [ ] [what makes a perfect graph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03PluDPXPlaPZeEbwRC93pAKx1G3w:1583244861168&q=what+makes+a+perfect+graph&sa=X&ved=2ahUKEwjdgavcvv7nAhXrGaYKHbeuC0wQ1QIoAnoECGAQAw)
+
+- [ ] [wikipedia induced subgraph - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03PluDPXPlaPZeEbwRC93pAKx1G3w%3A1583244861168&lei=PWZeXp3vCeuzmAW33a7gBA&q=wikipedia%20induced%20subgraph&ved=2ahUKEwifrqjnvv7nAhWCBKYKHfV9ChsQsKwBKAJ6BAgBEAM)
+
+- [ ] [win xp iso 最新 中文 - Google Search](https://www.google.com/search?q=win+xp+iso+%E6%9C%80%E6%96%B0+%E4%B8%AD%E6%96%87&newwindow=1&sxsrf=ALeKk01OgD0pZRa_odEFQAEu111lhuaWQA:1583369009001&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjZtNGajYLoAhVPHKYKHZ25AJ0QpwV6BAhmECE&biw=1567&bih=595)
+
+- [ ] [win xp 制作win 驱动盘 - Google Search](https://www.google.com/search?q=win+xp+%E5%88%B6%E4%BD%9Cwin+%E9%A9%B1%E5%8A%A8%E7%9B%98&newwindow=1&sxsrf=ALeKk00m0L757_hr-JQiXk9K2qE0UjHYRA:1583368162647&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwi8iIiHioLoAhVqwosBHWZbBt8QpwV6BAhkECE&biw=1920&bih=948)
+
+- [ ] [www.google.com](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01d-Z6mdhbFNMghnoGdXmDQmgkpCQ:1583245008016&q=clique+graph&sa=X&ved=2ahUKEwjZ662iv_7nAhV-yIsBHdKxAh4Q1QIoA3oECGUQBA)
+
+- [ ] [xp 万能驱动下载 - Google Search](https://www.google.com/search?q=xp+%E4%B8%87%E8%83%BD%E9%A9%B1%E5%8A%A8%E4%B8%8B%E8%BD%BD&oq=xp+%E4%B8%87%E8%83%BD%E9%A9%B1%E5%8A%A8%E4%B8%8B%E8%BD%BD+&aqs=chrome..69i57j33.8409j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [z score mean reversion - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02kzQ9FYPV0FFC47l0laKB6jRPCGQ%3A1583185937506&lei=EYBdXs66Hq3fmAXisr9Q&q=z%20score%20mean%20reversion&ved=2ahUKEwjw7IGe4_znAhWPuJQKHWzCAe0QsKwBKAJ6BAgAEAM)
+
+- [ ] [万能 驱动 离线版 xp - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03ock17rgN92EQ11dOUWnHkeqw7zA%3A1583368501802&ei=NUlgXsLEMN6Fr7wPv_W20Aw&q=%E4%B8%87%E8%83%BD+%E9%A9%B1%E5%8A%A8+%E7%A6%BB%E7%BA%BF%E7%89%88+xp&oq=%E4%B8%87%E8%83%BD+%E9%A9%B1%E5%8A%A8+%E7%A6%BB%E7%BA%BF%E7%89%88+xp&gs_l=psy-ab.3...22067.23991..24645...0.2..0.133.373.0j3......0....1..gws-wiz.......0i71j33i160.JIA3qS9Bp10&ved=0ahUKEwiCs-Soi4LoAhXewosBHb-6DcoQ4dUDCAs&uact=5)
+
+- [ ] [如何抓取微信公众号内容到notion - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01iNNOQ430A1Rm_sRPV2uWA_jWnZg:1583408672867&q=%E5%A6%82%E4%BD%95%E6%8A%93%E5%8F%96%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%86%85%E5%AE%B9%E5%88%B0notion&tbm=isch&source=univ&sa=X&ved=2ahUKEwjvv-v7oIPoAhVcy4sBHZkuDtsQsAR6BAgSEAE&cshid=1583408693566462)
+
+- [ ] [微博信息抓取 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00r4vfYLpa7vFJNoVfEuEcsOoycAg:1583408652257&q=%E5%BE%AE%E5%8D%9A%E4%BF%A1%E6%81%AF%E6%8A%93%E5%8F%96&sa=X&ved=2ahUKEwiD5YHyoIPoAhWYwYsBHaaGCUkQ1QIoBXoECCkQBg)
+
+- [ ] [微博爬虫2019 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00r4vfYLpa7vFJNoVfEuEcsOoycAg:1583408652257&q=%E5%BE%AE%E5%8D%9A%E7%88%AC%E8%99%AB2019&sa=X&ved=2ahUKEwiD5YHyoIPoAhWYwYsBHaaGCUkQ1QIoAnoECCkQAw)
+
+- [ ] [微博话题爬虫 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00r4vfYLpa7vFJNoVfEuEcsOoycAg:1583408652257&q=%E5%BE%AE%E5%8D%9A%E8%AF%9D%E9%A2%98%E7%88%AC%E8%99%AB&sa=X&ved=2ahUKEwiD5YHyoIPoAhWYwYsBHaaGCUkQ1QIoCHoECCkQCQ)
+
+- [ ] [指定幸存者 韩剧 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk00wAjT4zhvne8VcLN39KMC91AHWhA%3A1583411175541&ei=5-9gXs7LIIfc0gTenrOwAw&q=%E6%8C%87%E5%AE%9A%E5%B9%B8%E5%AD%98%E8%80%85+%E9%9F%A9%E5%89%A7)
+
+- [ ] [strongly chordal graphs](http://www.graphclasses.org/classes/gc_125.html)
+
+- [ ] [strongly chordal graphs](http://www.graphclasses.org/classes/gc_125.html)
+
+- [ ] [GraphPad Prism 7 Statistics Guide - Paired or ratio t test?](https://www.graphpad.com/guides/prism/7/statistics/stat_paired_or_ratio_t_test.htm)
+
+- [ ] [[Vision] A Walk to Remember, by Fenton Johnson | Harper's Magazine](https://harpers.org/archive/2020/03/a-walk-to-remember-fenton-johnson/)
+
+- [ ] [IEEE ISIT 2020 || Los Angeles, California, USA || 21-26 June 2020](https://2020.ieee-isit.org/)
+
+- [ ] [印象笔记完美替代品？任务、文件、知识库它都能记 | 领客专栏 · 電腦玩物 | 爱范儿](https://www.ifanr.com/app/835677)
+
+- [ ] [Jeff Erickson](http://jeffe.cs.illinois.edu/)
+
+- [ ] [Jeff-by-Kate-2018.jpg (2234×2449)](http://jeffe.cs.illinois.edu/pix/Jeff-by-Kate-2018.jpg)
+
+- [ ] [Notion - “杀手级”出色的全能型笔记软件 (替代印象笔记/强大灵活/支持Markdown) - 异次元软件下载](https://www.iplaysoft.com/notion.html)
+
+- [ ] [Notion - “杀手级”出色的全能型笔记软件 (替代印象笔记/强大灵活/支持Markdown) - 异次元软件下载](https://www.iplaysoft.com/notion.html)
+
+- [ ] [装机必备的离线驱动包：万能驱动 v7.17.719.2_Win软件_IT密码](https://www.itpwd.com/49.html)
+
+- [ ] [Understanding rolling calculations in R](https://itsalocke.com/blog/understanding-rolling-calculations-in-r/)
+
+- [ ] [万能驱动xp版本更新一下_IT天空原创软件_IT天空](https://www.itsk.com/thread-382608-1-1.html)
+
+- [ ] [最新版本支持Windows XP的万能驱动是哪个版本？_IT天空原创软件_IT天空](https://www.itsk.com/thread-377021-1-1.html)
+
+- [ ] [求XP的万能驱动。_IT天空原创软件_IT天空](https://www.itsk.com/thread-384283-1-1.html)
+
+- [ ] [求历史版本资源，XP万能驱动_IT天空原创软件_IT天空](https://www.itsk.com/thread-374502-1-1.html)
+
+- [ ] [Windows XP密码忘记了怎么找回_电脑常识_电脑基础_脚本之家](https://www.jb51.net/diannaojichu/533157.html)
+
+- [ ] [Pandas read_excel() - Reading Excel File in Python - JournalDev](https://www.journaldev.com/33306/pandas-read_excel-reading-excel-file-in-python)
+
+- [ ] [JSON在线解析及格式化验证 - JSON.cn](https://www.json.cn/)
+
+- [ ] [ANOVA 1: Calculating SST (total sum of squares) (video) | Khan Academy](https://www.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library/analysis-of-variance-anova/v/anova-1-calculating-sst-total-sum-of-squares)
+
+- [ ] [Marginal and conditional distributions (video) | Khan Academy](https://www.khanacademy.org/math/ap-statistics/analyzing-categorical-ap/distributions-two-way-tables/v/marginal-distribution-and-conditional-distribution)
+
+- [ ] [正在驗證您的訪問請求…](https://kknews.cc/challenge.html?ctx=MmJjOGYxYTQ0YWRiZTY2NjE0MWJmNDcwZWY2YWZjNDkxZTA1NDExMFsxNTgzNDA5MTAxLjgyMDY3NCwiMzUuMTk0LjI1NC43IiwiXC90ZWNoXC80a2FxYnJ4Lmh0bWwiXQ--)
+
+- [ ] [前言 - 文档中心 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展](http://ksria.com/simpread/docs/#/%E8%AF%8D%E6%B3%95%E5%88%86%E6%9E%90%E5%BC%95%E6%93%8E)
+
+- [ ] [简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展](http://ksria.com/simpread/)
+
+- [ ] [kuperberg](http://kuperberg/)
+
+- [ ] [老毛桃U盘winpe重装XP系统教程_老毛桃官网](https://www.laomaotao.net/doc/setupxp.html)
+
+- [ ] [(88) Adhitya Venkatesh | LinkedIn](https://www.linkedin.com/in/adhitya-venkatesh-5aaa7a132/)
+
+- [ ] [LinkedIn](https://www.linkedin.com/in/dustin-foley)
+
+- [ ] [实践 Notion 构建作者与内容管理系统 - Linmi](https://linmi.cc/4480.html)
+
+- [ ] [分享一个汇集了200多人智慧的Notion笔记汇总你买的最值得东西 | Luckydesigner](https://www.luckydesigner.space/sharenotionideatoworthbuy/)
+
+- [ ] [Introduction: What Minimalism is and is not – Manu](https://manuelmoreale.com/thoughts/mgtm-introduction)
+
+- [ ] [Variance ratio test for random walk - MATLAB vratiotest - MathWorks United Kingdom](https://uk.mathworks.com/help/econ/vratiotest.html)
+
+- [ ] [Hidden features of Google Colaboratory - Keshav Aggarwal - Medium](https://medium.com/@Keshav31/colab-features-download-and-upload-e1ec537a83df)
+
+- [ ] [Importing Datasets in Google Colab - Amit Kumar - Medium](https://medium.com/@master_yi/importing-datasets-in-google-colab-c816fc654f97)
+
+- [ ] [Reading and writingExcel files in Python pandas - Kasia Rachuta - Medium](https://medium.com/@kasiarachuta/reading-and-writingexcel-files-in-python-pandas-8f0da449cc48)
+
+- [ ] [Algorithms](http://highered.mheducation.com/sites/0073523402/index.html)
+
+- [ ] [Charles E. Leiserson : HomePage](http://people.csail.mit.edu/cel/)
+
+- [ ] [Ronald L. Rivest : HomePage](http://people.csail.mit.edu/rivest/)
+
+- [ ] [Lecture 4: Entropy and Asymptotic Equipartition Property | Video Lectures | Principles of Digital Communications I | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-450-principles-of-digital-communications-i-fall-2006/video-lectures/lecture-4-entropy-and-asymptotic-equipartition-property/)
+
+- [ ] [18.409 Class Home](http://stellar.mit.edu/S/course/18/fa07/18.409/)
+
+- [ ] [18.409 Class Home](http://stellar.mit.edu/S/course/18/fa09/18.409/)
+
+- [ ] [6.006 Class Home](http://stellar.mit.edu/S/course/6/fa14/6.006/)
+
+- [ ] [6.045/18.400 Class Home](https://stellar.mit.edu/S/course/6/sp14/6.045/index.html)
+
+- [ ] [MSP — Nonprofit Scientific Publishing](https://msp.org/)
+
+- [ ] [Mean Reversion in Expected Stock Returns a.k.a. Market Timing - Finley Wealth Advisors](https://mywealthadvisor.com/mean-reversion-expected-stock-returns-aka-market-timing/)
+
+- [ ] [举一反三，手把手教你用 Notion 搭建个人数据库 -ZAKER新闻](https://www.myzaker.com/article/5de8a92d8e9f0914543d84e3/)
+
+- [ ] [Privacy error](https://r.789695.n4.nabble.com/Estimating-variance-ratio-test-result-td4740964.html)
+
+- [ ] [The Nature Of Computation](http://www.nature-of-computation.org/)
+
+- [ ] [A Ratio Test of Interrater Agreement With High Specificity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5965602/)
+
+- [ ] [Tests of homoscedasticity, normality, and missing completely at random for incomplete multivariate data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124223/)
+
+- [ ] [1.3.5.9. F-Test for Equality of Two Variances](https://www.itl.nist.gov/div898/handbook/eda/section3/eda359.htm)
+
+- [ ] [Get Started](https://www.notion.so/Get-Started-73b1c926d20e4ce8ac65a4fd8af43046)
+
+- [ ] [Notion 案例](https://www.notion.so/cdf9e15730b74e23810d2cfbb6c62188?v=1b2d2176b82945608c9dc82b598e4b20)
+
+- [ ] [使用Huginn打造自动化云端信息助手](https://www.notion.so/Huginn-0bbbd99ad8714a89a7da566cfb7b386b)
+
+- [ ] [Hands](https://hands.now.sh/)
+
+- [ ] [numpy.sum — NumPy v1.19.dev0 Manual](https://numpy.org/devdocs/reference/generated/numpy.sum.html)
+
+- [ ] [Jimmy Lai, Hong Kong Media Baron, Is Arrested Over Role in Protests - The New York Times](https://www.nytimes.com/2020/02/28/world/asia/jimmy-lai-hong-kong-arrested.html)
+
+- [ ] [1.1.1.1 — The free app that makes your Internet faster.](https://one.one.one.one/)
+
+- [ ] [500 Internal Privoxy Error](http://m.onthehouse.io/mywfe4nix/a-first-course-in-graph-theory-pdf.html)
+
+- [ ] [Variance Ratio Test - The R Book [Book]](https://www.oreilly.com/library/view/the-r-book/9780470510247/ch002-sec049.html)
+
+- [ ] [David MacKay: Information Theory, Inference, and Learning Algorithms: The Book](http://www.inference.org.uk/mackay/itila/book.html)
+
+- [ ] [www.osti.gov](https://www.osti.gov/servlets/purl/6560471)
+
+- [ ] [驱动精灵万能网卡版离线版-驱动精灵离线版下载 xp/win7/win8/win10--pc6下载站](http://www.pc6.com/softview/SoftView_481438.html)
+
+- [ ] [驱动精灵万能网卡版离线版-驱动精灵离线版下载 xp/win7/win8/win10--pc6下载站](http://www.pc6.com/softview/SoftView_481438.html)
+
+- [ ] [忘记Windows XP登录密码的9种解决办法-PChome](https://article.pchome.net/content-120912.html)
+
+- [ ] [飞书的前世今生 | 我爱互联网我爱互联网](http://www.person168.com/?p=7208)
+
+- [ ] [迟早更新 | Podbay](https://podbay.fm/podcast/1451277133)
+
+- [ ] [AA031429_bkgrnd.jpg (400×400)](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/coursepage_files/AA031429_bkgrnd.jpg)
+
+- [ ] [COS 597D: How to think like a theorist](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/coursepage.html)
+
+- [ ] [doodle_header-1.png (608×65)](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/coursepage_files/doodle_header-1.png)
+
+- [ ] [shapeimage_1.png (553×27)](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/coursepage_files/shapeimage_1.png)
+
+- [ ] [Almost Sure Convergence](https://www.probabilitycourse.com/chapter7/7_2_7_almost_sure_convergence.php)
+
+- [ ] [Pandas Excel Tutorial: How to Read and Write Excel files – PyBloggers](https://www.pybloggers.com/2018/11/pandas-excel-tutorial-how-to-read-and-write-excel-files/)
+
+- [ ] [pandas.DataFrame.rolling — pandas 1.0.1 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rolling.html)
+
+- [ ] [pandas.read_excel — pandas 1.0.1 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html)
+
+- [ ] [pandas.read_excel and skiprows](https://python-forum.io/Thread-pandas-read-excel-and-skiprows)
+
+- [ ] [statistics — Mathematical statistics functions — Python 3.8.2 documentation](https://docs.python.org/3/library/statistics.html)
+
+- [ ] [Welch's t-test | Python for Data Science](https://pythonfordatascience.org/welch-t-test-python-pandas/)
+
+- [ ] [Intraday Stock Mean Reversion Trading Backtest in Python – Python For Finance](https://www.pythonforfinance.net/2017/02/20/intraday-stock-mean-reversion-trading-backtest-in-python/)
+
+- [ ] [Python Backtesting Mean Reversion – Part 2 – Python For Finance](https://www.pythonforfinance.net/2016/05/09/python-backtesting-mean-reversion-part-2/)
+
+- [ ] [DEX 周刊｜第 24 期](https://mp.weixin.qq.com/s/JO2hgVE3cdTmsaaeZNhE2A)
+
+- [ ] [Pairs Trading Basics: Correlation, Cointegration And Strategy](https://blog.quantinsti.com/pairs-trading-basics/)
+
+- [ ] [Time Series Analysis and Mean Reversion Trading Strategies](https://blog.quantinsti.com/mean-reversion-time-series/)
+
+- [ ] [Enhancing Short-Term Mean-Reversion Strategies](https://www.quantopian.com/posts/enhancing-short-term-mean-reversion-strategies-1)
+
+- [ ] [Momentum, Value, and a little bit of mean reverting](https://www.quantopian.com/posts/momentum-value-and-a-little-bit-of-mean-reverting)
+
+- [ ] [Basics of Statistical Mean Reversion Testing | QuantStart](https://www.quantstart.com/articles/Basics-of-Statistical-Mean-Reversion-Testing/)
+
+- [ ] [Basics of Statistical Mean Reversion Testing | QuantStart](https://www.quantstart.com/articles/Basics-of-Statistical-Mean-Reversion-Testing/)
+
+- [ ] [500 Internal Privoxy Error](http://genesis.mi.ras.ru/~razborov/)
+
+- [ ] [500 Internal Privoxy Error](http://genesis.mi.ras.ru/~razborov/)
+
+- [ ] [少数派](http://isogenotypic63.rssing.com/chan-51468820/all_p195.html)
+
+- [ ] [xp万能驱动包下载 - 行客工作室](http://www.runker.net/xpdriver.html)
+
+- [ ] [www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0012365X09002787)
+
+- [ ] [numpy.cumsum — NumPy v1.15 Manual](https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.cumsum.html)
+
+- [ ] [numpy.cumsum — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.cumsum.html)
+
+- [ ] [numpy.cumsum — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.cumsum.html)
+
+- [ ] [numpy.cumsum — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.cumsum.html)
+
+- [ ] [numpy.flip — NumPy v1.14 Manual](https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.flip.html)
+
+- [ ] [numpy.flip — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.flip.html)
+
+- [ ] [numpy.roll — NumPy v1.17 Manual](https://docs.scipy.org/doc/numpy/reference/generated/numpy.roll.html)
+
+- [ ] [scipy.stats.normaltest — SciPy v1.4.1 Reference Guide](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.normaltest.html)
+
+- [ ] [Jacket.gif (180×270)](https://www.scottaaronson.com/Jacket.gif)
+
+- [ ] [Scott Aaronson](https://www.scottaaronson.com/)
+
+- [ ] [Mean Reversion + Valuation = Opportunity | Seeking Alpha](https://seekingalpha.com/article/4314214-mean-reversion-valuation-opportunity)
+
+- [ ] [All Perfect Elimination Orderings & Minimal Vertex Seperators](https://www.slideshare.net/nazlitemu/perfect-elimination-orderings)
+
+- [ ] [Mathematical Algorithms in Computer Science pdf](http://markham.atlanta.somis.pw/qKf3el18KM0uUA/)
+
+- [ ] [Hereditary Classes of Graphs | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-319-25859-1_2)
+
+- [ ] [link.springer.com](https://link.springer.com/chapter/10.1007%2F978-3-319-25859-1_2)
+
+- [ ] [List Partitions of Chordal Graphs | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-540-24698-5_14)
+
+- [ ] [公众号、网页文章「404」之前，这 7 种方法帮你备份 - 少数派](https://sspai.com/post/58477)
+
+- [ ] [Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/)
+
+- [ ] [programming - Variance Ratio Test in R - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/32815/variance-ratio-test-in-r)
+
+- [ ] [time series - Using variance ratios to test for mean reversion - Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/7666/using-variance-ratios-to-test-for-mean-reversion)
+
+- [ ] [How can I reverse a list in Python? - Stack Overflow](https://stackoverflow.com/questions/3940128/how-can-i-reverse-a-list-in-python)
+
+- [ ] [Import xlsx file into Python using xlrd - Stack Overflow](https://stackoverflow.com/questions/44895634/import-xlsx-file-into-python-using-xlrd)
+
+- [ ] [importing an excel file to python - Stack Overflow](https://stackoverflow.com/questions/43964513/importing-an-excel-file-to-python)
+
+- [ ] [list - Python Running cumulative sum with a given window - Stack Overflow](https://stackoverflow.com/questions/12709853/python-running-cumulative-sum-with-a-given-window)
+
+- [ ] [numpy - Python: ValueError: setting an array element with a sequence - Stack Overflow](https://stackoverflow.com/questions/50123260/python-valueerror-setting-an-array-element-with-a-sequence)
+
+- [ ] [pandas - Exclude first row when importing data from excel into Python - Stack Overflow](https://stackoverflow.com/questions/45892612/exclude-first-row-when-importing-data-from-excel-into-python)
+
+- [ ] [pandas - Rolling sum over an array in Python - Stack Overflow](https://stackoverflow.com/questions/52746826/rolling-sum-over-an-array-in-python)
+
+- [ ] [python - Fast rolling-sum for list of data vectors (2d matrix) - Stack Overflow](https://stackoverflow.com/questions/28288252/fast-rolling-sum-for-list-of-data-vectors-2d-matrix)
+
+- [ ] [python - How do I use my first row in my spreadsheet for my Dataframe column names instead of 0 1 2...etc? - Stack Overflow](https://stackoverflow.com/questions/56981186/how-do-i-use-my-first-row-in-my-spreadsheet-for-my-dataframe-column-names-instea)
+
+- [ ] [python - How to calculate moving average using NumPy? - Stack Overflow](https://stackoverflow.com/questions/14313510/how-to-calculate-moving-average-using-numpy)
+
+- [ ] [python - How to perform a rolling sum along a matrix axis? - Stack Overflow](https://stackoverflow.com/questions/25534440/how-to-perform-a-rolling-sum-along-a-matrix-axis)
+
+- [ ] [python - How to read a .xlsx file using the pandas Library in iPython? - Stack Overflow](https://stackoverflow.com/questions/16888888/how-to-read-a-xlsx-file-using-the-pandas-library-in-ipython)
+
+- [ ] [python - How to specify column names while reading an Excel file using Pandas? - Stack Overflow](https://stackoverflow.com/questions/17335649/how-to-specify-column-names-while-reading-an-excel-file-using-pandas)
+
+- [ ] [python - Most efficient way to reverse a numpy array - Stack Overflow](https://stackoverflow.com/questions/6771428/most-efficient-way-to-reverse-a-numpy-array)
+
+- [ ] [python - Numpy ValueError: setting an array element with a sequence. This message may appear without the existing of a sequence? - Stack Overflow](https://stackoverflow.com/questions/13310347/numpy-valueerror-setting-an-array-element-with-a-sequence-this-message-may-app)
+
+- [ ] [python - pandas - Why am I unable to skip rows using the "skiprows" parameter of Pandas - Stack Overflow](https://stackoverflow.com/questions/48125438/pandas-why-am-i-unable-to-skip-rows-using-the-skiprows-parameter-of-pandas)
+
+- [ ] [python - Pandas read excel sheet with multiple header when first column is empty - Stack Overflow](https://stackoverflow.com/questions/50472696/pandas-read-excel-sheet-with-multiple-header-when-first-column-is-empty)
+
+- [ ] [python - Pandas read_excel, 1 row header in first sheet but not other sheets - Stack Overflow](https://stackoverflow.com/questions/36358940/pandas-read-excel-1-row-header-in-first-sheet-but-not-other-sheets)
+
+- [ ] [python - pandas rolling computation with window based on values instead of counts - Stack Overflow](https://stackoverflow.com/questions/14300768/pandas-rolling-computation-with-window-based-on-values-instead-of-counts)
+
+- [ ] [python - Reversed array in numpy? - Stack Overflow](https://stackoverflow.com/questions/15748001/reversed-array-in-numpy)
+
+- [ ] [python - Rolling window for 1D arrays in Numpy? - Stack Overflow](https://stackoverflow.com/questions/6811183/rolling-window-for-1d-arrays-in-numpy)
+
+- [ ] [python - Skipping range of rows after header through pandas.read_excel - Stack Overflow](https://stackoverflow.com/questions/49801060/skipping-range-of-rows-after-header-through-pandas-read-excel)
+
+- [ ] [python - Summing elements in a sliding window - NumPy - Stack Overflow](https://stackoverflow.com/questions/38507672/summing-elements-in-a-sliding-window-numpy)
+
+- [ ] [python - ValueError: setting an array element with a sequence - Stack Overflow](https://stackoverflow.com/questions/4674473/valueerror-setting-an-array-element-with-a-sequence)
+
+- [ ] [python - weighted moving average with numpy.convolve - Stack Overflow](https://stackoverflow.com/questions/12816011/weighted-moving-average-with-numpy-convolve)
+
+- [ ] [python 3.x - Pandas: Reading excel files when the first row is NOT the column name Excel Files - Stack Overflow](https://stackoverflow.com/questions/51733136/pandas-reading-excel-files-when-the-first-row-is-not-the-column-name-excel-file)
+
+- [ ] [Python Pandas rolling sum operation for subset of dataframe - Stack Overflow](https://stackoverflow.com/questions/50502009/python-pandas-rolling-sum-operation-for-subset-of-dataframe)
+
+- [ ] [Python Pandas rolling sum place value at the top of window - Stack Overflow](https://stackoverflow.com/questions/48976142/python-pandas-rolling-sum-place-value-at-the-top-of-window)
+
+- [ ] [r - Auto.VR and Lo.Mac, decision rule? - Stack Overflow](https://stackoverflow.com/questions/42273669/auto-vr-and-lo-mac-decision-rule)
+
+- [ ] [reading excel to a python data frame starting from row 5 and including headers - Stack Overflow](https://stackoverflow.com/questions/17548669/reading-excel-to-a-python-data-frame-starting-from-row-5-and-including-headers)
+
+- [ ] [Reading/parsing Excel (xls) files with Python - Stack Overflow](https://stackoverflow.com/questions/2942889/reading-parsing-excel-xls-files-with-python)
+
+- [ ] [removing NA values from a DataFrame in Python 3.4 - Stack Overflow](https://stackoverflow.com/questions/29091322/removing-na-values-from-a-dataframe-in-python-3-4)
+
+- [ ] [statistics - Convert Z-score (Z-value, standard score) to p-value for normal distribution in Python - Stack Overflow](https://stackoverflow.com/questions/3496656/convert-z-score-z-value-standard-score-to-p-value-for-normal-distribution-in/3508321)
+
+- [ ] [statistics - How do I do a F-test in python - Stack Overflow](https://stackoverflow.com/questions/21494141/how-do-i-do-a-f-test-in-python/21503346)
+
+- [ ] [ValueError: setting an array element with a sequence in Python - Stack Overflow](https://stackoverflow.com/questions/35704656/valueerror-setting-an-array-element-with-a-sequence-in-python)
+
+- [ ] [MS&E 448](http://stanford.edu/class/msande448/groups.html)
+
+- [ ] [Stanford University Explore Courses](https://explorecourses.stanford.edu/search;jsessionid=18jo7hkxndf6a1cdlsqemev9yf?q=MS%26E+448%3A+Big+Financial+Data+and+Algorithmic+Trading&view=timeschedule&filter-coursestatus-Active=on&academicYear=20132014)
+
+- [ ] [Stanford University Explore Courses](https://explorecourses.stanford.edu/search;jsessionid=1eqh1jk6jm89jtff7eg79kjh9?q=MS%26E&academicYear=20132014&page=13&filter-c=)
+
+- [ ] [Stanford University Explore Courses](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=MS%26E%20448:%20Big%20Financial%20Data%20and%20Algorithmic%20Trading&academicYear=20142015)
+
+- [ ] [MS&E 448](https://web.stanford.edu/class/msande448/slides.html)
+
+- [ ] [MS&E 448](https://web.stanford.edu/class/msande448/2018.html)
+
+- [ ] [MS&E 448](http://web.stanford.edu/class/msande448/)
+
+- [ ] [boxed-set-thumb.jpg (172×144)](https://www-cs-faculty.stanford.edu/~knuth/boxed-set-thumb.jpg)
+
+- [ ] [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/)
+
+- [ ] [https://www-cs-faculty.stanford.edu/~knuth/err4f5.textxt](https://www-cs-faculty.stanford.edu/~knuth/err4f5.textxt)
+
+- [ ] [https://www-cs-faculty.stanford.edu/~knuth/err4f6.textxt](https://www-cs-faculty.stanford.edu/~knuth/err4f6.textxt)
+
+- [ ] [taocp.jpg (6808×2336)](https://www-cs-faculty.stanford.edu/~knuth/taocp.jpg)
+
+- [ ] [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
+
+- [ ] [Marginal distribution function](https://www.statlect.com/glossary/marginal-distribution-function)
+
+- [ ] [Steven Skiena](https://www3.cs.stonybrook.edu/~skiena/)
+
+- [ ] [Marginal & Conditional Probability Distributions: Definition & Examples | Study.com](https://study.com/academy/lesson/marginal-conditional-probability-distributions-definition-examples.html)
+
+- [ ] [Backtesting a Cross-Sectional Mean Reversion Strategy in Python | Teddy Koker](https://teddykoker.com/2019/04/backtesting-a-cross-sectional-mean-reversion-strategy-in-python/)
+
+- [ ] [Columbia University • thegradcafe.com](https://www.thegradcafe.com/survey/index.php?q=Columbia+University&t=a&o=p&p=448)
+
+- [ ] [Community - Competitive Programming - Competitive Programming Tutorials - Recognizing and Representing a Graph](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-1/)
+
+- [ ] [Computer Science 438H/2404H -- Fall 2017](http://www.cs.toronto.edu/~sacook/csc438h/)
+
+- [ ] [CSC2420 Home Page](http://www.cs.toronto.edu/~bor/2420s15/index.html)
+
+- [ ] [CSC2420 Home Page](http://www.cs.toronto.edu/~bor/2420s15/index.html)
+
+- [ ] [CSC373 Summer 2016](http://www.cs.toronto.edu/~lalla/373s16/index.html)
+
+- [ ] [Lalla Mouatadid](http://www.cs.toronto.edu/~lalla/)
+
+- [ ] [Lalla Mouatadid](http://www.cs.toronto.edu/~lalla/373s14/index.html)
+
+- [ ] [Lalla Mouatadid](http://www.cs.toronto.edu/~lalla/373s14/index.html)
+
+- [ ] [photo.png (443×516)](http://www.cs.toronto.edu/~lalla/files/photo.png)
+
+- [ ] [How the Mathematics of Fractals Can Help Predict Stock Markets Shifts](https://towardsdatascience.com/how-the-mathematics-of-fractals-can-help-predict-stock-markets-shifts-19fee5dd6574)
+
+- [ ] [Hypothesis testing in Machine learning using Python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce)
+
+- [ ] [Connors Research Traders Journal (Volume 1): Does Mean Reversion Still Work? - TradingMarkets.com](https://tradingmarkets.com/recent/does-mean-reversion-still-work-1593757.html)
+
+- [ ] [600x200 (600×200)](https://pbs.twimg.com/profile_banners/50683/1582434442/600x200)
+
+- [ ] [(1) 36氪（36Kr.com） (@36Kr) / Twitter](https://twitter.com/36kr)
+
+- [ ] [(1) Adrian Zenz (@adrianzenz) / Twitter](https://twitter.com/adrianzenz)
+
+- [ ] [(1) Simon Mikhailovich (@S_Mikhailovich) / Twitter](https://twitter.com/S_Mikhailovich)
+
+- [ ] [(1) Sourcebits - Ascendum Digital (@Sourcebits) / Twitter](https://twitter.com/Sourcebits)
+
+- [ ] [(1) VCs Congratulating Themselves 👏👏👏 (@VCBrags) / Twitter](https://twitter.com/VCBrags)
+
+- [ ] [(1) 潘卓鈞 Arron (@pr0n) / Twitter](https://twitter.com/pr0n)
+
+- [ ] [D (@dingyi) / Twitter](https://twitter.com/dingyi)
+
+- [ ] [iFire (@ifire) / Twitter](https://twitter.com/ifire)
+
+- [ ] [JunChen Wu (@JunChen) / Twitter](https://twitter.com/JunChen)
+
+- [ ] [Linmi (@Linmiv) / Twitter](https://twitter.com/Linmiv)
+
+- [ ] [Modulz (@Modulz) / Twitter](https://twitter.com/Modulz)
+
+- [ ] [秋水逸冰 on Twitter: "翻墙这么多年，是不是有种很累的感觉？ 从最早的改 hosts 算起，到后来买 VPN，再到买 VPS 自己搭各种软件，中间经历的各种方法和折腾，时间和精力… 这猫与老鼠的游戏必将要继续下去。" / Twitter](https://twitter.com/qiushuiyibing/status/1235105038499901440)
+
+- [ ] [Michael T. Goodrich](https://www.ics.uci.edu/~goodrich/)
+
+- [ ] [Sanjoy Dasgupta](http://cseweb.ucsd.edu/~dasgupta/)
+
+- [ ] [Main Page - Webresearch](http://ita.ucsd.edu/wiki/index.php?title=Main_Page)
+
+- [ ] [Complexity Zoo](https://complexityzoo.uwaterloo.ca/Complexity_Zoo)
+
+- [ ] [cs.uwaterloo.ca](https://cs.uwaterloo.ca/research/tr/2006/CS-2006-32.pdf)
+
+- [ ] [目前有什么好用干净的 Win PE - V2EX](https://www.v2ex.com/t/328232)
+
+- [ ] [404 Not Found](https://www.stat.washington.edu/jaw/COURSES/520s/521/HO.522.13/ch11.pdf)
+
+- [ ] [​Notion 不完全使用指南 - eBooksPlan | 微信公众号文章阅读 - WeMP](https://wemp.app/posts/d43c8fe7-7c97-4be3-b889-cadcaaa31b06)
+
+- [ ] [5种方法来在Windows XP系统中找回密码](https://zh.wikihow.com/%E5%9C%A8Windows-XP%E7%B3%BB%E7%BB%9F%E4%B8%AD%E6%89%BE%E5%9B%9E%E5%AF%86%E7%A0%81)
+
+- [ ] [Alexander Grothendieck - Wikipedia](https://en.wikipedia.org/wiki/Alexander_Grothendieck)
+
+- [ ] [Asymptotic equipartition property - Wikipedia](https://en.wikipedia.org/wiki/Asymptotic_equipartition_property)
+
+- [ ] [Chordal graph - Wikipedia](https://en.wikipedia.org/wiki/Chordal_graph)
+
+- [ ] [Chordal graph - Wikipedia](https://en.wikipedia.org/wiki/Chordal_graph)
+
+- [ ] [David J. C. MacKay - Wikipedia](https://en.wikipedia.org/wiki/David_J._C._MacKay)
+
+- [ ] [Marginal distribution - Wikipedia](https://en.wikipedia.org/wiki/Marginal_distribution)
+
+- [ ] [Noisy-channel coding theorem - Wikipedia](https://en.wikipedia.org/wiki/Noisy-channel_coding_theorem)
+
+- [ ] [Perfect graph - Wikipedia](https://en.wikipedia.org/wiki/Perfect_graph)
+
+- [ ] [Perfect graph - Wikipedia](https://en.wikipedia.org/wiki/Perfect_graph)
+
+- [ ] [Perfect graph theorem - Wikipedia](https://en.wikipedia.org/wiki/Perfect_graph_theorem)
+
+- [ ] [Shannon's source coding theorem - Wikipedia](https://en.wikipedia.org/wiki/Shannon%27s_source_coding_theorem)
+
+- [ ] [Strong perfect graph theorem - Wikipedia](https://en.wikipedia.org/wiki/Strong_perfect_graph_theorem)
+
+- [ ] [Typical set - Wikipedia](https://en.wikipedia.org/wiki/Typical_set#Strongly_typical_sequences_(strong_typicality,_letter_typicality))
+
+- [ ] [Typical set - Wikipedia](https://en.wikipedia.org/wiki/Typical_set#Applications_of_typicality)
+
+- [ ] [池珍熙 - Wikipedia](https://zh.wikipedia.org/wiki/%E6%B1%A0%E7%8F%8D%E7%86%99)
+
+- [ ] [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jgt.21811)
+
+- [ ] [大白菜U盘启动盘制作工具V6.0_2002-大白菜官网](http://www.winbaicai.com/down_141.html)
+
+- [ ] [Perfect Graph -- from Wolfram MathWorld](http://mathworld.wolfram.com/PerfectGraph.html)
+
+- [ ] [6 如何破解 Windows XP 管理员密码](http://cn.wondershare.com/disk-utility/windows-xp-password-cracker.html)
+
+- [ ] [A modern introduction to probability and statistics : understanding why and how (eBook, 2005) [WorldCat.org]](https://www.worldcat.org/title/modern-introduction-to-probability-and-statistics-understanding-why-and-how/oclc/262680588)
+
+- [ ] [TALK 08 | 我希望带大家一起打开咖啡风味的新大陆：专访 Kyle － 小专栏](https://xiaozhuanlan.com/topic/6417583092)
+
+- [ ] [U教授一键U盘装XP/win7/win8/win8.1系统教程－系统城·电脑系统下载之家](http://www.xitongcheng.com/jiaocheng/dnrj_article_8906.html)
+
+- [ ] [windows xp中文专业版下载_windows xp中文专业版iso镜像下载－系统城](http://www.xitongcheng.com/jiaocheng/xp_article_55198.html)
+
+- [ ] [电脑公司xp系统安装盘_电脑公司DNGS Ghost xp sp3专业纯净版v2015.06下载－系统城](http://www.xitongcheng.com/xp/dngs_xiazai_2123.html#download)
+
+- [ ] [电脑公司xp系统安装盘_电脑公司ghost xp sp3装机专业版v2018.09－系统城](http://www.xitongcheng.com/xp/dngs_xiazai_4868.html)
+
+- [ ] [体验最好的 PE 系统是什么？ - 知乎](https://www.zhihu.com/question/40137216)
+
+- [ ] [看看同行们都在用什么PE？ - 知乎](https://www.zhihu.com/question/44933566)
+
+- [ ] [装系统用的大白菜和老毛桃，有哪些纯净版的替代品？ - 知乎](https://www.zhihu.com/question/35775946)
+
+- [ ] [以 Notion 为原点，我打造了一套极简工作流 - 知乎](https://zhuanlan.zhihu.com/p/109505688)
+
+- [ ] [实测 目前最流行的PE启动盘哪家最纯净？ - 知乎](https://zhuanlan.zhihu.com/p/37496806)
+
+- [ ] [我的最后一款笔记应用-Notion - 知乎](https://zhuanlan.zhihu.com/p/49263306)
+
+- [ ] [选项页 - 简悦 SimpRead](chrome-extension://ijllcpnolfcooahcekpamkbidhejabll/options/options.html#labs?auth=yinxiang)
+
+- [ ] [允许帐户访问](https://app.yinxiang.com/OAuth.action?oauth_token=kenshin.170AF81DAF6.687474703A2F2F6B737269612E636F6D2F73696D70726561642F617574682E68746D6C3F69643D79696E7869616E67.1FD5BE08500F5049FB4D34F198E85402)
