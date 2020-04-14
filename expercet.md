@@ -104,6 +104,7 @@ x and the Conservation of Attractive Profits – Stratechery by Ben Thompson](ht
 
 
 
+<<<<<<< HEAD
 # 12/30/2019
 
 [Library Genesis](http://93.174.95.29/_ads/93864B248E80BEA36FCD8C8CE0B90817)
@@ -277,3 +278,17 @@ x and the Conservation of Attractive Profits – Stratechery by Ben Thompson](ht
 >   
 > 
 > 一种重要的语言学思想是 Firth 在 1957 年提出的，一个词语的意思应该由它的上下文来表示。
+=======
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+ expercet.md              |  95 
+
+
+
+
+
+[200~[Library Genesis](http://93.174.95.29/_ads/78EB7567896554FE91F3B54A602B2402)
+
+> Mao Zedong's political career spanned more than half a century. The ideas he championed transformed one of the largest nations on earth and inspired revolutionary movements across the world. Even today Mao lives on in China, where he is regarded by many as a near-mythical figure, and in the West, where a burgeoning literature continues to debate his memory. In this book, leading scholars from different generations and around the world offer a critical evaluation of the life and legacy of China's most famous - some would say infamous - son. In the first section, chapters explore the historical and political context of Mao's emergence as a young man and revolutionary in the early twentieth century. Through this period it is possible to examine the nature of Mao's ideology in its purest form and to see why it was attractive to so many. This section also chronicles the main events of his life and individual aspects of that life: his key relationships with allies and foes, his followers and his public persona, his philosophy, and his relationship with women. In the final part, chapters debate the positive and negative aspects of his legacy; in China Mao has become a metaphor for the promises and betrayals of the twentieth century, in developing countries he remains a beacon of revolutionary hope for some, and in the West Mao continues to be the mirror of our hopes and fears. The book brings the scholarship on Mao up to date, and its alternative perspectives equip readers to assess for themselves the nature of this mercurial figure and his significance in modern Chinese history.
+>>>>>>> db3c35f36043a3ef24e668aa5eabdb39c79683c0
