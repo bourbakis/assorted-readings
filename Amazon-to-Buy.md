@@ -21,3 +21,7 @@
 - [ ] [The Irony of Modern Catholic History: How the Church Rediscovered Itself and Challenged the Modern World to Reform: George Weigel: 9780465094332: Amazon.com: Gateway](https://www.amazon.com/Irony-Modern-Catholic-History-Rediscovered/dp/0465094333/ref=sr_1_1?keywords=irony+modern+catholic&qid=1567904436&s=gateway&sr=8-1/marginalrevol-20)
 
 - [ ] [...](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=This%20Could%20Be%20Our%20Future%3A%20A%20Manifesto%20for%20a%20More%20Generous%20World%3A%20Yancey%20Strickler%3A%209780525560821%3A%20Amazon.com%3A%20Gateway&pos=0&uri=https://www.amazon.com/This-Could-Our-Future-Manifesto/dp/0525560823/ref=sr_1_1?crid=12V3II2287THE&keywords=this+could+be+our+future&qid=1567904664&s=gateway&sprefix=this+could+be+ou%2Caps%2C172&sr=8-1/marginalrevol-20)
+
+https://www.amazon.com/Markets-Minds-Money-University-Research-ebook/dp/B082DKMJQX/ref=sr_1_1?dchild=1&keywords=Miguel+Urquiola&qid=1586916757&sr=8-1
+
+

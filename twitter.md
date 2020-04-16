@@ -1292,3 +1292,16 @@ Administrator@WIN10-901122121 ~/assorted-readin
 - [ ] [海嵎猫😷さん (@haiyumao) / Twitter](https://twitter.com/haiyumao)
 
 - [ ] [無業遊民-行水さん (@shuzhexingshui) / Twitter](https://twitter.com/shuzhexingshui)
+
+https://twitter.com/ne0liberal
+
+https://twitter.com/connorfletcher
+https://twitter.com/pseudocia
+https://twitter.com/ahardtospell
+https://twitter.com/karlbykarlsmith
+https://twitter.com/willwilkinsonhttps://twitter.com/glenweyl
+https://twitter.com/glenweyl
+
+https://twitter.com/ProfTortuga
+
+https://twitter.com/hamandcheese	
