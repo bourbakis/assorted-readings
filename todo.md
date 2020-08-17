@@ -26,19 +26,19 @@
 
 12 [Z-Library blog: Home page, "Mark as downloaded" button and improved book recommendations](https://b-ok.cc/blog/23)
 
-13 [中华经典藏书全五十册 上部 | 中华书局 | download](https://b-ok.cc/book/5278515/56cd73)
+13 ~~[中华经典藏书全五十册 上部 | 中华书局 | download](https://b-ok.cc/book/5278515/56cd73)~~
 
-14 [中华经典藏书全五十册 下部 | 中华书局 | download](https://b-ok.cc/book/5278516/439d15)
+14 ~~[中华经典藏书全五十册 下部 | 中华书局 | download](https://b-ok.cc/book/5278516/439d15)~~
 
-15 [中國的現代國家構造（中卷）：黨治國家 | 任劍濤 | download](https://b-ok.cc/book/5265734/2424ac?dsource=recommend)
+15 ~~[中國的現代國家構造（中卷）：黨治國家 | 任劍濤 | download](https://b-ok.cc/book/5265734/2424ac?dsource=recommend)~~
 
-16 [剑桥插图中国史（The Cambridge Illustrated History of China） | author: 伊佩霞（Patricia Buckley Ebrey）, translator:赵世瑜 赵世玲 张红艳 | download](https://b-ok.cc/book/695457/124eba?dsource=recommend)
+16 ~~[剑桥插图中国史（The Cambridge Illustrated History of China） | author: 伊佩霞（Patricia Buckley Ebrey）, translator:赵世瑜 赵世玲 张红艳 | download](https://b-ok.cc/book/695457/124eba?dsource=recommend)~~
 
-17 [域外中国学十论 | 葛兆光 | download](https://b-ok.cc/book/5220891/7359c5)
+17 ~~[域外中国学十论 | 葛兆光 | download](https://b-ok.cc/book/5220891/7359c5)~~
 
-18 [宅兹中国：重建有关「中国」的历史论述 | 葛兆光 | download](https://b-ok.cc/book/3563257/4869f4?dsource=recommend)
+18 ~~[宅兹中国：重建有关「中国」的历史论述 | 葛兆光 | download](https://b-ok.cc/book/3563257/4869f4?dsource=recommend)~~
 
-19 [權力的劇場 中共黨代會的制度運作 / China’s Party Congress: Power, Legitimacy, and Institutional Manipulation (Chinese Edition) | 吳國光 | download](https://b-ok.cc/book/3580096/2858b9?dsource=recommend)
+19 ~~[權力的劇場 中共黨代會的制度運作 / China’s Party Congress: Power, Legitimacy, and Institutional Manipulation (Chinese Edition) | 吳國光 | download](https://b-ok.cc/book/3580096/2858b9?dsource=recommend)~~
 
 20 [脱轨的革命 | 魏昂德 | download](https://b-ok.cc/book/5354082/0a27b5?dsource=recommend)
 
