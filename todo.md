@@ -1,3 +1,53 @@
+# 8/17/2020
+
+8/16/2020
+
+1 [(法)皮埃尔·布尔迪厄: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/(%E6%B3%95)%E7%9A%AE%E5%9F%83%E5%B0%94%C2%B7%E5%B8%83%E5%B0%94%E8%BF%AA%E5%8E%84)
+
+2 [An Introduction to Complex Analysis and Geometry (Pure and Applied Undergraduate Texts) | John P. D'Angelo | download](https://b-ok.cc/book/5652698/74be37/?wrongHash)
+
+3 [Franz Halter-Koch: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Franz%20Halter-Koch)
+
+4 [Introduction to Complex Numbers | Christopher C. Tisdell | download](https://b-ok.cc/book/5446762/222073)
+
+5 [Introduction to Measure Theory and Functional Analysis | Piermarco Cannarsa, Teresa D'Aprile (auth.) | download](https://b-ok.cc/book/2617235/e6d0e7)
+
+6 [Introduction to surface engineering and functionally engineered materials | Peter M Martin; Wiley InterScience (Online service) | download](https://b-ok.cc/book/2461293/d07021)
+
+7 [Introduction to the Theory of Algebraic Numbers and Functions | Martin Eichler | download](https://b-ok.cc/book/763430/95fba9)
+
+8 [Introduction to Topology: Theory and Applications | Min Yan | download](https://b-ok.cc/book/859425/0f5548)
+
+9 [Quadratic Irrationals: An Introduction to Classical Number Theory | Franz Halter-Koch | download](https://b-ok.cc/book/2162019/23ad38)
+
+10 [Storytelling with Data: A Data Visualization Guide for Business Professionals | Cole Nussbaumer Knaflic | download](https://b-ok.cc/book/2739588/d6a893?dsource=mostpopular)
+
+11 [Understanding Network Hacks: Attack and Defense with Python | Bastian Ballmann (auth.) | download](https://b-ok.cc/book/2487850/036cf0?dsource=mostpopular)
+
+12 [Z-Library blog: Home page, "Mark as downloaded" button and improved book recommendations](https://b-ok.cc/blog/23)
+
+13 [中华经典藏书全五十册 上部 | 中华书局 | download](https://b-ok.cc/book/5278515/56cd73)
+
+14 [中华经典藏书全五十册 下部 | 中华书局 | download](https://b-ok.cc/book/5278516/439d15)
+
+15 [中國的現代國家構造（中卷）：黨治國家 | 任劍濤 | download](https://b-ok.cc/book/5265734/2424ac?dsource=recommend)
+
+16 [剑桥插图中国史（The Cambridge Illustrated History of China） | author: 伊佩霞（Patricia Buckley Ebrey）, translator:赵世瑜 赵世玲 张红艳 | download](https://b-ok.cc/book/695457/124eba?dsource=recommend)
+
+17 [域外中国学十论 | 葛兆光 | download](https://b-ok.cc/book/5220891/7359c5)
+
+18 [宅兹中国：重建有关「中国」的历史论述 | 葛兆光 | download](https://b-ok.cc/book/3563257/4869f4?dsource=recommend)
+
+19 [權力的劇場 中共黨代會的制度運作 / China’s Party Congress: Power, Legitimacy, and Institutional Manipulation (Chinese Edition) | 吳國光 | download](https://b-ok.cc/book/3580096/2858b9?dsource=recommend)
+
+20 [脱轨的革命 | 魏昂德 | download](https://b-ok.cc/book/5354082/0a27b5?dsource=recommend)
+
+21 [解放的悲劇：中國革命史1945-1957 (The Tragedy of Liberation: A History of the Communist Revolution, 1945–1957) | 馮客(Frank Dikötter) | download](https://b-ok.cc/book/3596933/bf2ef3?dsource=recommend)
+
+22 [趙鼎新: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/%E8%B6%99%E9%BC%8E%E6%96%B0)
+
+
+
 ## 3/21/2020
 
 - [ ] [Docs Transfer QR login](https://docstransfer.com/)
