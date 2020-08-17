@@ -4,13 +4,13 @@
 
 1 ~~[(法)皮埃尔·布尔迪厄: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/(%E6%B3%95)%E7%9A%AE%E5%9F%83%E5%B0%94%C2%B7%E5%B8%83%E5%B0%94%E8%BF%AA%E5%8E%84)~~
 
-2 ~~[An Introduction to Complex Analysis and Geometry (Pure and Applied Undergraduate Texts) | John P. D'Angelo | download](https://b-ok.cc/book/5652698/74be37/?wrongHash)
+2 ~~[An Introduction to Complex Analysis and Geometry (Pure and Applied Undergraduate Texts) | John P. D'Angelo | download](https://b-ok.cc/book/5652698/74be37/?wrongHash)~~
 
-3 [Franz Halter-Koch: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Franz%20Halter-Koch)~~
+3 ~~[Franz Halter-Koch: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Franz%20Halter-Koch)~~
 
 4 ~~[Introduction to Complex Numbers | Christopher C. Tisdell | download](https://b-ok.cc/book/5446762/222073)~~
 
-5 [Introduction to Measure Theory and Functional Analysis | Piermarco Cannarsa, Teresa D'Aprile (auth.) | download](https://b-ok.cc/book/2617235/e6d0e7)
+5 ~~[Introduction to Measure Theory and Functional Analysis | Piermarco Cannarsa, Teresa D'Aprile (auth.) | download](https://b-ok.cc/book/2617235/e6d0e7)~~
 
 6 [Introduction to surface engineering and functionally engineered materials | Peter M Martin; Wiley InterScience (Online service) | download](https://b-ok.cc/book/2461293/d07021)
 
