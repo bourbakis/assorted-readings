@@ -1144,3 +1144,15 @@ https://github.com/tensorflow/neural-structured-learning
 - [ ] [YouTube](https://www.youtube.com/watch?v=KRYdrxTl40A)
 
 - [ ] [YouTube](https://www.youtube.com/watch?v=ahxThTOi8Jw)
+
+
+## 9/24/2020
+
+
+### sociology and economics
+
+- [ ] [(216) Mark Granovetter - The Strength of Weak Ties (summary) - YouTube](https://www.youtube.com/watch?v=zekX2dg4hEY)
+
+- [ ] [(216) Social Networks and Getting a Job: Mark Granovetter - YouTube](https://www.youtube.com/watch?v=g3bBajcR5fE)
+
+- [ ] [(216) THE CONCEPT OF EMBEDDEDNESS, BY MARK GRANOVETTER - YouTube](https://www.youtube.com/watch?v=KXGbCjzmm2M)
