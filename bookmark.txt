@@ -919,3 +919,437 @@
 - [ ] [选项页 - 简悦 SimpRead](chrome-extension://ijllcpnolfcooahcekpamkbidhejabll/options/options.html#labs?auth=yinxiang)
 
 - [ ] [允许帐户访问](https://app.yinxiang.com/OAuth.action?oauth_token=kenshin.170AF81DAF6.687474703A2F2F6B737269612E636F6D2F73696D70726561642F617574682E68746D6C3F69643D79696E7869616E67.1FD5BE08500F5049FB4D34F198E85402)
+
+
+
+## 9/25/2020
+
+- [ ] [www.google.com](https://www.google.com/search?q=p%3C-%3Eq%20%3C-%3Er%20is%20equivalent%20to)
+
+- [ ] [Vector Calculus: Understanding Flux – BetterExplained](https://betterexplained.com/articles/flux/#:~:text=Flux%20is%20the%20amount%20of,passes%20through%2C%20and%20their%20orientation.)
+
+- [ ] [Use the Divergence Theorem to calculate the surface integral S F · dS; that is, calculate the flux of - Brainly.com](https://brainly.com/question/13133793)
+
+- [ ] [cd001.www.duba.net](http://cd001.www.duba.net/duba/install/packages/ever/dubaperf_20200629.exe)
+
+- [ ] [The Divergence Theorem – Calculus Volume 3](https://opentextbc.ca/calculusv3openstax/chapter/the-divergence-theorem/)
+
+- [ ] [[PDF] Solutions - Homework sections - Free Download PDF](https://silo.tips/download/solutions-homework-sections)
+
+- [ ] [Verify that the Divergence Theorem is true for the vector field F on the region E. $F(x, y, z) = ⟨x^2, -y, z⟩,$ E is the solid cylinder $y^2+z^2≤9, 0≤x≤2$ :: Homework Help and Answers :: Slader](https://www.slader.com/discussion/question/verify-that-the-divergence-theorem-is-true-for-the-vector-field-f-on-the-region-e-2/)
+
+- [ ] [Use the Divergence Theorem to calculate the surface integral F dot dS; that is, calculate the flux of F across S. F(x, y, z) = x^2 sin(y)i + x cos(y)j ? xz sin(y)k, S is the ~'fat sphere~' x^8 + y^8 + z^8 = 64. | Study.com](https://study.com/academy/answer/use-the-divergence-theorem-to-calculate-the-surface-integral-f-dot-ds-that-is-calculate-the-flux-of-f-across-s-f-x-y-z-x-2-sin-y-i-x-cos-y-j-xz-sin-y-k-s-is-the-fat-sphere-x-8-y-8-z-8-64.html)
+
+- [ ] [Use the Divergence Theorem to evaluate S (6x + 6y + z2)dS where S is the sphere x2 + y2 + z2 = 1 | Study.com](https://study.com/academy/answer/use-the-divergence-theorem-to-evaluate-s-6x-6y-z2-ds-where-s-is-the-sphere-x2-y2-z2-1.html)
+
+- [ ] [Lesson 26: The Divergence Theorem](https://studyres.com/doc/16549743/lesson-26--the-divergence-theorem)
+
+- [ ] [www.slader.com](https://www.slader.com/discussion/question/use-the-divergence-theorem-to-evaluate/)
+
+- [ ] [BOMB!(ボム!) 2020年 08 月号 [雑誌] | |本 | 通販 | Amazon](https://www.amazon.co.jp/BOMB-%E3%83%9C%E3%83%A0-2020%E5%B9%B4-08-%E6%9C%88%E5%8F%B7/dp/B08BWCL5WG/ref=pd_bxgy_img_3/355-2837060-5561155?_encoding=UTF8&pd_rd_i=B08BWCL5WG&pd_rd_r=236ae62f-2f2d-4841-8541-832244290e4b&pd_rd_w=0z5uz&pd_rd_wg=H7q9P&pf_rd_p=e64b0a81-ca1b-4802-bd2c-a4b65bccc76e&pf_rd_r=WTZR5RH28HNKCX6XY773&psc=1&refRID=WTZR5RH28HNKCX6XY773)
+
+- [ ] [Pocket - Articles](https://app.getpocket.com/articles/all)
+
+- [ ] [Inbox (19) - fpcmotif@gmail.com - Gmail](https://mail.google.com/mail/u/0/#inbox)
+
+- [ ] [Goldmark, John E. (1917-1979) - HistoryLink.org](https://www.historylink.org/File/9858)
+
+- [ ] [Instapaper](https://www.instapaper.com/u)
+
+- [ ] [An infinite group whose proper subgroups are all finite | Math Counterexamples](https://www.mathcounterexamples.net/an-infinite-group-whose-proper-subgroups-are-all-finite/)
+
+- [ ] [abstract algebra - Examples of non-abelian groups with no abelian subgroups - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1454378/examples-of-non-abelian-groups-with-no-abelian-subgroups/1454379)
+
+- [ ] [User mathcounterexamples.net - Mathematics Stack Exchange](https://math.stackexchange.com/users/187663/mathcounterexamples-net)
+
+- [ ] [1600205561894-8122020gravediggersunioncvdouble-2.jpeg (900×505)](https://video-images.vice.com//articles/5f612881518e49009c097efe/lede/1600205561894-8122020gravediggersunioncvdouble-2.jpeg?crop=1xw:0.483xh;0xw,0xh&resize=900:*)
+
+- [ ] [Gravediggers Speak Out About Horrifying Conditions During Coronavirus Surge](https://www.vice.com/en_us/article/z3e9da/gravediggers-horrifying-conditions-coronavirus-burial-surge-new-jersey-stonemor-jewish-cemetery)
+
+- [ ] [Gravediggers Speak Out About Horrifying Conditions During Coronavirus Surge](https://www.vice.com/en_us/article/z3e9da/gravediggers-horrifying-conditions-coronavirus-burial-surge-new-jersey-stonemor-jewish-cemetery)
+
+- [ ] [Landlords Are Still Trying to Evict People Even Though There's a Federal Ban](https://www.vice.com/en_us/article/z3e939/landlords-are-still-trying-to-evict-people-even-though-theres-a-federal-ban)
+
+- [ ] [Joe Biden’s transition team could save or sink the Covid-19 economy - Vox](https://www.vox.com/21439096/biden-economy-stimulus-covid-19)
+
+- [ ] [library.lol/main/4582D0E073E4CDA1C7D8537DF64C1060](http://library.lol/main/4582D0E073E4CDA1C7D8537DF64C1060)
+
+- [ ] [library.lol/main/7D368404B840CDE5F14A22A5D8622C34](http://library.lol/main/7D368404B840CDE5F14A22A5D8622C34)
+
+- [ ] [library.lol/main/A7D8F71999B063A583F1883CE63D7530](http://library.lol/main/A7D8F71999B063A583F1883CE63D7530)
+
+- [ ] [library.lol/main/C734FEF088ED00D2DC70A2FB66C915D5](http://library.lol/main/C734FEF088ED00D2DC70A2FB66C915D5)
+
+- [ ] [library.lol/main/CE46FB74BC16D9600C351C797811E832](http://library.lol/main/CE46FB74BC16D9600C351C797811E832)
+
+- [ ] [library.lol/main/DA58756355EA35B5A9E6A75FE2AF9005](http://library.lol/main/DA58756355EA35B5A9E6A75FE2AF9005)
+
+- [ ] [library.lol/main/FBE93F740ABC569E0CDD0850C10B89D7](http://library.lol/main/FBE93F740ABC569E0CDD0850C10B89D7)
+
+- [ ] [503 Service Temporarily Unavailable](http://87.120.36.5/main/2328000/ee348bde9f0893ad9dba1dd590a0c661/Alex%20Ross_%20Andrew%20Cameron%20-%20How%20to%20last%20longer%20in%20bed_%20Premature%20Ejaculant%20Treatment%20without%20the%20use%20of%20creams%20or%20medicine_%202018%20Edition%20to%20make%20your%20happy%20in%20this%20area-Cameron%20Publishing%20%282013%29.epub)
+
+- [ ] [An Evidence-based (Non-hygiene Theater) Return to Work Plan – Andrew Dornon](https://www.andrewdornon.com/an-evidence-based-business-driven-return-to-work-plan/)
+
+- [ ] [The movie Stay Woke | askblog](http://www.arnoldkling.com/blog/the-movie-stay-woke/)
+
+- [ ] [The Missing Right-Wing Firms: A Beckerian Puzzle - Econlib](https://www.econlib.org/market-forces-vs-leftist-discrimination-a-beckerian-puzzle/)
+
+- [ ] [In Vitro Efficacy of a Povidone-Iodine Nasal Antiseptic for Rapid Inactivation of SARS-CoV-2 | Infectious Diseases | JAMA Otolaryngology–Head & Neck Surgery | JAMA Network](https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2770785)
+
+- [ ] [library.lol](http://library.lol/main/28CDBAA0E10B4FE99BE22ACC473D0E00)
+
+- [ ] [Alex Ross on Music, Culture, and Criticism (Ep. 105) | by Mercatus Center | Conversations with Tyler | Sep, 2020 | Medium](https://medium.com/conversations-with-tyler/alex-ross-tyler-cowen-music-wagnerism-78bf046f89f5)
+
+- [ ] [Nursing homes have new COVID-19 tests that are fast and cheap. So why won’t N.J. allow them to be used? - nj.com](https://www.nj.com/coronavirus/2020/09/nursing-homes-have-new-covid-19-tests-that-are-fast-and-cheap-so-why-wont-nj-allow-them-to-be-used.html)
+
+- [ ] [Overcoming Bias : The World Forager Elite](https://www.overcomingbias.com/2020/09/the-world-forager-elite.html?fbclid=IwAR0li92TK0tyFQrtxEBb2Bg6EzD13Em0pXNYRHSQaeoAVAQcEPBKbseC8lw)
+
+- [ ] [The Vaccine Protocols | In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/09/21/the-vaccine-protocols)
+
+- [ ] [The Emperor’s New Clothes - Tablet Magazine](https://www.tabletmag.com/sections/israel-middle-east/articles/abraham-accords-trump)
+
+- [ ] [Why a Russian billionaire wants to buy controversial statues that were taken down - The Washington Post](https://www.washingtonpost.com/lifestyle/magazine/why-a-russian-billionaire-wants-to-buy-controversial-statues-that-were-taken-down/2020/09/18/164050d0-eec6-11ea-ab4e-581edb849379_story.html)
+
+- [ ] [Bloomberg L.P. | About, Careers, Products, Contacts](https://www.bloomberg.com/company/)
+
+- [ ] [Amy Coney Barrett front-runner to replace Ruth Bader Ginsburg on Trump's list of justice nominees: Sources - ABC News](https://abcnews.go.com/Politics/amy-coney-barrett-front-runner-trump-list-potential/story?id=73116917)
+
+- [ ] [Trump's New Supreme Court Pool: Judges He's Nominated, GOP Senators and DOJ Veterans | National Law Journal](https://www.law.com/nationallawjournal/2020/09/09/trumps-new-supreme-court-pool-judges-hes-nominated-gop-senators-and-doj-veterans/?slreturn=20200824015733)
+
+- [ ] [Meet some of Trump’s most conservative judicial picks | US news | The Guardian](https://www.theguardian.com/us-news/2020/apr/30/meet-trump-most-conservative-judicial-picks)
+
+- [ ] [www.voanews.com](https://www.voanews.com/usa/trump-pick-woman-supreme-court-nominee)
+
+- [ ] [Trump just got the chance to pick another judge for the influential appeals court in D.C. - The Washington Post](https://www.washingtonpost.com/local/legal-issues/trump-just-got-the-chance-to-pick-another-judge-for-the-influential-appeals-court-in-dc/2020/03/05/3d874e38-5ef6-11ea-b29b-9db42f7803a7_story.html)
+
+- [ ] [Page not found - Deezer](https://www.deezer.com/en/track/584626722)
+
+- [ ] [ross-streaming-music.jpg (2250×1500)](https://media.newyorker.com/photos/5f6a64f236878134ae1bd807/master/w_2560%2Cc_limit/ross-streaming-music.jpg)
+
+- [ ] [Alex Ross | The New Yorker](https://www.newyorker.com/contributors/alex-ross)
+
+- [ ] [The L.A. Philharmonic’s Emotional Return to an Empty Hollywood Bowl | The New Yorker](https://www.newyorker.com/magazine/2020/09/28/the-la-philharmonics-emotional-return-to-an-empty-hollywood-bowl)
+
+- [ ] [Kyle Devine Class of 2018 - Player Profile | Perfect Game USA](https://www.perfectgame.org/Players/Playerprofile.aspx?ID=551237)
+
+- [ ] [13: Part 1 of 2 Kyle Devine opens up and speaks about being knocked down over and over again - GIVING STARTS WITH YOU | Lyssna här](https://podcasts.nu/avsnitt/giving-starts-with-you/13-part-1-of-2-kyle-devine-opens-up-and-speaks-about-being-knocked-down-over-and-over-again)
+
+- [ ] [New Study Details Devastating Environmental Impact of Music Streaming - Rolling Stone](https://www.rollingstone.com/music/music-features/environmental-impact-streaming-music-835220/)
+
+- [ ] [Nightmares on wax: the environmental impact of the vinyl revival | Music | The Guardian](https://www.theguardian.com/music/2020/jan/28/vinyl-record-revival-environmental-impact-music-industry-streaming)
+
+- [ ] [600x200 (600×200)](https://pbs.twimg.com/profile_banners/732996606/1364042508/600x200)
+
+- [ ] [(1) Dominik Moritzさん (@domoritz) / Twitter](https://twitter.com/domoritz)
+
+- [ ] [(1) Math Counterexamplesさん (@MathCounterexam) / Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.mathcounterexamples.net%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=MathCounterexam&tw_p=followbutton)
+
+- [ ] [(1) Robert Kosara 👁📺さんはTwitterを使っています 「AI all the things!」 / Twitter](https://twitter.com/eagereyes/status/1307002515238526976)
+
+- [ ] [(1) Steve Lyonさん (@SteveJLyon) / Twitter](https://twitter.com/SteveJLyon)
+
+- [ ] [https://twitter.com/i/connect_people?user_id=4062791](https://twitter.com/i/connect_people?user_id=4062791)
+
+- [ ] [https://twitter.com/i/connect_people?user_id=732996606](https://twitter.com/i/connect_people?user_id=732996606)
+
+- [ ] [twitter.com](https://twitter.com/intent/follow?screen_name=alexrossmusic)
+
+- [ ] [https://twitter.com/jermdemo](https://twitter.com/jermdemo)
+
+- [ ] [https://twitter.com/jermth](https://twitter.com/jermth)
+
+- [ ] [https://twitter.com/letsgetmathing](https://twitter.com/letsgetmathing)
+
+- [ ] [https://twitter.com/logicfall](https://twitter.com/logicfall)
+
+- [ ] [https://twitter.com/MazzucatoM](https://twitter.com/MazzucatoM)
+
+- [ ] [https://twitter.com/MrDraperMaths](https://twitter.com/MrDraperMaths)
+
+- [ ] [https://twitter.com/QuotableMath](https://twitter.com/QuotableMath)
+
+- [ ] [https://twitter.com/shoshanazuboff](https://twitter.com/shoshanazuboff)
+
+- [ ] [https://twitter.com/STEMLearning_MA](https://twitter.com/STEMLearning_MA)
+
+- [ ] [https://twitter.com/SteveJLyon](https://twitter.com/SteveJLyon)
+
+- [ ] [https://twitter.com/suffolkmaths](https://twitter.com/suffolkmaths)
+
+- [ ] [https://twitter.com/tisimpson](https://twitter.com/tisimpson)
+
+- [ ] [Twitter](https://twitter.com/kyledevinephd?lang=en)
+
+- [ ] [ホーム / Twitter](https://twitter.com/home)
+
+- [ ] [Downloads](chrome://downloads/)
+
+- [ ] [Society and Economy: Framework and Principles: Granovetter, Mark: 9780674975217: Amazon.com: Books](https://www.amazon.com/Society-Economy-Principles-Mark-Granovetter/dp/0674975219)
+
+- [ ] [Mark Granovetter | Book Depository](https://www.bookdepository.com/author/Mark-Granovetter)
+
+- [ ] [Articles from Mark Granovetter | Cairn International Edition](https://www.cairn-int.info/publications-de-Mark-Granovetter--19873.htm)
+
+- [ ] [‪Mark Granovetter‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=OlKVqZ8AAAAJ)
+
+- [ ] [Society and Economy — Mark Granovetter | Harvard University Press](https://www.hup.harvard.edu/catalog.php?isbn=9780674975217&content=reviews)
+
+- [ ] [Explorations in Economic Sociology on JSTOR](https://www.jstor.org/stable/10.7758/9781610445221)
+
+- [ ] [Cases vs. deaths in the Covid debates - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2020/09/cases-vs-deaths-in-the-covid-debates.html)
+
+- [ ] [Gangs, Labor Mobility and Development - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2020/09/gangs-labor-mobility-and-development.html)
+
+- [ ] [How should America regulate TikTok and other Chinese tech companies? - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2020/09/how-should-america-regulate-tiktok-and-other-chinese-tech-companies.html)
+
+- [ ] [My Conversation with Alex Ross - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2020/09/my-conversation-with-alex-ross.html)
+
+- [ ] [My Conversation with Alex Ross - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2020/09/my-conversation-with-alex-ross.html)
+
+- [ ] [The game theory of SCOTUS nominations - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2020/09/the-game-theory-of-scotus-nominations.html)
+
+- [ ] [The Great Forgetting: How to Stop Tooth Decay - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2020/09/the-great-forgetting-how-to-stop-tooth-decay.html)
+
+- [ ] [Wednesday assorted links - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2020/09/wednesday-assorted-links-264.html)
+
+- [ ] [snap.stanford.edu](http://snap.stanford.edu/class/cs224w-readings/granovetter73weakties.pdf)
+
+- [ ] [Why the Supreme Court Matters Like Never Before - Tablet Magazine](https://www.tabletmag.com/sections/news/articles/lind-supreme-court-ruth-bader-ginsburg-trump)
+
+- [ ] [the next economics nobel prize goes to … mark granovetter?? | orgtheory.net](https://orgtheory.wordpress.com/2007/10/03/the-next-economics-nobel-prize-goes-to-mark-granovetter/)
+
+- [ ] [leejo.github.io](https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/)
+
+- [ ] [Decomposed: The Political Ecology of Music: Devine, Kyle: Amazon.com.au: Books](https://www.amazon.com.au/Decomposed-Political-Ecology-Kyle-Devine/dp/0262537788)
+
+- [ ] [www.amazon.com.au](https://www.amazon.com.au/Go-Ahead-Rain-Notes-Called/dp/1477316485/ref=pd_lpo_14_t_2/358-9378888-3892059?_encoding=UTF8&pd_rd_i=1477316485&pd_rd_r=a68c431f-1418-4db5-9b3a-972e79e0723e&pd_rd_w=wAsJO&pd_rd_wg=ve4SP&pf_rd_p=ad2d1e6e-bc60-4795-b4c0-2dbd35f6678d&pf_rd_r=XMMVSWNN6WCKJT45VW1H&psc=1&refRID=XMMVSWNN6WCKJT45VW1H)
+
+- [ ] [Hungry Listening: Resonant Theory for Indigenous Sound Studies - Robinson, Dylan | 9781517907693 | Amazon.com.au | Books](https://www.amazon.com.au/Hungry-Listening-Resonant-Indigenous-Studies/dp/1517907691/ref=pd_lpo_14_t_0/358-9378888-3892059?_encoding=UTF8&pd_rd_i=1517907691&pd_rd_r=a68c431f-1418-4db5-9b3a-972e79e0723e&pd_rd_w=wAsJO&pd_rd_wg=ve4SP&pf_rd_p=ad2d1e6e-bc60-4795-b4c0-2dbd35f6678d&pf_rd_r=XMMVSWNN6WCKJT45VW1H&psc=1&refRID=XMMVSWNN6WCKJT45VW1H)
+
+- [ ] [Tehrangeles Dreaming: Intimacy and Imagination in Southern California's Iranian Pop Music - Hemmasi, Farzaneh | 9781478007906 | Amazon.com.au | Books](https://www.amazon.com.au/Tehrangeles-Dreaming-Intimacy-Imagination-Californias/dp/1478007907/ref=pd_lpo_14_t_1/358-9378888-3892059?_encoding=UTF8&pd_rd_i=1478007907&pd_rd_r=a68c431f-1418-4db5-9b3a-972e79e0723e&pd_rd_w=wAsJO&pd_rd_wg=ve4SP&pf_rd_p=ad2d1e6e-bc60-4795-b4c0-2dbd35f6678d&pf_rd_r=XMMVSWNN6WCKJT45VW1H&psc=1&refRID=XMMVSWNN6WCKJT45VW1H)
+
+- [ ] [Getting a Job: A Study of Contacts and Careers | Mark Granovetter | download](https://b-ok.cc/book/5495926/1ceb3f)
+
+- [ ] [Chapter 2 - Propositional Logic](http://intrologic.stanford.edu/chapters/chapter_02.html)
+
+- [ ] [swab.zlibcdn.com](https://swab.zlibcdn.com/dtoken/f6bf8715a6647aa27bdb44c14c39eeee)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/The%20company%2C%20at%20first%20glance%2C%20appears%20to%20be%20some%20kind%20of%20_Nathan%20For%20You-_esque%20prank%3A%20siccing%20precarious%20gig%20jobs%20onto%20vulnerable%20people.%20But%20Civvl%20is%20connected%20to%20a%20larger%E2%80%94and%20real%E2%80%94gig%20economy%20company%20called%20OnQall%2C%20which%20describes%20itself%20as%20an%20app%20that%20provides%20%22on-demand%20task%20services%20to%20non-urban%20communities%20beyond%20main%20city%20areas.%22%20OnQall%20is%20the%20developer%20behind%20other%2C%20more%20believable%20TaskRabbit-esque%20apps%2C%20like%20LawnFixr%2C%20CleanQwik%2C%20and%20MoveQwik.%20Given%20the%20fact%20that%20Civvl%20is%20advertising%20all%20over%20the%20country%20and%20that%20OnQall%2C%20though%20not%20popular%2C%20does%20exist%2C%20it%20seems%20as%20though%20Civvl%20actually%20is%20an%20attempt%20to%20simplify%20the%20process%20of%20evicting%20people%20who%20cannot%20pay%20their%20rent%20during%20a%20pandemic.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/Even%20as%20new%20formats%20come%20to%20the%20fore%2C%20old%20ones%20cling%20to%20life%2C%20often%20in%20conjunction%20with%20nostalgia%20or%20longing%20for%20an%20idealized%20past.%20The%20compact%20disk%20remains%20the%20bedrock%20of%20many%20people%E2%80%99s%20collections%2C%20mine%20included.%20The%20vinyl%20revival%20proceeds%20apace%2C%20and%20a%20cassette%20revival%20is%20underway.%20Perhaps%20we%E2%80%99ll%20see%20a%20shellac%20revival%2C%20or%20even%20a%20wax-cylinder%20revival.%20The%20problem%20is%20that%20the%20accumulated%20glut%20of%20technologies%20and%20formats%20only%20increases%20the%20environmental%20stress%20that%20our%20demand%20for%20maximal%20musical%20variety%20imposes.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/At%20the%20end%20of%20%E2%80%9CDecomposed%2C%E2%80%9D%20Devine%20incorporates%20his%20ecology%20of%20music%20into%20a%20more%20comprehensive%20vision%20of%20anthropogenic%20crisis.%20%E2%80%9CMusically%2C%20we%20may%20need%20to%20question%20our%20expectations%20of%20infinite%20access%20and%20infinite%20storage%2C%E2%80%9D%20he%20writes.%20Our%20demand%20that%20all%20of%20musical%20history%20should%20be%20available%20at%20the%20touch%20of%20a%20finger%20has%20become%20gluttonous.%20It%20may%20seem%20a%20harmless%20form%20of%20consumer%20desire%2C%20but%20it%20leaves%20real%20scars%20on%20the%20face%20of%20the%20Earth.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/Devine%20holds%20out%20hope%20for%20a%20shift%20in%20consciousness%2C%20similar%20to%20the%20one%20that%20has%20taken%20place%20in%20our%20relationship%20with%20food.%20When%20we%20listen%20to%20music%2C%20we%20may%20ask%20ourselves%3A%20Under%20what%20conditions%20was%20a%20particular%20recording%20made%3F%20How%20equitable%20is%20the%20process%20by%20which%20it%20has%20reached%20us%3F%20Who%20is%20being%20paid%3F%20How%20are%20they%20being%20treated%3F%20And%E2%80%94most%20pressing%E2%80%94how%20much%20music%20do%20we%20really%20need%3F%20Perhaps%2C%20if%20we%20have%20less%20of%20it%2C%20it%20may%20matter%20to%20us%20more.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/In%202008%2C%20Goldmark%20won%20the%20election%20for%20Commissioner%20of%20Public%20Lands%20against%20incumbent%20Doug%20Sutherland%20in%20a%20tightly%20contested%20race.%20The%20major%20focus%20points%20of%20his%20campaign%20for%20Public%20Land%20Commissioner%20include%20preventing%20forest%20from%20being%20converted%20into%20strip%20malls%20or%20development%3B%20encouraging%20sustainable%20timber%20practices%20to%20maintain%20steady%20income%20and%20areas%20of%20recreation%20for%20the%20state%3B%20cleaning%20up%20Puget%20Sound%3B%20promoting%20the%20use%20of%20biofuels%3B%20effective%20wildland%20fire%20management%3B%20and%20maintaining%20clean%20water%20for%20drinking%2C%20salmon%20habitat%2C%20and%20shellfish%20harvesting.%20He%20was%20succeeded%20by%20Hilary%20Franz%20after%20the%202016%20election%2C%20where%20he%20did%20not%20run.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/John%20E.%20Goldmark%20was%20a%20Washington%20State%20legislator%20from%20Okanogan%20who%20served%20three%20terms%20in%20the%20state%20House%20of%20Representatives%20from%201957%20to%201962.%20He%20rose%20into%20Democratic%20leadership%20ranks%20and%20was%20considered%20one%20of%20the%20most%20prominent%20members%20of%20the%20party's%20liberal%20wing.%20However%2C%20he%20was%20trounced%20in%20the%20primary%20election%20in%201962%20after%20several%20rightwing%20political%20opponents%20launched%20a%20campaign%20that%20tried%20to%20paint%20Goldmark%20and%20his%20wife%2C%20Sally%20Goldmark%20(1907-1985)%2C%20as%20communists%20or%20sympathizers.%20The%20Goldmarks%20sued%20for%20libel%20and%20won%20a%20%2440%2C000%20judgment%20in%20a%20nationally%20prominent%20trial.%20The%20judgment%20was%20later%20overturned%20following%20a%20U.S.%20Supreme%20Court%20ruling%20in%20a%20case%20involving%20similar%20issues.%20John%20Goldmark%20went%20back%20to%20his%20ranch%20in%20Okanogan%20and%20never%20held%20public%20office%20again.%20He%20died%20in%20Seattle%20in%201979%20of%20cancer.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#view=home&op=translate&sl=auto&tl=zh-CN&text=I'm%20sure%20Shiran%20is%20a%20nice%20guy%20but%20this%20is%20wishful%20advocacy%20disguised%20as%20a%20(bad)%20prediction.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#view=home&op=translate&sl=auto&tl=zh-CN&text=Mitch%20McConnell%20controls%20this%20process.%20Trump%20is%20not%20going%20to%20pick%20a%20fight%20with%20his%20own%20party%20to%20do%20some%20sort%20of%2010%20dimensional%20chess%20strategy%20to%20increase%20his%20odds%20of%20winning.%20This%20strategy%20wouldn't%20help%20him%20anyway%20because%20it's%20too%20likely%20to%20piss%20off%20his%20co-partisans%2C%20who%20REALLY%20care%20about%20the%20seat.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/Even%20aside%20from%20our%20suspicion%20%2C%20their%20very%20prosperity%20seems%20a%20threat%20to%20us.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#view=home&op=translate&sl=auto&tl=zh-CN&text=Certain%20whites%20hate%20blacks%20and%20browns%20because%20they%20think%20they%20are%20lazy.%20Then%20they%20hate%20yellows%20and%20the%20other%20browns%20because%20they%20resent%20their%20success.%20There's%20no%20winning%20in%20their%20sad%20little%2C%20colored%20world.)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#auto/en/In%20a%20chapter%20on%20the%20digital%20and%20streaming%20era%2C%20Devine%20drives%20home%20the%20point%20that%20there%20is%20no%20such%20thing%20as%20a%20nonmaterial%20way%20of%20listening%20to%20music%3A%20%E2%80%9CThe%20so-called%20cloud%20is%20a%20definitely%20material%20and%20mainly%20hardwired%20network%20of%20fiber-optic%20cables%2C%20servers%2C%20routers%2C%20and%20the%20like.%E2%80%9D%20This%20concealment%20of%20industrial%20reality%2C%20behind%20a%20phantasmagoria%20of%20virtuality%2C%20is%20a%20sleight%20of%20hand%20typical%20of%20Big%20Tech%2C%20with%20its%20genius%20for%20persuading%20consumers%20never%20to%20wonder%20how%20transactions%20have%20become%20so%20shimmeringly%20effortless.%20In%20much%20the%20same%20way%2C%20it%20has%20convinced%20us%20not%20to%20think%20too%20hard%20about%20the%20regime%20of%20mass%20surveillance%20on%20which%20the%20economics%20of%20the%20industry%20rests.%20Spotify%E2%80%99s%20inability%20to%20become%20consistently%20profitable%20tends%20not%20to%20bother%20investors%2C%20who%20see%20vast%20potential%20in%20the%20company%E2%80%99s%20hoard%20of%20personal%20data.%20The%20musicologist%20Eric%20Drott%20fills%20in%20more%20of%20that%20chilling%20picture%20in%20a%20recent%20Journal%20of%20the%20Society%20for%20American%20Music%20article%2C%20titled%20%E2%80%9CMusic%20as%20a%20Technology%20of%20Surveillance.%E2%80%9D%20According%20to%20Drott%2C%20Spotify%E2%80%99s%20head%20of%20programmatic%20solutions%20once%20boasted%2C%20%E2%80%9CWe%20not%20only%20know%20what%20our%20users%20are%20listening%20to%2C%20we%20also%20know%20their%20personal%20activities%20as%20well%2C%E2%80%9D%20and%20gave%20showering%20as%20an%20example.%20The%20company%20registers%20%E2%80%9C550%2C000%20shower%20streams%20per%20day.%E2%80%9D)
+
+- [ ] [Google Translate](https://translate.google.com/?source=gtx_c#view=home&op=translate&sl=auto&tl=zh-CN&text=There%20is%20also%20a%20problem%20of%20enforcement.%20The%20rest%20of%20the%20world%20is%20unlikely%20to%20take%20a%20comparably%20harsh%20approach%20to%20Chinese%20technology.%20Will%20the%20U.S.%20also%20have%20to%20stop%20Americans%20from%20downloading%20an%20app%20from%20a%20privately%20owned%20joint%20Cambodian%2FChinese%20company%3F%20Where%20exactly%20will%20these%20lines%20be%20drawn%3F)
+
+- [ ] [5.2: Proving Set Relationships - Mathematics LibreTexts](https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/Book%3A_Mathematical_Reasoning__Writing_and_Proof_(Sundstrom)/5%3A_Set_Theory/5.2%3A_Proving_Set_Relationships)
+
+- [ ] [Prize](https://fearlandrail9.live/5034155346/?u=1nup806&o=0wywy2l&t=k2Dr&f=1&sid=t3~hbu5nodr3thfv4b2cq5t3kdd&fp=rxnf2h35INjW1CPuL5aW%2Fa5zgZA2zOkIa%2BYusmnBYRw3jaat0ArX%2BCze6X7GdhIpcnMSFJ4vBKCj60W5eOenBcOzk2PjwXri0ZmC5IwPIdZLQTsgr8S14IoCgTcuge1tyd3%2B%2BxlFSEtvqIJQPBUcamMJJBJHoUSexDCcD4gLv9gUqlFvgDtqsUMVFytWXQOdv0bc40%2FoFN65s9%2BEQaEiT2S83aXzSd82SgEIAg%2F%2BLGixZ%2BFbFgy3spjYcQsJCWVCOOJkol5EyW9zb2rTaqq6Y9stJlC5Yx4Aur%2FwEJZUBqg9j8QI4G1fAPOSLyXMoRdywIyqKdWvQf7rfnQb75TjjX5k4DqBBCXshtc60n4P%2BlUgF3UZbEaPnX85NGZkiK2Wm7wp2HobAX0D3wLXEkuzItVSCiLvuKjiEZQMRCBm9efXh%2FIhrzcV1Jq1YCfG704S%2FuViv4Y6mXWBRdDUWCWjyb%2B7KJUqhHMZVheQRPOQ4VaKH2IYXkEqL2i3vZxVmKWWZ7MZAf5zlfMdfXMzYKah3KseGKWb%2Ba9GlFhVBIx9%2BZv5Utpw3NyCiEqX7QK%2FxAHP3lttEfNa9h2SRWVkA%2Fy3xOsV%2B1BKtRhiInLvGxCfOdF8Az%2BtSEBvYcB1RQE%2FiIPP1%2BQOpLnnG1bF726HO4blgGSc4yox1ViTVaafYGiCMLbCuxWXukxCg8oxJEJB%2Fze%2FAi4nfZZ%2BILRaelXsgc7nFHYKem8x83U5xLB%2FW%2Fy3eCYhiN7SEKbds%2FxOPQ%2Bv60OCDiSCJcCAPgywAvEEpge57U436BikErIHCfboNbjBuqOwgBIfmNC3jxuA58K35fRkkt9kNoqTAHL34wxYNPGam370uSQCqFq5CRLCmgRbLTV61FtuziiX9wrfSP8tiUb5cGWOT8wsIP3f9HqWl5RPOWGRK3hHFYZkyt6%2FJVbC%2FUjo6KYdctPDwd4sja0%2FUu%2BIKzyYYs2J%2B9dd%2BB6UvXz%2FIAEQSNyDaXzMIp1b%2B4HxEgQx6e18ICsSeLhJcicsTel4qKtYE6j9eaLRrAoSP0J8vnlT91JzL2BW5yZdzYA%2FZSDd0TZpYD1RAgXzQhOv3kx2aSAW8y%2BcgAI6oLlyafQ2pKhjuaUWGZtNjSjnt1%2F7nQHUtGY7ttewQFqppdOFV9CTBcuIu8D%2FI4TuwFS%2FGhXM3HrrS5flEschtu%2B6cK9d2zEePZLt16F7ymL1uHMioT3aYyHE0oNVCXJT29yh9l6MlJOVGPZuYtBXvZy707TZWqd%2FbtiT5lxn5U142lA6HpX4olF82upWwRNjqCdfn1aJybXKVilQd3LcWOKDhAq4VLgifZwKaEcZMmnoaotovQaQOQ%2FsWf9FFix5Lz1iLD5%2Fq5QkabLxrUt3gWIXKlKIR9iaB6vHH4DKvz%2BjKou5Vgtk9N2vSnWQuVJDluJinBnueh9BkIdpWXYoSoPGbvG7jGE%3D)
+
+- [ ] [Collecting Things Together: Sets | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-030-42218-9_1)
+
+- [ ] [Show that if A and B are sets, then a) A ⊕ B = B ⊕ A. b) (A ⊕ B) ⊕ B = A. :: Homework Help and Answers :: Slader](https://www.slader.com/discussion/question/show-that-if-a-and-b-are-sets-then-2/)
+
+- [ ] [discrete mathematics - Showing that (A⊕B)⊕B is equal to A - Mathematics Stack Exchange](https://math.stackexchange.com/questions/3077602/showing-that-a%E2%8A%95b%E2%8A%95b-is-equal-to-a)
+
+- [ ] [www.quora.com](https://www.quora.com/Let-A-B-and-C-be-sets-Prove-or-disprove-that-a-If-A-%E2%88%AA-C-B-%E2%88%AA-C-then-A-B-b-If-A-%E2%88%AA-C-B-%E2%88%AA-C-and-B-%E2%88%A9-C-A-%E2%88%A9-C-then-A-B-c-If-A-%E2%88%92-C-%E2%88%AA-C-%E2%88%92-A-B-%E2%88%92-C-%E2%88%AA-C-%E2%88%92-B-then-A-B-1)
+
+- [ ] [(216) Social Networks and Getting a Job: Mark Granovetter - YouTube](https://www.youtube.com/watch?v=g3bBajcR5fE)
+
+- [ ] [www.youtube.com](https://www.youtube.com/watch?v=qCfvEk28VRw)
+
+- [ ] [www.researchgate.net](https://www.researchgate.net/post/Infinite_Rational_Number_Set_has_more_elements_than_Infinite_Natural_Number_SetIs_anything_wrong)
+
+- [ ] [https://study.com/academy/lesson/equivalent-sets-definition-example.html](https://study.com/academy/lesson/equivalent-sets-definition-example.html)
+
+- [ ] [elementary set theory - cardinality and equivalent classes - Mathematics Stack Exchange](https://math.stackexchange.com/questions/3405723/cardinality-and-equivalent-classes)
+
+- [ ] [Equal and Equivalent Sets (Definition and Examples)](https://byjus.com/maths/equal-equivalent-sets/)
+
+- [ ] [Math Tutor - Extra - Sets and Mappings](http://math.feld.cvut.cz/mt/txtz/0/txe3za0c.htm)
+
+- [ ] [[PDF] CARDINALITY, COUNTABLE AND UNCOUNTABLE SETS PART ONE - Free Download PDF](https://silo.tips/download/cardinality-countable-and-uncountable-sets-part-one)
+
+- [ ] [Sets](http://discrete.openmathbooks.org/dmoi2/sec_intro-sets.html)
+
+- [ ] [a ⊕ b = b ⊕ a - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=a%20%E2%8A%95%20b%20%3D%20b%20%E2%8A%95%20a&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAB6BAhsEAE)
+
+- [ ] [a b ∩ c=(a b ∩(a+c)) - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=a%20b%20%E2%88%A9%20c%3D(a%20b%20%E2%88%A9(a%2Bc))&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAF6BAhsEAI)
+
+- [ ] [anthony giddens - Google Search](https://www.google.com/search?q=anthony%20giddens)
+
+- [ ] [can infinite gourp has a nontrivial abelain subgroup - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03izdQab3pFAw2Fz3ft24aOoEK94g%3A1600903539169&ei=c9lrX9fpCY3WmAWtxqewBQ&q=can+infinite+gourp+has+a+nontrivial+abelain+subgroup&oq=can+infinite+gourp+has+a+nontrivial+abelain+subgroup&gs_lcp=CgZwc3ktYWIQAzIHCCEQChCrAjIHCCEQChCrAjIHCCEQChCrAjoECAAQRzoHCCMQsAIQJ1D8IVjqK2D9LWgAcAF4AIABgwKIAfYLkgEFMC40LjSYAQCgAQGqAQdnd3Mtd2l6yAEEwAEB&sclient=psy-ab&ved=0ahUKEwiX75W2toDsAhUNK6YKHS3jCVYQ4dUDCA0&uact=5)
+
+- [ ] [chapter 3: set theory and logic - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=chapter%203%3A%20set%20theory%20and%20logic&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAB6BAhuEAE)
+
+- [ ] [David Reingold - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=David+Reingold&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4tVP1zc0TC8qy05KLizT0sgot9JPzs_JSU0uyczP009MTkxJzc1MLrbKyy9JTMpJVSguKU1JzStZxMrnkliWmaIQlJqZl56fk7KDlREAPz8yy1oAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoAzCLAXoECG4QBQ)
+
+- [ ] [definition of order of group - Google Search](https://www.google.com/search?q=definition%20of%20order%20of%20group)
+
+- [ ] [Divergence Theorem - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk036C5XlPfcegU83NyPa1f3g94RsTA%3A1600876966945&ei=pnFrX4ebOZ6Vr7wPpMyt0Ao&q=Divergence+Theorem&oq=Divergence+Theorem&gs_lcp=CgZwc3ktYWIQA1CDggFYzpcBYP2YAWgAcAF4AIAB-AGIAfgBkgEDMi0xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwiHhsa30__rAhWeyosBHSRmC6oQ4dUDCA0&uact=5)
+
+- [ ] [Drott - Google Search](https://www.google.com/search?q=Drott&oq=Drott&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Emilio J. Castilla - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Emilio+J.+Castilla&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4gIxkworysvMtTQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrEKueZm5mTmK3jpKTgnFpdk5uQk7mBlBAA72OL2WwAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoAjCLAXoECG4QBA)
+
+- [ ] [eric drott - Google Search](https://www.google.com/search?gs_ssp=eJzj4tFP1zc0zC2rzCjOzjZg9OJKLcpMVkgpyi8pAQBxBwjA&q=eric+drott&oq=&aqs=chrome.0.46j35i39l5j46j69i59.4282j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Eric Drott - Google Search](https://www.google.com/search?q=Eric%20Drott)
+
+- [ ] [flux calcluus - Google Search](https://www.google.com/search?q=flux+calcluus&oq=flux+calcluus&aqs=chrome..69i57j0l7.5263j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Georg Simmel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Georg+Simmel&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlU4gAxC_PSk7T4AlKLivPzgjNTUssTK4sXsfK4p-YXpSsEZ-bmpubsYGUEABklJGo5AAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wkQF6BAhqEAs)
+
+- [ ] [Getting a Job: A Study of Contacts and Careers - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Getting+a+Job:+A+Study+of+Contacts+and+Careers&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlU4tFP1zc0MskyMjIzLtMScCwtycgvCsl3ys_P9s_LqVzEqueeWlKSmZeukKjglZ9kpeCoEFxSmlKpkJ-m4JyfV5KYXFKskJiXouCcWJSaWlS8g5URAH6op3hhAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wjgF6BAhrEAY)
+
+- [ ] [grand judge pick - Google Search](https://www.google.com/search?q=grand+judge+pick&newwindow=1&sxsrf=ALeKk00uKCNrHVFLsBpbytJze6KntpSyaQ:1600927017903&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwi5lNrxjYHsAhWFdXAKHW_tAm8QpwV6BAhnEB0&biw=1366&bih=663)
+
+- [ ] [Harrison White - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Harrison+White&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlUAjOTc_KyirT4AlKLivPzgjNTUssTK4sXsfJ5JBYVZQKFFMIzMktSd7AyAgDmtIsbPAAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wkQF6BAhqEAU)
+
+- [ ] [Harvard University - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Harvard+University&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4gAzs4srtaSzk630C1LzC3JSgVRRcX6eVWpKaXJiSWZ-3iJWIY_EorLEohSF0LzMMqBsZknlDlZGAAv6hK5MAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoATCNAXoECGwQAw)
+
+- [ ] [if a=b = a c then b=c - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=if%20a%3Db%20%3D%20a%20c%20then%20b%3Dc&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAJ6BAhsEAM)
+
+- [ ] [In the Age of the Smart Machine - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk0063TiY_yEOUfAk08a3ZJXvtl9i5Q:1600916979648&q=In+the+Age+of+the+Smart+Machine&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVgKzzcpMTdPStAQcS0sy8otC8p3y87P983IqF7HKe-YplGSkKjimpyrkp4GZwbmJRSUKvonJGZl5qTtYGQF0xPXqUQAAAA&sa=X&ved=2ahUKEwi62Yu_6IDsAhVaVN4KHfAWDsIQxA0wjgF6BAhqEAY)
+
+- [ ] [In the Age of the Smart Machine - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01jS5X6NhJl5mwtqGRc1fAUii5Tvg:1600949588272&q=In+the+Age+of+the+Smart+Machine&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVgKzzcpMTdPStAQcS0sy8otC8p3y87P983IqF7HKe-YplGSkKjimpyrkp4GZwbmJRSUKvonJGZl5qTtYGQF0xPXqUQAAAA&sa=X&ved=2ahUKEwj4hYz84YHsAhU8yosBHUDyB0QQxA0wjQF6BAgHEAY)
+
+- [ ] [Ipse Dixit - Google Search](https://www.google.com/search?q=Ipse+Dixit&oq=Ipse+Dixit&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [John Goldmark - Google Search](https://www.google.com/search?q=John+Goldmark&oq=John+Goldmark&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Karl Polanyi - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Karl+Polanyi&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlUgjAtq8zTtPgCUouK8_OCM1NSyxMrixex8ngnFuUoBOTnJOZVZu5gZQQA6EriGzoAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wkQF6BAhqEAc)
+
+- [ ] [Kyle Devine - Google Search](https://www.google.com/search?q=Kyle+Devine&oq=Kyle+Devine&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Kyle Devine music - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk012LTIRndV01GLHkFPhT6rnCnkKXA:1600930895615&q=Kyle+Devine+music&sa=X&ved=2ahUKEwjT996qnIHsAhUFfXAKHSK7BH0Q1QIwcXoECHkQBA)
+
+- [ ] [Kyle Devine Musicology - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk012LTIRndV01GLHkFPhT6rnCnkKXA:1600930895615&q=Kyle+Devine+Musicology&sa=X&ved=2ahUKEwjT996qnIHsAhUFfXAKHSK7BH0Q1QIwcnoECHkQCA)
+
+- [ ] [Kyle Devine Oslo - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk012LTIRndV01GLHkFPhT6rnCnkKXA:1600930895615&q=Kyle+Devine+Oslo&sa=X&ved=2ahUKEwjT996qnIHsAhUFfXAKHSK7BH0Q1QIwcHoECHkQAg)
+
+- [ ] [Kyle Devine the Guardian - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk012LTIRndV01GLHkFPhT6rnCnkKXA:1600930895615&q=Kyle+Devine+the+Guardian&sa=X&ved=2ahUKEwjT996qnIHsAhUFfXAKHSK7BH0Q1QIwc3oECHkQBg)
+
+- [ ] [let a, b c be sets prove that a − c ∩ c − b ∅ - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=let%20a%2C%20b%20c%20be%20sets%20prove%20that%20a%20%E2%88%92%20c%20%E2%88%A9%20c%20%E2%88%92%20b%20%E2%88%85&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAV6BAhsEAY)
+
+- [ ] [let a, b c be sets prove that a − c ∩ c − b ∅ - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=let%20a%2C%20b%20c%20be%20sets%20prove%20that%20a%20%E2%88%92%20c%20%E2%88%A9%20c%20%E2%88%92%20b%20%E2%88%85&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAR6BAhuEAU)
+
+- [ ] [Mark Granovetter - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Mark+Granovetter&tbm=vid&source=univ&tbo=u&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQt8YBKAF6BAhyEEI)
+
+- [ ] [Mark Granovetter's planned book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA%3A1600936141275&ei=zVhsX_WxENH6-Qbkraxg&q=Mark+Granovetter%27s+planned+book)
+
+- [ ] [Mark Granovetter's planned book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02Qm1q40Wv26LVH2pjPLN_bJay9fg:1600936202448&source=univ&tbm=isch&q=Mark+Granovetter%27s+planned+book&sa=X&ved=2ahUKEwiSpp6NsIHsAhXQ-GEKHSwOAg8QjJkEegQIEhAB)
+
+- [ ] [Mark Mizruchi - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Mark+Mizruchi&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4tVP1zc0zDAriS8yjE_T0sgot9JPzs_JSU0uyczP009MTkxJzc1MLrbKyy9JTMpJVSguKU1JzStZxMrrm1iUreCbWVVUmpyRuYOVEQCb_tr_WQAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoBDCLAXoECG4QBg)
+
+- [ ] [mary douglas - Google Search](https://www.google.com/search?q=mary%20douglas)
+
+- [ ] [Natural Sciences,US & Canada - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Natural+Sciences,US+%26+Canada&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4gIxKwuzcuKNtWSzk630E8sTi1IgZHx5Zl5eapEVmFO8iFXGL7GktCgxRyE4OTM1Lzm1WCc0WEFNwTkxLzElcQcrIwBQ9-Y7WgAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoATCMAXoECG0QAw)
+
+- [ ] [perter blau - Google Search](https://www.google.com/search?q=perter%20blau)
+
+- [ ] [porpositinalforms and circuits - Google Search](https://www.google.com/search?q=porpositinalforms%20and%20circuits)
+
+- [ ] [prove that a union b union c - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=prove%20that%20a%20union%20b%20union%20c&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAN6BAhsEAQ)
+
+- [ ] [Psychological and Organizational Implications of Computer-mediated Work Shoshana Zuboff - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01jS5X6NhJl5mwtqGRc1fAUii5Tvg:1600949588272&q=Psychological+and+Organizational+Implications+of+Computer-mediated+Work+Shoshana+Zuboff&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVuLVT9c3NEwqTysrM8lK0RJwLC3JyC8KyXfKz8_2z8upXMQaHlBcmZyRn5OfnpmcmKOQmJei4F-UnpiXWZVYkpmfBxTyzC3IAcqBeMUK-WkKzvm5BaUlqUW6uakpmYklqSkK4flF2QrBGfnFGYl5iQpRpUn5aWk7WBkBwlr3q4wAAAA&sa=X&ved=2ahUKEwj4hYz84YHsAhU8yosBHUDyB0QQxA0wjQF6BAgHEAo&biw=1366&bih=663)
+
+- [ ] [Psychological and Organizational Implications of Computer-mediated Work Shoshana Zuboff - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk0063TiY_yEOUfAk08a3ZJXvtl9i5Q:1600916979648&q=Psychological+and+Organizational+Implications+of+Computer-mediated+Work+Shoshana+Zuboff&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVuLVT9c3NEwqTysrM8lK0RJwLC3JyC8KyXfKz8_2z8upXMQaHlBcmZyRn5OfnpmcmKOQmJei4F-UnpiXWZVYkpmfBxTyzC3IAcqBeMUK-WkKzvm5BaUlqUW6uakpmYklqSkK4flF2QrBGfnFGYl5iQpRpUn5aWk7WBkBwlr3q4wAAAA&sa=X&ved=2ahUKEwi62Yu_6IDsAhVaVN4KHfAWDsIQxA0wjgF6BAhqEAo)
+
+- [ ] [Ronald Breiger - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Ronald+Breiger&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4gIxk03i00zitTQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrHyBeXnJeakKDgVpWampxbtYGUEAJytst1XAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoATCLAXoECG4QAw)
+
+- [ ] [Ronald Breiger - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Ronald+Breiger&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlU4gIxk03i00zitfgCUouK8_OCM1NSyxMrixex8gXl5yXmpCg4FaVmpqcW7WBlBAAjXsP0PQAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wkQF6BAhqEAk)
+
+- [ ] [se the Divergence Theorem to calculate the surface integral S F · dS; that is, calculate the flux of F across S. F(x, y, z) = x2 sin(y)i + x cos(y)j − xz sin(y)k, S is the "fat sphere" x8 + y8 + z8 = 8. - Google Search](https://www.google.com/search?q=se+the+Divergence+Theorem+to+calculate+the+surface+integral+S+F+%C2%B7+dS%3B+that+is%2C+calculate+the+flux+of+F+across+S.+F(x%2C+y%2C+z)+%3D+x2+sin(y)i+%2B+x+cos(y)j+%E2%88%92+xz+sin(y)k%2C+S+is+the+%22fat+sphere%22+x8+%2B+y8+%2B+z8+%3D+8.&oq=se+the+Divergence+Theorem+to+calculate+the+surface+integral++%C2%A0++S+F+%C2%B7+dS%3B++that+is%2C+calculate+the+flux+of+F+across+S.+F(x%2C+y%2C+z)+%3D+x2+sin(y)i+%2B+x+cos(y)j+%E2%88%92+xz+sin(y)k%2C++S+is+the+%22fat+sphere%22++x8+%2B+y8+%2B+z8+%3D+8.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Shoshana Zuboff - Google Search](https://www.google.com/search?q=Shoshana+Zuboff&oq=Shoshana+Zuboff&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Shoshana Zuboff - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk0063TiY_yEOUfAk08a3ZJXvtl9i5Q:1600916979648&q=Shoshana+Zuboff&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVkJia0llJ1vpF6TmF-SkAqmi4vw8q-LMlNTyxMriRaz8wRn5xRmJeYkKUaVJ-WlpO1gZAUV4KtVLAAAA&sa=X&ved=2ahUKEwi62Yu_6IDsAhVaVN4KHfAWDsIQzTooATCRAXoECGsQAg)
+
+- [ ] [show that a intersection b = a intersection c - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=show%20that%20a%20intersection%20b%20%3D%20a%20intersection%20c&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAR6BAhsEAU)
+
+- [ ] [Society and Economy Mark Granovetter - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Society+and+Economy+Mark+Granovetter&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlU4tVP1zc0TDasyE3PyM3TEnAsLcnILwrJd8rPz_bPy6lcxKoSnJ-cmVpSqZCYl6Lgmpyfl59bqeCbWJSt4F6UmJdfllpSklq0g5URABDxF7hYAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wjgF6BAhrEAQ)
+
+- [ ] [Support Economy: Why Corporations Are Failing Individuals and the Next Episode of Capitalism Shoshana Zuboff - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01jS5X6NhJl5mwtqGRc1fAUii5Tvg:1600949588272&q=Support+Economy:+Why+Corporations+Are+Failing+Individuals+and+the+Next+Episode+of+Capitalism+Shoshana+Zuboff&stick=H4sIAAAAAAAAAA3LMQrCMBQAUEQKIgjiCT6OLmmLWHCrRcFFhwqCi6RN0kTT_JikYq_jKTyeXR-8yXgxJS2J01earevljDQkSarNXcRZ9ljN8y5IdBfcIT7PRvffSJedtegC7Gs02PZbuMoeCnQD0qDQeMgdhwNVWpkGjoapt2Id1R6oYRAkhxP_DN0qj4wDCiioVYFq5VsoJXpJDYVbV6EQv2j0B63zc5mhAAAA&sa=X&ved=2ahUKEwj4hYz84YHsAhU8yosBHUDyB0QQxA0wjQF6BAgHEAg)
+
+- [ ] [Support Economy: Why Corporations Are Failing Individuals and the Next Episode of Capitalism Shoshana Zuboff - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk0063TiY_yEOUfAk08a3ZJXvtl9i5Q:1600916979648&q=Support+Economy:+Why+Corporations+Are+Failing+Individuals+and+the+Next+Episode+of+Capitalism+Shoshana+Zuboff&stick=H4sIAAAAAAAAAA3LMQrCMBQAUEQKIgjiCT6OLmmLWHCrRcFFhwqCi6RN0kTT_JikYq_jKTyeXR-8yXgxJS2J01earevljDQkSarNXcRZ9ljN8y5IdBfcIT7PRvffSJedtegC7Gs02PZbuMoeCnQD0qDQeMgdhwNVWpkGjoapt2Id1R6oYRAkhxP_DN0qj4wDCiioVYFq5VsoJXpJDYVbV6EQv2j0B63zc5mhAAAA&sa=X&ved=2ahUKEwi62Yu_6IDsAhVaVN4KHfAWDsIQxA0wjgF6BAhqEAg)
+
+- [ ] [talcott parsons - Google Search](https://www.google.com/search?q=talcott%20parsons)
+
+- [ ] [The Age of Surveillance Capitalism - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01jS5X6NhJl5mwtqGRc1fAUii5Tvg:1600949588272&q=The+Age+of+Surveillance+Capitalism&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVuLVT9c3NEwzKDRPM7VM1xJwLC3JyC8KyXfKz8_2z8upXMSqFJKRquCYnqqQn6YQXFpUlpqZk5OYl5yq4JxYkFmSmJNZnLuDlREAkMqUT1cAAAA&sa=X&ved=2ahUKEwj4hYz84YHsAhU8yosBHUDyB0QQxA0wjQF6BAgHEAQ)
+
+- [ ] [The sociology of economic life pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02Qm1q40Wv26LVH2pjPLN_bJay9fg:1600936202448&q=The+sociology+of+economic+life+pdf&sa=X&ved=2ahUKEwiSpp6NsIHsAhXQ-GEKHSwOAg8Q1QIwbXoECGUQBA)
+
+- [ ] [The strength of weak ties PDF - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02Qm1q40Wv26LVH2pjPLN_bJay9fg:1600936202448&q=The+strength+of+weak+ties+PDF&sa=X&ved=2ahUKEwiSpp6NsIHsAhXQ-GEKHSwOAg8Q1QIwbnoECGUQAg)
+
+- [ ] [The strength of weak ties summary - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02Qm1q40Wv26LVH2pjPLN_bJay9fg:1600936202448&q=The+strength+of+weak+ties+summary&sa=X&ved=2ahUKEwiSpp6NsIHsAhXQ-GEKHSwOAg8Q1QIwb3oECGUQBg)
+
+- [ ] [Use the Divergence Theorem to calculate the surface integral S F · dS; that is, calculate the flux of F across S. F(x, y, z) = x2 sin(y)i + x cos(y)j − xz sin(y)k, S is the "fat sphere" x8 + y8 + z8 = 8. - Google Search](https://www.google.com/search?q=Use+the+Divergence+Theorem+to+calculate+the+surface+integral+S+F+%C2%B7+dS%3B+that+is%2C+calculate+the+flux+of+F+across+S.+F(x%2C+y%2C+z)+%3D+x2+sin(y)i+%2B+x+cos(y)j+%E2%88%92+xz+sin(y)k%2C+S+is+the+%22fat+sphere%22+x8+%2B+y8+%2B+z8+%3D+8.&oq=Use+the+Divergence+Theorem+to+calculate+the+surface+integral+S+F+%C2%B7+dS%3B+that+is%2C+calculate+the+flux+of+F+across+S.+F(x%2C+y%2C+z)+%3D+x2+sin(y)i+%2B+x+cos(y)j+%E2%88%92+xz+sin(y)k%2C+S+is+the+%22fat+sphere%22+x8+%2B+y8+%2B+z8+%3D+8.&aqs=chrome..69i57.699j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [What is the strength of weak ties one example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02Qm1q40Wv26LVH2pjPLN_bJay9fg:1600936202448&q=What+is+the+strength+of+weak+ties+one+example&sa=X&ved=2ahUKEwiSpp6NsIHsAhXQ-GEKHSwOAg8Q1QIwcHoECGUQCA)
+
+- [ ] [Xavier Briggs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Xavier+Briggs&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlU4gIxTQyNDYostfgCUouK8_OCM1NSyxMrixex8kYklmWmFik4FWWmpxfvYGUEALbf3mQ8AAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wkQF6BAhqEA0)
+
+- [ ] [HW 16.9 - Math 233, section 07, Fall 2020 | WebAssign](https://www.webassign.net/web/Student/Assignment-Responses/last?dep=24562705#Q6)
+
+- [ ] [circuit symbol - Google Search](https://www.google.com/search?q=circuit+symbol&newwindow=1&sxsrf=ALeKk01myzCCiDr0BEfBfOfps1qaXuosKw:1600991882521&tbm=isch&source=iu&ictx=1&fir=TnhZPkbJuYTpCM%252CgKMX-6La3yTrpM%252C_&vet=1&usg=AI4_-kRNXq8YwsSATJU0H9lyRIrbRWPfBQ&sa=X&ved=2ahUKEwi-iMjD_4LsAhV1xosBHbukA0wQ_h16BAgEEAU#imgrc=TnhZPkbJuYTpCM)
+
+- [ ] [Xor gate - Google Search](https://www.google.com/search?q=Xor+gate&oq=Xor+gate&aqs=chrome..69i57j0l7.2351j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [XOR gate - Wikipedia](https://en.wikipedia.org/wiki/XOR_gate)
+
+- [ ] [Cardinality - Wikipedia](https://en.wikipedia.org/wiki/Cardinality)
+
+- [ ] [Flux - Wikipedia](https://en.wikipedia.org/wiki/Flux)
+
+- [ ] [Order (group theory) - Wikipedia](https://en.wikipedia.org/wiki/Order_(group_theory))
+
+- [ ] [Peter J. Goldmark - Wikipedia](https://en.wikipedia.org/wiki/Peter_J._Goldmark)
+
+- [ ] [Stay Woke: The Black Lives Matter Movement - Wikipedia](https://en.wikipedia.org/wiki/Stay_Woke:_The_Black_Lives_Matter_Movement)
+
+- [ ] [High Court (Hong Kong) - Wikipedia](https://en.wikipedia.org/wiki/High_Court_(Hong_Kong))
+
+- [ ] [Justin R. Walker - Wikipedia](https://en.wikipedia.org/wiki/Justin_R._Walker)
+
+- [ ] [Mark Granovetter - Wikipedia](https://en.wikipedia.org/wiki/Mark_Granovetter)
+
+- [ ] [Propositional formula - Wikipedia](https://en.wikipedia.org/wiki/Propositional_formula)
+
+- [ ] [资料整理：形码输入法](https://facaiy.com/life/2016/08/15/cangjie_simplified_chinese.html)
+
+- [ ] [閎字输入法查询|閎字怎么打|五笔|拼音|笔划|郑码|四角码|仓颉_在线字典_快学网](http://zidian.kxue.com/zi/hong70_shurufa.html)
+
+- [ ] [如何学会仓颉输入法？ - 知乎](https://www.zhihu.com/question/54259090/answer/379574093)
+
+- [ ] [识繁写简，五笔熟练的前提下，怎样学仓颉输入法？ - 知乎](https://www.zhihu.com/question/20477983)
+
+- [ ] [健心家园正念中心](http://s.nongjia888.com/m/topic/1303661.shtml?amp=1)
+
+- [ ] [您的訪問請求無法驗證通過](https://kknews.cc/challenge.html)
+
+- [ ] [想要更愉快地做笔记，怎么离得开双拼呢？-看点快报](https://kuaibao.qq.com/s/20180615A1JXHH00?refer=spider)
+
+- [ ] [自制五笔1500常用字分享 - Anki - 掌上百科 - PDAWIKI - Powered by Discuz!](https://www.pdawiki.com/forum/thread-35919-1-1.html)
+
+- [ ] [上海 宝山区 友谊路 邮政编码 - Google Search](https://www.google.com/search?q=%E4%B8%8A%E6%B5%B7+%E5%AE%9D%E5%B1%B1%E5%8C%BA+%E5%8F%8B%E8%B0%8A%E8%B7%AF+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81&oq=%E5%AE%9D%E5%B1%B1%E5%8C%BA++%E5%8F%8B%E8%B0%8A%E8%B7%AF&aqs=chrome.1.69i57j0.17161j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [魔方公寓(友谊路店) - 百度地图](https://map.baidu.com/search/%E9%AD%94%E6%96%B9%E5%85%AC%E5%AF%93(%E5%8F%8B%E8%B0%8A%E8%B7%AF%E5%BA%97)/@13519031.31268039,3661465.6006,19z?querytype=s&da_src=shareurl&wd=%E9%AD%94%E6%96%B9%E5%85%AC%E5%AF%93(%E5%8F%8B%E8%B0%8A%E8%B7%AF%E5%BA%97)&c=161&src=0&wd2=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%AE%9D%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=10&b=(13358512.82,3707034.564107143;13552970.237857144,3801416.1658928576)&from=webmap&biz_forward=%7B%22scaler%22:1,%22styles%22:%22pl%22%7D&sug_forward=eda417b146952ffff7b91646&device_ratio=1)
+
+- [ ] [show that two finie set with different cardinity can not be equivalent - Google Search](https://www.google.com/search?q=show+that+two+finie+set+with+different+cardinity+can+not+be+equivalent&oq=show+that+two+finie+set+with+different+cardinity+can+not+be+equivalent&aqs=chrome..69i57.12944j0j1&sourceid=chrome&ie=UTF-8)

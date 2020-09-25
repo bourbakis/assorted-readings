@@ -165,3 +165,64 @@
 - [ ] [Untitled - week8.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://links.uwaterloo.ca/amath231docs/week8.pdf)
 
 - [ ] [VC5IntSup - IS_PracticeFinalSolutions.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.math.ucsd.edu/~rmosinca/20e/IS_PracticeFinalSolutions.pdf)
+
+
+## 9/25/2020
+
+- [ ] [19-Memoirs-03-Parfit.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.thebritishacademy.ac.uk/documents/890/19-Memoirs-03-Parfit.pdf)
+
+- [ ] [3103_handout_7.dvi - 3103_handout_7.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.ucl.ac.uk/~ucahad0/3103_handout_7.pdf)
+
+- [ ] [Answer all questions - Practice Test 1.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://users.cs.jmu.edu/aboutams/Web/DiscreteMath/Fall03/Lecture%20Notes/Practice%20Test%201.pdf)
+
+- [ ] [cauchyapp.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://kconrad.math.uconn.edu/blurbs/grouptheory/cauchyapp.pdf)
+
+- [ ] [cauchypf.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://kconrad.math.uconn.edu/blurbs/grouptheory/cauchypf.pdf)
+
+- [ ] [Chapter 2. Topological spaces - Proofs covered in class - proofs2.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.maths.tcd.ie/~pete/ma2223/proofs2.pdf)
+
+- [ ] [Chapter 2. Topological spaces - Proofs covered in class - proofs2.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.maths.tcd.ie/~pete/ma2223/proofs2.pdf)
+
+- [ ] [COVID-19 herd immunity in the Brazilian Amazon - 2020.09.16.20194787v1.full.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.medrxiv.org/content/10.1101/2020.09.16.20194787v1.full.pdf)
+
+- [ ] [CSE 215: Foundations of Computer Science - (Propositional Logic) - CSE215-PropositionalLogic.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/CSE215/CSE215-PropositionalLogic.pdf)
+
+- [ ] [CSI2101 Discrete Structures Winter 2009: Propositional Logic: normal forms, boolean functions and circuit design - 02PropositionalLogic.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.site.uottawa.ca/~lucia/courses/2101-09/classnotes/02PropositionalLogic.pdf)
+
+- [ ] [Equivalent Sets - 310equivalentsets6.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.math.wustl.edu/~freiwald/310equivalentsets6.pdf)
+
+- [ ] [examples_for_chapter_one.DVI - examples_for_chapter_one.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://users.rowan.edu/~hassen/realAnal/examples_for_chapter_one.pdf)
+
+- [ ] [Homework_4_sol1.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.hanbommoon.net/wp-content/uploads/2015/08/Homework_4_sol1.pdf)
+
+- [ ] [HW_Sep_5_sols.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www2.hawaii.edu/~robertop/Courses/Math_431/Handouts/HW_Sep_5_sols.pdf)
+
+- [ ] [hw5sol.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.math.utah.edu/~emina/teaching/431/hw5sol.pdf)
+
+- [ ] [Infinite Cardinality.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.math.cmu.edu/~mradclif/teaching/127S19/Notes/Infinite%20Cardinality.pdf)
+
+- [ ] [lec-prop-logic - lec-prop-logic.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cs.unm.edu/~saia/classes/261-s19/lec/lec-prop-logic.pdf)
+
+- [ ] [lecture11.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www-math.ucdenver.edu/~wcherowi/courses/m3000/lecture11.pdf)
+
+- [ ] [logicsetsproof.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.amherst.edu/system/files/media/0397/logicsetsproof.pdf)
+
+- [ ] [May2.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://math.berkeley.edu/~limath/Sp14Math53/May2.pdf)
+
+- [ ] [Proof-and-Reasoning.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.birmingham.ac.uk/Documents/college-eps/college/stem/Student-Summer-Education-Internships/Proof-and-Reasoning.pdf)
+
+- [ ] [raf02txt.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://math.fau.edu/schonbek/realan/raf02txt.pdf)
+
+- [ ] [Recitation-23-Solutions.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://math.mit.edu/~varul/F17-18.02/Recitation-23-Solutions.pdf)
+
+- [ ] [Relation.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.math.ust.hk/~mabfchen/Math2343/Relation.pdf)
+
+- [ ] [section04-solutions.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://courses.cs.washington.edu/courses/cse311/14au/section/section04-solutions.pdf)
+
+- [ ] [section2-3.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.maths.nuigalway.ie/~rquinlan/MA180calculus/section2-3.pdf)
+
+- [ ] [SetQuestions260118.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.math.uvic.ca/faculty/gmacgill/LFNotes/SetQuestions260118.pdf)
+
+- [ ] [Solution 8.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://sites.ualberta.ca/~csproat/Homework/MATH%20215/Solution%208.pdf)
+
+- [ ] [Week13-14.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.math.ust.hk/~mabfchen/Math2721/Week13-14.pdf)
