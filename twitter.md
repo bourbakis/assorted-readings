@@ -1,4 +1,76 @@
-## 9/28/2019
+## 9/25/2020
+
+- [ ] [(1) #ios14homescreen - Recherche sur Twitter / Twitter](https://twitter.com/hashtag/ios14homescreen?mc_cid=f70e315279&mc_eid=6dcf339179)
+
+- [ ] [(1) Dominik Moritzさん (@domoritz) / Twitter](https://twitter.com/domoritz)
+
+- [ ] [Jeff Dean (@🏡) sur Twitter : "Nice thread by @Luke_Metz summarizing new work on learned optimizers." / Twitter](https://twitter.com/JeffDean/status/1308982810540232704?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email)
+
+- [ ] [https://twitter.com/jon_prosser](https://twitter.com/jon_prosser)
+
+- [ ] [https://twitter.com/LeaksApplePro](https://twitter.com/LeaksApplePro)
+
+- [ ] [(1) Kim Reece (@feonixrift) / Twitter](https://twitter.com/feonixrift)
+
+- [ ] [(1) Math Counterexamplesさん (@MathCounterexam) / Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.mathcounterexamples.net%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=MathCounterexam&tw_p=followbutton)
+
+- [ ] [(1) Profil / Twitter](https://twitter.com/lifeformed)
+
+- [ ] [(1) Robert Kosara 👁📺さんはTwitterを使っています 「AI all the things!」 / Twitter](https://twitter.com/eagereyes/status/1307002515238526976)
+
+- [ ] [https://twitter.com/SteveJLyon](https://twitter.com/SteveJLyon)
+
+- [ ] [https://twitter.com/vprystaiko/status/1199725757762850819?lang=en](https://twitter.com/vprystaiko/status/1199725757762850819?lang=en)
+
+- [ ] [https://twitter.com/VPrystaiko/status/1199725757762850819?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1199725757762850819%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.fastcompany.com%2F90456530%2Fapple-has-a-vladimir-putin-problem](https://twitter.com/VPrystaiko/status/1199725757762850819?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1199725757762850819%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.fastcompany.com%2F90456530%2Fapple-has-a-vladimir-putin-problem)
+
+- [ ] [https://twitter.com/AlbertoCairo/status/1309248621980848135](https://twitter.com/AlbertoCairo/status/1309248621980848135)
+
+- [ ] [https://twitter.com/gameism](https://twitter.com/gameism)
+
+- [ ] [https://twitter.com/i/connect_people?user_id=4062791](https://twitter.com/i/connect_people?user_id=4062791)
+
+- [ ] [https://twitter.com/i/connect_people?user_id=732996606](https://twitter.com/i/connect_people?user_id=732996606)
+
+- [ ] [https://twitter.com/jermdemo](https://twitter.com/jermdemo)
+
+- [ ] [https://twitter.com/jermth](https://twitter.com/jermth)
+
+- [ ] [https://twitter.com/letsgetmathing](https://twitter.com/letsgetmathing)
+
+- [ ] [https://twitter.com/logicfall](https://twitter.com/logicfall)
+
+- [ ] [https://twitter.com/MazzucatoM](https://twitter.com/MazzucatoM)
+
+- [ ] [https://twitter.com/MrDraperMaths](https://twitter.com/MrDraperMaths)
+
+- [ ] [https://twitter.com/QuotableMath](https://twitter.com/QuotableMath)
+
+- [ ] [https://twitter.com/shoshanazuboff](https://twitter.com/shoshanazuboff)
+
+- [ ] [https://twitter.com/STEMLearning_MA](https://twitter.com/STEMLearning_MA)
+
+- [ ] [https://twitter.com/SteveJLyon](https://twitter.com/SteveJLyon)
+
+- [ ] [https://twitter.com/suffolkmaths](https://twitter.com/suffolkmaths)
+
+- [ ] [https://twitter.com/superwuster/status/1225994260991938564?s=21](https://twitter.com/superwuster/status/1225994260991938564?s=21)
+
+- [ ] [https://twitter.com/tisimpson](https://twitter.com/tisimpson)
+
+- [ ] [https://twitter.com/tygerpoo](https://twitter.com/tygerpoo)
+
+- [ ] [https://twitter.com/VPrystaiko?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1199725757762850819%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.fastcompany.com%2F90456530%2Fapple-has-a-vladimir-putin-problem](https://twitter.com/VPrystaiko?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1199725757762850819%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.fastcompany.com%2F90456530%2Fapple-has-a-vladimir-putin-problem)
+
+- [ ] [https://twitter.com/jjarmoc](https://twitter.com/jjarmoc)
+
+- [ ] [https://twitter.com/kyledevinephd?lang=en](https://twitter.com/kyledevinephd?lang=en)
+
+- [ ] [https://twitter.com/home](https://twitter.com/home)
+
+- [ ] [https://twitter.com/intent/follow?screen_name=alexrossmusic](https://twitter.com/intent/follow?screen_name=alexrossmusic)
+
+- [ ] [https://twitter.com/home](https://twitter.com/home)## 9/28/2019
 
 
 
@@ -1305,3 +1377,79 @@ https://twitter.com/glenweyl
 https://twitter.com/ProfTortuga
 
 https://twitter.com/hamandcheese	
+
+
+
+## 9/25/2020
+
+- [ ] [(1) #ios14homescreen - Recherche sur Twitter / Twitter](https://twitter.com/hashtag/ios14homescreen?mc_cid=f70e315279&mc_eid=6dcf339179)
+
+- [ ] [(1) Dominik Moritzさん (@domoritz) / Twitter](https://twitter.com/domoritz)
+
+- [ ] [Jeff Dean (@🏡) sur Twitter : "Nice thread by @Luke_Metz summarizing new work on learned optimizers." / Twitter](https://twitter.com/JeffDean/status/1308982810540232704?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email)
+
+- [ ] [https://twitter.com/jon_prosser](https://twitter.com/jon_prosser)
+
+- [ ] [https://twitter.com/LeaksApplePro](https://twitter.com/LeaksApplePro)
+
+- [ ] [(1) Kim Reece (@feonixrift) / Twitter](https://twitter.com/feonixrift)
+
+- [ ] [(1) Math Counterexamplesさん (@MathCounterexam) / Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.mathcounterexamples.net%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=MathCounterexam&tw_p=followbutton)
+
+- [ ] [(1) Profil / Twitter](https://twitter.com/lifeformed)
+
+- [ ] [(1) Robert Kosara 👁📺さんはTwitterを使っています 「AI all the things!」 / Twitter](https://twitter.com/eagereyes/status/1307002515238526976)
+
+- [ ] [https://twitter.com/SteveJLyon](https://twitter.com/SteveJLyon)
+
+- [ ] [https://twitter.com/vprystaiko/status/1199725757762850819?lang=en](https://twitter.com/vprystaiko/status/1199725757762850819?lang=en)
+
+- [ ] [https://twitter.com/VPrystaiko/status/1199725757762850819?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1199725757762850819%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.fastcompany.com%2F90456530%2Fapple-has-a-vladimir-putin-problem](https://twitter.com/VPrystaiko/status/1199725757762850819?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1199725757762850819%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.fastcompany.com%2F90456530%2Fapple-has-a-vladimir-putin-problem)
+
+- [ ] [https://twitter.com/AlbertoCairo/status/1309248621980848135](https://twitter.com/AlbertoCairo/status/1309248621980848135)
+
+- [ ] [https://twitter.com/gameism](https://twitter.com/gameism)
+
+- [ ] [https://twitter.com/i/connect_people?user_id=4062791](https://twitter.com/i/connect_people?user_id=4062791)
+
+- [ ] [https://twitter.com/i/connect_people?user_id=732996606](https://twitter.com/i/connect_people?user_id=732996606)
+
+- [ ] [https://twitter.com/jermdemo](https://twitter.com/jermdemo)
+
+- [ ] [https://twitter.com/jermth](https://twitter.com/jermth)
+
+- [ ] [https://twitter.com/letsgetmathing](https://twitter.com/letsgetmathing)
+
+- [ ] [https://twitter.com/logicfall](https://twitter.com/logicfall)
+
+- [ ] [https://twitter.com/MazzucatoM](https://twitter.com/MazzucatoM)
+
+- [ ] [https://twitter.com/MrDraperMaths](https://twitter.com/MrDraperMaths)
+
+- [ ] [https://twitter.com/QuotableMath](https://twitter.com/QuotableMath)
+
+- [ ] [https://twitter.com/shoshanazuboff](https://twitter.com/shoshanazuboff)
+
+- [ ] [https://twitter.com/STEMLearning_MA](https://twitter.com/STEMLearning_MA)
+
+- [ ] [https://twitter.com/SteveJLyon](https://twitter.com/SteveJLyon)
+
+- [ ] [https://twitter.com/suffolkmaths](https://twitter.com/suffolkmaths)
+
+- [ ] [https://twitter.com/superwuster/status/1225994260991938564?s=21](https://twitter.com/superwuster/status/1225994260991938564?s=21)
+
+- [ ] [https://twitter.com/tisimpson](https://twitter.com/tisimpson)
+
+- [ ] [https://twitter.com/tygerpoo](https://twitter.com/tygerpoo)
+
+- [ ] [https://twitter.com/VPrystaiko?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1199725757762850819%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.fastcompany.com%2F90456530%2Fapple-has-a-vladimir-putin-problem](https://twitter.com/VPrystaiko?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1199725757762850819%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.fastcompany.com%2F90456530%2Fapple-has-a-vladimir-putin-problem)
+
+- [ ] [https://twitter.com/jjarmoc](https://twitter.com/jjarmoc)
+
+- [ ] [https://twitter.com/kyledevinephd?lang=en](https://twitter.com/kyledevinephd?lang=en)
+
+- [ ] [https://twitter.com/home](https://twitter.com/home)
+
+- [ ] [https://twitter.com/intent/follow?screen_name=alexrossmusic](https://twitter.com/intent/follow?screen_name=alexrossmusic)
+
+- [ ] [https://twitter.com/home](https://twitter.com/home)
