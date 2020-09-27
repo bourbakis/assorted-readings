@@ -512,3 +512,85 @@
 - [ ] [Refining value-at-risk estimates using a Bayesian Markov-switching GJR-GARCH copula-EVT model - file](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0198753&type=printable)
 
 - [ ] [revised.dvi - evt-garch.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://statmath.wu.ac.at/people/frey/publications/evt-garch.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 9/27/2020
+
+- [ ] [amsbook.mac.tex - Chapter3.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter3.pdf)
+
+- [ ] [BondyMurtyGTWA.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.zib.de/groetschel/teaching/WS1314/BondyMurtyGTWA.pdf)
+
+- [ ] [ch.dvi - ch04.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://infolab.stanford.edu/~ullman/focs/ch04.pdf)
+
+- [ ] [Chapter 10.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Chapter%2010.pdf)
+
+- [ ] [Chapter 11.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Chapter%2011.pdf)
+
+- [ ] [Chapter 5.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Chapter%205.pdf)
+
+- [ ] [Chapter 6-1.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Chapter%206-1.pdf)
+
+- [ ] [Chapter 6-2.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Chapter%206-2.pdf)
+
+- [ ] [Chapter 7.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Chapter%207.pdf)
+
+- [ ] [Chapter 8.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Chapter%208.pdf)
+
+- [ ] [Chapter 9.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Chapter%209.pdf)
+
+- [ ] [combinatoricsclassicproblems.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://herbert-mueller.info/uploads/3/5/2/3/35235984/combinatoricsclassicproblems.pdf)
+
+- [ ] [counting.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://dept.stat.lsa.umich.edu/~ionides/425/notes/counting.pdf)
+
+- [ ] [Diestel: Graph Theory - DiestelGT.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.esi2.us.es/~mbilbao/pdffiles/DiestelGT.pdf)
+
+- [ ] [discmath_dvi - dm-gcomb](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://sites.math.northwestern.edu/~mlerma/courses/cs310-05s/notes/dm-gcomb)
+
+- [ ] [discmath_dvi - dm-gcomb](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://sites.math.northwestern.edu/~mlerma/courses/cs310-05s/notes/dm-gcomb)
+
+- [ ] [examples_chapter06.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics.skku.ac.kr/xe/general_physics_study/Ch6/examples_chapter06.pdf)
+
+- [ ] [Extremal Graph Theory - notes.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.math.tau.ac.il/~asafico/ext-graph-theory/notes.pdf)
+
+- [ ] [FINAL-Q4-18-Shareholder-Letter.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://q4live.s22.clientfiles.s3-website-us-east-1.amazonaws.com/959853165/files/doc_financials/quarterly_reports/2018/q4/01/FINAL-Q4-18-Shareholder-Letter.pdf)
+
+- [ ] [kombinatoriikka.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://research.cs.queensu.ca/home/cisc203/moni/kombinatoriikka.pdf)
+
+- [ ] [kombinatoriikka.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://research.cs.queensu.ca/home/cisc203/moni/kombinatoriikka.pdf)
+
+- [ ] [Lecture Notes 2: Counting 101 - MITHFH_lecturenotes_2.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://ocw.mit.edu/high-school/mathematics/combinatorics-the-fine-art-of-counting/lecture-notes/MITHFH_lecturenotes_2.pdf)
+
+- [ ] [Microsoft PowerPoint - chapter5_Phys201_Summer07.ppt - chapter5_Phys201_Summer07.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.fmt.if.usp.br/~luisdias/Teaching/chapter5_Phys201_Summer07.pdf)
+
+- [ ] [mth202.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://home.iitk.ac.in/~arlal/book/mth202.pdf)
+
+- [ ] [P170AFall14exam1solns.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.phys.hawaii.edu/~morse/P170AFall14exam1solns.pdf)
+
+- [ ] [pcv.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://webpages.uncc.edu/ghetyei/courses/old/S19.3166/pcv.pdf)
+
+- [ ] [Physics 17 _________________________ _______________________ - Problems 11.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Problems%2011.pdf)
+
+- [ ] [Physics 23 Exam 2 October 14, 2013 Dr - Problems 5-7.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Problems%205-7.pdf)
+
+- [ ] [Problems 8-9-10.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://physics23.com/Problems%208-9-10.pdf)
+
+- [ ] [script.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.math.kit.edu/iag6/lehre/co2015s/media/script.pdf)
+
+- [ ] [section22.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://faculty.atu.edu/mfinan/3153/section22.pdf)
+
+- [ ] [Syllabus_MOD3.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://s3.amazonaws.com/thinkific/file_uploads/170860/attachments/7f2/cb8/3de/Syllabus_MOD3.pdf)
+
+- [ ] [Unit5-Review-CircularMotion-Solution.jnt - circular motion review key.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.wsfcs.k12.nc.us/cms/lib/NC01001395/Centricity/Domain/7743/circular%20motion%20review%20key.pdf)
+
+- [ ] [Unit5-Review-CircularMotion-Solution.jnt - circular motion review key.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.wsfcs.k12.nc.us/cms/lib/NC01001395/Centricity/Domain/7743/circular%20motion%20review%20key.pdf)
