@@ -47,3 +47,9 @@
 - [ ] [第二波疫情 - 搜索结果 - 知乎](https://www.zhihu.com/search?q=%E7%AC%AC%E4%BA%8C%E6%B3%A2%E7%96%AB%E6%83%85&utm_content=search_hot&utm_medium=organic&utm_source=zhihu&type=content)
 
 - [ ] [超市的条形码扫描仪是什么原理？ - 知乎](https://www.zhihu.com/question/19977614)
+
+## 9/25/2020
+
+- [ ] [(62 封私信 / 20 条消息) 识繁写简，五笔熟练的前提下，怎样学仓颉输入法？ - 知乎](https://www.zhihu.com/question/20477983)
+
+- [ ] [(62 封私信 / 22 条消息) 如何学会仓颉输入法？ - 知乎](https://www.zhihu.com/question/54259090/answer/379574093)

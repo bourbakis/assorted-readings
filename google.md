@@ -619,3 +619,149 @@
 - [ ] [xor function neural network - Google Search](https://www.google.com/search?q=xor%20function%20neural%20network)
 
 - [ ] [鼠标过于敏感怎么办 - Google Search](https://www.google.com/search?q=%E9%BC%A0%E6%A0%87%E8%BF%87%E4%BA%8E%E6%95%8F%E6%84%9F%E6%80%8E%E4%B9%88%E5%8A%9E)
+
+## 9/26/2020
+
+- [ ] [a ⊕ b = b ⊕ a - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=a%20%E2%8A%95%20b%20%3D%20b%20%E2%8A%95%20a&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAB6BAhsEAE)
+
+- [ ] [A 40-kg passenger is moving in a gondola of a Ferris Wheel whose radius is 4 m. What would have to be the wheel’s rotational speed in RPM in order that the passenger’s apparent weight be 300 N at the top of the wheel? - Google Search](https://www.google.com/search?q=A+40-kg+passenger+is+moving+in+a+gondola+of+a+Ferris+Wheel+whose+radius+is+4+m.+What+would+have+to+be+the+wheel%E2%80%99s+rotational+speed+in+RPM+in+order+that+the+passenger%E2%80%99s+apparent+weight+be+300+N+at+the+top+of+the+wheel%3F&oq=A+40-kg+passenger+is+moving+in+a+gondola+of+a+Ferris+Wheel+whose+radius+is+4+m.++What+would+have+to+be+the+wheel%E2%80%99s+rotational+speed+in+RPM+in+order+that+the+passenger%E2%80%99s+apparent+weight+be+300+N+at+the+top+of+the+wheel%3F&aqs=chrome..69i57j35i39l7.794j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [a b ∩ c=(a b ∩(a+c)) - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=a%20b%20%E2%88%A9%20c%3D(a%20b%20%E2%88%A9(a%2Bc))&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAF6BAhsEAI)
+
+- [ ] [A machine is outputting 15 horsepower. How much work (in mega-joules) does it do in 30 minutes - Google Search](https://www.google.com/search?q=A+machine+is+outputting+15+horsepower.+How+much+work+(in+mega-joules)+does+it+do+in+30+minutes&oq=A+machine+is+outputting+15+horsepower.+How+much+work+(in+mega-joules)+does+it+do+in+30+minutes&aqs=chrome..69i57j69i64.720j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [anthony giddens - Google Search](https://www.google.com/search?q=anthony%20giddens)
+
+- [ ] [can infinite gourp has a nontrivial abelain subgroup - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk03izdQab3pFAw2Fz3ft24aOoEK94g%3A1600903539169&ei=c9lrX9fpCY3WmAWtxqewBQ&q=can+infinite+gourp+has+a+nontrivial+abelain+subgroup&oq=can+infinite+gourp+has+a+nontrivial+abelain+subgroup&gs_lcp=CgZwc3ktYWIQAzIHCCEQChCrAjIHCCEQChCrAjIHCCEQChCrAjoECAAQRzoHCCMQsAIQJ1D8IVjqK2D9LWgAcAF4AIABgwKIAfYLkgEFMC40LjSYAQCgAQGqAQdnd3Mtd2l6yAEEwAEB&sclient=psy-ab&ved=0ahUKEwiX75W2toDsAhUNK6YKHS3jCVYQ4dUDCA0&uact=5)
+
+- [ ] [chapter 3: set theory and logic - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=chapter%203%3A%20set%20theory%20and%20logic&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAB6BAhuEAE)
+
+- [ ] [circuit symbol - Google Search](https://www.google.com/search?q=circuit+symbol&newwindow=1&sxsrf=ALeKk01myzCCiDr0BEfBfOfps1qaXuosKw:1600991882521&tbm=isch&source=iu&ictx=1&fir=TnhZPkbJuYTpCM%252CgKMX-6La3yTrpM%252C_&vet=1&usg=AI4_-kRNXq8YwsSATJU0H9lyRIrbRWPfBQ&sa=X&ved=2ahUKEwi-iMjD_4LsAhV1xosBHbukA0wQ_h16BAgEEAU#imgrc=TnhZPkbJuYTpCM)
+
+- [ ] [COUNTRIES AND TECH COMPANIES ARE ENGAGED IN A STRUGGLE TO DEFINE HOW SOVEREIGNTY APPLIES TO THE INTERNET. - Google Search](https://www.google.com/search?q=COUNTRIES+AND+TECH+COMPANIES+ARE+ENGAGED+IN+A+STRUGGLE+TO+DEFINE+HOW+SOVEREIGNTY+APPLIES+TO+THE+INTERNET.&oq=COUNTRIES+AND+TECH+COMPANIES+ARE+ENGAGED+IN+A+STRUGGLE+TO+DEFINE+HOW+SOVEREIGNTY+APPLIES+TO+THE+INTERNET.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [David Reingold - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=David+Reingold&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4tVP1zc0TC8qy05KLizT0sgot9JPzs_JSU0uyczP009MTkxJzc1MLrbKyy9JTMpJVSguKU1JzStZxMrnkliWmaIQlJqZl56fk7KDlREAPz8yy1oAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoAzCLAXoECG4QBQ)
+
+- [ ] [definition of order of group - Google Search](https://www.google.com/search?q=definition%20of%20order%20of%20group)
+
+- [ ] [Divergence Theorem - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk036C5XlPfcegU83NyPa1f3g94RsTA%3A1600876966945&ei=pnFrX4ebOZ6Vr7wPpMyt0Ao&q=Divergence+Theorem&oq=Divergence+Theorem&gs_lcp=CgZwc3ktYWIQA1CDggFYzpcBYP2YAWgAcAF4AIAB-AGIAfgBkgEDMi0xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwiHhsa30__rAhWeyosBHSRmC6oQ4dUDCA0&uact=5)
+
+- [ ] [Drott - Google Search](https://www.google.com/search?q=Drott&oq=Drott&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Emilio J. Castilla - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Emilio+J.+Castilla&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4gIxkworysvMtTQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrEKueZm5mTmK3jpKTgnFpdk5uQk7mBlBAA72OL2WwAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoAjCLAXoECG4QBA)
+
+- [ ] [eric drott - Google Search](https://www.google.com/search?gs_ssp=eJzj4tFP1zc0zC2rzCjOzjZg9OJKLcpMVkgpyi8pAQBxBwjA&q=eric+drott&oq=&aqs=chrome.0.46j35i39l5j46j69i59.4282j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Eric Drott - Google Search](https://www.google.com/search?q=Eric%20Drott)
+
+- [ ] [flux calcluus - Google Search](https://www.google.com/search?q=flux+calcluus&oq=flux+calcluus&aqs=chrome..69i57j0l7.5263j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Georg Simmel - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Georg+Simmel&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlU4gAxC_PSk7T4AlKLivPzgjNTUssTK4sXsfK4p-YXpSsEZ-bmpubsYGUEABklJGo5AAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wkQF6BAhqEAs)
+
+- [ ] [Getting a Job: A Study of Contacts and Careers - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Getting+a+Job:+A+Study+of+Contacts+and+Careers&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlU4tFP1zc0MskyMjIzLtMScCwtycgvCsl3ys_P9s_LqVzEqueeWlKSmZeukKjglZ9kpeCoEFxSmlKpkJ-m4JyfV5KYXFKskJiXouCcWJSaWlS8g5URAH6op3hhAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wjgF6BAhrEAY)
+
+- [ ] [grand judge pick - Google Search](https://www.google.com/search?q=grand+judge+pick&newwindow=1&sxsrf=ALeKk00uKCNrHVFLsBpbytJze6KntpSyaQ:1600927017903&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwi5lNrxjYHsAhWFdXAKHW_tAm8QpwV6BAhnEB0&biw=1366&bih=663)
+
+- [ ] [Harrison White - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Harrison+White&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlUAjOTc_KyirT4AlKLivPzgjNTUssTK4sXsfJ5JBYVZQKFFMIzMktSd7AyAgDmtIsbPAAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wkQF6BAhqEAU)
+
+- [ ] [Harvard University - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Harvard+University&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4gAzs4srtaSzk630C1LzC3JSgVRRcX6eVWpKaXJiSWZ-3iJWIY_EorLEohSF0LzMMqBsZknlDlZGAAv6hK5MAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoATCNAXoECGwQAw)
+
+- [ ] [if a=b = a c then b=c - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=if%20a%3Db%20%3D%20a%20c%20then%20b%3Dc&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAJ6BAhsEAM)
+
+- [ ] [In the Age of the Smart Machine - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk0063TiY_yEOUfAk08a3ZJXvtl9i5Q:1600916979648&q=In+the+Age+of+the+Smart+Machine&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVgKzzcpMTdPStAQcS0sy8otC8p3y87P983IqF7HKe-YplGSkKjimpyrkp4GZwbmJRSUKvonJGZl5qTtYGQF0xPXqUQAAAA&sa=X&ved=2ahUKEwi62Yu_6IDsAhVaVN4KHfAWDsIQxA0wjgF6BAhqEAY)
+
+- [ ] [In the Age of the Smart Machine - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01jS5X6NhJl5mwtqGRc1fAUii5Tvg:1600949588272&q=In+the+Age+of+the+Smart+Machine&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVgKzzcpMTdPStAQcS0sy8otC8p3y87P983IqF7HKe-YplGSkKjimpyrkp4GZwbmJRSUKvonJGZl5qTtYGQF0xPXqUQAAAA&sa=X&ved=2ahUKEwj4hYz84YHsAhU8yosBHUDyB0QQxA0wjQF6BAgHEAY)
+
+- [ ] [In the figure above, an object of mass m = 5 kg is revolving at 6 m/s at the end of a string of length 2 m in a vertical circular path. The string makes an angle of 18 degrees relative to the horizontal. What is the tension (in N) in the string? - Google Search](https://www.google.com/search?q=In+the+figure+above%2C+an+object+of+mass+m+%3D+5+kg+is+revolving+at+6+m%2Fs+at+the+end+of+a+string+of+length+2+m+in+a+vertical+circular+path.+The+string+makes+an+angle+of+18+degrees+relative+to+the+horizontal.+What+is+the+tension+(in+N)+in+the+string%3F&oq=In++the+figure+above%2C+an+object+of++mass+m+%3D+5+kg+is+revolving+at+6+m%2Fs+at+the+end+of+a+string+of+length+2+m+in+a+vertical+circular+path.++The+string+makes+an+angle+of+18+degrees+relative+to+the+horizontal.++What+is+the+tension+(in+N)+in+the+string%3F&aqs=chrome..69i57j35i39l7.799j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Ipse Dixit - Google Search](https://www.google.com/search?q=Ipse+Dixit&oq=Ipse+Dixit&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8)
+
+- [ ] [John Goldmark - Google Search](https://www.google.com/search?q=John+Goldmark&oq=John+Goldmark&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Karl Polanyi - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Karl+Polanyi&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlUgjAtq8zTtPgCUouK8_OCM1NSyxMrixex8ngnFuUoBOTnJOZVZu5gZQQA6EriGzoAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wkQF6BAhqEAc)
+
+- [ ] [Kyle Devine - Google Search](https://www.google.com/search?q=Kyle+Devine&oq=Kyle+Devine&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Kyle Devine music - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk012LTIRndV01GLHkFPhT6rnCnkKXA:1600930895615&q=Kyle+Devine+music&sa=X&ved=2ahUKEwjT996qnIHsAhUFfXAKHSK7BH0Q1QIwcXoECHkQBA)
+
+- [ ] [Kyle Devine Musicology - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk012LTIRndV01GLHkFPhT6rnCnkKXA:1600930895615&q=Kyle+Devine+Musicology&sa=X&ved=2ahUKEwjT996qnIHsAhUFfXAKHSK7BH0Q1QIwcnoECHkQCA)
+
+- [ ] [Kyle Devine Oslo - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk012LTIRndV01GLHkFPhT6rnCnkKXA:1600930895615&q=Kyle+Devine+Oslo&sa=X&ved=2ahUKEwjT996qnIHsAhUFfXAKHSK7BH0Q1QIwcHoECHkQAg)
+
+- [ ] [Kyle Devine the Guardian - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk012LTIRndV01GLHkFPhT6rnCnkKXA:1600930895615&q=Kyle+Devine+the+Guardian&sa=X&ved=2ahUKEwjT996qnIHsAhUFfXAKHSK7BH0Q1QIwc3oECHkQBg)
+
+- [ ] [let a, b c be sets prove that a − c ∩ c − b ∅ - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=let%20a%2C%20b%20c%20be%20sets%20prove%20that%20a%20%E2%88%92%20c%20%E2%88%A9%20c%20%E2%88%92%20b%20%E2%88%85&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAV6BAhsEAY)
+
+- [ ] [let a, b c be sets prove that a − c ∩ c − b ∅ - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=let%20a%2C%20b%20c%20be%20sets%20prove%20that%20a%20%E2%88%92%20c%20%E2%88%A9%20c%20%E2%88%92%20b%20%E2%88%85&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAR6BAhuEAU)
+
+- [ ] [Letn≥1 be an integer and consider the setS={0,1, . . . ,3n}. For anyintegerk, let Me the number of subsets of for which|X|= 2n+ 1 and min(X) =k.•Determine the values ofkfor whichNk6= 0 - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01k76hvk1UJTLJbP_cWrUZRL9kiOw:1601021174461&q=Letn%E2%89%A51+be+an+integer+and+consider+the+setS%3D%7B0,1,+.+.+.+,3n%7D.+For+anyintegerk,+let+Me+the+number+of+subsets+of+for+which%7CX%7C%3D+2n%2B+1+and+min(X)+%3Dk.%E2%80%A2Determine+the+values+ofkfor+whichNk6%3D+0&spell=1&sa=X&ved=2ahUKEwicnIbT7IPsAhVVE4gKHU3MBCgQBSgAegQICxAo&biw=1366&bih=646)
+
+- [ ] [Mark Granovetter - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Mark+Granovetter&tbm=vid&source=univ&tbo=u&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQt8YBKAF6BAhyEEI)
+
+- [ ] [Mark Granovetter's planned book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA%3A1600936141275&ei=zVhsX_WxENH6-Qbkraxg&q=Mark+Granovetter%27s+planned+book)
+
+- [ ] [Mark Granovetter's planned book - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02Qm1q40Wv26LVH2pjPLN_bJay9fg:1600936202448&source=univ&tbm=isch&q=Mark+Granovetter%27s+planned+book&sa=X&ved=2ahUKEwiSpp6NsIHsAhXQ-GEKHSwOAg8QjJkEegQIEhAB)
+
+- [ ] [Mark Mizruchi - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Mark+Mizruchi&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4tVP1zc0zDAriS8yjE_T0sgot9JPzs_JSU0uyczP009MTkxJzc1MLrbKyy9JTMpJVSguKU1JzStZxMrrm1iUreCbWVVUmpyRuYOVEQCb_tr_WQAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoBDCLAXoECG4QBg)
+
+- [ ] [mary douglas - Google Search](https://www.google.com/search?q=mary%20douglas)
+
+- [ ] [Natural Sciences,US & Canada - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Natural+Sciences,US+%26+Canada&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4gIxKwuzcuKNtWSzk630E8sTi1IgZHx5Zl5eapEVmFO8iFXGL7GktCgxRyE4OTM1Lzm1WCc0WEFNwTkxLzElcQcrIwBQ9-Y7WgAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoATCMAXoECG0QAw)
+
+- [ ] [perter blau - Google Search](https://www.google.com/search?q=perter%20blau)
+
+- [ ] [porpositinalforms and circuits - Google Search](https://www.google.com/search?q=porpositinalforms%20and%20circuits)
+
+- [ ] [prove that a union b union c - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=prove%20that%20a%20union%20b%20union%20c&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAN6BAhsEAQ)
+
+- [ ] [Psychological and Organizational Implications of Computer-mediated Work Shoshana Zuboff - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01jS5X6NhJl5mwtqGRc1fAUii5Tvg:1600949588272&q=Psychological+and+Organizational+Implications+of+Computer-mediated+Work+Shoshana+Zuboff&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVuLVT9c3NEwqTysrM8lK0RJwLC3JyC8KyXfKz8_2z8upXMQaHlBcmZyRn5OfnpmcmKOQmJei4F-UnpiXWZVYkpmfBxTyzC3IAcqBeMUK-WkKzvm5BaUlqUW6uakpmYklqSkK4flF2QrBGfnFGYl5iQpRpUn5aWk7WBkBwlr3q4wAAAA&sa=X&ved=2ahUKEwj4hYz84YHsAhU8yosBHUDyB0QQxA0wjQF6BAgHEAo&biw=1366&bih=663)
+
+- [ ] [Psychological and Organizational Implications of Computer-mediated Work Shoshana Zuboff - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk0063TiY_yEOUfAk08a3ZJXvtl9i5Q:1600916979648&q=Psychological+and+Organizational+Implications+of+Computer-mediated+Work+Shoshana+Zuboff&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVuLVT9c3NEwqTysrM8lK0RJwLC3JyC8KyXfKz8_2z8upXMQaHlBcmZyRn5OfnpmcmKOQmJei4F-UnpiXWZVYkpmfBxTyzC3IAcqBeMUK-WkKzvm5BaUlqUW6uakpmYklqSkK4flF2QrBGfnFGYl5iQpRpUn5aWk7WBkBwlr3q4wAAAA&sa=X&ved=2ahUKEwi62Yu_6IDsAhVaVN4KHfAWDsIQxA0wjgF6BAhqEAo)
+
+- [ ] [Ronald Breiger - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Ronald+Breiger&stick=H4sIAAAAAAAAAOPgE-LUz9U3MDauTKlU4gIxk03i00zitTQyyq30k_NzclKTSzLz8_QTkxNTUnMzk4ut8vJLEpNyUhWKS0pTUvNKFrHyBeXnJeakKDgVpWampxbtYGUEAJytst1XAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQmxMoATCLAXoECG4QAw)
+
+- [ ] [Ronald Breiger - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Ronald+Breiger&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlU4gIxk03i00zitfgCUouK8_OCM1NSyxMrixex8gXl5yXmpCg4FaVmpqcW7WBlBAAjXsP0PQAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wkQF6BAhqEAk)
+
+- [ ] [rotational speed in RPM - Google Search](https://www.google.com/search?q=rotational+speed+in+RPM&oq=rotational+speed+in+RPM&aqs=chrome..69i57.797j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [se the Divergence Theorem to calculate the surface integral S F · dS; that is, calculate the flux of F across S. F(x, y, z) = x2 sin(y)i + x cos(y)j − xz sin(y)k, S is the "fat sphere" x8 + y8 + z8 = 8. - Google Search](https://www.google.com/search?q=se+the+Divergence+Theorem+to+calculate+the+surface+integral+S+F+%C2%B7+dS%3B+that+is%2C+calculate+the+flux+of+F+across+S.+F(x%2C+y%2C+z)+%3D+x2+sin(y)i+%2B+x+cos(y)j+%E2%88%92+xz+sin(y)k%2C+S+is+the+%22fat+sphere%22+x8+%2B+y8+%2B+z8+%3D+8.&oq=se+the+Divergence+Theorem+to+calculate+the+surface+integral++%C2%A0++S+F+%C2%B7+dS%3B++that+is%2C+calculate+the+flux+of+F+across+S.+F(x%2C+y%2C+z)+%3D+x2+sin(y)i+%2B+x+cos(y)j+%E2%88%92+xz+sin(y)k%2C++S+is+the+%22fat+sphere%22++x8+%2B+y8+%2B+z8+%3D+8.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Shoshana Zuboff - Google Search](https://www.google.com/search?q=Shoshana+Zuboff&oq=Shoshana+Zuboff&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Shoshana Zuboff - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk0063TiY_yEOUfAk08a3ZJXvtl9i5Q:1600916979648&q=Shoshana+Zuboff&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVkJia0llJ1vpF6TmF-SkAqmi4vw8q-LMlNTyxMriRaz8wRn5xRmJeYkKUaVJ-WlpO1gZAUV4KtVLAAAA&sa=X&ved=2ahUKEwi62Yu_6IDsAhVaVN4KHfAWDsIQzTooATCRAXoECGsQAg)
+
+- [ ] [show that a intersection b = a intersection c - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk011nqzsbOJPPuWBNVmV924MuGDm0Q%3A1600951246475&lei=zpNsX9zEHIj7wQPOq4iYCA&q=show%20that%20a%20intersection%20b%20%3D%20a%20intersection%20c&ved=2ahUKEwjc4-SS6IHsAhWIfXAKHc4VAoMQsKwBKAR6BAhsEAU)
+
+- [ ] [show that two finie set with different cardinity can not be equivalent - Google Search](https://www.google.com/search?q=show+that+two+finie+set+with+different+cardinity+can+not+be+equivalent&oq=show+that+two+finie+set+with+different+cardinity+can+not+be+equivalent&aqs=chrome..69i57.12944j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Society and Economy Mark Granovetter - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Society+and+Economy+Mark+Granovetter&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlU4tVP1zc0TDasyE3PyM3TEnAsLcnILwrJd8rPz_bPy6lcxKoSnJ-cmVpSqZCYl6Lgmpyfl59bqeCbWJSt4F6UmJdfllpSklq0g5URABDxF7hYAAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wjgF6BAhrEAQ)
+
+- [ ] [Support Economy: Why Corporations Are Failing Individuals and the Next Episode of Capitalism Shoshana Zuboff - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01jS5X6NhJl5mwtqGRc1fAUii5Tvg:1600949588272&q=Support+Economy:+Why+Corporations+Are+Failing+Individuals+and+the+Next+Episode+of+Capitalism+Shoshana+Zuboff&stick=H4sIAAAAAAAAAA3LMQrCMBQAUEQKIgjiCT6OLmmLWHCrRcFFhwqCi6RN0kTT_JikYq_jKTyeXR-8yXgxJS2J01earevljDQkSarNXcRZ9ljN8y5IdBfcIT7PRvffSJedtegC7Gs02PZbuMoeCnQD0qDQeMgdhwNVWpkGjoapt2Id1R6oYRAkhxP_DN0qj4wDCiioVYFq5VsoJXpJDYVbV6EQv2j0B63zc5mhAAAA&sa=X&ved=2ahUKEwj4hYz84YHsAhU8yosBHUDyB0QQxA0wjQF6BAgHEAg)
+
+- [ ] [Support Economy: Why Corporations Are Failing Individuals and the Next Episode of Capitalism Shoshana Zuboff - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk0063TiY_yEOUfAk08a3ZJXvtl9i5Q:1600916979648&q=Support+Economy:+Why+Corporations+Are+Failing+Individuals+and+the+Next+Episode+of+Capitalism+Shoshana+Zuboff&stick=H4sIAAAAAAAAAA3LMQrCMBQAUEQKIgjiCT6OLmmLWHCrRcFFhwqCi6RN0kTT_JikYq_jKTyeXR-8yXgxJS2J01earevljDQkSarNXcRZ9ljN8y5IdBfcIT7PRvffSJedtegC7Gs02PZbuMoeCnQD0qDQeMgdhwNVWpkGjoapt2Id1R6oYRAkhxP_DN0qj4wDCiioVYFq5VsoJXpJDYVbV6EQv2j0B63zc5mhAAAA&sa=X&ved=2ahUKEwi62Yu_6IDsAhVaVN4KHfAWDsIQxA0wjgF6BAhqEAg)
+
+- [ ] [talcott parsons - Google Search](https://www.google.com/search?q=talcott%20parsons)
+
+- [ ] [The Age of Surveillance Capitalism - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk01jS5X6NhJl5mwtqGRc1fAUii5Tvg:1600949588272&q=The+Age+of+Surveillance+Capitalism&stick=H4sIAAAAAAAAAONgFuLSz9U3MCo0MjdJVuLVT9c3NEwzKDRPM7VM1xJwLC3JyC8KyXfKz8_2z8upXMSqFJKRquCYnqqQn6YQXFpUlpqZk5OYl5yq4JxYkFmSmJNZnLuDlREAkMqUT1cAAAA&sa=X&ved=2ahUKEwj4hYz84YHsAhU8yosBHUDyB0QQxA0wjQF6BAgHEAQ)
+
+- [ ] [The sociology of economic life pdf - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02Qm1q40Wv26LVH2pjPLN_bJay9fg:1600936202448&q=The+sociology+of+economic+life+pdf&sa=X&ved=2ahUKEwiSpp6NsIHsAhXQ-GEKHSwOAg8Q1QIwbXoECGUQBA)
+
+- [ ] [The strength of weak ties PDF - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02Qm1q40Wv26LVH2pjPLN_bJay9fg:1600936202448&q=The+strength+of+weak+ties+PDF&sa=X&ved=2ahUKEwiSpp6NsIHsAhXQ-GEKHSwOAg8Q1QIwbnoECGUQAg)
+
+- [ ] [The strength of weak ties summary - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02Qm1q40Wv26LVH2pjPLN_bJay9fg:1600936202448&q=The+strength+of+weak+ties+summary&sa=X&ved=2ahUKEwiSpp6NsIHsAhXQ-GEKHSwOAg8Q1QIwb3oECGUQBg)
+
+- [ ] [Use the Divergence Theorem to calculate the surface integral S F · dS; that is, calculate the flux of F across S. F(x, y, z) = x2 sin(y)i + x cos(y)j − xz sin(y)k, S is the "fat sphere" x8 + y8 + z8 = 8. - Google Search](https://www.google.com/search?q=Use+the+Divergence+Theorem+to+calculate+the+surface+integral+S+F+%C2%B7+dS%3B+that+is%2C+calculate+the+flux+of+F+across+S.+F(x%2C+y%2C+z)+%3D+x2+sin(y)i+%2B+x+cos(y)j+%E2%88%92+xz+sin(y)k%2C+S+is+the+%22fat+sphere%22+x8+%2B+y8+%2B+z8+%3D+8.&oq=Use+the+Divergence+Theorem+to+calculate+the+surface+integral+S+F+%C2%B7+dS%3B+that+is%2C+calculate+the+flux+of+F+across+S.+F(x%2C+y%2C+z)+%3D+x2+sin(y)i+%2B+x+cos(y)j+%E2%88%92+xz+sin(y)k%2C+S+is+the+%22fat+sphere%22+x8+%2B+y8+%2B+z8+%3D+8.&aqs=chrome..69i57.699j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Volodymyr Zelensky - Google Search](https://www.google.com/search?q=Volodymyr+Zelensky&oq=Volodymyr+Zelensky&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+
+- [ ] [What is the strength of weak ties one example - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02Qm1q40Wv26LVH2pjPLN_bJay9fg:1600936202448&q=What+is+the+strength+of+weak+ties+one+example&sa=X&ved=2ahUKEwiSpp6NsIHsAhXQ-GEKHSwOAg8Q1QIwcHoECGUQCA)
+
+- [ ] [www.google.com](https://www.google.com/search?q=p%3C-%3Eq%20%3C-%3Er%20is%20equivalent%20to)
+
+- [ ] [Xavier Briggs - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02PNN4DBArDF5jcvFV6e9UtESyfbA:1600936141275&q=Xavier+Briggs&stick=H4sIAAAAAAAAAONgFuLUz9U3MDauTKlU4gIxTQyNDYostfgCUouK8_OCM1NSyxMrixex8kYklmWmFik4FWWmpxfvYGUEALbf3mQ8AAAA&sa=X&ved=2ahUKEwi1zIjwr4HsAhVRfd4KHeQWCwwQxA0wkQF6BAhqEA0)
+
+- [ ] [Xor gate - Google Search](https://www.google.com/search?q=Xor+gate&oq=Xor+gate&aqs=chrome..69i57j0l7.2351j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [上海 宝山区 友谊路 邮政编码 - Google Search](https://www.google.com/search?q=%E4%B8%8A%E6%B5%B7+%E5%AE%9D%E5%B1%B1%E5%8C%BA+%E5%8F%8B%E8%B0%8A%E8%B7%AF+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81&oq=%E5%AE%9D%E5%B1%B1%E5%8C%BA++%E5%8F%8B%E8%B0%8A%E8%B7%AF&aqs=chrome.1.69i57j0.17161j0j1&sourceid=chrome&ie=UTF-8)
+
+- [ ] [台湾 Wistron 公司 - Google Search](https://www.google.com/search?q=%E5%8F%B0%E6%B9%BE+Wistron+%E5%85%AC%E5%8F%B8&oq=%E5%8F%B0%E6%B9%BE+Wistron+%E5%85%AC%E5%8F%B8&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
