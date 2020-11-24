@@ -209,3 +209,16 @@
 - [ ] Title:[Zuming Feng: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Zuming%20Feng)
 
 ---
+
+
+24/11/2020
+
+- [ ] Title:[Combinatorial Problems and Exercises | László Lovász | download]( https://b-ok.cc/book/5232381/b1b384)
+
+- [ ] Title:[Digital Logic and Computer Design. | M. Morris Mano. | download]( https://b-ok.cc/book/5440626/3f7461?dsource=recommend)
+
+- [ ] Title:[Discrete and Combinatorial Mathematics ,5e (Instructor's Solution Manual) | Ralph P. Grimaldi | download]( https://b-ok.cc/book/1170617/2436db)
+
+- [ ] Title:[Discrete and Combinatorial Mathematics: An Applied Introduction, Fifth Edition | Ralph P. Grimaldi | download]( https://b-ok.cc/book/766692/9b3767)
+
+---
