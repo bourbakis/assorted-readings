@@ -139,5 +139,73 @@
 - [ ] Title:[Solutions to Atiyah and MacDonald's Introduction to Commutative Algebra | Papaioannou A. | download]( https://b-ok.cc/book/441216/41fe32?dsource=recommend)
 
 - [ ] Title:[Topology and Geometry | Glen E. Bredon | download]( https://b-ok.cc/book/1002957/afaa04?dsource=recommend)
+
 ---
 
+
+
+24/11/2020
+
+- [ ] Title:[A Path to Combinatorics for Undergraduates: Counting Strategies | Titu Andreescu, Zuming Feng | download]( https://book4you.org/book/439861/cb8128)
+
+- [ ] Title:[Donald R. Woods (auth.): free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Donald%20R.%20Woods%20(auth.))
+
+- [ ] Title:[Economic Foundations of Capital Market Returns (The Research Foundation of AIMR and Blackwell Series in Finance) | CFA and Kevin Terhaar, CFA Brian D. Singer | download]( https://book4you.org/book/865107/ec9389)
+
+- [ ] Title:[F. S. Beckman: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/F.%20S.%20Beckman)
+
+- [ ] Title:[Foundations of constructive analysis (McGraw-Hill series in higher mathematics) | Errett Bishop | download]( https://book4you.org/book/1269824/205f68)
+
+- [ ] Title:[Foundations of higher mathematics | Peter Fletcher, C. Wayne Patty | download]( https://book4you.org/book/2855820/617b7d)
+
+- [ ] Title:[George Pólya: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/George%20P%C3%B3lya)
+
+- [ ] Title:[Gian-Carlo on Combinatorics: Introductory Papers and Commentaries | Joseph P.S. Kung | download]( https://book4you.org/book/2459579/7e9054)
+
+- [ ] Title:[Handbook of numerical analysis - Foundations of computational mathematics | F. Cucker, P. G. Ciarlet, J.L. Lions | download]( https://book4you.org/book/605781/ee2147)
+
+- [ ] Title:[Handbook of Numerical Analysis : Special Volume: Foundations of Computational Mathematics | F. Cucker, P. G. Ciarlet, J.L. Lions | download]( https://book4you.org/book/654645/f818ad)
+
+- [ ] Title:[Handbook of Numerical Analysis : Special Volume: Foundations of Computational Mathematics | F. Cucker, P. G. Ciarlet, J.L. Lions | download]( https://book4you.org/book/668819/dbf4ce)
+
+- [ ] Title:[Introduction to the foundations of applied mathematics | Mark H. Holmes (auth.) | download]( https://book4you.org/book/571748/9b901d)
+
+- [ ] Title:[Introductory Combinatorics (5th Edition) | Richard A. Brualdi | download]( https://book4you.org/book/880042/734317)
+
+- [ ] Title:[Introductory Combinatorics | Kenneth P. Bogart | download]( https://book4you.org/book/1191557/6cafd9)
+
+- [ ] Title:[Introductory Combinatorics | Richard A. Brualdi | download]( https://book4you.org/book/765543/04117d)
+
+- [ ] Title:[J.L. Lions: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/J.L.%20Lions)
+
+- [ ] Title:[Kenneth P. Bogart: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Kenneth%20P.%20Bogart)
+
+- [ ] Title:[László Lovász: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/L%C3%A1szl%C3%B3%20Lov%C3%A1sz?regionChanged=&redirect=54408201&signAll=1&ts=1601)
+
+- [ ] Title:[Mark H. Holmes (auth.): free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Mark%20H.%20Holmes%20(auth.))
+
+- [ ] Title:[Mathematical Foundations of Programming | F. S. Beckman | download]( https://book4you.org/book/763686/2bb6c9)
+
+- [ ] Title:[Notes on Introductory Combinatorics | George Pólya, Robert E. Tarjan, Donald R. Woods (auth.) | download]( https://book4you.org/book/2120397/e56587)
+
+- [ ] Title:[Notes on Introductory Combinatorics | George Pólya, Robert E. Tarjan, Donald R. Woods | download]( https://book4you.org/book/767326/e0c9bf)
+
+- [ ] Title:[P. G. Ciarlet: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/P.%20G.%20Ciarlet)
+
+- [ ] Title:[Peter Fletcher: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Peter%20Fletcher)
+
+- [ ] Title:[Ralph P. Grimaldi: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Ralph%20P.%20Grimaldi?regionChanged=&redirect=54408103&signAll=1&ts=1601)
+
+- [ ] Title:[Richard A. Brualdi: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Richard%20A.%20Brualdi)
+
+- [ ] Title:[Robert E. Tarjan: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Robert%20E.%20Tarjan)
+
+- [ ] Title:[The mathematical foundation of informatics. Conf. Hanoi, 1999 | Mathematical Foundation of Informatics, Long Van Do, Masami Ito | download]( https://book4you.org/book/746927/2f1465)
+
+- [ ] Title:[The Modern Role of Bond Covenants (The Research Foundation of AIMR and Blackwell Series in Finance) | Ileen Malitz | download]( https://book4you.org/book/906601/07c73e)
+
+- [ ] Title:[Titu Andreescu: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Titu%20Andreescu)
+
+- [ ] Title:[Zuming Feng: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Zuming%20Feng)
+
+---
