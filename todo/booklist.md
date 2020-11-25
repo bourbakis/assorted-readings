@@ -1,66 +1,66 @@
 24/11/2020
 
-- [ ] Title:[A First Course in Geometric Topology and Differential Geometry | Ethan D. Bloch | download]( https://book4you.org/book/655377/f4f80f)
+- [x] Title:[A First Course in Geometric Topology and Differential Geometry | Ethan D. Bloch | download]( https://book4you.org/book/655377/f4f80f)
 
-- [ ] Title:[A People Betrayed: A History of Corruption, Political Incompetence and Social Division in Modern Spain 1874-2018 | Paul Preston | download]( https://book4you.org/book/5417448/7e65fe?dsource=recommend)
+- [x] Title:[A People Betrayed: A History of Corruption, Political Incompetence and Social Division in Modern Spain 1874-2018 | Paul Preston | download]( https://book4you.org/book/5417448/7e65fe?dsource=recommend)
 
-- [ ] Title:[A People Betrayed: A History of Corruption, Political Incompetence and Social Division in Modern Spain 1874-2018 | Paul Preston | download]( https://book4you.org/book/5417448/7e65fe)
+- [x] Title:[A People Betrayed: A History of Corruption, Political Incompetence and Social Division in Modern Spain 1874-2018 | Paul Preston | download]( https://book4you.org/book/5417448/7e65fe)
 
-- [ ] Title:[Age of spirituality: Late antique and early Christian art, third to seventh century | Metropolitan Museum of Art, Kurt Weitzmann | download]( https://book4you.org/book/2030278/1aeb37?dsource=recommend)
+- [x] Title:[Age of spirituality: Late antique and early Christian art, third to seventh century | Metropolitan Museum of Art, Kurt Weitzmann | download]( https://book4you.org/book/2030278/1aeb37?dsource=recommend)
 
-- [ ] Title:[Aristotle's Nicomachean Ethics | Aristotle, Robert C. Bartlett, Susan D. Collins | download]( https://book4you.org/book/1176024/74bac4)
+- [x] Title:[Aristotle's Nicomachean Ethics | Aristotle, Robert C. Bartlett, Susan D. Collins | download]( https://book4you.org/book/1176024/74bac4)
 
-- [ ] Title:[Blood Royal: Dynastic Politics in Medieval Europe | Robert Bartlett | download]( https://book4you.org/book/5691435/96c392?dsource=recommend)
+- [x] Title:[Blood Royal: Dynastic Politics in Medieval Europe | Robert Bartlett | download]( https://book4you.org/book/5691435/96c392?dsource=recommend)
 
-- [ ] Title:[Blood Royal: Dynastic Politics in Medieval Europe | Robert Bartlett | download]( https://book4you.org/book/5691435/96c392)
+- [x] Title:[Blood Royal: Dynastic Politics in Medieval Europe | Robert Bartlett | download]( https://book4you.org/book/5691435/96c392)
 
-- [ ] Title:[Britain's war : into battle, 1937-1941 | Todman, Daniel | download]( https://book4you.org/book/2946207/b460d9?dsource=recommend)
+- [x] Title:[Britain's war : into battle, 1937-1941 | Todman, Daniel | download]( https://book4you.org/book/2946207/b460d9?dsource=recommend)
 
-- [ ] Title:[Britain's War: A New World, 1942-1947 | Daniel Todman | download]( https://book4you.org/book/5587870/830350)
+- [x] Title:[Britain's War: A New World, 1942-1947 | Daniel Todman | download]( https://book4you.org/book/5587870/830350)
 
-- [ ] Title:[Christian Art.. A Very Short Introduction | Beth Williamson | download]( https://book4you.org/book/651212/6bbe77?dsource=recommend)
+- [x] Title:[Christian Art.. A Very Short Introduction | Beth Williamson | download]( https://book4you.org/book/651212/6bbe77?dsource=recommend)
 
-- [ ] Title:[Comrades | Preston Paul | download]( https://book4you.org/book/4852996/dec04a)
+- [x] Title:[Comrades | Preston Paul | download]( https://book4you.org/book/4852996/dec04a)
 
-- [ ] Title:[Culture in Translation: The Anthropological Legacy of R. H. Mathews | Martin Thomas, Robert Hamilton Mathews | download]( https://book4you.org/book/1103679/8ce1e7)
+- [x] Title:[Culture in Translation: The Anthropological Legacy of R. H. Mathews | Martin Thomas, Robert Hamilton Mathews | download]( https://book4you.org/book/1103679/8ce1e7)
 
-- [ ] Title:[Differential Geometry and Topology: With a View to Dynamical Systems | Keith Burns, Marian Gidea | download]( https://book4you.org/book/2090665/d603b1)
+- [x] Title:[Differential Geometry and Topology: With a View to Dynamical Systems | Keith Burns, Marian Gidea | download]( https://book4you.org/book/2090665/d603b1)
 
-- [ ] Title:[Early Christian art and architecture | Milburn Robert | download]( https://book4you.org/book/2543852/697b2c?dsource=recommend)
+- [x] Title:[Early Christian art and architecture | Milburn Robert | download]( https://book4you.org/book/2543852/697b2c?dsource=recommend)
 
-- [ ] Title:[England Under the Norman and Angevin Kings, 1075-1225 (New Oxford History of England) | Robert Bartlett | download]( https://book4you.org/book/964352/0d6609)
+- [x] Title:[England Under the Norman and Angevin Kings, 1075-1225 (New Oxford History of England) | Robert Bartlett | download]( https://book4you.org/book/964352/0d6609)
 
-- [ ] Title:[Britain's War: Into Battle, 1937-1941 | Daniel Todmandaniel Todman | download]( https://book4you.org/book/5504449/daf718)
+- [x] Title:[Britain's War: Into Battle, 1937-1941 | Daniel Todmandaniel Todman | download]( https://book4you.org/book/5504449/daf718)
 
-- [ ] Title:[Idempotency | Jeremy Gunawardena, John M. Taylor, Michael Atiyah | download]( https://book4you.org/book/717084/e21c04)
+- [x] Title:[Idempotency | Jeremy Gunawardena, John M. Taylor, Michael Atiyah | download]( https://book4you.org/book/717084/e21c04)
 
-- [ ] Title:[Images of Inspiration: The Old Testament in Early Christian Art | Joan Goodnick Westenholz | download]( https://book4you.org/book/882392/938227?dsource=recommend)
+- [x] Title:[Images of Inspiration: The Old Testament in Early Christian Art | Joan Goodnick Westenholz | download]( https://book4you.org/book/882392/938227?dsource=recommend)
 
-- [ ] Title:[Jews, Judaism, and the Reformation in Sixteenth-Century Germany | Dean Phillip Bell, Stephen G. Burnett | download]( https://book4you.org/book/809373/9d7ed2)
+- [x] Title:[Jews, Judaism, and the Reformation in Sixteenth-Century Germany | Dean Phillip Bell, Stephen G. Burnett | download]( https://book4you.org/book/809373/9d7ed2)
 
-- [ ] Title:[Logic, sets, and recursion | Robert L. Causey | download]( https://book4you.org/book/440810/a051c1)
+- [x] Title:[Logic, sets, and recursion | Robert L. Causey | download]( https://book4you.org/book/440810/a051c1)
 
-- [ ] Title:[Machiavelli: His Life and Times | Alexander Lee | download]( https://book4you.org/book/5469158/1dcf5f)
+- [x] Title:[Machiavelli: His Life and Times | Alexander Lee | download]( https://book4you.org/book/5469158/1dcf5f)
 
-- [ ] Title:[Makers of History: 32: Napoleon Bonaparte | Emperor of the French Napoleon I;empereur des Français Napoléon Ier;Abbott, John Stevens Cabot | download]( https://book4you.org/book/5906891/a81473)
+- [x] Title:[Makers of History: 32: Napoleon Bonaparte | Emperor of the French Napoleon I;empereur des Français Napoléon Ier;Abbott, John Stevens Cabot | download]( https://book4you.org/book/5906891/a81473)
 
-- [ ] Title:[Making of Europe: Conquest, Colonization and Cultural Change, 950–1350 | Robert Bartlett | download]( https://book4you.org/book/2660907/edb640)
+- [x] Title:[Making of Europe: Conquest, Colonization and Cultural Change, 950–1350 | Robert Bartlett | download]( https://book4you.org/book/2660907/edb640)
 
-- [ ] Title:[Philosophical Papers, Volume 3: Knowledge, Science and Relativism | Paul K. Feyerabend, John Preston | download]( https://book4you.org/book/1184215/f79481)
+- [x] Title:[Philosophical Papers, Volume 3: Knowledge, Science and Relativism | Paul K. Feyerabend, John Preston | download]( https://book4you.org/book/1184215/f79481)
 
-- [ ] Title:[Philosophy of Science: A Contemporary Introduction | Alexander Rosenberg, Lee McIntyre | download]( https://book4you.org/book/5302892/e411a7)
+- [x] Title:[Philosophy of Science: A Contemporary Introduction | Alexander Rosenberg, Lee McIntyre | download]( https://book4you.org/book/5302892/e411a7)
 
-- [ ] Title:[Real Alchemy: A Primer of Practical Alchemy | Robert Allen Bartlett | download]( https://book4you.org/book/682925/4c4481)
+- [x] Title:[Real Alchemy: A Primer of Practical Alchemy | Robert Allen Bartlett | download]( https://book4you.org/book/682925/4c4481)
 
-- [ ] Title:[Revolution and War in Spain, 1931-1939 | Paul Preston | download]( https://book4you.org/book/877181/35d97f)
+- [x] Title:[Revolution and War in Spain, 1931-1939 | Paul Preston | download]( https://book4you.org/book/877181/35d97f)
 
-- [ ] Title:[Ring of Steel: Germany and Austria-Hungary in World War I | Alexander Watson | download]( https://book4you.org/book/2693913/6ecb5b)
+- [x] Title:[Ring of Steel: Germany and Austria-Hungary in World War I | Alexander Watson | download]( https://book4you.org/book/2693913/6ecb5b)
 
-- [ ] Title:[Spanish Holocaust: Inquisition and Extermination in Twentieth-Century Spain | Paul Preston | download]( https://book4you.org/book/2042900/5a7d77)
+- [x] Title:[Spanish Holocaust: Inquisition and Extermination in Twentieth-Century Spain | Paul Preston | download]( https://book4you.org/book/2042900/5a7d77)
 
-- [ ] Title:[Spies and scholars : Chinese secrets and Imperial Russia's quest for world power | Gregory Afinogenov | download]( https://book4you.org/book/5476696/d2e631)
+- [x] Title:[Spies and scholars : Chinese secrets and Imperial Russia's quest for world power | Gregory Afinogenov | download]( https://book4you.org/book/5476696/d2e631)
 
-- [ ] Title:[Statistical Texts for Mixed Linear Models | Andre I. Khuri, Thomas Mathew, Bimal K. Sinha(auth.) | download]( https://book4you.org/book/2156239/593c6d)
+- [x] Title:[Statistical Texts for Mixed Linear Models | Andre I. Khuri, Thomas Mathew, Bimal K. Sinha(auth.) | download]( https://book4you.org/book/2156239/593c6d)
 
 - [ ] Title:[The Annotated and Illustrated Double Helix | James D. Watson Ph.D., Alexander Gann, Jan Witkowski Ph.D. | download]( https://book4you.org/book/2384708/bc9fba)
 
@@ -146,35 +146,35 @@
 
 24/11/2020
 
-- [ ] Title:[A Path to Combinatorics for Undergraduates: Counting Strategies | Titu Andreescu, Zuming Feng | download]( https://book4you.org/book/439861/cb8128)
+- [x] Title:[A Path to Combinatorics for Undergraduates: Counting Strategies | Titu Andreescu, Zuming Feng | download]( https://book4you.org/book/439861/cb8128)
 
-- [ ] Title:[Donald R. Woods (auth.): free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Donald%20R.%20Woods%20(auth.))
+- [x] Title:[Donald R. Woods (auth.): free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Donald%20R.%20Woods%20(auth.))
 
-- [ ] Title:[Economic Foundations of Capital Market Returns (The Research Foundation of AIMR and Blackwell Series in Finance) | CFA and Kevin Terhaar, CFA Brian D. Singer | download]( https://book4you.org/book/865107/ec9389)
+- [x] Title:[Economic Foundations of Capital Market Returns (The Research Foundation of AIMR and Blackwell Series in Finance) | CFA and Kevin Terhaar, CFA Brian D. Singer | download]( https://book4you.org/book/865107/ec9389)
 
-- [ ] Title:[F. S. Beckman: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/F.%20S.%20Beckman)
+- [x] Title:[F. S. Beckman: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/F.%20S.%20Beckman)
 
-- [ ] Title:[Foundations of constructive analysis (McGraw-Hill series in higher mathematics) | Errett Bishop | download]( https://book4you.org/book/1269824/205f68)
+- [x] Title:[Foundations of constructive analysis (McGraw-Hill series in higher mathematics) | Errett Bishop | download]( https://book4you.org/book/1269824/205f68)
 
-- [ ] Title:[Foundations of higher mathematics | Peter Fletcher, C. Wayne Patty | download]( https://book4you.org/book/2855820/617b7d)
+- [x] Title:[Foundations of higher mathematics | Peter Fletcher, C. Wayne Patty | download]( https://book4you.org/book/2855820/617b7d)
 
-- [ ] Title:[George Pólya: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/George%20P%C3%B3lya)
+- [x] Title:[George Pólya: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/George%20P%C3%B3lya)
 
-- [ ] Title:[Gian-Carlo on Combinatorics: Introductory Papers and Commentaries | Joseph P.S. Kung | download]( https://book4you.org/book/2459579/7e9054)
+- [x] Title:[Gian-Carlo on Combinatorics: Introductory Papers and Commentaries | Joseph P.S. Kung | download]( https://book4you.org/book/2459579/7e9054)
 
-- [ ] Title:[Handbook of numerical analysis - Foundations of computational mathematics | F. Cucker, P. G. Ciarlet, J.L. Lions | download]( https://book4you.org/book/605781/ee2147)
+- [x] Title:[Handbook of numerical analysis - Foundations of computational mathematics | F. Cucker, P. G. Ciarlet, J.L. Lions | download]( https://book4you.org/book/605781/ee2147)
 
-- [ ] Title:[Handbook of Numerical Analysis : Special Volume: Foundations of Computational Mathematics | F. Cucker, P. G. Ciarlet, J.L. Lions | download]( https://book4you.org/book/654645/f818ad)
+- [x] Title:[Handbook of Numerical Analysis : Special Volume: Foundations of Computational Mathematics | F. Cucker, P. G. Ciarlet, J.L. Lions | download]( https://book4you.org/book/654645/f818ad)
 
-- [ ] Title:[Handbook of Numerical Analysis : Special Volume: Foundations of Computational Mathematics | F. Cucker, P. G. Ciarlet, J.L. Lions | download]( https://book4you.org/book/668819/dbf4ce)
+- [x] Title:[Handbook of Numerical Analysis : Special Volume: Foundations of Computational Mathematics | F. Cucker, P. G. Ciarlet, J.L. Lions | download]( https://book4you.org/book/668819/dbf4ce)
 
-- [ ] Title:[Introduction to the foundations of applied mathematics | Mark H. Holmes (auth.) | download]( https://book4you.org/book/571748/9b901d)
+- [x] Title:[Introduction to the foundations of applied mathematics | Mark H. Holmes (auth.) | download]( https://book4you.org/book/571748/9b901d)
 
-- [ ] Title:[Introductory Combinatorics (5th Edition) | Richard A. Brualdi | download]( https://book4you.org/book/880042/734317)
+- [x] Title:[Introductory Combinatorics (5th Edition) | Richard A. Brualdi | download]( https://book4you.org/book/880042/734317)
 
-- [ ] Title:[Introductory Combinatorics | Kenneth P. Bogart | download]( https://book4you.org/book/1191557/6cafd9)
+- [x] Title:[Introductory Combinatorics | Kenneth P. Bogart | download]( https://book4you.org/book/1191557/6cafd9)
 
-- [ ] Title:[Introductory Combinatorics | Richard A. Brualdi | download]( https://book4you.org/book/765543/04117d)
+- [x] Title:[Introductory Combinatorics | Richard A. Brualdi | download]( https://book4you.org/book/765543/04117d)
 
 - [x] Title:[J.L. Lions: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/J.L.%20Lions)
 
