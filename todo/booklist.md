@@ -176,49 +176,49 @@
 
 - [ ] Title:[Introductory Combinatorics | Richard A. Brualdi | download]( https://book4you.org/book/765543/04117d)
 
-- [ ] Title:[J.L. Lions: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/J.L.%20Lions)
+- [x] Title:[J.L. Lions: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/J.L.%20Lions)
 
-- [ ] Title:[Kenneth P. Bogart: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Kenneth%20P.%20Bogart)
+- [x] Title:[Kenneth P. Bogart: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Kenneth%20P.%20Bogart)
 
-- [ ] Title:[László Lovász: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/L%C3%A1szl%C3%B3%20Lov%C3%A1sz?regionChanged=&redirect=54408201&signAll=1&ts=1601)
+- [x] Title:[László Lovász: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/L%C3%A1szl%C3%B3%20Lov%C3%A1sz?regionChanged=&redirect=54408201&signAll=1&ts=1601)
 
-- [ ] Title:[Mark H. Holmes (auth.): free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Mark%20H.%20Holmes%20(auth.))
+- [x] Title:[Mark H. Holmes (auth.): free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Mark%20H.%20Holmes%20(auth.))
 
-- [ ] Title:[Mathematical Foundations of Programming | F. S. Beckman | download]( https://book4you.org/book/763686/2bb6c9)
+- [x] Title:[Mathematical Foundations of Programming | F. S. Beckman | download]( https://book4you.org/book/763686/2bb6c9)
 
-- [ ] Title:[Notes on Introductory Combinatorics | George Pólya, Robert E. Tarjan, Donald R. Woods (auth.) | download]( https://book4you.org/book/2120397/e56587)
+- [x] Title:[Notes on Introductory Combinatorics | George Pólya, Robert E. Tarjan, Donald R. Woods (auth.) | download]( https://book4you.org/book/2120397/e56587)
 
-- [ ] Title:[Notes on Introductory Combinatorics | George Pólya, Robert E. Tarjan, Donald R. Woods | download]( https://book4you.org/book/767326/e0c9bf)
+- [x] Title:[Notes on Introductory Combinatorics | George Pólya, Robert E. Tarjan, Donald R. Woods | download]( https://book4you.org/book/767326/e0c9bf)
 
-- [ ] Title:[P. G. Ciarlet: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/P.%20G.%20Ciarlet)
+- [x] Title:[P. G. Ciarlet: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/P.%20G.%20Ciarlet)
 
-- [ ] Title:[Peter Fletcher: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Peter%20Fletcher)
+- [x] Title:[Peter Fletcher: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Peter%20Fletcher)
 
-- [ ] Title:[Ralph P. Grimaldi: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Ralph%20P.%20Grimaldi?regionChanged=&redirect=54408103&signAll=1&ts=1601)
+- [x] Title:[Ralph P. Grimaldi: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Ralph%20P.%20Grimaldi?regionChanged=&redirect=54408103&signAll=1&ts=1601)
 
-- [ ] Title:[Richard A. Brualdi: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Richard%20A.%20Brualdi)
+- [x] Title:[Richard A. Brualdi: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Richard%20A.%20Brualdi)
 
-- [ ] Title:[Robert E. Tarjan: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Robert%20E.%20Tarjan)
+- [x] Title:[Robert E. Tarjan: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Robert%20E.%20Tarjan)
 
-- [ ] Title:[The mathematical foundation of informatics. Conf. Hanoi, 1999 | Mathematical Foundation of Informatics, Long Van Do, Masami Ito | download]( https://book4you.org/book/746927/2f1465)
+- [x] Title:[The mathematical foundation of informatics. Conf. Hanoi, 1999 | Mathematical Foundation of Informatics, Long Van Do, Masami Ito | download]( https://book4you.org/book/746927/2f1465)
 
-- [ ] Title:[The Modern Role of Bond Covenants (The Research Foundation of AIMR and Blackwell Series in Finance) | Ileen Malitz | download]( https://book4you.org/book/906601/07c73e)
+- [x] Title:[The Modern Role of Bond Covenants (The Research Foundation of AIMR and Blackwell Series in Finance) | Ileen Malitz | download]( https://book4you.org/book/906601/07c73e)
 
-- [ ] Title:[Titu Andreescu: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Titu%20Andreescu)
+- [x] Title:[Titu Andreescu: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Titu%20Andreescu)
 
-- [ ] Title:[Zuming Feng: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Zuming%20Feng)
+- [x] Title:[Zuming Feng: free download. Ebooks library. On-line books store on Z-Library]( https://book4you.org/g/Zuming%20Feng)
 
 ---
 
 
 24/11/2020
 
-- [ ] Title:[Combinatorial Problems and Exercises | László Lovász | download]( https://b-ok.cc/book/5232381/b1b384)
+- [x] Title:[Combinatorial Problems and Exercises | László Lovász | download]( https://b-ok.cc/book/5232381/b1b384)
 
-- [ ] Title:[Digital Logic and Computer Design. | M. Morris Mano. | download]( https://b-ok.cc/book/5440626/3f7461?dsource=recommend)
+- [x] Title:[Digital Logic and Computer Design. | M. Morris Mano. | download]( https://b-ok.cc/book/5440626/3f7461?dsource=recommend)
 
-- [ ] Title:[Discrete and Combinatorial Mathematics ,5e (Instructor's Solution Manual) | Ralph P. Grimaldi | download]( https://b-ok.cc/book/1170617/2436db)
+- [x] Title:[Discrete and Combinatorial Mathematics ,5e (Instructor's Solution Manual) | Ralph P. Grimaldi | download]( https://b-ok.cc/book/1170617/2436db)
 
-- [ ] Title:[Discrete and Combinatorial Mathematics: An Applied Introduction, Fifth Edition | Ralph P. Grimaldi | download]( https://b-ok.cc/book/766692/9b3767)
+- [x] Title:[Discrete and Combinatorial Mathematics: An Applied Introduction, Fifth Edition | Ralph P. Grimaldi | download]( https://b-ok.cc/book/766692/9b3767)
 
 ---
